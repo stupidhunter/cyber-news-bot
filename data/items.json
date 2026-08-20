@@ -1,5 +1,2776 @@
 [
  {
+  "source": "Cloudflare Blog",
+  "title": "From all-or-nothing to task-based OAuth consent",
+  "link": "https://blog.cloudflare.com/task-based-oauth-consent/",
+  "published": "2026-08-20T17:03:03+00:00",
+  "summary": "Cloudflare OAuth now supports optional scopes, giving users more control over what an app can access and helping developers build secure consent flows around the task at hand.",
+  "categories": [
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "5ca3d97b3126905cc09429c9ae47eceeaebf4532"
+ },
+ {
+  "source": "AWS Security Blog",
+  "title": "AWS Network Firewall now supports rule hit count",
+  "link": "https://aws.amazon.com/blogs/security/aws-network-firewall-now-supports-rule-hit-count/",
+  "published": "2026-08-20T18:40:20+00:00",
+  "summary": "As firewall rule sets grow in complexity, security teams face a common challenge: manual log analysis is used to determine which rules are actively matching traffic and which are consuming capacity without being triggered. This lack of visibility creates operational and compliance gaps. Organizations with governance policies that require removal of dormant rules after a […]",
+  "categories": [
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "3e00ee2b1b8ebf133747c493598bde86727f2352"
+ },
+ {
+  "source": "OpenAI News",
+  "title": "Introducing AI Futures",
+  "link": "https://openai.com/index/introducing-ai-futures",
+  "published": "2026-08-20T07:00:00+00:00",
+  "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "e009308fbe859730961022393bd314280876dbba"
+ },
+ {
+  "source": "Schneier on Security",
+  "title": "Detailed Timeline of OpenAI’s Cyberattack on Hugging Face",
+  "link": "https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html",
+  "published": "2026-08-20T17:44:36+00:00",
+  "summary": "OpenAI presented details of its AI&#8217;s model&#8217;s cyberattack on Hugging Face at Black Hat last week. Simon Willison details the timeline. It&#8217;s really interesting to read through&#8212;and really impressive cyberoffense work.",
+  "categories": [
+   "ai",
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "7e6daa8d6e09017feed7587c5a1c057c0d40adba"
+ },
+ {
+  "source": "Talos Blog",
+  "title": "Is Cyber missing the Marque?",
+  "link": "https://blog.talosintelligence.com/is-cyber-missing-the-marque/",
+  "published": "2026-08-20T18:00:18+00:00",
+  "summary": "In this week's newsletter, new author Mick Baccio introduces himself and explores the operational and security implications of the new White House memorandum regarding private sector participation in government-authorized offensive cyber operations.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "5e1fe79536a8d63bb776ec9a0795f2c152e1a0b4"
+ },
+ {
+  "source": "DarkReading",
+  "title": "Calling on Cyber Pros to Help Defend City Hall",
+  "link": "https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall",
+  "published": "2026-08-21T14:00:00+00:00",
+  "summary": "Government agencies with smaller budgets need support — and here's how you can help.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "40f3d7d08dd292f6f533eb775e16470d063b77e8"
+ },
+ {
+  "source": "DarkReading",
+  "title": "What We Missed: Delta Flight Disrupted With Wi-Fi Hack",
+  "link": "https://www.darkreading.com/cyber-risk/delta-flight-disrupted-wi-fi-hack",
+  "published": "2026-08-20T19:11:15+00:00",
+  "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, including some scary airplane security risks and the US government's newest &quot;hack back&quot; strategy.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "0fb617c1395999bbdca49df67a0a48c599bff248"
+ },
+ {
+  "source": "DarkReading",
+  "title": "N-able Bug Exposes Password Vault Master Keys",
+  "link": "https://www.darkreading.com/vulnerabilities-threats/n-able-bug-password-vault-master-keys",
+  "published": "2026-08-20T17:39:24+00:00",
+  "summary": "The popular &quot;Passportal&quot; password manager, favored by MSPs and SMBs, remains risky even after its patch, thanks to its cloud-based design. Should these products stay away from the cloud entirely?",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "8e89f87dda1b48bb5a53cf0558d2f9a6b36c1713"
+ },
+ {
+  "source": "DarkReading",
+  "title": "Money and Mindset: The Two Biggest Roadblocks to Cyber Policing",
+  "link": "https://www.darkreading.com/cybersecurity-operations/money-and-mindset-the-two-biggest-roadblocks-to-cyber-policing",
+  "published": "2026-08-20T17:32:51+00:00",
+  "summary": "Law enforcement training is not keeping pace with the volume and rapid evolution of cybercrimes, though officers really only need to learn the basics, but focus and budgets hinder progress.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "504a9d49ea36ccafcfca9ddb9f6b9618ea71b1b1"
+ },
+ {
+  "source": "The Record",
+  "title": "China’s ‘SilkParasite’ espionage operation targeting Central Asia with AI-assisted malware",
+  "link": "https://therecord.media/china-cyber-espionage-central-asia",
+  "published": "2026-08-20T19:30:00+00:00",
+  "summary": "Suspected military-grade hackers based in China used artificial intelligence to develop malware in a campaign to penetrate Central Asian governments.",
+  "categories": [
+   "ai",
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "2ee72a8cd4f4f2effbe299c6e7859898d7261d1f"
+ },
+ {
+  "source": "The Record",
+  "title": "Senators press TikTok over withholding of safety features for some users",
+  "link": "https://therecord.media/senators-press-tiktok-over-withholding-safety-features",
+  "published": "2026-08-20T17:33:00+00:00",
+  "summary": "In a letter on Wednesday, Sens. Marsha Blackburn (R-TN) and Richard Blumenthal (D-CT) criticized the company for having “knowingly withheld a critical safety measure for millions of American users.\"",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "6bbefb31e801340cda357ee92443b1109f429435"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
+  "link": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
+  "published": "2026-08-20T19:59:19+00:00",
+  "summary": "Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think tanks across Europe, as well as academia and think tanks within the U.S. These clusters include UNC6293, UNC7005, and UNC5976. \"These clusters engage in persistent, adaptive",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "653d8cc3d755130bbfcc6d4a497d1c45f0b205ee"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More",
+  "link": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
+  "published": "2026-08-20T17:23:48+00:00",
+  "summary": "A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do. Signed drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to code execution. Elsewhere, exposed systems, old bugs, odd hiding tricks, and AI-assisted exploit research keep lowering the effort needed to cause damage. Nothing here needs",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "63d3b03fea896170b49360245a7fff3a33b5fdd6"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
+  "link": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
+  "published": "2026-08-20T16:59:44+00:00",
+  "summary": "The U.S. government on Wednesday warned of an \"active threat\" targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts. The activity is targeting Siemens S7 SeriesProgrammable Logic Controllers (PLCs) to conduct reconnaissance and capability development using AI-generated scripts disguised as legitimate monitoring tools. That",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "fe0e533749f543e720fccdbb7a5261f9c1c57ec4"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2026-72530 — TrueConf Server Code Injection Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72530",
+  "published": "2026-08-20",
+  "summary": "TrueConf Server contains a code injection vulnerability that could allow an unauthorized remote attacker with network access via port 4307/TCP to use a specially crafted script to break out of the isolated environment and execute arbitrary code on the host system.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-72530",
+   "vendor": "TrueConf",
+   "product": "Server",
+   "due_date": "2026-09-03",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "",
+  "key": "19f2ccf7f3f69e51af97abdbaa06146911940e58"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2026-72529 — TrueConf Server Missing Authentication for Critical Function Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72529",
+  "published": "2026-08-20",
+  "summary": "TrueConf Server contains a missing authentication for critical function vulnerability which could allow a remote unauthorized attacker with network access via port 4307/TCP to execute an arbitrary script.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-72529",
+   "vendor": "TrueConf",
+   "product": "Server",
+   "due_date": "2026-08-23",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "",
+  "key": "b799810906894f1a3a50a852e81d6c4669b25d76"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-13121 — Parallels RAS Client RDP Backend Service Exposed Dangerous Function Local Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-13121",
+  "published": "2026-08-20T17:17:20.787",
+  "summary": "Parallels RAS Client RDP Backend Service Exposed Dangerous Function Local Privilege Escalation Vulnerability. This vulnerability allows local attackers to escalate privileges on affected installations of Parallels RAS Client. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability.\n\nThe specific flaw exists within the RAS RDP Backend Service. The issue results from an exposed dangerous function. An attacker can leverage this vulnerability to escalate privileges and execute arbitrary code in the context of SYSTEM. Was ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-13121",
+   "cvss": 7.8,
+   "ref": "https://www.zerodayinitiative.com/advisories/ZDI-26-554/"
+  },
+  "title_vi": "CVE-2026-13121 — Dịch vụ phụ trợ RDP của khách hàng Parallels RAS có chức năng nguy hiểm Lỗ hổng leo thang đặc quyền cục bộ",
+  "key": "b99506251abf23a668b7d0bb367f80fce730a623"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-15679 — Hugging Face PyTorch Image Models checkpoint Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-15679",
+  "published": "2026-08-20T17:17:21.050",
+  "summary": "Hugging Face PyTorch Image Models checkpoint Deserialization of Untrusted Data Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Hugging Face PyTorch Image Models. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.\n\nThe specific flaw exists within the parsing of checkpoints. The issue results from the lack of proper validation of user-supplied data, which can result in deserialization of untrusted data. An attacker can leverage th",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-15679",
+   "cvss": 7.8,
+   "ref": "https://www.zerodayinitiative.com/advisories/ZDI-26-523/"
+  },
+  "title_vi": "CVE-2026-15679 — Điểm kiểm tra mô hình hình ảnh PyTorch ôm mặt Quá trình hủy tuần tự hóa dữ liệu không đáng tin cậy Lỗ hổng thực thi mã từ xa",
+  "key": "0d7c6ad0601464946a30344a928c06475fde3336"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-15686 — Adminer multi_query Incorrect Check of Function Return Value Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-15686",
+  "published": "2026-08-20T17:17:21.180",
+  "summary": "Adminer multi_query Incorrect Check of Function Return Value Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Adminer. Authentication is required to exploit this vulnerability.\n\nThe specific flaw exists within the multi_query method. The issue results from an incorrect check of a function return value. An attacker can leverage this vulnerability to execute code in the context of the web server. Was ZDI-CAN-28201.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-15686",
+   "cvss": 7.2,
+   "ref": "https://github.com/vrana/adminer/security/advisories/GHSA-3582-q6xq-5vf7#event-826206"
+  },
+  "title_vi": "CVE-2026-15686 — Quản trị viên multi_query Kiểm tra hàm không chính xác Giá trị trả về Lỗ hổng thực thi mã từ xa",
+  "key": "4cec1c390910d2ce2e4a09da93644617b77da05c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18262 — Parallels RAS Client RDP Backend Service Exposed Dangerous Function Local Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18262",
+  "published": "2026-08-20T17:17:22.653",
+  "summary": "Parallels RAS Client RDP Backend Service Exposed Dangerous Function Local Privilege Escalation Vulnerability. This vulnerability allows local attackers to escalate privileges on affected installations of Parallels RAS Client. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability.\n\nThe specific flaw exists within the RAS RDP Backend Service. The issue results from an exposed dangerous function. An attacker can leverage this vulnerability to escalate privileges and execute arbitrary code in the context of SYSTEM. Was ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18262",
+   "cvss": 7.8,
+   "ref": "https://www.zerodayinitiative.com/advisories/ZDI-26-555/"
+  },
+  "title_vi": "CVE-2026-18262 — Dịch vụ phụ trợ RDP của khách hàng Parallels RAS có chức năng nguy hiểm Lỗ hổng leo thang đặc quyền cục bộ",
+  "key": "9f288ce746e9f7c0722d57460b2c49fbe8cb74d2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18263 — Parallels RAS Client RDP Backend Service Exposed Dangerous Function Local Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18263",
+  "published": "2026-08-20T17:17:22.773",
+  "summary": "Parallels RAS Client RDP Backend Service Exposed Dangerous Function Local Privilege Escalation Vulnerability. This vulnerability allows local attackers to escalate privileges on affected installations of Parallels RAS Client. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability.\n\nThe specific flaw exists within the RAS RDP Backend Service. The issue results from an exposed dangerous function. An attacker can leverage this vulnerability to escalate privileges and execute arbitrary code in the context of SYSTEM. Was ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18263",
+   "cvss": 7.8,
+   "ref": "https://www.zerodayinitiative.com/advisories/ZDI-26-556/"
+  },
+  "title_vi": "CVE-2026-18263 — Dịch vụ phụ trợ RDP của khách hàng Parallels RAS có chức năng nguy hiểm Lỗ hổng leo thang đặc quyền cục bộ",
+  "key": "2d750863fd7c3a0111b67f27393648c7c50ff4c0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18264 — NoMachine getstat Command Injection Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18264",
+  "published": "2026-08-20T17:17:22.890",
+  "summary": "NoMachine getstat Command Injection Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of NoMachine. Authentication is required to exploit this vulnerability.\n\nThe specific flaw exists within the web service, which listens on TCP port 4000 by default. The issue results from the lack of proper validation of a user-supplied string before using it to execute a system call. An attacker can leverage this vulnerability to execute code in the context of the service account.\n. Was ZDI-CAN-30634.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18264",
+   "cvss": 8.8,
+   "ref": "https://kb.nomachine.com/TR06X11869"
+  },
+  "title_vi": "CVE-2026-18264 — Lỗ hổng thực thi mã từ xa NoMachine getstat",
+  "key": "bf5787e947ee011e3571f958ac8dbb8e161d0cc5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18265 — OSNEXUS QuantaStor Missing Authentication Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18265",
+  "published": "2026-08-20T17:17:23.017",
+  "summary": "OSNEXUS QuantaStor Missing Authentication Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of OSNEXUS QuantaStor. Authentication is not required to exploit this vulnerability.\n\nThe specific flaw exists within the configuration of Kapacitor. The issue results from the lack of authentication prior to allowing access to functionality. An attacker can leverage this vulnerability to execute code in the context of root. Was ZDI-CAN-30036.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18265",
+   "cvss": 9.8,
+   "ref": "https://www.zerodayinitiative.com/advisories/ZDI-26-480/"
+  },
+  "title_vi": "CVE-2026-18265 — Lỗ hổng thực thi mã từ xa thiếu xác thực OSNEXUS QuantaStor",
+  "key": "0a6723be415cce553359c4415c834139a6e95dc0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18267 — Kenwood DNR1007XR Firmware Update Link Following Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18267",
+  "published": "2026-08-20T17:17:23.140",
+  "summary": "Kenwood DNR1007XR Firmware Update Link Following Code Execution Vulnerability. This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Kenwood DNR1007XR devices. Authentication is not required to exploit this vulnerability.\n\nThe specific flaw exists within the firmware update process. By creating a symbolic link, an attacker can abuse the service to move a file to an arbitrary location. An attacker can leverage this vulnerability to execute code in the context of root. Was ZDI-CAN-28751.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18267",
+   "cvss": 6.8,
+   "ref": "https://www.kenwood.com/cs/ce/mm/firmware/2020/2020f/eng.html"
+  },
+  "title_vi": "CVE-2026-18267 — Liên kết cập nhật chương trình cơ sở Kenwood DNR1007XR Sau lỗ hổng thực thi mã",
+  "key": "0853200447e13a5f784092d1c310fdeb7debbc11"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18268 — Kenwood DNR1007XR JKGenService Command Injection Local Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18268",
+  "published": "2026-08-20T17:17:23.277",
+  "summary": "Kenwood DNR1007XR JKGenService Command Injection Local Privilege Escalation Vulnerability. This vulnerability allows local attackers to escalate privileges on affected installations of Kenwood DNR1007XR devices. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability.\n\nThe specific flaw exists within the JKGenService. The issue results from the lack of proper validation of a user-supplied string before using it to execute a system call. An attacker can leverage this vulnerability to escalate privileges and execute arb",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18268",
+   "cvss": 7.0,
+   "ref": "https://www.kenwood.com/cs/ce/mm/firmware/2020/2020f/eng.html"
+  },
+  "title_vi": "CVE-2026-18268 — Lỗ hổng nâng cao đặc quyền cục bộ của Kenwood DNR1007XR JKGenService",
+  "key": "afd4222ab98cab4b3304961485c9508a49c2c259"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18269 — Kenwood DNR1007XR tchdr_bytestream_read Out-Of-Bounds Write Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18269",
+  "published": "2026-08-20T17:17:23.393",
+  "summary": "Kenwood DNR1007XR tchdr_bytestream_read Out-Of-Bounds Write Code Execution Vulnerability. This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Kenwood DNR1007XR devices. Authentication is not required to exploit this vulnerability.\n\nThe specific flaw exists within the tchdr_bytestream_read function. The issue results from the lack of proper validation of user-supplied data, which can result in a write past the end of an allocated buffer. An attacker can leverage this vulnerability to execute code in the context of root. Was ZDI-CAN-28980",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18269",
+   "cvss": 6.8,
+   "ref": "https://www.kenwood.com/cs/ce/mm/firmware/2020/2020f/eng.html"
+  },
+  "title_vi": "CVE-2026-18269 — Kenwood DNR1007XR tchdr_bytestream_read Lỗ hổng thực thi mã viết ngoài giới hạn",
+  "key": "f774c0735366bbb58d92a86787dc53d95cdf63e8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18270 — Kenwood DNR1007XR udhcpd Incorrect Permission Assignment Local Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18270",
+  "published": "2026-08-20T17:17:23.513",
+  "summary": "Kenwood DNR1007XR udhcpd Incorrect Permission Assignment Local Privilege Escalation Vulnerability. This vulnerability allows local attackers to escalate privileges on affected installations of Kenwood DNR1007XR devices. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability.\n\nThe specific flaw exists within the udhcpd service. The issue results from incorrect permissions set on a resource used by the service. An attacker can leverage this vulnerability to escalate privileges and execute code in the context of root. W",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18270",
+   "cvss": 7.8,
+   "ref": "https://www.kenwood.com/cs/ce/mm/firmware/2020/2020f/eng.html"
+  },
+  "title_vi": "CVE-2026-18270 — Kenwood DNR1007XR udhcpd Phân quyền không chính xác Lỗ hổng leo thang đặc quyền cục bộ",
+  "key": "c929513d18d9510e068ad83fb9a5b30746c509c1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18271 — Kenwood DNR1007XR vCardParser Heap-based Buffer Overflow Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18271",
+  "published": "2026-08-20T17:17:23.640",
+  "summary": "Kenwood DNR1007XR vCardParser Heap-based Buffer Overflow Code Execution Vulnerability. This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Kenwood DNR1007XR devices. Authentication is not required to exploit this vulnerability.\n\nThe specific flaw exists within the vCardParser class. The issue results from the lack of proper validation of a user-supplied string before copying it to a heap-based buffer. An attacker can leverage this vulnerability to execute code in the context of root. Was ZDI-CAN-28974.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18271",
+   "cvss": 6.8,
+   "ref": "https://www.kenwood.com/cs/ce/mm/firmware/2020/2020f/eng.html"
+  },
+  "title_vi": "CVE-2026-18271 — Kenwood DNR1007XR vCardParser Lỗ hổng thực thi mã tràn bộ đệm dựa trên Heap",
+  "key": "88bdc3d3ff03ff7fae7e0f334c3b3fa1c032d627"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18272 — Kenwood DNR1007XR startUpdateProcess Command Injection Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18272",
+  "published": "2026-08-20T17:17:23.757",
+  "summary": "Kenwood DNR1007XR startUpdateProcess Command Injection Vulnerability. This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Kenwood DNR1007XR devices. Authentication is not required to exploit this vulnerability.\n\nThe specific flaw exists within the startUpdateProcess method. The issue results from the lack of proper validation of a user-supplied string before using it to execute a system call. An attacker can leverage this vulnerability to execute arbitrary code in the context of root. Was ZDI-CAN-28981.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18272",
+   "cvss": 6.8,
+   "ref": "https://www.kenwood.com/cs/ce/mm/firmware/2020/2020f/eng.html"
+  },
+  "title_vi": "CVE-2026-18272 — Lỗ hổng chèn lệnh Kenwood DNR1007XR startUpdateProcess",
+  "key": "f6c16be62166206ff708827699a12f0656e60c1b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18273 — Kenwood DNR1007XR USB Incorrect Default Permissions Local Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18273",
+  "published": "2026-08-20T17:17:23.880",
+  "summary": "Kenwood DNR1007XR USB Incorrect Default Permissions Local Privilege Escalation Vulnerability. This vulnerability allows physically present attackers to escalate privileges on affected installations of Kenwood DNR1007XR devices. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability.\n\nThe specific flaw exists within the configuration of the mount point for the USB filesystem. The issue results from incorrect permissions on a directory used by the product. An attacker can leverage this vulnerability to escalate privile",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18273",
+   "cvss": 6.6,
+   "ref": "https://www.kenwood.com/cs/ce/mm/firmware/2020/2020f/eng.html"
+  },
+  "title_vi": "CVE-2026-18273 — Kenwood DNR1007XR USB Quyền mặc định không chính xác Lỗ hổng nâng cao đặc quyền cục bộ",
+  "key": "056b2c8a4a63b0f237072d59d0a922eed3cc93b5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18274 — Heimdall Data Database Proxy uploadJar Directory Traversal Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18274",
+  "published": "2026-08-20T17:17:24.003",
+  "summary": "Heimdall Data Database Proxy uploadJar Directory Traversal Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Heimdall Data Database Proxy. Authentication is required to exploit this vulnerability.\n\nThe specific flaw exists within the uploadJar method. The issue results from the lack of proper validation of a user-supplied path prior to using it in file operations. An attacker can leverage this vulnerability to execute code in the context of root. Was ZDI-CAN-28603.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18274",
+   "cvss": 7.2,
+   "ref": "https://www.zerodayinitiative.com/advisories/ZDI-26-479/"
+  },
+  "title_vi": "CVE-2026-18274 — Lỗ hổng thực thi mã từ xa tải lên proxy cơ sở dữ liệu HeimdallJar Directory Traversal",
+  "key": "07c30f4c1d6229c272537c8aeb110358b4c294fb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18278 — Sony XAV-9500ES prh_l2_decode_packet Out-Of-Bounds Read Information Disclosure Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18278",
+  "published": "2026-08-20T17:17:24.123",
+  "summary": "Sony XAV-9500ES prh_l2_decode_packet Out-Of-Bounds Read Information Disclosure Vulnerability. This vulnerability allows network-adjacent attackers to disclose sensitive information on affected installations of Sony XAV-9500ES devices. An attacker must first obtain the ability to pair a malicious Bluetooth device with the target system in order to exploit this vulnerability.\n\nThe specific flaw exists within the handling of Bluetooth L2CAP packets. The issue results from the lack of proper validation of user-supplied data, which can result in a read past the end of an allocated buffer. An attack",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18278",
+   "cvss": 3.5,
+   "ref": "https://www.sony.com/electronics/support/mobile-cd-players-digital-media-players-xav-series/xav-9500es/software/00274922"
+  },
+  "title_vi": "CVE-2026-18278 — Sony XAV-9500ES prh_l2_decode_packet Đọc ngoài giới hạn Lỗ hổng tiết lộ thông tin",
+  "key": "9d254f9d5ee640442d1f10edfec90b4e0b12bfe1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18279 — Sony XAV-9500ES RTSP SETUP Buffer Overflow Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18279",
+  "published": "2026-08-20T17:17:24.280",
+  "summary": "Sony XAV-9500ES RTSP SETUP Buffer Overflow Remote Code Execution Vulnerability. This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Sony XAV-9500ES devices. Authentication is not required to exploit this vulnerability.\n\nThe specific flaw exists within the handling of SETUP RTSP packets. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a fixed-length buffer. An attacker can leverage this vulnerability to execute code in the context of the device. Was ZDI-CAN-29042.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18279",
+   "cvss": 8.8,
+   "ref": "https://www.sony.com/electronics/support/mobile-cd-players-digital-media-players-xav-series/xav-9500es/software/00274922"
+  },
+  "title_vi": "CVE-2026-18279 — Lỗ hổng thực thi mã từ xa tràn bộ đệm Sony XAV-9500ES RTSP",
+  "key": "54377ea0f9a4013f9f67d434207243ece822435b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18280 — Sony XAV-9500ES gpsd Buffer Overflow Arbitrary Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18280",
+  "published": "2026-08-20T17:17:24.403",
+  "summary": "Sony XAV-9500ES gpsd Buffer Overflow Arbitrary Code Execution Vulnerability. This vulnerability allows physically present attackers to execute arbitrary code on affected installations of Sony XAV-9500ES devices. Authentication is not required to exploit this vulnerability.\n\nThe specific flaw exists within the handling of NMEA data by the gpsd daemon. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a fixed-length buffer. An attacker can leverage this in conjunction with other vulnerabilities to execute code in the context of the gp",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18280",
+   "cvss": 3.9,
+   "ref": "https://www.sony.com/electronics/support/mobile-cd-players-digital-media-players-xav-series/xav-9500es/software/00274922"
+  },
+  "title_vi": "CVE-2026-18280 — Lỗ hổng thực thi mã tùy ý của Sony XAV-9500ES gpsd",
+  "key": "ae9196d387f7651625f31232b20a411a1af24c7f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18281 — Sony XAV-9500ES l2_reassemble_sdu Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18281",
+  "published": "2026-08-20T17:17:24.523",
+  "summary": "Sony XAV-9500ES l2_reassemble_sdu Heap-based Buffer Overflow Remote Code Execution Vulnerability. This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Sony XAV-9500ES devices. An attacker must first obtain the ability to pair a malicious Bluetooth device with the target system in order to exploit this vulnerability.\n\nThe specific flaw exists within the handling of Bluetooth L2CAP packets. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a heap-based buffer. An attacker can leve",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18281",
+   "cvss": 8.0,
+   "ref": "https://www.sony.com/electronics/support/mobile-cd-players-digital-media-players-xav-series/xav-9500es/software/00274922"
+  },
+  "title_vi": "CVE-2026-18281 — Sony XAV-9500ES l2_reassemble_sdu Lỗ hổng thực thi mã từ xa tràn bộ đệm dựa trên Heap",
+  "key": "98c6b87d2987223cbd84ad70e5baf0c9e1188b70"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18282 — Sony XAV-9500ES AVRCP_Br_Response_Parser Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18282",
+  "published": "2026-08-20T17:17:24.643",
+  "summary": "Sony XAV-9500ES AVRCP_Br_Response_Parser Heap-based Buffer Overflow Remote Code Execution Vulnerability. This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of Sony XAV-9500ES devices. An attacker must first obtain the ability to pair a malicious Bluetooth device with the target system in order to exploit this vulnerability.\n\nThe specific flaw exists within the handling of AVRCP packets. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a heap-based buffer. An attacker can leverag",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18282",
+   "cvss": 8.0,
+   "ref": "https://www.sony.com/electronics/support/mobile-cd-players-digital-media-players-xav-series/xav-9500es/software/00274922"
+  },
+  "title_vi": "CVE-2026-18282 — Sony XAV-9500ES AVRCP_Br_Response_Parser Lỗ hổng thực thi mã từ xa tràn bộ đệm dựa trên Heap",
+  "key": "5437ba0f07ef82ade191b568700b390c43d789fa"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18283 — Sony XAV-9500ES udev USB Rules Authorization Bypass Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18283",
+  "published": "2026-08-20T17:17:24.763",
+  "summary": "Sony XAV-9500ES udev USB Rules Authorization Bypass Vulnerability. This vulnerability allows physically present attackers to bypass authorization on affected installations on Sony XAV-9500ES devices. Authentication is not required to exploit this vulnerability.\n\nThe specific flaw exists within the udev rules. A crafted USB device connected to the system can trigger instantiation of otherwise restricted USB device types. An attacker can leverage this vulnerability to bypass authorization on the system. Was ZDI-CAN-28992.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18283",
+   "cvss": 2.4,
+   "ref": "https://www.sony.com/electronics/support/mobile-cd-players-digital-media-players-xav-series/xav-9500es/software/00274922"
+  },
+  "title_vi": "CVE-2026-18283 — Lỗ hổng vượt qua quy tắc ủy quyền USB udev của Sony XAV-9500ES",
+  "key": "5106c1a94680b374dfc62c8424155c35452e1858"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18284 — Sony XAV-9500ES Crash Dump Handler Command Injection Local Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18284",
+  "published": "2026-08-20T17:17:24.883",
+  "summary": "Sony XAV-9500ES Crash Dump Handler Command Injection Local Privilege Escalation Vulnerability. This vulnerability allows local attackers to escalate privileges on affected installations of Sony XAV-9500ES devices. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability.\n\nThe specific flaw exists within the handling of process crash dumps. The issue results from the lack of proper validation of a user-supplied string before using it to execute a system call. An attacker can leverage this vulnerability to escalate privi",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18284",
+   "cvss": 7.8,
+   "ref": "https://www.sony.com/electronics/support/mobile-cd-players-digital-media-players-xav-series/xav-9500es/software/00274922"
+  },
+  "title_vi": "CVE-2026-18284 — Lỗ hổng nâng cao đặc quyền cục bộ của Sony XAV-9500ES Trình xử lý kết xuất sự cố",
+  "key": "f1459c87bb9e89991d14f7496f6469f40767328a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18285 — Aeon load_rehab_pile_dataset Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18285",
+  "published": "2026-08-20T17:17:25.007",
+  "summary": "Aeon load_rehab_pile_dataset Deserialization of Untrusted Data Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Aeon. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.\n\nThe specific flaw exists within the load_rehab_pile_dataset method. The issue results from the lack of proper validation of user-supplied data, which can result in deserialization of untrusted data. An attacker can leverage this vulnerability to execute code in t",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18285",
+   "cvss": 7.8,
+   "ref": "https://github.com/aeon-toolkit/aeon/commit/751918052c0cce266b4f7cd4b084408526efc015"
+  },
+  "title_vi": "CVE-2026-18285 — Aeon Load_rehab_pile_dataset Deserialization của lỗ hổng thực thi mã từ xa dữ liệu không đáng tin cậy",
+  "key": "2acc19539bd9edd461ee54c1f0c792dea5738ed3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18286 — Aeon load_human_activity_segmentation_datasets Code Injection Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18286",
+  "published": "2026-08-20T17:17:25.140",
+  "summary": "Aeon load_human_activity_segmentation_datasets Code Injection Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of aeon. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.\n\nThe specific flaw exists within the load_human_activity_segmentation_datasets method. The issue results from the lack of proper validation of a user-supplied string before using it to execute Python code. An attacker can leverage this vulnerability to execute code",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18286",
+   "cvss": 7.8,
+   "ref": "https://github.com/aeon-toolkit/aeon/commit/751918052c0cce266b4f7cd4b084408526efc015"
+  },
+  "title_vi": "CVE-2026-18286 — Lỗ hổng thực thi mã từ xa Aeon Load_human_activity_segmentation_datasets",
+  "key": "7cfdaf20234bc97134e90dc9dc29df647625cb2a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18287 — Aeon load_time_series_segmentation_benchmark Code Injection Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18287",
+  "published": "2026-08-20T17:17:25.263",
+  "summary": "Aeon load_time_series_segmentation_benchmark Code Injection Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of aeon. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.\n\nThe specific flaw exists within the load_time_series_segmentation_benchmark method. The issue results from the lack of proper validation of a user-supplied string before using it to execute Python code. An attacker can leverage this vulnerability to execute code in ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18287",
+   "cvss": 7.8,
+   "ref": "https://github.com/aeon-toolkit/aeon/commit/751918052c0cce266b4f7cd4b084408526efc015"
+  },
+  "title_vi": "CVE-2026-18287 — Lỗ hổng thực thi mã từ xa Aeon Load_time_series_segmentation_benchmark",
+  "key": "cc2843fad12c34e06c26e15560604017664b74f8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18288 — OriginLab OriginPro OPJU File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18288",
+  "published": "2026-08-20T17:17:25.397",
+  "summary": "OriginLab OriginPro OPJU File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of OriginLab OriginPro. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.\n\nThe specific flaw exists within the parsing of OPJU files. The issue results from the lack of proper validation of user-supplied data, which can result in a write past the end of an allocated data structure. An attacker can leverage this vulnerability t",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18288",
+   "cvss": 7.8,
+   "ref": "https://docs.originlab.com/cve/CVE-2026-18288"
+  },
+  "title_vi": "CVE-2026-18288 — OriginLab OriginPro OPJU Phân tích cú pháp tệp ngoài giới hạn Ghi lỗ hổng thực thi mã từ xa",
+  "key": "370809f8c3e50713b4e9c06ac256d8680843e7b2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18289 — OriginLab OriginPro OPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18289",
+  "published": "2026-08-20T17:17:25.523",
+  "summary": "OriginLab OriginPro OPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of OriginLab OriginPro. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.\n\nThe specific flaw exists within the parsing of OPJ files. The issue results from the lack of proper validation of user-supplied data, which can result in a write past the end of an allocated data structure. An attacker can leverage this vulnerability to ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18289",
+   "cvss": 7.8,
+   "ref": "https://docs.originlab.com/cve/CVE-2026-18289"
+  },
+  "title_vi": "CVE-2026-18289 — OriginLab OriginPro OPJ Phân tích cú pháp tệp ngoài giới hạn Ghi lỗ hổng thực thi mã từ xa",
+  "key": "143ff1b48058f1b451c5c7b252bd833d63cd4734"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18290 — OriginLab OriginPro OGG File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18290",
+  "published": "2026-08-20T17:17:25.647",
+  "summary": "OriginLab OriginPro OGG File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of OriginLab OriginPro. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.\n\nThe specific flaw exists within the parsing of OGG files. The issue results from the lack of proper validation of user-supplied data, which can result in a write past the end of an allocated data structure. An attacker can leverage this vulnerability to ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18290",
+   "cvss": 7.8,
+   "ref": "https://docs.originlab.com/cve/CVE-2026-18290"
+  },
+  "title_vi": "CVE-2026-18290 — OriginLab OriginPro OGG Phân tích cú pháp tệp ngoài giới hạn Ghi lỗ hổng thực thi mã từ xa",
+  "key": "0158a7ce04d48ea8ade9f6368dbb09a756828751"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18291 — OriginLab OriginPro OGW File Parsing Memory Corruption Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18291",
+  "published": "2026-08-20T17:17:25.767",
+  "summary": "OriginLab OriginPro OGW File Parsing Memory Corruption Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of OriginLab OriginPro. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.\n\nThe specific flaw exists within the parsing of OGW files. The issue results from the lack of proper validation of user-supplied data, which can result in a memory corruption condition. An attacker can leverage this vulnerability to execute code in the cont",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18291",
+   "cvss": 7.8,
+   "ref": "https://docs.originlab.com/cve/CVE-2026-18291"
+  },
+  "title_vi": "CVE-2026-18291 — Lỗ hổng thực thi mã từ xa OriginLab OriginPro OGW",
+  "key": "3d47772ab619ba9b2d449239fcaf56c909a4883c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18292 — OriginLab OriginPro OGG File Parsing Memory Corruption Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18292",
+  "published": "2026-08-20T17:17:25.890",
+  "summary": "OriginLab OriginPro OGG File Parsing Memory Corruption Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of OriginLab OriginPro . User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.\n\nThe specific flaw exists within the parsing of OGG files. The issue results from the lack of proper validation of user-supplied data, which can result in a memory corruption condition. An attacker can leverage this vulnerability to execute code in the con",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18292",
+   "cvss": 7.8,
+   "ref": "https://docs.originlab.com/cve/CVE-2026-18292"
+  },
+  "title_vi": "CVE-2026-18292 — Lỗ hổng thực thi mã từ xa OriginLab OriginPro OGG",
+  "key": "f3229c3c578eeadf473bc072e65ad424af6a4eea"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18293 — OriginLab Origin Viewer OPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18293",
+  "published": "2026-08-20T17:17:26.010",
+  "summary": "OriginLab Origin Viewer OPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of OriginLab Origin Viewer. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.\n\nThe specific flaw exists within the parsing of OPJ files. The issue results from the lack of proper validation of user-supplied data, which can result in a write past the end of an allocated data structure. An attacker can leverage this vulnerabi",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18293",
+   "cvss": 7.8,
+   "ref": "https://docs.originlab.com/cve/CVE-2026-18293"
+  },
+  "title_vi": "CVE-2026-18293 — OriginLab Origin Viewer Phân tích cú pháp tệp OPJ ngoài giới hạn Ghi lỗ hổng thực thi mã từ xa",
+  "key": "746ab3654ab4c1f25a4227bb01fee0a43915dec8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18294 — OriginLab Origin Viewer OGW File Parsing Memory Corruption Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18294",
+  "published": "2026-08-20T17:17:26.130",
+  "summary": "OriginLab Origin Viewer OGW File Parsing Memory Corruption Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of OriginLab Origin Viewer. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.\n\nThe specific flaw exists within the parsing of OGW files. The issue results from the lack of proper validation of user-supplied data, which can result in a memory corruption condition. An attacker can leverage this vulnerability to execute code in ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18294",
+   "cvss": 7.8,
+   "ref": "https://docs.originlab.com/cve/CVE-2026-18294"
+  },
+  "title_vi": "CVE-2026-18294 — OriginLab Origin Viewer OGW Phân tích tệp bộ nhớ Tham nhũng Lỗ hổng thực thi mã từ xa",
+  "key": "6aefc192a0800121fe2ba6ae00d5b70b19ea2348"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18295 — GStreamer MRF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18295",
+  "published": "2026-08-20T17:17:26.260",
+  "summary": "GStreamer MRF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of GStreamer. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.\n\nThe specific flaw exists within the parsing of MRF files. The issue results from the lack of proper validation of user-supplied data, which can result in a write past the end of an allocated buffer. An attacker can leverage this vulnerability to execute code in the context ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18295",
+   "cvss": 7.8,
+   "ref": "https://gstreamer.freedesktop.org/security/sa-2026-0050.html"
+  },
+  "title_vi": "CVE-2026-18295 — Phân tích tệp MRF GStreamer ngoài giới hạn Ghi lỗ hổng thực thi mã từ xa",
+  "key": "b4082a18e9e77626c262c4792a62283e8ea28da9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18296 — GStreamer MRF File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18296",
+  "published": "2026-08-20T17:17:26.390",
+  "summary": "GStreamer MRF File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of GStreamer. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.\n\nThe specific flaw exists within the parsing of MRF files. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a heap-based buffer. An attacker can leverage this vulnerability to execute code in the context o",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18296",
+   "cvss": 7.8,
+   "ref": "https://gstreamer.freedesktop.org/security/sa-2026-0050.html"
+  },
+  "title_vi": "CVE-2026-18296 — Lỗ hổng thực thi mã từ xa phân tích cú pháp tệp GStreamer MRF",
+  "key": "8a54c8dda395e245615bbef6b583bc0f9acfdab3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18297 — GStreamer OGG File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18297",
+  "published": "2026-08-20T17:17:26.507",
+  "summary": "GStreamer OGG File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of GStreamer. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.\n\nThe specific flaw exists within the parsing of OGG files. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a stack-based buffer. An attacker can leverage this vulnerability to execute code in the context",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18297",
+   "cvss": 7.8,
+   "ref": "https://gstreamer.freedesktop.org/security/sa-2026-0053.html"
+  },
+  "title_vi": "CVE-2026-18297 — Lỗ hổng thực thi mã từ xa phân tích cú pháp tệp OGG của GStreamer",
+  "key": "bc68b7ce319265d154aa97badef3d9d53f4dfa6e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18298 — GStreamer PNG File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18298",
+  "published": "2026-08-20T17:17:26.643",
+  "summary": "GStreamer PNG File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of GStreamer. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.\n\nThe specific flaw exists within the parsing of PNG files. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a heap-based buffer. An attacker can leverage this vulnerability to execute code in the context o",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18298",
+   "cvss": 7.8,
+   "ref": "https://gstreamer.freedesktop.org/security/sa-2026-0052.html"
+  },
+  "title_vi": "CVE-2026-18298 — Lỗ hổng thực thi mã từ xa phân tích cú pháp tệp PNG của GStreamer",
+  "key": "714784bb457912ec471a3546c07ecf17de2cc290"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18299 — GStreamer rtpsbcdepay Use-After-Free Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18299",
+  "published": "2026-08-20T17:17:26.767",
+  "summary": "GStreamer rtpsbcdepay Use-After-Free Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of GStreamer. Interaction with this library is required to exploit this vulnerability but attack vectors may vary depending on the implementation.\n\nThe specific flaw exists within the processing of RTP payload elements. The issue results from the lack of validating the existence of an object prior to performing operations on the object. An attacker can leverage this vulnerability to execute code in the context of the current pr",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18299",
+   "cvss": 7.8,
+   "ref": "https://gstreamer.freedesktop.org/security/sa-2026-0051.html"
+  },
+  "title_vi": "CVE-2026-18299 — Lỗ hổng thực thi mã từ xa không cần sử dụng của GStreamer rtpsbcdepay",
+  "key": "94a6e18b56df9b594b58267327fa62048f636f28"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18300 — GIMP HDR File Parsing Integer Overflow Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18300",
+  "published": "2026-08-20T17:17:26.890",
+  "summary": "GIMP HDR File Parsing Integer Overflow Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of GIMP. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.\n\nThe specific flaw exists within the parsing of HDR files. The issue results from the lack of proper validation of user-supplied data, which can result in an integer overflow before allocating a buffer. An attacker can leverage this vulnerability to execute code in the context of the cur",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18300",
+   "cvss": 7.8,
+   "ref": "https://gitlab.gnome.org/GNOME/gegl/-/commit/d3d262008299341c5b032b354021632ceadb2799"
+  },
+  "title_vi": "CVE-2026-18300 — Lỗ hổng thực thi mã từ xa tràn số nguyên trong GIMP HDR",
+  "key": "7faab5e0daa222d616043bb650ba180b6af9d7fd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18301 — GIMP PSD File Parsing Integer Overflow Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18301",
+  "published": "2026-08-20T17:17:27.017",
+  "summary": "GIMP PSD File Parsing Integer Overflow Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of GIMP. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.\n\nThe specific flaw exists within the parsing of PSD files. The issue results from the lack of proper validation of user-supplied data, which can result in an integer overflow before allocating a buffer. An attacker can leverage this vulnerability to execute code in the context of the cur",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18301",
+   "cvss": 7.8,
+   "ref": "https://gitlab.gnome.org/GNOME/gimp/-/merge_requests/2772"
+  },
+  "title_vi": "CVE-2026-18301 — Lỗ hổng thực thi mã từ xa tràn số nguyên trong GIMP PSD",
+  "key": "7441f2b603aca674f14e7382927ef2e5ee448ad6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18302 — GIMP TIF File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18302",
+  "published": "2026-08-20T17:17:27.143",
+  "summary": "GIMP TIF File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of GIMP. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.\n\nThe specific flaw exists within the parsing of TIF files. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a heap-based buffer. An attacker can leverage this vulnerability to execute code in the context of the curr",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18302",
+   "cvss": 7.8,
+   "ref": "https://gitlab.gnome.org/GNOME/gimp/-/commit/77e1a11636fae53c922fe92273b8f4e33c7a9176"
+  },
+  "title_vi": "CVE-2026-18302 — Lỗ hổng thực thi mã từ xa phân tích tệp GIMP TIF",
+  "key": "bafdbae77216fcdbbf948ddb6be11026f1745a03"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18303 — GIMP TIF File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18303",
+  "published": "2026-08-20T17:17:27.277",
+  "summary": "GIMP TIF File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of GIMP. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.\n\nThe specific flaw exists within the parsing of TIF files. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a stack-based buffer. An attacker can leverage this vulnerability to execute code in the context of the cu",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18303",
+   "cvss": 7.8,
+   "ref": "https://gitlab.gnome.org/GNOME/gimp/-/commit/5633b362026c6e5b2beb559a10cd76fa32a47592"
+  },
+  "title_vi": "CVE-2026-18303 — Lỗ hổng thực thi mã từ xa phân tích cú pháp tệp GIMP TIF",
+  "key": "bbd1aed4437155c23c1a6b26bc68fbe6a78f8e85"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18304 — GIMP TIF File Parsing Integer Overflow Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18304",
+  "published": "2026-08-20T17:17:27.403",
+  "summary": "GIMP TIF File Parsing Integer Overflow Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of GIMP. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.\n\nThe specific flaw exists within the parsing of TIF files. The issue results from the lack of proper validation of user-supplied data, which can result in an integer overflow before allocating a buffer. An attacker can leverage this vulnerability to execute code in the context of the cur",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18304",
+   "cvss": 7.8,
+   "ref": "https://gitlab.gnome.org/GNOME/gimp/-/commit/ad32d22c347674fa1bb5b60935c376b673d946e7"
+  },
+  "title_vi": "CVE-2026-18304 — Lỗ hổng thực thi mã từ xa tràn số nguyên phân tích cú pháp tệp GIMP TIF",
+  "key": "ec1004f8751dd4ae78fc7a011677f65837bd2507"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18305 — GIMP TIF File Parsing Integer Overflow Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18305",
+  "published": "2026-08-20T17:17:27.520",
+  "summary": "GIMP TIF File Parsing Integer Overflow Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of GIMP. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.\n\nThe specific flaw exists within the parsing of TIF files. The issue results from the lack of proper validation of user-supplied data, which can result in an integer overflow before allocating a buffer. An attacker can leverage this vulnerability to execute code in the context of the cur",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18305",
+   "cvss": 7.8,
+   "ref": "https://gitlab.gnome.org/GNOME/gimp/-/commit/0a45a2b51b877829ef523131b50c0eb2a933b8a1"
+  },
+  "title_vi": "CVE-2026-18305 — Lỗ hổng thực thi mã từ xa tràn số nguyên phân tích cú pháp tệp GIMP TIF",
+  "key": "39cab5778e1ad599bd7a7425ae06158b7a5598d2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18306 — GIMP SGI File Parsing Integer Overflow Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18306",
+  "published": "2026-08-20T17:17:27.633",
+  "summary": "GIMP SGI File Parsing Integer Overflow Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of GIMP. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.\n\nThe specific flaw exists within the parsing of SGI files. The issue results from the lack of proper validation of user-supplied data, which can result in an integer overflow before writing to memory. An attacker can leverage this vulnerability to execute code in the context of the curre",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18306",
+   "cvss": 7.8,
+   "ref": "https://gitlab.gnome.org/GNOME/gimp/-/commit/76531da9732f38566e5fd8f8f80c837158511ae5"
+  },
+  "title_vi": "CVE-2026-18306 — Lỗ hổng thực thi mã từ xa tràn số nguyên trong GIMP SGI",
+  "key": "f91e725713a66e57b4acb8ff68c5cb8e90a0e00f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18307 — GIMP TIF File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18307",
+  "published": "2026-08-20T17:17:27.757",
+  "summary": "GIMP TIF File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of GIMP. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.\n\nThe specific flaw exists within the parsing of TIF files. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a heap-based buffer. An attacker can leverage this vulnerability to execute code in the context of the curr",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18307",
+   "cvss": 7.8,
+   "ref": "https://gitlab.gnome.org/GNOME/gimp/-/commit/bace3e7fd54104fe6b70c1703e9b982a4770811d"
+  },
+  "title_vi": "CVE-2026-18307 — Lỗ hổng thực thi mã từ xa phân tích tệp GIMP TIF",
+  "key": "55d8619b12cc8b2006a698ec435fd789cf3f1326"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18308 — GIMP TIF File Parsing Integer Overflow Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18308",
+  "published": "2026-08-20T17:17:27.877",
+  "summary": "GIMP TIF File Parsing Integer Overflow Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of GIMP. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.\n\nThe specific flaw exists within the parsing of TIF files. The issue results from the lack of proper validation of user-supplied data, which can result in an integer overflow before allocating a buffer. An attacker can leverage this vulnerability to execute code in the context of the cur",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18308",
+   "cvss": 7.8,
+   "ref": "https://gitlab.gnome.org/GNOME/gimp/-/commit/d84f8e58f56681a0b4c66129c568cb796725ab9d"
+  },
+  "title_vi": "CVE-2026-18308 — Lỗ hổng thực thi mã từ xa tràn số nguyên phân tích cú pháp tệp GIMP TIF",
+  "key": "08ac7d2fbd5005ed19013f273e5693d198c1e64d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18309 — GIMP APNG File Parsing Integer Overflow Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18309",
+  "published": "2026-08-20T17:17:27.987",
+  "summary": "GIMP APNG File Parsing Integer Overflow Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of GIMP. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.\n\nThe specific flaw exists within the parsing of APNG files. The issue results from the lack of proper validation of user-supplied data, which can result in an integer overflow before allocating a buffer. An attacker can leverage this vulnerability to execute code in the context of the c",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18309",
+   "cvss": 7.8,
+   "ref": "https://gitlab.gnome.org/GNOME/gimp/-/commit/c760c8309d18bdf5259f1e04ced0779462c7c636"
+  },
+  "title_vi": "CVE-2026-18309 — Lỗ hổng thực thi mã từ xa tràn số nguyên GIMP APNG",
+  "key": "62347e62820a125e8e31cabe9a43d5547daa13cc"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-40345 — deepmerge-ts is a typescript library providing functionality to deep merging of javascript objects",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-40345",
+  "published": "2026-08-20T17:17:29.783",
+  "summary": "deepmerge-ts is a typescript library providing functionality to deep merging of javascript objects. Prior to 8.0.0, the deepmerge, deepmergeCustom, deepmergeInto, and deepmergeIntoCustom APIs do not track visited objects or object pairs when recursively merging records. When two input values contain self-references at the same property path, the merge logic repeatedly revisits the same pair until Node.js raises RangeError: Maximum call stack size exceeded. Applications that merge attacker-controlled recursive object graphs can synchronously crash the affected process or cause repeated worker r",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-40345",
+   "cvss": null,
+   "ref": "https://github.com/RebeccaStevens/deepmerge-ts/commit/398492757b3f22a0d7d89b09ce1ae9cd32806c9a"
+  },
+  "title_vi": "CVE-2026-40345 — deepmerge-ts là thư viện bản thảo cung cấp chức năng hợp nhất sâu các đối tượng javascript",
+  "key": "34770d8f7a688f361e4a5b8cafea15c9fd9c2bc6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-54136 — Windmill is an open-source developer platform for internal code: APIs, background jobs, workflows and UIs",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-54136",
+  "published": "2026-08-20T17:18:17.737",
+  "summary": "Windmill is an open-source developer platform for internal code: APIs, background jobs, workflows and UIs. Prior to 1.715.0, a resource-scoped API token could read script contents outside its allowed path scope through GET /api/w/{workspace}/scripts/list_search. The route-level scope middleware validated the token domain and action but did not enforce the resource/path segment, and the list_search_scripts handler had no additional check_scopes call or per-row filtering before returning script path and content fields. A token such as scripts:read:f/allowed/* could therefore receive source code ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-54136",
+   "cvss": null,
+   "ref": "https://github.com/windmill-labs/windmill/commit/7edf3f02122e20fde1e95e0252e7bda641075326"
+  },
+  "title_vi": "CVE-2026-54136 — Windmill là nền tảng nhà phát triển nguồn mở dành cho mã nội bộ: API, công việc nền, quy trình công việc và giao diện người dùng",
+  "key": "b91cc3773cefa93326c0a9001634b244fc4f377e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-54449 — LangBot is a global IM bot platform designed for LLMs",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-54449",
+  "published": "2026-08-20T17:18:17.910",
+  "summary": "LangBot is a global IM bot platform designed for LLMs. In version 4.10.7 and earlier, any authenticated user can add or change an STDIO MCP server configuration without an adequate authorization boundary. In src/langbot/pkg/provider/tools/loaders/mcp.py, StdioServerParameters accepts the configured command and arguments and starts a server-side subprocess on the LangBot server. An attacker who can sign up or obtain an account can use the Extensions MCP configuration to execute arbitrary commands with the privileges of the LangBot service, enabling data disclosure, modification, and service dis",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-54449",
+   "cvss": 8.8,
+   "ref": "https://github.com/langbot-app/LangBot/security/advisories/GHSA-3pvh-63gf-j9mw"
+  },
+  "title_vi": "CVE-2026-54449 — LangBot là nền tảng bot IM toàn cầu được thiết kế cho LLM",
+  "key": "9cc3b61ad452f3481b565f5f69609fcd2ed516eb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-54616 — NanaZip is the 7-Zip derivative intended for the modern Windows experience",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-54616",
+  "published": "2026-08-20T17:18:18.090",
+  "summary": "NanaZip is the 7-Zip derivative intended for the modern Windows experience. From version 1.0.88.0 until stable version 6.0.1698.0 and preview version 6.5.1742.0, the Lz4Decode function in NanaZip.Core/SevenZip/CPP/7zip/Archive/SquashfsHandler.cpp rejects only a zero return from LZ4_decompress_safe even though malformed input produces a negative error value. The negative int is converted to the unsigned SizeT destLen and then truncated into outBufWasWrittenSize, causing ReadBlock to trust an attacker-inflated _cachedUnpackBlockSize. During fragment extraction, an attacker-controlled inode Offse",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-54616",
+   "cvss": 7.1,
+   "ref": "https://github.com/M2Team/NanaZip/commit/733e8570d2ba96c3e52aab44f5fd886775d5952f"
+  },
+  "title_vi": "CVE-2026-54616 — NanaZip là dẫn xuất 7-Zip dành cho trải nghiệm Windows hiện đại",
+  "key": "95b9b17a99a1918183dc485d20dc6e2b4ca6001b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-54770 — WebOb provides objects for HTTP requests and responses",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-54770",
+  "published": "2026-08-20T17:18:18.277",
+  "summary": "WebOb provides objects for HTTP requests and responses. Prior to 1.8.11, Response._make_location_absolute() in src/webob/response.py checks a Location value for a URI scheme or leading double slash before urllib.parse.urljoin() strips leading C0 control characters and spaces. An attacker-controlled value such as a space followed by a protocol-relative or absolute URL can therefore bypass SCHEME_RE and startswith(\"//\") checks and be normalized to an off-host redirect. Request.relative_url() and webob.exc._HTTPMove subclasses, including HTTPFound, are also affected because they use the same unsa",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-54770",
+   "cvss": 6.1,
+   "ref": "https://github.com/Pylons/webob/commit/ff89560643fb252751b4db8806a283b5377f1f07"
+  },
+  "title_vi": "CVE-2026-54770 — WebOb cung cấp đối tượng cho các yêu cầu và phản hồi HTTP",
+  "key": "b64f25672a39c3a61fd3b2763b4ec7ccd421c56d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-55095 — OpenProject is open-source, web-based project management software",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55095",
+  "published": "2026-08-20T17:18:24.947",
+  "summary": "OpenProject is open-source, web-based project management software. In version 17.5.1 and earlier, an authenticated non-admin project member can request the inplace-edit dialog for a raw custom_field_ project attribute. The dialog path resolves the project custom field by its raw identifier without enforcing the normal admin_only visibility scope and renders the stored custom-field comment in read-only mode. This discloses hidden comment text but does not disclose the custom-field value or permit writes or mutation. This issue is reported as fixed in version 17.6.0.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-55095",
+   "cvss": null,
+   "ref": "https://github.com/opf/openproject/releases/tag/v17.6.0"
+  },
+  "title_vi": "CVE-2026-55095 — OpenProject là phần mềm quản lý dự án dựa trên web, mã nguồn mở",
+  "key": "d1f209440a0de39093d2a840f9e4d597e75382d9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-55586 — SumatraPDF is a multi-format reader for Windows",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55586",
+  "published": "2026-08-20T17:18:27.723",
+  "summary": "SumatraPDF is a multi-format reader for Windows. In 3.6.1 and earlier, a crafted CHM file can supply malformed LZX Huffman code lengths to make_decode_table in ext/CHMLib/lzx.c. In the long-code branch, the function writes new internal nodes through next_symbol before validating that the canonical Huffman table has overflowed. The PRETREE case can write beyond the 104-entry PRETREE_table into adjacent heap state in struct LZXstate when reached through chm_open, chm_retrieve_object, LZXdecompress, and BUILD_TABLE. This produces heap memory corruption in the parser process, while arbitrary code ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-55586",
+   "cvss": 6.6,
+   "ref": "https://github.com/sumatrapdfreader/sumatrapdf/commit/13b3d4204dd12d93d426f2157b157b149edc29bf"
+  },
+  "title_vi": "CVE-2026-55586 — SumatraPDF là trình đọc đa định dạng dành cho Windows",
+  "key": "9429715d00e4c77c107c3ace18ff9b4bf471a355"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-55642 — dbx is a cross-platform database client for databases",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55642",
+  "published": "2026-08-20T17:18:27.873",
+  "summary": "dbx is a cross-platform database client for databases. Prior to 0.5.51, dbx-web auth_middleware in crates/dbx-web/src/auth.rs passes every protected request to the handler chain when password_hash is None. A fresh deployment reaches that state when DBX_PASSWORD is unset and no stored password exists, while crates/dbx-web/src/main.rs binds the service to 0.0.0.0 on port 4224 by default. An unauthenticated network attacker can call the /api/connection/connect and /api/query/execute routes to use configured database credentials and execute arbitrary SQL, allowing disclosure, modification, or dest",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-55642",
+   "cvss": 9.8,
+   "ref": "https://github.com/t8y2/dbx/commit/fb919efe0a62869631f49242d1f4fe8d41718c2a"
+  },
+  "title_vi": "CVE-2026-55642 — dbx là ứng dụng khách cơ sở dữ liệu đa nền tảng dành cho cơ sở dữ liệu",
+  "key": "56c8f8a1378e9362a9d517e0d95e8d2b395f64d9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-61625 — VictoriaMetrics is a scalable solution for monitoring and managing time series data",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-61625",
+  "published": "2026-08-20T17:18:51.783",
+  "summary": "VictoriaMetrics is a scalable solution for monitoring and managing time series data. Prior to 1.122.25, 1.136.12, and 1.146.0, vmrestore does not validate backup part path components before using lib/backup/actions/restore.go and lib/backup/fslocal/fslocal.go to write restored data below storageDataPath. An attacker who can supply or modify an S3, GCS, Azure Blob Storage, or other backup source can place .. components in object names. When an operator restores that source, the crafted names can create or overwrite files outside the intended restore root within the filesystem permissions of the",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-61625",
+   "cvss": 6.8,
+   "ref": "https://github.com/VictoriaMetrics/VictoriaMetrics/commit/710c920d6083327042a309e449fae4383617d817"
+  },
+  "title_vi": "CVE-2026-61625 — VictoriaMetrics là giải pháp có thể mở rộng để giám sát và quản lý dữ liệu chuỗi thời gian",
+  "key": "b789a4faa24d4c29fa4633dbc82111e65cdfb3d4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-61704 — Link Preview JS extracts web links information",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-61704",
+  "published": "2026-08-20T17:18:51.940",
+  "summary": "Link Preview JS extracts web links information. Prior to 4.0.4, the resolveDNSHost mitigation in index.ts validates one resolved IP address but fetches the original hostname, allowing an attacker-controlled DNS server to return a public address during validation and a loopback or internal address during the final connection. This DNS rebinding condition bypasses the SSRF protection and can cause the server-side preview fetch to reach internal HTTP resources. Redirect handling is affected by the same validation-to-fetch mismatch. This issue is fixed in version 4.0.4.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-61704",
+   "cvss": 7.5,
+   "ref": "https://github.com/OP-Engineering/link-preview-js/commit/6ee25043dd60b097eb70b4ce049aac94b28239e3"
+  },
+  "title_vi": "CVE-2026-61704 — Link Preview JS trích xuất thông tin liên kết web",
+  "key": "52ea89e987e1426c429c603fac071fa46800b933"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-63481 — Hurl is a command line tool that runs and tests HTTP requests defined in plain text files",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63481",
+  "published": "2026-08-20T17:19:15.037",
+  "summary": "Hurl is a command line tool that runs and tests HTTP requests defined in plain text files. In version 8.0.1 and earlier, the redirect handling in packages/hurl/src/http/client.rs strips Authorization and Cookie headers and basic-auth credentials when a redirect changes host, but it carries RequestSpec.cookies created from the dedicated [Cookies] section into the redirected request. An attacker-controlled redirect can therefore receive authentication or session cookies that should remain scoped to the original host. Cookies supplied through a raw Cookie header are stripped and are not affected ",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-63481",
+   "cvss": null,
+   "ref": "https://github.com/Orange-OpenSource/hurl/commit/ed91c894c2cf11704422010554037e3ba70b446e"
+  },
+  "title_vi": "CVE-2026-63481 — Hurl là công cụ dòng lệnh chạy và kiểm tra các yêu cầu HTTP được xác định trong các tệp văn bản thuần túy",
+  "key": "bf31d53cedf036ab9ca0a427eabcf5ba8cbcdd64"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-64846 — Nix is a package manager for Linux and other Unix systems",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-64846",
+  "published": "2026-08-20T17:19:16.813",
+  "summary": "Nix is a package manager for Linux and other Unix systems. Prior to 2.35.0, a malicious derivation executed with the recursive-nix experimental feature can exploit a time-of-check/time-of-use race involving final symlink handling in the LocalStore restore path. The race can cause writeFile to follow a substituted final symlink when opening a path with O_TRUNC instead of enforcing FinalSymlink::DontFollow, allowing the Nix process or nix-daemon to create or truncate an empty file outside the build sandbox with the daemon user's permissions. The primitive does not provide arbitrary-content write",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-64846",
+   "cvss": 2.8,
+   "ref": "https://github.com/NixOS/nix/commit/26679828f74ee6e82a4100904e6361f993ff5390"
+  },
+  "title_vi": "CVE-2026-64846 — Nix là trình quản lý gói cho Linux và các hệ thống Unix khác",
+  "key": "27fc07774c19c71bdb00cbe2330321c775dd900f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-65842 — Plate is a rich-text editor with AI and shadcn/ui",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-65842",
+  "published": "2026-08-20T17:19:23.433",
+  "summary": "Plate is a rich-text editor with AI and shadcn/ui. Prior to 53.3.2, @platejs/docx-io fetches remote image URLs while converting attacker-controlled HTML through htmlToDocxBlob in a server-side or privileged environment. The converter can make requests to internal network resources and include the fetched image bytes in the generated DOCX, allowing server-side request forgery with response disclosure. Applications can also incur resource consumption from attacker-selected remote responses. This issue is fixed in version 53.3.2.",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-65842",
+   "cvss": 8.2,
+   "ref": "https://github.com/udecode/plate/commit/21aa59926f4bbd421027354823cca09c6700ed73"
+  },
+  "title_vi": "CVE-2026-65842 — Plate là trình soạn thảo văn bản đa dạng thức với AI và shadcn/ui",
+  "key": "97474550ccfd84fa29d4d4fe6a37096dd430d6d5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-69183 — Monkeytype is a minimalistic and customizable typing test",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69183",
+  "published": "2026-08-20T17:19:34.387",
+  "summary": "Monkeytype is a minimalistic and customizable typing test. In 26.26.0 and earlier, the backend rate-limit key generator in backend/src/middlewares/rate-limit.ts uses client-controlled cf-connecting-ip and x-forwarded-for headers before the trust-proxy-derived req.ip value. An unauthenticated attacker can rotate either header to create a new bucket for each request, bypassing rootRateLimiter, badAuthRateLimiter, getKey(), and the getKeyWithUid() fallback used by public endpoints. This permits repeated POST /users/forgotPasswordEmail and verificationEmail requests, mail bombing registered users,",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-69183",
+   "cvss": 7.5,
+   "ref": "https://github.com/monkeytypegame/monkeytype/security/advisories/GHSA-c878-p3jh-mmjf"
+  },
+  "title_vi": "",
+  "key": "5a3544b675a76fb3816ed02e09510a5766d0cd29"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71428 — The unstructured library provides open-source components for ingesting and pre-processing images and text documents, such as PDFs, HTML, Word docs, an",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71428",
+  "published": "2026-08-20T17:19:40.773",
+  "summary": "The unstructured library provides open-source components for ingesting and pre-processing images and text documents, such as PDFs, HTML, Word docs, and many more. From 0.4.7 until 0.24.0, the url argument of partition, partition_html, and partition_md is fetched without host validation in unstructured/partition/auto.py, unstructured/partition/html/partition.py, and unstructured/partition/md.py. An attacker who controls that URL can make a server-side ingestion service request loopback addresses, internal HTTP services, or cloud metadata endpoints through direct targets, redirects, or DNS rebin",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71428",
+   "cvss": 9.3,
+   "ref": "https://github.com/Unstructured-IO/unstructured/commit/445c95735c4045057f51f399bc04c657751923bd"
+  },
+  "title_vi": "",
+  "key": "ddf2945522d9178f1fce176bee62a16d4f5cbe79"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71492 — Banks generates meaningful LLM prompts using a simple template language",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71492",
+  "published": "2026-08-20T17:19:40.930",
+  "summary": "Banks generates meaningful LLM prompts using a simple template language. Prior to version 2.4.5, DirectoryPromptRegistry.set() in src/banks/registries/directory.py interpolates attacker-controlled Prompt.name and Prompt.version values into a Path without canonicalization or containment validation. Relative traversal such as ../victim/foo and an absolute Prompt.name can escape or discard the configured registry root, while overwrite=True permits replacement of existing target files. The poisoned name is persisted in index.json and reconstructed by _load(), allowing the out-of-root path to survi",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71492",
+   "cvss": null,
+   "ref": "https://github.com/masci/banks/commit/a215f6d779966945c56e0af5abed1ae5916fd9d3"
+  },
+  "title_vi": "",
+  "key": "30a88c971ff2537df867cee0a1230f65d5a1e68e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-72845 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72845",
+  "published": "2026-08-20T17:19:41.093",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-72845",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "",
+  "key": "772911e113a4cafa4dc04eb0ac8830338c86cb5d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77019 — A vulnerability was determined in CodeAstro Apartment Visitor Management System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77019",
+  "published": "2026-08-20T17:19:49.063",
+  "summary": "A vulnerability was determined in CodeAstro Apartment Visitor Management System 1.0. Affected is an unknown function of the file /apartment-visitor/forgotpw.php. Executing a manipulation of the argument secode can lead to sql injection. The attack may be launched remotely. The exploit has been publicly disclosed and may be utilized.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77019",
+   "cvss": 7.3,
+   "ref": "https://codeastro.com/"
+  },
+  "title_vi": "",
+  "key": "9916ee2eb2c21db2cbfbaab7584cdbdf4f334e46"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77020 — A vulnerability was identified in CodeAstro Apartment Visitor Management System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77020",
+  "published": "2026-08-20T17:19:49.237",
+  "summary": "A vulnerability was identified in CodeAstro Apartment Visitor Management System 1.0. Affected by this vulnerability is an unknown functionality of the file password-recovery.php. The manipulation of the argument email leads to sql injection. Remote exploitation of the attack is possible. The exploit is publicly available and might be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77020",
+   "cvss": 7.3,
+   "ref": "https://codeastro.com/"
+  },
+  "title_vi": "",
+  "key": "4b33f18d55e744239a102ab818d6f30f148ac855"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77022 — A security flaw has been discovered in Comfast CF-N1-S 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77022",
+  "published": "2026-08-20T17:19:49.413",
+  "summary": "A security flaw has been discovered in Comfast CF-N1-S 2.6.0.1. Affected by this issue is the function sub_44B438 of the file /cgi-bin/mbox-config?method=SET&section=ptest_ssid of the component SSID Configuration. The manipulation of the argument ssid results in stack-based buffer overflow. The attack can be executed remotely. The exploit has been released to the public and may be used for attacks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77022",
+   "cvss": 9.9,
+   "ref": "https://github.com/AdminSafe/CVE/issues/5"
+  },
+  "title_vi": "",
+  "key": "0be7ee6e9312000c4d5ec4a9d14be66e936f6e59"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77025 — A weakness has been identified in itsourcecode Hospital Management System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77025",
+  "published": "2026-08-20T17:19:49.583",
+  "summary": "A weakness has been identified in itsourcecode Hospital Management System 1.0. This affects an unknown part of the file /viewappointmentpending.php. This manipulation of the argument delid causes sql injection. The attack is possible to be carried out remotely. The exploit has been made available to the public and could be used for attacks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77025",
+   "cvss": 6.3,
+   "ref": "https://github.com/ltranquility/vuln_submit/issues/24"
+  },
+  "title_vi": "",
+  "key": "8d118e698a212e169e1a5a4caa54ca4f75d0a277"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77176 — A flaw was found in Kata Containers",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77176",
+  "published": "2026-08-20T17:19:49.773",
+  "summary": "A flaw was found in Kata Containers. In configurations utilizing genpolicy for Confidential Containers guest protection, a malicious host operator can exploit insufficient validation of CreateContainer mount and storage rules. This allows them to mount arbitrary container-rootfs paths over sensitive host locations or provision arbitrary content, potentially exposing confidential information or enabling the acceptance of attacker-controlled input.",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77176",
+   "cvss": 8.1,
+   "ref": "https://access.redhat.com/security/cve/CVE-2026-77176"
+  },
+  "title_vi": "",
+  "key": "17f819b63226297978a3b53f392112f6d54c1906"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-2334 — An issue was discovered in vsDesk v14",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-2334",
+  "published": "2026-08-20T18:16:26.047",
+  "summary": "An issue was discovered in vsDesk v14.0101. An authenticated attacker with administrative privileges can bypass client-side file validation in the \"Import via CSV\" component due to a lack of server-side validation. This allows the upload of an arbitrary file, which can lead to Remote Code Execution (RCE) within the context of the web application. \nApply patch from vendor  https://vsdesk.ru/ . Versions 14.0402 and on have the patch.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-2334",
+   "cvss": null,
+   "ref": "https://github.com/klsecservices/Advisories/blob/master/KLSA-00415-Missing-Server-Side-File-Extension-Validation-in-vsDesk.md"
+  },
+  "title_vi": "",
+  "key": "ef8ea7abc451c2948cf7f4b99139255503a58fd8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-53424 — Authentication Bypass by Capture-replay vulnerability in dropbox samly allows an attacker to authenticate as the subject of a captured SAML assertion ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-53424",
+  "published": "2026-08-20T18:16:27.680",
+  "summary": "Authentication Bypass by Capture-replay vulnerability in dropbox samly allows an attacker to authenticate as the subject of a captured SAML assertion by resubmitting it.\n\nSamly.Helper.decode_idp_auth_resp/3 in lib/samly/helper.ex calls esaml_sp:validate_assertion/2, whose default duplicate detector is a no-op. The /3 arity accepting a DuplicateFun exists in esaml and implements the check, but Samly never calls it and offers no configuration to supply one, so the SAML 2.0 Web Browser SSO Profile requirement that a bearer assertion be used once is unenforced. An attacker holding a valid SAMLResp",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-53424",
+   "cvss": null,
+   "ref": "https://cna.erlef.org/cves/CVE-2026-53424.html"
+  },
+  "title_vi": "",
+  "key": "fde15f450168ab2890f8022000e7dd114afd0be4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-53425 — Insufficient Verification of Data Authenticity vulnerability in dropbox samly allows an attacker to establish an authenticated session using a SAML re",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-53425",
+  "published": "2026-08-20T18:16:27.850",
+  "summary": "Insufficient Verification of Data Authenticity vulnerability in dropbox samly allows an attacker to establish an authenticated session using a SAML response the service provider never requested.\n\nSamly.SPHandler.validate_authresp/3 in lib/samly/sp_handler.ex validates a SAML response for the SP-initiated flow by comparing only the RelayState value, the IdP identifier, and the presence of a target URL held in the session. It never compares SubjectConfirmationData/@InResponseTo against the ID of the AuthnRequest the service provider issued, and that request ID is never persisted, so no compariso",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-53425",
+   "cvss": null,
+   "ref": "https://cna.erlef.org/cves/CVE-2026-53425.html"
+  },
+  "title_vi": "",
+  "key": "ecfbaa3d0df4d87194421c8226bb6a32e2efd105"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-54623 — django CMS is an easy-to-use and developer-friendly enterprise content management system powered by Django",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-54623",
+  "published": "2026-08-20T18:16:28.013",
+  "summary": "django CMS is an easy-to-use and developer-friendly enterprise content management system powered by Django. Prior to 5.0.8, the move_plugin endpoint in cms/admin/placeholderadmin.py accepts an attacker-controlled plugin_parent value without rejecting a plugin’s own identifier or a descendant identifier. A staff user with plugin-change permission under CMS_PERMISSION can create a parent_id cycle in the plugin tree. The _get_descendants_cte and _get_ancestors_cte queries in cms/models/pluginmodel.py have no cycle guard, so get_descendants() and later rendering, copy, or delete operations can rec",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-54623",
+   "cvss": 7.1,
+   "ref": "https://github.com/django-cms/django-cms/commit/7642a98ab3170793c0b27b4125dd1f3d318b8a1c"
+  },
+  "title_vi": "",
+  "key": "3f919e36db923aa896e67c3000145215945ec3be"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-54625 — django CMS is a content management system powered by Django",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-54625",
+  "published": "2026-08-20T18:16:28.170",
+  "summary": "django CMS is a content management system powered by Django. Prior to 5.0.8 and in 5.1.0a1, the django CMS page cache in cms/cache/page.py ignores request headers declared by plugins through get_vary_cache_on(). The _page_cache_key function includes the cache prefix, site, language, path, and timezone but not the declared header values. Although set_page_cache adds those names to the response Vary header, get_page_cache retrieves the first stored variant under the same header-agnostic key. When CMS_PAGE_CACHE is enabled and a plugin varies content on a header such as Country-Code, one visitor ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-54625",
+   "cvss": 4.8,
+   "ref": "https://github.com/django-cms/django-cms/commit/8758714b865ffa79c6bcd0e5c503958ea48885aa"
+  },
+  "title_vi": "",
+  "key": "c6f0682f90a8dfd1737fc60cf7e589db69ba4165"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-63379 — Libevent is an event notification library",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63379",
+  "published": "2026-08-20T18:16:35.200",
+  "summary": "Libevent is an event notification library. Prior to 2.1.13 and 2.2.2-alpha, libevent processes chunked HTTP trailers in http.c through evhttp_read_trailer and merges them into request headers. The fix introduces evhttp_parse_headers_impl_ and a temporary trailer header list. An unauthenticated remote attacker can place security-sensitive fields in trailers so that an upstream proxy and the libevent application interpret different effective headers, enabling header smuggling, authorization bypass, proxy-header spoofing, or cache poisoning. The fix parses trailers into a temporary header list an",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-63379",
+   "cvss": null,
+   "ref": "https://github.com/libevent/libevent/commit/87e8e44fa774e9677b089b1a5114ee68aefa1636"
+  },
+  "title_vi": "",
+  "key": "d99e3119b28dc9813ea4277558f217ecb1d2f926"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-63380 — Libevent is an event notification library",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63380",
+  "published": "2026-08-20T18:16:35.357",
+  "summary": "Libevent is an event notification library. Prior to 2.2.2-alpha, libevent can dereference invalid list pointers in ws.c when evws_new_session enters its error path after evhttp_start_ws_ succeeds but bufferevent_enable_locking_ fails. evws_connection_free sees a non-null http_server and unconditionally calls TAILQ_REMOVE even though the session was never inserted into http_server->ws_sessions. A local caller able to induce this allocation or locking failure can crash the process. This issue is fixed in version 2.2.2-alpha.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-63380",
+   "cvss": null,
+   "ref": "https://github.com/libevent/libevent/commit/825c18bd99f556b59d61200523237f264d5cc734"
+  },
+  "title_vi": "",
+  "key": "aa529c6cf18cdc607d7e7bdd68e5edf72b515629"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-63381 — Libevent is an event notification library",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63381",
+  "published": "2026-08-20T18:16:35.530",
+  "summary": "Libevent is an event notification library. Prior to 2.1.13 and 2.2.2-alpha, libevent has a use-after-free in buffer.c when evbuffer_add_buffer_reference processes an output buffer whose out_total_len is zero. evbuffer_free_all_chains frees the initial empty chain without resetting outbuf->first, outbuf->last, or outbuf->last_with_datap, and APPEND_CHAIN_MULTICAST subsequently dereferences the dangling chain pointer. A caller that can drive this buffer state can cause memory corruption or a process crash. This issue is fixed in versions 2.1.13 and 2.2.2-alpha.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-63381",
+   "cvss": null,
+   "ref": "https://github.com/libevent/libevent/commit/5cb95ba2f804f8aff46f88d58391c71e1251cd1c"
+  },
+  "title_vi": "",
+  "key": "b9cd1be33485e64dae0b1642dd78f6f39134e368"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-63382 — Libevent is an event notification library",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63382",
+  "published": "2026-08-20T18:16:35.700",
+  "summary": "Libevent is an event notification library. Prior to 2.1.13 and 2.2.2-alpha, the libevent evhttp parser in http.c inconsistently handles duplicate Transfer-Encoding headers, comma-separated Transfer-Encoding values, and bare line feeds in chunked framing. evhttp_find_header can select only the first header, evhttp_check_transfer_encoding_ was absent so the previous whole-string comparison fails to recognize valid lists ending in chunked, and evhttp_handle_chunked_read uses EVBUFFER_EOL_CRLF rather than EVBUFFER_EOL_CRLF_STRICT, accepting bare LF chunk terminators. When libevent is deployed behi",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-63382",
+   "cvss": null,
+   "ref": "https://github.com/libevent/libevent/commit/10abb34b8dc3e1184de315dd261ce4b77563cda6"
+  },
+  "title_vi": "",
+  "key": "2c066df2e2d462a7f3fc84887e765add4f438a22"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-63383 — Libevent is an event notification library",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63383",
+  "published": "2026-08-20T18:16:35.917",
+  "summary": "Libevent is an event notification library. Prior to 2.1.13 and 2.2.2-alpha, libevent can read beyond a contiguous evbuffer region in event_tagging.c when decode_tag_internal requests at most five bytes from evbuffer_pullup but iterates using the full logical buffer length. A fragmented evbuffer containing a six-byte malformed tag can therefore advance past the pullup window and trigger an out-of-bounds read, which can crash a process that decodes attacker-controlled tagged RPC data. This issue is fixed in versions 2.1.13 and 2.2.2-alpha.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-63383",
+   "cvss": null,
+   "ref": "https://github.com/libevent/libevent/commit/91ed8745eebabdd27592a83d350338a8c4626321"
+  },
+  "title_vi": "",
+  "key": "ad7d00e23457175f612652f7902efbe7d8b2ad4b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-63384 — Libevent is an event notification library",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63384",
+  "published": "2026-08-20T18:16:36.367",
+  "summary": "Libevent is an event notification library. Prior to 2.1.13 and 2.2.2-alpha, libevent has an incorrect integer conversion in event_tagging.c when evtag_unmarshal_header uses evtag_decode_int to decode an attacker-controlled uint32 payload length and returns it as a signed int. Values above INT_MAX become negative or truncated, and evtag_unmarshal_string can use the converted value in allocation sizing, producing a wrapped large allocation request and denial of service. This issue is fixed in versions 2.1.13 and 2.2.2-alpha.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-63384",
+   "cvss": null,
+   "ref": "https://github.com/libevent/libevent/commit/109c16499282959d70f56ec3baf4c8b1e6646bda"
+  },
+  "title_vi": "",
+  "key": "eb1a12596760f50717442c67af490707d5d2d785"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-63385 — Libevent is an event notification library",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63385",
+  "published": "2026-08-20T18:16:36.543",
+  "summary": "Libevent is an event notification library. Prior to 2.1.13 and 2.2.2-alpha, libevent has two HTTP parsing weaknesses in http.c. evhttp_decode_uri_internal decodes percent-encoded %00 bytes into literal NUL characters, which can cause downstream C string operations to truncate a path and bypass validation performed on a different representation. evhttp_header_is_valid_value also accepts obsolete line folding in header values containing carriage return or line feed characters, allowing a proxy and libevent to interpret headers differently and enabling header injection or access control bypass. T",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-63385",
+   "cvss": null,
+   "ref": "https://github.com/libevent/libevent/commit/758be0c0f69c1934ef9a84ab39e9f9e5fde2e6d0"
+  },
+  "title_vi": "",
+  "key": "87e5738c2adb91635df3514d70b9ded3fdaa5998"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-63387 — Libevent is an event notification library",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63387",
+  "published": "2026-08-20T18:16:36.723",
+  "summary": "Libevent is an event notification library. Prior to 2.1.13 and 2.2.2-alpha, libevent has an off-by-one stack buffer overflow in evdns.c when dnsname_to_labels formats a name-bearing DNS record at the end of the 64 KB stack buffer allocated by evdns_server_request_format_response. The final-label check permits j plus label_len plus one to equal buf_len, after which the terminating null byte is written to buf[buf_len]. A crafted DNS server response containing PTR, CNAME, MX, NS, or SOA data can trigger the one-byte out-of-bounds write and crash or corrupt the process. This issue is fixed in vers",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-63387",
+   "cvss": 7.0,
+   "ref": "https://github.com/libevent/libevent/releases/tag/release-2.1.13-stable"
+  },
+  "title_vi": "",
+  "key": "97cc2f2bec12240a981149b20d9c5e256589a5ac"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-63388 — Libevent is an event notification library",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63388",
+  "published": "2026-08-20T18:16:36.893",
+  "summary": "Libevent is an event notification library. Prior to 2.1.13 and 2.2.2-alpha, libevent has a heap out-of-bounds write in bufferevent_sock.c when bufferevent_socket_set_conn_address_ copies a kernel-supplied AF_UNIX peer address into bufferevent_private.conn_address. Release builds compiled with NDEBUG disable the EVUTIL_ASSERT length guard, and the evhttp accept path can pass a 110-byte sockaddr from accept() into the 28-byte field. An unauthenticated local peer able to connect to an AF_UNIX listener can overwrite the adjacent dns_request pointer and heap data, causing memory corruption with con",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-63388",
+   "cvss": 8.4,
+   "ref": "https://github.com/libevent/libevent/commit/52057cb33d0c20c0a0453fbabe6c0c96854931b9"
+  },
+  "title_vi": "",
+  "key": "dde8f25ecab70b1ad265195187c5b986eb7e7924"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-63495 — Libevent is an event notification library",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63495",
+  "published": "2026-08-20T18:16:37.040",
+  "summary": "Libevent is an event notification library. From 2.2.0-alpha-dev until 2.2.2-alpha, the libevent WebSocket server in ws.c accumulates fragmented frames in evws->incomplete_frames without enforcing a total message-size limit. An unauthenticated remote client can repeatedly send fragmented WebSocket frames below WS_MAX_RECV_FRAME_SZ with FIN=0, causing the evbuffer to grow without bound until the process or host exhausts memory. This issue is fixed in version 2.2.2-alpha.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-63495",
+   "cvss": 7.5,
+   "ref": "https://github.com/libevent/libevent/commit/291c4d1cd75695e898030ebd5c4ddf26c094077b"
+  },
+  "title_vi": "",
+  "key": "e3db3513a97211a50c6202c337820c82b7b30a26"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-72844 — The Lean 4 kernel does not verify that the structure named in a projection expression matches the type of the value being projected, and environment::",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72844",
+  "published": "2026-08-20T18:16:45.290",
+  "summary": "The Lean 4 kernel does not verify that the structure named in a projection expression matches the type of the value being projected, and environment::add_inductive in src/kernel/inductive.cpp did not type check the nested inductive applications that are replaced by auxiliary types, so their parametric arguments escaped checking. A metaprogram running in the Lean process can register an ill-typed nested inductive whose constructor applies a .proj C 0 projection to a value of the unrelated type W, and the kernel admits the declaration through the ordinary checked addDecl path at maximum kernel c",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-72844",
+   "cvss": 6.3,
+   "ref": "https://github.com/endrazine/lean-cve-poc"
+  },
+  "title_vi": "",
+  "key": "cc0825c3f570bd9ee1cf0d5a56e4138220e6c813"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-72847 — broot renders each file and directory name in its interactive tree view exactly as read from the filesystem",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72847",
+  "published": "2026-08-20T18:16:45.540",
+  "summary": "broot renders each file and directory name in its interactive tree view exactly as read from the filesystem. Names are converted with a plain to_string_lossy() call in src/tree_build/builder.rs and in TreeLine::unprune in src/tree/tree_line.rs, and no control-character filtering exists anywhere in the code, even though the doc comment on the TreeLine name field states that some characters may have been stripped. Any local user who can create a file can therefore place an escape sequence in its name and have it written unmodified to the terminal of anyone who browses that directory, between bro",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-72847",
+   "cvss": 4.6,
+   "ref": "https://github.com/Canop/broot"
+  },
+  "title_vi": "",
+  "key": "86bf11e2a95bbb9d1fb15d1477c80bd092a53f9e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-73251 — Mongoose is an embedded web server and network library",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73251",
+  "published": "2026-08-20T18:16:45.743",
+  "summary": "Mongoose is an embedded web server and network library. Prior to 7.23, a network attacker can impersonate a TLS server to a Mongoose client configured with a multi-certificate CA bundle. In src/tls_builtin.c, the mg_tls_init() function stores the bundle in tls->ca_bundle_der while tls->ca_der.len remains zero, and mg_tls_recv_cert() uses tls_bundle_find() to accept a Common Name match without calling mg_tls_verify_cert_signature(). A forged self-signed certificate can therefore satisfy hostname and CertificateVerify checks and enable interception, credential disclosure, traffic modification, a",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-73251",
+   "cvss": null,
+   "ref": "https://github.com/cesanta/mongoose/commit/2988bc9df3a5efc9539471cb7455975fa25df483"
+  },
+  "title_vi": "",
+  "key": "33577fd324417b99bd2294f0d8c221b96e177cd3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-73253 — Mongoose is an embedded web server and network library",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73253",
+  "published": "2026-08-20T18:16:45.940",
+  "summary": "Mongoose is an embedded web server and network library. Prior to version 7.22, an on-path network attacker with a wildcard certificate for a parent domain can impersonate deeper subdomains to a client using the built-in TLS stack. The mg_tls_verify_cert_san() and mg_tls_verify_cert_cn() functions in src/tls_builtin.c call mg_match(), whose wildcard can cross DNS label boundaries, so a pattern such as *.example.com can match foo.bar.example.com. The resulting hostname verification bypass permits interception and modification of TLS traffic. This issue is fixed in version 7.22.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-73253",
+   "cvss": null,
+   "ref": "https://github.com/cesanta/mongoose/commit/a9df523f76f43a38bd53b4232b9cfd4c16869e71"
+  },
+  "title_vi": "",
+  "key": "b5206a87297b96a1ce5949ee3f0e13e1c5cf077d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-73254 — Mongoose is an embedded web server and network library",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73254",
+  "published": "2026-08-20T18:16:46.113",
+  "summary": "Mongoose is an embedded web server and network library. Prior to 7.22, an attacker who can create a file with an HTML payload in its name can trigger stored cross-site scripting when a user browses a directory served with MG_ENABLE_DIRLIST. The printdirentry() path called by listdir() in src/http.c URL-encodes the href but inserts the raw filesystem filename into the HTML link text. The browser executes the injected markup in the Mongoose origin, which can expose session data or permit actions as the victim. This issue is fixed in version 7.22.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-73254",
+   "cvss": 5.4,
+   "ref": "https://github.com/cesanta/mongoose/commit/a9df523f76f43a38bd53b4232b9cfd4c16869e71"
+  },
+  "title_vi": "",
+  "key": "346bcd432ab09922b475a12cd7fd384b3730617e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-73255 — Mongoose is an embedded web server and network library",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73255",
+  "published": "2026-08-20T18:16:46.313",
+  "summary": "Mongoose is an embedded web server and network library. Prior to 7.22, an attacker who can control an SSI-enabled file can place directory traversal sequences in an #include file or #include virtual directive. The mg_ssi() function in src/ssi.c concatenates the directive argument into a filesystem path without calling mg_path_is_sane(), allowing an MG_ENABLE_SSI deployment with ssi_pattern configured to disclose files readable by the Mongoose process. This issue is fixed in version 7.22.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-73255",
+   "cvss": 6.5,
+   "ref": "https://github.com/cesanta/mongoose/commit/a9df523f76f43a38bd53b4232b9cfd4c16869e71"
+  },
+  "title_vi": "",
+  "key": "fb4cb8aef6624b7992c0b67aa36930de6ba0a7a2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-73256 — Mongoose is an embedded web server and network library",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73256",
+  "published": "2026-08-20T18:16:46.523",
+  "summary": "Mongoose is an embedded web server and network library. Prior to 7.22, a remote unauthenticated attacker can exploit an HTTP/1.0 reverse-proxy deployment by sending a request with Transfer-Encoding: chunked and conflicting framing. The http_cb() function in src/http.c tests hm.proto.len with an impossible greater-than-eight condition even though mg_http_parse() requires an eight-byte protocol string, so is_http_1_0 is never set. Mongoose consequently processes chunked encoding that an HTTP/1.0 proxy can ignore, enabling request smuggling and unauthorized access or state changes. This issue is ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-73256",
+   "cvss": 9.1,
+   "ref": "https://github.com/cesanta/mongoose/commit/a9df523f76f43a38bd53b4232b9cfd4c16869e71"
+  },
+  "title_vi": "",
+  "key": "b377398df4c97570d849e1ce499b58ae08509954"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-73257 — Mongoose is an embedded web server and network library",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73257",
+  "published": "2026-08-20T18:16:46.973",
+  "summary": "Mongoose is an embedded web server and network library. Priro to version 7.22, a remote unauthenticated attacker can send an HTTP request containing both Content-Length and Transfer-Encoding: chunked. The cl_count and te_count checks in the mg_http_parse() and http_cb() paths in src/http.c accept both headers and prioritize chunked encoding, while a Content-Length-preferring reverse proxy can use a different request boundary. This CL.TE desynchronization can inject requests that access or modify resources in another user context. This issue is fixed in version 7.22.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-73257",
+   "cvss": 9.1,
+   "ref": "https://github.com/cesanta/mongoose/commit/a9df523f76f43a38bd53b4232b9cfd4c16869e71"
+  },
+  "title_vi": "",
+  "key": "566f8a994002aba4c57edb9d1f889469946696ae"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-73258 — Mongoose is an embedded web server and network library",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73258",
+  "published": "2026-08-20T18:16:47.323",
+  "summary": "Mongoose is an embedded web server and network library. Prior to 7.22, a remote attacker can place a lone carriage return or line feed in multipart input processed by mg_http_next_multipart() in src/http.c. The loops comparing s[b] and s[b + 1], and s[h2] and s[h2 + 1], use an incorrect AND condition and stop when either character resembles part of a CRLF terminator. This truncates headers, filenames, or boundaries and can cause an application to accept dangerous content after seeing a misleading Content-Type value. This issue is fixed in version 7.22.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-73258",
+   "cvss": 6.5,
+   "ref": "https://github.com/cesanta/mongoose/commit/a9df523f76f43a38bd53b4232b9cfd4c16869e71"
+  },
+  "title_vi": "",
+  "key": "9c734ba4cd4d7b875389a584052b77e1b8aa71bf"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-73259 — Mongoose is an embedded web server and network library",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73259",
+  "published": "2026-08-20T18:16:47.730",
+  "summary": "Mongoose is an embedded web server and network library. Prior to 7.22, a remote attacker can send a crafted percent-encoded request path to a deployment using MG_ENABLE_DIRLIST and persuade a user to visit it. The mg_http_serve_dir() and listdir() path in src/http.c places the decoded request URI into the title and h1 elements without HTML entity encoding. The resulting reflected cross-site scripting executes in the Mongoose origin and can expose session data or perform actions as the victim. This issue is fixed in version 7.22.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-73259",
+   "cvss": 5.4,
+   "ref": "https://github.com/cesanta/mongoose/commit/a9df523f76f43a38bd53b4232b9cfd4c16869e71"
+  },
+  "title_vi": "",
+  "key": "30a7827371b9370955d2bff0aff242a1b931e88a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-76641 — Expat through 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76641",
+  "published": "2026-08-20T18:16:51.887",
+  "summary": "Expat through 2.8.3 contains an out-of-bounds read vulnerability that allows attackers to trigger memory corruption by processing XML with external entity parsers created via XML_ExternalEntityParserCreate. A struct size mismatch between ELEMENT_TYPE members causes storeAtts to read the attIndex member past allocated memory boundaries, resulting in failure to normalize whitespace in non-CDATA attributes or a wild pointer dereference causing a segfault. This vulnerability was introduced by the fix for CVE-2026-66046.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-76641",
+   "cvss": 7.5,
+   "ref": "https://github.com/libexpat/libexpat/commit/98599f6dcc2b460410881fe420f5f55d6bec63bf"
+  },
+  "title_vi": "",
+  "key": "cc3c9a70b6390bf64f5c98e74b9bf0d503044b9a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77031 — A vulnerability has been found in Tenda CH22 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77031",
+  "published": "2026-08-20T18:16:53.140",
+  "summary": "A vulnerability has been found in Tenda CH22 1.0.0.1. The affected element is the function formcreateFileName of the file /goform/formcreateFileName. The manipulation of the argument fileNameMit leads to command injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77031",
+   "cvss": 7.4,
+   "ref": "https://candle-throne-f75.notion.site/Tenda-CH22-formcreateFileName-392df0aa118580c38c4ad15fb15cd30d"
+  },
+  "title_vi": "",
+  "key": "e45e563bb07bba074d1699f7bd24009c3ae6296e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77036 — A vulnerability was found in elunez eladmin up to 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77036",
+  "published": "2026-08-20T18:16:53.320",
+  "summary": "A vulnerability was found in elunez eladmin up to 2.7. The impacted element is the function EmailController/AliPayController/GeneratorController/GenConfigController. The manipulation results in improper authorization. The attack can be launched remotely. The exploit has been made public and could be used. The project was informed of the problem early through an issue report but has not responded yet.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77036",
+   "cvss": 6.3,
+   "ref": "https://github.com/elunez/eladmin/"
+  },
+  "title_vi": "",
+  "key": "6848b85d6a4da3ef1e033618140edbd60ada2280"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-15743 — Catalyst::Plugin::Static::Simple versions through 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-15743",
+  "published": "2026-08-20T19:16:48.700",
+  "summary": "Catalyst::Plugin::Static::Simple versions through 0.38 for Perl mark responses as publicly cacheable.\n\nThe _serve_static method always sets the Cache-Control header to \"public\", with no means of overriding it.  This advises proxies that the content may be stored in a shared cache, and may be reused in responses to requests from other users. (This includes requests with an Authorization header.)\n\nConfiguring the expires time to \"0\" to disable caching, as documented, is ignored.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-15743",
+   "cvss": null,
+   "ref": "https://datatracker.ietf.org/doc/html/rfc9111"
+  },
+  "title_vi": "",
+  "key": "f7003654bcc1a433f5ba69799cc483767a784811"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-19586 — A pre-authentication OS command injection vulnerability has been identified in Omada gateways configured to operate as an OpenVPN Server due to insuff",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19586",
+  "published": "2026-08-20T19:16:51.103",
+  "summary": "A pre-authentication OS command injection vulnerability has been identified in Omada gateways configured to operate as an OpenVPN Server due to insufficient validation of client-supplied data during OpenVPN connection establishment. An unauthenticated remote attacker may provide specially crafted input influencing backend command execution logic before authentication completes. Exploitation requires the OpenVPN Server feature to be enabled, VPN service reachable by the attacker and attacker to be able to initiate an OpenVPN connection attempt. \n\n\n\nSuccessful exploitation may allow arbitrary co",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-19586",
+   "cvss": null,
+   "ref": "https://www.omadanetworks.com/en/support/download/"
+  },
+  "title_vi": "",
+  "key": "011ffc3bc6913176304753989c6b3de1666a21ca"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-19683 — A vulnerability exists in the Dynamic DNS (DDNS) functionality of TP-Link Omada Gateways",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19683",
+  "published": "2026-08-20T19:16:51.303",
+  "summary": "A vulnerability exists in the Dynamic DNS (DDNS) functionality of TP-Link Omada Gateways. During communication with a third-party DDNS service, authentication credentials are transmitted over an unencrypted channel. An attacker who can observe or manipulate traffic between an affected device and the DDNS service may obtain sensitive authentication information or interfere with DDNS update operations. Exploitation requires DDNS to be configured, communication with an external DDNS service, and attacker visibility or control of the relevant network path. \n\n\n\n\n\nSuccessful exploitation may result ",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-19683",
+   "cvss": null,
+   "ref": "https://www.omadanetworks.com/en/support/download/"
+  },
+  "title_vi": "",
+  "key": "da6f45d6de7b365e0a79d72b50c175457f33e953"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-43678 — An unauthenticated remote peer can crash any NIOWebSocket-based server (including Vapor and Hummingbird) with a single 11-byte frame sent after a comp",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-43678",
+  "published": "2026-08-20T19:16:52.353",
+  "summary": "An unauthenticated remote peer can crash any NIOWebSocket-based server (including Vapor and Hummingbird) with a single 11-byte frame sent after a completed WebSocket handshake, dropping all active connections until the process restarts. This vulnerability is addressed in swift-nio version 2.101.0.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-43678",
+   "cvss": 5.3,
+   "ref": "https://github.com/apple/container/security/advisories/GHSA-2v2q-4q35-h585"
+  },
+  "title_vi": "",
+  "key": "e08147ad5f02d9bf4aff63f440c08d66e596dec6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-46533 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-46533",
+  "published": "2026-08-20T19:16:52.477",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-46533",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "",
+  "key": "57f95a101c14d00d31dfed39d1eb6b617910086f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-46534 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-46534",
+  "published": "2026-08-20T19:16:52.563",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-46534",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "",
+  "key": "6635fbe8e2cde3db7160ffd8e3448e6a5065cc39"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-46535 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-46535",
+  "published": "2026-08-20T19:16:52.623",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-46535",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "",
+  "key": "25960b3fefcce76543679bf02b3f80020a505809"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-46536 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-46536",
+  "published": "2026-08-20T19:16:52.683",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-46536",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "",
+  "key": "13c100bd0c7567f8c3640de1c2b8217add53e7b4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-46537 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-46537",
+  "published": "2026-08-20T19:16:52.750",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-46537",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "",
+  "key": "dd215fd9333c0caf8d47d0d6b1c35219d9ff4ba3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-49996 — SecureDrop Client is a desktop app for journalists to securely communicate with sources and handle submissions on the SecureDrop Workstation",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-49996",
+  "published": "2026-08-20T19:16:53.757",
+  "summary": "SecureDrop Client is a desktop app for journalists to securely communicate with sources and handle submissions on the SecureDrop Workstation. Prior to version 1.3.1, a malicious SecureDrop Server could bypass securedrop-proxy's origin limitation by responding with cross-origin redirects. SecureDrop Server itself has multiple layers of built-in hardening, and is a dedicated physical machine exposed on the internet only via Tor hidden services for the Source and Journalist interfaces, and optionally via remote SSH access over another Tor hidden service. A newsroom's SecureDrop Workstation commun",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-49996",
+   "cvss": 3.7,
+   "ref": "https://github.com/freedomofpress/securedrop-client/commit/3c9769b12fb115768d43617635fd2e00737ef2f7"
+  },
+  "title_vi": "",
+  "key": "6ad50ebc9af455ae83b7fff317a8156802502222"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-50190 — Shaarli is a personal bookmarking service",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-50190",
+  "published": "2026-08-20T19:16:53.907",
+  "summary": "Shaarli is a personal bookmarking service. Versions prior to 0.16.3 are vulnerable to stored XSS in `application/front/controller/visitor/BookmarkListController.php`. The `permalink` handler concatenates the raw `$bookmark->getTitle()` into the `pagetitle` template variable and the RainTPL template emits it into the document `<title>` element without HTML escaping. A bookmark title containing `</title><script>...</script>` closes the document title early and the injected script executes in the Shaarli origin for any visitor of `/shaare/{hash}`. Shaarli's metadata fetcher copies a remote page's",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-50190",
+   "cvss": null,
+   "ref": "https://github.com/shaarli/Shaarli/security/advisories/GHSA-xm98-h5jj-64xv"
+  },
+  "title_vi": "",
+  "key": "caa6e1f1e731e0e56e48c5aa0fd185c56d0577c5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-53569 — Frappe is a full-stack web application framework",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-53569",
+  "published": "2026-08-20T19:16:54.350",
+  "summary": "Frappe is a full-stack web application framework. In version 16.31.0 and earlier, the whitelisted toggle_like and mark_as_seen endpoints in frappe/desk/like.py and frappe/desk/doctype/note/note.py do not enforce read permission before modifying _liked_by metadata or a Note seen state. An authenticated user can interact with documents or notes that the user cannot read, disclosing resource existence and modifying resource-associated metadata. No released fixed version is available as of this review.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-53569",
+   "cvss": null,
+   "ref": "https://github.com/frappe/frappe/commit/91155d12deba4426cf33196805da77bc78c5cde1"
+  },
+  "title_vi": "",
+  "key": "3460dbe818cfa518b142f01f429ec543a4c55b82"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-53583 — libgit2 is a portable C implementation of the Git core methods provided as a linkable library with a solid API, allowing to build Git functionality in",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-53583",
+  "published": "2026-08-20T19:16:54.500",
+  "summary": "libgit2 is a portable C implementation of the Git core methods provided as a linkable library with a solid API, allowing to build Git functionality into your application. Prior to 1.8.6 and 1.9.5, verify_server_cert in src/libgit2/streams/openssl.c uses an inverted !!memcmp result in the GEN_IPADD branch when comparing an IP-literal host with a certificate IP SubjectAltName. OpenSSL builds reject matching IP addresses and accept mismatched IP addresses, allowing a network attacker with a CA-trusted certificate containing any IP SubjectAltName to intercept libgit2 connections to IP-literal HTTP",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-53583",
+   "cvss": 6.5,
+   "ref": "https://github.com/libgit2/libgit2/commit/647dcb432980b84ede4cb5a008bbd1ccb4ead03d"
+  },
+  "title_vi": "",
+  "key": "9d46cde630575d025515fe81eafe014c1dd636f1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-53584 — libgit2 is a portable C implementation of the Git core methods provided as a linkable library with a solid API, allowing to build Git functionality in",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-53584",
+  "published": "2026-08-20T19:16:54.680",
+  "summary": "libgit2 is a portable C implementation of the Git core methods provided as a linkable library with a solid API, allowing to build Git functionality into your application. Prior to 1.8.6 and 1.9.5, libgit2 does not reject traversal components in a submodule path loaded from .gitmodules. The affected src/libgit2/submodule.c paths include git_submodule_lookup and git_submodule_add_setup. A crafted repository can specify a path such as ../escape-target, and applications that initialize the submodule can create directories outside the repository working tree. This issue is fixed in versions 1.8.6 a",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-53584",
+   "cvss": 4.3,
+   "ref": "https://github.com/libgit2/libgit2/commit/419637d3587396f5d139d6d88480eab3cd81e7a1"
+  },
+  "title_vi": "",
+  "key": "f154916233abaca498865f850afdf97f1dfa071d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-53585 — libgit2 is a portable C implementation of the Git core methods provided as a linkable library with a solid API, allowing to build Git functionality in",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-53585",
+  "published": "2026-08-20T19:16:54.837",
+  "summary": "libgit2 is a portable C implementation of the Git core methods provided as a linkable library with a solid API, allowing to build Git functionality into your application. Prior to 1.8.6 and 1.9.5, git_delta_apply in src/libgit2/delta.c trusts the attacker-controlled res_sz value parsed by hdr_sz from a delta object header and passes that amount to git__malloc before validating delta instructions. Malicious pack data supplied through git_clone, git_fetch, git_remote_fetch, git_indexer_append, or a local attacker-supplied repository can use a very small multi-level OFS_DELTA chain to retain extr",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-53585",
+   "cvss": 5.3,
+   "ref": "https://github.com/libgit2/libgit2/commit/0cdfdd5fa8f8514c82413025e1e0808866cf7c30"
+  },
+  "title_vi": "",
+  "key": "1eb9ac63b2c2f5305fd7962e1ecbd7dfa6c40d0b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-53586 — libgit2 is a portable C implementation of the Git core methods provided as a linkable library with a solid API, allowing to build Git functionality in",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-53586",
+  "published": "2026-08-20T19:16:54.983",
+  "summary": "libgit2 is a portable C implementation of the Git core methods provided as a linkable library with a solid API, allowing to build Git functionality into your application. Prior to 1.8.6 and 1.9.5, the built-in HTTP transport in src/libgit2/transports/http.c follows an offsite initial redirect, and handle_remote_auth and handle_auth pass transport->owner->url instead of transport->server.url to the credential callback when the redirected host returns 401 Unauthorized. A callback that scopes credentials to the original trusted URL can therefore return GIT_CREDENTIAL_USERPASS_PLAINTEXT credential",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-53586",
+   "cvss": 6.5,
+   "ref": "https://github.com/libgit2/libgit2/commit/07de6a7e438f95ac9a6efd3222a82117e871ed27"
+  },
+  "title_vi": "",
+  "key": "a31b3db601cc5fd984be9f3731a7a084e8bdcf08"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-53587 — libgit2 is a portable C implementation of the Git core methods provided as a linkable library with a solid API, allowing to build Git functionality in",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-53587",
+  "published": "2026-08-20T19:16:55.137",
+  "summary": "libgit2 is a portable C implementation of the Git core methods provided as a linkable library with a solid API, allowing to build Git functionality into your application. Prior to 1.8.6 and 1.9.5, libgit2 performs a fixed-size strncmp in set_data in src/libgit2/transports/smart_pkt.c without first verifying that the smart-protocol pkt-line capability buffer contains 14 bytes. A malicious Git server can make bytes after the pkt-line complete object-format=, causing format_str to advance beyond the pkt-line and the following memchr length calculation to underflow. The resulting heap out-of-bound",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-53587",
+   "cvss": 7.5,
+   "ref": "https://github.com/libgit2/libgit2/commit/2c0ce8c0132ac38ab0db28239462a671e2e5440e"
+  },
+  "title_vi": "",
+  "key": "02f9e2316bc1cfd2e43555dde780a7b8f9b49d35"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-53993 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-53993",
+  "published": "2026-08-20T19:16:55.273",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-53993",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "",
+  "key": "efbb50123005d284163beee989675b7c6635ad0f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-54622 — django CMS is an easy-to-use and developer-friendly enterprise content management system powered by Django",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-54622",
+  "published": "2026-08-20T19:16:55.333",
+  "summary": "django CMS is an easy-to-use and developer-friendly enterprise content management system powered by Django. Prior to 5.0.8, the copy_plugins endpoint in cms/admin/placeholderadmin.py authorizes only the destination clipboard. The _copy_plugin_to_clipboard and _copy_placeholder_to_clipboard paths accept source_placeholder_id and source_plugin_id values but use has_copy_plugins_permission and check_source only for the requesting user’s clipboard, without validating the source placeholder. Under CMS_PERMISSION, a staff user with the global add permission for a plugin type can copy plugins from an",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-54622",
+   "cvss": 6.5,
+   "ref": "https://github.com/django-cms/django-cms/commit/7642a98ab3170793c0b27b4125dd1f3d318b8a1c"
+  },
+  "title_vi": "",
+  "key": "8e31c4d6a2303e32a0653598887c2be69f8d8c8c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-54624 — django CMS is an easy-to-use and developer-friendly enterprise content management system powered by Django",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-54624",
+  "published": "2026-08-20T19:16:55.583",
+  "summary": "django CMS is an easy-to-use and developer-friendly enterprise content management system powered by Django. Prior to 5.0.8, render_object_structure in cms/views.py renders cms/toolbar/structure.html for a PageContent object without calling user_can_view_page(). Any staff account can request a restricted page’s structure when CMS_PERMISSION is enabled and the page has view restrictions or CMS_PUBLIC_FOR is set to staff. The response exposes plugin get_short_description() values, including link names, URLs, and text snippets, rather than only the page shape. This issue is fixed in versions 5.0.8",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-54624",
+   "cvss": 6.5,
+   "ref": "https://github.com/django-cms/django-cms/commit/7642a98ab3170793c0b27b4125dd1f3d318b8a1c"
+  },
+  "title_vi": "",
+  "key": "fbaadec9e38d1f79de8acce64c09d3033fe42c8a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-61663 — django CMS is an easy-to-use and developer-friendly enterprise content management system powered by Django",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-61663",
+  "published": "2026-08-20T19:16:56.823",
+  "summary": "django CMS is an easy-to-use and developer-friendly enterprise content management system powered by Django. Prior to 5.0.9, render_object_structure fails to authorize non-PageContent objects that use PlaceholderRelationField. An active staff user without cms.use_structure or model-level view or change permission can request the //admin/cms/placeholder/object/<content_type_id>/structure/<object_id>/ endpoint with guessed content_type_id and object_id values. The response discloses placeholder slot names, plugin trees, plugin identifiers, labels, and object existence for frontend-editable object",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-61663",
+   "cvss": 4.3,
+   "ref": "https://github.com/django-cms/django-cms/commit/9c82abfeb25471583e23906ea1ebef9202527b04"
+  },
+  "title_vi": "",
+  "key": "8b7d178febd1db3e2cd47b6792fcce6250b5efb0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-62315 — Frappe is a full-stack web application framework",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-62315",
+  "published": "2026-08-20T19:16:56.980",
+  "summary": "Frappe is a full-stack web application framework. In version 16.31.0 and earlier, frappe.client.set_value in frappe/client.py checks a dictionary supplied through the fieldname parameter against forbidden standard and child-table fields before parsing the dictionary into individual field names. An authenticated caller can exploit this type confusion to mass-assign protected fields through the client endpoint. No released fixed version is available as of this review.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-62315",
+   "cvss": null,
+   "ref": "https://github.com/frappe/frappe/commit/2a04fae9353c02f0a9ce9f40f92c1eba6765c77b"
+  },
+  "title_vi": "",
+  "key": "957b440cee92caff0c448e3bcab9bd7a4a2f4648"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-63003 — django CMS is an easy-to-use and developer-friendly enterprise content management system powered by Django",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63003",
+  "published": "2026-08-20T19:16:57.163",
+  "summary": "django CMS is an easy-to-use and developer-friendly enterprise content management system powered by Django. Prior to 5.0.9, page duplication lacks an object-level authorization check on the source page. In cms/admin/forms.py, DuplicatePageForm.source accepts any Page, the AddPageForm constructor does not narrow a hidden source field, AddPageForm.clean does not validate the source against the user, and AddPageForm.save calls from_source. In cms/admin/pageadmin.py, duplicate and PageAdmin.has_add_permission check only whether a staff user may add a page. A crafted source value can therefore copy",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-63003",
+   "cvss": 6.5,
+   "ref": "https://github.com/django-cms/django-cms/commit/3e1ccf7573eb1a74ebbbfaaa812c1f5cadf14e6c"
+  },
+  "title_vi": "",
+  "key": "a7f3d82c72f0d5a4187c16905b1ca608c2167253"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-63654 — Frappe is a full-stack web application framework",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63654",
+  "published": "2026-08-20T19:16:57.570",
+  "summary": "Frappe is a full-stack web application framework. In version 16.31.0 and earlier, the whitelisted frappe.model.workflow.bulk_workflow_approval endpoint in frappe/model/workflow.py accepts safe HTTP methods for state-changing workflow approvals because the endpoint is not restricted to POST. An attacker can induce an authenticated victim browser to submit an approval action with the victim privileges. No released fixed version is available as of this review.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-63654",
+   "cvss": null,
+   "ref": "https://github.com/frappe/frappe/commit/8465376ad9f81775c20892338f920c695b88fb1f"
+  },
+  "title_vi": "",
+  "key": "fa69087ae8be906a0d2a48a1f8c567a231eb877e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-64777 — A malicious builder peer may be able to request an in-context file by name from the host and receive the contents of whatever the name resolves to, ev",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-64777",
+  "published": "2026-08-20T19:16:57.733",
+  "summary": "A malicious builder peer may be able to request an in-context file by name from the host and receive the contents of whatever the name resolves to, even when it resolves outside the build context. This vulnerability is addressed in container version 1.2.0.",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-64777",
+   "cvss": 4.3,
+   "ref": "https://github.com/apple/container/security/advisories/GHSA-2v2q-4q35-h585"
+  },
+  "title_vi": "",
+  "key": "64a362a9b4db7bc1e2a31fb1c77872410b48df2f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-66001 — Frappe is a full-stack web application framework",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66001",
+  "published": "2026-08-20T19:16:58.020",
+  "summary": "Frappe is a full-stack web application framework. Prior to 15.114.0 and 16.26.0, the approve and authorize functions in frappe/integrations/oauth2.py allow the OAuth2 consent flow to proceed without restricting approve to POST, without a csrf_token in frappe/templates/includes/oauth_confirmation.html, and without scoping an active OAuth token check to the requesting client. An attacker can cause an authenticated user to approve an OAuth grant or reuse authorization state for the wrong client, exposing data and permitting actions within the granted scopes. This issue is fixed in versions 15.114",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-66001",
+   "cvss": null,
+   "ref": "https://github.com/frappe/frappe/commit/336c7d335db762b494acdfe43aea69d459fd51d7"
+  },
+  "title_vi": "",
+  "key": "f7c43e645fc7e3334965b93442239b27a2afaa1d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-66002 — Frappe is a full-stack web application framework",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66002",
+  "published": "2026-08-20T19:16:58.187",
+  "summary": "Frappe is a full-stack web application framework. Prior to 15.115.0 and 16.27.0, the public request-data web form and PersonalDataDownloadRequest class in frappe/website/doctype/personal_data_download_request/personal_data_download_request.py return distinguishable response shapes for registered and unregistered email addresses, including the user_name field and persistence behavior. A remote attacker can compare the responses to enumerate registered users. This issue is fixed in versions 15.115.0 and 16.27.0.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-66002",
+   "cvss": null,
+   "ref": "https://github.com/frappe/frappe/commit/30fe0b4118ff94c95c239dce4bc74ec4ca10a827"
+  },
+  "title_vi": "",
+  "key": "1ee4507db049fcb33c74f8d96629200ba2333b8c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-66785 — A flaw was found in Submariner",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66785",
+  "published": "2026-08-20T19:16:58.463",
+  "summary": "A flaw was found in Submariner. This vulnerability allows a malicious cluster (spoke) to redirect network traffic from other connected clusters (peer clusters) by publishing a specially crafted network endpoint. The system fails to properly validate the network subnets provided by the malicious cluster, enabling it to declare arbitrary network ranges. Consequently, all network traffic intended for these arbitrary ranges from peer clusters will be rerouted through the attacker's tunnel, potentially leading to unauthorized information disclosure or network disruption.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-66785",
+   "cvss": 9.9,
+   "ref": "https://access.redhat.com/security/cve/CVE-2026-66785"
+  },
+  "title_vi": "",
+  "key": "c341ec6e2dc3833d1ad75582305aa12e0b432daf"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-66787 — A flaw was found in the lighthouse component of Red Hat Advanced Cluster Management for Kubernetes",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66787",
+  "published": "2026-08-20T19:16:58.637",
+  "summary": "A flaw was found in the lighthouse component of Red Hat Advanced Cluster Management for Kubernetes. This vulnerability stems from insufficient validation of advertised IP addresses within EndpointSlice objects. A compromised spoke cluster can exploit this by creating EndpointSlices with attacker-controlled IP addresses, causing other clusters' lighthouse DNS to redirect legitimate service traffic to malicious endpoints. This enables a remote attacker to conduct transparent Man-in-the-Middle (MITM) attacks on cross-cluster service communications, potentially leading to unauthorized information ",
+  "categories": [
+   "breach",
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-66787",
+   "cvss": 8.7,
+   "ref": "https://access.redhat.com/security/cve/CVE-2026-66787"
+  },
+  "title_vi": "",
+  "key": "1cae3bc0ea51bca48854de9f6888d6a473111017"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-66788 — A flaw was found in Lighthouse",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66788",
+  "published": "2026-08-20T19:16:58.823",
+  "summary": "A flaw was found in Lighthouse. A remote attacker, by compromising a spoke cluster, can exploit a vulnerability where the destination namespace for resource injection is derived from an attacker-controlled label or annotation on the broker object. This allows the attacker to inject unauthorized EndpointSlices and ServiceImports into any namespace on peer clusters, including critical system namespaces like kube-system and openshift-*. This could lead to privilege escalation or other forms of system compromise within the cluster.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-66788",
+   "cvss": 9.9,
+   "ref": "https://access.redhat.com/security/cve/CVE-2026-66788"
+  },
+  "title_vi": "",
+  "key": "2d0825230ebbc84031f60e552e32eaa42df26a6f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-6260 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-6260",
+  "published": "2026-08-20T19:16:58.997",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-6260",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "",
+  "key": "67edd48ae0e13181144edd20de055c5f0209125f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-6822 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-6822",
+  "published": "2026-08-20T19:16:59.067",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-6822",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "",
+  "key": "09af1100480db2e10795e764809f0eade189769a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-72852 — hank-ai/darknet sizes a convolutional layer's weight and output heap buffers by multiplying configuration fields taken from a",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72852",
+  "published": "2026-08-20T19:17:00.830",
+  "summary": "hank-ai/darknet sizes a convolutional layer's weight and output heap buffers by multiplying configuration fields taken from a .cfg file in unchecked 32-bit int arithmetic. In src-lib/convolutional_layer.cpp, l.nweights is computed as (c / groups) * n * size * size and l.outputs as l.out_h * l.out_w * l.out_c, and both feed xcalloc directly. A .cfg whose true dimension product exceeds INT_MAX wraps to a small or zero value, so the allocation is undersized; for example width and height of 256 with filters of 65536 gives 2^32, which wraps to 0. forward_convolutional_layer then re-derives the GEMM",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-72852",
+   "cvss": 7.8,
+   "ref": "https://github.com/hank-ai/darknet"
+  },
+  "title_vi": "",
+  "key": "f3ba6e166a897a666bdbd4c70bc464318bc0a3dd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-72854 — msgpack_unpacker_expand_buffer in src/unpack",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72854",
+  "published": "2026-08-20T19:17:01.040",
+  "summary": "msgpack_unpacker_expand_buffer in src/unpack.c, reached through the public msgpack_unpacker_reserve_buffer API, computes its new buffer size using an unchecked size_t addition of the requested size and the amount already used. The doubling loop guards its own multiplication against overflow, but the addition in the loop condition is unguarded, so a request near SIZE_MAX wraps: the loop condition is already satisfied, the allocation is performed at the small pre-wrap size, and the function returns true. The caller is told the requested capacity was reserved when it was not, so a subsequent writ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-72854",
+   "cvss": 5.3,
+   "ref": "https://github.com/msgpack/msgpack-c"
+  },
+  "title_vi": "",
+  "key": "947b25165621393770e17125b344a430e27a72d5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75514 — BunkerWeb is an open-source, next-generation Web Application Firewall",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75514",
+  "published": "2026-08-20T19:17:03.637",
+  "summary": "BunkerWeb is an open-source, next-generation Web Application Firewall. Prior to 1.6.13, the blacklist, greylist, and antibot modules in src/common/core/blacklist/blacklist.lua, src/common/core/greylist/greylist.lua, and src/common/core/antibot/antibot.lua trust PTR suffix matches in IGNORE_RDNS, GREYLIST_RDNS, and ANTIBOT_IGNORE_RDNS without using get_ips to confirm that the hostname resolves to the client address. An unauthenticated remote attacker who controls a PTR record can spoof a trusted suffix to bypass rDNS-based blacklisting, gain greylist treatment, or skip an antibot challenge. Thi",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75514",
+   "cvss": 5.9,
+   "ref": "https://github.com/bunkerity/bunkerweb/commit/1a97e5b3f977130a1b84507a9e1f703c8eec12eb"
+  },
+  "title_vi": "",
+  "key": "d6ff1c36e52a705428bcdcd8cf7ee47d7ec47bbd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75526 — django CMS is an easy-to-use and developer-friendly enterprise content management system powered by Django",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75526",
+  "published": "2026-08-20T19:17:03.787",
+  "summary": "django CMS is an easy-to-use and developer-friendly enterprise content management system powered by Django. From 5.0.8 until 5.0.9, ContentRenderer.render_placeholder in cms/plugin_rendering.py can pass stored, attacker-controlled values to ContentRenderer.render_exception when plugin rendering fails in edit mode. Values from get_short_description(), the exception message, the placeholder, or placeholder.source are interpolated into a cms-rendering-exception heading and later returned through mark_safe. Because the heading is not escaped, stored HTML executes in an editor’s browser, and settin",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75526",
+   "cvss": 4.4,
+   "ref": "https://github.com/django-cms/django-cms/commit/b56a568844ff3702495945f73a31d0868285bf88"
+  },
+  "title_vi": "",
+  "key": "66fd0b4c5a300c69a8ea4afb7a30a491f44e519a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77148 — A vulnerability was found in Comfast CF-N1-S 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77148",
+  "published": "2026-08-20T19:17:04.710",
+  "summary": "A vulnerability was found in Comfast CF-N1-S 2.6.0.1. This impacts the function sub_44B50C of the file /cgi-bin/mbox-config?method=SET&section=ptest_channel of the component Web Management. The manipulation results in stack-based buffer overflow. The attack can be launched remotely. The exploit has been made public and could be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77148",
+   "cvss": 9.9,
+   "ref": "https://github.com/AdminSafe/CVE/issues/7"
+  },
+  "title_vi": "",
+  "key": "190c86cc35028a4986880fa88a0b475cf8de58ff"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-8717 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-8717",
+  "published": "2026-08-20T19:17:04.890",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-8717",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "",
+  "key": "1c9e6786382134b754030e65da3e25765a9bd5f6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-9033 — An unauthenticated attacker with network access to the captive portal service of an affected device can terminate active captive portal sessions, incl",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-9033",
+  "published": "2026-08-20T19:17:04.950",
+  "summary": "An unauthenticated attacker with network access to the captive portal service of an affected device can terminate active captive portal sessions, including forcing logout of specific users or clearing all active sessions. Affected users must re-authenticate to regain access. \n\n\n\nSuccessful exploitation may allow termination of individual or all active captive portal sessions, causing temporary service disruption and requiring users to re-authenticate.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-9033",
+   "cvss": null,
+   "ref": "https://www.omadanetworks.com/en/support/download/"
+  },
+  "title_vi": "",
+  "key": "6e2e40a9ddd1241fc229c0ac402febe27195a721"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-63723 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63723",
+  "published": "2026-08-20T20:17:45.563",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-63723",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "",
+  "key": "0a807c20b6bea3dbbab07d6056a148d27de9d56f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-72861 — The github-issue-bot templates in appwrite/templates verify the GitHub webhook signature with an inverted condition",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72861",
+  "published": "2026-08-20T20:17:46.190",
+  "summary": "The github-issue-bot templates in appwrite/templates verify the GitHub webhook signature with an inverted condition. verifyWebhook in node/github-issue-bot/src/github.js and in node-typescript/github-issue-bot/src/github.ts returns \"typeof signature !== 'string' || (await verify(...))\", so when the X-Hub-Signature-256 header is absent the first operand is true, the logical OR short-circuits, and the function reports success without performing any HMAC verification. main.js rejects a request only when verifyWebhook returns false, so an unauthenticated request carrying no signature passes the ch",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-72861",
+   "cvss": 5.8,
+   "ref": "https://github.com/appwrite/templates"
+  },
+  "title_vi": "",
+  "key": "2473fbff0189106e0a416e128205d87ee510f727"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75910 — Incorrect privilege assignment in the ClickHouse connector deployment template in Amazon Athena Federated Query prior to v2026",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75910",
+  "published": "2026-08-20T20:17:46.937",
+  "summary": "Incorrect privilege assignment in the ClickHouse connector deployment template in Amazon Athena Federated Query prior to v2026.17.1 could allow an authenticated remote user to read arbitrary AWS Secrets Manager secrets in the deploying account by pointing the connector's connection string at an unrelated secret and at a database endpoint under the user's control, causing the connector to transmit the secret to that endpoint. To remediate this issue, users should upgrade to aws-athena-query-federation connectors version v2026.17.1 or later and ensure that any forked or derivative code is patche",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75910",
+   "cvss": 6.5,
+   "ref": "https://aws.amazon.com/security/security-bulletins/2026-084-aws/"
+  },
+  "title_vi": "",
+  "key": "eac98aa456553408d8c3553194e5337852dcdc09"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77151 — A security flaw has been discovered in lin-snow Ech0 up to 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77151",
+  "published": "2026-08-20T20:17:47.253",
+  "summary": "A security flaw has been discovered in lin-snow Ech0 up to 5.4.1. Affected by this issue is the function MD5Encrypt of the file internal/util/crypto/crypto.go. Performing a manipulation results in risky cryptographic algorithm. Remote exploitation of the attack is possible. The complexity of an attack is rather high. The exploitation is known to be difficult. Upgrading to version 5.4.2 can resolve this issue. The patch is named 9ce19a3b0d0765086a655f45d3a706ec1810404f. It is recommended to upgrade the affected component.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77151",
+   "cvss": 3.7,
+   "ref": "https://github.com/lin-snow/Ech0/"
+  },
+  "title_vi": "",
+  "key": "a1b0ae877dcd6108a54ce4fe1ac5e42d5e3279ac"
+ },
+ {
   "source": "VietnamPlus Kinh tế số",
   "title": "Nga phá hủy hơn 700 UAV, Ukraine chịu thiệt hại sau cuộc tấn công quy mô lớn",
   "link": "https://www.vietnamplus.vn/nga-pha-huy-hon-700-uav-ukraine-chiu-thiet-hai-sau-cuoc-tan-cong-quy-mo-lon-post1131469.vnp",
