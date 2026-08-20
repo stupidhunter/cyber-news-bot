@@ -23,7 +23,7 @@ Mỗi **4 giờ**, bot tự động:
 | 🕳️ **Lộ lọt dữ liệu / Ransomware** | Tin về breach, ransomware từ DataBreaches.net + lọc từ khóa |
 | 🤖 **AI Security** | Tin về bảo mật AI: prompt injection, LLM, deepfake... |
 | ☁️ **Cloud Security** | AWS, Azure, GCP, Kubernetes, Docker... |
-| 🇻🇳 **Tin tiếng Việt** | VnExpress, Znews, GenK, Dân Trí, VTC, VietnamNet, Thanh Niên |
+| 🇻🇳 **Tin tiếng Việt** | VnExpress, Znews, GenK, Dân Trí, VTC, VietnamNet, Thanh Niên, TTXVN, Tuổi Trẻ, VietnamPlus — **chỉ giữ tin liên quan bảo mật** (tự động bỏ tin công nghệ thông thường) |
 | 📄 **Trang web lịch sử** | GitHub Pages hiển thị 400 tin gần nhất, có ô tìm kiếm |
 | 🧹 **Chống trùng lặp** | Cùng 1 tin không bao giờ gửi lại |
 | 🔌 **Chạy tay được** | Chạy workflow thủ công bất cứ lúc nào từ tab Actions |
@@ -161,6 +161,7 @@ Sửa danh sách `SOURCES` trong `src/config.py` — mỗi nguồn cần:
 ```
 - `type`: `rss` (RSS/Atom) | `kev` (CISA KEV JSON) | `nvd` (NVD API)
 - `categories`: `cve`, `kev`, `breach`, `ai`, `cloud`, `vietnamese`
+- `security_only: True` (chỉ nguồn tiếng Việt): chỉ giữ tin liên quan bảo mật — lọc bằng từ khóa tiếng Việt trong `src/classify.py` (tự bỏ dấu, so khớp nguyên từ)
 - Sau khi thêm, chạy `scripts/check_feeds.py` để xác minh nguồn còn sống.
 
 ### Thêm từ khóa phân loại

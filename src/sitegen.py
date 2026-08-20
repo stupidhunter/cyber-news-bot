@@ -109,7 +109,7 @@ def generate(items: list[NewsItem], out_path: str,
 <main id="list">
 {items_html}
 </main>
-<footer>Nguồn: NVD, CISA KEV, The Hacker News, SecurityWeek, Krebs, DarkReading, DataBreaches.net, AWS, Cloudflare, CSA, VnExpress, Znews, GenK, Dân Trí, VTC, VietnamNet, Thanh Niên... — tự động thu thập mỗi 4 giờ.</footer>
+<footer>Nguồn: NVD, CISA KEV, The Hacker News, SecurityWeek, Krebs, DarkReading, DataBreaches.net, AWS, Cloudflare, CSA, VnExpress, Znews, GenK, Dân Trí, VTC, VietnamNet, Thanh Niên, TTXVN, Tuổi Trẻ... — tự động thu thập mỗi 4 giờ.</footer>
 <script>
   const q = document.getElementById('q');
   q.addEventListener('input', () => {{

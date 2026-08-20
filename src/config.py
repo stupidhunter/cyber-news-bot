@@ -150,11 +150,14 @@ SOURCES = [
     },
 
     # --- Nguồn tiếng Việt ----------------------------------------------------
+    # security_only=True: chỉ giữ tin liên quan bảo mật/an ninh mạng (lọc từ
+    # khóa tiếng Việt), vì feed công nghệ VN lẫn nhiều tin không phải ATTT.
     {
         "name": "VnExpress Số hóa",
         "type": "rss",
         "lang": "vi",
         "categories": ["vietnamese"],
+        "security_only": True,
         "url": "https://vnexpress.net/rss/so-hoa.rss",
     },
     {
@@ -162,6 +165,7 @@ SOURCES = [
         "type": "rss",
         "lang": "vi",
         "categories": ["vietnamese"],
+        "security_only": True,
         "url": "https://znews.vn/rss/cong-nghe.rss",
     },
     {
@@ -169,6 +173,7 @@ SOURCES = [
         "type": "rss",
         "lang": "vi",
         "categories": ["vietnamese"],
+        "security_only": True,
         "url": "https://genk.vn/rss/home.rss",
     },
     {
@@ -176,6 +181,7 @@ SOURCES = [
         "type": "rss",
         "lang": "vi",
         "categories": ["vietnamese"],
+        "security_only": True,
         "url": "https://dantri.com.vn/rss/suc-manh-so.rss",
     },
     {
@@ -183,6 +189,7 @@ SOURCES = [
         "type": "rss",
         "lang": "vi",
         "categories": ["vietnamese"],
+        "security_only": True,
         "url": "https://vtcnews.vn/rss/cong-nghe.rss",
     },
     {
@@ -190,6 +197,7 @@ SOURCES = [
         "type": "rss",
         "lang": "vi",
         "categories": ["vietnamese"],
+        "security_only": True,
         "url": "https://vietnamnet.vn/cong-nghe.rss",
     },
     {
@@ -197,6 +205,31 @@ SOURCES = [
         "type": "rss",
         "lang": "vi",
         "categories": ["vietnamese"],
+        "security_only": True,
         "url": "https://thanhnien.vn/rss/cong-nghe.rss",
+    },
+    {
+        "name": "Báo Tin tức (TTXVN) KH-CN",
+        "type": "rss",
+        "lang": "vi",
+        "categories": ["vietnamese"],
+        "security_only": True,
+        "url": "https://baotintuc.vn/khoa-hoc-cong-nghe.rss",
+    },
+    {
+        "name": "Tuổi Trẻ Công nghệ",
+        "type": "rss",
+        "lang": "vi",
+        "categories": ["vietnamese"],
+        "security_only": True,
+        "url": "https://tuoitre.vn/rss/cong-nghe.rss",
+    },
+    {
+        "name": "VietnamPlus Kinh tế số",
+        "type": "rss",
+        "lang": "vi",
+        "categories": ["vietnamese"],
+        "security_only": True,
+        "url": "https://www.vietnamplus.vn/rss/kinh-te-so.rss",
     },
 ]

@@ -20,7 +20,7 @@ import sys
 from collections import Counter
 
 from . import sitegen, telegram
-from .classify import classify
+from .classify import classify, is_vi_security
 from .config import SOURCES
 from .fetchers import fetch_kev, fetch_nvd, fetch_rss
 from .models import NewsItem
@@ -53,6 +53,8 @@ def fetch_all(store: Store, lookback_hours: int) -> tuple[list, list]:
             items: list[NewsItem] = []
             for r in raw:
                 text = f'{r.get("title", "")} {r.get("summary", "")}'
+                if src.get("security_only") and not is_vi_security(text):
+                    continue  # bỏ tin tiếng Việt không liên quan bảo mật
                 items.append(
                     NewsItem(
                         source=r["source"],

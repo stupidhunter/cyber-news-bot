@@ -1,6 +1,9 @@
 """Phân loại tin tức theo từ khóa: breach / ai / cloud / general."""
 from __future__ import annotations
 
+import re
+import unicodedata
+
 # Thứ tự ưu tiên hiển thị (mỗi tin chỉ nằm ở 1 danh mục "tốt nhất")
 PRIORITY = ["kev", "cve", "vietnamese", "breach", "ai", "cloud", "general"]
 
@@ -51,3 +54,39 @@ def best_category(cats: list[str]) -> str:
         if c in s:
             return c
     return "general"
+
+
+# ---------------------------------------------------------------------------
+# Lọc tin tiếng Việt: chỉ giữ tin có nội dung liên quan bảo mật / an ninh mạng
+# ---------------------------------------------------------------------------
+
+def normalize(s: str) -> str:
+    """Bỏ dấu tiếng Việt + hạ thường để so khớp từ khóa chắc chắn hơn."""
+    s = unicodedata.normalize("NFD", s)
+    s = "".join(c for c in s if not unicodedata.combining(c))
+    return s.lower().replace("-", " ").replace("_", " ")
+
+
+_VI_SECURITY_RAW = [
+    # Bảo mật / tấn công / mã độc
+    "lừa đảo", "tấn công", "mã độc", "bảo mật", "an ninh mạng",
+    "an toàn thông tin", "lỗ hổng", "hacker", "tin tặc", "rò rỉ",
+    "lộ lọt", "đánh cắp", "chiếm đoạt", "tống tiền", "ransomware",
+    "virus", "phishing", "giả mạo", "mạo danh", "cướp tài khoản",
+    "vi phạm dữ liệu", "đánh cắp dữ liệu", "dữ liệu cá nhân",
+    # AI / Cloud
+    "trí tuệ nhân tạo", "deepfake", "điện toán đám mây", "chatgpt",
+    # Từ đơn cần so khớp nguyên từ
+    "ai", "cloud",
+]
+
+VI_SECURITY_KEYWORDS = [normalize(w) for w in _VI_SECURITY_RAW]
+
+
+def is_vi_security(text: str) -> bool:
+    """Kiểm tra một tin tiếng Việt có liên quan bảo mật không (so khớp từ)."""
+    t = normalize(text)
+    for w in VI_SECURITY_KEYWORDS:
+        if re.search(rf"\b{re.escape(w)}\b", t):
+            return True
+    return False
