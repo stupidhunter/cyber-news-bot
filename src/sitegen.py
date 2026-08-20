@@ -53,15 +53,16 @@ def generate(items: list[NewsItem], out_path: str,
              site_title: str = "Cyber News Bot") -> None:
     """Viết docs/index.html: dashboard + lọc theo danh mục + tìm kiếm."""
     MAX_SHOW = 400
-    shown = items[:MAX_SHOW]
+    # 400 tin MỚI NHẤT theo ngày đăng (không phải thứ tự thu thập)
+    shown = sorted(items, key=lambda x: x.published, reverse=True)[:MAX_SHOW]
     total_store = len(items)
     now = datetime.now(timezone.utc)
     today = now.strftime("%Y-%m-%d")
     yesterday = (now - timedelta(days=1)).strftime("%Y-%m-%d")
 
-    # Nhóm theo ngày
+    # Nhóm theo ngày; trong mỗi ngày sắp theo giờ đăng mới nhất
     by_date: dict[str, list] = defaultdict(list)
-    for it in shown:
+    for it in sorted(shown, key=lambda x: x.published, reverse=True):
         by_date[it.date].append(it)
     dates = sorted(by_date.keys(), reverse=True)
 

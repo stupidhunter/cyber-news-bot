@@ -39,7 +39,7 @@ jobs:
           SITE_URL: ${{ vars.SITE_URL }}
           # Dịch tiêu đề tiếng Anh -> tiếng Việt (0 để tắt)
           TRANSLATE: "1"
-          TRANSLATE_MAX: "40"
+          TRANSLATE_MAX: "60"
 
       - name: Commit dữ liệu + trang web
         # if: always() — kể cả khi Telegram lỗi (token sai chẳng hạn),

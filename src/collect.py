@@ -78,11 +78,13 @@ def fetch_all(store: Store, lookback_hours: int) -> tuple[list, list]:
 
 
 def translate_backfill(store: Store, data_dir: str,
-                       max_per_run: int = 40, delay: float = 0.25) -> int:
-    """Dịch tiêu đề tiếng Anh -> tiếng Việt cho các tin MỚI nhất chưa dịch.
+                       max_per_run: int = 40, delay: float = 0.25,
+                       priority: list | None = None) -> int:
+    """Dịch tiêu đề tiếng Anh -> tiếng Việt.
 
-    - Chạy mỗi kỳ, dịch tối đa max_per_run tin (tin mới ở đầu danh sách,
-      nên vừa dịch tin mới vừa "backfill" dần lịch sử gần nhất).
+    Thứ tự ưu tiên:
+      1. Tin mới thu thập kỳ này (đang được gửi Telegram).
+      2. Tin có ngày đăng MỚI NHẤT (khớp thứ tự hiển thị trên trang web).
     - Có cache nên không dịch lặp lại.
     - Thất bại thì giữ nguyên tiêu đề gốc, không làm hỏng pipeline.
     """
@@ -90,21 +92,31 @@ def translate_backfill(store: Store, data_dir: str,
 
     cache = TranslationCache(os.path.join(data_dir, "translations.json"))
     done = 0
-    for it in store.items:
+
+    def translate_one(it: NewsItem) -> None:
+        nonlocal done
         if done >= max_per_run:
-            break
+            return
         if it.lang == "vi" or it.title_vi:
-            continue
+            return
         vi = cache.get(it.title)
         if vi is None:
             vi = translate_text(it.title)
             if not vi or vi.lower() == it.title.lower():
                 cache.put(it.title, vi or it.title)  # nhớ để khỏi thử lại
-                continue
+                return
             cache.put(it.title, vi)
             time.sleep(delay)
         it.title_vi = vi
         done += 1
+
+    # 1) Tin mới kỳ này trước
+    for it in (priority or []):
+        translate_one(it)
+    # 2) Backfill theo ngày đăng mới nhất
+    for it in sorted(store.items, key=lambda x: x.published, reverse=True):
+        translate_one(it)
+
     if done:
         cache.save()
         store.save()
@@ -164,6 +176,7 @@ def main() -> int:
             data_dir,
             max_per_run=_env_int("TRANSLATE_MAX", 40),
             delay=float(os.environ.get("TRANSLATE_DELAY", "0.25")),
+            priority=all_new,
         )
 
     # Sinh trang web
