@@ -1,5 +1,207 @@
 [
  {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Diễn đàn Kinh tế phương Đông 2026 chú trọng đến vấn đề Doanh nghiệp vừa và nhỏ",
+  "link": "https://www.vietnamplus.vn/dien-dan-kinh-te-phuong-dong-2026-chu-trong-den-van-de-doanh-nghiep-vua-va-nho-post1131359.vnp",
+  "published": "2026-08-20T08:32:00+00:00",
+  "summary": "Diễn đàn Kinh tế phương Đông 2026 sẽ diễn ra từ 1-4/9 tại Nga, sẽ thúc đẩy phát triển doanh nghiệp vừa và nhỏ qua công nghệ, tự động hóa và an ninh mạng. Việt Nam sẵn sàng tạo điều kiện thuận lợi cho doanh nghiệp Nga đầu tư Doanh nghiệp Nga hỗ trợ quản lý hoạt động sản xuất công nghiệp tại Cuba Thủ tướng dự Diễn đàn doanh nghiệp Việt Nam-Liên bang Nga",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "6b784d7e36cb6ad96c05ecd1729ac65a1fe9ece1"
+ },
+ {
+  "source": "GenK",
+  "title": "Edge AI: Ván cờ mới của Intel và cơ hội nào cho Việt Nam?",
+  "link": "https://genk.vn/edge-ai-van-co-moi-cua-intel-va-co-hoi-nao-cho-viet-nam-165260820141725371.chn",
+  "published": "2026-08-20T08:33:30.453495+00:00",
+  "summary": "Intel vừa công bố giải pháp Edge AI (AI tại biên) toàn diện cho doanh nghiệp, từ nhà máy đến bệnh viện. Với nhà máy lớn nhất toàn cầu đặt tại Thành phố Hồ Chí Minh, Việt Nam đang ở vị trí nào trong cuộc chơi này?",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "24d0c691d596b6cc7be1253d67332c594d98c6a1"
+ },
+ {
+  "source": "Znews Công nghệ",
+  "title": "Dữ liệu quyết định hiệu quả khi doanh nghiệp đưa AI vào vận hành",
+  "link": "https://znews.vn/du-lieu-quyet-dinh-hieu-qua-khi-doanh-nghiep-dua-ai-vao-van-hanh-post1678142.html",
+  "published": "2026-08-20T08:00:59+00:00",
+  "summary": "Khi trí tuệ nhân tạo ngày càng được tích hợp sâu vào hoạt động doanh nghiệp, khả năng kết nối, quản lý, theo dõi dữ liệu là yếu tố quyết định để vận hành ổn định, tạo giá trị thực.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "d2795f194dd895bb2c2f9f9a408f7a63c1e98394"
+ },
+ {
+  "source": "SecurityWeek",
+  "title": "Critical GitLab Flaw Exploited Shortly After Disclosure",
+  "link": "https://www.securityweek.com/critical-gitlab-flaw-exploited-shortly-after-disclosure/",
+  "published": "2026-08-20T07:48:24+00:00",
+  "summary": "CVE-2026-19478 can be exploited without authentication to modify or delete public projects and user data. The post Critical GitLab Flaw Exploited Shortly After Disclosure appeared first on SecurityWeek .",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Lỗ hổng GitLab nghiêm trọng bị khai thác ngay sau khi được tiết lộ",
+  "key": "f89d84eee9818cdb30f60f349045b02bdd176e3d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2025-14602 — The application generates uploaded file names using a weak and predictable method based on the request timestamp",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-14602",
+  "published": "2026-08-20T07:16:30.623",
+  "summary": "The application generates uploaded file names using a weak and predictable method based on the request timestamp. This allows a remote attacker to accurately guess or brute-force the generated filename within a short time window. An attacker can successfully locate and access uploaded files, which can be used to facilitate further attacks.\n\n\n\n\nApply patch from vendor  https://vsdesk.ru/ . Versions 14.0101 and on have the patch.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2025-14602",
+   "cvss": null,
+   "ref": "https://github.com/klsecservices/Advisories/blob/master/KLSA-00294-Weak-File-Name-Generation-in-vsDesk.md"
+  },
+  "title_vi": "CVE-2025-14602 — Ứng dụng tạo tên tệp đã tải lên bằng phương pháp yếu và có thể dự đoán được dựa trên dấu thời gian yêu cầu",
+  "key": "be29018a251ce95b3029d6917da7d7b3342fa6e3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-14163 — In affected versions of Octopus Server under certain circumstances it is possible for sensitive variables to be printed in the deployment variable sna",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-14163",
+  "published": "2026-08-20T07:16:32.250",
+  "summary": "In affected versions of Octopus Server under certain circumstances it is possible for sensitive variables to be printed in the deployment variable snapshot in clear-text.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-14163",
+   "cvss": null,
+   "ref": "https://advisories.octopus.com/post/2026/sa2026-07/"
+  },
+  "title_vi": "CVE-2026-14163 — Trong các phiên bản bị ảnh hưởng của Octopus Server trong một số trường hợp nhất định, các biến nhạy cảm có thể được in trong biến triển khai sna",
+  "key": "55eeb44d7a7b7bf89cd6a73f67bfbbc5993d225a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71368 — F-RevoCRM contains a cross-site scripting vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71368",
+  "published": "2026-08-20T07:16:32.400",
+  "summary": "F-RevoCRM contains a cross-site scripting vulnerability. If a user views a crafted page while logged in to the affected product, unintended operations may be performed.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71368",
+   "cvss": 6.1,
+   "ref": "https://f-revocrm.jp/2026/08/47374/"
+  },
+  "title_vi": "CVE-2026-71368 — F-RevoCRM chứa lỗ hổng tập lệnh chéo trang",
+  "key": "26008888fc02b9eb103a33cca80dedafbf2dacbd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2025-14601 — An OS command injection vulnerability in vsDesk allows an authenticated attacker with administrative privileges to execute arbitrary operating system ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-14601",
+  "published": "2026-08-20T08:16:46.273",
+  "summary": "An OS command injection vulnerability in vsDesk allows an authenticated attacker with administrative privileges to execute arbitrary operating system commands due to insufficient input filtering. An attacker can exploit this flaw to disrupt web server operations, expose sensitive data, or potentially achieve full server compromise.\n\n\n\n\nApply patch from vendor  https://vsdesk.ru/ . Versions 14.0101 and on have the patch.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2025-14601",
+   "cvss": null,
+   "ref": "https://github.com/klsecservices/Advisories/blob/master/KLSA-00343-vsDesk-Task-Scheduler-OS-Command-Injection.md"
+  },
+  "title_vi": "CVE-2025-14601 — Lỗ hổng chèn lệnh hệ điều hành trong vsDesk cho phép kẻ tấn công được xác thực có đặc quyền quản trị để thực thi hệ điều hành tùy ý",
+  "key": "8953cc212afbd2b33e179edfb7a1da9c6bba98c5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75948 — Joomla Extension - icagenda",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75948",
+  "published": "2026-08-20T08:16:47.640",
+  "summary": "Joomla Extension - icagenda.com -  Authenticated Stored XSS in iCagenda 4.0.8 to 4.0.12 - The frontend \"Submit an Event\" form stores the `image` and `file` fields as raw strings with no output-side HTML-attribute escaping.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75948",
+   "cvss": null,
+   "ref": "https://www.icagenda.com/"
+  },
+  "title_vi": "CVE-2026-75948 — Phần mở rộng Joomla - icagenda",
+  "key": "332f8ccd12c6a548781b949e6aebb553a0a770c9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-76564 — Joomla Extension - phoca",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76564",
+  "published": "2026-08-20T08:16:47.770",
+  "summary": "Joomla Extension - phoca.cz -  Stored XSS via User-Agent header in Admin Order View in Phoca Cart 5.0.0-6.1.7",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-76564",
+   "cvss": null,
+   "ref": "https://www.phoca.cz/phocacart"
+  },
+  "title_vi": "CVE-2026-76564 — Tiện ích mở rộng Joomla - phoca",
+  "key": "2a6c56b92e5478680d5e1c0d758d6cda6ef9af08"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-76565 — Joomla Extension - phoca",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76565",
+  "published": "2026-08-20T08:16:47.900",
+  "summary": "Joomla Extension - phoca.cz - Reflected XSS via price_from & price_to filter parameters in Phoca Cart 5.0.0-6.1.7",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-76565",
+   "cvss": null,
+   "ref": "https://www.phoca.cz/phocacart"
+  },
+  "title_vi": "CVE-2026-76565 — Tiện ích mở rộng Joomla - phoca",
+  "key": "d44d181a4efe7ea9ba8e0eaabbf5b0b6da5543b6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-76569 — Joomla Extension - phoca",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76569",
+  "published": "2026-08-20T08:16:48.040",
+  "summary": "Joomla Extension - phoca.cz - Reflected XSS via the search GET parameter in Phoca Download 5.0.0-6.1.4",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-76569",
+   "cvss": null,
+   "ref": "https://www.phoca.cz/phocacart"
+  },
+  "title_vi": "CVE-2026-76569 — Tiện ích mở rộng Joomla - phoca",
+  "key": "e045c2a5aec2aef637a400f3de9b6c28fb9de4cb"
+ },
+ {
   "source": "VnExpress Số hóa",
   "title": "Giám đốc cấp cao Apple: Giáo dục cần tư duy phản biện thời AI",
   "link": "https://vnexpress.net/giam-doc-cap-cao-apple-giao-duc-can-tu-duy-phan-bien-thoi-ai-5107241.html",
@@ -40,7 +242,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Tin tặc sử dụng AI để nhắm mục tiêu PLC Siemens trong các lĩnh vực quan trọng của Hoa Kỳ",
   "key": "8a10571ac35ee5aec784245c7bc6c1408f983e7f"
  },
  {
@@ -1425,7 +1627,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Báo cáo SOC 1 mùa hè năm 2026 hiện có sẵn với 185 dịch vụ trong phạm vi",
   "key": "7188475b2d2b01da80115830f31d859c961de439"
  },
  {
@@ -1439,7 +1641,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "AWS đã hoàn thành thành công quá trình đánh giá NHS DSPT 2025-26",
   "key": "b203b0bd7c1236e4499ab6bdfc4820e26555911a"
  },
  {
@@ -1453,7 +1655,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "AWS hoàn thành đợt kiểm tra Cơ sở an toàn được cảnh sát đảm bảo (PASF) năm 2026 ở Châu Âu (London)",
   "key": "1313af0754bc21008430bed91a97538d4edbfee1"
  },
  {
@@ -1467,7 +1669,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Hiện đã có báo cáo AWS CyberVadis 2026 để thẩm định nhà cung cấp bên thứ ba",
   "key": "db831887ccdc9faa680caef76ae89941b0a22eb6"
  },
  {
@@ -1481,7 +1683,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Một thập kỷ nhận diện doanh nghiệp trên đám mây với AWS Managed Microsoft AD",
   "key": "181f60b4140d9050acc23fea135afd54cfdb7f78"
  },
  {
@@ -1495,7 +1697,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Bảo mật bộ chứa Amazon S3 của bạn: Xác định và khắc phục quyền truy cập quá mức",
   "key": "712b5162055e617f157bd15a00f5aaebf659ca37"
  },
  {
@@ -1509,7 +1711,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Tự động hóa chứng chỉ với sự hỗ trợ ACME trong Trình quản lý chứng chỉ AWS",
   "key": "66145b6ef37aecaf75aa47034e1e34062019c021"
  },
  {
@@ -1523,7 +1725,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Lưu các khóa dữ liệu KMS vào bộ nhớ đệm trong môi trường đa luồng: Mã hóa cho mỗi đối tượng thuê cho các hệ thống hướng sự kiện trên quy mô lớn",
   "key": "14d4d8eb42f352789d2c78c5706f50b2ba67c697"
  },
  {
@@ -1538,7 +1740,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "AWS hợp tác với Anthropic và OpenAI để đưa AWS Continuum vào quy trình làm việc của nhà phát triển",
   "key": "aa5b6726cef539685f97547c2c49b3243809c94c"
  },
  {
@@ -1552,7 +1754,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Từ 2 tuần đến 2 phút: Amazon Cognito ra mắt Giới hạn được cung cấp để quản lý giới hạn tốc độ tự phục vụ",
   "key": "2306a4dd85e7719f608783bd3348085872c125d5"
  },
  {
@@ -1566,7 +1768,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Hiện đã có gói tuân thủ PCI DSS và PCI 3DS mùa xuân 2026 dành cho AWS",
   "key": "59db9a951e24e94e4ea8487f8d27682cdad55985"
  },
  {
@@ -1580,7 +1782,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Quy tắc bảo mật HIPAA trên AWS – Hướng dẫn sẵn sàng và triển khai các biện pháp bảo vệ kỹ thuật",
   "key": "366a1bd7623ba9845c287d45c9826b7bf200eadb"
  },
  {
@@ -1595,7 +1797,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Cân bằng tốc độ và an toàn: Khung kiểm soát cho các tác nhân mã hóa AI",
   "key": "b192104ef065e042a9cdb773000837aee05f211c"
  },
  {
@@ -1848,7 +2050,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Thử nghiệm quảng cáo trong ChatGPT",
   "key": "7883b500855a0356de00f475291a79f9956b2a9a"
  },
  {
@@ -1863,7 +2065,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Các mô hình bình minh hiện có sẵn trên AWS",
   "key": "c0aa24ea3cc9c19bd9fbfe9712eab733a9dc07aa"
  },
  {
@@ -1877,7 +2079,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Thư của OpenAI gửi Thống đốc Abbott về cơ sở hạ tầng AI có trách nhiệm ở Texas",
   "key": "ee153ff1e185fe7b679cf64437e8f767ec5dee40"
  },
  {
@@ -1891,7 +2093,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Model ML hoàn thành công việc tài chính hiệu quả hơn với GPT-5.6 Sol",
   "key": "c15da060944ebaa8eb050953ee8f28a1c199d5c1"
  },
  {
@@ -1905,7 +2107,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Việc xây dựng chức năng tài chính gốc AI đã dạy tôi điều gì",
   "key": "c99a19c6837ea06ea9868b6e0c61d6b69799818d"
  },
  {
@@ -1919,7 +2121,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Đưa các mô hình mạng biên giới vào tay những người đáng tin cậy hơn",
   "key": "4f5babfd3f7dbe1ae1f758eedfb581396c2aa134"
  },
  {
@@ -1933,7 +2135,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Mở rộng bình minh khi cửa sổ phòng thủ mạng thu hẹp",
   "key": "5ac902a093eda18d4e54df9be0c6f65bee28376e"
  },
  {
@@ -1947,7 +2149,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Ghế cao cấp đang đến với ChatGPT Business",
   "key": "3805ab6a734514f4bd97f272b20a8d6f8e5625bd"
  },
  {
@@ -2214,7 +2416,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Thần đèn AI ​​nơi hoang dã",
   "key": "5fe3fb5d29ca2b6ee93cb3fb6c4df569f78df221"
  },
  {
@@ -2228,7 +2430,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "AI cho hỗ trợ quân sự",
   "key": "a8490b7b7fabedb5f9eb752e514c870837327fa4"
  },
  {
@@ -2298,7 +2500,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Tại sao phép ẩn dụ có thể quyết định chiến lược bảo mật của bạn",
   "key": "b4a1c9fc8a233026f8169e96973771c62b2e0d3a"
  },
  {
@@ -2312,7 +2514,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "\"Tiếp tục đi anh bạn. Anh có cái này!\" Cái nhìn dựa trên dữ liệu về cách các đối thủ đang vũ khí hóa AI",
   "key": "7ac28026b3fcdc43c2e7a2855417763c3d09d1fb"
  },
  {
@@ -2326,7 +2528,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "[Hội thảo trực tuyến] Câu chuyện từ tiền tuyến: Thông tin tóm tắt độc quyền về các sự cố trong Quý 2",
   "key": "0335bf0590995fd14156224c9d7a067fb94b4b63"
  },
  {
@@ -2340,7 +2542,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Bạn đang say mê điều gì đó với \"It's the Climb\", Miley",
   "key": "0ac4cc8f4a4dc759cadc1c79ce5a619309d00ae0"
  },
  {
@@ -2354,7 +2556,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Mũ đen đặc biệt: Tua lại và xem lại",
   "key": "33b43f6bfe7f174243d73a0f707216a597f0a259"
  },
  {
@@ -2818,7 +3020,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Kimwolf v7: Sự phát triển của Botnet Kimwolf",
   "key": "6e806c9b3e9545f282048cf63fab713a796b9255"
  },
  {
@@ -2832,7 +3034,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Mối đe dọa thường trực: Phân tích các hoạt động và truyền thông C2 dựa trên Blockchain của Aeternum",
   "key": "4fd2fdb903aaed0c0ca976ec61408fa6458b51cb"
  },
  {
@@ -2846,7 +3048,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Bên trong SOC hiện đại: Cánh cửa nhận dạng",
   "key": "b66cd07f89c9609536bd2050271286d24feb9486"
  },
  {
@@ -2860,7 +3062,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "ChainDrop: Bên trong một con sâu npm tự lan truyền",
   "key": "a231fd411877bc806f2a0377d23bf6c3c77cab6f"
  },
  {
@@ -2874,7 +3076,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Đánh cắp mã thông báo: Tội phạm mạng có thể đánh cắp tài nguyên AI của bạn",
   "key": "ea9ab5149d1ca062f48f6c8276a715281daad16a"
  },
  {
@@ -2888,7 +3090,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Sự bùng nổ lỗ hổng AI của Frontier: Công nghiệp hóa việc khám phá ngày không tự động trong phần mềm nguồn mở",
   "key": "19681c435571c0388446e21052590221e4e853a2"
  },
  {
@@ -2902,7 +3104,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Gần một nửa số mẫu phần mềm độc hại giao tiếp trực tiếp tới IP",
   "key": "4606b5d5927dc9523530af620a665428e5ca0c64"
  },
  {
@@ -2916,7 +3118,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Truyền mật khẩu: Bề mặt tấn công mới trong xác thực không mật khẩu",
   "key": "fd68b45c2b3dd165dc64023eb64a71f90e58b08d"
  },
  {
@@ -2930,7 +3132,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Sát thủ Xcode trở lại: Đi sâu vào phiên bản XCSSET mới nhất",
   "key": "b493c1c487644e41202d1e5166c6ae6ff9b2f212"
  },
  {
@@ -2945,7 +3147,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Kẻ đe dọa nói tiếng Trung Quốc khai thác các mô hình AI cho các cuộc tấn công mạng tự trị",
   "key": "2cdd9cc58d13065c385eaaac8cd6dc14aebf3c32"
  },
  {
@@ -3451,7 +3653,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Microsoft vá gần 400 lỗ hổng bảo mật",
   "key": "1fb9f5f3675f6998e664e468a0ec14b523e562a8"
  },
  {
@@ -3465,7 +3667,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Người đàn ông Canada nhận tội tống tiền bằng bông tuyết",
   "key": "1058b23cdd114e8434871d76e79564df66b03c1f"
  },
  {
@@ -3479,7 +3681,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Hãy đọc phần này trước khi bạn mua thanh phát trực tuyến trên TV đó",
   "key": "9367e0e6b68b63ec8fddae04fd942b1b579c08b3"
  },
  {
@@ -4201,7 +4403,7 @@
    "due_date": "2026-08-14",
    "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-20349 — Thiết bị bảo mật thích ứng tường lửa an toàn (ASA) của Cisco và lỗ hổng kiểm tra khối bảo vệ mối đe dọa tường lửa (FTD)",
   "key": "a7fe9a7d329ea2d2a94d0f2a17c21d96b791eff8"
  },
  {
@@ -4221,7 +4423,7 @@
    "due_date": "2026-08-25",
    "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-68820 — Trình điều khiển chức năng phụ trợ của Microsoft Windows dành cho lỗ hổng WinSock Use-After-Free",
   "key": "7c12b080cbd54e9ef63c38dac52c058ea4f71384"
  },
  {
@@ -4242,7 +4444,7 @@
    "due_date": "2026-08-14",
    "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-72898 — Lỗ hổng chèn SQL Metabase",
   "key": "09e9a0aa5820a5d0bd62947f549fea4ae79ee49c"
  },
  {
@@ -4262,7 +4464,7 @@
    "due_date": "2026-08-10",
    "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-8037 — Lỗ hổng chèn lệnh Progress LoadMaster",
   "key": "025d8a5e9cd4c525ff0836c6b5da165b72fc9698"
  },
  {
@@ -4282,7 +4484,7 @@
    "due_date": "2026-08-08",
    "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-63077 — JetBrains TeamCity Deserialization lỗ hổng dữ liệu không đáng tin cậy",
   "key": "f7b5674325a056a3cd1b26a1b70f5f7beb0bc81e"
  },
  {
@@ -4303,7 +4505,7 @@
    "due_date": "2026-08-07",
    "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-18556 — Bỏ qua xác thực trung tâm N có thể sử dụng đường dẫn thay thế hoặc lỗ hổng kênh",
   "key": "2691d44ae00cb8be2333cb798ece99cbb52cd8e6"
  },
  {
@@ -4323,7 +4525,7 @@
    "due_date": "2026-08-07",
    "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-34486 — Apache Tomcat thiếu mã hóa lỗ hổng dữ liệu nhạy cảm",
   "key": "3c85e25749427709d09b2f6c66c00d00164b86cd"
  },
  {
@@ -4343,7 +4545,7 @@
    "due_date": "2026-08-07",
    "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-9198 — Lỗ hổng chèn mã Langflow của IBM",
   "key": "e3fb51bbee751a57b4292df849922338838ae121"
  },
  {
@@ -4364,7 +4566,7 @@
    "due_date": "2026-08-06",
    "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-18577 — Bỏ qua xác thực trung tâm N có thể sử dụng đường dẫn thay thế hoặc lỗ hổng kênh",
   "key": "3b38da28bdff584195dc1926583abb555a680ec3"
  },
  {
