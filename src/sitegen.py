@@ -132,12 +132,16 @@ def generate(items: list[NewsItem], out_path: str,
             if it.extra.get("vendor"):
                 chips.append(f'<span class="chip vendor">{_esc(it.extra["vendor"])}</span>')
             chips_html = "".join(chips)
+            title = it.title_vi or it.title
+            orig = ""
+            if it.title_vi and it.title_vi != it.title:
+                orig = f'<span class="orig">EN: {_esc(it.title)}</span>'
             rows.append(
                 f'<div class="item" data-cat="{cat}" data-date="{d}">'
                 f'<span class="badge" style="--c:{color}">{label}</span>'
-                f'<a class="title" href="{_esc(it.link)}" target="_blank" rel="noopener">{_esc(it.title)}</a>'
+                f'<a class="title" href="{_esc(it.link)}" target="_blank" rel="noopener">{_esc(title)}</a>'
                 f'{chips_html}'
-                f'<span class="meta">{_esc(it.source)} · {_esc(_fmt(it.published, with_year=False))}</span>'
+                f'<span class="meta">{_esc(it.source)} · {_esc(_fmt(it.published, with_year=False))}{orig}</span>'
                 f'</div>'
             )
     items_html = "\n".join(rows) if rows else "<p>Chưa có dữ liệu.</p>"
@@ -227,6 +231,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   .chip.due { background:#3b0f14; color:#fca5a5; }
   .chip.vendor { background:#0c2a3a; color:#67e8f9; }
   .meta { flex-basis:100%; color:#64748b; font-size:11.5px; }
+  .orig { color:#7c8db0; font-style:italic; margin-left:6px; }
   .empty { text-align:center; color:#64748b; padding:40px 0; font-size:15px; }
   .hide { display:none !important; }
   footer { text-align:center; color:#475569; font-size:12px; padding:24px; }

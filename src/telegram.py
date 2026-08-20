@@ -33,7 +33,8 @@ def _fmt_time(iso: str) -> str:
 
 
 def _item_line(it) -> str:
-    line = f"• {_link(it.title, it.link)} <i>— {_esc(it.source)}</i>"
+    title = it.title_vi or it.title
+    line = f"• {_link(title, it.link)} <i>— {_esc(it.source)}</i>"
     t = _fmt_time(it.published)
     if t:
         line += f" <i>({t})</i>"
@@ -83,7 +84,8 @@ def build_kev_alert(items: list) -> list[str]:
         return []
     lines = ["🚨 <b>ALERT: Lỗ hổng MỚI đang bị khai thác (CISA KEV)</b>"]
     for it in kev[:10]:
-        lines.append(f"• {_link(it.title, it.link)}")
+        title = it.title_vi or it.title
+        lines.append(f"• {_link(title, it.link)}")
         if it.extra.get("required_action"):
             action = _esc(it.extra["required_action"])[:140]
             lines.append(f"   <i>{action}</i>")

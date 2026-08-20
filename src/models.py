@@ -18,6 +18,7 @@ class NewsItem:
     categories: list = field(default_factory=list)   # ví dụ ["cve"], ["ai", "cloud"]
     lang: str = "en"     # "en" | "vi"
     extra: dict = field(default_factory=dict)        # CVSS, KEV details...
+    title_vi: str = ""   # tiêu đề đã dịch sang tiếng Việt (nếu có)
 
     @property
     def key(self) -> str:
@@ -41,6 +42,7 @@ class NewsItem:
             categories=list(d.get("categories", [])),
             lang=d.get("lang", "en"),
             extra=d.get("extra", {}),
+            title_vi=d.get("title_vi", ""),
         )
 
     @property

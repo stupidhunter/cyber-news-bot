@@ -25,6 +25,7 @@ from .config import SOURCES
 from .fetchers import fetch_kev, fetch_nvd, fetch_rss
 from .models import NewsItem
 from .store import Store
+from .translate import TranslationCache, translate_text
 
 log = logging.getLogger("collect")
 
@@ -76,6 +77,41 @@ def fetch_all(store: Store, lookback_hours: int) -> tuple[list, list]:
     return all_new, errors
 
 
+def translate_backfill(store: Store, data_dir: str,
+                       max_per_run: int = 40, delay: float = 0.25) -> int:
+    """Dịch tiêu đề tiếng Anh -> tiếng Việt cho các tin MỚI nhất chưa dịch.
+
+    - Chạy mỗi kỳ, dịch tối đa max_per_run tin (tin mới ở đầu danh sách,
+      nên vừa dịch tin mới vừa "backfill" dần lịch sử gần nhất).
+    - Có cache nên không dịch lặp lại.
+    - Thất bại thì giữ nguyên tiêu đề gốc, không làm hỏng pipeline.
+    """
+    import time
+
+    cache = TranslationCache(os.path.join(data_dir, "translations.json"))
+    done = 0
+    for it in store.items:
+        if done >= max_per_run:
+            break
+        if it.lang == "vi" or it.title_vi:
+            continue
+        vi = cache.get(it.title)
+        if vi is None:
+            vi = translate_text(it.title)
+            if not vi or vi.lower() == it.title.lower():
+                cache.put(it.title, vi or it.title)  # nhớ để khỏi thử lại
+                continue
+            cache.put(it.title, vi)
+            time.sleep(delay)
+        it.title_vi = vi
+        done += 1
+    if done:
+        cache.save()
+        store.save()
+        log.info("Đã dịch %d tiêu đề sang tiếng Việt (cache %d)", done, len(cache.data))
+    return done
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description="Cyber News Bot")
     ap.add_argument("--dry-run", action="store_true",
@@ -84,6 +120,8 @@ def main() -> int:
                     help="gửi tin nhắn test tới Telegram rồi thoát")
     ap.add_argument("--no-site", action="store_true", help="không sinh trang web")
     ap.add_argument("--no-telegram", action="store_true", help="không gửi Telegram")
+    ap.add_argument("--no-translate", action="store_true",
+                    help="tắt dịch tiêu đề sang tiếng Việt")
     args = ap.parse_args()
 
     logging.basicConfig(
@@ -117,6 +155,16 @@ def main() -> int:
     counts = Counter(it.categories[0] for it in all_new if it.categories)
     summary = ", ".join(f"{c}={n}" for c, n in counts.most_common())
     log.info("==> Tin mới kỳ này: %d (%s)", len(all_new), summary or "không có")
+
+    # Dịch tiêu đề tiếng Anh -> tiếng Việt (tắt bằng --no-translate hoặc TRANSLATE=0)
+    translate_on = os.environ.get("TRANSLATE", "1") not in ("0", "false", "False")
+    if not args.no_translate and translate_on:
+        translate_backfill(
+            store,
+            data_dir,
+            max_per_run=_env_int("TRANSLATE_MAX", 40),
+            delay=float(os.environ.get("TRANSLATE_DELAY", "0.25")),
+        )
 
     # Sinh trang web
     if not args.no_site:

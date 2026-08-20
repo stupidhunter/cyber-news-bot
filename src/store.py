@@ -43,6 +43,10 @@ class Store:
             self._save()
         return fresh
 
+    def save(self) -> None:
+        """Lưu lại trạng thái hiện tại (dùng sau khi cập nhật title_vi...)."""
+        self._save()
+
     def _save(self) -> None:
         os.makedirs(os.path.dirname(self.path) or ".", exist_ok=True)
         tmp = self.path + ".tmp"

@@ -171,6 +171,12 @@ Sửa `KEYWORDS` trong `src/classify.py` (Anh + Việt).
 - Mỗi danh mục tối đa 10 tin/tin nhắn (`MAX_PER_CAT` trong `src/telegram.py`)
 - Lịch sử tối đa 4000 tin (`MAX_ITEMS`, có thể set qua env)
 
+### Dịch tiêu đề sang tiếng Việt
+- Mặc định **bật** (dịch tối đa 40 tin mỗi kỳ, tin mới nhất trước — dần dần backfill lịch sử gần nhất)
+- Tắt bằng `--no-translate` hoặc env `TRANSLATE=0`
+- Điều chỉnh: `TRANSLATE_MAX` (số tin mỗi kỳ), `TRANSLATE_DELAY` (giây giữa 2 lần gọi API, mặc định 0.25)
+- Bản dịch được cache trong `data/translations.json` (commit lên repo nên không dịch lại lần sau)
+
 ---
 
 ## 🩺 Khắc phục sự cố
