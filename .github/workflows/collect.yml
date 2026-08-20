@@ -39,6 +39,9 @@ jobs:
           SITE_URL: ${{ vars.SITE_URL }}
 
       - name: Commit dữ liệu + trang web
+        # if: always() — kể cả khi Telegram lỗi (token sai chẳng hạn),
+        # dữ liệu đã thu thập vẫn được commit để không mất lịch sử.
+        if: always()
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: cập nhật tin tức (run ${{ github.run_number }})"

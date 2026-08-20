@@ -103,7 +103,11 @@ def main() -> int:
         if not token or not chat_id:
             log.error("Cần TELEGRAM_BOT_TOKEN và TELEGRAM_CHAT_ID")
             return 2
-        telegram.send_test(token, chat_id)
+        try:
+            telegram.send_test(token, chat_id)
+        except Exception as e:  # noqa: BLE001
+            log.error("Gửi tin nhắn test thất bại: %s", e)
+            return 1
         print("OK: đã gửi tin nhắn test.")
         return 0
 
@@ -122,6 +126,7 @@ def main() -> int:
 
     # Gửi Telegram
     sent = 0
+    telegram_failed = False
     if not args.no_telegram:
         if args.dry_run:
             if all_new:
@@ -131,20 +136,24 @@ def main() -> int:
                 print("(dry-run) Không có tin mới trong kỳ này.")
         else:
             if not token or not chat_id:
-                log.error("Thiếu TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID — bỏ qua gửi")
+                log.error("Thiếu TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID — không thể gửi")
+                telegram_failed = True
             elif all_new:
                 try:
                     sent = telegram.send_digest(token, chat_id, all_new, site_url)
                     log.info("Đã gửi %d tin nhắn tới Telegram", sent)
                 except Exception as e:  # noqa: BLE001
-                    errors.append(f"Telegram: {e}")
+                    telegram_failed = True
                     log.error("Gửi Telegram thất bại: %s", e)
             else:
                 log.info("Không có tin mới — không gửi Telegram (tránh spam).")
 
     if errors:
-        log.warning("Có %d lỗi: %s", len(errors), "; ".join(errors))
-    # Exit 1 nếu KHÔNG nguồn nào hoạt động hoặc Telegram lỗi
+        log.warning("Có %d lỗi nguồn: %s", len(errors), "; ".join(errors))
+    if telegram_failed:
+        log.error("==> FAIL: Telegram lỗi (dữ liệu vẫn đã lưu & trang web đã sinh)")
+        return 1
+    # Exit 1 nếu KHÔNG nguồn nào hoạt động
     if not all_new and len(errors) >= len(SOURCES):
         return 1
     return 0

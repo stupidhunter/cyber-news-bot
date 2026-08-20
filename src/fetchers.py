@@ -1,6 +1,7 @@
 """Lấy dữ liệu từ các nguồn RSS/Atom/JSON."""
 from __future__ import annotations
 
+import gzip
 import json
 import logging
 import re
@@ -23,12 +24,23 @@ _SSL_CTX = ssl.create_default_context(cafile=certifi.where())
 
 
 def fetch_text(url: str, timeout: int = 25) -> str:
-    """GET một URL, trả về nội dung text."""
+    """GET một URL, trả về nội dung text (tự giải nén gzip nếu cần)."""
     req = urllib.request.Request(
-        url, headers={"User-Agent": UA, "Accept": "*/*"}
+        url,
+        headers={
+            "User-Agent": UA,
+            "Accept": "*/*",
+            "Accept-Encoding": "gzip",
+        },
     )
     with urllib.request.urlopen(req, timeout=timeout, context=_SSL_CTX) as r:
-        return r.read().decode("utf-8", errors="replace")
+        data = r.read()
+        if (
+            r.headers.get("Content-Encoding", "").lower() == "gzip"
+            or data[:2] == b"\x1f\x8b"
+        ):
+            data = gzip.decompress(data)
+        return data.decode("utf-8", errors="replace")
 
 
 def _pub(entry, feed) -> str:
