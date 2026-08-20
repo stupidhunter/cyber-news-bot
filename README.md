@@ -24,6 +24,7 @@ Mỗi **4 giờ**, bot tự động:
 | 🤖 **AI Security** | Tin về bảo mật AI: prompt injection, LLM, deepfake... |
 | ☁️ **Cloud Security** | AWS, Azure, GCP, Kubernetes, Docker... |
 | 🇻🇳 **Tin tiếng Việt** | VnExpress, Znews, GenK, Dân Trí, VTC, VietnamNet, Thanh Niên, TTXVN, Tuổi Trẻ, VietnamPlus — **chỉ giữ tin liên quan bảo mật** (tự động bỏ tin công nghệ thông thường) |
+| 🌐 **Dịch tự động EN→VI** | Tiêu đề tin tiếng Anh được dịch sang tiếng Việt (Google Translate miễn phí, có cache `data/translations.json`, mỗi kỳ dịch tối đa 40 tin — tin mới nhất trước) |
 | 📄 **Trang web lịch sử** | GitHub Pages hiển thị 400 tin gần nhất, có ô tìm kiếm |
 | 🧹 **Chống trùng lặp** | Cùng 1 tin không bao giờ gửi lại |
 | 🔌 **Chạy tay được** | Chạy workflow thủ công bất cứ lúc nào từ tab Actions |
