@@ -1,6 +1,1072 @@
 [
  {
   "source": "VietnamPlus Kinh tế số",
+  "title": "Tấn công bằng kiếm tại trường học Thụy Điển",
+  "link": "https://www.vietnamplus.vn/tan-cong-bang-kiem-tai-truong-hoc-thuy-dien-post1131659.vnp",
+  "published": "2026-08-21T14:24:58+00:00",
+  "summary": "Theo chính quyền thành phố Fagersta, một đối tượng mang theo kiếm đã xông vào trường Brinellskolan và làm nhiều người bị thương trước khi bị cảnh sát bắt giữ. Pháp: Tấn công bằng dao tại thủ đô Paris Tấn công bằng dao tại lễ hội ngoài trời ở Đức khiến 8 người bị thương Mỹ: Tấn công bằng dao tại ga tàu, 5 người bị thương",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "f8cb78dbcaa37da3fe128d29472e200da2b8f317"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Xung đột tại Trung Đông: Iran kêu gọi chấm dứt chiến tranh",
+  "link": "https://www.vietnamplus.vn/xung-dot-tai-trung-dong-iran-keu-goi-cham-dut-chien-tranh-post1131656.vnp",
+  "published": "2026-08-21T14:09:30+00:00",
+  "summary": "Hiện các cuộc đàm phán giữa Iran và Mỹ vẫn đình trệ và cuộc xung đột bùng phát từ tháng 2/2026 với màn tấn công của Mỹ và Israel nhằm vào Iran vẫn đang ở thế giằng co. Iran cảnh báo Saudi Arabia rất khó để kiềm chế lực lượng Houthi Mỹ phát động chiến dịch kinh tế nhằm vào Iran quy mô lớn Dở dang tiến trình đàm phán, Mỹ-Iran chưa thu hẹp bất đồng sau 60 ngày",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "637d5ca6ba90706ab525af9f8f7155e9e28f5e56"
+ },
+ {
+  "source": "Tuổi Trẻ Công nghệ",
+  "title": "Vì sao tội phạm mạng nhắm vào doanh nghiệp vừa và nhỏ?",
+  "link": "https://tuoitre.vn/vi-sao-toi-pham-mang-nham-vao-doanh-nghiep-vua-va-nho-100260821182450018.htm",
+  "published": "2026-08-21T16:30:00.750930+00:00",
+  "summary": "Doanh nghiệp vừa và nhỏ sử dụng ngày càng nhiều nền tảng số, dữ liệu khách hàng, điện toán đám mây và trí tuệ nhân tạo, trong khi nguồn lực dành cho an ninh mạng còn hạn chế.",
+  "categories": [
+   "ai",
+   "cloud",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "a27674c55621632b3471cfd377935e0bd6660a10"
+ },
+ {
+  "source": "GenK",
+  "title": "Nghi vấn dữ liệu Ahamove bị rò rỉ: 7.098 bản ghi chứa email, họ tên và thông tin thiết bị",
+  "link": "https://genk.vn/nghi-van-du-lieu-ahamove-bi-ro-ri-7098-ban-ghi-chua-email-ho-ten-va-thong-tin-thiet-bi-165260821222429158.chn",
+  "published": "2026-08-21T16:29:52.506515+00:00",
+  "summary": "Theo thông tin từ người bán cung cấp, họ thu thập được các dữ liệu này mà không cần phải đột nhập trực tiếp vào cơ sở dữ liệu của Ahamove.",
+  "categories": [
+   "breach",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "96da5ca90de2a4e035964bf1d21c6d8db19465cb"
+ },
+ {
+  "source": "GenK",
+  "title": "Cập nhật Windows 11 để máy an toàn, người dùng dính “combo” văng game, màn hình đen và lỗi PIN",
+  "link": "https://genk.vn/cap-nhat-windows-11-de-may-an-toan-nguoi-dung-dinh-combo-vang-game-man-hinh-den-va-loi-pin-16526210814160180.chn",
+  "published": "2026-08-21T16:29:52.506597+00:00",
+  "summary": "Bản cập nhật bảo mật quan trọng của Windows 11 đang khiến một bộ phận người dùng đau đầu với các sự cố từ game tự đóng đến màn hình chớp đen và lỗi đăng nhập.",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "4193c04c755cb42c640e6e228496ff9922f89d01"
+ },
+ {
+  "source": "VnExpress Số hóa",
+  "title": "Gần một nửa cuộc tấn công mạng tại Việt Nam có yếu tố AI",
+  "link": "https://vnexpress.net/gan-mot-nua-cuoc-tan-cong-mang-tai-viet-nam-co-yeu-to-ai-5111745.html",
+  "published": "2026-08-21T13:49:41+00:00",
+  "summary": "Bộ Công an ghi nhận nửa đầu năm 2026 có khoảng hai triệu cảnh báo tấn công mạng, trong đó gần một nửa có yếu tố AI, và hàng chục triệu bản ghi dữ liệu cá nhân bị rao bán.",
+  "categories": [
+   "ai",
+   "breach",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "b31b7c171c6f16c0ebcbb4d53324d5f5870d67fd"
+ },
+ {
+  "source": "Cloud Security Alliance",
+  "title": "We Asked an AI Agent to Close a Linear Ticket. It Dropped a Production Table.",
+  "link": "https://cloudsecurityalliance.org/articles/we-asked-an-ai-agent-to-close-a-linear-ticket-it-dropped-a-production-table",
+  "published": "2026-08-18T21:11:56+00:00",
+  "summary": "Originally published by Eve Security. A developer opens Cursor, points it at a Linear ticket, and asks it to implement the fix. Cursor loads&nbsp;ticket-work, a small skill that standardizes how the agent pulls context from Linear and closes tickets. It’s the kind of utility a team writes once and then forgets about. The agent reads the ticket and loads the skill. A few tool calls later, the&nbsp;insurance_claims&nbsp;table is gone. Unconfined agent drop — after “Implement RND-1277,” t...",
+  "categories": [
+   "ai",
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Chúng tôi đã yêu cầu Đặc vụ AI đóng phiếu tuyến tính. Nó đánh rơi một bàn sản xuất.",
+  "key": "a5631155ea2c10e8db910106457ceac0f45241ab"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "Scammers Pose as NYPD Officers in “Well-Done” Video-Call Impersonation Scam",
+  "link": "https://databreaches.net/2026/08/21/scammers-pose-as-nypd-officers-in-well-done-video-call-impersonation-scam/",
+  "published": "2026-08-21T12:41:48+00:00",
+  "summary": "The phone rang, and when &#8220;Eddie&#8221; (not his real name) picked up, the caller identified herself as being from American Express. Even though Eddie didn&#8217;t have any American Express account, he wasn&#8217;t initially suspicious. According to the caller, Eddie&#8217;s name had shown up in an attempt to purchase a firearm, and AmEx suspected identity theft.... Source",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Những kẻ lừa đảo đóng giả làm nhân viên NYPD trong trò lừa đảo mạo danh cuộc gọi video “hoàn thành tốt”",
+  "key": "c098a64b68d363eabb8c6594ba8ae579521590c2"
+ },
+ {
+  "source": "DarkReading",
+  "title": "Calling on Cyber Pros to Help Defend City Hall",
+  "link": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
+  "published": "2026-08-21T14:00:00+00:00",
+  "summary": "Government agencies with smaller budgets need support — and here's how you can help.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Kêu gọi các chuyên gia mạng giúp bảo vệ Tòa thị chính",
+  "key": "cc16705041120bf45c7fd7a343cd10a23c58d34f"
+ },
+ {
+  "source": "DarkReading",
+  "title": "OpenAI Adds Controls That Should've Been There Already",
+  "link": "https://www.darkreading.com/application-security/openai-adds-controls-already",
+  "published": "2026-08-21T13:30:00+00:00",
+  "summary": "The new AI security controls follow the Hugging Face incident last month, though many of these additions perhaps should have been in place prior to the frontier models escaping.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "OpenAI bổ sung các điều khiển đáng lẽ phải có ở đó",
+  "key": "f90c3606e8dcea12d87e5ab8c3ac68110aa333de"
+ },
+ {
+  "source": "The Record",
+  "title": "U.S. Bank says breach claims related to fourth-party incident",
+  "link": "https://therecord.media/us-bank-says-breach-claims-related-to-fourth-party-incident",
+  "published": "2026-08-21T16:16:00+00:00",
+  "summary": "The bank said there is no evidence that its own systems, networks or data repositories were compromised.",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Ngân hàng Hoa Kỳ cho biết các khiếu nại vi phạm liên quan đến sự cố của bên thứ tư",
+  "key": "f4faef2ac74f02c9054bfa49324a764433f3b9a0"
+ },
+ {
+  "source": "The Record",
+  "title": "Canada’s Hospital for Sick Children attacked by cybercriminals again as employee data stolen",
+  "link": "https://therecord.media/canada-hospital-for-sick-children-attacked-again-employee-data",
+  "published": "2026-08-21T15:00:00+00:00",
+  "summary": "The Hospital for Sick Children — which was hit in a ransomware incident in 2022 that disabled some of its systems — released a statement on Thursday warning of a data theft incident they believe is tied to a third-party software application.",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Bệnh viện Nhi đồng Canada lại bị tội phạm mạng tấn công do đánh cắp dữ liệu của nhân viên",
+  "key": "9bf27c83a8e611f1c5f5c80373c7036191fd1856"
+ },
+ {
+  "source": "The Record",
+  "title": "Russian network monitoring firm confirms cyberattack claimed by pro-Ukraine hackers",
+  "link": "https://therecord.media/russian-network-monitoring-firm-confirms-cyberattack-claimed-by-pro-ukraine-group",
+  "published": "2026-08-21T13:55:00+00:00",
+  "summary": "The statement came a day after a hacking group calling itself Black Spark claimed it had spent more than a month inside Microolap’s network and gained access to its internal systems, including EtherSensor, the company's network traffic analysis platform.",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Công ty giám sát mạng Nga xác nhận vụ tấn công mạng do tin tặc thân Ukraine tuyên bố",
+  "key": "ec9d533534eefda667b808926b147c1d7ea82fe9"
+ },
+ {
+  "source": "SecurityWeek",
+  "title": "Former NSA Director Paul Nakasone Launches National Security Advisory Firm",
+  "link": "https://www.securityweek.com/former-nsa-director-paul-nakasone-launches-national-security-advisory-firm/",
+  "published": "2026-08-21T16:27:52+00:00",
+  "summary": "The newly-formed Nakasone Group will counsel government leaders, corporations, prominent families, and other private clients confronting cybersecurity, geopolitical, and personal security risks. The post Former NSA Director Paul Nakasone Launches National Security Advisory Firm appeared first on SecurityWeek .",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Cựu Giám đốc NSA Paul Nakasone thành lập Công ty Tư vấn An ninh Quốc gia",
+  "key": "a2888654d92557eefd2ec80e4ba59d46f286d3bb"
+ },
+ {
+  "source": "SecurityWeek",
+  "title": "In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug",
+  "link": "https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/",
+  "published": "2026-08-21T15:11:16+00:00",
+  "summary": "Other noteworthy stories that might have slipped under the radar: Threema DDoS attack, Evooo1Bot Linux botnet, Crypto4A secures top-tier NIST certification. The post In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug appeared first on SecurityWeek .",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Trong tin tức khác: Tấn công thẻ zombie, T-Mobile cắt cáp để ngăn chặn tin tặc, GitHub phủ nhận lỗi gây ra lỗi do AI gây ra",
+  "key": "c1effb7924a7c610e2d45906a2b164cb4199f647"
+ },
+ {
+  "source": "SecurityWeek",
+  "title": "Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini",
+  "link": "https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/",
+  "published": "2026-08-21T14:34:05+00:00",
+  "summary": "Researchers say the new ‘Cryptographic Context Injection’ technique conceals malicious instructions until they are decrypted inside a trusted execution environment. The post Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini appeared first on SecurityWeek .",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Lời nhắc được mã hóa Vượt qua các rào cản an toàn AI trong Grok và Gemini",
+  "key": "88b75f4dba4f58836ecd6d910ce5d44e6aaee9d0"
+ },
+ {
+  "source": "SecurityWeek",
+  "title": "New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets",
+  "link": "https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/",
+  "published": "2026-08-21T14:22:06+00:00",
+  "summary": "Researchers say iAuthFlow V2 can register an attacker-controlled passkey, enabling persistent access even after passwords are changed and active sessions revoked. The post New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets appeared first on SecurityWeek .",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Bộ công cụ lừa đảo mới sử dụng mật khẩu để duy trì quyền truy cập sau khi đặt lại mật khẩu",
+  "key": "7cd70d800a874131e630bf10c47f2b74e53bebff"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
+  "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
+  "published": "2026-08-21T15:52:10+00:00",
+  "summary": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging from Windows 7 through Windows 11 25H2, with no software flaw exploited and no driver imported from outside the machine. The driver, BTR.sys (Boot Time Removal Tool), is a",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Trình điều khiển riêng của Microsoft Defender có thể được vũ khí hóa để xóa phần mềm bảo mật khi khởi động",
+  "key": "36945b7f1ca2c995dd25fd075d26a04069215faa"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
+  "link": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
+  "published": "2026-08-21T15:41:44+00:00",
+  "summary": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun. Kaspersky, which discovered the threat in June 2026, said the end goal of the malware is to serve a multi-stage downloader to enable ad fraud and creation of a proxy botnet. \"The malware spread through the built-in updaters of",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Phần mềm độc hại trên ô tô Android lây lan thông qua các trình cập nhật tích hợp để lừa đảo quảng cáo, Botnet proxy",
+  "key": "2de1d79dc0919eaed8538eb55374632f15638b60"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-59654 — Missing Release of Resource after Effective Lifetime vulnerability in Apache CloudStack's scoped global configuration functionality",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-59654",
+  "published": "2026-08-21T13:18:17.767",
+  "summary": "Missing Release of Resource after Effective Lifetime vulnerability in Apache CloudStack's scoped global configuration functionality. It affects different modules and plugins of the CloudStack management server, including Quota, Host-HA, etc., and may lead to eventual denial of service (DoS) scenario for the management server.\n\nThis issue affects Apache CloudStack: from 4.7.0 through 4.20.3.0 and from 4.21.0.0 through 4.22.1.0.\n\nUsers are recommended to upgrade to version 4.20.3.1 or 4.22.1.1 or later, which fixes the issue.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-59654",
+   "cvss": null,
+   "ref": "https://lists.apache.org/thread/7cgf37clcpjj4g2hl7rnyoq1th3ht9r4"
+  },
+  "title_vi": "CVE-2026-59654 — Thiếu bản phát hành tài nguyên sau lỗ hổng hiệu quả trọn đời trong chức năng cấu hình toàn cầu có phạm vi của Apache CloudStack",
+  "key": "a3dda51ac0814ada8605637368ef24a437d49325"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75115 — Joomla Extension - yootheme",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75115",
+  "published": "2026-08-21T13:18:19.140",
+  "summary": "Joomla Extension - yootheme.com - Authenticated, privileged arbitrary file read in YOOtheme Pro 2.3.0-5.0.40 - The Filesystem source's path filter is vulnerable to glob-based pattern attacks, allowing authorized users to read arbitrary files.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75115",
+   "cvss": null,
+   "ref": "https://www.yootheme.com/"
+  },
+  "title_vi": "CVE-2026-75115 — Tiện ích mở rộng Joomla - yotheme",
+  "key": "4b86c3c9f65c8cc269974c33d8776a3836fb9fd5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-76611 — Joomla Extension - yootheme",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76611",
+  "published": "2026-08-21T13:18:19.850",
+  "summary": "Joomla Extension - yootheme.com - Unauthenticated arbitrary directory listing via the Gallery element in Zoo < 4.1.66.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-76611",
+   "cvss": null,
+   "ref": "https://www.yootheme.com/"
+  },
+  "title_vi": "CVE-2026-76611 — Tiện ích mở rộng Joomla - yotheme",
+  "key": "1d3a25cd34da40f89787c54c92b9eb0e7cb06cf2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-76612 — Joomla Extension - yootheme",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76612",
+  "published": "2026-08-21T13:18:19.990",
+  "summary": "Joomla Extension - yootheme.com - Unauthenticated stored XSS via user-controlled fields in Zoo < 4.1.66 - User supplied input in comments and user supplied field elements weren't escaped, leading to a stored XSS vector.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-76612",
+   "cvss": null,
+   "ref": "https://www.yootheme.com/"
+  },
+  "title_vi": "CVE-2026-76612 — Tiện ích mở rộng Joomla - yotheme",
+  "key": "fb83413d1d76b635ac62786a6cc17e5395ab7068"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-76613 — Joomla Extension - yootheme",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76613",
+  "published": "2026-08-21T13:18:20.140",
+  "summary": "Joomla Extension - yootheme.com - Authenticated, privileged SQL injection in YOOtheme Pro 1.0.0-5.0.40 - An SQL injection allowed any contributor-level user to inject own content into SQL queries.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-76613",
+   "cvss": null,
+   "ref": "https://www.yootheme.com/"
+  },
+  "title_vi": "CVE-2026-76613 — Tiện ích mở rộng Joomla - yotheme",
+  "key": "d111f9e078e4b73ce42beaa2331a9e4d86d1db55"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77028 — Joomla Extension - yootheme",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77028",
+  "published": "2026-08-21T13:18:20.280",
+  "summary": "Joomla Extension - yootheme.com - Reflected XSS and open redirect via the submission redirect parameter in Zoo < 4.1.66",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77028",
+   "cvss": null,
+   "ref": "https://www.yootheme.com/"
+  },
+  "title_vi": "CVE-2026-77028 — Tiện ích mở rộng Joomla - yotheme",
+  "key": "ce388646600ba9399960210403c7b44e88a54c09"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77780 — Authorization Bypass Through User-Controlled Key in the transaction save endpoint in Roskus Prospero Flow CRM 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77780",
+  "published": "2026-08-21T13:18:20.423",
+  "summary": "Authorization Bypass Through User-Controlled Key in the transaction save endpoint in Roskus\nProspero Flow CRM 4.9.1 through 5.14.0 allows a user with transaction and accounting\ncreation permissions to disclose another company's bank account name, bank name and card\nlast four digits via a bank_account_id or bank_card_id belonging to that company in POST\n/transaction/save, which is persisted and rendered without any company ownership check.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77780",
+   "cvss": null,
+   "ref": "https://github.com/Roskus/prospero-flow-crm/commit/5fd1fe862bbdcbacf5d7e05c1c123981d8809674"
+  },
+  "title_vi": "CVE-2026-77780 — Bỏ qua ủy quyền thông qua khóa do người dùng kiểm soát trong điểm cuối lưu giao dịch trong Roskus Prospero Flow CRM 4",
+  "key": "86d6d8c51f66dbe8f124540ef584441af04be64f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-15580 — vault token disclosure via unvalidated postMessage vulnerability in N-able PassPortal allows Authentication Abuse",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-15580",
+  "published": "2026-08-21T14:16:48.587",
+  "summary": "vault token disclosure via unvalidated postMessage vulnerability in N-able PassPortal allows Authentication Abuse.\n\nThis issue affects the PassPortal browser extension: before 3.49.6.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-15580",
+   "cvss": null,
+   "ref": "https://me.n-able.com/s/security-advisory/aArVy0000002GQTKA2/cve202615580-vault-token-disclosure-via-unvalidated-postmessage"
+  },
+  "title_vi": "CVE-2026-15580 — tiết lộ mã thông báo vault thông qua lỗ hổng postMessage chưa được xác thực trong PassPortal N-able cho phép lạm dụng xác thực",
+  "key": "9bcc20fd9a388ab171ea619991cc6d0b656f835b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75946 — A potential security vulnerability has been identified in the OMEN Gaming Hub for versions prior to 1101",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75946",
+  "published": "2026-08-21T14:16:52.773",
+  "summary": "A potential security vulnerability has been identified in the OMEN Gaming Hub for versions prior to 1101.2608.0.0. The vulnerability could potentially allow a local attacker to escalate privileges due to insufficient access controls.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75946",
+   "cvss": null,
+   "ref": "https://support.hp.com/us-en/document/ish_15491615-15491654-16/hpsbgn04144"
+  },
+  "title_vi": "CVE-2026-75946 — Một lỗ hổng bảo mật tiềm ẩn đã được xác định trong OMEN Gaming Hub cho các phiên bản trước 1101",
+  "key": "63bdcf19855589257daa31576142e598e1b4e160"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77806 — SPIP before 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77806",
+  "published": "2026-08-21T14:16:53.903",
+  "summary": "SPIP before 4.4.21 allows unauthenticated remote attackers to execute arbitrary code, as exploited in the wild in August 2026. This is related to code injection via an X-Spip-Filtre HTTP request header that is mishandled by analyse_resultat_skel.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77806",
+   "cvss": 9.8,
+   "ref": "https://blog.spip.net/Mise-a-jour-critique-de-securite-sortie-de-SPIP-4-4-21.html"
+  },
+  "title_vi": "CVE-2026-77806 — SPIP trước 4",
+  "key": "ce57f8111487ffe58b6f8add1965c1cb3097d8d3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-47753 — Incus is a system container and virtual machine manager",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-47753",
+  "published": "2026-08-21T15:16:40.067",
+  "summary": "Incus is a system container and virtual machine manager. Prior to version 7.1.0, `(*backend).CreateInstanceFromBackup` in `internal/server/storage/backend.go` contains a nil-pointer dereference that an authenticated user with permission to create instances in any project can trigger remotely by uploading a crafted backup tarball. The Incus daemon panics and the process crashes, causing denial of service to every project on that cluster member. This is a sibling of `GHSA-fwj8-62r8-8p8m`, `GHSA-r7w7-mmxr-47r9`, and `GHSA-x5r6-jr56-89pv` (all assigned 2026-05-04). Those patches added guards on ad",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-47753",
+   "cvss": null,
+   "ref": "https://github.com/lxc/incus/commit/98e64f0a6fcfdc9676eea0246418d490c53297bf"
+  },
+  "title_vi": "CVE-2026-47753 — Incus là bộ chứa hệ thống và trình quản lý máy ảo",
+  "key": "e49f1db0c28b4b7c8615476c883a92ceb278ac0d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-48749 — Incus is a system container and virtual machine manager",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-48749",
+  "published": "2026-08-21T15:16:40.247",
+  "summary": "Incus is a system container and virtual machine manager. Prior to version 7.2.0, a specially crafted image can be used to read or create/write arbitrary files on the host; possibly leading to arbitrary command execution. Version 7.2.0 fixes the issue.",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-48749",
+   "cvss": 9.9,
+   "ref": "https://github.com/lxc/incus/security/advisories/GHSA-2q3f-q5pq-g8wv"
+  },
+  "title_vi": "CVE-2026-48749 — Incus là bộ chứa hệ thống và trình quản lý máy ảo",
+  "key": "c3ace3547af5769bf98a134c85d8ede122587be9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-48750 — Incus is a system container and virtual machine manager",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-48750",
+  "published": "2026-08-21T15:16:40.390",
+  "summary": "Incus is a system container and virtual machine manager. Prior to version 7.2.0, the `record-output` parameter of the `/instances/$name/exec` endpoint stores the output of the command in the `exec-output` directory of the instance. If `exec-output` is a symlink, file named `exec_UUID.stdout` and `exec_UUID.stderr` can be written to an arbitrary location where the `.stdout` file will contain arbitrary content. This behavior can be abused for arbitrary command execution. Version 7.2.0 contains a patch.",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-48750",
+   "cvss": 9.9,
+   "ref": "https://github.com/lxc/incus/security/advisories/GHSA-73hr-m85f-64v9"
+  },
+  "title_vi": "CVE-2026-48750 — Incus là bộ chứa hệ thống và trình quản lý máy ảo",
+  "key": "f31c79cf878b8bbb4b092f87948d73b2f548ff7b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-48751 — Incus is a system container and virtual machine manager",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-48751",
+  "published": "2026-08-21T15:16:40.527",
+  "summary": "Incus is a system container and virtual machine manager. Prior to version 7.2.0, instance snapshots ignore the `restricted.containers.lowlevel=block` setting; allowing for arbitrary command execution on the Incus server by abusing lowlevel hooks such as `raw.lxc` and `raw.qemu`. Version 7.2.0 patches the issue.",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-48751",
+   "cvss": 9.9,
+   "ref": "https://github.com/lxc/incus/security/advisories/GHSA-48q5-w887-33wv"
+  },
+  "title_vi": "CVE-2026-48751 — Incus là bộ chứa hệ thống và trình quản lý máy ảo",
+  "key": "e3f28f28192df4aaf2cb5f09dfe1399f5057c19d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-48752 — Incus is a system container and virtual machine manager",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-48752",
+  "published": "2026-08-21T15:16:40.667",
+  "summary": "Incus is a system container and virtual machine manager. Prior to version 7.2.0, a specially crafted image or instance backup can be used to read or create/write arbitrary files on the host; possibly leading to arbitrary command execution. Version 7.2.0 patches the issue.",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-48752",
+   "cvss": 9.9,
+   "ref": "https://github.com/lxc/incus/security/advisories/GHSA-vxp5-584q-c479"
+  },
+  "title_vi": "CVE-2026-48752 — Incus là bộ chứa hệ thống và trình quản lý máy ảo",
+  "key": "031cdc758ca8227db197ce1aec4dfa7daced72c9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-48753 — Incus is a system container and virtual machine manager",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-48753",
+  "published": "2026-08-21T15:16:40.800",
+  "summary": "Incus is a system container and virtual machine manager. Prior to version 7.1.0, the S3 protocol upload endpoint is vulnerable to path traversal and allows creation of arbitrary files on the host. This behavior could lead to arbitrary command execution. Version 7.1.0 fixes the issue.",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-48753",
+   "cvss": 9.9,
+   "ref": "https://github.com/lxc/incus/security/advisories/GHSA-ccjc-4qc3-jxqc"
+  },
+  "title_vi": "CVE-2026-48753 — Incus là bộ chứa hệ thống và trình quản lý máy ảo",
+  "key": "66352a05363e739250b1184b97cdd4392fd1c9e6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-48754 — Incus is a system container and virtual machine manager",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-48754",
+  "published": "2026-08-21T15:16:40.943",
+  "summary": "Incus is a system container and virtual machine manager. Prior to version 7.1.0, `(*backend).createDependentVolumesFromBackup` in `internal/server/storage/backend.go` contains a cluster of unguarded pointer derefs on every dependent-volume entry's `VolumeSnapshots[i]`, `Volume`, and `Pool` sub-fields. An authenticated user with `can_create_instances` permission on any project can crash the `incusd` daemon by uploading an instance backup tarball whose `dependent_volumes[*]` block contains a nil snapshot pointer (or omits `volume:` / `pool:`). This is a sibling-field variant of the 2026-05-04 ba",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-48754",
+   "cvss": null,
+   "ref": "https://github.com/lxc/incus/security/advisories/GHSA-4xg6-52mh-fpw8"
+  },
+  "title_vi": "CVE-2026-48754 — Incus là bộ chứa hệ thống và trình quản lý máy ảo",
+  "key": "11ba7c419a469aa8b38736c9c1d17ab066860d8c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-48755 — Incus is a system container and virtual machine manager",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-48755",
+  "published": "2026-08-21T15:16:41.077",
+  "summary": "Incus is a system container and virtual machine manager. Prior to version 7.1.0, improper validation of user-provided backup compression algorithm leads to argument injection in the constructed command line. This leads to an arbitrary file write on the host, possibly leading to arbitrary command execution. Version 7.1.0 patches the issue.",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-48755",
+   "cvss": 9.9,
+   "ref": "https://github.com/lxc/incus/security/advisories/GHSA-v6mj-8pf4-hhw4"
+  },
+  "title_vi": "CVE-2026-48755 — Incus là bộ chứa hệ thống và trình quản lý máy ảo",
+  "key": "b6a230c07db553a8a8728682e7c46dba5d0a9e28"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-48756 — Incus is a system container and virtual machine manager",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-48756",
+  "published": "2026-08-21T15:16:41.210",
+  "summary": "Incus is a system container and virtual machine manager. Prior to version 7.1.0, `(*backend).CreateCustomVolumeFromBackup` in `internal/server/storage/backend.go` contains an unguarded `*time.Time` dereference on the `ExpiresAt` field of every volume-snapshot entry in an imported custom-volume backup. An authenticated user with `can_create_storage_volumes` permission on any project can crash the `incusd` daemon by uploading a backup tarball whose `volume_snapshots[*].expires_at` field is absent. This is a sibling-field variant of GHSA-r7w7-mmxr-47r9 (CVE-2026-40197). Commit `985a1dedf9f3e7ba72",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-48756",
+   "cvss": null,
+   "ref": "https://github.com/lxc/incus/security/advisories/GHSA-xhqx-mgh3-3h7q"
+  },
+  "title_vi": "CVE-2026-48756 — Incus là bộ chứa hệ thống và trình quản lý máy ảo",
+  "key": "6277834b2968ee4f017258e2a8d071019ee86411"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-48769 — Incus is a system container and virtual machine manager",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-48769",
+  "published": "2026-08-21T15:16:41.347",
+  "summary": "Incus is a system container and virtual machine manager. Prior to version 7.2.0, an arbitrary file write exists in the Incus client when a malicious image server returns a crafted `Incus-Image-Hash` header. This can lead to arbitrary command execution as root on the server. Version 7.2.0 patches the issue.",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-48769",
+   "cvss": 9.9,
+   "ref": "https://github.com/lxc/incus/security/advisories/GHSA-f6m5-xw2g-xc4x"
+  },
+  "title_vi": "CVE-2026-48769 — Incus là bộ chứa hệ thống và trình quản lý máy ảo",
+  "key": "f5aab1f4d1c91a9ed9543bc2862b376c4c1a84d1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-50278 — iccDEV provides a set of libraries and tools for working with ICC color management profiles",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-50278",
+  "published": "2026-08-21T15:16:41.603",
+  "summary": "iccDEV provides a set of libraries and tools for working with ICC color management profiles. Versions prior to 2.3.2.1 have a `CIccEmbedIO::Read8()` size_t underflow. The issue arises due to an embedded-profile read defect when parsing ICC profiles containing `icSigEmbeddedV5ProfileTag` data with `icSigEmbeddedProfileType` payloads. Version 2.3.2.1 patches the issue. No known workarounds are available.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-50278",
+   "cvss": 6.5,
+   "ref": "https://github.com/InternationalColorConsortium/iccDEV/commit/002d1108c1bd674de0ac1b0abfa0162986f19086"
+  },
+  "title_vi": "CVE-2026-50278 — iccDEV cung cấp một bộ thư viện và công cụ để làm việc với hồ sơ quản lý màu ICC",
+  "key": "55534def12c2563e1325f64fb01975a1e6143cc5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-55621 — Incus is a system container and virtual machine manager",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55621",
+  "published": "2026-08-21T15:16:41.863",
+  "summary": "Incus is a system container and virtual machine manager. Prior to version 7.2.0, missing authorization checks exist for custom volume copying where an attacker knowing the name of a project that they don't have access to and the name of a custom volume in that project can copy the custom volume to a new project. This issue could allow an attacker to access secrets in custom volumes they are not authorized to access. Version 7.2.0 patches the issue.",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-55621",
+   "cvss": 7.7,
+   "ref": "https://github.com/lxc/incus/security/advisories/GHSA-64f3-v33m-w89f"
+  },
+  "title_vi": "CVE-2026-55621 — Incus là bộ chứa hệ thống và trình quản lý máy ảo",
+  "key": "783ad68515e49f8033de62c8c0f6d387a8b2e3d8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-55622 — Incus is a system container and virtual machine manager",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55622",
+  "published": "2026-08-21T15:16:42.003",
+  "summary": "Incus is a system container and virtual machine manager. Prior to version 7.2.0, missing authorization checks exist for instance copying where an attacker knowing the name of a project that they don't have access to and the name of an instance in that project can copy the instance to a new project. This issue could allow an attacker to access secrets in instances they are not authorized to access. Version 7.2.0 patches the issue.",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-55622",
+   "cvss": 7.7,
+   "ref": "https://github.com/lxc/incus/security/advisories/GHSA-c9f5-j9c3-mhrg"
+  },
+  "title_vi": "CVE-2026-55622 — Incus là bộ chứa hệ thống và trình quản lý máy ảo",
+  "key": "7d3b60498120e0f628ec50bed061def846e498a2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-62313 — Incus is a system container and virtual machine manager",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-62313",
+  "published": "2026-08-21T15:16:45.867",
+  "summary": "Incus is a system container and virtual machine manager. Prior to version 7.3.0, project-level enforcement of `restricted.containers.privilege=isolated` can be trivially bypassed, allowing a user to create a non-isolated (shared host idmap) container in a project that is configured to forbid them. The restriction only rejects an explicitly set `security.idmap.isolated=false` (or empty) and fails to enforce anything when the key is omitted entirely. Because an unset `security.idmap.isolated` defaults to `false` (non-isolation), a user simply leaves the key out and obtains exactly the container ",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-62313",
+   "cvss": 4.3,
+   "ref": "https://github.com/lxc/incus/security/advisories/GHSA-53cg-qvg7-m8vg"
+  },
+  "title_vi": "CVE-2026-62313 — Incus là bộ chứa hệ thống và trình quản lý máy ảo",
+  "key": "d0df738de42ef17054cc81d234891255c6a54a32"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-62867 — Incus is a system container and virtual machine manager",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-62867",
+  "published": "2026-08-21T15:16:46.003",
+  "summary": "Incus is a system container and virtual machine manager. Prior to version 7.3.0, improper validation of user-provided `block.create_options` in storage volume configuration leads to argument injection in the constructed filesystem creation command line. This allows a project-scoped user to inject arbitrary arguments into the binary executed as root. Version 7.3.0 patches the issue.",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-62867",
+   "cvss": 9.9,
+   "ref": "https://github.com/lxc/incus/security/advisories/GHSA-q7xw-r4w2-2wcm"
+  },
+  "title_vi": "CVE-2026-62867 — Incus là bộ chứa hệ thống và trình quản lý máy ảo",
+  "key": "a432f4fdc79c282de7d6ffa4ecd300c0e66142cf"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-62940 — Incus is a system container and virtual machine manager",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-62940",
+  "published": "2026-08-21T15:16:46.147",
+  "summary": "Incus is a system container and virtual machine manager. Prior to version 7.3.0, when migrating an instance to another cluster member, user-supplied configuration overrides (including security-critical keys like `security.privileged` and `raw.lxc`) are applied without any project restriction enforcement, allowing a restricted project user to escalate to a privileged container and escape to the host. Version 7.3.0 patches the issue.",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-62940",
+   "cvss": 9.9,
+   "ref": "https://github.com/lxc/incus/security/advisories/GHSA-qw5c-v953-38gw"
+  },
+  "title_vi": "CVE-2026-62940 — Incus là bộ chứa hệ thống và trình quản lý máy ảo",
+  "key": "f0f881ba46b08fe4e6b1aeda9c65721fb193010e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-62941 — Incus is a system container and virtual machine manager",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-62941",
+  "published": "2026-08-21T15:16:46.287",
+  "summary": "Incus is a system container and virtual machine manager. Prior to version 7.3.0, when copying an instance across projects, the project restriction check (`AllowInstanceCreation`) runs BEFORE the source instance's configuration is merged into the request. Dangerous configuration keys (including `security.privileged`, `raw.lxc`, `raw.apparmor`) from the source instance are merged AFTER the check passes, bypassing all project restrictions on the target project. Version 7.3.0 patches the issue.",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-62941",
+   "cvss": 9.9,
+   "ref": "https://github.com/lxc/incus/security/advisories/GHSA-mq9x-prm8-3vpw"
+  },
+  "title_vi": "CVE-2026-62941 — Incus là bộ chứa hệ thống và trình quản lý máy ảo",
+  "key": "6e52ccaeda867f11db70451d184667d2caa2880d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-63125 — Incus is a system container and virtual machine manager",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63125",
+  "published": "2026-08-21T15:16:46.427",
+  "summary": "Incus is a system container and virtual machine manager. Prior to version 7.3.0, an unprivileged, project-confined Incus user (a non-admin TLS/RBAC identity with `can_create_images` and `can_create_instances`) can execute arbitrary code as root on the host. A crafted image ships `backup.yaml` as a symlink to a host file. When the root daemon writes the instance's backup file, it follows the symlink. Version 7.3.0 patches the issue.",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-63125",
+   "cvss": 9.9,
+   "ref": "https://github.com/lxc/incus/security/advisories/GHSA-6rqx-22hc-qm36"
+  },
+  "title_vi": "CVE-2026-63125 — Incus là bộ chứa hệ thống và trình quản lý máy ảo",
+  "key": "deb428bc50de46bd990c718bc40d7094bb97367a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-63343 — Incus is a system container and virtual machine manager",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63343",
+  "published": "2026-08-21T15:16:46.577",
+  "summary": "Incus is a system container and virtual machine manager. Prior to version 7.3.0, a malicious image containing a `metadata.yaml` symlink pointing to an arbitrary host path allows an authenticated Incus user to read or overwrite any file on the host as root via the instance metadata API. The `exec-output` and `templates/` paths were patched in a prior release using `Lstat` rejection and `os.OpenRoot` confinement; `metadata.yaml` was not included in either patch and remains exploitable. Version 7.3.0 patches the issue.",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-63343",
+   "cvss": 9.9,
+   "ref": "https://github.com/lxc/incus/security/advisories/GHSA-fmjx-5j3g-997p"
+  },
+  "title_vi": "CVE-2026-63343 — Incus là bộ chứa hệ thống và trình quản lý máy ảo",
+  "key": "07dd424c8262b2610a555cd376c9b4c8feee4d5a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75501 — A vulnerability in the Calix EXOS firmware for the GS7 XGS (GS5239XG) residential router allows unauthenticated remote attackers to modify NAT port‑fo",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75501",
+  "published": "2026-08-21T15:16:47.070",
+  "summary": "A vulnerability in the Calix EXOS firmware for the GS7 XGS (GS5239XG) residential router allows unauthenticated remote attackers to modify NAT port‑forwarding rules via the UPnP WANIPConnection service. The device exposes the MiniUPnPd control endpoint on the WAN interface on TCP port 5000 without access controls. A remote attacker can send crafted SOAP requests to add, delete, or enumerate port mappings, or to query the external IP address, without authentication. Successful exploitation may enable bypass of the firewall/NAT boundary and exposure of internal LAN services to the public interne",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75501",
+   "cvss": null,
+   "ref": "https://drkq.github.io/security-research/calix-vu756733/"
+  },
+  "title_vi": "CVE-2026-75501 — Một lỗ hổng trong chương trình cơ sở Calix EXOS dành cho bộ định tuyến dân cư GS7 XGS (GS5239XG) cho phép kẻ tấn công từ xa không được xác thực sửa đổi cổng NAT‑fo",
+  "key": "f0b2374ba503456dca3c587ef7b1c78471360b9b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77087 — Paperclip before 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77087",
+  "published": "2026-08-21T15:16:47.290",
+  "summary": "Paperclip before 0.3.1 in default local_trusted mode fails to validate Host headers, allowing attackers to execute arbitrary commands via DNS rebinding. An attacker can craft a malicious webpage that, when visited by a developer running Paperclip locally, uses DNS rebinding to make authenticated API requests and execute commands through the process adapter.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77087",
+   "cvss": 9.6,
+   "ref": "https://github.com/paperclipai/paperclip/security/advisories/GHSA-x8hx-rhr2-9rf7"
+  },
+  "title_vi": "CVE-2026-77087 — Kẹp giấy trước 0",
+  "key": "d12b04113d5e6dd518d6b93462f6862b1d91988b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77812 — DJI drones transmit DUML (DJI Universal Markup Language) protocol messages over BLE (Bluetooth Low Energy) without encryption",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77812",
+  "published": "2026-08-21T15:16:47.557",
+  "summary": "DJI drones transmit DUML (DJI Universal Markup Language) protocol messages over BLE (Bluetooth Low Energy) without encryption. When a client attempts to connect to the drone over Wi-Fi, or when the drone is switched to QuickTransfer mode, the DJI Fly application exchanges DUML messages with the drone over BLE, including the Wi-Fi credentials. An attacker within BLE range can passively sniff this traffic and recover the credentials in cleartext, including the drone's Wi-Fi PSK, SSID, and trusted identifier UUID. Obtaining these credentials allows the attacker to join the drone's internal Wi-Fi ",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77812",
+   "cvss": null,
+   "ref": "https://support.dji.com/help/content?customId=en-us03400011149&amp;spaceId=34&amp;re=US&amp;lang=en"
+  },
+  "title_vi": "CVE-2026-77812 — Máy bay không người lái DJI truyền tin nhắn giao thức DUML (Ngôn ngữ đánh dấu phổ quát DJI) qua BLE (Bluetooth Low Energy) mà không cần mã hóa",
+  "key": "0d43927ed5380197616c82ab6d05be8aad3558a3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77814 — is_path_trusted in scripts/iib/api",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77814",
+  "published": "2026-08-21T15:16:47.733",
+  "summary": "is_path_trusted in scripts/iib/api.py compares the requested path against each allowed parent directory with path.startswith(parent_path), without appending a path separator. A directory whose name merely begins with an allowed path therefore satisfies the comparison, so where /data/images is allowed a request for /data/images_private/secret.txt is treated as trusted and served by FileResponse, disclosing files the confinement was meant to exclude. Whether the check applies depends on get_enable_access_control in scripts/iib/tool.py: it returns true when IIB_ACCESS_CONTROL is set to enable, fa",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77814",
+   "cvss": 7.5,
+   "ref": "https://github.com/zanllp/infinite-image-browsing"
+  },
+  "title_vi": "CVE-2026-77814 — is_path_trusted trong scripts/iib/api",
+  "key": "a2510e2a81074c70138c650f1bc7690114c694e0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77815 — to_abs_path in scripts/iib/tool",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77815",
+  "published": "2026-08-21T15:16:47.883",
+  "summary": "to_abs_path in scripts/iib/tool.py normalised the requested path with os.path.normpath, which collapses dot segments but does not resolve symbolic links. A symlink placed inside a scanned directory therefore satisfies the containment comparison performed by is_path_trusted in scripts/iib/api.py while pointing outside that directory, and FileResponse follows the link when serving the response, so a link created in an image directory and targeting a file such as /etc/passwd discloses that file. Whether the check applies depends on get_enable_access_control in scripts/iib/tool.py: it returns true",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77815",
+   "cvss": 7.5,
+   "ref": "https://github.com/zanllp/infinite-image-browsing"
+  },
+  "title_vi": "CVE-2026-77815 — to_abs_path trong scripts/iib/tool",
+  "key": "df1f22f0bba06ad8bdd99d87bb836513c0a5ad3f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2025-2795 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-2795",
+  "published": "2026-08-21T16:17:01.040",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2025-2795",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2025-2795 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
+  "key": "dde5ea3a1e1b947f98661a6bb2dc3be1c6ee9de5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2025-3127 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-3127",
+  "published": "2026-08-21T16:17:01.623",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2025-3127",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2025-3127 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
+  "key": "21e73268b32a065990564df5d8b552a66be950de"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-22681 — OpenViking before 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-22681",
+  "published": "2026-08-21T16:17:16.767",
+  "summary": "OpenViking before 0.3.4 contains a server-side request forgery vulnerability that allows authenticated low-privilege attackers to access internal network services by submitting arbitrary URLs to the resources API endpoint. Attackers can POST a crafted URL to /api/v1/resources, causing the server to issue outbound HEAD and GET requests with redirects enabled to loopback, RFC 1918, link-local, or cloud metadata addresses, then read back responses through normal content APIs to enumerate and interact with internal services.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-22681",
+   "cvss": 8.5,
+   "ref": "https://github.com/volcengine/OpenViking/commit/41e345896d247e43ab78bbcb38b4a5b1b38ef62c"
+  },
+  "title_vi": "CVE-2026-22681 — OpenViking trước 0",
+  "key": "ce96819564b565dd43a6c633a979d7e75f2ba590"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-49114 — In ONNX before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-49114",
+  "published": "2026-08-21T16:17:17.863",
+  "summary": "In ONNX before 1.21.0, the 'save_external_data' function builds the external-data file path from the model's external_data location field and opens it for writing without 'O_NOFOLLOW/O_EXCL', after a non-atomic 'os.path.isfile()' check. A local attacker with write access to the directory where a victim serializes external data can deterministically pre-plant a symlink that is being followed, causing the victim's write to append to any file the victim can write, e.g. ~/.ssh/authorized_keys, cron files, or application configs. Fixed in 1.21.0.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-49114",
+   "cvss": 7.1,
+   "ref": "https://github.com/onnx/onnx/security/advisories/GHSA-q56x-g2fj-4rj6"
+  },
+  "title_vi": "CVE-2026-49114 — Trong ONNX trước 1",
+  "key": "589163d13c0cb3b1536e31bb669e0fdc146642d6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-54789 — mod_auth_openidc is an OpenID Certified authentication and authorization module for the Apache 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-54789",
+  "published": "2026-08-21T16:17:19.000",
+  "summary": "mod_auth_openidc is an OpenID Certified authentication and authorization module for the Apache 2.x HTTP server that implements the OpenID Connect Relying Party functionality. Prior to 2.4.19.4, an out-of-bounds read and a one-byte out-of-bounds write exist in the state-cookie parser of `mod_auth_openidc`. The issue is fixed in version 2.4.19.4 by stopping the scan at the string terminator so a value-less token is rejected. No in-product workarounds are available. As a stop-gap, an upstream reverse proxy or WAF that rejects or normalizes malformed `Cookie` headers (tokens lacking `=`) can reduc",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-54789",
+   "cvss": 7.5,
+   "ref": "https://github.com/OpenIDC/mod_auth_openidc/commit/8017478471cc071c49aa073c5c9be652a73a8630"
+  },
+  "title_vi": "CVE-2026-54789 — mod_auth_openidc là mô-đun ủy quyền và xác thực được chứng nhận OpenID cho Apache 2",
+  "key": "5b98f5545437fdf8ff18770dcc20e86e5b7806a1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-69502 — Server-side request forgery (ssrf) in Azure SQL Database allows an unauthorized attacker to elevate privileges over a network",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69502",
+  "published": "2026-08-21T16:18:07.090",
+  "summary": "Server-side request forgery (ssrf) in Azure SQL Database allows an unauthorized attacker to elevate privileges over a network.",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-69502",
+   "cvss": 10.0,
+   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69502"
+  },
+  "title_vi": "CVE-2026-69502 — Giả mạo yêu cầu phía máy chủ (ssrf) trong Cơ sở dữ liệu Azure SQL cho phép kẻ tấn công trái phép nâng cao đặc quyền qua mạng",
+  "key": "b678b2bf3af28cf73632134e203e82230e47fdfb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75928 — The Brushfire platform's video content streaming application (https://online",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75928",
+  "published": "2026-08-21T16:18:17.567",
+  "summary": "The Brushfire platform's video content streaming application (https://online.brushfire.com) exposes database path in requests to users, allowing a remote, unauthenticated attacker to read information about other users. Fixed February 2026.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75928",
+   "cvss": 5.3,
+   "ref": "https://online.brushfire.com/"
+  },
+  "title_vi": "CVE-2026-75928 — Ứng dụng truyền phát nội dung video của nền tảng Brushfire (https://online",
+  "key": "92b5a6ebe663295d8e8840311b02486c53dc8135"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75932 — Jet Admin allows an attacker to create a malicious app and connect it to a target user's custom domain, edit the authentication configuration, and rer",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75932",
+  "published": "2026-08-21T16:18:17.717",
+  "summary": "Jet Admin allows an attacker to create a malicious app and connect it to a target user's custom domain, edit the authentication configuration, and reroute traffic to the attacker-controlled app. Once connected to the target domain, the attacker's workspace is populated with the victim's OAuth Client ID and Client Secret if the victim is using an OAuth provider.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75932",
+   "cvss": 8.6,
+   "ref": "https://raw.githubusercontent.com/cisagov/CSAF/develop/csaf_files/IT/white/2026/va-26-232-02.json"
+  },
+  "title_vi": "CVE-2026-75932 — Jet Admin cho phép kẻ tấn công tạo một ứng dụng độc hại và kết nối nó với miền tùy chỉnh của người dùng mục tiêu, chỉnh sửa cấu hình xác thực và đăng ký lại.",
+  "key": "e3f15a80d6a0e3fa9f048e810d3afe9009da43c8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75933 — Jet Admin allows an authenticated attacker to inject JavaScript via the sign-in page's scripts and styles option",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75933",
+  "published": "2026-08-21T16:18:17.873",
+  "summary": "Jet Admin allows an authenticated attacker to inject JavaScript via the sign-in page's scripts and styles option. Injected script is executed in the context of any visiting user's domain.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75933",
+   "cvss": 7.3,
+   "ref": "https://raw.githubusercontent.com/cisagov/CSAF/develop/csaf_files/IT/white/2026/va-26-232-02.json"
+  },
+  "title_vi": "CVE-2026-75933 — Jet Admin cho phép kẻ tấn công đã được xác thực chèn JavaScript thông qua tùy chọn kiểu và tập lệnh của trang đăng nhập",
+  "key": "9d596f0cc6dae9471d0aba25715c88b4f8a997c5"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
   "title": "\"Chuyển đổi số chỉ tạo ra giá trị khi đi cùng an ninh, an toàn và niềm tin số\"",
   "link": "https://www.vietnamplus.vn/chuyen-doi-so-chi-tao-ra-gia-tri-khi-di-cung-an-ninh-an-toan-va-niem-tin-so-post1131628.vnp",
   "published": "2026-08-21T12:00:20+00:00",
@@ -85,7 +1151,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "AI, vi phạm dữ liệu và bài học cũ từ luật bảo lãnh",
   "key": "9caf50b5b501e89d3357f0676d44825483c2dcae"
  },
  {
@@ -99,7 +1165,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Thêm nhiều sự cố về AI trở nên lừa đảo trong các thách thức an ninh mạng",
   "key": "07d6f1ed2ab72b36b611d89dded9a77a49a5ca9f"
  },
  {
@@ -3321,7 +4387,7 @@
    "cvss": 7.8,
    "ref": "https://www.ibm.com/support/pages/node/7283858"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-16997 — IBM AIX 7",
   "key": "ac14ae869689a383aa979adbcde376ada1b5f2e7"
  },
  {
@@ -3339,7 +4405,7 @@
    "cvss": 8.1,
    "ref": "https://www.ibm.com/support/pages/node/7283858"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-17000 — IBM AIX 7",
   "key": "1b04314058ae91767f4253ab1245384c66db9538"
  },
  {
