@@ -1,5 +1,1479 @@
 [
  {
+  "source": "DataBreaches.net",
+  "title": "Troutman Pepper Locke Silent as Threat Actors Leak Client Data, Tens of Thousands of SSNs",
+  "link": "https://databreaches.net/2026/08/21/troutman-pepper-locke-silent-as-threat-actors-leak-client-data-tens-of-thousands-of-ssns/",
+  "published": "2026-08-21T16:28:39+00:00",
+  "summary": "In April, Silent Ransom Group&#8217;s (SRG)* leak site listed 38 law firms that had not paid them and whose data was leaked. By June 29, there were 48 law firms. Now there are 64, and, in somewhat surprising claims, SRG says a recent attack was actually its second on one law firm, and they will... Source",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "91c516884fbdc06dcd1c5647f8138f2b23465b61"
+ },
+ {
+  "source": "Schneier on Security",
+  "title": "AI Is Learning to Write Genetic Code",
+  "link": "https://www.schneier.com/blog/archives/2026/08/ai-is-learning-to-write-genetic-code.html",
+  "published": "2026-08-21T16:51:50+00:00",
+  "summary": "This sort of research is both exciting and terrifying: The two models in question were told to generate complete genomes for a viable bacteriophage&#8212;a type of virus able to infect and replicate itself inside bacteria, destroying them from the inside. Using an existing bacteriophage as an example&#8212;ΦX174 (pronounced &#8220;fie-ex-1-7-4&#8221;), known for its ability to infect and destroy E. coli bacteria&#8212;the models generated about 700,000 potential designs, of which the researchers picked 285 that looked most promising. The researchers then synthesised new DNA molecules using tho",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "67e441d18d3c8953d9b532a31f5d02b9429e2a6d"
+ },
+ {
+  "source": "DarkReading",
+  "title": "OWASP Flags Top AI Skill Risks in New Security Blueprint",
+  "link": "https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint",
+  "published": "2026-08-21T17:36:53+00:00",
+  "summary": "The Open Worldwide Application Security Project has a brand-new top 10 security list tailored for the modern era, and it debuts a Universal Skill Format to add consistency and security to the AI add-ons.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "c91fe5b12481cb74f0a293e19337a8af5f878514"
+ },
+ {
+  "source": "The Record",
+  "title": "Lawmakers call for investigation into impact of CISA staffing cuts",
+  "link": "https://therecord.media/lawmakers-call-for-investigation-into-impact-of-cisa-cuts",
+  "published": "2026-08-21T19:56:00+00:00",
+  "summary": "Lawmakers say little is known about how recent cuts have impacted CISA and how the knowledge that was lost has been replaced.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "e93180ea0e492c63653e222f65ed9c93b42a3700"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2026-73570 — Zimbra Collaboration Suite (ZCS) OS Command Injection Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73570",
+  "published": "2026-08-21",
+  "summary": "Zimbra Collaboration Suite (ZCS) contains an OS command injection vulnerability which could allow an unauthenticated attacker to send specially crafted SMTP requests that may result in execution of arbitrary operating system commands as the Zimbra user.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-73570",
+   "vendor": "Synacor",
+   "product": "Zimbra Collaboration Suite (ZCS)",
+   "due_date": "2026-08-24",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "",
+  "key": "adc5630b1fc3ac5c66097cbf0f412d1eec593108"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2017-20232 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-20232",
+  "published": "2026-08-21T17:16:25.950",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2017-20232",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2017-20232 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
+  "key": "f8876b494279406aa5c72aaa72a1f79dcbb3fadb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2019-25715 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-25715",
+  "published": "2026-08-21T17:16:26.067",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-25715",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2019-25715 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
+  "key": "597650c5afe5cd4316de2e36e80fb6cf3680f2a9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2019-25725 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-25725",
+  "published": "2026-08-21T17:16:26.137",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-25725",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2019-25725 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
+  "key": "7d51ff1a59dd5317ed7179600ff554931ea94467"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2021-4475 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-4475",
+  "published": "2026-08-21T17:16:26.217",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-4475",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2021-4475 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
+  "key": "c4c49a66cd2f75bfdac356a3cd9428d79f346d43"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2021-4476 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-4476",
+  "published": "2026-08-21T17:16:26.283",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-4476",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2021-4476 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
+  "key": "40af1e0c804d871ab0bfd3e7beaf661b290b64e6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2021-4482 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-4482",
+  "published": "2026-08-21T17:16:26.353",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-4482",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2021-4482 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
+  "key": "17eba9aa47e6fc42056f68d1a8e2b88b0487daf3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2023-7310 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2023-7310",
+  "published": "2026-08-21T17:16:26.583",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2023-7310",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2023-7310 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
+  "key": "686dd61ddceefc093829db02338ff83574db93c9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2023-7336 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2023-7336",
+  "published": "2026-08-21T17:16:26.653",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2023-7336",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2023-7336 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
+  "key": "92db3f466d3c37e4812dd0c01aa14f44a97f1dd3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2023-7344 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2023-7344",
+  "published": "2026-08-21T17:16:26.713",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2023-7344",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2023-7344 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
+  "key": "e60b5237006bf1a6ff68258cd3491e961ef6e623"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-11427 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-11427",
+  "published": "2026-08-21T17:16:28.720",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-11427",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2026-11427 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
+  "key": "e5cb84763b7cc34dd18de118098c83377a9b09e6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-11830 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-11830",
+  "published": "2026-08-21T17:16:28.797",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-11830",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2026-11830 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
+  "key": "5bf7b8dd31098d21fa563d825c1fc9f6f520610b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-11902 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-11902",
+  "published": "2026-08-21T17:16:28.863",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-11902",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2026-11902 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
+  "key": "7d53151d3944de7bc4f9f5b57f7bca366a6b02b8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-11938 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-11938",
+  "published": "2026-08-21T17:16:28.930",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-11938",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2026-11938 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
+  "key": "473466afe6b442372115d72cfa1d995b2a8057bb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-39909 — llama",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-39909",
+  "published": "2026-08-21T17:16:30.810",
+  "summary": "llama.cpp before b8585 contains a use-after-free vulnerability in the RPC server's GRAPH_RECOMPUTE handler that allows unauthenticated remote attackers to achieve arbitrary read and write access by storing a computation graph, freeing referenced buffers, and reclaiming freed memory with attacker-controlled content. Attackers can send RPC requests to trigger re-execution of stored graphs with dangling pointers, enabling full remote code execution without requiring authentication or user interaction.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-39909",
+   "cvss": 8.1,
+   "ref": "https://github.com/ggml-org/llama.cpp/commit/389c7d4955ba55c7418afaebf7c23d9ed64ef707"
+  },
+  "title_vi": "CVE-2026-39909 — lạc đà không bướu",
+  "key": "e71c9c05827f0a8ab4e25a4258b05ddb2e68f8cd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-53974 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-53974",
+  "published": "2026-08-21T17:16:31.560",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-53974",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2026-53974 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
+  "key": "b02dceeb310115376fd262d574d96e7d95c09abb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-53991 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-53991",
+  "published": "2026-08-21T17:16:31.623",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-53991",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2026-53991 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
+  "key": "8ad08ff37e9e9e6ee86707ed85147152a8e5d598"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-57835 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-57835",
+  "published": "2026-08-21T17:16:32.200",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-57835",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2026-57835 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
+  "key": "b7385b1dc7d8e1bca3161c56cc64f2b9bde80337"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-63726 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63726",
+  "published": "2026-08-21T17:16:36.400",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-63726",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2026-63726 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
+  "key": "e50f810b2a0f7268ab1a2989cacf6f5b16d8ad2e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-69099 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69099",
+  "published": "2026-08-21T17:16:42.390",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-69099",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2026-69099 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
+  "key": "5f53febb48c3fed4107e34237823df86713a71a7"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-69701 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69701",
+  "published": "2026-08-21T17:16:42.980",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-69701",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2026-69701 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
+  "key": "1168480c23c60abcb2b6891b5f06094d68f0a4d4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-74580 — In the Linux kernel, the following vulnerability has been resolved: vhost: reset the vring metadata cache on vring reconfiguration vq->meta_iotlb[] ca",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-74580",
+  "published": "2026-08-21T17:16:44.210",
+  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nvhost: reset the vring metadata cache on vring reconfiguration\n\nvq->meta_iotlb[] caches the vhost_iotlb_map that backs each vring\nmetadata region, and iotlb_access_ok() returns early on a cache hit,\ntaking the hit as proof that the region has already been validated:\n\n\tif (vhost_vq_meta_fetch(vq, addr, len, type))\n\t\treturn true;\n\nThe cache is reset on VHOST_IOTLB_UPDATE and VHOST_IOTLB_INVALIDATE, on\ndevice IOTLB (re)initialisation and on vq reset, but not when\nVHOST_SET_VRING_ADDR replaces vq->desc, vq->avail and vq->used, no",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-74580",
+   "cvss": null,
+   "ref": "https://git.kernel.org/stable/c/13fa6f32a56a386a82bd7451644c494beed034af"
+  },
+  "title_vi": "CVE-2026-74580 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: vhost: đặt lại bộ đệm siêu dữ liệu vring khi cấu hình lại vring vq->meta_iotlb[] ca",
+  "key": "c5172a7c4bc2900a2d0a8c6cc36eb947dccd6ad7"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-74581 — In the Linux kernel, the following vulnerability has been resolved: net: ipv6: clear suppressed fib6 rule result fib6_rule_suppress() drops a suppress",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-74581",
+  "published": "2026-08-21T17:16:44.363",
+  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nnet: ipv6: clear suppressed fib6 rule result\n\nfib6_rule_suppress() drops a suppressed route with ip6_rt_put_flags(),\nbut leaves res->rt6 pointing at the released rt6_info.\n\nIf no later rule supplies a replacement, fib6_rule_lookup() still sees\nres.rt6 and returns that stale dst to its caller. A suppressing rule can\ntherefore leak a released route back to rt6_lookup(), and the next put\nhits rcuref_put_slowpath() from dst_release().\n\nClear res->rt6 when suppressing the route so suppressed lookups fall\nthrough to the null dst in",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-74581",
+   "cvss": null,
+   "ref": "https://git.kernel.org/stable/c/354db6243eca59e9d187ffbf8b7955b044ce84dc"
+  },
+  "title_vi": "CVE-2026-74581 — Trong nhân Linux, lỗ hổng sau đây đã được giải quyết: net: ipv6: xóa quy tắc fib6 bị ức chế kết quả fib6_rule_suppress() giảm một quy tắc ngăn chặn",
+  "key": "98a5e99440333ebcf96d77a19a4d7e7a0cbac216"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-74582 — In the Linux kernel, the following vulnerability has been resolved: packet: use consistent hard_header_len in non-ring send paths packet_snd() reads d",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-74582",
+  "published": "2026-08-21T17:16:44.507",
+  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\npacket: use consistent hard_header_len in non-ring send paths\n\npacket_snd() reads dev->hard_header_len multiple times while allocating\nand constructing an skb. Device reconfiguration can change this value\nconcurrently, for example through bonding device type changes.\n\nFor SOCK_RAW, packet_snd() can save a larger value in reserve and later\nallocate headroom using a smaller value. Moving skb->data back by reserve\nthen places it before skb->head, and the following copy from userspace can\nattempt an out-of-bounds write.\n\npacket_s",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-74582",
+   "cvss": null,
+   "ref": "https://git.kernel.org/stable/c/03390aa32e669cc4ecd7d34108e2e1afc13d689d"
+  },
+  "title_vi": "CVE-2026-74582 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: packet: sử dụng hard_header_len nhất quán trong các đường dẫn gửi không đổ chuông packet_snd() đọc d",
+  "key": "cc626f6778219651cf006e4823cfae42c0db1d5b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-74583 — In the Linux kernel, the following vulnerability has been resolved: net/sched: cls_route: fix fastmap use-after-free on filter The route4 classifier m",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-74583",
+  "published": "2026-08-21T17:16:44.643",
+  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nnet/sched: cls_route: fix fastmap use-after-free on filter\n\nThe route4 classifier maintains a 16-slot fastmap cache that stores raw\nstruct route4_filter pointers indexed by (id, iif). The reader\n(route4_classify) populates this cache via route4_set_fastmap() for every\nclassified packet that hits a filter. The writer (route4_delete,\nroute4_change) clears the cache via route4_reset_fastmap() before\nRCU-deferred kfree of the filter.\n\nThis creates a UAF race:\n 1. Reader walks the RCU-protected bucket chain, finds filter f\n 2. Wri",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-74583",
+   "cvss": null,
+   "ref": "https://git.kernel.org/stable/c/0e7a8cf8895b06d07c7311f028eba16ad742b9bc"
+  },
+  "title_vi": "CVE-2026-74583 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net/sched: cls_route: fix fastmap use-after-free trên bộ lọc Bộ phân loại Route4 m",
+  "key": "c4cc725438c28ae42e73b7104c3b0d0e4e74535b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-9012 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-9012",
+  "published": "2026-08-21T17:16:47.143",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-9012",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2026-9012 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
+  "key": "896911f36d29289653b5547ce858119c738a4ec1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-9244 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-9244",
+  "published": "2026-08-21T17:16:47.210",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-9244",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2026-9244 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
+  "key": "5a88a0a8316b7f24e4ed831fda968f64b822362c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-9321 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-9321",
+  "published": "2026-08-21T17:16:47.267",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-9321",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2026-9321 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
+  "key": "a70f7f0d8ba36309d87efcbe0c8c5265cf03241e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-9324 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-9324",
+  "published": "2026-08-21T17:16:47.323",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-9324",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2026-9324 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
+  "key": "fd9d44b44c8ca6d9040a5b29b9727e0bded8c7c6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-17250 — A stack-based buffer overflow vulnerability exists in the firmware update functionality of TL-MR6400 v7 due to unsafe processing of attacker-controlle",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-17250",
+  "published": "2026-08-21T18:16:47.450",
+  "summary": "A\nstack-based buffer overflow vulnerability exists in the firmware update\nfunctionality of TL-MR6400 v7 due to unsafe processing of\nattacker-controlled metadata within a firmware image. \n\n\n\n\n\nSuccessful\nexploitation may allow an authenticated attacker to trigger memory corruption\nand execute arbitrary code on the affected device.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-17250",
+   "cvss": null,
+   "ref": "https://www.tp-link.com/en/support/download/tl-mr6400/v7/#Firmware"
+  },
+  "title_vi": "CVE-2026-17250 — Lỗ hổng tràn bộ đệm dựa trên ngăn xếp tồn tại trong chức năng cập nhật chương trình cơ sở của TL-MR6400 v7 do quá trình xử lý điều khiển của kẻ tấn công không an toàn",
+  "key": "fc79bd56ad8067336a6065512027ed5abb03a369"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-17251 — A NULL pointer dereference vulnerability exists in the HTTP request parsing functionality of TL-MR6400 v7",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-17251",
+  "published": "2026-08-21T18:16:47.660",
+  "summary": "A NULL\npointer dereference vulnerability exists in the HTTP request parsing\nfunctionality of \nTL-MR6400 v7. An unauthenticated remote attacker can\ntrigger the vulnerability by sending a specially crafted HTTP request\ncontaining a malformed session cookie header. \n\n\n\n\n\nSuccessful\nexploitation may cause the HTTP service process to crash, resulting in a\ndenial-of-service condition and temporary loss of management or CGI\nfunctionality until service recovery.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-17251",
+   "cvss": null,
+   "ref": "https://www.tp-link.com/en/support/download/tl-mr6400/v7/#Firmware"
+  },
+  "title_vi": "CVE-2026-17251 — Lỗ hổng tham chiếu con trỏ NULL tồn tại trong chức năng phân tích cú pháp yêu cầu HTTP của TL-MR6400 v7",
+  "key": "7982782316c115cf75640fe47917e7dcc7db92db"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-17252 — A stack-based out-of-bounds write vulnerability exists in the login request handling functionality of the administrative web interface of TP-Link TL-M",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-17252",
+  "published": "2026-08-21T18:16:47.803",
+  "summary": "A\nstack-based out-of-bounds write vulnerability exists in the login request\nhandling functionality of the administrative web interface of TP-Link TL-MR6400 v7 routers. An unauthenticated adjacent attacker can trigger the vulnerability\nby sending a specially crafted malformed HTTP request. \n\n\n\n\n\nSuccessful\nexploitation may cause the web service process to crash, resulting in a\ndenial-of-service condition and temporary loss of access to the router's web\nmanagement interface.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-17252",
+   "cvss": null,
+   "ref": "https://www.tp-link.com/en/support/download/tl-mr6400/v7/#Firmware"
+  },
+  "title_vi": "CVE-2026-17252 — Lỗ hổng ghi ngoài giới hạn dựa trên ngăn xếp tồn tại trong chức năng xử lý yêu cầu đăng nhập của giao diện web quản trị của TP-Link TL-M",
+  "key": "c2a8b64f6592466e34b17ab39c070795612674b5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-27875 — Cleartext Storage of Sensitive Information in Memory vulnerability in Johnson Controls Simplex Incident Manager / Autocall Fire Administrator may allo",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-27875",
+  "published": "2026-08-21T18:16:47.943",
+  "summary": "Cleartext Storage of Sensitive Information in Memory vulnerability in Johnson Controls Simplex Incident Manager / Autocall Fire Administrator may allow an attcker to Retrieve Embedded Sensitive Data.\n\nThis issue affects Simplex Incident Manager / Autocall Fire Administrator: before 2.01.05.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-27875",
+   "cvss": null,
+   "ref": "https://www.johnsoncontrols.com/trust-center/cybersecurity/security-advisories"
+  },
+  "title_vi": "CVE-2026-27875 — Lỗ hổng lưu trữ thông tin nhạy cảm trong bộ nhớ trong Johnson Controls Simplex Incident Manager / Autocall Fire Administrator có thể cho phép",
+  "key": "8a1cb8c111adc65bf224190a9af9b95db82dbd2c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-41449 — UAC (Unix-like Artifacts Collector) versions prior to 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-41449",
+  "published": "2026-08-21T18:16:48.103",
+  "summary": "UAC (Unix-like Artifacts Collector) versions prior to 3.3.0 contain a command injection vulnerability in the _run_command function that allows attackers to execute arbitrary commands by injecting shell metacharacters into untrusted data such as usernames, process names, or filenames. Attackers can exploit this vulnerability through crafted evidence inputs, mounted images with hostile filenames, or tampered artifact definitions to achieve remote code execution on the analyst's host when processing evidence.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-41449",
+   "cvss": 7.8,
+   "ref": "https://github.com/tclahr/uac/commit/2cc367d8ead388f05abd3cfb8af537788a124e72"
+  },
+  "title_vi": "CVE-2026-41449 — Phiên bản UAC (Unix-like Artifacts Collector) trước phiên bản 3",
+  "key": "2a578bb7ea9f6aff834c05cb4a18fc7f99122d5e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-41450 — UAC (Unix-like Artifacts Collector) versions prior to 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-41450",
+  "published": "2026-08-21T18:16:48.257",
+  "summary": "UAC (Unix-like Artifacts Collector) versions prior to 3.3.0 contain a command injection vulnerability in the _command_collector function where foreach command output lines are substituted directly into command strings via sed without proper escaping before being evaluated with eval. Attackers can exploit this by crafting malicious filenames or artifact definitions containing shell metacharacters such as command substitution syntax or semicolons to execute arbitrary commands on the analyst's host system.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-41450",
+   "cvss": 7.8,
+   "ref": "https://github.com/tclahr/uac/commit/2cc367d8ead388f05abd3cfb8af537788a124e72"
+  },
+  "title_vi": "CVE-2026-41450 — Phiên bản UAC (Unix-like Artifacts Collector) trước phiên bản 3",
+  "key": "dc17cedc27c814419fed280d0883a2d7b047cc74"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-41451 — UAC (Unix-like Artifacts Collector) versions prior to 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-41451",
+  "published": "2026-08-21T18:16:48.400",
+  "summary": "UAC (Unix-like Artifacts Collector) versions prior to 3.3.0 contain a command injection vulnerability in the user substitution logic within parse_artifact.sh where usernames and home directories from /etc/passwd are substituted directly into command strings without escaping before execution via eval. Attackers can inject shell metacharacters such as command substitution syntax or semicolons through crafted usernames or home directory paths in /etc/passwd entries to execute arbitrary commands on the analyst's host system.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-41451",
+   "cvss": 7.8,
+   "ref": "https://github.com/tclahr/uac/commit/2cc367d8ead388f05abd3cfb8af537788a124e72"
+  },
+  "title_vi": "CVE-2026-41451 — Phiên bản UAC (Unix-like Artifacts Collector) trước phiên bản 3",
+  "key": "17475a48a06ff993c3e145c981dfac09d221716a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-55241 — Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with b",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55241",
+  "published": "2026-08-21T18:16:48.790",
+  "summary": "Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Prior to 3.9.1, the public POST /api/v1/auth/register route in server/src/api/routes/authRoutes.ts passes multipart profileImage uploads through in-memory Multer parsing before registration validation, without file-size, file-count, or MIME-type limits in server/src/api/middleware/upload.ts. An unauthenticated attacker can submit concurrent oversized files that are buffered before invalid registration or invite-token chec",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-55241",
+   "cvss": 7.5,
+   "ref": "https://github.com/bluewave-labs/Checkmate/commit/091c36cbf338b673110b0806d76df26d52516468"
+  },
+  "title_vi": "CVE-2026-55241 — Checkmate là một công cụ mã nguồn mở, tự lưu trữ được thiết kế để theo dõi và giám sát phần cứng máy chủ, thời gian hoạt động, thời gian phản hồi và sự cố trong thời gian thực với b",
+  "key": "94f696399863f0a4c5081cd32f75a6e072c8e86e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-62674 — Omnigent is an open-source AI agent framework and meta-harness for orchestrating coding agents",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-62674",
+  "published": "2026-08-21T18:16:49.460",
+  "summary": "Omnigent is an open-source AI agent framework and meta-harness for orchestrating coding agents. Prior to 0.3.0, PUT /sessions/{session_id}/agent checks LEVEL_EDIT permission for a session but does not reject a bound shared or template agent whose agent.session_id is None. An authenticated user with edit access to a session can replace that shared agent bundle through omnigent/server/routes/sessions.py, add a stdio MCP server, and cause later sessions that use the shared agent to launch an attacker-controlled command through omnigent/tools/mcp.py. The command executes with the Omnigent runner p",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-62674",
+   "cvss": 9.0,
+   "ref": "https://github.com/omnigent-ai/omnigent/commit/25a22dc9e6da4648d23749f0a589e47e6aed991b"
+  },
+  "title_vi": "CVE-2026-62674 — Omnigent là khung tác nhân AI nguồn mở và siêu khai thác để điều phối các tác nhân mã hóa",
+  "key": "7fa122c4ba7d3ae2af4e531fb9ea08ec68c954ec"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-62675 — Omnigent is an open-source AI agent framework and meta-harness for orchestrating coding agents",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-62675",
+  "published": "2026-08-21T18:16:49.603",
+  "summary": "Omnigent is an open-source AI agent framework and meta-harness for orchestrating coding agents. Prior to 0.3.0, multipart POST /v1/sessions accepts an authenticated user's agent bundle and omnigent/server/bundles.py validate_agent_bundle does not reject a tools..callable dotted Python path. omnigent/runner/tool_dispatch.py _resolve_spec_callable imports the specified module and _execute_spec_callable_tool invokes the resolved function, allowing a bundle to select subprocess.check_output and execute a local command with the runner process permissions. This can expose runner files, environment v",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-62675",
+   "cvss": 8.8,
+   "ref": "https://github.com/omnigent-ai/omnigent/commit/1f3f398f41cbf97b905133c21e848621c21da6e0"
+  },
+  "title_vi": "CVE-2026-62675 — Omnigent là khung tác nhân AI nguồn mở và siêu khai thác để điều phối các tác nhân mã hóa",
+  "key": "4777455314eae26fb9c5869eb79091fd9aca89f8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-62676 — Omnigent is an open-source AI agent framework and meta-harness for orchestrating coding agents",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-62676",
+  "published": "2026-08-21T18:16:49.743",
+  "summary": "Omnigent is an open-source AI agent framework and meta-harness for orchestrating coding agents. Prior to 0.3.0, the shared shell-command parser in omnigent/policies/builtins/_shell.py fails to recognize combined interpreter flags, the timeout, nice, setsid, and stdbuf wrappers, command substitutions, and a single background control operator. A gated git push or gh write hidden with these forms produces no parsed operation, causing the github.py write_repos and write_branches allowlist and the working_dir.py workspace confinement policies to abstain and allow the command. An authenticated or pr",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-62676",
+   "cvss": 7.1,
+   "ref": "https://github.com/omnigent-ai/omnigent/commit/1a05b7b139ef504bf2be89bf37918abe104fb95c"
+  },
+  "title_vi": "CVE-2026-62676 — Omnigent là khung tác nhân AI nguồn mở và siêu khai thác để điều phối các tác nhân mã hóa",
+  "key": "fc596262cd366a758aee7fb6957ba69a1d160992"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-62677 — Omnigent is an open-source AI agent framework and meta-harness for orchestrating coding agents",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-62677",
+  "published": "2026-08-21T18:16:49.887",
+  "summary": "Omnigent is an open-source AI agent framework and meta-harness for orchestrating coding agents. Prior to 0.3.0, an authenticated user can upload a session-scoped agent bundle with an absolute or traversal-containing os_env.cwd value because omnigent/spec/parser.py stores the value verbatim and omnigent/spec/validator.py does not constrain it. On a runner where OMNIGENT_RUNNER_WORKSPACE is unset, omnigent/runner/resource_registry.py preserves the attacker-controlled path and omnigent/inner/os_env.py uses the resolved path as the environment root and copytree source. The _assert_within_cwd check",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-62677",
+   "cvss": 8.8,
+   "ref": "https://github.com/omnigent-ai/omnigent/commit/7ca0cca3c9a65c04c489edf68f0e080424a26868"
+  },
+  "title_vi": "CVE-2026-62677 — Omnigent là khung tác nhân AI nguồn mở và siêu khai thác để điều phối các tác nhân mã hóa",
+  "key": "6d1cf34b0035332ee7c140c795d36aefcaa6b603"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-70656 — Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with b",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-70656",
+  "published": "2026-08-21T18:16:50.277",
+  "summary": "Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. From 3.5.1 until 3.9.2, an authenticated admin or superadmin can set matchMethod to regex and place a malicious expression in the expectedValue field for advanced HTTP monitor matching. server/src/api/validation/monitorValidation.ts accepts the expression, and server/src/service/network/AdvancedMatcher.ts synchronously evaluates it against an attacker-controlled HTTP response body on the Node.js main event loop without a ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-70656",
+   "cvss": 4.9,
+   "ref": "https://github.com/bluewave-labs/Checkmate/commit/0df71d6356c87c747e0b796b0c34e33f2a5203fa"
+  },
+  "title_vi": "CVE-2026-70656 — Checkmate là một công cụ mã nguồn mở, tự lưu trữ được thiết kế để theo dõi và giám sát phần cứng máy chủ, thời gian hoạt động, thời gian phản hồi và sự cố trong thời gian thực với b",
+  "key": "64045539f3b4ca0b7f1fbf3e085aa87fb1543e87"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71493 — Infracost provides cloud cost intelligence for engineers, AI coding agents, and CI/CD",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71493",
+  "published": "2026-08-21T18:16:50.440",
+  "summary": "Infracost provides cloud cost intelligence for engineers, AI coding agents, and CI/CD. Prior to 0.10.45, the readFile, pathExists, isDir, and matchPaths template functions in internal/config/template/parser.go use a lexical filepath.Rel check and a leaf-only os.Lstat check that do not resolve an intermediate directory symlink. A repository can contain a path such as evil/file where evil points outside the checkout, causing os.ReadFile and related operations to follow the symlink and read runner-accessible files. The resulting content is rendered into generated configuration and can be surfaced",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71493",
+   "cvss": null,
+   "ref": "https://github.com/infracost/infracost/commit/4d39331afc0e27752d16d9d91c34583e5e8487fb"
+  },
+  "title_vi": "CVE-2026-71493 — Infracost cung cấp thông tin chi phí đám mây cho kỹ sư, tác nhân mã hóa AI và CI/CD",
+  "key": "5b1a577146b69a1531d842dd8dadd5c847d6e0a4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71494 — Infracost provides cloud cost intelligence for engineers, AI coding agents, and CI/CD",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71494",
+  "published": "2026-08-21T18:16:50.590",
+  "summary": "Infracost provides cloud cost intelligence for engineers, AI coding agents, and CI/CD. Prior to 0.10.45, internal/hcl/remote_variables_loader.go and related Terraform Cloud, remote-plan, and Terragrunt registry request paths can attach a configured Terraform Cloud or registry token to a destination hostname derived from untrusted Terraform input without confirming that it is the configured trusted host. When a CI run provides a token while scanning attacker-controlled Terraform, including pull_request_target or a same-repository pull request, an attacker can direct the request to an attacker-c",
+  "categories": [
+   "ai",
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71494",
+   "cvss": null,
+   "ref": "https://github.com/infracost/infracost/commit/3d24c757f5e4e60c7259f1b89ad7ceaabcfca86f"
+  },
+  "title_vi": "CVE-2026-71494 — Infracost cung cấp thông tin chi phí đám mây cho kỹ sư, tác nhân mã hóa AI và CI/CD",
+  "key": "0fff40c3939d92d6284081a6dd11ed16e62eb82a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71862 — Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with b",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71862",
+  "published": "2026-08-21T18:16:50.730",
+  "summary": "Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. From 3.3.0 until 3.9.2, enabling the global showURL setting causes the unauthenticated GET /api/v1/status-page/:url endpoint to return complete monitor objects from server/src/controllers/statusPageController.ts. The response includes the secret field used by HttpProvider.ts as an HTTP Authorization credential, even though BaseStatusPage.tsx does not display that value, allowing visitors to extract credentials from the JS",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71862",
+   "cvss": 7.5,
+   "ref": "https://github.com/bluewave-labs/Checkmate/commit/cc1814f507041bb0f64845bed5d5442c21e920f2"
+  },
+  "title_vi": "CVE-2026-71862 — Checkmate là một công cụ mã nguồn mở, tự lưu trữ được thiết kế để theo dõi và giám sát phần cứng máy chủ, thời gian hoạt động, thời gian phản hồi và sự cố trong thời gian thực với b",
+  "key": "216124a202d8fe342b93f94dd0c4cc49384fbbeb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77234 — Improper input validation in FreeRTOS-Kernel before 11",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77234",
+  "published": "2026-08-21T18:16:51.507",
+  "summary": "Improper input validation in FreeRTOS-Kernel before 11.3.1 might allow an unprivileged task on MPU-enabled ports to execute code in privileged kernel context. To remediate this issue, users should upgrade to version 11.3.1 or later.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77234",
+   "cvss": 8.8,
+   "ref": "https://aws.amazon.com/security/security-bulletins/2026-086-aws/"
+  },
+  "title_vi": "CVE-2026-77234 — Xác thực đầu vào không đúng cách trong FreeRTOS-Kernel trước ngày 11",
+  "key": "5c4d125977e36bbb0793c3cb0fc8dc8226be5465"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77235 — Missing privilege verification in the secure context cleanup handler in FreeRTOS-Kernel before 11",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77235",
+  "published": "2026-08-21T18:16:51.657",
+  "summary": "Missing privilege verification in the secure context cleanup handler in FreeRTOS-Kernel before 11.3.1 might allow local users to cause a use-after-free condition in secure-world memory via the SVC handler for secure context deallocation. To remediate this issue, users should upgrade to version 11.3.1 or later.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77235",
+   "cvss": 7.3,
+   "ref": "https://aws.amazon.com/security/security-bulletins/2026-086-aws/"
+  },
+  "title_vi": "CVE-2026-77235 — Thiếu xác minh đặc quyền trong trình xử lý dọn dẹp ngữ cảnh an toàn trong FreeRTOS-Kernel trước ngày 11",
+  "key": "1a80bb3d0cb082a3c2efa1de4a4520c8620ffe07"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77236 — Missing minimum size validation in secure context allocation in FreeRTOS-Kernel before 11",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77236",
+  "published": "2026-08-21T18:16:51.800",
+  "summary": "Missing minimum size validation in secure context allocation in FreeRTOS-Kernel before 11.3.1 might allow local users to corrupt secure-world heap metadata via an out-of-bounds write with an undersized stack size parameter. To remediate this issue, users should upgrade to version 11.3.1 or later.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77236",
+   "cvss": 7.3,
+   "ref": "https://aws.amazon.com/security/security-bulletins/2026-086-aws/"
+  },
+  "title_vi": "CVE-2026-77236 — Thiếu xác thực kích thước tối thiểu trong phân bổ ngữ cảnh an toàn trong FreeRTOS-Kernel trước ngày 11",
+  "key": "d6d20e2c8c531d9ba27eee0d35753dde696b8a56"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77237 — Missing queue-set type validation in xQueueAddToSet() in the FreeRTOS-Kernel before 11",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77237",
+  "published": "2026-08-21T18:16:51.950",
+  "summary": "Missing queue-set type validation in xQueueAddToSet() in the FreeRTOS-Kernel before 11.3.1 might allow an unprivileged task on MPU-enabled ports with configUSE_QUEUE_SETS=1 to read privileged kernel memory. To remediate this issue, users should upgrade to version 11.3.1 or later.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77237",
+   "cvss": 6.5,
+   "ref": "https://aws.amazon.com/security/security-bulletins/2026-086-aws/"
+  },
+  "title_vi": "CVE-2026-77237 — Thiếu xác thực loại đặt hàng đợi trong xQueueAddToSet() trong FreeRTOS-Kernel trước ngày 11",
+  "key": "32fd30fb2d32c13f25f801ae922a722820acf09d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-35163 — OctoPrint provides a web interface for controlling consumer 3D printers",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-35163",
+  "published": "2026-08-21T19:17:01.170",
+  "summary": "OctoPrint provides a web interface for controlling consumer 3D printers. Prior to 1.11.8 and 2.0.0rc3, Suppressed Command notification popups use PNotify rendering for printer-controlled payload.command and payload.message values in src/octoprint/static/js/app/viewmodels/terminal.js without HTML escaping. An attacker who convinces a victim to print a crafted file can inject HTML and JavaScript into the notification, disrupt prints, read information available to the victim including sensitive settings when permitted, or perform actions in the victim's OctoPrint session. This issue is fixed in v",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-35163",
+   "cvss": null,
+   "ref": "https://github.com/OctoPrint/OctoPrint/commit/42e0f9863935e136f04ed3c560cb96483a580d1b"
+  },
+  "title_vi": "CVE-2026-35163 — OctoPrint cung cấp giao diện web để điều khiển máy in 3D tiêu dùng",
+  "key": "69387137987237ac1d1bc3f34575287354ba8652"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-53762 — VeraCrypt provides disk encryption with strong security based on TrueCrypt",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-53762",
+  "published": "2026-08-21T19:17:02.570",
+  "summary": "VeraCrypt provides disk encryption with strong security based on TrueCrypt. Prior to 1.26.29, non-default builds created with WOLFCRYPT=1 and WOLFCRYPT_BACKEND route SHA-256 and SHA-512 volume-header key derivation through derive_key_sha256 and derive_key_sha512 in src/Crypto/wolfCrypt.c, where the configured iterations value is discarded and wc_HKDF is used instead of PBKDF2-HMAC. Changing the PIM or iteration count therefore does not increase derivation cost, allowing an attacker with an affected container, disk image, or volume header to perform substantially cheaper offline password guesse",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-53762",
+   "cvss": 6.2,
+   "ref": "https://github.com/veracrypt/VeraCrypt/commit/39f93910075e1cf492fcf4a9f99a53c7d0b96b87"
+  },
+  "title_vi": "CVE-2026-53762 — VeraCrypt cung cấp mã hóa ổ đĩa với độ bảo mật mạnh mẽ dựa trên TrueCrypt",
+  "key": "98dcfa47c3be16577608de02d3388c393ce72599"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-54071 — BabelDOC is a document translation tool",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-54071",
+  "published": "2026-08-21T19:17:02.720",
+  "summary": "BabelDOC is a document translation tool. Prior to 0.6.3, BabelDOC's vendored PDF parser in babeldoc/pdfminer/cmapdb.py deserializes untrusted pickle data when CMapDB._load_data() loads CMap files. PDF-controlled Encoding or CMapName values and embedded PostScript usecmap operators can reach this sink after path separators are decoded, while _normalize_cmap_name() removes only a leading slash. Absolute paths or traversal sequences can escape the trusted CMap directories through os.path.join(), select an attacker-writable .pickle.gz file, and cause pickle.loads() to execute arbitrary Python code",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-54071",
+   "cvss": 7.8,
+   "ref": "https://github.com/funstory-ai/BabelDOC/blob/main/docs/release-notes/v0.6.3.md"
+  },
+  "title_vi": "CVE-2026-54071 — BabelDOC là công cụ dịch tài liệu",
+  "key": "18d4c827ef01d9da186c287f605e75a7f38cc2fb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-54073 — VeraCrypt provides disk encryption with strong security based on TrueCrypt",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-54073",
+  "published": "2026-08-21T19:17:02.870",
+  "summary": "VeraCrypt provides disk encryption with strong security based on TrueCrypt. From 1.26.6 until 1.26.29, file-hosted hidden volume creation forces quick format and the FormatNoFs function in src/Common/Format.c and FormatFat function in src/Common/Fat.c use WriteFile to place raw zeroed sectors at predictable 128 MiB intervals. These writes bypass the normal EncryptDataUnits formatting path, leaving deterministic plaintext markers in an area expected to resemble random ciphertext. The markers can weaken plausible deniability during forensic inspection, although they do not disclose hidden-volume",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-54073",
+   "cvss": null,
+   "ref": "https://github.com/veracrypt/VeraCrypt/commit/689a59cd584f090ca5f9214d5f2f3a9eac499e53"
+  },
+  "title_vi": "CVE-2026-54073 — VeraCrypt cung cấp mã hóa ổ đĩa với độ bảo mật mạnh mẽ dựa trên TrueCrypt",
+  "key": "926b46c1c96d500f08048a396d587c693e90f709"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-54134 — OctoPrint provides a web interface for controlling consumer 3D printers",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-54134",
+  "published": "2026-08-21T19:17:03.197",
+  "summary": "OctoPrint provides a web interface for controlling consumer 3D printers. Prior to 1.11.8 and 2.0.0rc3, OctoPrint's custom Tornado upload handler and Flask with Werkzeug parse request parameters differently, allowing an attacker with FILE_UPLOAD permission to inject reserved internal upload fields through query parameters or parser differentials despite the earlier GHSA-m9jh-jf9h-x3h2 fix. The affected endpoints are /api/files/{local|sdcard}, /api/languages, /plugin/backup/restore, and /plugin/pluginmanager/upload_file. An attacker can make OctoPrint treat an arbitrary host file as a temporary ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-54134",
+   "cvss": null,
+   "ref": "https://github.com/OctoPrint/OctoPrint/commit/579148beeb6d6e9b3d41b1cf32309b47218ed380"
+  },
+  "title_vi": "CVE-2026-54134 — OctoPrint cung cấp giao diện web để điều khiển máy in 3D tiêu dùng",
+  "key": "a3067c7c463c7df2ef6dad34ed4943195d8b6bfd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-54681 — DiscordChatExporter saves Discord chat logs to a file",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-54681",
+  "published": "2026-08-21T19:17:03.457",
+  "summary": "DiscordChatExporter saves Discord chat logs to a file. Prior to 2.47.2, the VisitEmojiAsync method in DiscordChatExporter.Core/Exporting/HtmlMarkdownVisitor.cs interpolates emoji.Name into the alt attribute and emoji.Code into the title attribute without HTML entity encoding. This affects HTML exports regardless of the markdown setting. Discord's current custom emoji name validation normally excludes attribute-breaking characters, but tampered offline input, a relaxed upstream validation rule, or another future metadata source can inject an HTML attribute and execute script when a user opens t",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-54681",
+   "cvss": 4.1,
+   "ref": "https://github.com/Tyrrrz/DiscordChatExporter/commit/f4d1e630f7f27120c3be4320d92cc8b932e78688"
+  },
+  "title_vi": "CVE-2026-54681 — DiscordChatExporter lưu nhật ký trò chuyện Discord vào một tệp",
+  "key": "ffdee3c1103d4dfff4a8631f35c66494f1f8b689"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-54682 — DiscordChatExporter saves Discord chat logs to a file",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-54682",
+  "published": "2026-08-21T19:17:03.610",
+  "summary": "DiscordChatExporter saves Discord chat logs to a file. Prior to 2.47.2, HTML exports generated with markdown formatting disabled pass attacker-controlled content through FormatMarkdownAsync and FormatEmbedMarkdownAsync in DiscordChatExporter.Core/Exporting/MessageGroupTemplate.cshtml and render it without HTML entity encoding. The affected fields include message.Content, message.ForwardedMessage.Content, message.ReferencedMessage.Content, embed.Title, embed.Description, field.Name, and field.Value. A Discord webhook or bot can store a script payload in these fields, and the payload executes wh",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-54682",
+   "cvss": 8.2,
+   "ref": "https://github.com/Tyrrrz/DiscordChatExporter/commit/5632d6c3867d2f79cba9578056c98caee4377c1b"
+  },
+  "title_vi": "CVE-2026-54682 — DiscordChatExporter lưu nhật ký trò chuyện Discord vào một tệp",
+  "key": "c9f8e8c0c8a1832a807a1c493ab1984baff677a5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-55850 — Element Web is a Matrix web client built using the Matrix React SDK",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55850",
+  "published": "2026-08-21T19:17:04.230",
+  "summary": "Element Web is a Matrix web client built using the Matrix React SDK. Prior to 1.12.22, EmbeddedPage in apps/web/src/components/structures/EmbeddedPage.tsx renders homeserver-supplied homepage content through dangerouslySetInnerHTML without passing it through sanitizedHtmlNode. A malicious homeserver can provide crafted HTML that Element Web renders on the homepage; the content security policy prevents JavaScript but not phishing HTML. This issue is fixed in version 1.12.22.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-55850",
+   "cvss": null,
+   "ref": "https://github.com/element-hq/element-web/commit/7949980a7e3c7e397d7afe899ef1b0563c417b0e"
+  },
+  "title_vi": "CVE-2026-55850 — Element Web là ứng dụng khách web Ma trận được xây dựng bằng SDK phản ứng ma trận",
+  "key": "fa9ec4b2f593401cf36501e2d2a9c4ec428cfa01"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-56875 — Rejected reason: reserved but not needed",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-56875",
+  "published": "2026-08-21T19:17:04.723",
+  "summary": "Rejected reason: reserved but not needed",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-56875",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2026-56875 — Lý do bị từ chối: dành riêng nhưng không cần thiết",
+  "key": "9c930ea4a08110d60e735bb888525267fda9c1bf"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-63004 — Unleash is an open-source feature management platform",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63004",
+  "published": "2026-08-21T19:17:30.550",
+  "summary": "Unleash is an open-source feature management platform. Prior to 7.5.2, 7.6.5, and 8.0.2, the addon and integration subsystem passes the operator-controlled parameters.url value from src/lib/addons/webhook.ts and the Slack, Microsoft Teams, Datadog, and New Relic integrations to Addon.fetchRetry in src/lib/addons/addon.ts without restricting loopback, link-local, private, or cloud metadata addresses. An authenticated actor with the root CREATE_ADDON or UPDATE_ADDON permission can cause the server to send requests from inside its network boundary, use integration event status as a blind probing ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-63004",
+   "cvss": 5.5,
+   "ref": "https://github.com/Unleash/unleash/commit/2100db76af3473f13e6fb40096cf17a9c2b741a1"
+  },
+  "title_vi": "CVE-2026-63004 — Unleash là một nền tảng quản lý tính năng nguồn mở",
+  "key": "9010c797072d6dd166b9c5fff27f48246af4d8fe"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-63462 — Unleash is an open-source feature management platform",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63462",
+  "published": "2026-08-21T19:17:31.927",
+  "summary": "Unleash is an open-source feature management platform. Prior to 7.5.2, 7.6.5, and 8.0.2, the shared OpenAPI validation error path in src/lib/error/bad-data-error.ts passes a raw request value from lodash.get to JSON.stringify in genericErrorMessage and fromOpenApiValidationErrors without guarding stack exhaustion. An unauthenticated attacker can send a roughly 10 KB JSON value nested thousands of levels deep to POST /edge/validate, POST /edge/issue-token, or another OpenAPI-validated endpoint, causing RangeError: Maximum call stack size exceeded in openAPIValidationMiddleware and terminating t",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-63462",
+   "cvss": 7.5,
+   "ref": "https://github.com/Unleash/unleash/commit/b0e4da63249a9403bc209e0581db223326cb8dcf"
+  },
+  "title_vi": "CVE-2026-63462 — Unleash là một nền tảng quản lý tính năng nguồn mở",
+  "key": "f8a0fae2fa878d78ab76d1cfac124576f12d1bfb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-63466 — Unleash is an open-source feature management platform",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63466",
+  "published": "2026-08-21T19:17:32.117",
+  "summary": "Unleash is an open-source feature management platform. Prior to 8.0.3, FeatureEventFormatterMd.format in src/lib/addons/feature-event-formatter-md.ts assigns Mustache.escape to an identity function before rendering action and path templates. Because Mustache.escape is process-wide, the assignment disables escaping for subsequent Mustache.render calls in email-service.ts, webhook.ts, datadog.ts, and new-relic.ts. An editor-level user can place Slack or Microsoft Teams link syntax in an unrestricted username, trigger a feature event, and inject an attacker-labeled link into a trusted outbound no",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-63466",
+   "cvss": 4.1,
+   "ref": "https://github.com/Unleash/unleash/commit/002012cfdbedd2e9b7db9dc83b9f549f761db22e"
+  },
+  "title_vi": "CVE-2026-63466 — Unleash là một nền tảng quản lý tính năng nguồn mở",
+  "key": "9ba297e7ed5fe9c8a6738b1528f03818eb300514"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77795 — A vulnerability was identified in Dromara RuoYi-Vue-Plus up to 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77795",
+  "published": "2026-08-21T19:17:51.393",
+  "summary": "A vulnerability was identified in Dromara RuoYi-Vue-Plus up to 5.6.2. This issue affects the function FlwInstanceController/FlwDefinitionController/FlwCategoryController/FlwSpelController/TestLeaveController of the component Workflow Endpoint. Such manipulation leads to improper authorization. The attack can be launched remotely.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77795",
+   "cvss": 6.3,
+   "ref": "https://github.com/SunRisexyz/Vul-of-Ruoyi/issues/1"
+  },
+  "title_vi": "",
+  "key": "c05a8942888cdae713719f1a1a3f895278a3c883"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-27462 — Combodo iTop is a web based IT service management tool",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-27462",
+  "published": "2026-08-21T20:16:33.870",
+  "summary": "Combodo iTop is a web based IT service management tool. Prior to 3.2.3, iTop returns different responses for valid/invalid usernames depending on multiple factors in the reset password mechanism, leading to user enumeration. This issue has been fixed in version 3.2.3.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-27462",
+   "cvss": 7.5,
+   "ref": "https://github.com/Combodo/iTop/commit/9fd0ffd84ee62c1c6ede8d30db5fa0305f11fd01"
+  },
+  "title_vi": "",
+  "key": "83c0cbb537dd090978f7f1e25cf4e6ced4310630"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-27463 — Combodo iTop is a web based IT service management tool",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-27463",
+  "published": "2026-08-21T20:16:34.017",
+  "summary": "Combodo iTop is a web based IT service management tool. Prior to 3.2.3, the HTML title attribute of the logo in the login page contains the complete iTop version. This issue has been fixed in version 3.2.3.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-27463",
+   "cvss": 5.3,
+   "ref": "https://github.com/Combodo/iTop/commit/d124f8ee58fa243193184ac2c55a561acdded356"
+  },
+  "title_vi": "",
+  "key": "7a9fb05f4988402d35f6f771461ac821f73b6c1e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-27490 — Combodo iTop is a web based IT service management tool",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-27490",
+  "published": "2026-08-21T20:16:34.157",
+  "summary": "Combodo iTop is a web based IT service management tool. Prior to 3.2.3, inline images that are accessible without being authenticated are protected by a weak 24-bit pseudo-random secret. This issue has been fixed in version 3.2.3.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-27490",
+   "cvss": 7.5,
+   "ref": "http://github.com/Combodo/iTop/commit/9c39efd9af53a1deeb578133eff7333a7b8816b0"
+  },
+  "title_vi": "",
+  "key": "5b82d656874b94a458f576185811a4cf0d4e59fb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-30819 — Combodo iTop is a web based IT service management tool",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-30819",
+  "published": "2026-08-21T20:16:34.313",
+  "summary": "Combodo iTop is a web based IT service management tool. Prior to 3.2.3, iTop has a reflected Cross-Site Scripting (XSS) vulnerability in its dashboard revert functionality with the parameter dashboard_id in /pages/ajax.render.php. This issue has been fixed in version 3.2.3.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-30819",
+   "cvss": 7.3,
+   "ref": "https://github.com/Combodo/iTop/commit/104dd1970f3ad828896a5092b125edb4bc1340b6"
+  },
+  "title_vi": "",
+  "key": "c98aad2455b51ace415f48f5aba42c259f5b2f07"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-30866 — Combodo iTop is a web based IT service management tool",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-30866",
+  "published": "2026-08-21T20:16:34.453",
+  "summary": "Combodo iTop is a web based IT service management tool. Prior to 3.2.3, unauthenticated users can access uploaded sensitive via sniffed url. This issue has been fixed in version 3.2.3.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-30866",
+   "cvss": 7.5,
+   "ref": "https://github.com/Combodo/iTop/commit/458a996c29db73b9ce2d374f6ce8b90c36351159"
+  },
+  "title_vi": "",
+  "key": "ec584f9273a367c4c137d22b43774761465706cb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-50288 — SpecifyJS is a declarative TypeScript user interface framework",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-50288",
+  "published": "2026-08-21T20:16:36.067",
+  "summary": "SpecifyJS is a declarative TypeScript user interface framework. Prior to version 0.2.136, when `new URL()` throws a parse error, the `assertSecureUrl` function returned without throwing, silently allowing the request to proceed without HTTPS validation. Starting in version 0.2.136, the catch block now throws an error instead of silently returning.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-50288",
+   "cvss": null,
+   "ref": "https://github.com/asymmetric-effort/specifyjs/commit/25d1fb491d99479efdf501f5f75e0bb80c908f0a"
+  },
+  "title_vi": "",
+  "key": "2dca2698367fb8eb06137a64d1f033f1ed64f375"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-50290 — SpecifyJS is a declarative TypeScript user interface framework",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-50290",
+  "published": "2026-08-21T20:16:36.220",
+  "summary": "SpecifyJS is a declarative TypeScript user interface framework. Prior to version 0.2.136, CSS value sanitization stripped `expression(` and `url(javascript:` using simple regex, but could be bypassed with CSS unicode escapes (`\\65xpression(`), null bytes, or CSS comments (`exp/**/ression(`). These CSS injection vectors only work in legacy browsers (IE6-IE10). SpecifyJS targets modern browsers. Starting in version 0.2.136, CSS sanitization now normalizes unicode escapes and strips CSS comments before pattern matching. Also checks for `behavior:`, `-moz-binding`, and `-o-link` patterns.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-50290",
+   "cvss": null,
+   "ref": "https://github.com/asymmetric-effort/specifyjs/commit/25d1fb491d99479efdf501f5f75e0bb80c908f0a"
+  },
+  "title_vi": "",
+  "key": "fe43fa60f24c3574417cd921cc8b1dbcac7a91e2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-62960 — Git for Windows is the Windows port of Git",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-62960",
+  "published": "2026-08-21T20:16:38.700",
+  "summary": "Git for Windows is the Windows port of Git. Prior to 2.55.0.windows.4, a malicious remote Git server can advertise a bundle URI that reaches transport_get_remote_bundle_uri(), fetch_bundle_uri_internal(), and copy_uri_to_file() in bundle-uri.c during clone or fetch when transfer.bundleuri=true. Non-HTTP(S) values are treated as local filesystem paths, and file URI prefixes are removed, so a bare UNC path or file URI targeting an attacker-controlled share causes Windows to initiate an outbound SMB connection. This can expose NTLM authentication material to the attacker-selected host. This issue",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-62960",
+   "cvss": 7.4,
+   "ref": "https://github.com/git-for-windows/git/commit/a93524749d7806870fd2b4b00a3812da1d6e5f4a"
+  },
+  "title_vi": "",
+  "key": "fc4c666a9d6fcdb6ca1d3a0810be6453d379e692"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-67358 — Joomla Extension - j2commerce",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-67358",
+  "published": "2026-08-21T20:16:39.450",
+  "summary": "Joomla Extension - j2commerce.com - Download quota manipulation in J2Store 1.0.0-3.3.20, 4.0.0-4.0.20, 4.1.0-4.1.5 - An authenticated user with a valid order token could increment the download limit counter on a download record belonging to a different order. The endpoint also lacked a CSRF token.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-67358",
+   "cvss": null,
+   "ref": "https://www.j2commerce.com/"
+  },
+  "title_vi": "",
+  "key": "ea89117ebe186241e51b8c73e7915155891ef5cf"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-67359 — Joomla Extension - j2commerce",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-67359",
+  "published": "2026-08-21T20:16:39.583",
+  "summary": "Joomla Extension - j2commerce.com - Order content disclosure J2Store 1.0.0-3.3.20, 4.0.0-4.0.20, 4.1.0-4.1.5 - An unauthenticated visitor could supply any order_id as a query parameter to render the full checkout confirmation page for that order, including line items, prices, and totals.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-67359",
+   "cvss": null,
+   "ref": "https://www.j2commerce.com/"
+  },
+  "title_vi": "",
+  "key": "84bea5fb0d3c65e50956bc94ae79d499a3ba1c48"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-67360 — Joomla Extension - j2commerce",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-67360",
+  "published": "2026-08-21T20:16:39.700",
+  "summary": "Joomla Extension - j2commerce.com - Cross-customer order replication in J2Store 1.0.0-3.3.20, 4.0.0-4.0.20, 4.1.0-4.1.5 - An authenticated user could supply another customer's order_id to copy their cart contents and address data into the attacker's session. The CSRF token was validated but ownership was not checked.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-67360",
+   "cvss": null,
+   "ref": "https://www.j2commerce.com/"
+  },
+  "title_vi": "",
+  "key": "eefdf7f8a585ada7df333515d8e4a00e4cf60b26"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-67361 — Joomla Extension - j2commerce",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-67361",
+  "published": "2026-08-21T20:16:39.827",
+  "summary": "Joomla Extension - j2commerce.com - Unauthenticated file upload with missing directory protection in J2Store 1.0.0-3.3.20, 4.0.0-4.0.20, 4.1.0-4.1.5 - The file upload endpoint accepted POST requests from unauthenticated visitors with no CSRF token. Compounding this, the installer manifest omitted the upload and invoices directories, causing fresh installs to deploy those directories without .htaccess/web.config protection, making uploaded files directly web-accessible.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-67361",
+   "cvss": null,
+   "ref": "https://www.j2commerce.com/"
+  },
+  "title_vi": "",
+  "key": "67e3a23ee7673f237e48e3b3de998ba79d822015"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-67362 — Joomla Extension - j2commerce",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-67362",
+  "published": "2026-08-21T20:16:39.960",
+  "summary": "Joomla Extension - j2commerce.com - Open redirect in cart controller in J2Store 1.0.0-3.3.20, 4.0.0-4.0.20, 4.1.0-4.1.5 - Four task handlers accepted a base64-encoded URL from user input and redirected to it without validating the destination host, enabling phishing using the shop's trusted domain. No authentication required.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-67362",
+   "cvss": null,
+   "ref": "https://www.j2commerce.com/"
+  },
+  "title_vi": "",
+  "key": "145656b1978fd5a3c5f3e92377aa1ae909504c4d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-74252 — Joomla Extension - j2commerce",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-74252",
+  "published": "2026-08-21T20:16:41.000",
+  "summary": "Joomla Extension - j2commerce.com - Stored XSS in Guest checkout in J2Store 1.0.0-3.3.20, 4.0.0-4.0.20, 4.1.0-4.1.5 - J2Commerce 4.1.5 is vulnerable to Stored Cross-Site Scripting (XSS) through the guest checkout billing address fields. An unauthenticated attacker exploits a filter bypass in Joomla's Input::getArray() combined with PHP's variables_order=EGPCS (Cookie overrides POST in $_REQUEST ) to store unsanitized HTML in fields such as billing_first_name.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-74252",
+   "cvss": null,
+   "ref": "https://www.j2commerce.com/"
+  },
+  "title_vi": "",
+  "key": "e25e3f4eb7112d4a25623d2b09aaaec53acce91e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-76876 — Craftplan before 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76876",
+  "published": "2026-08-21T20:16:44.680",
+  "summary": "Craftplan before 0.5.1 contains a broken access control vulnerability that allows unauthenticated attackers to read sensitive credentials by exploiting an unconditional authorization policy on the Settings resource. Attackers can send a GET request to the settings API endpoint with a valid record ID to retrieve decrypted SMTP passwords, email API keys, and email API secrets due to the read policy using an always-allow authorization check that bypasses all identity verification.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-76876",
+   "cvss": 5.9,
+   "ref": "https://github.com/puemos/craftplan/commit/317acd584b68887f592dc3b97f47703dd63b1bf"
+  },
+  "title_vi": "",
+  "key": "4b453e08963a49c1446fcbfeb25d89b5187ab898"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77810 — In the Neptune connector, a user with access to Neptune through Athena Federated Query could gain access to properties in the Lambda supplying the com",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77810",
+  "published": "2026-08-21T20:16:45.530",
+  "summary": "In the Neptune connector, a user with access to Neptune through Athena Federated Query could gain access to properties in the Lambda supplying the compute for the connector. To remediate this issue, users should upgrade to aws-athena-query-federation v2026.30.1 or later.",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77810",
+   "cvss": 9.9,
+   "ref": "https://aws.amazon.com/security/security-bulletins/2026-087-aws/"
+  },
+  "title_vi": "",
+  "key": "db7f25b48440640a3f34c107e16f583dc7223ba8"
+ },
+ {
   "source": "VietnamPlus Kinh tế số",
   "title": "Tấn công bằng kiếm tại trường học Thụy Điển",
   "link": "https://www.vietnamplus.vn/tan-cong-bang-kiem-tai-truong-hoc-thuy-dien-post1131659.vnp",
