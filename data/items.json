@@ -2794,7 +2794,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0b8ff21cbda8808c86b18f1b0ca2d0025af9a80a"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74674 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: mm: fix địa chỉ flush không chính xác trong bảng trang trực tiếp reclaim Khi zap_pte_range re",
   "key": "d6edabed0a5658f01c21e826b7cc5fe503bfa2e0"
  },
  {
@@ -2812,7 +2812,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/38400673c9bfb39cfc87539e1a072087e98f4e4f"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74675 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: vt: ổn định tham chiếu tty trong kbd_keycode với tty_port_tty_get kbd_keycode() rea",
   "key": "f4e3d2deab01d2d3eb2690bc25df2ea605ea6a10"
  },
  {
@@ -2830,7 +2830,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/1c5b67a1e2cb7d78dab321280f330b056e3bf437"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74676 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: vt: add permission check for KDSKBMETA ioctl KDSKBMETA modifies keyboard meta mode",
   "key": "6e95fa6cdd513b5ccd1ebf7e8428660f358ce2d6"
  },
  {
@@ -2848,7 +2848,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/2c7496124e94c7f9c3daa5c5b1fb563ca9d62c45"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74677 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net: usb: ipheth: fix carrier_work UAF khi ngắt kết nối ipheth_sndbulk_callback() lại",
   "key": "cc53a84df6daee88fcaa80498bf94ace2e48b767"
  },
  {
@@ -2867,7 +2867,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/1c63303659a2264bd55d9813df74cb4caeed5922"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74678 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net: usb: ax88179_178a: fix skb leak in ax88179_tx_fixup() Khi giao diện có",
   "key": "49dddea1cd52ab28652b7ce59d233214feb5fd4e"
  },
  {
@@ -2885,7 +2885,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/11413d7ed42174b8f5d8d0b6a25d10dc88239b21"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74679 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: usb: gadget: f_ncm: Sử dụng unsigned int cho ndp_index Biến ndp_index được khai báo",
   "key": "8dedcb60ace9e6e5a5cc0827765171d614ee53c4"
  },
  {
@@ -2903,7 +2903,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0af047703dbed8224552587ed436f14a24371b46"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74680 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: usb: atm: cxacru: tắt đúng rcv_urb khi gặp lỗi trong cxacru_cm() Nếu cxacru_cm() enc",
   "key": "d54f5211ba4fdc4399c8b1b7815e30c2241d22cc"
  },
  {
@@ -2921,7 +2921,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/7e22c9f79b200672f3e477421b6c9050d8cf70a5"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74681 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: usb: misc: usbio: check ibuf_len against rxbuf_len in bulk msg ibuf_len is the bul",
   "key": "359f21c165b3d859d0ee3db731f3d7d28bf59837"
  },
  {
@@ -2939,7 +2939,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0a235379825e1a6194e43861ee6658e5fc35686d"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74682 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ALSA: usb-audio: fix OOB write on Type II inbound URBs data_ep_set_params() sizes",
   "key": "324a6d43e6140bebb11eb3d8e56c7098c6af6c54"
  },
  {
@@ -2957,7 +2957,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/3abd29c61d2ef37c4102cf755b18be53bb9dbea6"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74683 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: Input: evdev - sanitize event type index when fetching event masks The user-suppli",
   "key": "ae2b856e9c7b7ea03dd552c5ed1a4071205f3d6b"
  },
  {
@@ -2975,7 +2975,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/164c31ee252ebd1ac8f44c2dfc5486b6d9a0379b"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74684 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net: tap: set skb- >dev trước khi phân tích cú pháp virtio net header trong tap_get_user_xdp ()",
   "key": "102eb67b1c25f67a600043e7f269da564fbd1cf2"
  },
  {
@@ -2993,7 +2993,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/046e56b53c09375ef39903514496aa5508db9729"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74685 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: hwmon: (ltc4282) Kẹp giới hạn dòng điện âm Khi một giá trị âm được truyền vào",
   "key": "b4a3463ec4b5454a04a4edcb57f6514ee7b4b933"
  },
  {
@@ -3011,7 +3011,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/7a3c0289c3c8eb4607dff448ae9ff9f902c813af"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74686 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: rqspinlock: Đặt lại đuôi khi giữ nguyên hàng đợi trên deadlock Hiện tại, destructio",
   "key": "76cf553e4c9b1f024b3c728504f511c7ed48bfd8"
  },
  {
@@ -3029,7 +3029,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/29fe74c9aa69d78c1c6a3930f1d9fc5db71a6eed"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74687 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: watchdog: at91sam9_wdt: prevent timer rearm during teardown at91_ping() rearm the",
   "key": "22fa801ddb2c515740011297cf2468f249ddb04d"
  },
  {
@@ -3047,7 +3047,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/18d704bdd809377dfd81a3c2f42426763b5da227"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74688 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: sctp: clear control chunk transport if it is being removed sctp_make_heartbeat_ack",
   "key": "32a758d48ed5b8fe365352007c9a6832c5618854"
  },
  {
@@ -3065,7 +3065,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/2c5988c7349c0b64a7e0441bfc6e1dca54f7116a"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74689 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: net/atm: fix slab-out-of-bounds read in vcc_setsockopt() vcc_setsockopt() containe",
   "key": "37d9272ea851a138265c900f85562a5ae3d9fcd3"
  },
  {
@@ -3083,7 +3083,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/774394d27930ec4cf4cb3eed8ab6a4d20cb2430a"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74690 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: s390/ism: Khắc phục UAF của sba và ieq trong ism_dev_exit() Trình xử lý ngắt ism có thể",
   "key": "76ca563ffff4df92e637f11cf5da11a237e125df"
  },
  {
@@ -3101,7 +3101,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0da9a6d27155ad072dd76db8cd637feead99a0e0"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74691 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net: thunderbolt: Tear down DMA paths before stopping the rings tbnet_tear_down()",
   "key": "2b487e274f9f7c61ca28de264d6ba76210d47d23"
  },
  {
@@ -3119,7 +3119,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/00f89433777236ced4771211047fb5d4cd581cea"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74692 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net/smc: fix TOCTOU race between smc_listen_out() và listener close smc_listen_ou",
   "key": "3d7c231b06eb7fc1552102338a4fe5d44c0b297a"
  },
  {
@@ -3137,7 +3137,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0fbcceb9d19f2d1dcdf099aee590f2517cb718bb"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74693 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net: prestera: validate firmware header length prestera_fw_hdr_parse() đọc f",
   "key": "bf1be7cf0c6af67837cb41f861e28a2a0c6b2ac7"
  },
  {
@@ -3155,7 +3155,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/02226af69362758046822840fc6a497f5de33f00"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74694 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net/ncsi: fix heap OOB read in NCSI_Cmd_SEND_Cmd payload length ncsi_send_cmd_nl()",
   "key": "79ca71c9f2c04bbf28be0a5ee33484a655e8651f"
  },
  {
@@ -3174,7 +3174,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/12afa450a6a6c0cce2c42b7545a9958f62d8a00c"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74695 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: netfilter: nf_flow_table: thả skb dst hiện có trước skb_dst_set_noref() Incomin",
   "key": "78e2ceb4fa28528c6e729e29181b2a6dc53741ce"
  },
  {
@@ -3192,7 +3192,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/585fc5247d14939a561056aa2addd9b7c2b1f670"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74696 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: tcp: fix TFO max_qlen accounting across reuseport migration TCP_FASTO của người nghe",
   "key": "4678d4390e8a5de76b599cbde7f6f491952fe83d"
  },
  {
@@ -3210,7 +3210,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/410da4428b1f47bf9a84bdc0bcaa089d73ba2048"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74697 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: bnxt_en: Vô hiệu hóa EOP cho TPA trên tất cả các chip để ngăn chặn tham nhũng dữ liệu EOP (Kết thúc f",
   "key": "b60cfde2a39d1b44cee44dee7b90708ade55f0ab"
  },
  {
@@ -3228,7 +3228,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/88664c48d7d1eca8e1ac92da85c89c26af741cf1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74698 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net/mlx5e: fix BQL reset on SQ re-activation mlx5e_queue_start() deactivates and r",
   "key": "081ca0513ebdce7c742d7d4f9623732abe8684e1"
  },
  {
@@ -3247,7 +3247,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/410596743958fbddeb845ff3efe2645397d7c7e2"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74699 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: drm/xe: Khắc phục rò rỉ bộ nhớ trong exec_queue_set_hang_replay_state() q->replay_state",
   "key": "118a55da36dcf6b2219f213036bd9035c4dd3c3d"
  },
  {
@@ -3265,7 +3265,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/34e77d8e3570f9df3952496ddb402833695662fd"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74700 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: net/sched: cls_api: Luôn có được rtnl_lock khi phá hủy các bộ phân loại bị khóa An",
   "key": "d63192d55d14040dbe715549c88871016abb8246"
  },
  {
@@ -3283,7 +3283,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0b60b55652ba772b173dddc63f3851e1d2dd5927"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74701 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net/openvswitch: kiểm tra độ dài tiêu đề Ethernet trong key_extract() Khi một gói đến",
   "key": "d3b3c1be47e2f92c365081cac0485690afd690ba"
  },
  {
@@ -3301,7 +3301,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/42bc45df5905e2b7dccb72adaf7730f66cfbe03f"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74702 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: vhost-scsi: thay đổi tính năng từ chối sau khi điểm cuối vhost_scsi_setup_vq_cmds() chạy",
   "key": "5139788469e087bb1be979a041ef9175af4e54da"
  },
  {
@@ -3319,7 +3319,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/2417a498cf3fe64d06faf87e236eda98dd4f04e0"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74703 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: vhost-scsi: Validate T10 PI scatterlist counts When T10 PI is negotiated, vhost-sc",
   "key": "9a913c5d193768af075f246295a1b359be310c29"
  },
  {
@@ -3337,7 +3337,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0c4882bff34558d8d53fb04c3e96da5c327c7dc8"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74704 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: net/sched: sch_cake: drop WARN_ON(1) cho các gói không đúng định dạng trong bộ lọc ACK",
   "key": "c3415590c2f51020b7dbe5051b2e98192abbbd42"
  },
  {
@@ -3355,7 +3355,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/19d89b13a43640b2da2f277ee462d919d988cb6f"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74705 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: udp: fix potential use-after-free in tunnel segmentation __skb_udp_tunnel_segment(",
   "key": "4e65458915b0fa306624f97454624567e13d4529"
  },
  {
@@ -3373,7 +3373,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/1cb4298810e27e037d3ca07286ecbb97e89ba58d"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74706 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: bnge: Fix NULL pointer dereference in aux device release If allocation of auxr_dev",
   "key": "2e4a94b79544b79e53b2cae246e5851c5690fad6"
  },
  {
@@ -3391,7 +3391,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0cc7aa6e0d19027fdd42e6fbd156267ac1e3bbba"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74707 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: xsk: xác thực siêu dữ liệu khi xử lý yêu cầu Đường dẫn không sao chép xác thực TX me",
   "key": "28e1dfbbfd4b537afdca4d8632428c939555850f"
  },
  {
@@ -3409,7 +3409,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/439ce2dddf3d22129b9113a7881637256a35e936"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74708 - Trong nhân Linux, lỗ hổng sau đã được giải quyết: xsk: xác thực kích thước siêu dữ liệu thời gian khởi động Siêu dữ liệu thời gian khởi động mở rộng vượt ra ngoài fi",
   "key": "118601ee04e0969483a709a0ce6e567e603faadb"
  },
  {
@@ -3427,7 +3427,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0ba2e1eb07a826d021344e2f146b6716c58139eb"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74709 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: xsk: con trỏ siêu dữ liệu rõ ràng khi không yêu cầu dấu thời gian Không gian người dùng có thể thay đổi m",
   "key": "6602a26a4f6b27aee8d30cece3e44d0292424f47"
  },
  {
@@ -3445,7 +3445,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/1bb30b181d9f0484e141f8411e15ed906d5c6780"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74710 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: xsk: yêu cầu ít nhất 16 byte siêu dữ liệu TX AF_XDP chấp nhận độ dài siêu dữ liệu TX",
   "key": "d006ed930a2657ed507900dba28dd767ca91ad9a"
  },
  {
@@ -3463,7 +3463,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0b121de89a99c54bcf516999b04e8531c84f08d5"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74711 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: hwmon: (pmbus) Fix type confusion in notification logic Sashiko reports: At the st",
   "key": "4c3ad22f34877ff56e8432ea1187bae25c6c35f6"
  },
  {
@@ -3481,7 +3481,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/6c8a9f7bc00301e533a5366384f3070a8e7f8430"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74712 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: vdpa/mlx5: Sửa độ dài bộ đệm trong create_direct_keys() Chúng tôi đã thấy trong CI của chúng tôi",
   "key": "0b31df76b210672aadb4347a1f135bbc043a7fa6"
  },
  {
@@ -3499,7 +3499,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/1ed35ac7f3fe2b4396bdd29ac3a7f0ebc0829e94"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74713 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: vhost_iotlb: phân bổ bản đồ ràng buộc trong add_range vhost_iotlb_add_range_ctx() chỉ re",
   "key": "25afac03cd4d7f29fba8a6fd92e58b5b1e42912d"
  },
  {
@@ -3517,7 +3517,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/7d2b60a4bc0499f62ff8520af6309bbe170882fd"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74714 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: bpf: tcp: Khắc phục use-after-free trong bpf_iter_tcp_established_batch() reqsk_queue_hash_",
   "key": "67c3b75428939b810b801c11d464b24580b1c8fb"
  },
  {
@@ -3535,7 +3535,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/e5e060eb63d10b41ab60fd955649479d99b38210"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74715 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: bpf: Khắc phục sự mất cân bằng tham chiếu mạng trong conntrack kfuncs Đối số OPTS của BP",
   "key": "e482d252dc691195291d13ff93b659e3f2cb7559"
  },
  {
@@ -3553,7 +3553,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/13339132d89d00b513dff0730bff3a313b9b13b5"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74716 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: accel/amdxdna: Khắc phục LỖI_bật có thể khai thác cục bộ trong amdxdna_insert_pages() Trong amdxdna",
   "key": "9ee277d1e3ccf016a355f72a8d662daed87d1bf8"
  },
  {
@@ -3571,7 +3571,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/04599570c3a18f9ae7aad36825eb46f3dcd2c4e3"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74717 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net/mlx5: fw_tracer, return NULL khi tạo lỗi Việc tạo Tracer có thể thất bại bằng cách truy xuất",
   "key": "b932ce165a5679eb04f336f4bedda39512d4c83b"
  },
  {
@@ -3590,7 +3590,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/1c4dac9bf1d2ac31da63b794bdec697777cbd0fd"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74718 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: devlink: fix net namespace reference leak in reload devlink_nl_reload_doit() calls",
   "key": "2d4213dec05d5e796614ea8fed954caf20e2f29a"
  },
  {
@@ -3609,7 +3609,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/06734dfeaeba886aab1bf147249195b888ac3e4d"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74719 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net/smc: fix qentry overwrite for CONFIRM_LINK và ADD_LINK_CONT trong smc_llc_event_",
   "key": "4f2e19cbcc112e1a33473fa8c52c6f866aff3cf6"
  },
  {
@@ -3627,7 +3627,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/29c239f8dbec5ab33a61796724d189bddee6cd4b"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74720 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: bpf: Duy trì trạng thái con trỏ cho số học giao hoán Khi có con trỏ vô hướng +=",
   "key": "d09d7540f93ecf1bbfff7446d41ae4d8aedb16c3"
  },
  {
@@ -3645,7 +3645,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/1501e4d07c6fee0d50531a0d1cb2be01a63e6e75"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74721 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: accel/amxdna: Sửa lỗi chèn trang trong amdxdna_insert_pages() Hai đường dẫn lỗi",
   "key": "bbef006874a39c8227de501708e096239979fa4b"
  },
  {
@@ -3664,7 +3664,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0f0da96ccb1b9f35f4d3d4540dcaab0969d9d6b0"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74722 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: btrfs: fix memory leak in btrfs_do_encoded_write() Local fuzzing of 6",
   "key": "5b060a9dd0568c9236b67777c19c706d044d2d54"
  },
  {
@@ -3682,7 +3682,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0fa78ef637deb5dbe341582f88553a4bce496de0"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74723 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: btrfs: lzo: reject inline extents without valid headers [BUG] Đối với btrfs được tạo thủ công",
   "key": "e374391bb8144b6eb5dbea067935f22190bca7a0"
  },
  {
@@ -3700,7 +3700,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/243d0187ec4c3837b9b0004f18d1068e46115760"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74724 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ipvs: tránh ghi ngoài giới hạn trong ip_vs_nat_icmp Sashiko cảnh báo rằng attacke cục bộ",
   "key": "eeedbb7a9958335e2696b52331bd47ebf1a28eef"
  },
  {
@@ -3718,7 +3718,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/4f3464fc6c1f26afc504fd525c574f2bc14c9d42"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74725 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: enic: fix tx_hang_reset use-after-free on device removal enic_remove() hủy bỏ",
   "key": "52b0333fa339b41bfab2901b62bd3b29e387748a"
  },
  {
@@ -3736,7 +3736,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/09add8d5cfa9c46828f51eaad162c36e86366b71"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74726 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: bonding: alb: re-check primary_is_promisc theo RTNL trong bond_alb_monitor bond_alb_",
   "key": "ba0e20795db21301aefbb308e2f26c1b349bf7c1"
  },
  {
@@ -3754,7 +3754,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/33ec10567fe14456063daf549fdf1a4f53448e4c"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74727 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: ovpn: skip rehash cho các đồng nghiệp đã bị xóa khỏi by_id ovpn_nl_peer_set_doit() res",
   "key": "42c50aba96e4527c80f38c8c72d1678f31f74414"
  },
  {
@@ -3772,7 +3772,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/3aa0c1d23ee1b9d9b340fb2f4736536e1408d706"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74728 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: xfs: handle NULL b_addr trong xfs_buf_free Khi xfs_buf_alloc_backing_mem() không thành công, xf",
   "key": "caf2df87793989086a9623f7942bd80b92ac020f"
  },
  {
@@ -3790,7 +3790,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/131ab677b03349a5ae48da8722ec7075b37ec66e"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74729 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: soc: aspeed: lpc-snoop: Khắc phục lỗi tràn bản sao trong snoop_file_read put_fifo_with_dis",
   "key": "63746f5ae8bfdd7c982f59b125a53e6331508fc0"
  },
  {
@@ -3808,7 +3808,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/80ed3d762628b36c9e4b22fac7c65b72ef3b13dd"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74730 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: NFS: Ghim 'struct nfs_server' trong cuộc gọi FREE_STATEID Dan Aloni báo cáo rằng",
   "key": "ce9b8baf3dd21ef600bd17616b6920ad668c2c35"
  },
  {
@@ -3826,7 +3826,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/6428093a4a986c38c9089b5eb32b56d914ef437a"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74731 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: sched_ext: Bỏ qua việc xé nhỏ phụ cho các tiểu lịch không bao giờ liên kết Một tiểu lịch",
   "key": "a7f15806d22a303117f31d8f015386961cb110ca"
  },
  {
@@ -3844,7 +3844,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/3141e3d61469bba2624a91c5e2407f110b33b29e"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74732 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: drm/amd/display: Kiểm tra tg ops trong dce110_set_avmute Một số thế hệ thời gian DCE cũ hơn",
   "key": "92244b55d5b15514ba3b71a639a16b4814ba9053"
  },
  {
@@ -3862,7 +3862,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/9dc325327babe7f159e84cbe9380a45342da0585"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74733 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: gpio: pca953x: fix pca953x_irq_bus_sync_unlock regmap lock Khóa bị vô hiệu hóa trong",
   "key": "65db19ad89acb8f6e2bcd267c2136d949e176772"
  },
  {
