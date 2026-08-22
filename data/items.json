@@ -1,6 +1,314 @@
 [
  {
   "source": "VietnamPlus Kinh tế số",
+  "title": "Hướng đi mới tăng cường hợp tác và thúc đẩy kết nối du lịch Việt Nam - Ba Lan",
+  "link": "https://www.vietnamplus.vn/huong-di-moi-tang-cuong-hop-tac-va-thuc-day-ket-noi-du-lich-viet-nam-ba-lan-post1131759.vnp",
+  "published": "2026-08-22T06:52:32+00:00",
+  "summary": "Việt Nam đang tiếp tục duy trì sức hút đối với khách quốc tế.&nbsp;Đáng chú ý, Ba Lan đang nổi lên là một trong những thị trường châu Âu có tốc độ tăng trưởng khách đến Việt Nam cao. Lần đầu tiên Việt Nam đón trên 2 triệu lượt khách quốc tế trong 3 tháng liên tiếp Xanh hóa du lịch Đà Nẵng: Từ trách nhiệm đến nâng tầm thương hiệu điểm đến Đã đến lúc Việt Nam “làm du lịch bằng trí tuệ nhân tạo”",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "b4df5aa3cfc505ee468b200088b82545d3d71e92"
+ },
+ {
+  "source": "Tuổi Trẻ Công nghệ",
+  "title": "ChatGPT giờ có thể đọc, soạn và gửi iMessage thay bạn",
+  "link": "https://tuoitre.vn/chatgpt-gio-co-the-doc-soan-va-gui-imessage-thay-ban-100260822120925415.htm",
+  "published": "2026-08-22T08:25:36.687324+00:00",
+  "summary": "ChatGPT trên Mac giờ đây có thể tìm, tóm tắt, soạn và gửi tin nhắn qua Apple Messages, nhưng chỉ sau khi người dùng cấp quyền và phê duyệt thao tác.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "59f228aed7af77732fa1f0d72cdcb873061868a1"
+ },
+ {
+  "source": "Thanh Niên Công nghệ",
+  "title": "Trước khi AI b&ugrave;ng nổ, c&aacute;c trung t&acirc;m dữ liệu tồn tại để l&agrave;m g&igrave;?",
+  "link": "https://thanhnien.vn/truoc-khi-ai-bung-no-cac-trung-tam-du-lieu-ton-tai-de-lam-gi-18526082214152194.htm",
+  "published": "2026-08-22T07:35:00+00:00",
+  "summary": "Trước khi trở th&agrave;nh t&acirc;m điểm tranh c&atilde;i với cơn sốt ChatGPT hay Gemini, c&aacute;c trung t&acirc;m dữ liệu đ&atilde; dấn th&acirc;n v&agrave;o những nhiệm vụ n&agrave;o?",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "4fc3a215fa9927985a47002b5f1f0b7b79582fe9"
+ },
+ {
+  "source": "GenK",
+  "title": "Không phải AI, đây là giao diện thật tàu hạng sang mới nhất của Việt Nam: Ghế xoay 360 độ, khách đi tàu được hưởng dịch vụ chưa từng có",
+  "link": "https://genk.vn/khong-phai-ai-day-la-giao-dien-that-tau-hang-sang-moi-nhat-cua-viet-nam-ghe-xoay-360-do-khach-di-tau-duoc-huong-dich-vu-chua-tung-co-165260822135627991.chn",
+  "published": "2026-08-22T08:25:27.496573+00:00",
+  "summary": "Trải nghiệm đoàn tàu hạng sang mới nhất, du khách sẽ được hưởng những dịch vụ và tiện tích gì?",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "abb48856c8370629dab21409af694e5ca3088918"
+ },
+ {
+  "source": "GenK",
+  "title": "Thiếu VRAM chạy AI, cửa hàng Nhật mở dịch vụ nâng cấp với giá 25 USD mỗi GB",
+  "link": "https://genk.vn/thieu-vram-chay-ai-cua-hang-nhat-mo-dich-vu-nang-cap-voi-gia-25-usd-moi-gb-165262208074343840.chn",
+  "published": "2026-08-22T08:25:27.496725+00:00",
+  "summary": "Giữa lúc GPU nhiều bộ nhớ ngày càng đắt đỏ, một cửa hàng Nhật Bản biến việc “độ” VRAM thành dịch vụ, giúp card đồ họa gần tám năm tuổi tìm được vai trò mới trong thời đại AI.",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "325bd3c248d1f8f26baf9f1d956929a4c170b288"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-14187 — The Tutor LMS WordPress plugin before 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-14187",
+  "published": "2026-08-22T06:16:11.597",
+  "summary": "The Tutor LMS  WordPress plugin before 4.0.6 does not enforce per-object ownership checks on its course content type, allowing any user with the instructor role to read the content of private courses belonging to other instructors.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-14187",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/fb006829-e298-4b22-9d62-293a3b917ccd/"
+  },
+  "title_vi": "CVE-2026-14187 — Plugin Tutor LMS WordPress trước 4",
+  "key": "dce4f242c8d298c13d3886b6dbc6d876d15bb9ea"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-16260 — The Post Grid, Slider & Carousel Ultimate WordPress plugin before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-16260",
+  "published": "2026-08-22T06:16:14.833",
+  "summary": "The Post Grid, Slider & Carousel Ultimate  WordPress plugin before 1.8.1 does not sanitise and escape one of its custom post type settings before outputting it in an HTML attribute on the admin edit screen, allowing users with the Contributor role and above to inject JavaScript that executes in the session of any administrator who opens the affected item.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-16260",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/87c95831-d1b4-42b2-8fc7-6cba60fca400/"
+  },
+  "title_vi": "CVE-2026-16260 — Plugin Post Grid, Slider & Carousel Ultimate cho WordPress trước phiên bản 1",
+  "key": "102e48bfcd791e21995bccbcf61a890806b2e87b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-16612 — The FiboSearch WordPress plugin before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-16612",
+  "published": "2026-08-22T06:16:15.130",
+  "summary": "The FiboSearch  WordPress plugin before 1.34.1 does not consistently exclude password-protected products from its unauthenticated AJAX endpoints, allowing unauthenticated users to disclose and enumerate password-protected products and their metadata without entering the product password. Two endpoints are affected: the autocomplete search endpoint (dgwt_wcas_ajax_search) and the Details Panel endpoint (dgwt_wcas_result_details) when queried for taxonomy details.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-16612",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/705cf14a-2782-408a-80b1-be7a9da6bbdd/"
+  },
+  "title_vi": "CVE-2026-16612 — Plugin FiboSearch WordPress trước phiên bản 1",
+  "key": "4e20b2faa033cde7eeab808f68a78814afd1daa3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-16738 — The Conekta Payment Gateway WordPress plugin before 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-16738",
+  "published": "2026-08-22T06:16:15.383",
+  "summary": "The Conekta Payment Gateway WordPress plugin before 6.2.2 does not verify the authenticity of incoming payment gateway webhook notifications, nor bind the confirmed payment to the targeted order or verify its amount, allowing unauthenticated attackers to mark arbitrary orders as paid without payment.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-16738",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/89a2917e-032c-4f0f-be44-1a50b9d6fddf/"
+  },
+  "title_vi": "CVE-2026-16738 — Plugin WordPress Cổng thanh toán Conekta trước 6",
+  "key": "7c6805c412328794d9b63d0acd4ab09a14ab0294"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18052 — The ManageWP Worker WordPress plugin before 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18052",
+  "published": "2026-08-22T06:16:15.647",
+  "summary": "The ManageWP Worker WordPress plugin before 4.9.37 does not bind the account being logged in to the signature which authorises the login, nor prevent an already used login link from being replayed, allowing attackers who obtain such a link to gain a session as any user on the site, including an administrator.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18052",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/e1e8c313-f7ea-4f3a-85c0-4f33dfe0710d/"
+  },
+  "title_vi": "CVE-2026-18052 — Plugin WordPress Quản lý công nhân trước 4",
+  "key": "4e7e92506fe4be276aa4de8f9b9eea16784d11c7"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-19093 — The Tutor LMS WordPress plugin before 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19093",
+  "published": "2026-08-22T06:16:15.900",
+  "summary": "The Tutor LMS  WordPress plugin before 4.0.6 does not validate a stored file path before using it to stream media, allowing users with the instructor role to read arbitrary files on the server, including files outside the web root.\n\nThe readable files include the WordPress configuration file, which exposes the database credentials and the authentication keys and salts, so authentication cookies can be forged.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-19093",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/9f8361a9-d424-4346-9d92-6f27ab9261c9/"
+  },
+  "title_vi": "CVE-2026-19093 — Plugin Tutor LMS WordPress trước 4",
+  "key": "b3bfc036935af785bce19e7482a23a4663870ae5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-19221 — The Forminator Forms WordPress plugin before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19221",
+  "published": "2026-08-22T06:16:16.130",
+  "summary": "The Forminator Forms  WordPress plugin before 1.57.0.5 does not restrict a network-wide setting to network administrators, allowing an administrator of any single site on a multisite network to execute arbitrary code across the entire network.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-19221",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/5aa85c72-2a60-4243-b370-ef0b46e98cfe/"
+  },
+  "title_vi": "CVE-2026-19221 — Plugin Forminator Forms WordPress trước phiên bản 1",
+  "key": "a1382595bdf13b1a3cc2c60a400bbf8af122e9e2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-19222 — The Forminator Forms WordPress plugin before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19222",
+  "published": "2026-08-22T06:16:16.383",
+  "summary": "The Forminator Forms  WordPress plugin before 1.57.0.7 does not consistently enforce the role restriction it applies to registration forms, allowing users who are permitted to build forms to configure one that assigns the administrator role to any visitor who registers through it.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-19222",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/bb3997c6-4d9a-46f6-85d7-d472dfc00829/"
+  },
+  "title_vi": "CVE-2026-19222 — Plugin Forminator Forms WordPress trước phiên bản 1",
+  "key": "778be59640e7267684911310bde7d5d9d634bab6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-76789 — The Slider Hero with Video Background, Animation WordPress plugin before 9",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76789",
+  "published": "2026-08-22T06:16:16.643",
+  "summary": "The Slider Hero with Video Background, Animation WordPress plugin before 9.1.3 does not have authorisation and nonce checks on two of its request handlers, and does not escape a stored setting before outputting it, allowing unauthenticated users to store malicious JavaScript which will be executed in the context of an administrator viewing the Slider Hero with Video Background, Animation WordPress plugin before 9.1.3's admin area, as well as any visitor of a page embedding a slider.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-76789",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/f9f5485c-6231-492c-b214-8da87a2bf4d1/"
+  },
+  "title_vi": "CVE-2026-76789 — Plugin Slider Hero với Nền video, Hoạt hình WordPress trước phiên bản 9",
+  "key": "9328dc51bccd18b05a5dc006d2d7e03b74c84e62"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-76793 — The Firebase Authentication WordPress plugin before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76793",
+  "published": "2026-08-22T06:16:16.900",
+  "summary": "The Firebase Authentication WordPress plugin before 1.7.1 does not require the email address in an authentication token to be verified before matching it to a WordPress account and issuing a session, allowing unauthenticated attackers to log in as any user, including administrators.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-76793",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/0414ef2b-0d97-41c7-9146-f31ace8b66b2/"
+  },
+  "title_vi": "CVE-2026-76793 — Plugin WordPress xác thực Firebase trước phiên bản 1",
+  "key": "892256d77d87ac792229f8dd32e54792bf9e3174"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77000 — The WP Social Media Login WordPress plugin through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77000",
+  "published": "2026-08-22T06:16:17.150",
+  "summary": "The WP Social Media Login WordPress plugin through 1.0.6 does not verify that a social login was actually completed with the identity provider before authenticating a visitor, allowing unauthenticated attackers to log in as any existing user, including administrators, by supplying that user's email address.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77000",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/3051dece-7ecb-4911-bf13-291ebdc34bff/"
+  },
+  "title_vi": "CVE-2026-77000 — Plugin WordPress đăng nhập mạng xã hội WP thông qua 1",
+  "key": "b9d15fe62016b380fc21491e90eaf0eee02b54b9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77001 — The Social Login & Sharing buttons with Analytics By SoClever WordPress plugin through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77001",
+  "published": "2026-08-22T06:16:17.323",
+  "summary": "The Social Login & Sharing buttons with Analytics By SoClever WordPress plugin through 1.2.0 does not perform any authentication, authorisation or nonce checks in one of its publicly accessible login handlers, allowing unauthenticated attackers to obtain a valid session as any existing user, including administrators. In the default case a session as the site's original administrator account is obtained without needing to know any account details at all.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77001",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/01c78c78-3915-44da-824a-f68074985c75/"
+  },
+  "title_vi": "CVE-2026-77001 — Nút Đăng nhập và chia sẻ trên mạng xã hội với plugin Analytics By SoClever WordPress đến 1",
+  "key": "1d619a88c4be197bf77853e54416386903d81a44"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77002 — The SmilePass Selfie Login WordPress plugin through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77002",
+  "published": "2026-08-22T06:16:17.510",
+  "summary": "The SmilePass Selfie Login WordPress plugin through 1.0.2 does not perform any server-side verification of the identity it is asked to authenticate, allowing unauthenticated users to log in as any registered account, including administrators.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77002",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/51236907-a1b4-4c3b-8c39-adafcab7a2ef/"
+  },
+  "title_vi": "CVE-2026-77002 — Plugin WordPress đăng nhập SmilePass Selfie đến 1",
+  "key": "a254c7c7964b89d2a583a4d1af7f508c03a070e7"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
   "title": "Dạy học STEM: Không phát sinh môn mới, không gây áp lực, quá tải",
   "link": "https://www.vietnamplus.vn/day-hoc-stem-khong-phat-sinh-mon-moi-khong-gay-ap-luc-qua-tai-post1131739.vnp",
   "published": "2026-08-22T04:11:37+00:00",
@@ -6755,7 +7063,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Khung TÙY CHỈNH mới hạn chế các tác nhân AI bên trong mạng",
   "key": "c9168eeee0fc5186dc148300ebab9b86e5c77d54"
  },
  {
@@ -6769,7 +7077,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Cuộc tấn công chuỗi cung ứng Rust đặt phần mềm độc hại trong thời gian xây dựng vào thùng với 245 triệu lượt tải xuống",
   "key": "e36f658d25f16f25a3b9a823766563be09c5ef5c"
  },
  {
@@ -7403,7 +7711,7 @@
    "cvss": 8.8,
    "ref": "https://www.ibm.com/support/pages/node/7283858"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-16934 — IBM AIX 7",
   "key": "10c6fe2e5a2ac5dc492d8b5ea93d9320529b0e23"
  },
  {
@@ -7421,7 +7729,7 @@
    "cvss": 7.8,
    "ref": "https://www.ibm.com/support/pages/node/7283858"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-16935 — IBM AIX 7",
   "key": "1cec42c7026085ba5c39cc72dbf672423eb76477"
  },
  {
@@ -7439,7 +7747,7 @@
    "cvss": 8.8,
    "ref": "https://www.ibm.com/support/pages/node/7283858"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-16936 — IBM AIX 7",
   "key": "7f8185a77039fd79f833b0df90b01d54b686fbb5"
  },
  {
@@ -7457,7 +7765,7 @@
    "cvss": 7.8,
    "ref": "https://www.ibm.com/support/pages/node/7283858"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-16937 — IBM AIX 7",
   "key": "17ece3bdec7170bccee943bc8d08d8d0dc2046bd"
  },
  {
@@ -7475,7 +7783,7 @@
    "cvss": 8.2,
    "ref": "https://www.ibm.com/support/pages/node/7283858"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-16943 — IBM AIX 7",
   "key": "7a8d8d0146ab22ded965279f05bb21a480a9f6b2"
  },
  {
@@ -7493,7 +7801,7 @@
    "cvss": 6.7,
    "ref": "https://www.ibm.com/support/pages/node/7283858"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-16944 — IBM AIX 7",
   "key": "d697219d556ccc9a49896ff9e898894d9e795180"
  },
  {
@@ -7511,7 +7819,7 @@
    "cvss": 7.8,
    "ref": "https://www.ibm.com/support/pages/node/7283858"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-16945 — IBM AIX 7",
   "key": "16a95362b55090d2ca97cbdb2f17875dc4c52f1f"
  },
  {
@@ -7529,7 +7837,7 @@
    "cvss": 7.8,
    "ref": "https://www.ibm.com/support/pages/node/7283858"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-16946 — IBM AIX 7",
   "key": "43dc9d7e0f836eb3338b01bcf66f1bf2c6d9e486"
  },
  {
@@ -7547,7 +7855,7 @@
    "cvss": 6.7,
    "ref": "https://www.ibm.com/support/pages/node/7283858"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-16951 — IBM AIX 7",
   "key": "0f166c0dc59642f94e8f93971128778ad3a4f343"
  },
  {
@@ -7565,7 +7873,7 @@
    "cvss": 5.5,
    "ref": "https://www.ibm.com/support/pages/node/7283858"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-16952 — IBM AIX 7",
   "key": "87038e515a8e7e9626193dde6cd57eb92e2b7686"
  },
  {
@@ -9779,7 +10087,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Hoạt động gián điệp 'SilkParasite' của Trung Quốc nhắm mục tiêu vào Trung Á bằng phần mềm độc hại được hỗ trợ bởi AI",
   "key": "2ee72a8cd4f4f2effbe299c6e7859898d7261d1f"
  },
  {
@@ -9807,7 +10115,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Tin tặc Nga bị nghi ngờ lạm dụng Google OAuth và WhatsApp liên kết với tài khoản chiếm đoạt",
   "key": "653d8cc3d755130bbfcc6d4a497d1c45f0b205ee"
  },
  {
@@ -11827,7 +12135,7 @@
    "cvss": null,
    "ref": "https://github.com/shaarli/Shaarli/security/advisories/GHSA-xm98-h5jj-64xv"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-50190 — Shaarli là dịch vụ đánh dấu trang cá nhân",
   "key": "caa6e1f1e731e0e56e48c5aa0fd185c56d0577c5"
  },
  {
@@ -11845,7 +12153,7 @@
    "cvss": null,
    "ref": "https://github.com/frappe/frappe/commit/91155d12deba4426cf33196805da77bc78c5cde1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-53569 — Frappe là một khung ứng dụng web đầy đủ",
   "key": "3460dbe818cfa518b142f01f429ec543a4c55b82"
  },
  {
@@ -11863,7 +12171,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/libgit2/libgit2/commit/647dcb432980b84ede4cb5a008bbd1ccb4ead03d"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-53583 — libgit2 là một triển khai C di động của các phương thức lõi Git được cung cấp dưới dạng thư viện có thể liên kết với API vững chắc, cho phép xây dựng chức năng Git trong",
   "key": "9d46cde630575d025515fe81eafe014c1dd636f1"
  },
  {
@@ -11881,7 +12189,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/libgit2/libgit2/commit/419637d3587396f5d139d6d88480eab3cd81e7a1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-53584 — libgit2 là một triển khai C di động của các phương thức lõi Git được cung cấp dưới dạng thư viện có thể liên kết với API vững chắc, cho phép xây dựng chức năng Git trong",
   "key": "f154916233abaca498865f850afdf97f1dfa071d"
  },
  {
@@ -11899,7 +12207,7 @@
    "cvss": 5.3,
    "ref": "https://github.com/libgit2/libgit2/commit/0cdfdd5fa8f8514c82413025e1e0808866cf7c30"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-53585 — libgit2 là một triển khai C di động của các phương thức lõi Git được cung cấp dưới dạng thư viện có thể liên kết với API vững chắc, cho phép xây dựng chức năng Git trong",
   "key": "1eb9ac63b2c2f5305fd7962e1ecbd7dfa6c40d0b"
  },
  {
@@ -11918,7 +12226,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/libgit2/libgit2/commit/07de6a7e438f95ac9a6efd3222a82117e871ed27"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-53586 — libgit2 là một triển khai C di động của các phương thức lõi Git được cung cấp dưới dạng thư viện có thể liên kết với API vững chắc, cho phép xây dựng chức năng Git trong",
   "key": "a31b3db601cc5fd984be9f3731a7a084e8bdcf08"
  },
  {
@@ -11936,7 +12244,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/libgit2/libgit2/commit/2c0ce8c0132ac38ab0db28239462a671e2e5440e"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-53587 — libgit2 là một triển khai C di động của các phương thức lõi Git được cung cấp dưới dạng thư viện có thể liên kết với API vững chắc, cho phép xây dựng chức năng Git trong",
   "key": "02f9e2316bc1cfd2e43555dde780a7b8f9b49d35"
  },
  {
@@ -11954,7 +12262,7 @@
    "cvss": null,
    "ref": ""
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-53993 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
   "key": "efbb50123005d284163beee989675b7c6635ad0f"
  },
  {
@@ -11972,7 +12280,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/django-cms/django-cms/commit/7642a98ab3170793c0b27b4125dd1f3d318b8a1c"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-54622 — django CMS là hệ thống quản lý nội dung doanh nghiệp thân thiện với nhà phát triển và dễ sử dụng do Django cung cấp",
   "key": "8e31c4d6a2303e32a0653598887c2be69f8d8c8c"
  },
  {
@@ -11990,7 +12298,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/django-cms/django-cms/commit/7642a98ab3170793c0b27b4125dd1f3d318b8a1c"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-54624 — django CMS là hệ thống quản lý nội dung doanh nghiệp thân thiện với nhà phát triển và dễ sử dụng do Django cung cấp",
   "key": "fbaadec9e38d1f79de8acce64c09d3033fe42c8a"
  },
  {
@@ -12008,7 +12316,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/django-cms/django-cms/commit/9c82abfeb25471583e23906ea1ebef9202527b04"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-61663 — django CMS là hệ thống quản lý nội dung doanh nghiệp thân thiện với nhà phát triển và dễ sử dụng do Django cung cấp",
   "key": "8b7d178febd1db3e2cd47b6792fcce6250b5efb0"
  },
  {
@@ -12026,7 +12334,7 @@
    "cvss": null,
    "ref": "https://github.com/frappe/frappe/commit/2a04fae9353c02f0a9ce9f40f92c1eba6765c77b"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-62315 — Frappe là một khung ứng dụng web đầy đủ",
   "key": "957b440cee92caff0c448e3bcab9bd7a4a2f4648"
  },
  {
@@ -12044,7 +12352,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/django-cms/django-cms/commit/3e1ccf7573eb1a74ebbbfaaa812c1f5cadf14e6c"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-63003 — django CMS là hệ thống quản lý nội dung doanh nghiệp thân thiện với nhà phát triển và dễ sử dụng do Django cung cấp",
   "key": "a7f3d82c72f0d5a4187c16905b1ca608c2167253"
  },
  {
@@ -12062,7 +12370,7 @@
    "cvss": null,
    "ref": "https://github.com/frappe/frappe/commit/8465376ad9f81775c20892338f920c695b88fb1f"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-63654 — Frappe là một khung ứng dụng web đầy đủ",
   "key": "fa69087ae8be906a0d2a48a1f8c567a231eb877e"
  },
  {
@@ -12081,7 +12389,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/apple/container/security/advisories/GHSA-2v2q-4q35-h585"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-64777 — Một trình xây dựng ngang hàng độc hại có thể yêu cầu tên tệp trong ngữ cảnh từ máy chủ và nhận nội dung của bất kỳ tên nào được phân giải, ví dụ:",
   "key": "64a362a9b4db7bc1e2a31fb1c77872410b48df2f"
  },
  {
@@ -12099,7 +12407,7 @@
    "cvss": null,
    "ref": "https://github.com/frappe/frappe/commit/336c7d335db762b494acdfe43aea69d459fd51d7"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-66001 — Frappe là một khung ứng dụng web đầy đủ",
   "key": "f7c43e645fc7e3334965b93442239b27a2afaa1d"
  },
  {
@@ -12117,7 +12425,7 @@
    "cvss": null,
    "ref": "https://github.com/frappe/frappe/commit/30fe0b4118ff94c95c239dce4bc74ec4ca10a827"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-66002 — Frappe là một khung ứng dụng web đầy đủ",
   "key": "1ee4507db049fcb33c74f8d96629200ba2333b8c"
  },
  {
@@ -12135,7 +12443,7 @@
    "cvss": 9.9,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-66785"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-66785 — Một lỗ hổng được tìm thấy trong Submariner",
   "key": "c341ec6e2dc3833d1ad75582305aa12e0b432daf"
  },
  {
@@ -12155,7 +12463,7 @@
    "cvss": 8.7,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-66787"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-66787 — Đã tìm thấy lỗ hổng trong thành phần ngọn hải đăng của Quản lý cụm nâng cao Red Hat cho Kubernetes",
   "key": "1cae3bc0ea51bca48854de9f6888d6a473111017"
  },
  {
@@ -12173,7 +12481,7 @@
    "cvss": 9.9,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-66788"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-66788 — Một lỗ hổng được tìm thấy trong Lighthouse",
   "key": "2d0825230ebbc84031f60e552e32eaa42df26a6f"
  },
  {
@@ -12191,7 +12499,7 @@
    "cvss": null,
    "ref": ""
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-6260 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
   "key": "67edd48ae0e13181144edd20de055c5f0209125f"
  },
  {
@@ -12209,7 +12517,7 @@
    "cvss": null,
    "ref": ""
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-6822 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
   "key": "09af1100480db2e10795e764809f0eade189769a"
  },
  {
@@ -12227,7 +12535,7 @@
    "cvss": 7.8,
    "ref": "https://github.com/hank-ai/darknet"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-72852 — hank-ai/darknet định cỡ trọng lượng của lớp chập và bộ đệm heap đầu ra bằng cách nhân các trường cấu hình được lấy từ một",
   "key": "f3ba6e166a897a666bdbd4c70bc464318bc0a3dd"
  },
  {
@@ -12245,7 +12553,7 @@
    "cvss": 5.3,
    "ref": "https://github.com/msgpack/msgpack-c"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-72854 — msgpack_unpacker_expand_buffer trong src/unpack",
   "key": "947b25165621393770e17125b344a430e27a72d5"
  },
  {
@@ -12263,7 +12571,7 @@
    "cvss": 5.9,
    "ref": "https://github.com/bunkerity/bunkerweb/commit/1a97e5b3f977130a1b84507a9e1f703c8eec12eb"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-75514 — BunkerWeb là Tường lửa ứng dụng web thế hệ tiếp theo, mã nguồn mở",
   "key": "d6ff1c36e52a705428bcdcd8cf7ee47d7ec47bbd"
  },
  {
@@ -12281,7 +12589,7 @@
    "cvss": 4.4,
    "ref": "https://github.com/django-cms/django-cms/commit/b56a568844ff3702495945f73a31d0868285bf88"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-75526 — django CMS là hệ thống quản lý nội dung doanh nghiệp thân thiện với nhà phát triển và dễ sử dụng do Django cung cấp",
   "key": "66fd0b4c5a300c69a8ea4afb7a30a491f44e519a"
  },
  {
@@ -12299,7 +12607,7 @@
    "cvss": 9.9,
    "ref": "https://github.com/AdminSafe/CVE/issues/7"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-77148 — Một lỗ hổng được tìm thấy trong Comfast CF-N1-S 2",
   "key": "190c86cc35028a4986880fa88a0b475cf8de58ff"
  },
  {
@@ -12317,7 +12625,7 @@
    "cvss": null,
    "ref": ""
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-8717 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
   "key": "1c9e6786382134b754030e65da3e25765a9bd5f6"
  },
  {
@@ -12335,7 +12643,7 @@
    "cvss": null,
    "ref": "https://www.omadanetworks.com/en/support/download/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-9033 — Kẻ tấn công không được xác thực có quyền truy cập mạng vào dịch vụ cổng bị khóa của thiết bị bị ảnh hưởng có thể chấm dứt các phiên cổng bị khóa đang hoạt động, bao gồm",
   "key": "6e2e40a9ddd1241fc229c0ac402febe27195a721"
  },
  {
@@ -12353,7 +12661,7 @@
    "cvss": null,
    "ref": ""
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-63723 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
   "key": "0a807c20b6bea3dbbab07d6056a148d27de9d56f"
  },
  {
@@ -12371,7 +12679,7 @@
    "cvss": 5.8,
    "ref": "https://github.com/appwrite/templates"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-72861 — Các mẫu github-issue-bot trong appwrite/templates xác minh chữ ký webhook GitHub với điều kiện đảo ngược",
   "key": "2473fbff0189106e0a416e128205d87ee510f727"
  },
  {
@@ -12390,7 +12698,7 @@
    "cvss": 6.5,
    "ref": "https://aws.amazon.com/security/security-bulletins/2026-084-aws/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-75910 — Phân bổ đặc quyền không chính xác trong mẫu triển khai trình kết nối ClickHouse trong Truy vấn liên kết Amazon Athena trước v2026",
   "key": "eac98aa456553408d8c3553194e5337852dcdc09"
  },
  {
@@ -12408,7 +12716,7 @@
    "cvss": 3.7,
    "ref": "https://github.com/lin-snow/Ech0/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-77151 — Một lỗ hổng bảo mật đã được phát hiện trong lin-snow Ech0 lên tới 5",
   "key": "a1b0ae877dcd6108a54ce4fe1ac5e42d5e3279ac"
  },
  {
