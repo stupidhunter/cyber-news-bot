@@ -1,5 +1,205 @@
 [
  {
+  "source": "NVD",
+  "title": "CVE-2026-12999 — The Infineon Airoc Wi-Fi driver's transmit callback airoc_mgmt_send() in drivers/wifi/infineon/airoc_wifi",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-12999",
+  "published": "2026-08-22T21:16:48.747",
+  "summary": "The Infineon Airoc Wi-Fi driver's transmit callback airoc_mgmt_send() in drivers/wifi/infineon/airoc_wifi.c allocates a net_buf from the fixed airoc_pool for every outbound packet. When whd_network_send_ethernet_data() returns a synchronous failure, the underlying WHD library does not take ownership of the buffer, but the pre-fix driver returned -EIO without releasing it. Each failed transmit therefore permanently leaks one buffer from the pool.\n\nairoc_pool is small and fixed (AIROC_WIFI_TX_PACKET_POOL_COUNT + AIROC_WIFI_RX_PACKET_POOL_COUNT, default 20 buffers) and is shared by WHD's whd_host",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-12999",
+   "cvss": 5.3,
+   "ref": "https://github.com/zephyrproject-rtos/zephyr/commit/4e6f624292ed153a762e98c7a297998c8d0b52c4"
+  },
+  "title_vi": "CVE-2026-12999 — Trình điều khiển Wi-Fi của Infineon Airoc truyền cuộc gọi lại airoc_mgmt_send() trong trình điều khiển/wifi/infineon/airoc_wifi",
+  "key": "d116d9f927ac90af7e839ffad7506c12636a74cd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-47895 — In strongSwan before 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-47895",
+  "published": "2026-08-22T22:16:28.153",
+  "summary": "In strongSwan before 6.0.7, identity parsing/cloning is mishandled. Parsed EAP-Identities that result in an empty but non-NULL encoding are not correctly cloned and trigger a double-free once the duplicates are destroyed.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-47895",
+   "cvss": 7.5,
+   "ref": "https://github.com/strongswan/strongswan/releases/tag/6.0.7"
+  },
+  "title_vi": "CVE-2026-47895 — Trong strongSwan trước 6",
+  "key": "ae08d80cb460c883685369ceebb8df2356913931"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-19684 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19684",
+  "published": "2026-08-22T23:16:22.130",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-19684",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2026-19684 — Lý do bị từ chối: ID CVE này đã bị Cơ quan Đánh số CVE từ chối hoặc rút lại",
+  "key": "7f048a7e19d2a011e6ce135503c494ebdb548c40"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78049 — A vulnerability has been found in Systerel S2OPC up to 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78049",
+  "published": "2026-08-22T23:16:22.723",
+  "summary": "A vulnerability has been found in Systerel S2OPC up to 1.7.3. Impacted is the function SOPC_NodeMgtHelperInternal_AddVariableNodeAttributes of the file src/ClientServer/address_space/internal/sopc_node_mgt_helper_internal.c of the component AddNodes Service. The manipulation of the argument UserAccessLevel leads to out-of-bounds read. It is possible to initiate the attack remotely. A high degree of complexity is needed for the attack. The exploitability is considered difficult. The exploit has been disclosed to the public and may be used. The identifier of the patch is aafbd37d381b618312ebdf5d",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78049",
+   "cvss": 3.7,
+   "ref": "https://github.com/user-attachments/files/29702766/PoC.zip"
+  },
+  "title_vi": "CVE-2026-78049 — Một lỗ hổng đã được tìm thấy trong Systerel S2OPC lên đến 1",
+  "key": "eb442c34837c915b18f25d32222316024800f56f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78122 — docker-socket-proxy fails to properly gate read endpoints in the /containers Docker API namespace when the CONTAINERS environment variable is set",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78122",
+  "published": "2026-08-22T23:16:22.923",
+  "summary": "docker-socket-proxy fails to properly gate read endpoints in the /containers Docker API namespace when the CONTAINERS environment variable is set. Attackers can use GET requests to /containers/{id}/archive, /containers/{id}/export, /containers/{id}/logs, and /containers/{id}/top to read arbitrary files and download entire container filesystems as tar archives.",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78122",
+   "cvss": 7.4,
+   "ref": "https://gist.github.com/nedlir/e4f52f88a757f02c67db1fd5dd70d732"
+  },
+  "title_vi": "CVE-2026-78122 — docker-socket-proxy không thể đọc cổng đúng cách các điểm cuối trong/containers Docker API namespace khi biến môi trường CONTAINER được đặt",
+  "key": "a0461282103e9d7a4d75d83a86befcc21264902f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-0551 — The PPWP – Password Protect Pages plugin for WordPress is vulnerable to PHP Object Injection in all versions up to, and including, 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-0551",
+  "published": "2026-08-23T00:16:49.777",
+  "summary": "The PPWP – Password Protect Pages plugin for WordPress is vulnerable to PHP Object Injection in all versions up to, and including, 1.9.18 via deserialization of untrusted input from the 'post_protection_roles' vulnerable parameter. This makes it possible for authenticated attackers, with Contributor-level access and above, to inject a PHP Object. No known POP chain is present in the vulnerable software, which means this vulnerability has no impact unless another plugin or theme containing a POP chain is installed on the site. If a POP chain is present via an additional plugin or theme installe",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-0551",
+   "cvss": 8.8,
+   "ref": "https://plugins.trac.wordpress.org/browser/password-protect-page/trunk/includes/services/class-ppw-passwords.php#L699"
+  },
+  "title_vi": "CVE-2026-0551 — Plugin PPWP - Password Protect Pages cho WordPress dễ bị tấn công bởi PHP Object Injection trong tất cả các phiên bản lên đến, và bao gồm, 1",
+  "key": "84ac0d78fb552c4522eb7c60922b38d5295d3fc6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-16149 — The Security Hardener plugin for WordPress is vulnerable to Missing Authorization in all versions up to, and including, 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-16149",
+  "published": "2026-08-23T00:16:50.233",
+  "summary": "The Security Hardener plugin for WordPress is vulnerable to Missing Authorization in all versions up to, and including, 2.4.4. The vulnerability exists because the plugin's user-enumeration protection, which is enabled by default, hooks the rest_endpoints filter via secure_user_endpoints() and overwrites every registered handler's permission_callback on both the /wp/v2/users and /wp/v2/users/(?P<id>[\\d]+) routes — including POST, PUT, PATCH, and DELETE handlers — with a bare closure that returns only is_user_logged_in(), completely stripping WordPress Core's original capability checks such as ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-16149",
+   "cvss": 8.8,
+   "ref": "https://plugins.trac.wordpress.org/browser/security-hardener/tags/2.4.4/security-hardener.php#L107"
+  },
+  "title_vi": "CVE-2026-16149 — Plugin Security Hardener cho WordPress dễ bị Thiếu ủy quyền trong tất cả các phiên bản cho đến, và bao gồm, 2",
+  "key": "24a43dfb2d2c764d635eface27b1d170646f297e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18027 — The WebToffee WooCommerce PDF Invoices, Packing Slips, Delivery Notes & Shipping Labels plugin for WordPress is vulnerable to Directory Traversal in a",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18027",
+  "published": "2026-08-23T00:16:50.370",
+  "summary": "The WebToffee WooCommerce PDF Invoices, Packing Slips, Delivery Notes & Shipping Labels plugin for WordPress is vulnerable to Directory Traversal in all versions up to, and including, 4.9.8 via the get_image_src_in_base64 function. This makes it possible for authenticated attackers, with subscriber-level access and above, to read the contents of arbitrary files on the server, which can contain sensitive information. The base64-encoded file contents are embedded into the cached invoice HTML and served directly to the attacker via the plugin's own Print/Download invoice endpoints, which require ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18027",
+   "cvss": 6.5,
+   "ref": "https://plugins.trac.wordpress.org/browser/print-invoices-packing-slip-labels-for-woocommerce/tags/4.9.8/admin/modules/customizer/classes/class-customizer.php#L1453"
+  },
+  "title_vi": "CVE-2026-18027 — Plugin WebToffee WooCommerce PDF Invoices, Packing Slips, Delivery Notes & Shipping Labels cho WordPress dễ bị tấn công bởi Directory Traversal trong một",
+  "key": "45bdbe0cb08e20494143cf8bd37af67fa2af9df1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-5723 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-5723",
+  "published": "2026-08-23T00:16:50.523",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-5723",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2026-5723 — Lý do bị từ chối: ID CVE này đã bị Cơ quan Đánh số CVE từ chối hoặc rút lại",
+  "key": "6f925ecc7d9d27218f6ab722b28fe578ed538c7c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78050 — A vulnerability was found in Comfast CF-N1-S 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78050",
+  "published": "2026-08-23T00:16:50.590",
+  "summary": "A vulnerability was found in Comfast CF-N1-S 2.6.0.1. The affected element is the function sub_41AD7C of the file /cgi-bin/mbox-config?method=SET&section=ntp_timezone of the component Web Management. The manipulation of the argument timestr/ntp_client_enabled results in stack-based buffer overflow. It is possible to launch the attack remotely. The exploit has been made public and could be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78050",
+   "cvss": 9.9,
+   "ref": "https://github.com/AdminSafe/CVE/issues/9"
+  },
+  "title_vi": "CVE-2026-78050 — Một lỗ hổng đã được tìm thấy trong Comfast CF-N1-S 2",
+  "key": "1eed5cdc3016afe9d1589fb49d53f42c677a4bda"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78051 — A vulnerability was determined in alexta69 MeTube up to 2026",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78051",
+  "published": "2026-08-23T00:16:50.763",
+  "summary": "A vulnerability was determined in alexta69 MeTube up to 2026.06.10. The impacted element is an unknown function of the file /download/.metube/cookies.txt of the component Cookie File Handler. This manipulation causes files or directories accessible. The attack can be initiated remotely. The exploit has been publicly disclosed and may be utilized. Upgrading to version 2026.06.20 is sufficient to resolve this issue. Patch name: ce897ee00903bf7ded406f0d7852d95dd4164add. You should upgrade the affected component.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78051",
+   "cvss": 5.3,
+   "ref": "https://github.com/alexta69/metube/"
+  },
+  "title_vi": "CVE-2026-78051 — Một lỗ hổng được xác định trong alexta69 MeTube cho đến năm 2026",
+  "key": "d12fd1c4176a41d48af3513d3504d22ac2a13a36"
+ },
+ {
   "source": "VietnamPlus Kinh tế số",
   "title": "Lạng Sơn: Nước sông Kỳ Cùng dâng cao, khẩn trương di dời các hộ dân",
   "link": "https://www.vietnamplus.vn/lang-son-nuoc-song-ky-cung-dang-cao-khan-truong-di-doi-cac-ho-dan-post1131828.vnp",
@@ -1911,7 +2111,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/46d559f00b1ab1d114f92d2f16c5ef0093b3b9dd"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74625 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: netfilter: bridge: release template ct trên non-IP path A bridge nftables ct zone se",
   "key": "b7dcfee48ba0b02aec55bef3c8637358b86dabf0"
  },
  {
@@ -1929,7 +2129,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/755fd7843f300d724caceabdf9bb13adc8701540"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74626 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: NTB: ntb_netdev: Duy trì độ sâu hàng đợi RX khi lỗi phân bổ ntb_netdev_rx_handl",
   "key": "ca02ba8793223a18bc010a64f057eaa5fcbfc42b"
  },
  {
@@ -1947,7 +2147,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/53a43508ee332d8bffe40590c3d189c92a551f9f"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74627 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net: devmem: prevent net-iov / page mixing Chúng ta nên có net_iov hoặc trang b",
   "key": "2e891816f5432b6bee1267cebe050ecfdb72064c"
  },
  {
@@ -1965,7 +2165,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/2195424c3da2ef1829a63b807e3a900a90e57d85"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74628 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: net/x25: fix use-after-free of the socket by its timers The x25 timers are armed w",
   "key": "a2bfad1e03052953c8d7e9a1b83210932bd1795d"
  },
  {
@@ -1983,7 +2183,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/7a1df20a8d2cc89e3a442b6e0b43b1cacde8d403"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74629 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: net/dibs: Correct freeing of dmb_clientid_arr A dibs device interrupt handler can",
   "key": "841c85bf97562da6af34eae2103597e0a3063c75"
  },
  {
@@ -2001,7 +2201,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0e243671bc7b8eaf00f83dd2f4367436dc0cff98"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74630 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ipv6: ngăn in6_dev_get() hồi sinh inet6_dev in6_dev_get() đọc dev->i",
   "key": "36e450cc266009826121962f4230380421593e9a"
  },
  {
@@ -2019,7 +2219,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0b7d54cedea5cb158e21925ae0c6c2f5c87ed2a0"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74631 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: net: smc: fix splice entry lifetime imbalance in smc_rx_splice smc_rx_splice() pas",
   "key": "9df319002cd7a18b3f1d65c3680893d638e7f9e9"
  },
  {
@@ -2037,7 +2237,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/105d04edbec83010df5728f74d17fd9c108e7553"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74632 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: mm/huge_memory: fix huge_zero_pfn race Patch series \"mm/huge_memory: fix huge_zero",
   "key": "1bdc0ab86deaae97022ab80d7678fed587905e3f"
  },
  {
@@ -2055,7 +2255,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/152a00440dc6ef62c6e4cf9bd881a7e6bb81fda9"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74633 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: tracing: Fix NULL pointer dereference in module event cache removal A module-only",
   "key": "c49e1783e133c922a99e96d87410ea01c67c1282"
  },
  {
@@ -2073,7 +2273,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/62978cf6347972c04130e4e841ba404504d92b32"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74634 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ring-buffer: Ngăn chặn thay đổi thứ tự subbuf khi thay đổi kích thước bị vô hiệu hóa Bởi vì ring_bu",
   "key": "160f15fd951a24e5b7aca34e47ff2cce128ca9ce"
  },
  {
@@ -2091,7 +2291,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/250159ace2dc53c1bdad267aa8da51b638748700"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74635 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: fbdev: bitblit: bound-check glyph index in bit_cursor() bit_cursor() lấy g",
   "key": "9c4526fd916eef9302a3601afa0fdb0f8dfd1ab5"
  },
  {
@@ -2109,7 +2309,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/4e39f7b4d9d36508c53e89e6cbc640728df870b5"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74636 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: tracing: Fix race between update_event_fields and, event_define_fields",
   "key": "f76be956aeed16d074ea2a3b911fb17b911d0d77"
  },
  {
@@ -2127,7 +2327,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/1e7abfeb23c12bf46f6457e4a3e1a1a300d50619"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74637 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: perf/core: Fix group leader use-after-free after sibling detach perf_group_detach(",
   "key": "ca8ce4c801c95e04c458b6907af1110ae4dab082"
  },
  {
@@ -2145,7 +2345,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/4da94744707b27a3ae1197bdd7127da4505dc5b1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74638 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: drm/v3d: Serialize the scheduler timeout handlers V3D phơi bày một số độc lập",
   "key": "651d51f14f4bb6f54f9bb4801e2d5d0ca0b02965"
  },
  {
@@ -2163,7 +2363,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/2615f0fb90df8cf5a96133ca4be74294ed288604"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74639 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ALSA: us144mkii: re-anchor capture URBs khi gửi lại capture_urb_complete() res",
   "key": "af5e55c323d4be71fcf099d1469b93ea22b7ac2e"
  },
  {
@@ -2181,7 +2381,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/620f1e52a46f604635efd0fb78138afd6a513b5d"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74640 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ALSA: FCP: fix OOB write in fcp_meter_ctl_get() fcp_ioctl_set_meter_map() giới hạn t",
   "key": "0bad93e691b9a159d275674129414f65824c6896"
  },
  {
@@ -2199,7 +2399,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/10a87401fb3148c388e55df0148295b3b137da07"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74641 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ALSA: usx2y: bound the hwdep mmap fault offset snd_us428ctls_vm_fault() biến",
   "key": "47f3daa5e09e3b29e2a3efd4d13e1ce7ff90a7cc"
  },
  {
@@ -2217,7 +2417,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/422d8a02de5ce6a29d616d55e5ead5dec69ac1d7"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74642 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ALSA: usb: Khắc phục UAF khi phát hành chậm EP MIDI2 Bản sửa lỗi gần đây cho UAF trong ump_t",
   "key": "4c99bd27e66bc5ceada15ceee6e3b90c29934ae1"
  },
  {
@@ -2235,7 +2435,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/684f271210becd7b8c4088f06c442499e48a43a0"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74643 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: samples/damon/mtier: error out for zero quota goal target values Patch series \"mm/",
   "key": "234ebfa1afea29389f411d7f985da4308522c065"
  },
  {
@@ -2253,7 +2453,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/460181e4bb47a57776c64f0832c2096de8878cb3"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74644 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: mm/damon/ops-common: putback folios trên nid di chuyển không hợp lệ damon_pa_migrate() và",
   "key": "e597a6230360c163fe69a07a4046baeeac4c7cbd"
  },
  {
@@ -2271,7 +2471,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/06befa61c427e74319781e6f35a364cfc32dbae8"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74645 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: mm/damon/lru_sort: error out for >10000 active_mem_bp damos_quota_score() can trig",
   "key": "116b4730071658be280b8f660fa71a7c2e7138ff"
  },
  {
@@ -2289,7 +2489,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/3f265e405e5ef85030c3777262e18bb556bc8724"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74646 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: misc: fastrpc: take fl- >lock khi di chuyển mmaps trên lệnh gọi bị gián đoạn Khi một invok",
   "key": "7651bf51d3064f8bb6712b6b1cccbd8d93e1ad00"
  },
  {
@@ -2307,7 +2507,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0beaa9bd7eb10d9b5e6352ed5161f3f3bbd4c3c5"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74647 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: misc: fastrpc: Xóa bộ đệm khỏi danh sách trước khi hoạt động unmap fastrpc_req_munmap",
   "key": "91c01cdab9beb4028723552cab6380f0f8bacd68"
  },
  {
@@ -2325,7 +2525,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/6829665d050983907b560173e49dcc6c11cb2730"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74648 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: staging: rtl8723bs: validate monitor transmit frame lengths rtw_cfg80211_monitor_i",
   "key": "7b5e1aa319b94a3cb75abd36d9b9db46fd3cd8c3"
  },
  {
@@ -2343,7 +2543,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/2c56ef658ac8c6bca36bc5574715e8f717207c6c"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74649 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: staging: rtl8723bs: fix missing shared-key auth challenge length check The WEP sha",
   "key": "a02046a7931678023a3b7699e0bf9683153c43fc"
  },
  {
@@ -2361,7 +2561,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/1158b9931207392d6dd136aa0c4be18893b50fa1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74650 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: staging: rtl8723bs: fix OOB read in WMM_param_handler() WMM_param_handler() bản sao",
   "key": "86a7b2a1f9e6e0f943fe704ce2a60ce1186cf1f1"
  },
  {
@@ -2379,7 +2579,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/01ab275f8f3e497a13ebbe4ded44ec0623bccde3"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74651 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: staging: rtl8723bs: fix OOB read in rtw_get_wpa_ie() rtw_get_wpa_ie() đọc byte",
   "key": "959e86b243e190f6548dd9cb9e106159fc985e5b"
  },
  {
@@ -2397,7 +2597,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/36672c8d7d14e9c43287528455d2c97b526ea6ad"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74652 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: serial: amba-pl011: hủy RS485 hrtimers sau khi giải phóng IRQ Kích hoạt RS485 hrti",
   "key": "9230c35a8db25747be01e215cec9d6ab1dc13588"
  },
  {
@@ -2415,7 +2615,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/1423415471274abda87024967d7fe2206ceee0ea"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74653 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: serial: 8250_of: clear stuck empty-FIFO RX timeout trên LPC32xx NXP LPC32xx UART",
   "key": "de210f8ecc1b7f6ecea9ee29597bf732b11df934"
  },
  {
@@ -2433,7 +2633,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/9f2444f4c0e4b06f61bae38da87c9c94c78efa86"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74654 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: serial: 8250_dma: Xóa trạng thái RX cũ khi tắt máy serial8250_release_dma() termin",
   "key": "a7ef089a1550d7005dd0ddb105fc6cc9003d111c"
  },
  {
@@ -2451,7 +2651,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/1c31e2377f4c1bb110ca7f6e597b2253a7440c37"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74655 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: serial: qcom-geni: fix TX DMA buffer flush Khi truyền xả UART qcom-geni",
   "key": "6710b5498fdd56bf296426bc97f78a835480e208"
  },
  {
@@ -2469,7 +2669,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/5a28a4b22dde92f9d293b94236314b8d6181dc4a"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74656 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ipv4: fix use-after-free trong fib_nhc_update_mtu () fib_nhc_update_mtu ()",
   "key": "75e9dc099a74bff8052ead5c0042b44213c08621"
  },
  {
@@ -2487,7 +2687,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0f0ca602941d0a81ae9514943ca06c55159c6385"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74657 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ipv4: Fix fib_nlmsg_size() cho RTA_VIA nexthops fib_nlmsg_size() vẫn ước tính n",
   "key": "098536b13ae5b0eade80b39b2869904964102a94"
  },
  {
@@ -2505,7 +2705,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/33bfa85458105d6169ebdb697f692b8bb8025bae"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74658 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: futex: Ngăn chặn cuộc đua thoát futex mạnh mẽ thêm một SỐ cửa hàng mở khóa futex mạnh mẽ 0 ove",
   "key": "74557ecbd8c1f784de32378b1c6c47e79f31f086"
  },
  {
@@ -2523,7 +2723,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/014c062d23c63ec77ef2cf17a0d9363c7441cc94"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74659 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net: bridge: mrp: sửa các byte chưa được khởi tạo trên dây br_mrp_alloc_test_skb() buil",
   "key": "3a54485c70c2691d97c0603f77d9b7697f34ddbd"
  },
  {
@@ -2541,7 +2741,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/2cac4294f184c9bc19ff82552c62b80498694c39"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74660 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: netfilter: ebt_nflog: pin NFLOG backend nf_log_unregister() chạy sau per",
   "key": "303ca2fea100d11768eb124c4b034edf31503023"
  },
  {
@@ -2559,7 +2759,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/5f26a690e8efa54315e4922368daf54e0b8f5515"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74661 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: mac802154: fix netdev use-after-free in beacon worker mac802154_beacon_worker() re",
   "key": "db0c3042406b39160b0a8a824569db37d07e548b"
  },
  {
@@ -2577,7 +2777,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/653d7ddf6cba867777a3d14c4f83ace008c5ad13"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74662 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: inet: frags: publish queues trước khi kích hoạt bộ hẹn giờ inet_frag_create() kích hoạt fragme",
   "key": "9522b44c19087b65dca249cd34bb28de73b3eaea"
  },
  {
@@ -2595,7 +2795,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/2759acf08a3454866660edcd3ef4e64139f254a6"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74663 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net/sched: từ chối hệ thống phân cấp qdisc quá sâu Hệ thống phân cấp qdisc sâu có thể dẫn đến",
   "key": "b558e132619f1f42c3e9a6c7af4613e55f8169b5"
  },
  {
@@ -2613,7 +2813,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/00f987f066e802793a37dd2167459e67cf2cf2ec"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74664 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net: openvswitch: reallocate update replies for mismatched IDs ovs_flow_cmd_new()",
   "key": "083c61c12629577ec438eb6aed9b039d06f8ed51"
  },
  {
@@ -2631,7 +2831,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/33f2b2eb33d666ecac68031e0f31424fb70528db"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74665 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net: fix skb length accounting after generic XDP frag adjustment Generic XDP expos",
   "key": "fb198228cdfbf6906aa0876f323242d6e3542d89"
  },
  {
@@ -2649,7 +2849,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/1a35da325cac4d5bcad76a2aa943408a6f1d9000"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74666 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: packet: synchronize pressure clearing with ring reconfiguration packet_set_ring()",
   "key": "3435eed72d8866e2dfcec92fbaf4ba11844329f2"
  },
  {
@@ -2667,7 +2867,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/1e43a1d66615f411d427f9df1f46dd049d9e3681"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74667 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: net/packet: đặt lại tiêu đề MAC trên đường truyền packet-socket packet_parse_h",
   "key": "229585871e7c245712ed5837c269c37097461003"
  },
  {
@@ -2685,7 +2885,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/016763e829cac37b3234eace86fd0a4c560de4a7"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74668 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: packet: use consistent hard_header_len in TX_RING send path tpacket_snd() reads de",
   "key": "32571638ce3cc94517a2d0a35fd3ca696cba4352"
  },
  {
@@ -2703,7 +2903,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/37c61b3745129cbd682c557b51345828120972e5"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74669 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ipvs: xóa các tùy chọn IPv4 sau khi rebasing lỗi ICMP đường hầm ip_vs_in_icmp() rebases",
   "key": "03b2d9bd0705330ca86cff9565960e45cb483fd3"
  },
  {
@@ -2721,7 +2921,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/2335dedc1922dfa889ca1f9f70370924e8e79a08"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74670 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ipvs: stop estimator after disabled calc phase IPVS estimator kthread 0 starts wit",
   "key": "2dad811fffddc2ab0af74f1cd48c0d76a0950e09"
  },
  {
@@ -2739,7 +2939,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/27f3924061592d0ef6b04e16f48754b6cb6adf27"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74671 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: ima: fix out-of-bounds read in xattr_verify() The digest-length check in xattr_ver",
   "key": "944f44800365540235bc040022bcca18f973884d"
  },
  {
@@ -2757,7 +2957,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/26444eb71465c9934d9d418ef69c43f61185329b"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74672 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: mm/vmalloc: lấy khóa init_mm trên vmap lớn để tránh ptdump UAF Patch series \"mm",
   "key": "88bc166613772d1d482600c97e3b26d5fc629b87"
  },
  {
@@ -2776,7 +2976,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/06a286b320236508d02ab2ccc9496352748652a8"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-74673 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: Input: evdev - fix information leak in evdev_pass_values() In evdev_pass_values(),",
   "key": "49817682dd35936845eb9b2693ef1b94a4e155e2"
  },
  {
