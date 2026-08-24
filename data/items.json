@@ -1,5 +1,2182 @@
 [
  {
+  "source": "Cloudflare Blog",
+  "title": "The Cloudflare Blog – Brought to you by EmDash",
+  "link": "https://blog.cloudflare.com/cloudflare-blog-uses-emdash/",
+  "published": "2026-08-24T19:00:00+00:00",
+  "summary": "We migrated the Cloudflare Blog to EmDash to prove our stack at massive scale. Here is how we stress-tested performance, safely routed production traffic, and redesigned the frontend experience.",
+  "categories": [
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "6a3a7021de03f410481e594ff86e72f917c32ce7"
+ },
+ {
+  "source": "OpenAI News",
+  "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+  "link": "https://openai.com/index/gpt-5-6-in-kiro",
+  "published": "2026-08-24T12:00:00+00:00",
+  "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "2a0f2ee6e72e1af3b3ced1373a3d625d1171928a"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "Ascent Skilled Nursing Facilities Assure Breach Victims of “Credible Evidence” Stolen Data Was Deleted",
+  "link": "https://databreaches.net/2026/08/24/ascent-skilled-nursing-facilities-assure-breach-victims-of-credible-evidence-stolen-data-was-deleted/",
+  "published": "2026-08-24T19:23:33+00:00",
+  "summary": "A DataBreaches.net Commentary On July 31, Asheville Beaverdam NC Opco LLC d/b/a Bear Mountain Health and Rehabilitation, Asheville Victoria NC Opco LLC d/b/a Elevate Health &#38; Rehabilitation, and Asheville US Seventy NC Opco LLC d/b/a Swannanoa Valley Health and Rehabilitation (collectively, &#8220;Asheville&#8221;) notified some of their residents that a threat actor had logged into their... Source",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "2239521881f6ef5eb84c0c83cca802437911f4d3"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "“Cognizable damage” required for data breach claims, MA appeals court says in a first",
+  "link": "https://databreaches.net/2026/08/24/cognizable-damage-required-for-data-breach-claims-ma-appeals-court-says-in-a-first/",
+  "published": "2026-08-24T18:11:37+00:00",
+  "summary": "Christopher R. Deubert of Constangy, Brooks, Smith &#38; Prophete, LLP writes: Helpful guidance for businesses, and for Massachusetts state courts. In 2021, the U.S. Supreme Court held in TransUnion, LLC v. Ramirez that in a suit for damages, “the mere risk of future harm, without more, cannot qualify as a concrete harm” sufficient to establish standing under Article... Source",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "c6c906ae7b80fcb544ac628c280c1c8998c446e7"
+ },
+ {
+  "source": "DarkReading",
+  "title": "The Vulnerability Gap: Why Discovery Is Outrunning Repair",
+  "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair",
+  "published": "2026-08-24T14:00:00+00:00",
+  "summary": "AI is discovering more vulnerabilities, faster, and under a tightening regulatory environment, making this an all-hands-on-deck moment for the cybersecurity community.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "1f0ed9b91ba2ae3a10b283222873c95fb5308033"
+ },
+ {
+  "source": "The Record",
+  "title": "Indian man who fled US arrested on charges he helped scammers siphon $7.5 million from the elderly",
+  "link": "https://therecord.media/cyber-scam-indian-arrested",
+  "published": "2026-08-24T18:30:00+00:00",
+  "summary": "A Jersey City resident is facing charges for his alleged role as a money mule for overseas cyberscammers who stole millions from elderly New Yorkers.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "1ad8612bdbe1febbe7dff287d8d9de1147ec7b4d"
+ },
+ {
+  "source": "SecurityWeek",
+  "title": "ReliaQuest Confirms ShinyHunters Hack, but Says Impact Was Limited",
+  "link": "https://www.securityweek.com/reliaquest-confirms-shinyhunters-hack-but-says-impact-was-limited/",
+  "published": "2026-08-24T17:38:21+00:00",
+  "summary": "A ReliaQuest employee fell victim to a phishing attack and the hackers gained access to a dashboard. The post ReliaQuest Confirms ShinyHunters Hack, but Says Impact Was Limited appeared first on SecurityWeek .",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "ebdcd0ed4c453e05ebf5391f2e3613c32377adec"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2026-21962 — Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in Improper Access Control Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-21962",
+  "published": "2026-08-24",
+  "summary": "Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in contain an improper access control vulnerability that can result in unauthorized creation, deletion or modification access to critical data as well as unauthorized access to critical data or complete access to all Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in accessible data.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-21962",
+   "vendor": "Oracle",
+   "product": "HTTP Server and Oracle Weblogic Server Proxy Plug-in",
+   "due_date": "2026-08-27",
+   "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
+  },
+  "title_vi": "",
+  "key": "39566cbb7641971218c668c2a461230121e28301"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2025-36939 — Multiple vulnerabilities exist in OpenThread's handling of MLE packets",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-36939",
+  "published": "2026-08-24T17:17:21.143",
+  "summary": "Multiple vulnerabilities exist in OpenThread's handling of MLE packets. An authenticated attacker on the same Thread network could send specially crafted packets to cause a denial of service. These issues include triggerable assertion failures and a stack-based buffer overflow.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2025-36939",
+   "cvss": null,
+   "ref": "https://support.google.com/product-documentation/answer/17072818?hl=en&ref_topic=12974021&sjid=16276349370796658455-NC"
+  },
+  "title_vi": "CVE-2025-36939 — Tồn tại nhiều lỗ hổng trong quá trình xử lý gói MLE của OpenThread",
+  "key": "82e0adaa2e2e68ef0d59318ab84eeb80dc7403c0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2025-36940 — Use-After-Free vulnerability in a zircon kernel pager proxy (Fuchsia), which could lead to a Privilege Escalation from Userspace to Kernel (AP)",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-36940",
+  "published": "2026-08-24T17:17:21.303",
+  "summary": "Use-After-Free vulnerability in a zircon kernel pager proxy (Fuchsia), which could lead to a Privilege Escalation from Userspace to Kernel (AP)",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2025-36940",
+   "cvss": 8.8,
+   "ref": "https://support.google.com/product-documentation/answer/17072818?hl=en&ref_topic=12974021&sjid=10451061435205708316-NC"
+  },
+  "title_vi": "CVE-2025-36940 — Lỗ hổng Use-After-Free trong proxy máy nhắn tin hạt nhân zircon (Fuchsia), có thể dẫn đến Nâng cao đặc quyền từ Không gian người dùng sang Kernel (AP)",
+  "key": "ee30fecfb36eacb69e126a18762bd2fcb365d117"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-15469 — The use of hard-coded cryptographic key vulnerability has been identified in the mesh functionality of Deco XE75 v3, XE5300 v3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-15469",
+  "published": "2026-08-24T17:17:21.587",
+  "summary": "The use of\nhard-coded cryptographic key vulnerability has been identified in the mesh\nfunctionality of Deco XE75 v3, XE5300 v3.6 and WE10800 v3.6. \nA shared RSA-512 mesh group private key is present in the affected\nfirmware and is used by the mesh protocol for node authentication.  An attacker who obtains the firmware image\nand has local network access may be able to authenticate as a mesh node without\npossessing a device-specific credential.\n\n\n\n\n\nSuccessful\nexploitation may allow an unauthenticated adjacent attacker to impersonate a\ntrusted mesh node and bypass mesh node authentication, which",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-15469",
+   "cvss": null,
+   "ref": "https://www.tp-link.com/en/support/download/deco-xe75/v3.60/#Firmware"
+  },
+  "title_vi": "CVE-2026-15469 — Việc sử dụng lỗ hổng khóa mật mã cứng đã được xác định trong chức năng lưới của Deco XE75 v3, XE5300 v3",
+  "key": "19ead6182d0aacdc0f4d853f5399e54409996280"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18349 — Improper protection against voltage and clock glitches vulnerability in Microchip SAMA5D4 allows Hardware Fault Injection",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18349",
+  "published": "2026-08-24T17:17:21.740",
+  "summary": "Improper protection against voltage and clock glitches vulnerability in Microchip SAMA5D4 allows Hardware Fault Injection.\n\nThis issue affects SAMA5D4.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18349",
+   "cvss": null,
+   "ref": "https://www.microchip.com/en-us/solutions/technologies/embedded-security/how-to-report-potential-product-security-vulnerabilities/sama5d44-fault-injection-vulnerability"
+  },
+  "title_vi": "CVE-2026-18349 — Lỗ hổng bảo vệ không đúng cách chống lại sự cố trục trặc về điện áp và đồng hồ trong Microchip SAMA5D4 cho phép Chèn lỗi phần cứng",
+  "key": "b9b93e7f15c81528026d6526e18d0fbc9fc14345"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-19685 — NetworkManager did not apply the private_user restriction to the 802-1x",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19685",
+  "published": "2026-08-24T17:17:21.907",
+  "summary": "NetworkManager did not apply the private_user restriction to the 802-1x.ca-path and phase2-ca-path directory-valued connection properties. This incomplete fix for CVE-2025-9615 allows an unprivileged local user to point a private WPA-Enterprise (802.1X) connection profile's CA path at an attacker-controlled directory, bypassing server certificate validation and enabling credential theft via a rogue access point.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-19685",
+   "cvss": 9.8,
+   "ref": "https://access.redhat.com/security/cve/CVE-2026-19685"
+  },
+  "title_vi": "CVE-2026-19685 - Trình quản lý mạng không áp dụng hạn chế Private_user cho 802-1x",
+  "key": "af04bb5ac09b0f027f55d855689a7be4ff9908f8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-59230 — Improper input validation vulnerability in Apache Camel",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-59230",
+  "published": "2026-08-24T17:17:28.383",
+  "summary": "Improper input validation vulnerability in Apache Camel.\n\n\n\nThis issue affects Apache Camel: from 2.17.0 before 4.14.9, from 4.15.0 before 4.18.4, from 4.19.0 before 4.22.0.\n\n\n\nThe camel-mail component ships a MimeMultipart data format that can unmarshal a MIME multipart message. When it is configured with headersInline set to true, the unmarshal path copies the MIME headers of the incoming message onto the Camel message: it enumerates every header that is not one of the three standard ones it generates itself - Message-ID, MIME-Version and Content-Type - and calls setHeader for each, applying",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-59230",
+   "cvss": null,
+   "ref": "https://camel.apache.org/security/CVE-2026-59230.html"
+  },
+  "title_vi": "CVE-2026-59230 — Lỗ hổng xác thực đầu vào không đúng cách trong Apache Camel",
+  "key": "48b8b9a731ec432eafc0a28b5817e308dfdbcb9a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-60093 — Relative path traversal vulnerability in Apache Camel Azure-Storage Datalake component This issue affects Apache Camel: from 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-60093",
+  "published": "2026-08-24T17:17:29.783",
+  "summary": "Relative path traversal vulnerability in Apache Camel Azure-Storage Datalake component\n\n\n\nThis issue affects Apache Camel: from 4.0.0 before 4.14.9, from 4.15.0 before 4.18.4, from 4.19.0 before 4.22.0.\n\n\n\nThe camel-azure-storage-datalake component can download an Azure Data Lake Storage Gen2 file to the local filesystem through its downloadToFile operation, writing into the directory named by the fileDir endpoint option. DataLakeFileOperations.downloadToFile built the local target by joining fileDir with the remote path name exactly as the Azure SDK reported it (new File(fileDir, fileClientWr",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-60093",
+   "cvss": null,
+   "ref": "https://camel.apache.org/security/CVE-2026-60093.html"
+  },
+  "title_vi": "CVE-2026-60093 — Lỗ hổng truyền tải đường dẫn tương đối trong thành phần Apache Camel Azure-Storage Datalake Sự cố này ảnh hưởng đến Apache Camel: từ 4",
+  "key": "fb4a25da7ed4b764be13d3d5939430e26d4d5f04"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-63621 — Improper Input Validation, Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection') vulnerability in Apache ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63621",
+  "published": "2026-08-24T17:17:58.410",
+  "summary": "Improper Input Validation, Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection') vulnerability in Apache Camel Knative component\n\nThe Knative consumer in camel-knative maps inbound CloudEvent attributes onto Camel message headers. In binary content mode the HTTP-header path filters Camel-internal headers through KnativeHttpHeaderFilterStrategy, but in structured content mode (Content-Type application/cloudevents+json) the CloudEvent extension fields are read directly from the JSON body and every extension key is copied into the Exchange headers with",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-63621",
+   "cvss": null,
+   "ref": "https://camel.apache.org/security/CVE-2026-63621.html"
+  },
+  "title_vi": "CVE-2026-63621 — Xác thực đầu vào không đúng cách, Trung hòa không đúng cách các thành phần đặc biệt trong đầu ra được sử dụng bởi lỗ hổng Thành phần hạ nguồn ('Tiêm') trong Apache",
+  "key": "f4f2c5ca813729591e852498380c6422499e9610"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-66906 — Relative path traversal vulnerability in Apache Camel Azure Storage Blob component",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66906",
+  "published": "2026-08-24T17:18:06.147",
+  "summary": "Relative path traversal vulnerability in Apache Camel Azure Storage Blob component.\n\n\n\nThis issue affects Apache Camel: from 4.0.0 before 4.14.9, from 4.15.0 before 4.18.4, from 4.19.0 before 4.22.0.\n\n\n\nThe camel-azure-storage-blob component can download an Azure Storage blob to the local filesystem through its downloadBlobToFile operation, writing into the directory named by the fileDir endpoint option, which is documented as usable from both the producer and the consumer. BlobOperations.downloadBlobToFile built the local target by joining fileDir with the remote blob name exactly as the Azur",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-66906",
+   "cvss": null,
+   "ref": "https://camel.apache.org/security/CVE-2026-66906.html"
+  },
+  "title_vi": "CVE-2026-66906 — Lỗ hổng truyền tải đường dẫn tương đối trong thành phần Apache Camel Azure Storage Blob",
+  "key": "0428d77e4970425483b0ae95e0fca4edc110172f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-66907 — Relative path traversal vulnerability in Apache Camel Google Storage component",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66907",
+  "published": "2026-08-24T17:18:06.330",
+  "summary": "Relative path traversal vulnerability in Apache Camel Google Storage component.\n\n\n\nThis issue affects Apache Camel: from 4.0.0 before 4.14.9, from 4.15.0 before 4.18.4, from 4.19.0 before 4.22.0.\n\n\n\nThe camel-google-storage consumer downloads Google Cloud Storage objects to the local filesystem when the downloadFileName option is set. That option is documented as a folder or a filename, and when its value contains no expression token the consumer builds the local destination by appending the object name to it: evaluateFileExpression sets the Exchange file-name header to the remote object name ",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-66907",
+   "cvss": null,
+   "ref": "https://camel.apache.org/security/CVE-2026-66907.html"
+  },
+  "title_vi": "CVE-2026-66907 — Lỗ hổng truyền tải đường dẫn tương đối trong thành phần Apache Camel Google Storage",
+  "key": "dc634040c2eee68a89dea78b11d6d20edb0a4c03"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-66908 — Improper Authentication vulnerability in Apache Camel Platform HTTP Main component",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66908",
+  "published": "2026-08-24T17:18:06.530",
+  "summary": "Improper Authentication vulnerability in Apache Camel Platform HTTP Main component.\n\n\n\nThis issue affects Apache Camel: from 4.8.0 before 4.22.0.\n\n\n\nThe camel-main embedded HTTP server can protect its endpoints with JWT authentication, configured through authenticationEnabled together with the JWT keystore properties. JWTAuthenticationConfigurer.buildJwtOptions returned null when neither jwtIssuer nor jwtAudience was configured, and the caller then skipped the JWTAuthOptions.setJWTOptions call entirely, so the Vert.x JWTAuth instance was built from the keystore alone. The result was that inbou",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-66908",
+   "cvss": null,
+   "ref": "https://camel.apache.org/security/CVE-2026-66908.html"
+  },
+  "title_vi": "CVE-2026-66908 — Lỗ hổng xác thực không đúng trong thành phần chính HTTP của Nền tảng lạc đà Apache",
+  "key": "61699d6ce07431be9e8a492a763173f7e995c0db"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71300 — Improper input validation vulnerability in Apache Camel Atmosphere Websocket component",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71300",
+  "published": "2026-08-24T17:18:16.997",
+  "summary": "Improper input validation vulnerability in Apache Camel Atmosphere Websocket component.\n\n\n\nThis issue affects Apache Camel: from 4.0.0 before 4.14.9, from 4.15.0 before 4.18.4, from 4.19.0 before 4.22.0.\n\n\n\nThe camel-atmosphere-websocket producer selects which connected WebSocket peers a message is delivered to through Exchange headers, and the string values of those headers sat outside the Camel namespace: websocket.connectionKey and websocket.connectionKey.list, along with websocket.sendToAll, websocket.eventType and websocket.errorType. WebsocketEndpoint extends ServletEndpoint and so inher",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71300",
+   "cvss": null,
+   "ref": "https://camel.apache.org/security/CVE-2026-71300.html"
+  },
+  "title_vi": "CVE-2026-71300 — Lỗ hổng xác thực đầu vào không đúng cách trong thành phần Websocket của Apache Camel Atmosphere",
+  "key": "f3eec37cbfa866bf403bafa778832d713d2ad260"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75099 — Unauthenticated REST disclosure of certain content items in Apache Allura",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75099",
+  "published": "2026-08-24T17:18:17.340",
+  "summary": "Unauthenticated REST disclosure of certain content items in Apache Allura.\n\n\n\nThis issue affects Apache Allura: through 1.19.1.\n\n\n\nUsers are recommended to upgrade to version 1.20.0, which fixes the issue.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75099",
+   "cvss": 5.3,
+   "ref": "https://lists.apache.org/thread/lnsfx58o6mx6m44qk4vzqrq8ccmrywcy"
+  },
+  "title_vi": "CVE-2026-75099 — Tiết lộ REST chưa được xác thực của một số mục nội dung nhất định trong Apache Allura",
+  "key": "81bd8cbf76b74590a7b07d54271115aeb8ec5445"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-76829 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76829",
+  "published": "2026-08-24T17:18:17.753",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-76829",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2026-76829 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
+  "key": "51f815eb6011cc7b131d1b8fc4cefb0207d6e252"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-76830 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76830",
+  "published": "2026-08-24T17:18:17.823",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-76830",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2026-76830 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
+  "key": "fb9cba9ddf341c8f60c7e143559b1bdee77cc902"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-76831 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76831",
+  "published": "2026-08-24T17:18:17.883",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-76831",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2026-76831 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
+  "key": "acb7fdcb9880d207883fc048667740ed8dc8c035"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77914 — rConfig before 8",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77914",
+  "published": "2026-08-24T17:18:18.260",
+  "summary": "rConfig before 8.2.13 contains a path traversal vulnerability that allows authenticated users to read arbitrary files by supplying crafted filenames containing directory traversal sequences to the export download endpoint. Attackers can manipulate the filename parameter with traversal sequences to escape the intended export directory and access files outside it that are readable by the application process.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77914",
+   "cvss": 6.5,
+   "ref": "https://github.com/rconfig/rconfig/releases/tag/core-8.2.13"
+  },
+  "title_vi": "CVE-2026-77914 — rConfig trước 8",
+  "key": "4b8ad89f2b8de81689d755c50aab3150f6191fe4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77915 — rConfig 8",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77915",
+  "published": "2026-08-24T17:18:18.450",
+  "summary": "rConfig 8.0.0 before 8.2.13 contains an authentication bypass vulnerability that allows unauthenticated attackers to self-register accounts with full Administrator privileges due to a duplicate bare Auth::routes() call in routes/web.php that re-enables the POST /register route after it was explicitly disabled. Attackers can register a new account that is immediately authenticated with Admin-level access because the registration controller does not assign a role and the users.role column defaults to Admin, enabling access to stored device credentials, user data, and API token issuance.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77915",
+   "cvss": 9.8,
+   "ref": "https://github.com/rconfig/rconfig/releases#release-core-8.2.10"
+  },
+  "title_vi": "",
+  "key": "60c6ee17814a2f768b020c2a32f886400a71a419"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78329 — Improper input validation vulnerability in Apache Camel Undertow component",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78329",
+  "published": "2026-08-24T17:18:20.230",
+  "summary": "Improper input validation vulnerability in Apache Camel Undertow component.\n\n\n\nThis issue affects Apache Camel: from 4.11.0 before 4.14.9, from 4.15.0 before 4.18.4, from 4.19.0 before 4.22.0.\n\n\n\nUndertowEndpoint defaulted its headerFilterStrategy field to the base HttpHeaderFilterStrategy and pushed that instance into the UndertowHttpBinding it creates lazily, overwriting the UndertowHeaderFilterStrategy that DefaultUndertowHttpBinding installs in its own constructor. Unless a deployment supplied a custom binding or an explicit headerFilterStrategy, the undertow-specific filtering therefore n",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78329",
+   "cvss": null,
+   "ref": "https://camel.apache.org/security/CVE-2026-78329.html"
+  },
+  "title_vi": "CVE-2026-78329 — Lỗ hổng xác thực đầu vào không đúng cách trong thành phần Apache Camel Undertow",
+  "key": "b0ac95c0d0df4368cdcf8231b62ba761ef1092cb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78465 — A flaw was found in the file-pcx plugin in GIMP, affecting 32-bit builds only",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78465",
+  "published": "2026-08-24T17:18:20.810",
+  "summary": "A flaw was found in the file-pcx plugin in GIMP, affecting 32-bit builds only. When processing a PCX image file, the plugin calculates memory allocation sizes based on the image dimensions and the number of color planes. If a crafted file sets the number of planes to 4 alongside sufficiently large dimensions, the calculation exceeds the 32-bit integer limit and overflows, resulting in an undersized heap-based buffer allocation. This integer overflow issue results in a heap-based buffer overflow when the plugin subsequently writes image data into the undersized buffer, causing memory corruption",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78465",
+   "cvss": 7.0,
+   "ref": "https://access.redhat.com/security/cve/CVE-2026-78465"
+  },
+  "title_vi": "CVE-2026-78465 - Đã tìm thấy lỗ hổng trong plugin file-pcx trong GIMP, chỉ ảnh hưởng đến các bản dựng 32-bit",
+  "key": "0d0f6fe0fb7323bda1c551a40ac51bf639b93767"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-13213 — The Hearing Access Service (HAS) GATT server in subsys/bluetooth/audio/has",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-13213",
+  "published": "2026-08-24T18:16:59.450",
+  "summary": "The Hearing Access Service (HAS) GATT server in subsys/bluetooth/audio/has.c installs a connection-callback set unconditionally via BT_CONN_CB_DEFINE, so security_changed() runs for every connection that establishes security even before the application has called bt_has_register(). The service attribute pointers hearing_aid_features_attr, preset_control_point_attr, and active_preset_index_attr remain NULL until bt_has_register() resolves them and sets has.registered.\n\nWith CONFIG_BT_SETTINGS, settings_set_cb() restores each bonded client's persisted context at boot and unconditionally sets con",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-13213",
+   "cvss": 5.3,
+   "ref": "https://github.com/zephyrproject-rtos/zephyr/commit/cb2329e090755abde8e57cf1c12aa2b9ca41a6a2"
+  },
+  "title_vi": "CVE-2026-13213 — Máy chủ GATT của Dịch vụ truy cập thính giác (HAS) ở dạng subsys/bluetooth/audio/has",
+  "key": "65c66c9486a2cfadef0540ead0d3d9ebe95cc683"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-16348 — An authenticated command injection vulnerability in TP-Link Archer BE800 V1 allows an attacker with administrative access to execute arbitrary system ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-16348",
+  "published": "2026-08-24T18:16:59.710",
+  "summary": "An authenticated command injection vulnerability in TP-Link Archer BE800 V1 allows an attacker with administrative access to execute arbitrary system commands with root privileges by injecting shell metacharacters via a VPN connection. \n\n\n\n\nSuccessful exploitation may enable persistent backdoors, credential theft, LAN reconnaissance, and router-assisted attacks against connected devices.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-16348",
+   "cvss": null,
+   "ref": "https://www.tp-link.com/en/support/download/archer-be800/v1/#Firmware"
+  },
+  "title_vi": "CVE-2026-16348 — Lỗ hổng chèn lệnh được xác thực trong TP-Link Archer BE800 V1 cho phép kẻ tấn công có quyền truy cập quản trị để thực thi hệ thống tùy ý",
+  "key": "f913fc5f0eeb78ce89889337aee88c9c3264f0a4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-34491 — Improper neutralization of input during web page generation ('cross-site scripting') vulnerability in Johnson Controls Metasys 14 and Johnson Controls",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-34491",
+  "published": "2026-08-24T18:17:00.337",
+  "summary": "Improper neutralization of input during web page generation ('cross-site scripting') vulnerability in Johnson Controls Metasys 14 and Johnson Controls Metasys 15 allows Cross Site Scripting.\n\nThis issue affects Metasys 14: before 14.1.5; Metasys 15: before 15.0.1.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-34491",
+   "cvss": null,
+   "ref": "https://www.johnsoncontrols.com/trust-center/cybersecurity/security-advisories"
+  },
+  "title_vi": "CVE-2026-34491 — Lỗ hổng trung hòa đầu vào không đúng cách trong quá trình tạo trang web ('tập lệnh chéo trang') trong Johnson Controls Metasys 14 và Johnson Controls",
+  "key": "d26e26d16674fb0e93ba632ea5df04ffc771595b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71904 — Multiple DrayTek VigorAP models contain a command injection vulnerability in the tr069TestInform function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71904",
+  "published": "2026-08-24T18:17:01.700",
+  "summary": "Multiple DrayTek VigorAP models contain a command injection vulnerability in the tr069TestInform function. The vulnerability is caused by insufficient filtering of dangerous characters before the event_code field is concatenated into a system command. A remote attacker can trigger this vulnerability via crafted input to execute arbitrary commands with root privileges. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71904",
+   "cvss": 7.2,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-remote-code-execution-and-buffer-overflow-vulnerabilities-in-vigorap-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71904 — Nhiều mô hình DrayTek VigorAP chứa lỗ hổng chèn lệnh trong hàm tr069TestInform",
+  "key": "846ee69f73a95079927e82fc77d086977875508f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71905 — Multiple DrayTek VigorAP models contain a command injection vulnerability in the ExportSettings function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71905",
+  "published": "2026-08-24T18:17:01.890",
+  "summary": "Multiple DrayTek VigorAP models contain a command injection vulnerability in the ExportSettings function. The vulnerability is caused by insufficient filtering of the backupkey, backuptype, and realtime fields before command execution. A remote attacker can trigger this vulnerability via crafted input to execute arbitrary commands with root privileges. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71905",
+   "cvss": 7.2,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-remote-code-execution-and-buffer-overflow-vulnerabilities-in-vigorap-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71905 — Nhiều mô hình DrayTek VigorAP chứa lỗ hổng chèn lệnh trong chức năng Xuất cài đặt",
+  "key": "35bd3b9962596c311cb3e84f60bfed629d3dcf23"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71906 — Multiple DrayTek VigorAP models contain a command injection vulnerability in the setLan function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71906",
+  "published": "2026-08-24T18:17:02.067",
+  "summary": "Multiple DrayTek VigorAP models contain a command injection vulnerability in the setLan function. The vulnerability is caused by insufficient validation of the lanIp and lanNetmask fields before command execution. A remote attacker can trigger this vulnerability via crafted input to execute arbitrary commands with root privileges. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71906",
+   "cvss": 7.2,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-remote-code-execution-and-buffer-overflow-vulnerabilities-in-vigorap-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71906 — Nhiều mô hình DrayTek VigorAP chứa lỗ hổng chèn lệnh trong hàm setLan",
+  "key": "df07ac8abe7d4e8dca77a2ad169857e52e7d72fc"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71907 — Multiple DrayTek VigorAP models contain a command injection vulnerability in the setcamset function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71907",
+  "published": "2026-08-24T18:17:02.243",
+  "summary": "Multiple DrayTek VigorAP models contain a command injection vulnerability in the setcamset function. The vulnerability is caused by insufficient filtering of the selectSlaves field before command execution. A remote attacker can trigger this vulnerability via crafted input to execute arbitrary commands with root privileges. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71907",
+   "cvss": 7.2,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-remote-code-execution-and-buffer-overflow-vulnerabilities-in-vigorap-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71907 — Nhiều mô hình DrayTek VigorAP chứa lỗ hổng chèn lệnh trong chức năng setcamset",
+  "key": "822158d26e19d6f7ac23bf35464179cb0448dfd5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71908 — Multiple DrayTek VigorAP models contain a command injection vulnerability in the mesh_start_speed_test function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71908",
+  "published": "2026-08-24T18:17:02.420",
+  "summary": "Multiple DrayTek VigorAP models contain a command injection vulnerability in the mesh_start_speed_test function. The vulnerability is caused by insufficient sanitization of the meshdevice_index and meshdevice_ip fields before command execution. A remote attacker can trigger this vulnerability via crafted input to execute arbitrary commands with root privileges. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71908",
+   "cvss": 7.2,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-remote-code-execution-and-buffer-overflow-vulnerabilities-in-vigorap-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71908 — Nhiều mô hình DrayTek VigorAP chứa lỗ hổng chèn lệnh trong hàm Mesh_start_speed_test",
+  "key": "5761599c335fb039e8de7a14ee52ad95629a5a15"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71909 — Multiple DrayTek VigorAP models contain a command injection vulnerability in the InquierTime function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71909",
+  "published": "2026-08-24T18:17:02.593",
+  "summary": "Multiple DrayTek VigorAP models contain a command injection vulnerability in the InquierTime function. The vulnerability is caused by insufficient filtering of the time field before command execution. A remote attacker can trigger this vulnerability via crafted input to execute arbitrary commands with root privileges. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71909",
+   "cvss": 7.2,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-remote-code-execution-and-buffer-overflow-vulnerabilities-in-vigorap-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71909 — Nhiều mô hình DrayTek VigorAP chứa lỗ hổng chèn lệnh trong hàm InquierTime",
+  "key": "2d258543feb9c8c208efb7c209c0fae7c8962c5e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71910 — Multiple DrayTek VigorAP models contain a command injection vulnerability in the apautotest function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71910",
+  "published": "2026-08-24T18:17:02.770",
+  "summary": "Multiple DrayTek VigorAP models contain a command injection vulnerability in the apautotest function. The vulnerability is caused by insufficient validation of the CMD0, CMD3, and CMD6 fields before command execution. A remote attacker can trigger this vulnerability via crafted input to execute arbitrary commands with root privileges. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71910",
+   "cvss": 7.2,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-remote-code-execution-and-buffer-overflow-vulnerabilities-in-vigorap-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71910 — Nhiều mô hình DrayTek VigorAP chứa lỗ hổng chèn lệnh trong chức năng apautotest",
+  "key": "56b6a5e5ad8ae7c8738332203f5a5d04137b4ad4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71911 — Multiple DrayTek VigorAP models contain a buffer overflow vulnerability in the setLan function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71911",
+  "published": "2026-08-24T18:17:02.947",
+  "summary": "Multiple DrayTek VigorAP models contain a buffer overflow vulnerability in the setLan function. The vulnerability is caused by missing length checks during memory copy operations involving the lanVlanId0, lanIp, and lanNetmask fields. A remote attacker can trigger this vulnerability via crafted input, causing a denial of service or potentially executing arbitrary commands. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71911",
+   "cvss": 7.2,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-remote-code-execution-and-buffer-overflow-vulnerabilities-in-vigorap-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71911 — Nhiều mô hình DrayTek VigorAP chứa lỗ hổng tràn bộ đệm trong hàm setLan",
+  "key": "d4446c3559536cc7effb86a6041a0d9f502f110c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71912 — Multiple DrayTek VigorAP models contain a buffer overflow vulnerability in the apautotest function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71912",
+  "published": "2026-08-24T18:17:03.110",
+  "summary": "Multiple DrayTek VigorAP models contain a buffer overflow vulnerability in the apautotest function. The vulnerability is caused by missing length checks during memory copy operations involving the CMD6 field. A remote attacker can trigger this vulnerability via crafted input, causing a denial of service or potentially executing arbitrary commands. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71912",
+   "cvss": 7.2,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-remote-code-execution-and-buffer-overflow-vulnerabilities-in-vigorap-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71912 — Nhiều mô hình DrayTek VigorAP chứa lỗ hổng tràn bộ đệm trong chức năng apautotest",
+  "key": "0569fe48039282caddcaf739f7388f5a95f85e08"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71913 — Multiple DrayTek VigorAP models contain a command injection vulnerability in the upload_settings",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71913",
+  "published": "2026-08-24T18:17:03.300",
+  "summary": "Multiple DrayTek VigorAP models contain a command injection vulnerability in the upload_settings.cgi interface. The vulnerability is caused by insufficient filtering before the restorekey field is concatenated into a shell command. A remote attacker can trigger this vulnerability via crafted input to execute arbitrary commands with root privileges. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71913",
+   "cvss": 7.2,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-remote-code-execution-and-buffer-overflow-vulnerabilities-in-vigorap-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71913 — Nhiều mô hình DrayTek VigorAP chứa lỗ hổng chèn lệnh trong upload_settings",
+  "key": "11a56a6ef093f293150edf84c506443441556ab8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71914 — Multiple DrayTek VigorAP models contain a command injection vulnerability in the dray_apm component",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71914",
+  "published": "2026-08-24T18:17:03.497",
+  "summary": "Multiple DrayTek VigorAP models contain a command injection vulnerability in the dray_apm component. The vulnerability is caused by insufficient validation of UDP message content after START_SPEED_TEST before command execution. A remote attacker can trigger this vulnerability via a crafted message to execute arbitrary commands with root privileges.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71914",
+   "cvss": 9.8,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-remote-code-execution-and-buffer-overflow-vulnerabilities-in-vigorap-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71914 — Nhiều mô hình DrayTek VigorAP chứa lỗ hổng chèn lệnh trong thành phần dray_apm",
+  "key": "b63ad1270feed08e09b2d90783f815cfebdc90e4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71915 — Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the jsonstatus function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71915",
+  "published": "2026-08-24T18:17:03.670",
+  "summary": "Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the jsonstatus function. The vulnerability is caused by insufficient filtering of the usescript, usefile, and option fields before command execution. A remote attacker can trigger this vulnerability via crafted input to execute arbitrary commands with root privileges. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71915",
+   "cvss": 7.2,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-vulnerabilities-in-vigorswitch-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71915 — Nhiều mô hình DrayTek VigorSwitch chứa lỗ hổng chèn lệnh trong hàm jsonstatus",
+  "key": "e9fe330d4c8a7c6434b45279b3601025a010bb7b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71916 — Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the commandTable function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71916",
+  "published": "2026-08-24T18:17:03.940",
+  "summary": "Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the commandTable function. The vulnerability is caused by incomplete filtering of dangerous characters such as backticks, newline characters, and single quotes in the parameter field. A remote attacker can trigger this vulnerability via crafted input to execute arbitrary commands with root privileges. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71916",
+   "cvss": 7.2,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-vulnerabilities-in-vigorswitch-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71916 — Nhiều mô hình DrayTek VigorSwitch chứa lỗ hổng chèn lệnh trong hàm commandTable",
+  "key": "21ea87fd38a06f95d5bdfcac1320ae2ffa943453"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71917 — Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the pingtrace function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71917",
+  "published": "2026-08-24T18:17:06.153",
+  "summary": "Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the pingtrace function. The vulnerability is caused by insufficient validation of the host field before command execution. A remote attacker can trigger this vulnerability via crafted input to execute arbitrary commands with root privileges. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71917",
+   "cvss": 7.2,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-vulnerabilities-in-vigorswitch-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71917 — Nhiều mẫu DrayTek VigorSwitch chứa lỗ hổng chèn lệnh trong chức năng pingtrace",
+  "key": "6043926db925e556b303f1784cd5821a3ff1b417"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71918 — Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the webBackupAction function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71918",
+  "published": "2026-08-24T18:17:06.377",
+  "summary": "Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the webBackupAction function. The vulnerability is caused by insufficient filtering of the option, key, pw_encode, pathN, and valueN fields before command execution. A remote attacker can trigger this vulnerability via crafted input to execute arbitrary commands with root privileges. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71918",
+   "cvss": 7.2,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-vulnerabilities-in-vigorswitch-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71918 — Nhiều mô hình DrayTek VigorSwitch chứa lỗ hổng chèn lệnh trong chức năng webBackupAction",
+  "key": "6381e02d338dbe62667bc9ca6cba2a4f6343a0a3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71919 — Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the sysreboot function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71919",
+  "published": "2026-08-24T18:17:06.610",
+  "summary": "Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the sysreboot function. The vulnerability is caused by insufficient filtering of the config, act, pathN, and valueN fields before command execution. A remote attacker can trigger this vulnerability via crafted input to execute arbitrary commands with root privileges. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71919",
+   "cvss": 7.2,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-vulnerabilities-in-vigorswitch-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71919 — Nhiều mẫu DrayTek VigorSwitch chứa lỗ hổng chèn lệnh trong chức năng sysreboot",
+  "key": "b9f23e9037e0c7881665e1914f3ff15d626766de"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71920 — Multiple DrayTek VigorSwitch models contain a null pointer dereference vulnerability in the formlogout function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71920",
+  "published": "2026-08-24T18:17:06.847",
+  "summary": "Multiple DrayTek VigorSwitch models contain a null pointer dereference vulnerability in the formlogout function. The vulnerability is caused by missing checks for an empty or absent Cookie header before string handling. A remote attacker can trigger this vulnerability via a crafted request to crash the service and cause a denial of service. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71920",
+   "cvss": 4.9,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-vulnerabilities-in-vigorswitch-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71920 — Nhiều mô hình DrayTek VigorSwitch chứa lỗ hổng tham chiếu con trỏ null trong chức năng formlogout",
+  "key": "7aaf42dda95f52cd488f3c28a00e39d9215058fb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71921 — Multiple DrayTek VigorSwitch models contain a pre-authentication command injection vulnerability in the setget",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71921",
+  "published": "2026-08-24T18:17:07.060",
+  "summary": "Multiple DrayTek VigorSwitch models contain a pre-authentication command injection vulnerability in the setget.cgi interface. The vulnerability is caused by insufficient filtering of the pass field before command execution. A remote attacker can trigger this vulnerability via crafted input to execute arbitrary commands with root privileges.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71921",
+   "cvss": 9.8,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-vulnerabilities-in-vigorswitch-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71921 — Nhiều mô hình DrayTek VigorSwitch chứa lỗ hổng tiêm lệnh xác thực trước trong setget",
+  "key": "6851b15ebad6c0ce0ac2d3c6a4280ffc6c8dc8f0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71922 — Multiple DrayTek VigorSwitch models contain a pre-authentication null pointer dereference vulnerability in the setget",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71922",
+  "published": "2026-08-24T18:17:07.280",
+  "summary": "Multiple DrayTek VigorSwitch models contain a pre-authentication null pointer dereference vulnerability in the setget.cgi interface. The vulnerability is caused by missing validation when the pass field is absent. A remote attacker can trigger this vulnerability via a crafted request to crash the service and cause a denial of service.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71922",
+   "cvss": 7.5,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-vulnerabilities-in-vigorswitch-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71922 — Nhiều mô hình DrayTek VigorSwitch chứa lỗ hổng xác thực trước con trỏ null trong setget",
+  "key": "b7fc68bb8ae8671d8b1a7c466034d9a5286b4a2f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71923 — Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the auth_set function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71923",
+  "published": "2026-08-24T18:17:07.497",
+  "summary": "Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the auth_set function. The vulnerability is caused by insufficient filtering of the username and password fields before command execution. A remote attacker can trigger this vulnerability via crafted input to execute arbitrary commands with root privileges. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71923",
+   "cvss": 7.2,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-vulnerabilities-in-vigorswitch-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71923 — Nhiều mô hình DrayTek VigorSwitch chứa lỗ hổng chèn lệnh trong hàm auth_set",
+  "key": "7c02f70ecdda6c438d815d589de83ce3b8f7e12e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71924 — Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the getVid function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71924",
+  "published": "2026-08-24T18:17:07.653",
+  "summary": "Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the getVid function. The vulnerability is caused by insufficient filtering of the username and password fields before command execution. A remote attacker can trigger this vulnerability via crafted input to execute arbitrary commands with root privileges. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71924",
+   "cvss": 7.2,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-vulnerabilities-in-vigorswitch-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71924 — Nhiều mô hình DrayTek VigorSwitch chứa lỗ hổng chèn lệnh trong hàm getVid",
+  "key": "86371bb9e73c428fe6cdc574ce024d6e97251e90"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71925 — Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the getDetail function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71925",
+  "published": "2026-08-24T18:17:07.813",
+  "summary": "Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the getDetail function. The vulnerability is caused by insufficient filtering of the username and password fields before command execution. A remote attacker can trigger this vulnerability via crafted input to execute arbitrary commands with root privileges. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71925",
+   "cvss": 7.2,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-vulnerabilities-in-vigorswitch-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71925 — Nhiều mô hình DrayTek VigorSwitch chứa lỗ hổng chèn lệnh trong hàm getDetail",
+  "key": "bf7c1a700aa5c90040b5d01cf2a8555f482d4228"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71926 — Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the setDevice function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71926",
+  "published": "2026-08-24T18:17:07.977",
+  "summary": "Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the setDevice function. The vulnerability is caused by insufficient sanitization of the username, password, and location fields before command execution. A remote attacker can trigger this vulnerability via crafted input to execute arbitrary commands with root privileges. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71926",
+   "cvss": 7.2,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-vulnerabilities-in-vigorswitch-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71926 — Nhiều mô hình DrayTek VigorSwitch chứa lỗ hổng chèn lệnh trong hàm setDevice",
+  "key": "afa2b9e0ecf55b9f97eede8c9101b765eed9305e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71927 — Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the rebDevice function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71927",
+  "published": "2026-08-24T18:17:08.140",
+  "summary": "Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the rebDevice function. The vulnerability is caused by insufficient filtering of the username and password fields before command execution. A remote attacker can trigger this vulnerability via crafted input to execute arbitrary commands with root privileges. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71927",
+   "cvss": 7.2,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-vulnerabilities-in-vigorswitch-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71927 — Nhiều mô hình DrayTek VigorSwitch chứa lỗ hổng chèn lệnh trong chức năng rebDevice",
+  "key": "2e402ed5e4611bea905feef2ae9244e5b7e8894e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71928 — Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the fdftDevice function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71928",
+  "published": "2026-08-24T18:17:08.303",
+  "summary": "Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the fdftDevice function. The vulnerability is caused by insufficient filtering of the username and password fields before command execution. A remote attacker can trigger this vulnerability via crafted input to execute arbitrary commands with root privileges. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71928",
+   "cvss": 7.2,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-vulnerabilities-in-vigorswitch-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71928 — Nhiều mô hình DrayTek VigorSwitch chứa lỗ hổng chèn lệnh trong chức năng fdftDevice",
+  "key": "4d8a4ceddd739078caa54f3144988dfd7db20a22"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71929 — Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the setDevProto function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71929",
+  "published": "2026-08-24T18:17:08.480",
+  "summary": "Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the setDevProto function. The vulnerability is caused by insufficient filtering of the username and password fields before command execution. A remote attacker can trigger this vulnerability via crafted input to execute arbitrary commands with root privileges. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71929",
+   "cvss": 7.2,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-vulnerabilities-in-vigorswitch-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71929 — Nhiều mô hình DrayTek VigorSwitch chứa lỗ hổng chèn lệnh trong hàm setDevProto",
+  "key": "d94cd2a047cbfcfaea5c43ed624e237fdfb1655b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71930 — Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the setTime function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71930",
+  "published": "2026-08-24T18:17:08.643",
+  "summary": "Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the setTime function. The vulnerability is caused by insufficient filtering of the username and password fields before command execution. A remote attacker can trigger this vulnerability via crafted input to execute arbitrary commands with root privileges. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71930",
+   "cvss": 7.2,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-vulnerabilities-in-vigorswitch-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71930 — Nhiều mô hình DrayTek VigorSwitch chứa lỗ hổng chèn lệnh trong hàm setTime",
+  "key": "100ae9bd6d94187840481983eaaedb86def86743"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71931 — Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the tftp_upgrade function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71931",
+  "published": "2026-08-24T18:17:17.697",
+  "summary": "Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the tftp_upgrade function. The vulnerability is caused by insufficient filtering before the filename field is concatenated into a command. A remote attacker can trigger this vulnerability via crafted input to execute arbitrary commands with root privileges. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71931",
+   "cvss": 7.2,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-vulnerabilities-in-vigorswitch-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71931 — Nhiều mẫu DrayTek VigorSwitch chứa lỗ hổng chèn lệnh trong hàm tftp_upgrade",
+  "key": "7e67a885d69ef96da1b0b0e80bdc0ea018303e38"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71932 — Multiple DrayTek VigorSwitch models contain a directory traversal vulnerability in the getSyslogFile function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71932",
+  "published": "2026-08-24T18:17:17.893",
+  "summary": "Multiple DrayTek VigorSwitch models contain a directory traversal vulnerability in the getSyslogFile function. The vulnerability is caused by insufficient validation of the option field. A remote attacker can trigger this vulnerability via crafted input containing path traversal sequences to access arbitrary files on the device. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71932",
+   "cvss": 4.9,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-vulnerabilities-in-vigorswitch-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71932 — Nhiều mô hình DrayTek VigorSwitch chứa lỗ hổng truyền tải thư mục trong hàm getSyslogFile",
+  "key": "844cf0579d0ef988866db92b2d47302ec0138779"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71933 — Multiple DrayTek VigorSwitch models contain unauthorized operation vulnerabilities in multiple syslog functions",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71933",
+  "published": "2026-08-24T18:17:18.090",
+  "summary": "Multiple DrayTek VigorSwitch models contain unauthorized operation vulnerabilities in multiple syslog functions. The vulnerability is caused by missing authorization checks. A remote attacker can trigger these vulnerabilities via crafted requests to modify configuration, restart services, save startup configuration, or clear logs.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71933",
+   "cvss": 9.1,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-vulnerabilities-in-vigorswitch-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71933 — Nhiều mẫu DrayTek VigorSwitch chứa lỗ hổng hoạt động trái phép trong nhiều chức năng nhật ký hệ thống",
+  "key": "9f4fc79850689f4dac87cd5ba1aad2529d69d01d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71934 — Multiple DrayTek VigorSwitch models contain a buffer overflow vulnerability in the pingtrace function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71934",
+  "published": "2026-08-24T18:17:18.290",
+  "summary": "Multiple DrayTek VigorSwitch models contain a buffer overflow vulnerability in the pingtrace function. The vulnerability is caused by missing length checks when the host, count, and interval fields are concatenated into a fixed-size buffer. A remote attacker can trigger this vulnerability via crafted input, causing a denial of service or potentially executing arbitrary commands. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71934",
+   "cvss": 7.2,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-vulnerabilities-in-vigorswitch-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71934 — Nhiều mẫu DrayTek VigorSwitch chứa lỗ hổng tràn bộ đệm trong chức năng pingtrace",
+  "key": "39fbc23e5b4cdce2182fc22b4d915ce4533975a2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71935 — Multiple DrayTek VigorSwitch models contain a buffer overflow vulnerability in the webBackupAction function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71935",
+  "published": "2026-08-24T18:17:18.490",
+  "summary": "Multiple DrayTek VigorSwitch models contain a buffer overflow vulnerability in the webBackupAction function. The vulnerability is caused by repeated string concatenation of the pathN, valueN, key, and option fields into fixed-size stack buffers without total length checks. A remote attacker can trigger this vulnerability via crafted input, causing a denial of service or potentially executing arbitrary commands. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71935",
+   "cvss": 7.2,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-vulnerabilities-in-vigorswitch-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71935 — Nhiều mô hình DrayTek VigorSwitch chứa lỗ hổng tràn bộ đệm trong chức năng webBackupAction",
+  "key": "79b6c4a4cc325c3b425b1ac719934aff89f9d49b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71936 — Multiple DrayTek VigorSwitch models contain a buffer overflow vulnerability in the sysreboot function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71936",
+  "published": "2026-08-24T18:17:18.693",
+  "summary": "Multiple DrayTek VigorSwitch models contain a buffer overflow vulnerability in the sysreboot function. The vulnerability is caused by unsafe concatenation of split valueN data into a fixed-size buffer. A remote attacker can trigger this vulnerability via crafted input, causing a denial of service or potentially executing arbitrary commands. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71936",
+   "cvss": 7.2,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-vulnerabilities-in-vigorswitch-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71936 — Nhiều mẫu DrayTek VigorSwitch chứa lỗ hổng tràn bộ đệm trong chức năng sysreboot",
+  "key": "5bfa8a4732b47cf9841066c3f3311065753d21b2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71937 — Multiple DrayTek VigorSwitch models contain a buffer overflow vulnerability in the poe_schedule_profile function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71937",
+  "published": "2026-08-24T18:17:18.890",
+  "summary": "Multiple DrayTek VigorSwitch models contain a buffer overflow vulnerability in the poe_schedule_profile function. The vulnerability is caused by repeated concatenation of the start_date, start_time, duration_time, how_often, weekdays, monthly_date, and cycle_duration fields into small fixed-size buffers without proper length checks. A remote attacker can trigger this vulnerability via crafted input, causing a denial of service or potentially executing arbitrary commands. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71937",
+   "cvss": 7.2,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-vulnerabilities-in-vigorswitch-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71937 — Nhiều mô hình DrayTek VigorSwitch chứa lỗ hổng tràn bộ đệm trong hàm poe_schedule_profile",
+  "key": "e047b63297b2259b427b285b609b3ee1378d0f7e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71938 — Multiple DrayTek VigorSwitch models contain a buffer overflow vulnerability in the switch_lan_gvrp function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71938",
+  "published": "2026-08-24T18:17:19.083",
+  "summary": "Multiple DrayTek VigorSwitch models contain a buffer overflow vulnerability in the switch_lan_gvrp function. The vulnerability is caused by unsafe copying of the portList field into an undersized buffer. A remote attacker can trigger this vulnerability via crafted input, causing a denial of service or potentially executing arbitrary commands. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71938",
+   "cvss": 7.2,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-vulnerabilities-in-vigorswitch-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71938 — Nhiều mẫu DrayTek VigorSwitch chứa lỗ hổng tràn bộ đệm trong hàm switch_lan_gvrp",
+  "key": "20b1ab73337de41bf2068b951001d64ea6350bda"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71939 — Multiple DrayTek VigorSwitch models contain a buffer overflow vulnerability in the acl_general_setup Add ACE function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71939",
+  "published": "2026-08-24T18:17:19.280",
+  "summary": "Multiple DrayTek VigorSwitch models contain a buffer overflow vulnerability in the acl_general_setup Add ACE function. The vulnerability is caused by copying the name field into a fixed-size buffer without length validation. A remote attacker can trigger this vulnerability via crafted input, causing a denial of service or potentially executing arbitrary commands. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71939",
+   "cvss": 7.2,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-vulnerabilities-in-vigorswitch-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71939 — Nhiều mô hình DrayTek VigorSwitch chứa lỗ hổng tràn bộ đệm trong acl_general_setup Thêm chức năng ACE",
+  "key": "1ecabc7d35c8def9008027616701e4437b5aa6b9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71940 — Multiple DrayTek VigorSwitch models contain a buffer overflow vulnerability in the acl_general_setup Edit ACE function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71940",
+  "published": "2026-08-24T18:17:19.480",
+  "summary": "Multiple DrayTek VigorSwitch models contain a buffer overflow vulnerability in the acl_general_setup Edit ACE function. The vulnerability is caused by copying the name field into a fixed-size buffer without length validation. A remote attacker can trigger this vulnerability via crafted input, causing a denial of service or potentially executing arbitrary commands. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71940",
+   "cvss": 7.2,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-vulnerabilities-in-vigorswitch-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71940 — Nhiều mẫu DrayTek VigorSwitch chứa lỗ hổng tràn bộ đệm trong acl_general_setup Chỉnh sửa chức năng ACE",
+  "key": "bff9e5d82c6d8c1ca3da80cf0ff7ae19203521f4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71941 — Multiple DrayTek VigorSwitch models contain a buffer overflow vulnerability in the diag_logmail function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71941",
+  "published": "2026-08-24T18:17:19.680",
+  "summary": "Multiple DrayTek VigorSwitch models contain a buffer overflow vulnerability in the diag_logmail function. The vulnerability is caused by concatenating multiple smtpReceiver email addresses into a fixed-size buffer without checking the remaining buffer size. A remote attacker can trigger this vulnerability via crafted input, causing a denial of service or potentially executing arbitrary commands. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71941",
+   "cvss": 7.2,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-vulnerabilities-in-vigorswitch-series-august-2026/"
+  },
+  "title_vi": "CVE-2026-71941 — Nhiều mẫu DrayTek VigorSwitch chứa lỗ hổng tràn bộ đệm trong hàm diag_logmail",
+  "key": "226f0984403a341e8fa876c84bd40472ad600541"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71942 — Multiple DrayTek VigorSwitch models contain a buffer overflow vulnerability in the mail_mailalert function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71942",
+  "published": "2026-08-24T18:17:19.877",
+  "summary": "Multiple DrayTek VigorSwitch models contain a buffer overflow vulnerability in the mail_mailalert function. The vulnerability is caused by concatenating multiple smtpReceiver email addresses into a fixed-size buffer without checking the remaining buffer size. A remote attacker can trigger this vulnerability via crafted input, causing a denial of service or potentially executing arbitrary commands. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71942",
+   "cvss": 7.2,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-vulnerabilities-in-vigorswitch-series-august-2026/"
+  },
+  "title_vi": "",
+  "key": "066ef9b79575021bcbcb0822dd1b0c5b897e5578"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71943 — Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the setDevNet function",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71943",
+  "published": "2026-08-24T18:17:20.077",
+  "summary": "Multiple DrayTek VigorSwitch models contain a command injection vulnerability in the setDevNet function. The vulnerability is caused by insufficient filtering of the username and password fields before command execution. A remote attacker can trigger this vulnerability via crafted input to execute arbitrary commands with root privileges. Exploitation requires valid administrative credentials for the device's web management interface.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71943",
+   "cvss": 7.2,
+   "ref": "https://www.draytek.com/about/security-advisory/multiple-vulnerabilities-in-vigorswitch-series-august-2026/"
+  },
+  "title_vi": "",
+  "key": "7f5765aafe005ecda247cdc2fb47e3aef7f1887d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71982 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71982",
+  "published": "2026-08-24T18:17:20.223",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71982",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "",
+  "key": "a13d71785fd01a0f615b2734a83623d4ae36d8ea"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-76072 — The Continue CLI applies an incomplete denylist as its only barrier to destructive shell commands when running unattended",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76072",
+  "published": "2026-08-24T18:17:21.233",
+  "summary": "The Continue CLI applies an incomplete denylist as its only barrier to destructive shell commands when running unattended. In headless mode and auto mode the default policy in extensions/cli/src/permissions/defaultPolicies.ts grants the Bash tool the allow permission, and permissionChecker.ts hard-blocks a command only when the terminal-security evaluator returns a disabled verdict, so isCriticalCommand in packages/terminal-security/src/evaluateTerminalCommandSecurity.ts is the sole control. Its dangerous-path test matches only /, /*, ~, ~/*, /usr, /etc, /bin and /sbin and their prefixes, so a",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-76072",
+   "cvss": 7.4,
+   "ref": "https://github.com/continuedev/continue"
+  },
+  "title_vi": "",
+  "key": "8fc950fd7c0efa384a52d914c8777327d4892881"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-76073 — Label Studio does not scope the annotation detail endpoint to the requesting user's organization",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76073",
+  "published": "2026-08-24T18:17:21.410",
+  "summary": "Label Studio does not scope the annotation detail endpoint to the requesting user's organization. AnnotationAPI in label_studio/tasks/api.py declares queryset = Annotation.objects.all() and provides no get_queryset override, so the default lookup retrieves any annotation by primary key. The view's permission_required entries name annotations.view, annotations.change and annotations.delete, and label_studio/core/permissions.py registers every permission with rules.is_authenticated, so the check is satisfied by any logged-in account and no object-level organization test runs. The sibling task en",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-76073",
+   "cvss": 8.8,
+   "ref": "https://github.com/HumanSignal/label-studio"
+  },
+  "title_vi": "",
+  "key": "b7c19b694144bc2888a281447cab3ee25fe3f1b1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-76835 — OAuth2 Proxy honours a client-supplied X-Forwarded-Uri header when deciding whether a request may skip authentication, because the guard added for CVE",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76835",
+  "published": "2026-08-24T18:17:21.570",
+  "summary": "OAuth2 Proxy honours a client-supplied X-Forwarded-Uri header when deciding whether a request may skip authentication, because the guard added for CVE-2026-40575 is inert in the default reverse-proxy configuration. GetRequestURI in pkg/requests/util/util.go prefers that header over the real request URI whenever CanTrustForwardedHeaders returns true, and isAllowedPath in oauthproxy.go matches the skip_auth_routes and skip_auth_regex allow list against the resulting path. CanTrustForwardedHeaders in pkg/apis/middleware/scope.go grants that trust when the caller's address is in the trusted proxy ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-76835",
+   "cvss": 9.1,
+   "ref": "https://github.com/oauth2-proxy/oauth2-proxy"
+  },
+  "title_vi": "",
+  "key": "b1be9f9869819782546f98d80d134bc78bc1be46"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-76836 — AzuraCast exposes the Liquidsoap custom configuration fields through an endpoint that does not require the permission guarding them",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76836",
+  "published": "2026-08-24T18:17:21.733",
+  "summary": "AzuraCast exposes the Liquidsoap custom configuration fields through an endpoint that does not require the permission guarding them. The backend_config property in backend/src/Entity/Station.php is annotated with GROUP_GENERAL, and PUT /api/station/{station_id}/profile/edit in backend/src/Controller/Api/Stations/ProfileEditController.php deserializes with that group while requiring only StationPermissions::Profile. AbstractArrayEntity::fromArray() then assigns every public property with no field-level permission check, so custom_config_top, custom_config, custom_config_pre_playlists, custom_co",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-76836",
+   "cvss": 8.8,
+   "ref": "https://github.com/AzuraCast/AzuraCast"
+  },
+  "title_vi": "",
+  "key": "d53ec6b6b0bc2d18bb79fdb7a9ee1b48de271d05"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-76837 — Baserow interpolates a user's display name into the rich-text mention markup without HTML encoding",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76837",
+  "published": "2026-08-24T18:17:21.887",
+  "summary": "Baserow interpolates a user's display name into the rich-text mention markup without HTML encoding. PATCH /api/user/account/ stores the first_name value verbatim, and the mention renderer in web-frontend/modules/core/editor/mention.js builds its element with a template literal that places the name into a data-label attribute and the element body unescaped. A name containing a double quote closes that attribute and the opening tag, so following markup lands in the element content. The result is rendered through v-html by the rich-text field components, so any rich-text cell mentioning the accou",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-76837",
+   "cvss": 6.4,
+   "ref": "https://github.com/baserow/baserow"
+  },
+  "title_vi": "",
+  "key": "d95a090d74e4dcf4bb5d1ffe812219d2d45eef93"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-76838 — Hi",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76838",
+  "published": "2026-08-24T18:17:22.363",
+  "summary": "Hi.Events validates a webhook destination only when it is registered, never when it is used. NoInternalUrlRule in backend/app/Validators/Rules/NoInternalUrlRule.php resolves the hostname with gethostbyname() and rejects private and reserved ranges, which any public hostname passes. At dispatch, WebhookDispatchService takes the stored URL and calls it through spatie/laravel-webhook-server without repeating the check, and backend/config/webhook-server.php sets no Guzzle options, so redirect following remains enabled by default. A destination that answers with a redirect to a loopback, private or",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-76838",
+   "cvss": 8.5,
+   "ref": "https://github.com/HiEventsDev/Hi.Events"
+  },
+  "title_vi": "",
+  "key": "c3893eac8e15392e3a6b837726aef0d3d3fb8b62"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78475 — A flaw was found in the file-pix (ESM) plugin in GIMP",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78475",
+  "published": "2026-08-24T18:17:34.807",
+  "summary": "A flaw was found in the file-pix (ESM) plugin in GIMP. When processing a specially crafted PIX image file, the plugin allocates a Variable-Length Array (VLA) on the stack without proper bounds checking, causing an unbounded stack allocation followed by a 21-byte stack over-read. This can result in a denial of service due to stack exhaustion and a limited information disclosure of stack memory contents into an intermediate file.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78475",
+   "cvss": 6.1,
+   "ref": "https://access.redhat.com/security/cve/CVE-2026-78475"
+  },
+  "title_vi": "",
+  "key": "10a97cacbe0011b141916a2250b3b5c6e86999b7"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-9254 — An unauthenticated OS command injection vulnerability exists in the parental control functionality of Archer BE800 V1, BE3600 V1, and AX75 V1 due to i",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-9254",
+  "published": "2026-08-24T18:17:34.973",
+  "summary": "An unauthenticated OS command injection vulnerability exists in the parental control functionality of Archer BE800 V1, BE3600 V1, and AX75 V1 due to improper filtering and neutralization of special characters in certain parameters. A LAN-based attacker can inject arbitrary commands and execute them with root privileges.\n\n\n\n\n\n\nSuccessful exploitation may result in complete device compromise and impact the confidentiality, integrity, and availability of the affected device and network traffic.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-9254",
+   "cvss": null,
+   "ref": "https://www.tp-link.com/en/support/download/archer-ax75/v1/#Firmware"
+  },
+  "title_vi": "",
+  "key": "4b25522f602028d68c676dd7c15f0e2481fb0348"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2025-26237 — D-Link DI-7001 MINI_5G 19",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-26237",
+  "published": "2026-08-24T19:16:34.307",
+  "summary": "D-Link DI-7001 MINI_5G 19.10.31A1 contains a code execution vulnerability in the flag parameter of msp_info, which can be exploited to run arbitrary commands.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2025-26237",
+   "cvss": null,
+   "ref": "https://github.com/REYu6/iot/blob/main/CVE/dlink/DI_7001_MINI_5G.md/DI_7001_MINI_5G.md"
+  },
+  "title_vi": "",
+  "key": "812a2c67f0ff4bd7b0bcef1b858b5876bf3833f9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2025-26238 — In D-Link DI-8100G 17",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-26238",
+  "published": "2026-08-24T19:16:35.290",
+  "summary": "In D-Link DI-8100G 17.12.20A1, the flag parameter in msp_info can be exploited to execute arbitrary code.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2025-26238",
+   "cvss": null,
+   "ref": "https://github.com/REYu6/iot/blob/main/CVE/dlink/DI_8100G-17.12.20A1.md/DI_8100G-17.12.20A1.md"
+  },
+  "title_vi": "",
+  "key": "03ffdc418385432d477ae252976c81a8d61b0194"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-13047 — Rejected reason: Red Hat is not the CNA for PHP",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-13047",
+  "published": "2026-08-24T19:16:35.990",
+  "summary": "Rejected reason: Red Hat is not the CNA for PHP. CVE was reserved in error; the appropriate CNA should assign CVE IDs for these vulnerabilities.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-13047",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "",
+  "key": "fddb868dfddbc3d14dead1a632a9ac53a961c2e4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-13081 — Rejected reason: Red Hat is not the CNA for PHP",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-13081",
+  "published": "2026-08-24T19:16:36.077",
+  "summary": "Rejected reason: Red Hat is not the CNA for PHP. CVE was reserved in error; the appropriate CNA should assign CVE IDs for these vulnerabilities.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-13081",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "",
+  "key": "ad161c412371655a96d98382ce6fc5f9f252076b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-30864 — Combodo iTop is a web-based IT service management tool",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-30864",
+  "published": "2026-08-24T19:16:37.140",
+  "summary": "Combodo iTop is a web-based IT service management tool. Prior to 3.2.3, iTop is vulnerable to Reflected Cross-Site Scripting (XSS) in the dashboard revert functionality. This issue has been fixed in version 3.2.3.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-30864",
+   "cvss": 8.9,
+   "ref": "https://github.com/Combodo/iTop/security/advisories/GHSA-6pgv-3fcp-c5g2"
+  },
+  "title_vi": "",
+  "key": "1d8aea850d71596a83a96723958e3049626efe9a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-39975 — Combodo iTop is a web-based IT service management tool",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-39975",
+  "published": "2026-08-24T19:16:38.470",
+  "summary": "Combodo iTop is a web-based IT service management tool. Prior to 3.2.3, unauthenticated users could delete the .readonly file on iTop instances, leading to code execution. This file, created during the setup process, prevents users from performing write actions. This issue has been fixed in version 3.2.3.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-39975",
+   "cvss": null,
+   "ref": "https://github.com/Combodo/iTop/security/advisories/GHSA-h823-537c-xwfh"
+  },
+  "title_vi": "",
+  "key": "6650c6b30415a15bf0e80e55a014cdb0591b9c0d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-40877 — Combodo iTop is a web-based IT service management tool",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-40877",
+  "published": "2026-08-24T19:16:38.647",
+  "summary": "Combodo iTop is a web-based IT service management tool. Prior to 3.2.3, iTop is vulnerable to PHP object injection in the user preference functionality, which can lead to remote code execution. This issue has been fixed in version 3.2.3.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-40877",
+   "cvss": 8.7,
+   "ref": "https://github.com/Combodo/iTop/security/advisories/GHSA-3mq5-p5vh-cw7r"
+  },
+  "title_vi": "",
+  "key": "a08bef766073048d4e7c0cd17f09f4613e186900"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71503 — Dolibarr before 24",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71503",
+  "published": "2026-08-24T19:16:49.520",
+  "summary": "Dolibarr before 24.0.0 contains a reflected cross-site scripting vulnerability in the extra fields administration template where the type request parameter is echoed without JavaScript-context encoding into an inline script block and no Content-Security-Policy header is emitted. An unauthenticated attacker can cause an authenticated administrator to open a crafted URL to execute arbitrary JavaScript in that session and create a persistent administrator account.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71503",
+   "cvss": 6.1,
+   "ref": "https://codeant.ai/security-research/cve-2026-71503-reflected-xss-via-the-type-parameter"
+  },
+  "title_vi": "",
+  "key": "2685f013908e5d86a1a58e9dcb607e554ac5e2e6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71504 — Dolibarr before 24",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71504",
+  "published": "2026-08-24T19:16:49.670",
+  "summary": "Dolibarr before 24.0.0 contains an improper authorization vulnerability in the Members REST API that allows attackers with only member-creation rights to reset the password of any user account, including the system administrator, without verifying password-change permissions. Attackers can supply an arbitrary user account identifier and new password in the request body to overwrite credentials and immediately lock out the legitimate account holder.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71504",
+   "cvss": 8.1,
+   "ref": "https://codeant.ai/security-research/cve-2026-71504-mass-assignment-in-members-api-via-pass"
+  },
+  "title_vi": "",
+  "key": "45752edf370a9edc7ac720494172a26015d1d5f2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71505 — Dolibarr before 24",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71505",
+  "published": "2026-08-24T19:16:49.817",
+  "summary": "Dolibarr before 24.0.0 contains a broken object-level authorization vulnerability in the REST API third-party site account write routes that allows authenticated attackers with third-party creation rights to overwrite the WebPortal password of any company by bypassing per-object access checks that are only enforced on read routes. Attackers can replace the victim company's WebPortal password through the write endpoint, authenticate as that company to access its invoice data, and also obtain the victim's previous password verifier from the API response.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71505",
+   "cvss": 7.1,
+   "ref": "https://codeant.ai/security-research/cve-2026-71505-dolibarr-bola-enables-portal-account-takeover"
+  },
+  "title_vi": "",
+  "key": "8afabc0cb67a1392d71260848a55d0c94cec5b84"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71506 — Dolibarr before 24",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71506",
+  "published": "2026-08-24T19:16:49.960",
+  "summary": "Dolibarr before 24.0.0 contains an improper authorization vulnerability in the payments REST API delete endpoint that allows authenticated attackers with invoice-deletion rights to permanently delete any payment record by bypassing the intended payment-issuance rights check. Attackers can exploit this misconfigured permission check to zero paid amounts on invoices and remove entries from accounting exports, causing financial data integrity loss.",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71506",
+   "cvss": 8.1,
+   "ref": "https://codeant.ai/security-research/cve-2026-71506-dolibarr-payment-deletion-via-incorrect-authorization"
+  },
+  "title_vi": "",
+  "key": "9a2d7ec3630a040b6074794c56b759a2377a8665"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71507 — Dolibarr before 24",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71507",
+  "published": "2026-08-24T19:16:50.110",
+  "summary": "Dolibarr before 24.0.0 contains a broken object-level authorization vulnerability in the REST API company bank account write routes that allows authenticated attackers with third-party creation rights to create, replace, or delete bank account details of any company without requiring read access to that company. Attackers can inject attacker-controlled IBANs as creditor accounts, which are then written into regenerated SEPA credit-transfer files, redirecting outgoing payments to attacker-controlled accounts.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71507",
+   "cvss": 6.5,
+   "ref": "https://codeant.ai/security-research/cve-2026-71507-dolibarr-bola-lets-attackers-redirect-supplier-payments"
+  },
+  "title_vi": "",
+  "key": "4e63bdd6c336b0a6b30c9dc7730482501d766e43"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71508 — Dolibarr before 24",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71508",
+  "published": "2026-08-24T19:16:50.253",
+  "summary": "Dolibarr before 24.0.0 contains an improper authorization vulnerability in the user REST API update endpoint that allows attackers with user-write rights to modify payroll fields by exploiting an incomplete credential denylist that omits payroll columns. Attackers can rewrite salary, bonus, hourly rate, daily rate, and weekly hours for any user without holding payroll rights, with the modified values appearing in payroll export reports.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71508",
+   "cvss": 6.5,
+   "ref": "https://codeant.ai/security-research/cve-2026-71508-dolibarr-payroll-mass-assignment"
+  },
+  "title_vi": "",
+  "key": "c257815ca6f16f9db06a6882c6741def9155ea05"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71509 — Dolibarr before 24",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71509",
+  "published": "2026-08-24T19:16:50.403",
+  "summary": "Dolibarr before 24.0.0 contains an improper authorization vulnerability in the expense report REST API update endpoint that allows authenticated attackers with expense-creation rights to bypass the approval workflow by directly setting approval status and approver identity fields. Attackers can manipulate workflow state fields through the REST API to advance expense reports to approved or closed status without possessing the dedicated approval right, while also creating forensic inconsistencies in audit records due to missing approval timestamps.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71509",
+   "cvss": 6.5,
+   "ref": "https://codeant.ai/security-research/cve-2026-71509-dolibarr-mass-assignment-lets-users-self-approve-expenses"
+  },
+  "title_vi": "",
+  "key": "f031b9ca0224cf50590db87ee3ee2400cc91839d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71832 — Aria2 version 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71832",
+  "published": "2026-08-24T19:16:50.543",
+  "summary": "Aria2 version 1.37.0 and below is affected by a Divide By Zero issue in src/bittorrent_helper.cc, which allows a remote malicious user to cause a Denial of Service",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71832",
+   "cvss": null,
+   "ref": "https://github.com/aria2/aria2/issues/2371"
+  },
+  "title_vi": "",
+  "key": "ff40c3aeaa0b8bb0e1452a4e1334ea9b6a8f03a9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75370 — An out-of-bounds read/write vulnerability in the MessageParser::parseECSSTCHeader component of SpaceDot AcubeSAT OBC software commit eaf90ec allows at",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75370",
+  "published": "2026-08-24T19:16:58.183",
+  "summary": "An out-of-bounds read/write vulnerability in the MessageParser::parseECSSTCHeader component of SpaceDot AcubeSAT OBC software commit eaf90ec allows attackers to cause a Denial of Service (DoS) via supplying a crafted CAN message.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75370",
+   "cvss": null,
+   "ref": "https://github.com/dazuo233/cve/issues/5"
+  },
+  "title_vi": "",
+  "key": "4751ddbf61a66718bb5c232707c6f02344d31760"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75371 — An integer handling flaw in the cobs_decode function of SpaceDot AcubeSAT OBC software commit eaf90ec allows physically-proximate attackers with UART ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75371",
+  "published": "2026-08-24T19:16:58.310",
+  "summary": "An integer handling flaw in the cobs_decode function of SpaceDot AcubeSAT OBC software commit eaf90ec allows physically-proximate attackers with UART access to cause a Denial of Service (DoS) via a crafted input.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75371",
+   "cvss": null,
+   "ref": "https://github.com/dazuo233/cve/issues/6"
+  },
+  "title_vi": "",
+  "key": "3f052bdac66e43210faa982dd0feb8d4b4636419"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78417 — Insufficient verification of data authenticity in the IronVNC client in Devolutions Remote Desktop Manager 2026",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78417",
+  "published": "2026-08-24T19:17:04.420",
+  "summary": "Insufficient verification of data authenticity in the IronVNC client in Devolutions Remote Desktop Manager 2026.2.17.0 and earlier, 2026.1.24.0 and earlier, allows an on-path attacker to intercept and tamper with VNC sessions via automatic acceptance of the server's RSA key during RSA-AES authentication.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78417",
+   "cvss": null,
+   "ref": "https://devolutions.net/security/advisories/DEVO-2026-0029/"
+  },
+  "title_vi": "",
+  "key": "700d4a591b73ae91e15196b8f25df21fb8607767"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78541 — A stored OS command injection vulnerability exists in the parent-control module of TP-Link Archer BE3600 V1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78541",
+  "published": "2026-08-24T19:17:04.553",
+  "summary": "A stored OS\ncommand injection vulnerability exists in the parent-control module of TP-Link\nArcher BE3600 V1. An authenticated adjacent attacker with administrative access\nmay store a crafted profile name containing shell metacharacters, which is\nlater processed unsafely during daily cloud report generation and may result in\narbitrary command execution.\n\n\n\n\n\nSuccessful\nexploitation may allow command execution on the affected device with potential\nimpact to device confidentiality, integrity, and availability.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78541",
+   "cvss": null,
+   "ref": "https://www.tp-link.com/en/support/download/archer-be3600/v1/#Firmware"
+  },
+  "title_vi": "",
+  "key": "4f9f1fba04c8fad486986ccbf84777dabe486120"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2020-37268 — Print Assumptions does not report that a definition was produced while universe checking was disabled when that definition reaches the caller through ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-37268",
+  "published": "2026-08-24T20:16:40.560",
+  "summary": "Print Assumptions does not report that a definition was produced while universe checking was disabled when that definition reaches the caller through Parameter Inline in a module type. Applying a functor inlines the body of the parameter, and the inlining drops the record that the term was built under Unset Universe Checking, so the resulting constant carries no trace of the unsafe operation. A module implementation can therefore prove False using a universe inconsistency, expose it through an inlined parameter, and have Print Assumptions report the dependent proof as closed under the global c",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-37268",
+   "cvss": 6.3,
+   "ref": "https://github.com/endrazine/rocq-cve-poc-12155"
+  },
+  "title_vi": "",
+  "key": "2a00964e48b2404f1a35835a470cba4fa4d3c91d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-61419 — Dell ThinOS 10, versions prior to 2605_10",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-61419",
+  "published": "2026-08-24T20:16:51.990",
+  "summary": "Dell ThinOS 10, versions prior to 2605_10.2518, contain an Improper Access Control vulnerability. A low privileged attacker with local access could potentially exploit this vulnerability, leading to Unauthorized access.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-61419",
+   "cvss": 7.8,
+   "ref": "https://www.dell.com/support/kbdoc/en-us/000496575/dsa-2026-350-security-update-for-dell-thinos-10-for-multiple-vulnerabilities"
+  },
+  "title_vi": "",
+  "key": "bf350d648ca6b39a50ec69eddc52359b21125705"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-63693 — Dell Client BIOS contains an Improper Link Resolution Before File Access ('Link Following') vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63693",
+  "published": "2026-08-24T20:16:55.677",
+  "summary": "Dell Client BIOS contains an Improper Link Resolution Before File Access ('Link Following') vulnerability. A low privileged attacker with local access could potentially exploit this vulnerability, leading to Arbitrary Write",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-63693",
+   "cvss": 6.6,
+   "ref": "https://www.dell.com/support/kbdoc/en-us/000501826/dsa-2026-280-security-update-for-dell-client-platform-bios-for-an-improper-link-resolution-before-file-access-link-following-vulnerability"
+  },
+  "title_vi": "",
+  "key": "ba80300984b3aa12b9569914610f2ecc8469f8be"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71510 — Dolibarr before 24",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71510",
+  "published": "2026-08-24T20:17:12.957",
+  "summary": "Dolibarr before 24.0.0 contains a SQL injection vulnerability in the users REST API that allows authenticated attackers with user-read rights to extract sensitive data by splicing unsanitized filter parameters into SQL WHERE clauses without column restrictions. Attackers can perform binary search on numeric fields and LIKE prefix iteration on string fields to recover salary figures and password verifiers omitted from normal API responses, while raw database error messages in the same endpoint enable column name enumeration.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71510",
+   "cvss": 6.5,
+   "ref": "https://codeant.ai/security-research/cve-2026-71510-blind-column-extraction-via-sqlfilters"
+  },
+  "title_vi": "",
+  "key": "4b11d7c1080e03192f830ca8d375b7e00ca4fca3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71511 — Dolibarr before 24",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71511",
+  "published": "2026-08-24T20:17:13.420",
+  "summary": "Dolibarr before 24.0.0 contains a sensitive data exposure vulnerability in the Members REST API that allows authenticated attackers with member-read rights to retrieve bcrypt password verifiers by querying member endpoints. Attackers can call the individual member or member list endpoints to obtain crypted password verifier fields that are not filtered by the base API serializer or the Members API class, potentially enabling offline password cracking attacks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71511",
+   "cvss": 6.5,
+   "ref": "https://codeant.ai/security-research/cve-2026-71511-dolibarr-members-api-exposes-password-hashes"
+  },
+  "title_vi": "",
+  "key": "3447bf5032658f33d9c0befe94dd2f26df3d1fba"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-72703 — The guard checker in Rocq Prover treats a parameter of a nested mutual fixpoint as uniform without examining calls between the different bodies of tha",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72703",
+  "published": "2026-08-24T20:17:18.240",
+  "summary": "The guard checker in Rocq Prover treats a parameter of a nested mutual fixpoint as uniform without examining calls between the different bodies of that fixpoint. find_uniform_parameters in kernel/inductive.ml inspects only self-recursive calls, so when no body calls itself the function concludes that every parameter is uniform. A parameter that grows through a cross-call from one body to another therefore keeps the subterm specification it inherited from the enclosing fixpoint, and a recursive call guarded by that specification is accepted although the argument is not structurally smaller. A n",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-72703",
+   "cvss": 6.3,
+   "ref": "https://github.com/endrazine/rocq-cve-poc-21682"
+  },
+  "title_vi": "",
+  "key": "e938781b0bf39a7167efc5f8de294dfdc2ee12be"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-72704 — The guard checker in Rocq Prover does not recheck the recursive tree representation of an inductive type parameter after that parameter has been chang",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72704",
+  "published": "2026-08-24T20:17:18.390",
+  "summary": "The guard checker in Rocq Prover does not recheck the recursive tree representation of an inductive type parameter after that parameter has been changed by transport. A fixpoint may apply a rewrite along an equality between types to its recursive argument, which the guard checker accepts because the inductive type is preserved, while the recursive tree recorded for the parameter is altered. A second fixpoint that calls the first inherits the altered recursive tree without verification, so a call that is not structurally decreasing is accepted as terminating. The resulting non-terminating defin",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-72704",
+   "cvss": 6.3,
+   "ref": "https://github.com/endrazine/rocq-cve-poc-22024"
+  },
+  "title_vi": "",
+  "key": "fd7b12c644f61b80961e82461996ba6097a17481"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-72705 — The guard checker in Rocq Prover does not follow recursive calls made through a fixpoint's own arguments",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72705",
+  "published": "2026-08-24T20:17:18.520",
+  "summary": "The guard checker in Rocq Prover does not follow recursive calls made through a fixpoint's own arguments. A fixpoint may pass itself as a higher-order argument to a second fixpoint, which then applies it to a value that is not a subterm of the structural argument. Passing the recursive function to a plain definition is rejected because the checker unfolds the definition and observes the call, but passing it to a fixpoint is accepted because higher-order recursive calls through fixpoint arguments are not tracked. This admits a type that is definitionally equal to its own negation, so self-appli",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-72705",
+   "cvss": 6.3,
+   "ref": "https://github.com/endrazine/rocq-cve-poc-21683"
+  },
+  "title_vi": "",
+  "key": "a140f5e80bc65c62e0176a29af7ec47e2ffeec6c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-72711 — The Lean 4 kernel does not check that the body of an opaque declaration is closed",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72711",
+  "published": "2026-08-24T20:17:18.657",
+  "summary": "The Lean 4 kernel does not check that the body of an opaque declaration is closed. environment::add_opaque omits the check_no_metavar_no_fvar call that the definition and theorem paths perform, so a value containing a free variable that is absent from the local context is not rejected outright. A metaprogram can first cause the kernel to create a temporary local of type False and record its type in the type checker's inference cache, then restore the local context while that cache entry persists on the same type checker instance, and finally submit an opaque declaration whose value is the now-",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-72711",
+   "cvss": 6.3,
+   "ref": "https://github.com/endrazine/lean-cve-poc-14484"
+  },
+  "title_vi": "",
+  "key": "3b4115fa0af6d65d9719e33b68da1897a06321d2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-72714 — Rocq Prover does not restore the universe graph's copy of the universe checking flag when a module that locally disabled the check is closed",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72714",
+  "published": "2026-08-24T20:17:18.810",
+  "summary": "Rocq Prover does not restore the universe graph's copy of the universe checking flag when a module that locally disabled the check is closed. Local Unset Universe Checking inside a module is expected to last only until the module ends, and the global flag is restored, but the universe graph keeps its own copy which is left disabled. The two views then disagree: Test Universe Checking reports the check as enabled while the kernel continues to accept universe-inconsistent terms. With the constraint between two universes no longer enforced, Hurkens' paradox applies and yields a proof of False, fr",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-72714",
+   "cvss": 6.3,
+   "ref": "https://github.com/endrazine/rocq-cve-poc-22287"
+  },
+  "title_vi": "",
+  "key": "5a1be5675dd309b3ad89cab1f5b25dd9ef5acc42"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75368 — A stack overflow in the loadRawData function of SpaceDot AcubeSAT OBC software commit eaf90ec allows attackers to cause a Denial of Service (DoS) via ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75368",
+  "published": "2026-08-24T20:17:18.963",
+  "summary": "A stack overflow in the loadRawData function of SpaceDot AcubeSAT OBC software commit eaf90ec allows attackers to cause a Denial of Service (DoS) via supplying a crafted ECSS TC message.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75368",
+   "cvss": null,
+   "ref": "https://github.com/dazuo233/cve/issues/3"
+  },
+  "title_vi": "",
+  "key": "ce5fc26fe1d707b7f2396bd115ca76d9b45fd6e5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75369 — An out-of-bounds read vulnerability in the CAN::Application::parsePerformFunctionMessage component of SpaceDot AcubeSAT OBC software commit eaf90ec al",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75369",
+  "published": "2026-08-24T20:17:19.073",
+  "summary": "An out-of-bounds read vulnerability in the CAN::Application::parsePerformFunctionMessage component of SpaceDot AcubeSAT OBC software commit eaf90ec allows attackers to cause a Denial of Service (DoS) via supplying a crafted CAN message.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75369",
+   "cvss": null,
+   "ref": "https://github.com/dazuo233/cve/issues/4"
+  },
+  "title_vi": "",
+  "key": "85a6354aff39a3f57b66be2e217d9886403e003c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75509 — joserfc is a Python library that provides an implementation of several JSON Object Signing and Encryption (JOSE) standards",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75509",
+  "published": "2026-08-24T20:17:19.183",
+  "summary": "joserfc is a Python library that provides an implementation of several JSON Object Signing and Encryption (JOSE) standards. Prior to version 1.7.3, JWTClaimsRegistry applies membership matching to list-valued iss and sub claims, allowing an array-valued iss that contains the expected issuer to pass an intended equality check and enabling issuer-validation bypass. This issue is fixed in version 1.7.3.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75509",
+   "cvss": 6.5,
+   "ref": "https://github.com/authlib/joserfc/commit/76ee6a59bf5773c0af00b99076c5e199031f97f1"
+  },
+  "title_vi": "",
+  "key": "01ccdf23b02768a2dfe79b190770c974bf8f92eb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-76098 — Mistune is a Python Markdown parser with renderers and plugins",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76098",
+  "published": "2026-08-24T20:17:19.330",
+  "summary": "Mistune is a Python Markdown parser with renderers and plugins. Versions 3.3.0 through 3.3.2 are vulnerable to DoS through deeply nested tokens. HTML rendering creates deeply nested emphasis tokens from consecutive asterisk characters, and recursive rendering in HTMLRenderer.render_token() can exceed Python's recursion limit and raise RecursionError, allowing crafted Markdown to crash a parsing process. This issue is fixed in version 3.3.3",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-76098",
+   "cvss": 7.5,
+   "ref": "https://github.com/lepture/mistune/commit/0938fb7"
+  },
+  "title_vi": "",
+  "key": "0f5046cddee308753f271ac130e2b3d5904d7de9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-76816 — Netty is an asynchronous, event-driven network application framework",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76816",
+  "published": "2026-08-24T20:17:19.477",
+  "summary": "Netty is an asynchronous, event-driven network application framework. Prior to versions 4.1.137.Final and 4.2.17.Final, MqttEncoder does not validate client identifiers, will topics, usernames, and PUBLISH topic names before encoding, allowing prohibited null bytes in MQTT UTF-8 string fields and potentially causing routing, access-control, or identity mismatches in downstream brokers. The vulnerability is exploitable when an application uses Netty's MQTT encoder to construct messages from user-controlled input. This issue is fixed in versions 4.1.137.Final and 4.2.17.Final.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-76816",
+   "cvss": 3.5,
+   "ref": "https://github.com/netty/netty/commit/1b5abc6443b63726c72cdd285af2feb7ddbb8ff7"
+  },
+  "title_vi": "",
+  "key": "d7e376220692bbb0c236fd29cbd4a9eaf1efbaad"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77310 — jackson-databind contains the general-purpose data-binding functionality and tree-model for Jackson Data Processor",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77310",
+  "published": "2026-08-24T20:17:20.977",
+  "summary": "jackson-databind contains the general-purpose data-binding functionality and tree-model for Jackson Data Processor. Prior to versions 2.18.9, 2.21.5, 2.22.1, 3.1.5, and 3.2.1 on their respective release lines, the java.net.InetAddress branch of FromStringDeserializer.Std._deserialize() calls InetAddress.getByName() on attacker-controlled input, causing eager DNS resolution during deserialization and enabling DNS-based server-side request forgery and internal-host enumeration. This issue is fixed in versions 2.18.9, 2.21.5, 2.22.1, 3.1.5, and 3.2.1.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77310",
+   "cvss": 5.3,
+   "ref": "https://github.com/FasterXML/jackson-databind/security/advisories/GHSA-vvgp-rfg2-7rr6"
+  },
+  "title_vi": "",
+  "key": "72190bf47113dd58f86e656430495b5da0d0dee2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77923 — Dolibarr 21",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77923",
+  "published": "2026-08-24T20:17:21.560",
+  "summary": "Dolibarr 21.0.0 before 24.0.0 contains an authorization bypass vulnerability caused by an inverted boolean condition in the private-project membership check within the clonetasks mass action handler in htdocs/core/actions_massactions.inc.php. Authenticated users with project creation permission but without access to a target private project can exploit the flawed !in_array() check to clone tasks into unauthorized private projects.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77923",
+   "cvss": 4.3,
+   "ref": "https://github.com/Dolibarr/dolibarr/commit/1730aa56675b31cfede895fdae55b673d887fb8f"
+  },
+  "title_vi": "",
+  "key": "2a7371c42748ce6bd34e995982ce451bb8aa191e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78430 — A vulnerability was detected in sworddut mcp-ffmpeg-helper 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78430",
+  "published": "2026-08-24T20:17:22.560",
+  "summary": "A vulnerability was detected in sworddut mcp-ffmpeg-helper 0.1.0/0.1.1/0.2.1. This affects the function handleToolCall of the file src/tools/handlers.ts of the component Tool Handler. The manipulation of the argument format results in os command injection. Attacking locally is a requirement. The exploit is now public and may be used. The project was informed of the problem early through an issue report but has not responded yet.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78430",
+   "cvss": 5.3,
+   "ref": "https://github.com/sworddut/mcp-ffmpeg-helper/"
+  },
+  "title_vi": "",
+  "key": "22aac3dcd5c3f272f54c46297d7be007f9f53381"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78551 — RansomLook contains multiple weaknesses in its authentication endpoint that allow an unauthenticated remote attacker to enumerate valid usernames, per",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78551",
+  "published": "2026-08-24T20:17:23.927",
+  "summary": "RansomLook contains multiple weaknesses in its authentication endpoint that allow an unauthenticated remote attacker to enumerate valid usernames, perform unrestricted password-guessing attacks, and potentially exhaust application worker resources.\n\nFor local authentication, the login implementation previously checked whether a submitted username existed before invoking the password hash verification function. Requests containing a nonexistent username therefore returned significantly faster than requests for valid accounts, for which the computationally expensive password verification routine",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78551",
+   "cvss": null,
+   "ref": "https://github.com/RansomLook/RansomLook/commit/8602740347b0e928ad9fbaf5bc6ff242337dec6b"
+  },
+  "title_vi": "",
+  "key": "771b900d92a69088e54e14a7c5c222cdbf3a5780"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78553 — RansomLook created its Flask session-signing key without explicitly restricting the file permissions",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78553",
+  "published": "2026-08-24T20:17:24.383",
+  "summary": "RansomLook created its Flask session-signing key without explicitly restricting the file permissions. The secret_key file was created using the process's default permissions and umask, resulting in permissions such as 0644 under a common 022 umask. Consequently, other local users able to access the RansomLook home directory could read the application's cryptographic secret.\n\n\nThe exposed key is security-critical because it is used to sign Flask session cookies and is also involved in the legacy API-key key derivation. An attacker who obtains the key can generate valid session cookies and imper",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78553",
+   "cvss": null,
+   "ref": "https://github.com/RansomLook/RansomLook/commit/df9d47edcf02dd0125db869d5bc19d93f426d892"
+  },
+  "title_vi": "",
+  "key": "7bdfbd2bf342bd9a303c3f95066b96cd77c07a00"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78555 — RansomLook exposed complete API keys in the HTML source of the authenticated /admin/apikeys administration page",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78555",
+  "published": "2026-08-24T20:17:24.850",
+  "summary": "RansomLook exposed complete API keys in the HTML source of the authenticated /admin/apikeys administration page. Although the interface displayed only a shortened representation of each key, the full token was embedded in hidden form fields used by the enable/disable, private-access, and delete actions.\n\n\nAs a result, API credentials could be recovered by inspecting the page source or DOM. The credentials could also be unintentionally exposed through components that retain or inspect HTTP response bodies, such as debugging proxies, browser caches, monitoring systems, or other intermediaries. A",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78555",
+   "cvss": null,
+   "ref": "https://github.com/RansomLook/RansomLook/commit/b358dfa4f40c677a47c602ebbb4473aeae349f5c"
+  },
+  "title_vi": "",
+  "key": "364b70c9104568fe6854ecd83057774c84f74cee"
+ },
+ {
   "source": "Báo Tin tức (TTXVN) KH-CN",
   "title": "Nghịch lý công nghệ: Dùng nhiều chưa chắc đã tin tưởng",
   "link": "https://baotintuc.vn/khoa-hoc-cong-nghe/nghich-ly-cong-nghe-dung-nhieu-chua-chac-da-tin-tuong-20260804170605799.htm",
