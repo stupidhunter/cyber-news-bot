@@ -1,5 +1,618 @@
 [
  {
+  "source": "Thanh Niên Công nghệ",
+  "title": "H&agrave;ng loạt mẫu điện thoại Motorola phổ biến sắp dừng cập nhật phần mềm",
+  "link": "https://thanhnien.vn/hang-loat-mau-dien-thoai-motorola-pho-bien-sap-dung-cap-nhat-phan-mem-185260824095850538.htm",
+  "published": "2026-08-24T03:25:00+00:00",
+  "summary": "Nhiều d&ograve;ng smartphone Motorola từ gi&aacute; rẻ đến cao cấp sẽ ch&iacute;nh thức dừng nhận cập nhật hệ điều h&agrave;nh v&agrave; bảo mật trong năm nay.",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "c18f781cafde3d8deecef8646a75cabe265329bb"
+ },
+ {
+  "source": "GenK",
+  "title": "Danh sách các dòng điện thoại Android có thể bị hack chỉ bằng một cuộc gọi video: Hãy kiểm tra ngay!",
+  "link": "https://genk.vn/danh-sach-cac-dong-dien-thoai-android-co-the-bi-hack-chi-bang-mot-cuoc-goi-video-hay-kiem-tra-ngay-165260824074011537.chn",
+  "published": "2026-08-24T04:41:27.178652+00:00",
+  "summary": "Các chuyên gia đã phát hiện ra lỗ hổng nghiêm trọng.",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "53f5959ee753ed32770a0d8375e33c9d51a0a3f9"
+ },
+ {
+  "source": "Znews Công nghệ",
+  "title": "Điện thoại kiêm máy đọc sách thành xu hướng",
+  "link": "https://znews.vn/xu-huong-dung-dien-thoai-doc-la-dang-gay-sot-post1678802.html",
+  "published": "2026-08-24T02:58:09+00:00",
+  "summary": "Nhờ sự bùng nổ của AI, trào lưu biến mặt lưng điện thoại thành màn hình E-ink phụ đang bất ngờ gây sốt trở lại.",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "85d46a54225e1bd6b5f49caece65a05d091b9f8a"
+ },
+ {
+  "source": "Znews Công nghệ",
+  "title": "Xiaomi chuyển hướng",
+  "link": "https://tech.zingnews.vn/xiaomi-chuyen-huong-post1678811.html",
+  "published": "2026-08-24T01:16:20+00:00",
+  "summary": "Khi lĩnh vực smartphone gặp nhiều biến động, Xiaomi buộc phải tìm kiếm động lực tăng trưởng mới từ ôtô, AI và robot.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "f8a5b8c61e6864dbc1e8c877cbcef19130877853"
+ },
+ {
+  "source": "Znews Công nghệ",
+  "title": "Thủ đoạn giả danh Thủ tướng Singapore để lừa đảo",
+  "link": "https://tech.zingnews.vn/vach-tran-thu-doan-mao-danh-thu-tuong-singapore-bang-ai-de-lua-dao-post1678704.html",
+  "published": "2026-08-23T09:15:59+00:00",
+  "summary": "Kẻ gian cắt ghép video cũ, lồng tiếng AI và tạo phòng họp Zoom mạo danh Thủ tướng Singapore cùng nhiều quan chức, lừa nạn nhân chuyển gần 4 triệu USD.",
+  "categories": [
+   "ai",
+   "breach",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "1f27d4da543f6fa54922ba83d020bf9f335a48b7"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78157 — A vulnerability was detected in Open5GS 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78157",
+  "published": "2026-08-24T01:16:56.817",
+  "summary": "A vulnerability was detected in Open5GS 2.8.0. This affects the function pcrf_rx_aar_cb of the file src/pcrf/pcrf-rx-path.c of the component Rx AA-Request Handler. Performing a manipulation results in out-of-bounds read. It is possible to initiate the attack remotely. The patch is named c18dc6938bf63cc7374315d3dca303d92066e746. To fix this issue, it is recommended to deploy a patch.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78157",
+   "cvss": 7.4,
+   "ref": "https://github.com/open5gs/open5gs/"
+  },
+  "title_vi": "CVE-2026-78157 — Một lỗ hổng đã được phát hiện trong Open5GS 2",
+  "key": "58f8eceba9edf22d255bb107e9fc7ef741e85db0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78158 — A flaw has been found in Open5GS 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78158",
+  "published": "2026-08-24T01:16:56.990",
+  "summary": "A flaw has been found in Open5GS 2.8.0. This vulnerability affects unknown code of the component AMF UEContextReleaseRequest Path Handler. Executing a manipulation can lead to improper authorization. It is possible to launch the attack remotely.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78158",
+   "cvss": 6.3,
+   "ref": "https://github.com/open5gs/open5gs/"
+  },
+  "title_vi": "CVE-2026-78158 — Một lỗ hổng đã được tìm thấy trong Open5GS 2",
+  "key": "9e9d14223b970e3becfd642cca36d56e20ec1a16"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78160 — A vulnerability has been found in Dolibarr ERP up to 18",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78160",
+  "published": "2026-08-24T01:16:57.180",
+  "summary": "A vulnerability has been found in Dolibarr ERP up to 18.0.10/22.0.5/23.0.3. This issue affects some unknown processing of the file /user/note.php of the component User Notes Handler. The manipulation of the argument ID leads to authorization bypass. The attack can be initiated remotely. Upgrading to version 23.0.4 and 24.0.0 is capable of addressing this issue. The identifier of the patch is 9b5229ef3a9b58d00252d327936b022fb739f149. Upgrading the affected component is advised.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78160",
+   "cvss": 6.3,
+   "ref": "https://github.com/Dolibarr/dolibarr/commit/9b5229ef3a9b58d00252d327936b022fb739f149"
+  },
+  "title_vi": "CVE-2026-78160 — Một lỗ hổng đã được tìm thấy trong Dolibarr ERP lên đến 18",
+  "key": "a87e7756d8bb1d5d6c8ca93bef84af2672445190"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78161 — A vulnerability was found in warmcat libwebsockets 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78161",
+  "published": "2026-08-24T01:16:57.360",
+  "summary": "A vulnerability was found in warmcat libwebsockets 4.5.0. Impacted is the function report_raw_cbor of the file lib/misc/lecp.c of the component LECP CBOR Recording. The manipulation results in out-of-bounds write. The attack can be launched remotely. The exploit has been made public and could be used. The patch is identified as 1d44554a1bb262db63ff4e240152a9deecd99054. It is best practice to apply a patch to resolve this issue.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78161",
+   "cvss": 7.3,
+   "ref": "https://github.com/biniamf/pocs/blob/main/libwebsockets-lecp-lecp_parse-cbor_pos_oob_write/poc_lecp_cbor_pos_oob.c"
+  },
+  "title_vi": "CVE-2026-78161 — Một lỗ hổng đã được tìm thấy trong warmcat libwebsockets 4",
+  "key": "fb38a902548fe6f2ea8f626937906e4471799de5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78203 — Ghostwriter before 7",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78203",
+  "published": "2026-08-24T01:16:57.530",
+  "summary": "Ghostwriter before 7.1.2 fails to validate template ownership in the report template swap endpoint, allowing attackers to attach client-scoped templates from other clients to their own reports. Attackers can exploit sequential template primary keys to enumerate and attach foreign templates, then generate reports to disclose template contents including letterhead, boilerplate, and methodology text.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78203",
+   "cvss": 7.1,
+   "ref": "https://github.com/GhostManager/Ghostwriter"
+  },
+  "title_vi": "CVE-2026-78203 — Ghostwriter trước 7 tuổi",
+  "key": "7904efa654e18df8f9c925872bca5c10fcc52364"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78204 — Ghostwriter through 7",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78204",
+  "published": "2026-08-24T01:16:57.677",
+  "summary": "Ghostwriter through 7.2.6 does not apply per-object authorization on its report template lint endpoints. RoleBasedAccessControlMixin.test_func returns only request.user.is_active unless a view overrides it, and neither the endpoint that lints a report template nor the endpoint that returns stored lint results provides an override, so each resolves a ReportTemplate from a caller-supplied primary key with no ownership or client-scope check. Any authenticated account can therefore lint an arbitrary template, which overwrites that template's stored lint result, and can read the returned findings, ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78204",
+   "cvss": 5.4,
+   "ref": "https://github.com/GhostManager/Ghostwriter"
+  },
+  "title_vi": "CVE-2026-78204 — Ghostwriter qua 7",
+  "key": "61296843026bcd95d7402190d1b6ff2b626c2e73"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78205 — BentoML's outbound connection safeguard (make_safe_connect in _internal/utils/uri",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78205",
+  "published": "2026-08-24T01:16:57.823",
+  "summary": "BentoML's outbound connection safeguard (make_safe_connect in _internal/utils/uri.py) blocks private, loopback, and link-local IP addresses but fails to reject the RFC 6598 shared address space (100.64.0.0/10, CGNAT). In versions 1.4.19 through 1.4.39, an unauthenticated attacker can supply URLs pointing to that range via multipart file handling (MultipartSerde.ensure_file) or JSON request parsing (JSONSerde.parse_request), causing the server to make outbound requests to internal hosts on CGNAT networks (Server-Side Request Forgery). This is an incomplete fix for CVE-2025-54381.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78205",
+   "cvss": 5.8,
+   "ref": "https://github.com/bentoml/BentoML"
+  },
+  "title_vi": "CVE-2026-78205 — Bảo vệ kết nối đi của BentoML (make_safe_connect in _internal/utils/URI",
+  "key": "95333c34aa5be7cedf54cf4ba7345b1d09539c3b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78206 — exceljs-hardened before 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78206",
+  "published": "2026-08-24T01:16:57.973",
+  "summary": "exceljs-hardened before 5.0.0 decompresses all entries from supplied xlsx archives into memory without limits on entry size, total size, or compression ratio. Attackers can upload highly compressed workbooks that expand to gigabytes in memory, exhausting available resources and causing denial of service.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78206",
+   "cvss": 7.5,
+   "ref": "https://github.com/exceljs/exceljs"
+  },
+  "title_vi": "CVE-2026-78206 — exceljs-cứng trước 5",
+  "key": "e555f07a638a1fd562abbd93157fcc13a71ee4eb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78207 — exceljs-hardened before 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78207",
+  "published": "2026-08-24T01:16:58.137",
+  "summary": "exceljs-hardened before 5.0.0 contains a prototype pollution vulnerability in the deepMerge helper that fails to reject __proto__, constructor, or prototype keys when merging note objects. Attackers can assign parsed JSON with a malicious __proto__ property to cell notes, modifying Object.prototype and affecting all plain objects created in the process.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78207",
+   "cvss": 9.4,
+   "ref": "https://github.com/exceljs/exceljs"
+  },
+  "title_vi": "CVE-2026-78207 — exceljs-cứng trước 5",
+  "key": "d6606720b66e633145da4ede2ffce1f1e2e72018"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78208 — exceljs-hardened before 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78208",
+  "published": "2026-08-24T01:16:58.280",
+  "summary": "exceljs-hardened before 5.0.0 contains a path traversal vulnerability in the Workbook.addImage() function that fails to validate file paths. Attackers can supply arbitrary file paths to read any file accessible to the Node.js process and embed it in the generated workbook.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78208",
+   "cvss": 7.5,
+   "ref": "https://github.com/exceljs/exceljs"
+  },
+  "title_vi": "CVE-2026-78208 — exceljs-cứng trước 5",
+  "key": "af172dd7a3ea91d047b0fa61fe44f9137979f705"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78209 — exceljs-hardened versions before 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78209",
+  "published": "2026-08-24T01:16:58.423",
+  "summary": "exceljs-hardened versions before 5.0.0 fail to neutralize leading equals, plus, minus, or at signs in cell values written to CSV output. Attackers who can influence exported cell values can inject formulas that execute when the CSV file is opened in a spreadsheet application, potentially exfiltrating data or performing other malicious actions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78209",
+   "cvss": 8.2,
+   "ref": "https://github.com/exceljs/exceljs"
+  },
+  "title_vi": "CVE-2026-78209 - phiên bản cải tiến vượt trội trước 5",
+  "key": "15661d3afffa21f28cc8de8e2a4663f1619c70a0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78166 — A security flaw has been discovered in provectus kafka-ui up to 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78166",
+  "published": "2026-08-24T02:17:04.120",
+  "summary": "A security flaw has been discovered in provectus kafka-ui up to 0.7.2. The affected element is the function executeSmartFilterTest of the file kafka-ui-api/src/main/java/com/provectus/kafka/ui/controller/MessagesController.java of the component Groovy Code Handler. The manipulation results in code injection. The attack may be launched remotely. The exploit has been released to the public and may be used for attacks. The project was informed of the problem early through an issue report but has not responded yet.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78166",
+   "cvss": 6.3,
+   "ref": "https://github.com/provectus/kafka-ui/"
+  },
+  "title_vi": "CVE-2026-78166 — Một lỗ hổng bảo mật đã được phát hiện trong provectus kafka-ui lên đến 0",
+  "key": "368798710259b52c1f1aa244ee88ffa1a7f23910"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78167 — A weakness has been identified in EFM ipTIME T16000M 14",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78167",
+  "published": "2026-08-24T02:17:04.300",
+  "summary": "A weakness has been identified in EFM ipTIME T16000M 14.20.2. The impacted element is the function httpcon_check_session_url of the component Session Validation Handler. This manipulation causes improper authentication. Remote exploitation of the attack is possible. The exploit has been made available to the public and could be used for attacks. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78167",
+   "cvss": 10.0,
+   "ref": "https://github.com/AdminSafe/CVE/issues/2"
+  },
+  "title_vi": "CVE-2026-78167 — Một điểm yếu đã được xác định trong EFM ipTIME T16000M 14",
+  "key": "8f29b7490a6fe3a46c426f7531d713e8fd748a66"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78168 — A security vulnerability has been detected in EFM ipTIME T24000M up to 14",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78168",
+  "published": "2026-08-24T02:17:04.480",
+  "summary": "A security vulnerability has been detected in EFM ipTIME T24000M up to 14.20.0. This affects the function httpcon_check_session_url of the component Session Validation Handler. Such manipulation leads to improper authentication. The attack can be executed remotely. The exploit has been disclosed publicly and may be used. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78168",
+   "cvss": 9.8,
+   "ref": "https://github.com/AdminSafe/CVE/issues/10"
+  },
+  "title_vi": "CVE-2026-78168 — Một lỗ hổng bảo mật đã được phát hiện trong EFM ipTIME T24000M lên đến 14",
+  "key": "2cbb5d05b3aacfde0cf2d817f77b449c019d59f2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78169 — A vulnerability was detected in UTT HiPER 1250GW up to 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78169",
+  "published": "2026-08-24T02:17:04.650",
+  "summary": "A vulnerability was detected in UTT HiPER 1250GW up to 3.2.7-210907-180535. This impacts the function strcpy of the file /goform/aspRemoteApConfTempSend of the component HTTP Request Handler. Performing a manipulation of the argument Profile results in stack-based buffer overflow. The attack is possible to be carried out remotely. The exploit is now public and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78169",
+   "cvss": 9.9,
+   "ref": "https://github.com/7wkajk/CVE-VUL/blob/main/107.md"
+  },
+  "title_vi": "CVE-2026-78169 — Một lỗ hổng đã được phát hiện trong UTT HiPER 1250GW lên đến 3",
+  "key": "5b92a479de573f228eb97a39ff6ec86ceab2b74f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78170 — A flaw has been found in UTT HiPER 1200GW up to 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78170",
+  "published": "2026-08-24T02:17:04.817",
+  "summary": "A flaw has been found in UTT HiPER 1200GW up to 2.5.3-170306. Affected is the function strcpy of the file /goform/formConfigFastDirectionW. Executing a manipulation of the argument ssid can lead to buffer overflow. The attack may be performed from remote. The exploit has been published and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78170",
+   "cvss": 8.8,
+   "ref": "https://github.com/7wkajk/CVE-VUL/blob/main/108.md"
+  },
+  "title_vi": "CVE-2026-78170 — Một lỗ hổng đã được tìm thấy trong UTT HiPER 1200GW lên đến 2",
+  "key": "567c878622d4653e211ec26d48d4bd6d5cda2e92"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78171 — A vulnerability has been found in itsourcecode Sales and Inventory System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78171",
+  "published": "2026-08-24T03:16:39.423",
+  "summary": "A vulnerability has been found in itsourcecode Sales and Inventory System 1.0. Affected by this vulnerability is an unknown functionality of the file /pages/processlogin.php. The manipulation of the argument User leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78171",
+   "cvss": 7.3,
+   "ref": "https://github.com/MounT1veR/new/issues/1"
+  },
+  "title_vi": "CVE-2026-78171 — Một lỗ hổng đã được tìm thấy trong Hệ thống bán hàng và kiểm kê mã nguồn 1",
+  "key": "2729d84f4ca88a03654b9e5223326bcec68d8c69"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78177 — A vulnerability was found in TanStack devtools-vite 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78177",
+  "published": "2026-08-24T03:16:40.473",
+  "summary": "A vulnerability was found in TanStack devtools-vite 0.7.0. Affected by this issue is the function installPackage of the file packages/devtools-bundler-core/src/package-manager.ts of the component Development Devtools Event Bus. The manipulation of the argument packageName results in os command injection. Attacking locally is a requirement. A high complexity level is associated with this attack. The exploitation is known to be difficult. The exploit has been made public and could be used. The project was informed of the problem early through an issue report but has not responded yet.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78177",
+   "cvss": 4.5,
+   "ref": "https://github.com/TanStack/devtools/issues/464"
+  },
+  "title_vi": "CVE-2026-78177 — Một lỗ hổng đã được tìm thấy trong devtools-vite 0 của TanStack",
+  "key": "1aacd7267b2ab0498a38936f311d9b02f0761a99"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78178 — A vulnerability was determined in jQWidgets up to 24",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78178",
+  "published": "2026-08-24T03:16:40.650",
+  "summary": "A vulnerability was determined in jQWidgets up to 24.0.1. This affects the function JQXLite.extend/jqxBaseFramework.extend of the file jqwidgets/jqx-all.js. This manipulation causes improperly controlled modification of object prototype attributes. The attack can be initiated remotely. The reported GitHub issue was closed with the label \"not planned\".",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78178",
+   "cvss": 7.3,
+   "ref": "https://github.com/jqwidgets/jQWidgets/"
+  },
+  "title_vi": "CVE-2026-78178 — Một lỗ hổng được xác định trong jQWidgets lên đến 24",
+  "key": "92834d9f29f017b10654d77332640f89b2584786"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-19200 — The Velociraptor verify() VQL function allows a user to verify an artifact for syntatic and other issues",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19200",
+  "published": "2026-08-24T04:16:46.557",
+  "summary": "The Velociraptor verify() VQL function allows a user to verify an artifact for syntatic and other issues. Due to an implementation fault in this VQL function, the global artifact repository is used which allows callers to overwrite existing artifacts without the required permissions.  The attacker need only have the NOTEBOOK_EDIT permission (e.g. an analyst role) to be able to call this function.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-19200",
+   "cvss": 8.9,
+   "ref": "http://docs.velociraptor.app/announcements/advisories/cve-2026-19200/"
+  },
+  "title_vi": "CVE-2026-19200 — Chức năng Velociraptor verify() VQL cho phép người dùng xác minh một tạo tác cho các vấn đề cú pháp và các vấn đề khác",
+  "key": "e79b8fee0fa50493427ad874edffabc13d3419ab"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-19852 — NewSiteServer (NSS) developed by CyberTutor has an Arbitrary File Upload vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19852",
+  "published": "2026-08-24T04:16:57.517",
+  "summary": "NewSiteServer (NSS) developed by CyberTutor has an Arbitrary File Upload vulnerability. Unauthenticated remote attackers can upload arbitrary files, including malicious HTML files, thereby achieving effects similar to cross-site scripting.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-19852",
+   "cvss": 6.1,
+   "ref": "https://www.twcert.org.tw/en/cp-139-11120-64c52-2.html"
+  },
+  "title_vi": "CVE-2026-19852 — NewSiteServer (NSS) do CyberTutor phát triển có lỗ hổng Tải lên Tệp Tùy ý",
+  "key": "a68168a7e35c4b34e62134f58538d0dd15724a71"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-19853 — NewSiteServer (NSS) developed by CyberTutor has a Missing Authentication vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19853",
+  "published": "2026-08-24T04:16:57.710",
+  "summary": "NewSiteServer (NSS) developed by CyberTutor has a Missing Authentication vulnerability. Unauthenticated remote attackers can exploit a specific functionality to send emails to anyone on behalf of the school.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-19853",
+   "cvss": 5.3,
+   "ref": "https://www.twcert.org.tw/en/cp-139-11121-51e56-2.html"
+  },
+  "title_vi": "CVE-2026-19853 — NewSiteServer (NSS) do CyberTutor phát triển có lỗ hổng Thiếu xác thực",
+  "key": "cbff25a1ae437003b0a9d288cee662346552eb08"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78179 — A vulnerability was identified in rexrainbow phaser3-rex-notes up to 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78179",
+  "published": "2026-08-24T04:16:57.890",
+  "summary": "A vulnerability was identified in rexrainbow phaser3-rex-notes up to 1.80.17. This vulnerability affects the function SetValue of the file plugins/utils/object/SetValue.js of the component BehaviorTree Blackboard Data Interface. Such manipulation of the argument key leads to improperly controlled modification of object prototype attributes. The attack can be launched remotely.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78179",
+   "cvss": 6.3,
+   "ref": "https://github.com/rexrainbow/phaser3-rex-notes/"
+  },
+  "title_vi": "CVE-2026-78179 - Một lỗ hổng bảo mật đã được xác định trong ghi chú phaser3-rex của rexrainbow lên đến 1",
+  "key": "433e102a5fa73b9cf22a397bf01267cf576e77f9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78180 — A security flaw has been discovered in alibaba-fusion next up to 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78180",
+  "published": "2026-08-24T04:16:58.647",
+  "summary": "A security flaw has been discovered in alibaba-fusion next up to 1.27.34. This issue affects the function ConfigProvider.getContextProps of the file components/dialog/index.tsx of the component deepMerge. Performing a manipulation of the argument locale results in improperly controlled modification of object prototype attributes. The attack may be initiated remotely. The reported GitHub issue was closed automatically due to inactivity.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78180",
+   "cvss": 7.3,
+   "ref": "https://github.com/alibaba-fusion/next/"
+  },
+  "title_vi": "CVE-2026-78180 — Một lỗ hổng bảo mật đã được phát hiện trong alibaba-fusion tiếp theo lên đến 1",
+  "key": "9e69c8ab92055d01f41a800b2514f98fa1a29294"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78181 — A weakness has been identified in ractivejs ractive up to 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78181",
+  "published": "2026-08-24T04:16:58.847",
+  "summary": "A weakness has been identified in ractivejs ractive up to 1.4.4. Impacted is the function Ractive#set of the component Keypath Handler. Executing a manipulation can lead to improperly controlled modification of object prototype attributes. The attack may be launched remotely. The exploit has been made available to the public and could be used for attacks. The project was informed of the problem early through an issue report but has not responded yet.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78181",
+   "cvss": 7.3,
+   "ref": "https://github.com/ractivejs/ractive/"
+  },
+  "title_vi": "CVE-2026-78181 — Một điểm yếu đã được xác định trong ractivejs ractive lên đến 1",
+  "key": "dffe4eb258ac475b3d499ec9ef96e12f2ac5978d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78182 — A security vulnerability has been detected in Shenzhen Gongji Technology XBROTHER Dynamic Environment Monitoring System up to 300R004C00B300",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78182",
+  "published": "2026-08-24T04:16:59.040",
+  "summary": "A security vulnerability has been detected in Shenzhen Gongji Technology XBROTHER Dynamic Environment Monitoring System up to 300R004C00B300. The affected element is the function PlanController.getImmediatePlans of the file /xbreport/api/v1/plamange/plansImmediate. The manipulation of the argument order/sort leads to sql injection. Remote exploitation of the attack is possible. The exploit has been disclosed publicly and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78182",
+   "cvss": 7.3,
+   "ref": "https://ucn9h68n9289.feishu.cn/docx/WgJYd7q4CopTQKxqWuWcJEpinde?from=from_copylink"
+  },
+  "title_vi": "CVE-2026-78182 — Một lỗ hổng bảo mật đã được phát hiện trong Shenzhen Gongji Technology XBROTHER Dynamic Environment Monitoring System lên đến 300R004C00B300",
+  "key": "d4f6d6766b7d6a5ab9d3df4f179675ef37dbbda4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78185 — A vulnerability was detected in itsourcecode Sales and Inventory System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78185",
+  "published": "2026-08-24T04:16:59.297",
+  "summary": "A vulnerability was detected in itsourcecode Sales and Inventory System 1.0. The impacted element is an unknown function of the file /pages/cust_edit.php. The manipulation of the argument ID results in sql injection. The attack can be executed remotely. The exploit is now public and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78185",
+   "cvss": 6.3,
+   "ref": "https://github.com/ltranquility/vuln_submit/issues/27"
+  },
+  "title_vi": "CVE-2026-78185 - Một lỗ hổng đã được phát hiện trong Hệ thống bán hàng và kiểm kê mã nguồn 1",
+  "key": "0160ad71078a4c21b3c9f3cb1a74a2e775315b88"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78211 — 4MOSAn GCB Doctor developed by 4MOSAn Security Technology has a OS Command Injection vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78211",
+  "published": "2026-08-24T04:16:59.493",
+  "summary": "4MOSAn GCB Doctor developed by 4MOSAn Security Technology has a OS Command Injection vulnerability. Unauthenticated remote attackers can inject malicious commands through an unremoved ADOdb test page parameter, thereby executing arbitrary system commands on the server.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78211",
+   "cvss": 9.8,
+   "ref": "https://www.twcert.org.tw/en/cp-139-11122-3d95a-2.html"
+  },
+  "title_vi": "CVE-2026-78211 — 4MOSAn GCB Doctor do 4MOSAn Security Technology phát triển có lỗ hổng OS Command Injection",
+  "key": "c533d7ada51f5ef88957ffd334f86d3cfda2e760"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78212 — 4MOSAn developed by 4MOSAn Security Technology Co",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78212",
+  "published": "2026-08-24T04:16:59.660",
+  "summary": "4MOSAn developed by 4MOSAn Security Technology Co., Ltd. has an Arbitrary File Read vulnerability. Unauthenticated remote attackers can exploit a Relative Path Traversal flaw to download arbitrary system files.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78212",
+   "cvss": 7.5,
+   "ref": "https://www.twcert.org.tw/en/cp-139-11123-79a92-2.html"
+  },
+  "title_vi": "CVE-2026-78212 — 4MOSAn được phát triển bởi 4MOSAn Security Technology Co",
+  "key": "c727f3a1bc0359e3b67e301af1e3ec83fb8c0fdc"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78213 — Heptabase developed by Hepta Platforms, Inc",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78213",
+  "published": "2026-08-24T04:16:59.817",
+  "summary": "Heptabase developed by Hepta Platforms, Inc. has a Stored Cross-Site Scripting vulnerability. Authenticated remote attackers can inject persistent malicious content into specific pages, causing arbitrary JavaScript code to execute when other users click the crafted content.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78213",
+   "cvss": 8.7,
+   "ref": "https://www.twcert.org.tw/en/cp-139-11124-b8b51-2.html"
+  },
+  "title_vi": "CVE-2026-78213 — Heptabase được phát triển bởi Hepta Platforms, Inc",
+  "key": "6d8c3e8e4e4b4d25b31fa39cf7d9f5a196ec92a1"
+ },
+ {
   "source": "VietnamPlus Kinh tế số",
   "title": "Bản quyền trong kỷ nguyên AI: Khi quy định chưa theo kịp thực tế",
   "link": "https://www.vietnamplus.vn/ban-quyen-trong-ky-nguyen-ai-khi-quy-dinh-chua-theo-kip-thuc-te-post1132007.vnp",
@@ -24759,7 +25372,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Ngành công nghiệp chứng chỉ https loại bỏ các phương pháp xác thực tên miền kém an toàn hơn",
   "key": "5e14f0d2dcd282b96125c243df3e3485315567d1"
  },
  {
@@ -24773,7 +25386,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Làm cứng thêm GPU Android",
   "key": "b22cbe3ab64946a93169d6145a4b17f49ceb1c08"
  },
  {
@@ -24787,7 +25400,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Kiến trúc bảo mật cho khả năng tác nhân trong Chrome",
   "key": "fb505b8fd3f69cecfb4120c816565e57f5df3773"
  },
  {
@@ -24801,7 +25414,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Android mở rộng thí điểm bảo vệ chống lừa đảo trong cuộc gọi cho các ứng dụng tài chính",
   "key": "3d85e1a81820627f94ad3a79696fce03dce0b0d7"
  },
  {
@@ -24815,7 +25428,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Hỗ trợ chia sẻ nhanh Android cho AirDrop: Cách tiếp cận an toàn để chia sẻ tệp đa nền tảng",
   "key": "2daa731bceb1a90293fb737db6ecade21cea6d56"
  },
  {
@@ -29002,7 +29615,7 @@
    "due_date": "2026-03-26",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2023-43000 — Apple Multiple products Use-After-Free Vulnerability",
   "key": "69479e8245629c2c365c7e910511a5373a0a0170"
  },
  {
@@ -29965,7 +30578,7 @@
    "due_date": "2026-01-28",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2009-0556 — Lỗ hổng chèn mã Microsoft Office PowerPoint",
   "key": "151882a9b5e149efe498ea8449c6ad31dce0b768"
  },
  {
@@ -29985,7 +30598,7 @@
    "due_date": "2026-01-28",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-37164 — Lỗ hổng OneView Code Injection của Hewlett Packard Enterprise (HPE)",
   "key": "78e6ce086df9a2ec3154a68e129cc42dc3d2847e"
  },
  {
@@ -30005,7 +30618,7 @@
    "due_date": "2026-01-19",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-14847 - Máy chủ MongoDB và MongoDB Xử lý không đúng thông số độ dài Lỗ hổng không nhất quán",
   "key": "2c29f93760f81a99c156ccbd29a07d61733d9b7e"
  },
  {
@@ -30025,7 +30638,7 @@
    "due_date": "2026-01-12",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2023-52163 — Digiever DS-2105 Pro Thiếu lỗ hổng ủy quyền",
   "key": "9f9e461d51e4886b6df2df6a4bf77a549c2bf317"
  },
  {
@@ -30045,7 +30658,7 @@
    "due_date": "2025-12-26",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-14733 — WatchGuard Firebox Out of Bounds Viết lỗ hổng",
   "key": "ca0f021c36eb88518cbc5b838a623684c8220deb"
  },
  {
@@ -30065,7 +30678,7 @@
    "due_date": "2026-01-07",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-59374 — Lỗ hổng mã độc nhúng cập nhật ASUS LIVE",
   "key": "e4463f8c839bad67741808716975a0d2fac14025"
  },
  {
@@ -30085,7 +30698,7 @@
    "due_date": "2025-12-24",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-40602 — SonicWall SMA1000 Thiếu lỗ hổng ủy quyền",
   "key": "9b83cab3fc7e75df5826276af0207493f4e66d0a"
  },
  {
@@ -30105,7 +30718,7 @@
    "due_date": "2025-12-24",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-20393 - Lỗ hổng xác thực đầu vào không đúng cách của Cisco Multiple Products",
   "key": "5b4fb6061464c7a13204187444032dfd6c5d0c56"
  },
  {
@@ -30125,7 +30738,7 @@
    "due_date": "2025-12-23",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-59718 - Fortinet Nhiều sản phẩm Xác minh không đúng về lỗ hổng chữ ký mật mã",
   "key": "78a687614fc9da3bf6be1765a56f7720f64380e2"
  },
  {
@@ -30145,7 +30758,7 @@
    "due_date": "2026-01-05",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-14611 — Lỗ hổng mật mã mã hóa mã hóa cứng Gladinet CentreStack và Triofox",
   "key": "3c4d1ee3e3e26cd51ec012f806dfbfb8993dcf6c"
  },
  {
@@ -30165,7 +30778,7 @@
    "due_date": "2026-01-05",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-43529 — Lỗ hổng WebKit sử dụng nhiều sản phẩm của Apple",
   "key": "603c0e634a8cc1dfd55b99c2f986051cf2d347dd"
  },
  {
@@ -30185,7 +30798,7 @@
    "due_date": "2026-01-02",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2018-4063 — Sierra Wireless AirLink ALEOS Tải lên không giới hạn tệp có lỗ hổng loại nguy hiểm",
   "key": "1dc893281d505d34c0966a6347ac4b47a3175781"
  },
  {
@@ -30205,7 +30818,7 @@
    "due_date": "2026-01-02",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-14174 — Lỗ hổng Google Chromium Out of Bounds Memory Access",
   "key": "4847576b23d8c7f6abfd1ac761194d4e869539da"
  },
  {
@@ -30225,7 +30838,7 @@
    "due_date": "2026-01-01",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-58360 - OSGeo GeoServer Hạn chế không đúng đối với lỗ hổng tham chiếu thực thể bên ngoài XML",
   "key": "ab9e850027f78f78b100dcb748e7faff1e1845cf"
  },
  {
@@ -30245,7 +30858,7 @@
    "due_date": "2025-12-30",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-6218 — Lỗ hổng RARLAB WinRAR Path Traversal",
   "key": "68d908fcab47c1b7d20fd073192bd81067919e63"
  },
  {
@@ -30265,7 +30878,7 @@
    "due_date": "2025-12-30",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-62221 - Microsoft Windows sử dụng sau khi dễ bị tổn thương miễn phí",
   "key": "20a73de40cb97bdafd927daf76c17ebd4a6cde89"
  },
  {
@@ -30285,7 +30898,7 @@
    "due_date": "2025-12-29",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2022-37055 — Lỗ hổng tràn bộ định tuyến D-Link",
   "key": "22248fb4bd861aa18ad47c9dde690f7cd65ec214"
  },
  {
@@ -30305,7 +30918,7 @@
    "due_date": "2025-12-29",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-66644 — Mảng Mạng ArrayOS AG Hệ điều hành Lỗ hổng Tiêm Lệnh",
   "key": "4c37644eccbcd6f40ea4c1d1b8162b7a9c363f1d"
  },
  {
@@ -30325,7 +30938,7 @@
    "due_date": "2025-12-12",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-55182 - Lỗ hổng thực thi mã từ xa của các thành phần máy chủ Meta React",
   "key": "3b979abd3ce5ebcb80275f2b55a6c8645bdcaaee"
  },
  {
@@ -30345,7 +30958,7 @@
    "due_date": "2025-12-24",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2021-26828 — OpenPLC ScadaBR Tải lên không giới hạn tệp có lỗ hổng loại nguy hiểm",
   "key": "bab965a420ea7310bba8876024e5429dc3f2c6f8"
  },
  {
@@ -30365,7 +30978,7 @@
    "due_date": "2025-12-23",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-48633 — Lỗ hổng tiết lộ thông tin khung Android",
   "key": "15d68a10a4ddc4470b4ee8d3f36f50483ba45618"
  },
  {
@@ -30385,7 +30998,7 @@
    "due_date": "2025-12-23",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-48572 — Lỗ hổng leo thang đặc quyền khung Android",
   "key": "6ac009d2dc87e7e850d5a8ba16db78b6b7a72b80"
  },
  {
@@ -30405,7 +31018,7 @@
    "due_date": "2025-12-19",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2021-26829 — Lỗ hổng OpenPLC ScadaBR Cross-site Scripting",
   "key": "2562b3ae22eda4dcfdae31c93906f9e2b5c42476"
  },
  {
@@ -30425,7 +31038,7 @@
    "due_date": "2025-12-12",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-61757 - Phần mềm trung gian Oracle Fusion thiếu xác thực cho lỗ hổng chức năng quan trọng",
   "key": "9a04e1ea02ccab9e273d36b0abe847531846caf7"
  },
  {
