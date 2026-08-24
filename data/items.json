@@ -1,6 +1,1273 @@
 [
  {
   "source": "VietnamPlus Kinh tế số",
+  "title": "Techcombank dự kiến chia cổ tức tỷ lệ 50%, tăng vốn điều lệ vượt 100.000 tỷ đồng",
+  "link": "https://www.vietnamplus.vn/techcombank-du-kien-chia-co-tuc-ty-le-50-tang-von-dieu-le-vuot-100000-ty-dong-post1132198.vnp",
+  "published": "2026-08-24T12:27:39+00:00",
+  "summary": "Với việc trả cổ tức bằng cổ phiếu tỷ lệ 50% và phát hành ESOP cho người lao động, vốn điều lệ của Techcombank dự kiến tăng lên gần 106.600 tỷ đồng, cao nhất trong các ngân hàng tư nhân. Techcombank tiên phong AI, dẫn dắt chuyển đổi số ngành ngân hàng Techcombank chi trả cổ tức bằng tiền và cổ phiếu lên đến 67%, cao nhất hệ thống Techcombank và EIB công bố khoản vay 200 triệu Euro thúc đẩy tín dụng xanh",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "158bf2a8ca7fbad00b5f1ceca76a5ccf0a5b3380"
+ },
+ {
+  "source": "GenK",
+  "title": "Windows 11 gỡ bỏ điều kiện phiền phức để bật tính năng giúp máy chạy ổn hơn",
+  "link": "https://genk.vn/windows-11-go-bo-dieu-kien-phien-phuc-de-bat-tinh-nang-giup-may-chay-on-hon-165262408182959160.chn",
+  "published": "2026-08-24T12:42:49.558350+00:00",
+  "summary": "Một tính năng Windows 11 từng bị nhiều người bỏ qua vì điều kiện kích hoạt bất tiện nay đã dễ tiếp cận hơn, đồng thời hứa hẹn tăng bảo mật mà không gây nhiều áp lực lên hiệu năng.",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "d29ea97f5c737dc45b1ca0518d1b004cf7e5c027"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "Personal Information Exposed in Apollo Global Data Breach",
+  "link": "https://databreaches.net/2026/08/24/personal-information-exposed-in-apollo-global-data-breach/",
+  "published": "2026-08-24T12:22:22+00:00",
+  "summary": "Eduard Kovacs reports: Private equity giant Apollo Global Management has disclosed a data breach that exposed sensitive personal information. According to a data breach notice sent to affected individuals, a social engineering attack enabled threat actors to access some of the company’s cloud platforms between July 6 and 10. An investigation is ongoing, but Apollo determined recently... Source",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "981da935c7b1bdd33049bcc81f605bc8d9564987"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "ShinyHunters provided no real proof they hacked ReliaQuest– because they didn’t get anywhere: ReliaQuest",
+  "link": "https://databreaches.net/2026/08/24/shinyhunters-provided-no-real-proof-they-hacked-reliaquest-because-they-didnt-get-anywhere-reliaquest/",
+  "published": "2026-08-24T11:36:42+00:00",
+  "summary": "Yesterday, DataBreaches reported that ShinyHunters had added ReliaQuest to its dedicated leak site, but without any substantive proof — only a few screenshots showing access to a user account on reliaquest.okta[.]com/enduser/settings. ReliaQuest did not reply to DataBreaches’ email inquiry, but they have published an entire blog post responding to the claims. Without naming ShinyHunters, they write, in... Source",
+  "categories": [
+   "breach",
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "b0a9b0be54a3a597c9c143ce93040a0716ec2b92"
+ },
+ {
+  "source": "Schneier on Security",
+  "title": "Criminal Deception in Silicon Valley",
+  "link": "https://www.schneier.com/blog/archives/2026/08/criminal-deception-in-silicon-valley.html",
+  "published": "2026-08-24T10:38:29+00:00",
+  "summary": "Interesting paper : Abstract: With entrepreneurial fraud cases on the rise, we investigate how entrepreneurs carry out criminal deception , employing deceptive means to defraud audiences. Analyzing court data from Silicon Valley ventures and their founders prosecuted for fraud between 2000 and 2023, our findings reveal that entrepreneurs carry out criminal deception through a process of façading : Entrepreneurs construct, perform, and protect illusory appearances (façades) that externally project high-growth performance to audiences while masking ventures’ actual underperformance. We identify ",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "393914921e3456dabdf26a2df6119fcac31f7a78"
+ },
+ {
+  "source": "The Record",
+  "title": "Hackers infecting Android car systems to build proxy botnet",
+  "link": "https://therecord.media/android-botnet-china-hackers",
+  "published": "2026-08-24T12:15:00+00:00",
+  "summary": "A new strain of malware is being used to infect Android-based car systems, turning the devices into part of a botnet.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "5bc6e81e22ab9ce1e89a7a5227abf1357edefe6f"
+ },
+ {
+  "source": "SecurityWeek",
+  "title": "Uber Fined Nearly $1 Billion by Dutch Regulators Over Automated Suspensions of Driver Accounts",
+  "link": "https://www.securityweek.com/uber-fined-nearly-1-billion-by-dutch-regulators-over-automated-suspensions-of-driver-accounts/",
+  "published": "2026-08-24T12:42:09+00:00",
+  "summary": "Dutch data protection authorities have fined Uber nearly $1 billion, saying the ride-hailing company used automated software to suspend driver accounts, sometimes permanently, with no human review to check for mistakes. The Dutch Data Protection Authority said Friday it is imposing a fine of 825 million euros ($964 million) because Uber violated the EU’s General [&#8230;] The post Uber Fined Nearly $1 Billion by Dutch Regulators Over Automated Suspensions of Driver Accounts appeared first on SecurityWeek .",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "7bdb1573f1e4ff0e10f9353115f11f9a65e9f372"
+ },
+ {
+  "source": "SecurityWeek",
+  "title": "91 Vulnerabilities Patched in Spring Application Framework",
+  "link": "https://www.securityweek.com/91-vulnerabilities-patched-in-spring-application-framework/",
+  "published": "2026-08-24T11:58:28+00:00",
+  "summary": "More than 200 vulnerabilities have been patched to date this year, compared to only 16 in 2025 and 22 in 2024. The post 91 Vulnerabilities Patched in Spring Application Framework appeared first on SecurityWeek .",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "d932204df6d318d3870b963441a1f612ad39d0ae"
+ },
+ {
+  "source": "SecurityWeek",
+  "title": "Venezuelan Gets Record Federal Prison Term for ATM Jackpotting",
+  "link": "https://www.securityweek.com/venezuelan-gets-record-federal-prison-term-for-atm-jackpotting/",
+  "published": "2026-08-24T10:59:30+00:00",
+  "summary": "Juan Manuel Gouveia-Aguilera has been sentenced to 8 years in prison for his role in an ATM jackpotting scheme that caused millions in losses. The post Venezuelan Gets Record Federal Prison Term for ATM Jackpotting appeared first on SecurityWeek .",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "3eade830ef2f5138998e3dd2ea3b3a45387bbf84"
+ },
+ {
+  "source": "SecurityWeek",
+  "title": "Personal Information Exposed in Apollo Global Data Breach",
+  "link": "https://www.securityweek.com/personal-information-exposed-in-apollo-global-data-breach/",
+  "published": "2026-08-24T10:08:42+00:00",
+  "summary": "The private equity firm appears to have been targeted as part of a campaign focusing on major financial companies. The post Personal Information Exposed in Apollo Global Data Breach appeared first on SecurityWeek .",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "87d98e571b1c7d04e675f751f32e2b1151313eff"
+ },
+ {
+  "source": "SecurityWeek",
+  "title": "Rethinking Application Security for the AI Era",
+  "link": "https://www.securityweek.com/rethinking-application-security-for-the-ai-era/",
+  "published": "2026-08-24T10:00:00+00:00",
+  "summary": "As AI dramatically shortens the time from vulnerability disclosure to exploitation, enterprises must look beyond patching to reduce application risk. The post Rethinking Application Security for the AI Era appeared first on SecurityWeek .",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "7ef6f8247dca24ae2b519a15eb8023084eaeed2d"
+ },
+ {
+  "source": "SecurityWeek",
+  "title": "Iran-Linked Hackers Shut Down UK Power Plant for Four Days",
+  "link": "https://www.securityweek.com/iran-linked-hackers-shut-down-uk-power-plant-for-four-days/",
+  "published": "2026-08-24T09:22:09+00:00",
+  "summary": "The attack caused real-world operational disruption and raised concerns about the resilience of Britain’s distributed energy infrastructure and the potential for repeatable attacks. The post Iran-Linked Hackers Shut Down UK Power Plant for Four Days appeared first on SecurityWeek .",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "364a02dba443c7640cfd51e460a9e0ccbd3a929e"
+ },
+ {
+  "source": "SecurityWeek",
+  "title": "TikTok Reaches $400 Million Settlement With US Justice Department Over Children’s Privacy",
+  "link": "https://www.securityweek.com/tiktok-reaches-400-million-settlement-with-us-justice-department-over-childrens-privacy/",
+  "published": "2026-08-24T09:11:11+00:00",
+  "summary": "TikTok will pay $300 million immediately and another $100 million after an order vacates an earlier consent decree against its predecessor company, Musical.ly. The post TikTok Reaches $400 Million Settlement With US Justice Department Over Children&#8217;s Privacy appeared first on SecurityWeek .",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "4f66b6743317823d5b92ebcf3d3947d6f6af482c"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+  "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
+  "published": "2026-08-24T11:58:00+00:00",
+  "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More dependencies mean more vulnerabilities to review, more remediation work, and a backlog that can",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Đang vận chuyển nhiều mã AI hơn bạn có thể bảo mật? Xem Cách Kiểm Soát Nợ Khắc Phục",
+  "key": "ca7e01dcd1eb556ec16b8905c726e96278bb6e2c"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
+  "link": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
+  "published": "2026-08-24T11:56:34+00:00",
+  "summary": "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any user account by forcing a password reset. The vulnerability, assigned the CVE identifier&nbsp;CVE-2026-18963, is rated 9.1 on the CVSS scoring system by Red Hat, which acts as",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Lỗ hổng đặt lại mật khẩu Keycloak quan trọng có thể cho phép những kẻ tấn công chưa được xác thực chiếm quyền kiểm soát bất kỳ tài khoản nào",
+  "key": "e7d721f61921ff11510d4f3c89ffb2b392d74507"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
+  "link": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html",
+  "published": "2026-08-24T11:51:36+00:00",
+  "summary": "Cybersecurity researchers have flagged a cyber espionage campaign targeting Myanmar that uses graduation ceremony invitation lures to deliver a Go backdoor called QUICAgent. The campaign, codenamed Operation QUICSILVER, has been found to target government and information technology sectors, per Seqrite Labs. The activity is assessed to be the work of a China-nexus threat actor with moderate",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Chiến dịch QUICSILVER nhắm vào chính phủ Myanmar và bộ phận CNTT với cửa hậu QUICAgent",
+  "key": "8470f89562bfa08a2bbaac82ee666798cca00f96"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk",
+  "link": "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html",
+  "published": "2026-08-24T11:30:00+00:00",
+  "summary": "Big security risks come in small packages. While enterprise security teams focus on policing the proliferation of employees using ChatGPT and Claude for quick drafting tasks, a more urgent threat is posed by a handful of AI super-adopters who are quietly hardcoding unvetted tools into critical business operations. According to new research published by Akamai, the top 5% of enterprise power",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "1ed281bee556772aef718ec924933abdd9054736"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78306 — DJI drones expose an unauthenticated DUML command interface over Bluetooth that allows an attacker within Bluetooth range to modify Wi-Fi configuratio",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78306",
+  "published": "2026-08-24T09:16:47.200",
+  "summary": "DJI drones expose an unauthenticated DUML command interface over Bluetooth that allows an attacker within Bluetooth range to modify Wi-Fi configuration parameters, including the SSID, PSK, MAC address, regulatory country code, and wireless channel. An attacker can overwrite the Wi-Fi PSK with a known value and connect to the drone's internal Wi-Fi network, potentially gaining access to the flight control interface and issuing flight commands. Crafted DUML commands can also disable or restart the Wi-Fi and Bluetooth interfaces, disconnect Wi-Fi clients, or reset wireless configuration, resultin",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78306",
+   "cvss": null,
+   "ref": "https://support.dji.com/help/content?customId=en-us03400011149&amp;spaceId=34&amp;re=US&amp;lang=en"
+  },
+  "title_vi": "CVE-2026-78306 — Máy bay không người lái DJI hiển thị giao diện lệnh DUML chưa được xác thực qua Bluetooth cho phép kẻ tấn công trong phạm vi Bluetooth sửa đổi cấu hình Wi-Fi",
+  "key": "8ccfea6e4ddbd10182964f5d04be5f306f6b0068"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78321 — The HTTP media server on DJI drones does not enforce sufficient limits on incoming connections or request rates",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78321",
+  "published": "2026-08-24T09:16:47.423",
+  "summary": "The HTTP media server on DJI drones does not enforce sufficient limits on incoming connections or request rates. An attacker with access to the drone's internal network can exhaust the server's connection pool by repeatedly requesting a stored media file, preventing the server from handling legitimate requests and causing a denial of service that prevents the DJI Fly application from retrieving photos and videos from the aircraft in QuickTransfer mode.\n\nAffected models are DJI Neo until 01.00.0400, DJI Neo 2 until 01.00.0500, DJI Flip until 01.00.1200, DJI Air 3 until 01.00.1600, DJI Air 3S un",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78321",
+   "cvss": null,
+   "ref": "https://support.dji.com/help/content?customId=en-us03400011149&amp;spaceId=34&amp;re=US&amp;lang=en"
+  },
+  "title_vi": "CVE-2026-78321 - Máy chủ phương tiện HTTP trên máy bay không người lái DJI không thực thi đủ giới hạn đối với các kết nối đến hoặc tỷ lệ yêu cầu",
+  "key": "874d83d34ed853c23906d834f1bc010afef22ae3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-16249 — Rejected reason: This CVE ID is a duplicate of CVE-2026-15303 and was never published",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-16249",
+  "published": "2026-08-24T10:16:38.650",
+  "summary": "Rejected reason: This CVE ID is a duplicate of CVE-2026-15303 and was never published. Both IDs were assigned to the same vulnerability in the 6Storage Rentals WordPress plugin. All CVE users should reference CVE-2026-15303 instead of this ID.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-16249",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2026-16249 — Lý do bị từ chối: ID CVE này là bản sao của CVE-2026-15303 và chưa bao giờ được công bố",
+  "key": "08921c41ae2c941ea1db3454245c0c0eaaa63b09"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-66897 — A path traversal vulnerability in LXD's instance template processing allows an attacker with container edit permissions, or any user launching a craft",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66897",
+  "published": "2026-08-24T10:16:39.767",
+  "summary": "A path traversal vulnerability in LXD's instance template processing allows an attacker with container edit permissions, or any user launching a crafted image, to overwrite arbitrary files on the host system as root. When processing target template paths specified in metadata.yaml, LXD validates the path against a confined os.Root directory handle but subsequently opens and creates the file using os.Create with an unconfined string path. This discrepancy between path resolution checks and file creation allows an attacker to escape directory confinement, overwrite root-owned host files, and ach",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-66897",
+   "cvss": 9.9,
+   "ref": "https://github.com/canonical/lxd/security/advisories/GHSA-q39m-8fx9-42fv"
+  },
+  "title_vi": "CVE-2026-66897 — Lỗ hổng PATH Traversal trong quá trình xử lý mẫu của LXD cho phép kẻ tấn công có quyền chỉnh sửa vùng chứa hoặc bất kỳ người dùng nào khởi chạy thủ công",
+  "key": "01739152c791517753f6d3779db806ac10b6452a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75899 — fast-uri is a URI parser for Node",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75899",
+  "published": "2026-08-24T10:16:39.960",
+  "summary": "fast-uri is a URI parser for Node.js. It decodes percent escapes in a hostname during parsing and then decodes the parsed hostname a second time during authority recomposition, so a single call to normalize or resolve can turn nested percent-encoded input into a different network destination such as a loopback hostname or address. For example, a doubly encoded host that spells out a loopback name decodes to that live host in one operation, which contradicts RFC 3986 section 2.4 that an implementation must not decode the same string more than once. An application that normalizes or resolves an ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75899",
+   "cvss": 7.5,
+   "ref": "https://cna.openjsf.org/security-advisories.html"
+  },
+  "title_vi": "CVE-2026-75899 — fast-uri là trình phân tích cú pháp URI cho Node",
+  "key": "349f980f4bfd9359a07421a79ff0b696eeee783a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75931 — fast-uri is a URI parser for Node",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75931",
+  "published": "2026-08-24T10:16:40.113",
+  "summary": "fast-uri is a URI parser for Node.js. It canonicalizes a host to its ASCII form only when the input carries an explicit scheme, so a scheme-relative reference such as a host preceded by two slashes is returned with its host verbatim and no error set. As a result fast-uri's own entry points disagree with each other: parse, resolve, normalize, and equal can yield different hosts for the same input depending only on whether a scheme is written out, and equal can return opposite verdicts for the same pair of hosts. An application that extracts a host with fast-uri to check it against a policy list",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75931",
+   "cvss": 7.5,
+   "ref": "https://cna.openjsf.org/security-advisories.html"
+  },
+  "title_vi": "CVE-2026-75931 — fast-uri là trình phân tích cú pháp URI cho Node",
+  "key": "a7b7c8414314799fe97da36aaccc23dfd5b9f560"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75975 — fast-uri is a URI parser for Node",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75975",
+  "published": "2026-08-24T10:16:40.237",
+  "summary": "fast-uri is a URI parser for Node.js. Its custom parser for bracketed IPv6 literals does not validate the complete IPv6 grammar, so invalid trailing text in an authority can be silently discarded and a malformed attacker-controlled host is turned into a different valid IPv6 destination. For example, a bracketed literal with invalid trailing characters is normalized to the unspecified address, which a Node HTTP client then connects to a local service over loopback, and other malformed literals collapse to private-range addresses. No error is set on the parsed result, so an application checking ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75975",
+   "cvss": 7.5,
+   "ref": "https://cna.openjsf.org/security-advisories.html"
+  },
+  "title_vi": "CVE-2026-75975 — fast-uri là trình phân tích cú pháp URI cho Node",
+  "key": "175ee5e41ef32011601c14526f288323e282e3f7"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78314 — SQL Injection in Delta DIAEnergie v1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78314",
+  "published": "2026-08-24T10:16:40.370",
+  "summary": "SQL Injection in Delta DIAEnergie v1.11.00.002 allows attacker to \nremote code execution.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78314",
+   "cvss": 8.8,
+   "ref": "https://filecenter.deltaww.com/news/download/doc/Delta-PCSA-2026-00015_DIAEnergie%20SQL%20Injection%20Vulberabilities_v1.0.pdf"
+  },
+  "title_vi": "CVE-2026-78314 — SQL Injection trong Delta DIAEnergie v1",
+  "key": "9882b12f477c170df082ec2d0a6fa166ee2c173d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78315 — SQL Injection in Delta DIAEnergie v1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78315",
+  "published": "2026-08-24T10:16:40.510",
+  "summary": "SQL Injection in Delta DIAEnergie v1.11.00.002 allows attacker to \nremote code execution.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78315",
+   "cvss": 8.8,
+   "ref": "https://filecenter.deltaww.com/news/download/doc/Delta-PCSA-2026-00015_DIAEnergie%20SQL%20Injection%20Vulberabilities_v1.0.pdf"
+  },
+  "title_vi": "CVE-2026-78315 — SQL Injection trong Delta DIAEnergie v1",
+  "key": "1d8f8a72a442fa271b2f645041bfff5fc9e03c5c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78316 — SQL Injection in Delta DIAEnergie v1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78316",
+  "published": "2026-08-24T10:16:40.667",
+  "summary": "SQL Injection in Delta DIAEnergie v1.11.00.002 allows attacker to \nremote code execution.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78316",
+   "cvss": 8.8,
+   "ref": "https://filecenter.deltaww.com/news/download/doc/Delta-PCSA-2026-00015_DIAEnergie%20SQL%20Injection%20Vulberabilities_v1.0.pdf"
+  },
+  "title_vi": "CVE-2026-78316 — SQL Injection trong Delta DIAEnergie v1",
+  "key": "a0ae6de64692c837c9ac172773de47fe85f6adc1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78317 — SQL Injection in Delta DIAEnergie v1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78317",
+  "published": "2026-08-24T10:16:40.810",
+  "summary": "SQL Injection in Delta DIAEnergie v1.11.00.002 allows attacker to \nremote code execution.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78317",
+   "cvss": 8.8,
+   "ref": "https://filecenter.deltaww.com/news/download/doc/Delta-PCSA-2026-00015_DIAEnergie%20SQL%20Injection%20Vulberabilities_v1.0.pdf"
+  },
+  "title_vi": "CVE-2026-78317 — SQL Injection trong Delta DIAEnergie v1",
+  "key": "1f3c76cf3282dc507c286b7222b79c9484fc0dcb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-10582 — Hugo's security",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-10582",
+  "published": "2026-08-24T11:16:38.233",
+  "summary": "Hugo's security.http.urls allowlist is the only control on outbound fetches made by resources.GetRemote, and it inspects the URL text alone. CheckAllowedHTTPURL in config/security/securityConfig.go applies the configured pattern list and then re-checks a canonicalised form of an integer, hex or octal IPv4 host, but it never resolves the hostname and never inspects the address the HTTP client actually connects to. The client constructed in resources/resource_factories/create/create.go installs no dial-time hook, so no check occurs at connection time either. A hostname that resolves to a loopbac",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-10582",
+   "cvss": 7.4,
+   "ref": "https://github.com/gohugoio/hugo"
+  },
+  "title_vi": "CVE-2026-10582 — Bảo mật của Hugo",
+  "key": "aa1eb93cd229103215214412485f6d301cc4c6cf"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-10618 — Hugo's default fenced-code-block renderer writes attribute values taken from the code-fence info string into the rendered HTML without escaping them",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-10618",
+  "published": "2026-08-24T11:16:38.403",
+  "summary": "Hugo's default fenced-code-block renderer writes attribute values taken from the code-fence info string into the rendered HTML without escaping them. New in markup/internal/attributes/attributes.go converts every attribute value from a byte slice to a string as it is stored, deliberately dropping the escaping that used to happen there, and RenderAttributes in the same file escapes only values that are still byte slices, so its escaping branch is never reached and every value is written verbatim. The function's documentation states that it performs HTML escaping of string attributes, which it d",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-10618",
+   "cvss": 5.4,
+   "ref": "https://github.com/gohugoio/hugo"
+  },
+  "title_vi": "CVE-2026-10618 - Trình kết xuất khối mã có hàng rào mặc định của Hugo ghi các giá trị thuộc tính được lấy từ chuỗi thông tin hàng rào mã vào HTML được kết xuất mà không thoát khỏi chúng",
+  "key": "4643e67416dedbc50bc587021b822db0860614fc"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-59295 — Micrometer-instrumented Apache HttpAsyncClient (4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-59295",
+  "published": "2026-08-24T11:16:39.780",
+  "summary": "Micrometer-instrumented Apache HttpAsyncClient (4.x or 5.x) usage via MicrometerHttpClientInterceptor can leak memory unboundedly when asynchronous requests fail before receiving a response (e.g. connection resets or timeouts). Tracking state for these requests remains in memory indefinitely, and sustained failures lead to heap exhaustion and OutOfMemoryError crashes.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-59295",
+   "cvss": 5.9,
+   "ref": "https://github.com/spring-projects/security-advisories/security/advisories/GHSA-747c-jhq3-w433"
+  },
+  "title_vi": "CVE-2026-59295 — Máy khách Apache HttpAsync (4",
+  "key": "b601d6c8444020e8cc386d99b70ba65e90ac3657"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-76172 — fast-uri is a URI parser for Node",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76172",
+  "published": "2026-08-24T11:16:40.723",
+  "summary": "fast-uri is a URI parser for Node.js. During parsing it runs a legacy decoding pass over the scheme component and never re-escapes the result, and serialization writes the scheme back out verbatim, unlike the host component which is re-escaped. As a result an input whose scheme carries percent-encoded slashes parses as a scheme with no authority, so the parsed host and error are both undefined, yet resolving or normalizing that same input emits a network-path reference whose authority is attacker-chosen and re-parses to that host. An application that allowlists on the parsed host, or treats a ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-76172",
+   "cvss": 7.5,
+   "ref": "https://cna.openjsf.org/security-advisories.html"
+  },
+  "title_vi": "CVE-2026-76172 — fast-uri là trình phân tích cú pháp URI cho Node",
+  "key": "aad82ee24a62927b850ea49bfd4c30eb7ea7a26a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78244 — A vulnerability was detected in itsourcecode Real Estate Management System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78244",
+  "published": "2026-08-24T11:16:40.850",
+  "summary": "A vulnerability was detected in itsourcecode Real Estate Management System 1.0. Affected by this issue is some unknown functionality of the file search.php. Performing a manipulation of the argument search/delivery_type/search_price/property_type results in sql injection. The attack may be initiated remotely. The exploit is now public and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78244",
+   "cvss": 7.3,
+   "ref": "https://github.com/microwaveabi/vul/issues/5"
+  },
+  "title_vi": "CVE-2026-78244 - Một lỗ hổng đã được phát hiện trong Hệ thống quản lý bất động sản mã nguồn 1",
+  "key": "f4479b54269a916170d26a6dde7c724c63f97379"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78245 — A flaw has been found in itsourcecode Online Pharmacy System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78245",
+  "published": "2026-08-24T11:16:41.040",
+  "summary": "A flaw has been found in itsourcecode Online Pharmacy System 1.0. This affects the function move_uploaded_file of the file all_users/register.php of the component User Registration. Executing a manipulation of the argument photo can lead to unrestricted upload. The attack may be launched remotely. The exploit has been published and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78245",
+   "cvss": 7.3,
+   "ref": "https://github.com/microwaveabi/vul/issues/47"
+  },
+  "title_vi": "CVE-2026-78245 — Một lỗ hổng đã được tìm thấy trong Mã nguồn Hệ thống nhà thuốc trực tuyến 1",
+  "key": "bd0c9f07679ea4283b9e848a4cc2ea9b684e9c19"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78337 — Unrestricted Upload of File with Dangerous Type in the company logo upload in Roskus Prospero Flow CRM before 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78337",
+  "published": "2026-08-24T11:16:41.203",
+  "summary": "Unrestricted Upload of File with Dangerous Type in the company logo upload in Roskus Prospero Flow CRM before 5.15.13 allows an authenticated user holding the create company and update company permissions to execute arbitrary JavaScript in the application origin via an SVG document containing an embedded script element.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78337",
+   "cvss": null,
+   "ref": "https://github.com/Roskus/prospero-flow-crm/commit/aaa4fc76bf039d5011884b86b8f29ddd50d17b17"
+  },
+  "title_vi": "CVE-2026-78337 — Tải lên không giới hạn Tệp có Loại Nguy hiểm trong tải lên logo công ty trong Roskus Prospero Flow CRM trước 5",
+  "key": "f644abe20b6479f82471f7635f7b8553cb32cbe6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2025-63080 — Firmware in KAON PG5298A and PG5298B routers allow an authenticated user to send crafted JSON-RPC requests and perform operations not possible via GUI",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-63080",
+  "published": "2026-08-24T12:16:47.937",
+  "summary": "Firmware in KAON PG5298A and PG5298B routers allow an authenticated user to send crafted JSON-RPC requests and perform operations not possible via GUI, e.g. system file read or command execution.   \nThis vulnerability has been fixed in firmware version: 3.0.82 for PG5298A and 4.0.82 for PG5298B.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2025-63080",
+   "cvss": null,
+   "ref": "https://cert.pl/en/posts/2026/08/CVE-2025-63080/"
+  },
+  "title_vi": "CVE-2025-63080 - Phần vững trong bộ định tuyến KAON PG5298A và PG5298B cho phép người dùng được xác thực gửi yêu cầu JSON-RPC được tạo thủ công và thực hiện các hoạt động không thể thực hiện thông qua GUI",
+  "key": "e4ff9af53f97063d63689bd57d6787ce7d883a46"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-28151 — Unauthenticated Local File Inclusion in Tonda < 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28151",
+  "published": "2026-08-24T12:16:50.083",
+  "summary": "Unauthenticated Local File Inclusion in Tonda < 2.6 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-28151",
+   "cvss": 8.1,
+   "ref": "https://patchstack.com/database/wordpress/theme/tonda/vulnerability/wordpress-tonda-theme-2-6-local-file-inclusion-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-28151 — Bao gồm tệp cục bộ chưa được xác thực trong Tonda < 2",
+  "key": "ae0bdb220248ebdd4d316f572c595baf0bb6158d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-28152 — Unauthenticated Local File Inclusion in Tonda Core < 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28152",
+  "published": "2026-08-24T12:16:50.220",
+  "summary": "Unauthenticated Local File Inclusion in Tonda Core < 2.6 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-28152",
+   "cvss": 8.1,
+   "ref": "https://patchstack.com/database/wordpress/plugin/tonda-core/vulnerability/wordpress-tonda-core-plugin-2-6-local-file-inclusion-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-28152 — Bao gồm tệp cục bộ chưa được xác thực trong Tonda Core < 2",
+  "key": "ef34da94231de8c2b880dec858eb33525900b7b3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-28153 — Unauthenticated Broken Access Control in Notification Master &#8211; Real-Time WordPress Notifications With Email, SMS, Webhooks &amp; More <= 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28153",
+  "published": "2026-08-24T12:16:50.347",
+  "summary": "Unauthenticated Broken Access Control in Notification Master &#8211; Real-Time WordPress Notifications With Email, SMS, Webhooks &amp; More <= 1.7.1 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-28153",
+   "cvss": 7.5,
+   "ref": "https://patchstack.com/database/wordpress/plugin/notification-master/vulnerability/wordpress-notification-master-real-time-wordpress-notifications-with-email-sms-webhooks-more-plugin-1-7-1-broken-access-control-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-28153 — Kiểm soát truy cập bị hỏng không được xác thực trong Notification Master – Thông báo WordPress theo thời gian thực với Email, SMS, Webhook và hơn thế nữa &lt;= 1",
+  "key": "8d7a873993ca13eab041031b6a17373e22d7c6a3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-28162 — Unauthenticated Cross Site Scripting (XSS) in Events Made Easy <= 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28162",
+  "published": "2026-08-24T12:16:50.473",
+  "summary": "Unauthenticated Cross Site Scripting (XSS) in Events Made Easy <= 3.2.5 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-28162",
+   "cvss": 7.1,
+   "ref": "https://patchstack.com/database/wordpress/plugin/events-made-easy/vulnerability/wordpress-events-made-easy-plugin-3-2-5-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-28162 — Kịch bản chéo trang không được xác thực (XSS) trong các sự kiện dễ dàng <= 3",
+  "key": "3d483453bb396f805ad50b82b94debcde7fc105c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-28165 — Unauthenticated Privilege Escalation in Digits <= 9",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28165",
+  "published": "2026-08-24T12:16:50.600",
+  "summary": "Unauthenticated Privilege Escalation in Digits <= 9.2 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-28165",
+   "cvss": 9.8,
+   "ref": "https://patchstack.com/database/wordpress/plugin/digits/vulnerability/wordpress-digits-plugin-9-2-privilege-escalation-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-28165 - Tăng cấp đặc quyền không được xác thực theo chữ số <= 9",
+  "key": "963185fc37bfa106d0ff3999ccbe2e8f3b9d47e0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-28166 — Unauthenticated Cross Site Scripting (XSS) in Tourmaster <= 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28166",
+  "published": "2026-08-24T12:16:50.723",
+  "summary": "Unauthenticated Cross Site Scripting (XSS) in Tourmaster <= 5.4.9 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-28166",
+   "cvss": 7.1,
+   "ref": "https://patchstack.com/database/wordpress/plugin/tourmaster/vulnerability/wordpress-tourmaster-plugin-5-4-9-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-28166 — Cross Site Scripting (XSS) không được xác thực trong Tourmaster <= 5",
+  "key": "f69b26f2150693abd3481adb7f9a2d0e35655dc8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-28167 — Unauthenticated Arbitrary File Download in Super Forms <= 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28167",
+  "published": "2026-08-24T12:16:50.850",
+  "summary": "Unauthenticated Arbitrary File Download in Super Forms <= 6.3.315 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-28167",
+   "cvss": 7.5,
+   "ref": "https://patchstack.com/database/wordpress/plugin/super-forms/vulnerability/wordpress-super-forms-plugin-6-3-315-arbitrary-file-download-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-28167 - Tải xuống Tệp Tùy ý Chưa được Xác thực trong Biểu mẫu Hưu bổng <= 6",
+  "key": "7eb8af0b6c44ff4d37ebde9725ac8f08350b645a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-28171 — Unauthenticated Arbitrary File Deletion in WooCommerce File Approval <= 10",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28171",
+  "published": "2026-08-24T12:16:50.970",
+  "summary": "Unauthenticated Arbitrary File Deletion in WooCommerce File Approval <= 10.7 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-28171",
+   "cvss": 8.6,
+   "ref": "https://patchstack.com/database/wordpress/plugin/woocommerce-file-approval/vulnerability/wordpress-woocommerce-file-approval-plugin-10-7-arbitrary-file-deletion-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-28171 — Xóa tệp tùy ý không được xác thực trong phê duyệt tệp WooCommerce <= 10",
+  "key": "897d8bbad5e28bf69c1676e82e5933af93459377"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-28190 — Subscriber Broken Access Control in ProLancer Element <= 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28190",
+  "published": "2026-08-24T12:16:51.093",
+  "summary": "Subscriber Broken Access Control in ProLancer Element <= 1.4.8 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-28190",
+   "cvss": 7.1,
+   "ref": "https://patchstack.com/database/wordpress/plugin/prolancer-element/vulnerability/wordpress-prolancer-element-plugin-1-4-8-broken-access-control-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-28190 - Kiểm soát truy cập bị hỏng của người đăng ký trong phần tử ProLancer <= 1",
+  "key": "4758ab5ea916daf9a5a56f72f67d59c42282974f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-32471 — Subscriber SQL Injection in ProLancer Element <= 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-32471",
+  "published": "2026-08-24T12:16:51.210",
+  "summary": "Subscriber SQL Injection in ProLancer Element <= 1.4.8 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-32471",
+   "cvss": 8.5,
+   "ref": "https://patchstack.com/database/wordpress/plugin/prolancer-element/vulnerability/wordpress-prolancer-element-plugin-1-4-8-sql-injection-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-32471 — Subscriber SQL Injection trong phần tử ProLancer <= 1",
+  "key": "7e00e3b24169e647297dcd6bcccb617d3c27a8fb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-32476 — Unauthenticated Cross Site Scripting (XSS) in Brave Conversion Engine (PRO) <= 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-32476",
+  "published": "2026-08-24T12:16:51.340",
+  "summary": "Unauthenticated Cross Site Scripting (XSS) in Brave Conversion Engine (PRO) <= 0.8.6 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-32476",
+   "cvss": 7.1,
+   "ref": "https://patchstack.com/database/wordpress/plugin/bravepopup-pro/vulnerability/wordpress-brave-conversion-engine-pro-plugin-0-8-6-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-32476 — Cross Site Scripting (XSS) chưa được xác thực trong Brave Conversion Engine (PRO) <= 0",
+  "key": "06b2594887243b38152e2352dc23cb181904d23b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-32477 — Unauthenticated Arbitrary File Deletion in ShopBuilder Pro – Elementor WooCommerce Builder Addons <= 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-32477",
+  "published": "2026-08-24T12:16:51.473",
+  "summary": "Unauthenticated Arbitrary File Deletion in ShopBuilder Pro – Elementor WooCommerce Builder Addons <= 2.2.0 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-32477",
+   "cvss": 8.6,
+   "ref": "https://patchstack.com/database/wordpress/plugin/shopbuilder-pro/vulnerability/wordpress-shopbuilder-pro-elementor-woocommerce-builder-addons-plugin-2-2-0-arbitrary-file-deletion-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-32477 — Xóa tập tin tùy ý không được xác thực trong ShopBuilder Pro – Elementor WooCommerce Builder Addons <= 2",
+  "key": "3beee7602c5345b7d4c48fc89f49a77c1301cfd2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-32478 — Subscriber SQL Injection in WP Project Manager Pro <= 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-32478",
+  "published": "2026-08-24T12:16:51.607",
+  "summary": "Subscriber SQL Injection in WP Project Manager Pro <= 4.0.1 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-32478",
+   "cvss": 8.5,
+   "ref": "https://patchstack.com/database/wordpress/plugin/wedevs-project-manager-business/vulnerability/wordpress-wp-project-manager-pro-plugin-4-0-1-sql-injection-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-32478 — Subscriber SQL Injection trong WP Project Manager Pro <= 4",
+  "key": "6e3a2bd59aca22dedd46be0c221050dfae700421"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-32551 — Unauthenticated SQL Injection in Woo Essential <= 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-32551",
+  "published": "2026-08-24T12:16:51.733",
+  "summary": "Unauthenticated SQL Injection in Woo Essential <= 4.3.0 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-32551",
+   "cvss": 9.3,
+   "ref": "https://patchstack.com/database/wordpress/plugin/woo-essential/vulnerability/wordpress-woo-essential-plugin-4-3-0-sql-injection-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-32551 — SQL Injection chưa được xác thực trong Woo Essential <= 4",
+  "key": "a0476f26ee47509db2a06dc5239017c1872786dd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-32558 — Unauthenticated Privilege Escalation in Affiliate Pro - Affiliate Program for WooCommerce & WordPress <= 8",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-32558",
+  "published": "2026-08-24T12:16:51.877",
+  "summary": "Unauthenticated Privilege Escalation in Affiliate Pro - Affiliate Program for WooCommerce & WordPress <= 8.9.1 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-32558",
+   "cvss": 9.8,
+   "ref": "https://patchstack.com/database/wordpress/plugin/wp-wc-affiliate-program/vulnerability/wordpress-affiliate-pro-affiliate-program-for-woocommerce-wordpress-plugin-8-9-1-privilege-escalation-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-32558 — Nâng cấp đặc quyền không được xác thực trong Affiliate Pro - Chương trình liên kết cho WooCommerce & WordPress <= 8",
+  "key": "81d302f5be2c122f7c0b3d31fa4979e6d30b2677"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-66584 — Unauthenticated Cross Site Scripting (XSS) in 12 Step Meeting List <= 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66584",
+  "published": "2026-08-24T12:16:52.543",
+  "summary": "Unauthenticated Cross Site Scripting (XSS) in 12 Step Meeting List <= 3.19.16 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-66584",
+   "cvss": 7.1,
+   "ref": "https://patchstack.com/database/wordpress/plugin/12-step-meeting-list/vulnerability/wordpress-12-step-meeting-list-plugin-3-19-16-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-66584 — Kịch bản chéo trang web chưa được xác thực (XSS) trong Danh sách cuộc họp 12 bước <= 3",
+  "key": "1e0f907e371dfe831c8a0c79c6b95d1d0ccec07e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-66585 — Unauthenticated Sensitive Data Exposure in WP Cafe Pro < 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66585",
+  "published": "2026-08-24T12:16:52.693",
+  "summary": "Unauthenticated Sensitive Data Exposure in WP Cafe Pro < 3.0.15 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-66585",
+   "cvss": 7.5,
+   "ref": "https://patchstack.com/database/wordpress/plugin/wpcafe-pro/vulnerability/wordpress-wp-cafe-pro-plugin-3-0-15-sensitive-data-exposure-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-66585 — Phơi nhiễm dữ liệu nhạy cảm chưa được xác thực trong WP Cafe Pro < 3",
+  "key": "fd5f96d31aec58c13802c5065e9c47550eb1cd33"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-66587 — Unauthenticated Local File Inclusion in WP Cafe Pro < 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66587",
+  "published": "2026-08-24T12:16:52.837",
+  "summary": "Unauthenticated Local File Inclusion in WP Cafe Pro < 3.0.15 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-66587",
+   "cvss": 9.8,
+   "ref": "https://patchstack.com/database/wordpress/plugin/wpcafe-pro/vulnerability/wordpress-wp-cafe-pro-plugin-3-0-15-local-file-inclusion-vulnerability-2?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-66587 — Bao gồm tệp cục bộ chưa được xác thực trong WP Cafe Pro < 3",
+  "key": "65fc1cefebea045b26cd9d52e78c04ab5b0309f7"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-66599 — Unauthenticated Cross Site Scripting (XSS) in WPComplete <= 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66599",
+  "published": "2026-08-24T12:16:52.980",
+  "summary": "Unauthenticated Cross Site Scripting (XSS) in WPComplete <= 2.9.5.6 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-66599",
+   "cvss": 7.1,
+   "ref": "https://patchstack.com/database/wordpress/plugin/wpcomplete/vulnerability/wordpress-wpcomplete-plugin-2-9-5-6-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-66599 — Kịch bản chéo trang không được xác thực (XSS) trong WPComplete <= 2",
+  "key": "6f5e351a7cd2020568d1d25099164b210348538d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-66610 — Unauthenticated Cross Site Scripting (XSS) in Urna <= 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66610",
+  "published": "2026-08-24T12:16:53.127",
+  "summary": "Unauthenticated Cross Site Scripting (XSS) in Urna <= 2.6.2 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-66610",
+   "cvss": 7.1,
+   "ref": "https://patchstack.com/database/wordpress/theme/urna/vulnerability/wordpress-urna-theme-2-6-2-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-66610 — Cross Site Scripting (XSS) chưa được xác thực bằng Urna <= 2",
+  "key": "7e49a374581a579fb063d793b1e078efb6aef2d5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-66623 — Unauthenticated Cross Site Scripting (XSS) in Social Media & Share Icons <= 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66623",
+  "published": "2026-08-24T12:16:53.270",
+  "summary": "Unauthenticated Cross Site Scripting (XSS) in Social Media & Share Icons <= 2.9.9 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-66623",
+   "cvss": 7.1,
+   "ref": "https://patchstack.com/database/wordpress/plugin/ultimate-social-media-icons/vulnerability/wordpress-social-media-share-icons-plugin-2-9-9-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-66623 — Tập lệnh chéo trang web không được xác thực (XSS) trong Mạng xã hội & Biểu tượng chia sẻ <= 2",
+  "key": "2f51e8a0b3cbbca20f4c296c76be3311cf452946"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-66648 — Unauthenticated Privilege Escalation in Jawn <= 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66648",
+  "published": "2026-08-24T12:16:53.433",
+  "summary": "Unauthenticated Privilege Escalation in Jawn <= 1.4.2 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-66648",
+   "cvss": 9.8,
+   "ref": "https://patchstack.com/database/wordpress/theme/jawn/vulnerability/wordpress-jawn-theme-1-4-2-privilege-escalation-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-66648 — Đặc quyền leo thang không được xác thực trong Jawn <= 1",
+  "key": "f6ab429e7ed969aacae9aad0f8e3d79895f6bf25"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-66650 — Unauthenticated PHP Object Injection in FreightCo <= 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66650",
+  "published": "2026-08-24T12:16:53.580",
+  "summary": "Unauthenticated PHP Object Injection in FreightCo <= 1.1.15 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-66650",
+   "cvss": 9.8,
+   "ref": "https://patchstack.com/database/wordpress/theme/freightco/vulnerability/wordpress-freightco-theme-1-1-15-php-object-injection-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-66650 — Tiêm đối tượng PHP không được xác thực trong FreightCo <= 1",
+  "key": "84b86142a4e37c34d3d5962246db081de6377978"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-66670 — Unauthenticated Local File Inclusion in Måne <= 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66670",
+  "published": "2026-08-24T12:16:53.730",
+  "summary": "Unauthenticated Local File Inclusion in Måne <= 1.7 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-66670",
+   "cvss": 8.1,
+   "ref": "https://patchstack.com/database/wordpress/theme/mane/vulnerability/wordpress-maane-theme-1-7-local-file-inclusion-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-66670 — Bao gồm tệp cục bộ chưa được xác thực trong Måne <= 1",
+  "key": "7085313bea2c052dc184a1966ba22dddf03172b9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-66671 — Unauthenticated Local File Inclusion in Verdure Core <= 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66671",
+  "published": "2026-08-24T12:16:53.880",
+  "summary": "Unauthenticated Local File Inclusion in Verdure Core <= 1.2 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-66671",
+   "cvss": 8.1,
+   "ref": "https://patchstack.com/database/wordpress/plugin/verdure-core/vulnerability/wordpress-verdure-core-plugin-1-2-local-file-inclusion-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-66671 — Bao gồm tệp cục bộ chưa được xác thực trong Verdure Core <= 1",
+  "key": "81648ecb3fed23a75cccb074c954796226c766d1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-6017 — Firmware in KAON PG5298A and PG5298B routers allow an unauthenticated user to query a specific endpoint and acquire sensitive information such as a pa",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-6017",
+  "published": "2026-08-24T12:16:54.030",
+  "summary": "Firmware in KAON PG5298A and PG5298B routers allow an unauthenticated user to query a specific endpoint and acquire sensitive information such as a password to the administrative portal.   \nThis vulnerability has been fixed in firmware version: 3.0.82 for PG5298A and 4.0.82 for PG5298B.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-6017",
+   "cvss": null,
+   "ref": "https://cert.pl/en/posts/2026/08/CVE-2025-63080/"
+  },
+  "title_vi": "CVE-2026-6017 — Phần vững trong bộ định tuyến KAON PG5298A và PG5298B cho phép người dùng chưa được xác thực truy vấn một điểm cuối cụ thể và thu thập thông tin nhạy cảm như pa",
+  "key": "699ea3688e7168977f7b8f7a462a8183185c765b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78246 — A vulnerability has been found in itsourcecode Online Clinic Management System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78246",
+  "published": "2026-08-24T12:16:54.523",
+  "summary": "A vulnerability has been found in itsourcecode Online Clinic Management System 1.0. This vulnerability affects unknown code of the file success/login.php of the component Admin Login. The manipulation of the argument Username leads to sql injection. Remote exploitation of the attack is possible. The exploit has been disclosed to the public and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78246",
+   "cvss": 7.3,
+   "ref": "https://github.com/microwaveabi/vul/issues/63"
+  },
+  "title_vi": "CVE-2026-78246 — Một lỗ hổng đã được tìm thấy trong Mã nguồn Hệ thống quản lý phòng khám trực tuyến 1",
+  "key": "520420276ebe00a4363fcd14d10d91a2c9cbd7ca"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78258 — Unauthenticated Broken Access Control in Booking and Rental Manager <= 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78258",
+  "published": "2026-08-24T12:16:54.747",
+  "summary": "Unauthenticated Broken Access Control in Booking and Rental Manager <= 2.7.5 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78258",
+   "cvss": 5.3,
+   "ref": "https://patchstack.com/database/wordpress/plugin/booking-and-rental-manager-for-woocommerce/vulnerability/wordpress-booking-and-rental-manager-plugin-2-7-5-broken-access-control-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-78258 - Kiểm soát truy cập bị hỏng không được xác thực trong Quản lý đặt phòng và cho thuê <= 2",
+  "key": "44220a843ec6eac6cd50da6af97643de5fbb7628"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78269 — Contributor Server Side Request Forgery (SSRF) in Shared Files <= 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78269",
+  "published": "2026-08-24T12:16:54.893",
+  "summary": "Contributor Server Side Request Forgery (SSRF) in Shared Files <= 1.7.69 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78269",
+   "cvss": 6.4,
+   "ref": "https://patchstack.com/database/wordpress/plugin/shared-files/vulnerability/wordpress-shared-files-plugin-1-7-69-server-side-request-forgery-ssrf-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-78269 — Giả mạo yêu cầu phía máy chủ cộng tác viên (SSRF) trong các tệp được chia sẻ <= 1",
+  "key": "760656cdde8cd6988345d25be8ccc3308edcc757"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78270 — Author SQL Injection in FluentCRM Pro <= 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78270",
+  "published": "2026-08-24T12:16:55.043",
+  "summary": "Author SQL Injection in FluentCRM Pro <= 3.1.12 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78270",
+   "cvss": 7.6,
+   "ref": "https://patchstack.com/database/wordpress/plugin/fluentcampaign-pro/vulnerability/wordpress-fluentcrm-pro-plugin-3-1-12-sql-injection-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-78270 — Tác giả SQL Injection trong FluentCRM Pro <= 3",
+  "key": "6c42a8384280ccc1c270e7811a9656f73ba54906"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78272 — Subscriber Broken Access Control in Fluent Support Pro <= 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78272",
+  "published": "2026-08-24T12:16:55.193",
+  "summary": "Subscriber Broken Access Control in Fluent Support Pro <= 2.3.1 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78272",
+   "cvss": 5.4,
+   "ref": "https://patchstack.com/database/wordpress/plugin/fluent-support-pro/vulnerability/wordpress-fluent-support-pro-plugin-2-3-1-broken-access-control-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-78272 — Kiểm soát truy cập bị hỏng của người đăng ký trong Fluent Support Pro <= 2",
+  "key": "29c0f6c3f8e4e22e15030885462698db62e17c0f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78277 — Subscriber Server Side Request Forgery (SSRF) in FluentCRM Pro <= 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78277",
+  "published": "2026-08-24T12:16:55.347",
+  "summary": "Subscriber Server Side Request Forgery (SSRF) in FluentCRM Pro <= 3.1.12 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78277",
+   "cvss": 4.9,
+   "ref": "https://patchstack.com/database/wordpress/plugin/fluentcampaign-pro/vulnerability/wordpress-fluentcrm-pro-plugin-3-1-12-server-side-request-forgery-ssrf-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-78277 — Giả mạo yêu cầu phía máy chủ của người đăng ký (SSRF) trong FluentCRM Pro <= 3",
+  "key": "3f38036bf835c4bcdca6fb084b9a8d2487fa521f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78278 — Subscriber Insecure Direct Object References (IDOR) in Fluent Boards Pro <= 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78278",
+  "published": "2026-08-24T12:16:55.507",
+  "summary": "Subscriber Insecure Direct Object References (IDOR) in Fluent Boards Pro <= 2.0.11 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78278",
+   "cvss": 5.3,
+   "ref": "https://patchstack.com/database/wordpress/plugin/fluent-boards-pro/vulnerability/wordpress-fluent-boards-pro-plugin-2-0-11-insecure-direct-object-references-idor-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-78278 — Tham chiếu đối tượng trực tiếp không an toàn của người đăng ký (IDOR) trong Fluent Boards Pro <= 2",
+  "key": "be418471a28c079133c60f833b2acca77a76ba41"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78279 — Unauthenticated Cross Site Request Forgery (CSRF) in Fluent Support Pro <= 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78279",
+  "published": "2026-08-24T12:16:55.657",
+  "summary": "Unauthenticated Cross Site Request Forgery (CSRF) in Fluent Support Pro <= 2.3.1 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78279",
+   "cvss": 5.4,
+   "ref": "https://patchstack.com/database/wordpress/plugin/fluent-support-pro/vulnerability/wordpress-fluent-support-pro-plugin-2-3-1-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-78279 — Giả mạo yêu cầu chéo trang web chưa được xác thực (CSRF) trong Fluent Support Pro <= 2",
+  "key": "d8064eac355258a814a35df1b437fbafe4861dae"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78280 — Unauthenticated Cross Site Request Forgery (CSRF) in Hash Form <= 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78280",
+  "published": "2026-08-24T12:16:55.813",
+  "summary": "Unauthenticated Cross Site Request Forgery (CSRF) in Hash Form <= 1.4.0 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78280",
+   "cvss": 4.3,
+   "ref": "https://patchstack.com/database/wordpress/plugin/hash-form/vulnerability/wordpress-hash-form-plugin-1-4-0-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-78280 — Giả mạo yêu cầu chéo trang web không được xác thực (CSRF) trong Biểu mẫu băm <= 1",
+  "key": "7803380a02d08a2af6cc770c1d44bee2a577bf9a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78290 — Contributor Cross Site Scripting (XSS) in Magazine Blocks <= 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78290",
+  "published": "2026-08-24T12:16:55.960",
+  "summary": "Contributor Cross Site Scripting (XSS) in Magazine Blocks <= 1.8.6 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78290",
+   "cvss": 6.5,
+   "ref": "https://patchstack.com/database/wordpress/plugin/magazine-blocks/vulnerability/wordpress-magazine-blocks-plugin-1-8-6-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-78290 — Contributor Cross Site Scripting (XSS) trong Magazine Blocks <= 1",
+  "key": "c16b6a2d39996caac7fa76584a9fd717c2da730d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78291 — Unauthenticated Broken Access Control in RepairBuddy <= 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78291",
+  "published": "2026-08-24T12:16:56.110",
+  "summary": "Unauthenticated Broken Access Control in RepairBuddy <= 4.1223 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78291",
+   "cvss": 5.3,
+   "ref": "https://patchstack.com/database/wordpress/plugin/computer-repair-shop/vulnerability/wordpress-repairbuddy-plugin-4-1223-broken-access-control-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-78291 - Kiểm soát truy cập bị hỏng không được xác thực trong RepairBuddy <= 4",
+  "key": "82c1958a345d06924f55f0444339212098347e22"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78323 — A flaw was found in JSS (Java Security Services)",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78323",
+  "published": "2026-08-24T12:16:56.250",
+  "summary": "A flaw was found in JSS (Java Security Services). The JSSTrustManager class does not verify NSS trust flags when validating CA certificates, allowing certificates present in the NSS database without TRUSTED_CA flags to be accepted as trust anchors for TLS connections. In non-default configurations where certificate revocation checking is disabled, this could allow a man-in-the-middle attacker to forge certificates accepted by PKI client connections.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78323",
+   "cvss": 6.5,
+   "ref": "https://access.redhat.com/security/cve/CVE-2026-78323"
+  },
+  "title_vi": "CVE-2026-78323 — Một lỗ hổng đã được tìm thấy trong JSS (Java Security Services)",
+  "key": "df639474a0869a80cc9f2a049a44f4efc403cd50"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
   "title": "Quốc hội thông qua Luật phòng chống rửa tiền, bổ sung quy định về tài sản mã hóa",
   "link": "https://www.vietnamplus.vn/quoc-hoi-thong-qua-luat-phong-chong-rua-tien-bo-sung-quy-dinh-ve-tai-san-ma-hoa-post1132145.vnp",
   "published": "2026-08-24T08:32:52+00:00",
