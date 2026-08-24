@@ -1,5 +1,212 @@
 [
  {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Bản quyền trong kỷ nguyên AI: Khi quy định chưa theo kịp thực tế",
+  "link": "https://www.vietnamplus.vn/ban-quyen-trong-ky-nguyen-ai-khi-quy-dinh-chua-theo-kip-thuc-te-post1132007.vnp",
+  "published": "2026-08-23T22:55:26+00:00",
+  "summary": "Sự phát triển nhanh chóng của AI đang đặt luật bản quyền trước câu hỏi chưa có tiền lệ, đặc biệt về việc sử dụng tác phẩm có bản quyền để huấn luyện mô hình và quyền đối với nội dung do AI tạo ra. Spotify siết nội dung do \"Trí tuệ nhân tạo\" sáng tác Trí tuệ nhân tạo: Lợi thế AI nằm ở những công nghệ khó sao chép Trí tuệ nhân tạo tái định hình cuộc chiến an ninh mạng",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "3ca913014e88544ad38228938f3eb8efce0e073c"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Mexico: Phát hiện dấu tích cộng đồng cổ đại chưa từng được biết đến",
+  "link": "https://www.vietnamplus.vn/mexico-phat-hien-dau-tich-cong-dong-co-dai-chua-tung-duoc-biet-den-post1132002.vnp",
+  "published": "2026-08-23T22:38:27+00:00",
+  "summary": "Nhóm nghiên cứu cho biết công trình có cấu trúc dạng quảng trường với viền bằng các khối đá tròn và họ tìm thấy tấm bia đá andesit chạm khắc nhân vật có đường nét gợi nhớ đến nền văn minh Maya. Phát hiện khảo cổ tại Mexico mở ra góc nhìn mới về nền văn minh Maya Phát hiện khảo cổ mới về danh tướng d’Artagnan trong \"Ba chàng lính ngự lâm\" Ai Cập phát hiện 13.000 mảnh gốm vỡ tại địa điểm khảo cổ Athribis",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "64de0e126aa155da616ae219375d65dfbc20e3bc"
+ },
+ {
+  "source": "Báo Tin tức (TTXVN) KH-CN",
+  "title": "Ấn Độ: AI đang tạo việc làm thay vì lấy đi việc làm",
+  "link": "https://baotintuc.vn/khoa-hoc-doi-song/an-do-ai-dang-tao-viec-lam-thay-vi-lay-di-viec-lam-20260823221543435.htm",
+  "published": "2026-08-24T01:06:15.945262+00:00",
+  "summary": "Tại thành phố Karur, miền Nam Ấn Độ, sự phát triển của AI đang tạo ra một ngành nghề mới, mở thêm cơ hội việc làm cho người lao động.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "b1e312900c6c6448789dfc9d1c8b721273f738a6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78141 — A vulnerability has been found in Tenda CH22 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78141",
+  "published": "2026-08-23T22:16:32.667",
+  "summary": "A vulnerability has been found in Tenda CH22 1.0.0.1. This affects the function formexeCommand of the file /goform/exeCommand. The manipulation of the argument cmdinput leads to command injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78141",
+   "cvss": 7.4,
+   "ref": "https://candle-throne-f75.notion.site/Tenda-CH22-formexeCommand-396df0aa11858036b0cdf7a7562d4a67"
+  },
+  "title_vi": "CVE-2026-78141 — Một lỗ hổng đã được tìm thấy trong Tenda CH22 1",
+  "key": "177c22f09226a336db810f5e3866a2d43fbb45d5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78142 — A vulnerability was found in code-projects Barangay Resident Profiling Management System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78142",
+  "published": "2026-08-23T22:16:32.903",
+  "summary": "A vulnerability was found in code-projects Barangay Resident Profiling Management System 1.0. This impacts an unknown function of the file /archived_records.php of the component Restore/Delete. The manipulation of the argument resident_id results in authorization bypass. The attack may be launched remotely. The exploit has been made public and could be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78142",
+   "cvss": 6.3,
+   "ref": "https://code-projects.org/"
+  },
+  "title_vi": "CVE-2026-78142 - Một lỗ hổng đã được tìm thấy trong mã dự án Hệ thống quản lý hồ sơ cư dân Barangay 1",
+  "key": "d0324926ac5eea5ac0940b9e626c1c9d1d769965"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78143 — A vulnerability was determined in code-projects Barangay Resident Profiling Management System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78143",
+  "published": "2026-08-23T23:16:44.810",
+  "summary": "A vulnerability was determined in code-projects Barangay Resident Profiling Management System 1.0. Affected is an unknown function of the file residents.php of the component Resident Search Functionality. This manipulation of the argument Search causes sql injection. Remote exploitation of the attack is possible. The exploit has been publicly disclosed and may be utilized.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78143",
+   "cvss": 7.3,
+   "ref": "https://code-projects.org/"
+  },
+  "title_vi": "CVE-2026-78143 - Một lỗ hổng đã được xác định trong các dự án mã Hệ thống quản lý hồ sơ cư dân Barangay 1",
+  "key": "ec58d63c0300054669c0789423b0995adfffed76"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78144 — A vulnerability was identified in code-projects Barangay Resident Profiling Management System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78144",
+  "published": "2026-08-23T23:16:45.870",
+  "summary": "A vulnerability was identified in code-projects Barangay Resident Profiling Management System 1.0. Affected by this vulnerability is an unknown functionality of the file /boarders.php of the component Boarder Management Module. Such manipulation of the argument ID leads to authorization bypass. The attack can be executed remotely. The exploit is publicly available and might be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78144",
+   "cvss": 6.3,
+   "ref": "https://code-projects.org/"
+  },
+  "title_vi": "CVE-2026-78144 - Một lỗ hổng đã được xác định trong các dự án mã Hệ thống quản lý hồ sơ cư dân Barangay 1",
+  "key": "fa1680660edd073c398b6805cb98bf5b2e268c85"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78145 — A vulnerability has been found in CTFd up to 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78145",
+  "published": "2026-08-23T23:16:46.043",
+  "summary": "A vulnerability has been found in CTFd up to 3.8.4. The affected element is the function _is_safe_url of the file CTFd/utils/validators/__init__.py. Such manipulation of the argument Next leads to open redirect. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The name of the patch is 5d8515842fd1ab2c3a9f2dde9ffca907aa334ea9. Upgrading the affected component is recommended.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78145",
+   "cvss": 4.3,
+   "ref": "https://github.com/CTFd/CTFd/"
+  },
+  "title_vi": "CVE-2026-78145 — Một lỗ hổng đã được tìm thấy trong CTFd lên đến 3",
+  "key": "a63285cbb36c5b2ae49e8e9d9efa3faf39862321"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78147 — A vulnerability was found in ggml-org llama",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78147",
+  "published": "2026-08-23T23:16:46.243",
+  "summary": "A vulnerability was found in ggml-org llama.cpp bec4772f6. The impacted element is the function deserialize_tensor of the file ggml/src/ggml-rpc/ggml-rpc.cpp of the component ggml-RPC Server. Performing a manipulation of the argument op/op_params results in deserialization. The attack may be initiated remotely. This vulnerability is distinct from CVE-2026-34159 (GHSA-j8rj-fmpv-wcxw, PR #20908), which only added a buffer==nullptr rejection in create_node() and does not validate op or op_params. The reported GitHub issue was closed automatically due to inactivity.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78147",
+   "cvss": 7.3,
+   "ref": "https://github.com/ggml-org/llama.cpp/"
+  },
+  "title_vi": "CVE-2026-78147 — Một lỗ hổng đã được tìm thấy trong ggml-org llama",
+  "key": "22b510368bc6e4815fe210ab1f56f9af23c2c8dd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78148 — A vulnerability was determined in ggml-org llama",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78148",
+  "published": "2026-08-24T00:16:46.293",
+  "summary": "A vulnerability was determined in ggml-org llama.cpp bec4772f6. This affects the function rpc_server::graph_compute of the file ggml/src/ggml-rpc/ggml-rpc.cpp of the component ggml-RPC Server. Executing a manipulation can lead to null pointer dereference. The attack may be launched remotely. The pull request to fix this issue awaits acceptance.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78148",
+   "cvss": 5.3,
+   "ref": "https://github.com/ggml-org/llama.cpp/"
+  },
+  "title_vi": "CVE-2026-78148 — Một lỗ hổng đã được xác định trong ggml-org llama",
+  "key": "371ccda9476cca7ceea654ed959ddb1682e5aab8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78154 — A vulnerability was identified in the-momentum open-wearables up to 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78154",
+  "published": "2026-08-24T00:16:47.200",
+  "summary": "A vulnerability was identified in the-momentum open-wearables up to 0.6.2. This impacts the function redeem_invitation_code of the file backend/app/api/routes/v1/user_invitation_code.py of the component Public Invitation-Code Redemption Endpoint. The manipulation of the argument code leads to missing authentication. Remote exploitation of the attack is possible. The project was informed of the problem early through an issue report but has not responded yet.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78154",
+   "cvss": 7.3,
+   "ref": "https://github.com/the-momentum/open-wearables/"
+  },
+  "title_vi": "CVE-2026-78154 - Một lỗ hổng đã được xác định trong các thiết bị đeo mở động lượng lên đến 0",
+  "key": "ddee15c631eea19ea4274ca2422e42d93af296cf"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78156 — A security vulnerability has been detected in Open5GS 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78156",
+  "published": "2026-08-24T00:16:47.367",
+  "summary": "A security vulnerability has been detected in Open5GS 2.8.0. Affected by this issue is the function hss_ogs_diam_s6a_air_cb of the file src/hss/hss-s6a-path.c of the component S6a Authentication-Information-Request Handler. Such manipulation of the argument Visited-PLMN-Id leads to heap-based buffer overflow. The attack may be performed from remote. The name of the patch is a9c82ee0b590d76a581b0580cb46b598984e2392. A patch should be applied to remediate this issue.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78156",
+   "cvss": 7.4,
+   "ref": "https://github.com/open5gs/open5gs/"
+  },
+  "title_vi": "CVE-2026-78156 — Lỗ hổng bảo mật đã được phát hiện trong Open5GS 2",
+  "key": "d86c10d338329a3c86e1c36375da711b0b5883e5"
+ },
+ {
   "source": "NVD",
   "title": "CVE-2026-75922 — Reverse::Proxy versions before 0",
   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75922",
@@ -24496,7 +24703,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Nuôi dưỡng một https an toàn lượng tử mạnh mẽ và hiệu quả",
   "key": "d6d40b54aedab3f2f2f2e0d763671778b6f0a3cf"
  },
  {
@@ -24510,7 +24717,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Đi trước một bước: Tăng cường khả năng dẫn đầu của Android trong bảo vệ chống lừa đảo",
   "key": "fe52f49dffff2a54fe6bd7d999cabac072b6318a"
  },
  {
@@ -24524,7 +24731,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Giữ an toàn cho hệ sinh thái ứng dụng Google Play & Android vào năm 2025",
   "key": "b28d044da0c1a14d089e732a360e9a5be67eb915"
  },
  {
@@ -24538,7 +24745,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Cập nhật tính năng chống trộm Android mới: Thông minh hơn, mạnh mẽ hơn",
   "key": "7ca0c63ccc3c2b8881446cd6fcd5940669e7ea38"
  },
  {
@@ -28815,7 +29022,7 @@
    "due_date": "2026-03-26",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2021-30952 - Apple Multiple Products Integer Overflow or Wraparound Vulnerability (Lỗ hổng tràn số nguyên hoặc bao quanh nhiều sản phẩm của Apple)",
   "key": "e0133a6179cf138c663841162f6e1302721d2e89"
  },
  {
@@ -28835,7 +29042,7 @@
    "due_date": "2026-03-26",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2023-41974 — Lỗ hổng bảo mật Apple iOS và iPadOS Use-After-Free",
   "key": "7a35d1a8fd9fdf0dc4ecea103307a677fb27984c"
  },
  {
@@ -28855,7 +29062,7 @@
    "due_date": "2026-03-24",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-22719 — Lỗ hổng Broadcom VMware ARIA Operations Command Injection",
   "key": "dc8a4cf841de838f2b25a1a343bdf9a7ddf48da3"
  },
  {
@@ -28875,7 +29082,7 @@
    "due_date": "2026-03-24",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-21385 — Lỗ hổng tham nhũng bộ nhớ nhiều chipset Qualcomm",
   "key": "3029bee9004a0c977568fc2ff5ac9b2c48c072a8"
  },
  {
@@ -28895,7 +29102,7 @@
    "due_date": "2026-02-27",
    "required_action": "Please adhere to CISA’s guidelines to assess exposure and mitigate risks associated with Cisco SD-WAN devices as outlines in CISA’s Emergency Directive 26-03 (URL listed below in Notes) and CISA’s “Hunt & Hardening Guidance for Cisco SD-WAN Devices (URL listed below in Notes). Adhere to the applicable BOD 22-01 guidance for cloud services or discontinue use of the product if mitigations are not available."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2022-20775 - Lỗ hổng bảo mật đường truyền Cisco SD-WAN Path",
   "key": "529702dc11d0c1997c536530f4a6c76d658567bc"
  },
  {
@@ -28915,7 +29122,7 @@
    "due_date": "2026-02-27",
    "required_action": "Please adhere to CISA’s guidelines to assess exposure and mitigate risks associated with Cisco SD-WAN devices as outlines in CISA’s Emergency Directive 26-03 (URL listed below in Notes) and CISA’s “Hunt & Hardening Guidance for Cisco SD-WAN Devices (URL listed below in Notes). Adhere to the applicable BOD 22-01 guidance for cloud services or discontinue use of the product if mitigations are not available."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-20127 — Cisco Catalyst SD-WAN Controller and Manager Authentication Bypass Vulnerability (Bộ điều khiển Cisco Catalyst SD-WAN và xác thực trình quản lý bỏ qua lỗ hổng)",
   "key": "49116e7e3d151b4a56617318ce4fa71a9869c0fc"
  },
  {
@@ -28935,7 +29142,7 @@
    "due_date": "2026-03-17",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-25108 — Lỗ hổng Soliton Systems KK FileZen OS Command Injection",
   "key": "f54e768cc045c9b1516ef60fde42aaf4899f1764"
  },
  {
@@ -28955,7 +29162,7 @@
    "due_date": "2026-03-13",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-49113 - RoundCube Webmail Deserialization của lỗ hổng dữ liệu không đáng tin cậy",
   "key": "95c2a40cea35121a2101437e6cdf5168e4c45b87"
  },
  {
@@ -28975,7 +29182,7 @@
    "due_date": "2026-03-13",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-68461 — Lỗ hổng Cross-site Scripting RoundCube Webmail",
   "key": "1f656cbe9b00eb5182816073047a04bcdc2f8aa7"
  },
  {
@@ -28995,7 +29202,7 @@
    "due_date": "2026-03-11",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2021-22175 — Lỗ hổng giả mạo yêu cầu phía máy chủ GitLab (SSRF)",
   "key": "fbf8b693968650a226370f5574aef1a5a58688bc"
  },
  {
@@ -29016,7 +29223,7 @@
    "due_date": "2026-02-21",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-22769 — Dell RecoverPoint cho máy ảo (RP4VM) Sử dụng lỗ hổng thông tin xác thực được mã hóa cứng",
   "key": "3a170e129581693e7803084400d0abae58ee7ad4"
  },
  {
@@ -29036,7 +29243,7 @@
    "due_date": "2026-03-10",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2020-7796 — Synacor Zimbra Collaboration Suite (ZCS) Lỗ hổng giả mạo yêu cầu phía máy chủ",
   "key": "b6204da5558c63bf14d2527799190b0a4934e0f2"
  },
  {
@@ -29057,7 +29264,7 @@
    "due_date": "2026-03-10",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2024-7694 — TeamT5 ThreatSonar Anti-Ransomware Tải lên không giới hạn tệp có lỗ hổng loại nguy hiểm",
   "key": "c44d2cb4f1f016ef2e3ee6efb6bc51d679868416"
  },
  {
@@ -29077,7 +29284,7 @@
    "due_date": "2026-03-10",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2008-0015 — Lỗ hổng thực thi mã từ xa điều khiển Microsoft Windows Video ActiveX",
   "key": "00d912b2b01c2c5540002f3c4b81a717952d9b7a"
  },
  {
@@ -29097,7 +29304,7 @@
    "due_date": "2026-03-10",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-2441 — Lỗ hổng Google Chromium CSS Use-After-Free",
   "key": "cf9c90b7a48814a13e0e08f11765e00cf5a17573"
  },
  {
@@ -29118,7 +29325,7 @@
    "due_date": "2026-02-16",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-1731 — Lỗ hổng trong hệ điều hành BeyondTrust Remote Support (RS) và Privileged Remote Access (PRA)",
   "key": "dcd76f9d8df49fd42892ebfa2ba4ec680f8d7a51"
  },
  {
@@ -29138,7 +29345,7 @@
    "due_date": "2026-03-05",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-20700 — Lỗ hổng tràn bộ đệm của Apple",
   "key": "964c29a0ffc2dbb985336597ee26d5ff66cd0831"
  },
  {
@@ -29158,7 +29365,7 @@
    "due_date": "2026-03-05",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2024-43468 — Lỗ hổng SQL Injection của Microsoft Configuration Manager",
   "key": "7353fca491ef852657715c1b0a317a2f44607eb0"
  },
  {
@@ -29178,7 +29385,7 @@
    "due_date": "2026-03-05",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-15556 — Notepad++ Tải xuống Code Without Integrity Check Vulnerability",
   "key": "760869a1f28123a542defdf51da9409cf0b20691"
  },
  {
@@ -29198,7 +29405,7 @@
    "due_date": "2026-02-15",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-40536 — Bàn trợ giúp web SolarWinds Kiểm soát bảo mật Bỏ qua lỗ hổng",
   "key": "d34295b3cd73797e7310fd6d62862e3fc1a64508"
  },
  {
@@ -29218,7 +29425,7 @@
    "due_date": "2026-03-03",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-21513 — Lỗ hổng cơ chế bảo vệ khung MSHTML của Microsoft",
   "key": "c5a263554a3ce7fb0192b0dab2562054220806ab"
  },
  {
@@ -29238,7 +29445,7 @@
    "due_date": "2026-03-03",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-21525 — Lỗ hổng Hủy BỎ Con trỏ Microsoft Windows NULL",
   "key": "113163037f17c5b25f1f53bad6b59ff3cd99cda2"
  },
  {
@@ -29258,7 +29465,7 @@
    "due_date": "2026-03-03",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-21510 — Lỗ hổng cơ chế bảo vệ Microsoft Windows Shell",
   "key": "4a1503fc6414023f4361852f5535fc62a6e78e9a"
  },
  {
@@ -29278,7 +29485,7 @@
    "due_date": "2026-03-03",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-21533 - Lỗ hổng quản lý đặc quyền không đúng cách của Microsoft Windows",
   "key": "65a06d138161be56bc069d93c989922c3dd0bae7"
  },
  {
@@ -29298,7 +29505,7 @@
    "due_date": "2026-03-03",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-21519 — Lỗ hổng nhầm lẫn loại Microsoft Windows",
   "key": "66af5cce0f7718f181554185e1f29e78581809ca"
  },
  {
@@ -29318,7 +29525,7 @@
    "due_date": "2026-03-03",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-21514 - Microsoft Office Word phụ thuộc vào đầu vào không đáng tin cậy trong một lỗ hổng quyết định bảo mật",
   "key": "31f55ddf11198f85baefa8e6fb8c78c1f345aab9"
  },
  {
@@ -29338,7 +29545,7 @@
    "due_date": "2026-02-26",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-11953 — Lỗ hổng tiêm lệnh cộng đồng React Native Community CLI OS",
   "key": "37752e7f5553b6dfaa7fe1d61d3623c8882ba121"
  },
  {
@@ -29358,7 +29565,7 @@
    "due_date": "2026-02-26",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-24423 — SmarterTools SmarterMail Thiếu xác thực cho lỗ hổng chức năng quan trọng",
   "key": "df555498078e3c419b289be22c5f9c768b68201c"
  },
  {
@@ -29378,7 +29585,7 @@
    "due_date": "2026-02-24",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2021-39935 — Lỗ hổng GitLab Community and Enterprise Editions Server-Side Request Forgery (SSRF)",
   "key": "fbcacf760acb8ca635740841c679f8c37386e5c5"
  },
  {
@@ -29398,7 +29605,7 @@
    "due_date": "2026-02-24",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-64328 — Lỗ hổng Sangoma FreePBX OS Command Injection",
   "key": "5b6d2ae224a5f8ee98d16d95db60c670dc1b6924"
  },
  {
@@ -29418,7 +29625,7 @@
    "due_date": "2026-02-24",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2019-19006 -  Sangoma FreePBX Lỗ hổng xác thực không đúng cách",
   "key": "aadeed20bae1b3c900b39cbfa233da5c467207d5"
  },
  {
@@ -29438,7 +29645,7 @@
    "due_date": "2026-02-06",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-40551 — SolarWinds Web Help Desk Deserialization của lỗ hổng dữ liệu không đáng tin cậy",
   "key": "c60bec510a35de280d4914d1864e10d6ec317e18"
  },
  {
@@ -29458,7 +29665,7 @@
    "due_date": "2026-02-01",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-1281 — Lỗ hổng tiêm mã Ivanti Endpoint Manager Mobile (EPMM)",
   "key": "85a5edf23c5389be2d635e2147d1df2c8041bf9a"
  },
  {
@@ -29478,7 +29685,7 @@
    "due_date": "2026-01-30",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-24858 - Bỏ qua xác thực nhiều sản phẩm Fortinet bằng cách sử dụng đường dẫn thay thế hoặc lỗ hổng kênh",
   "key": "3bc6556431e0e5e2be2f918712453b9b97e514ea"
  },
  {
@@ -29498,7 +29705,7 @@
    "due_date": "2026-02-16",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2018-14634 — Lỗ hổng tràn hạt nhân Linux",
   "key": "082fcb33a85d8d69f36ba3545d73f8153e1cb187"
  },
  {
@@ -29518,7 +29725,7 @@
    "due_date": "2026-02-16",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-52691 — SmarterTools SmarterMail Tải lên không giới hạn tệp có lỗ hổng loại nguy hiểm",
   "key": "240f217faba1525b5f6a15f00f40b0d9d9849738"
  },
  {
@@ -29538,7 +29745,7 @@
    "due_date": "2026-02-16",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-23760 - Bỏ qua xác thực SmarterTools SmarterMail bằng cách sử dụng đường dẫn thay thế hoặc lỗ hổng kênh",
   "key": "2fecec7b97ea7ba38abde6db85ba47e5228241a7"
  },
  {
@@ -29558,7 +29765,7 @@
    "due_date": "2026-02-16",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-24061 — Lỗ hổng chèn đối số GNU InetUtils",
   "key": "6d70c546bd0ed4e52423cce1ce17f30661dd97f6"
  },
  {
@@ -29578,7 +29785,7 @@
    "due_date": "2026-02-16",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-21509 — Lỗ hổng bỏ qua tính năng bảo mật Microsoft Office",
   "key": "b0428e21907f7f26349e2e95290d0738bdebaafd"
  },
  {
@@ -29598,7 +29805,7 @@
    "due_date": "2026-02-13",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2024-37079 — Lỗ hổng ghi ngoài phạm vi máy chủ Broadcom VMware vCenter",
   "key": "7136f195e7c51265a26e6aa8a7a385598ea06c10"
  },
  {
@@ -29618,7 +29825,7 @@
    "due_date": "2026-02-12",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-68645 — Synacor Zimbra Collaboration Suite (ZCS) Lỗ hổng bao gồm tệp từ xa PHP",
   "key": "fc056a1f97fe47ae133b6bb0813be6d8232a4134"
  },
  {
@@ -29638,7 +29845,7 @@
    "due_date": "2026-02-12",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-34026 - Lỗ hổng xác thực không đúng cách Versa Concerto",
   "key": "2d03a12c08a6ed28b26a1d09a1704c0d8864cf2a"
  },
  {
@@ -29658,7 +29865,7 @@
    "due_date": "2026-02-12",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-31125 - Vite Vitejs Lỗ hổng kiểm soát truy cập không đúng cách",
   "key": "c91a7d5e232b6d01dde89c2242ac2b73b84eae52"
  },
  {
@@ -29678,7 +29885,7 @@
    "due_date": "2026-02-12",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-54313 — Lỗ hổng mã độc được nhúng eslint-config-prettier",
   "key": "0fbfe90a9e1128740cd267029fecbfe0a0d3ffe6"
  },
  {
@@ -29698,7 +29905,7 @@
    "due_date": "2026-02-11",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-20045 - Lỗ hổng chèn mã sản phẩm truyền thông hợp nhất của Cisco",
   "key": "474a132838b8ad5c6b4ca12f0bf04375d74b5903"
  },
  {
@@ -29718,7 +29925,7 @@
    "due_date": "2026-02-03",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-20805 — Lỗ hổng tiết lộ thông tin Microsoft Windows",
   "key": "1c30ca733d3829df4437f1cc1629c343160a3db7"
  },
  {
@@ -29738,7 +29945,7 @@
    "due_date": "2026-02-02",
    "required_action": "Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-8110 — Lỗ hổng GOGS Path Traversal",
   "key": "fe10f4ddf14550f830a929062b26350bc2e34d37"
  },
  {
