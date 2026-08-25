@@ -1,5 +1,917 @@
 [
  {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Pháp sáng chế drone tự hành thu gom rác tại cảng biển và hạ tầng ngoài khơi",
+  "link": "https://www.vietnamplus.vn/phap-sang-che-drone-tu-hanh-thu-gom-rac-tai-cang-bien-va-ha-tang-ngoai-khoi-post1131999.vnp",
+  "published": "2026-08-24T22:00:00+00:00",
+  "summary": "Một doanh nghiệp đóng tàu tại Pháp đã phát triển thành công một mẫu drone mặt nước tự hành chuyên thu gom rác thải nổi trên biển, mở ra giải pháp mới cho các cảng biển và các công trình ngoài khơi. Ngành hàng không vũ trụ Pháp tăng cường khả năng chống tấn công mạng Pháp yêu cầu Meta nối lại đàm phán về việc trả tiền cho báo chí Nhiều phụ huynh Pháp bất lực trước sự lệ thuộc của con cái vào các nền tảng số",
+  "categories": [
+   "breach",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "3a0eb1c6b1a53949bc95941adb4e70eb655a3c0a"
+ },
+ {
+  "source": "Báo Tin tức (TTXVN) KH-CN",
+  "title": "Goldman Sachs cảnh báo nguy cơ khi để AI thay thế các chuyên gia ngân hàng",
+  "link": "https://baotintuc.vn/khoa-hoc-cong-nghe/goldman-sachs-canh-bao-nguy-co-khi-de-ai-thay-the-cac-chuyen-gia-ngan-hang-20260825070601155.htm",
+  "published": "2026-08-25T01:05:23.224415+00:00",
+  "summary": "Ông Chris Churchman, người đứng đầu nền tảng kỹ thuật số dành cho khách hàng tổ chức có tên Marquee của ngân hàng Goldman Sachs, vừa cảnh báo việc sử dụng trí tuệ nhân tạo (AI) ngày càng nhiều trên thị trường tài chính Phố Wall có nguy cơ làm suy giảm năng lực tư duy của thế hệ chuyên gia tài chính kế cận.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "8f1172017934e8afb83dfba11d855f89ccc34a21"
+ },
+ {
+  "source": "Znews Công nghệ",
+  "title": "Chuyện gì đang xảy ra với tựa game đắt nhất lịch sử",
+  "link": "https://tech.zingnews.vn/chuyen-gi-dang-xay-ra-voi-tua-game-dat-nhat-lich-su-post1679042.html",
+  "published": "2026-08-25T00:30:12+00:00",
+  "summary": "Ngay trước sự kiện quảng bá lớn, GTA VI đối mặt làn sóng rò rỉ dữ liệu chưa từng có. Một kẻ ẩn danh liên tục phát tán video gameplay và gắn kèm tiền ảo để trục lợi.",
+  "categories": [
+   "breach",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "7b72c1d082a7603d3c592dd611bf1cc34486c62d"
+ },
+ {
+  "source": "DarkReading",
+  "title": "Exploited Zimbra Flaw Highlights Shrinking Window to Patch",
+  "link": "https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch",
+  "published": "2026-08-24T21:46:55+00:00",
+  "summary": "CISA has issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user's communications.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Khai thác Zimbra Lỗ hổng nổi bật Cửa sổ thu nhỏ để vá",
+  "key": "d4721040a5642af1d7404b1372f0fe7847298cc5"
+ },
+ {
+  "source": "DarkReading",
+  "title": "Foul Language: WordlistLoader Disguises Malware as Ordinary Text",
+  "link": "https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text",
+  "published": "2026-08-24T20:51:27+00:00",
+  "summary": "ClickFix-style threat campaigns are using a new trick to evade detection and deliver Amatera, an increasingly prevalent infostealer.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Ngôn ngữ không phù hợp: WordlistLoader ngụy trang phần mềm độc hại dưới dạng văn bản thông thường",
+  "key": "8cba0d6700be3bf51d5ecd22be4722bdb6efb8d5"
+ },
+ {
+  "source": "The Record",
+  "title": "US sanctions Iranian cyber actors as UK discloses power plant attack",
+  "link": "https://therecord.media/iran-cyberattacks-us-uk",
+  "published": "2026-08-24T23:00:00+00:00",
+  "summary": "The U.S. sanctioned several Iranian nationals for cyberattacks on critical infrastructure just days after reports emerged of a cyber intrusion on a small power plant in the United Kingdom.",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Mỹ trừng phạt các tác nhân mạng của Iran khi Vương quốc Anh tiết lộ cuộc tấn công nhà máy điện",
+  "key": "921bd0c764a90f04e249ad1dbb2115c13b00da4f"
+ },
+ {
+  "source": "The Record",
+  "title": "New Zealand to pursue social media ban for children under 16",
+  "link": "https://therecord.media/new-zealand-to-pursue-social-media-ban-for-children",
+  "published": "2026-08-24T20:36:00+00:00",
+  "summary": "The legislation would mandate that high-risk social media platforms such as Instagram, TikTok, Snapchat and Facebook take “reasonable steps” to ensure users are over age 16 by using tools like facial age estimation, digital ID services, formal IDs and existing account information for verification.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "New Zealand theo đuổi lệnh cấm sử dụng mạng xã hội đối với trẻ em dưới 16 tuổi",
+  "key": "60c28b16780fec1465137271cf7c8ec49f5d4588"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
+  "link": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
+  "published": "2026-08-24T17:41:11+00:00",
+  "summary": "Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients. McAfee Labs said it detected and blocked more than 6,300 attempts to access malicious sites, adding that it found lookalike gaming websites designed to mimic legitimate projects, including branding, feature lists, FAQs,",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Phần mềm độc hại Weedhack lây lan qua máy khách Minecraft giả mạo và đầu độc SEO",
+  "key": "c70a78022faaead2e05679201fdd54286b3e6b9e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2022-30983 — A cross-site scripting (XSS) vulnerability in Support chatbot in Nopaperforms Niaa-Chatbot through 2022-05-17 allows remote attackers to inject arbitr",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2022-30983",
+  "published": "2026-08-24T21:16:45.793",
+  "summary": "A cross-site scripting (XSS) vulnerability in Support chatbot in Nopaperforms Niaa-Chatbot through 2022-05-17 allows remote attackers to inject arbitrary web script or HTML via the Enter email parameter.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2022-30983",
+   "cvss": null,
+   "ref": "https://github.com/Rajzamal/CVE-Disclosures/blob/main/CVE-2022-30983/README.md"
+  },
+  "title_vi": "CVE-2022-30983 — Lỗ hổng cross-site scripting (XSS) trong Support chatbot trong Nopaperforms Niaa-Chatbot đến hết năm 2022-05-17 cho phép kẻ tấn công từ xa tiêm arbitr",
+  "key": "685affb5337893685613cebe72e885f6629f2650"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-16781 — A maliciously crafted SVG file, when parsed through Autodesk 3ds Max, can trigger an Uncontrolled Recursion vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-16781",
+  "published": "2026-08-24T21:16:48.753",
+  "summary": "A maliciously crafted SVG file, when parsed through Autodesk 3ds Max, can trigger an Uncontrolled Recursion vulnerability. A malicious actor may leverage this vulnerability to cause the application to terminate unexpectedly, resulting in a denial-of-service.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-16781",
+   "cvss": 5.5,
+   "ref": "https://www.autodesk.com/products/autodesk-access/overview"
+  },
+  "title_vi": "CVE-2026-16781 - Tệp SVG được tạo ra với mục đích xấu, khi được phân tích cú pháp thông qua Autodesk 3ds Max, có thể gây ra lỗ hổng Uncontrolled Recursion",
+  "key": "16a52e9df12cdbc5dd244630ca0647cea1bbe155"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-16782 — A maliciously crafted SVG file, when parsed through Autodesk 3ds Max, can force an Out-of-Bounds Read vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-16782",
+  "published": "2026-08-24T21:16:48.900",
+  "summary": "A maliciously crafted SVG file, when parsed through Autodesk 3ds Max, can force an Out-of-Bounds Read vulnerability. A malicious actor can leverage this vulnerability to cause a crash, read sensitive data, or execute arbitrary code in the context of the current process.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-16782",
+   "cvss": 5.3,
+   "ref": "https://www.autodesk.com/products/autodesk-access/overview"
+  },
+  "title_vi": "CVE-2026-16782 - Tệp SVG được tạo ra với mục đích xấu, khi được phân tích cú pháp thông qua Autodesk 3ds Max, có thể gây ra lỗ hổng Out-of-Bounds Read",
+  "key": "e2c5d0dc76e4c93a698d06f055a1a947457be8d8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-16783 — A maliciously crafted ABC file, when parsed through Autodesk 3ds Max, can force an Out-of-Bounds Write vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-16783",
+  "published": "2026-08-24T21:16:49.023",
+  "summary": "A maliciously crafted ABC file, when parsed through Autodesk 3ds Max, can force an Out-of-Bounds Write vulnerability. A malicious actor may leverage this vulnerability to cause a crash, cause data corruption, or execute arbitrary code in the context of the current process.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-16783",
+   "cvss": 7.8,
+   "ref": "https://www.autodesk.com/products/autodesk-access/overview"
+  },
+  "title_vi": "CVE-2026-16783 - Một tệp ABC được tạo ra một cách độc hại, khi được phân tích cú pháp thông qua Autodesk 3ds Max, có thể buộc một lỗ hổng Out-of-Bound Write",
+  "key": "18a0b0c6dede4b7dcd31d45f34c6f408ddb52e46"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-19568 — A maliciously crafted SVG file, when parsed through Autodesk 3ds Max, can force a Memory Corruption vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19568",
+  "published": "2026-08-24T21:16:49.573",
+  "summary": "A maliciously crafted SVG file, when parsed through Autodesk 3ds Max, can force a Memory Corruption vulnerability. A malicious actor can leverage this vulnerability to execute arbitrary code in the context of the current process.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-19568",
+   "cvss": 7.8,
+   "ref": "https://www.autodesk.com/products/autodesk-access/overview"
+  },
+  "title_vi": "CVE-2026-19568 - Một tệp SVG được tạo ra với mục đích xấu, khi được phân tích cú pháp thông qua Autodesk 3ds Max, có thể gây ra lỗ hổng Memory Corruption",
+  "key": "4039f6d787958417141e3d2772beac82d03a8c5d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-52490 — An issue in libtiff 85f2ac8e0b01cb7db2bbecf4a3b891bdbef67938 allows an attacker to execute arbitrary code via the process_command_opts() function in t",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-52490",
+  "published": "2026-08-24T21:17:19.803",
+  "summary": "An issue in libtiff 85f2ac8e0b01cb7db2bbecf4a3b891bdbef67938 allows an attacker to execute arbitrary code via the process_command_opts() function in tools/tiffcrop.c",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-52490",
+   "cvss": null,
+   "ref": "https://gist.github.com/okyfh/122c2d72e991a78c8af80a3af3be8671"
+  },
+  "title_vi": "CVE-2026-52490 — Một vấn đề trong libtiff 85f2ac8e0b01cb7db2bbecf4a3b891bdbef67938 cho phép kẻ tấn công thực thi mã tùy ý thông qua hàm process_command_opts() trong t",
+  "key": "825b0639cbd079a8e4df1bafc8fc8f74d3efa2d7"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-52492 — An integer overflow in the libtiff rgb2ycbcr utility's cvtRaster() function when computing strip buffer sizes can result in an undersized heap allocat",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-52492",
+  "published": "2026-08-24T21:17:19.927",
+  "summary": "An integer overflow in the libtiff rgb2ycbcr utility's cvtRaster() function when computing strip buffer sizes can result in an undersized heap allocation and subsequent heap-based buffer overflow during YCbCr conversion of a crafted TIFF image",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-52492",
+   "cvss": null,
+   "ref": "https://gist.github.com/okyfh/fbc5a37cade358361d80f6a498560cfa"
+  },
+  "title_vi": "CVE-2026-52492 — Sự tràn số nguyên trong hàm cvtRaster () của tiện ích libtiffrgb2ycbcr khi tính toán kích thước bộ đệm dải có thể dẫn đến phân bổ heap nhỏ hơn",
+  "key": "b7468c16896cad81a1ebdb862bcb9fcffdd07115"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-55468 — Wagtail is an open source content management system built on Django",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55468",
+  "published": "2026-08-24T21:17:41.290",
+  "summary": "Wagtail is an open source content management system built on Django. Prior to versions 7.0.9, 7.3.4, 7.4.3, and 8.0rc2 on their respective release lines, the internal Pages admin API returns page fields declared in api_fields without sufficient access control, allowing a user with Wagtail admin access to retrieve restricted draft and live page content. This issue is fixed in versions 7.0.9, 7.3.4, 7.4.3, and 8.0rc2.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-55468",
+   "cvss": 4.3,
+   "ref": "https://github.com/wagtail/wagtail/commit/5608cfb714a130412f862beab53c78de02b79975"
+  },
+  "title_vi": "CVE-2026-55468 — Wagtail là một hệ thống quản lý nội dung mã nguồn mở được xây dựng trên Django",
+  "key": "7d6b00addce88643eacf888f176f2fcede6b05f2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-56135 — In NTFS-3G through 2026",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-56135",
+  "published": "2026-08-24T21:17:42.240",
+  "summary": "In NTFS-3G through 2026.2.25, a heap-based buffer overflow exists in the function build_inherited_id() in libntfs-3g/security.c that allows an attacker to corrupt heap memory in the SUID-root ntfs-3g binary by crafting a malicious NTFS image. The overflow is triggered by creating a file in a crafted directory.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-56135",
+   "cvss": null,
+   "ref": "https://github.com/tuxera/ntfs-3g/security/advisories/GHSA-c9qg-fh4v-mq8r"
+  },
+  "title_vi": "CVE-2026-56135 — Trong NTFS-3G đến năm 2026",
+  "key": "be1c54dcbc7edc9e1276832871858456b601123e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-56136 — In NTFS-3G through 2026",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-56136",
+  "published": "2026-08-24T21:17:42.380",
+  "summary": "In NTFS-3G through 2026.2.25, an out-of-bounds read exists in ntfs_ir_nill() in libntfs-3g/index.c that allows an attacker to read possibly confidential information in an ntfs-3g process by crafting a malicious NTFS image. This read operation is triggered by creation of a file with a crafted name.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-56136",
+   "cvss": null,
+   "ref": "https://github.com/tuxera/ntfs-3g/security/advisories/GHSA-r66g-c39x-cw95"
+  },
+  "title_vi": "CVE-2026-56136 — Trong NTFS-3G đến năm 2026",
+  "key": "77984c0b0dd64bcd23570242b13584b0ad2f9ea1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-5006 — A vulnerability was identified in HashiCorp Vault and Vault Enterprise (“Vault”) such that an authenticated attacker may manipulate an identity value ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-5006",
+  "published": "2026-08-24T21:17:46.147",
+  "summary": "A vulnerability was identified in HashiCorp Vault and Vault Enterprise (“Vault”) such that an authenticated attacker may manipulate an identity value referenced by a templated policy path to gain unintended access to Vault paths.\n\nAn attacker who can control the referenced identity value may include slash ({{/}}) characters that Vault interprets as additional path segments when rendering the policy.\n\nThis vulnerability, CVE-2026-5006, was fixed in Vault Community Edition 2.0.4 and Vault Enterprise 2.0.4, 1.21.9, 1.20.14, and 1.19.20.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-5006",
+   "cvss": 6.8,
+   "ref": "https://discuss.hashicorp.com/t/hcsec-2026-32-vault-vulnerable-to-privilege-escalation-via-slash-injection-in-templated-policy-paths"
+  },
+  "title_vi": "CVE-2026-5006 — Một lỗ hổng đã được xác định trong HashiCorp Vault and Vault Enterprise (“Vault”) để kẻ tấn công được xác thực có thể thao túng giá trị nhận dạng",
+  "key": "bccde628e5930a7266bf3ace3229181605e2bc95"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75464 — OneNav 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75464",
+  "published": "2026-08-24T21:17:47.253",
+  "summary": "OneNav 1.2.4 contains an authenticated arbitrary file deletion vulnerability via import_link().",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75464",
+   "cvss": null,
+   "ref": "https://github.com/helloxz/onenav/releases/tag/1.2.4"
+  },
+  "title_vi": "CVE-2026-75464 — OneNav 1",
+  "key": "11b53cb11f9953116cb7aee1cd9ebc14fd439c4e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75542 — Incorrect Authorization vulnerability in the OAuth token endpoint in hexpm hexpm allows an API key holding the repositories permission to read another",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75542",
+  "published": "2026-08-24T21:17:47.373",
+  "summary": "Incorrect Authorization vulnerability in the OAuth token endpoint in hexpm hexpm allows an API key holding the repositories permission to read another organization's private packages.\n\nWhen an API key is exchanged for a token through the OAuth client_credentials grant, validate_scopes_against_key/2 in lib/hexpm_web/controllers/api/oauth_controller.ex admits a requested scope whenever the key carries the repositories permission and the scope string begins with repository:. The organization name is never resolved against the principal, and expand_repositories_scope/3 only rewrites the literal re",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75542",
+   "cvss": null,
+   "ref": "https://cna.erlef.org/cves/CVE-2026-75542.html"
+  },
+  "title_vi": "CVE-2026-75542 — Lỗ hổng ủy quyền không chính xác trong điểm cuối mã thông báo OAuth trong hexpm hexpm cho phép khóa API giữ quyền kho lưu trữ để đọc mã khác",
+  "key": "7e0aabb2762ba6cc9f00df2d6046f464da5b30aa"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75554 — Insufficient Session Expiration vulnerability in the OAuth token refresh grant in hexpm hexpm allows a user removed from an organization to keep readi",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75554",
+  "published": "2026-08-24T21:17:47.557",
+  "summary": "Insufficient Session Expiration vulnerability in the OAuth token refresh grant in hexpm hexpm allows a user removed from an organization to keep reading its private packages.\n\nexpand_repositories_scope/3 in lib/hexpm/permissions.ex only rewrites the literal repositories scope, so an explicitly granted repository:<org> or docs:<org> scope passes through it untouched. The refresh grant re-derives a new token from the stored granted_scopes, which holds that expanded form, so every refresh reproduces the organization scope without revisiting membership. Because both CDN edges authorize repository ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75554",
+   "cvss": null,
+   "ref": "https://cna.erlef.org/cves/CVE-2026-75554.html"
+  },
+  "title_vi": "CVE-2026-75554 — Lỗ hổng không đủ thời gian hết hạn trong tài trợ làm mới mã thông báo OAuth trong hexpm hexpm cho phép người dùng bị xóa khỏi một tổ chức để giữ readi",
+  "key": "00b2b831c9818f461652c669f44a443ad02d1371"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77567 — Filament is a collection of full-stack components for accelerated Laravel development",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77567",
+  "published": "2026-08-24T21:17:48.150",
+  "summary": "Filament is a collection of full-stack components for accelerated Laravel development. Prior to versions 4.12.0 and 5.7.0, incorrect challenge-form required-field handling allows app-based multi-factor authentication to be bypassed when recovery codes are enabled. Email-based multi-factor authentication is not affected. This issue is fixed in versions 4.12.0 and 5.7.0.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77567",
+   "cvss": 8.1,
+   "ref": "https://github.com/filamentphp/filament/commit/45534a6f87f50ac6df3b43680bb33f8da9ef207b"
+  },
+  "title_vi": "CVE-2026-77567 — Filament là một tập hợp các thành phần full-stack để tăng tốc phát triển Laravel",
+  "key": "4cd139d3aff073f91882a863cd676a3ca9e0b3ef"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77634 — CakePHP is a rapid development framework for PHP",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77634",
+  "published": "2026-08-24T21:17:48.307",
+  "summary": "CakePHP is a rapid development framework for PHP. Prior to versions 4.5.12, 4.6.5, 5.1.8, 5.2.14, and 5.3.7 on their respective release lines, custom mail headers added with Message::setHeaders() or Message::addHeaders() do not have CRLF bytes removed, allowing header injection when user-controlled data is used in message headers. This issue is fixed in versions 4.5.12, 4.6.5, 5.1.8, 5.2.14, and 5.3.7.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77634",
+   "cvss": null,
+   "ref": "https://github.com/cakephp/cakephp/commit/08188962bcd99a95da1e49f62e786f2d688f1e41"
+  },
+  "title_vi": "CVE-2026-77634 — CakePHP là một khung phát triển nhanh cho PHP",
+  "key": "12a5f46e5e7e294ef5ddc53f0fa45c596d87d971"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77635 — CakePHP is a rapid development framework for PHP",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77635",
+  "published": "2026-08-24T21:17:48.457",
+  "summary": "CakePHP is a rapid development framework for PHP. Prior to versions 5.1.10, 5.2.15, and 5.3.7 on their respective release lines, FunctionsBuilder::jsonValue() with PostgresDriver is vulnerable to SQL injection when user-controlled data is supplied to the jsonPath parameter. This issue is fixed in versions 5.1.10, 5.2.15, and 5.3.7.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77635",
+   "cvss": null,
+   "ref": "https://github.com/cakephp/cakephp/commit/138f2f61486532c29ee4d106da2a9848c1ff1ab3"
+  },
+  "title_vi": "CVE-2026-77635 — CakePHP là một khung phát triển nhanh cho PHP",
+  "key": "1317deb948085b1e6e120c5227cf95aac6827bc0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-7455 — A maliciously crafted FLT file, when parsed through Autodesk 3ds Max, can force an Out-of-Bounds Write vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-7455",
+  "published": "2026-08-24T21:17:49.040",
+  "summary": "A maliciously crafted FLT file, when parsed through Autodesk 3ds Max, can force an Out-of-Bounds Write vulnerability. A malicious actor may leverage this vulnerability to cause a crash, cause data corruption, or execute arbitrary code in the context of the current process.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-7455",
+   "cvss": 7.8,
+   "ref": "https://www.autodesk.com/products/autodesk-access/overview"
+  },
+  "title_vi": "CVE-2026-7455 - Một tệp FLT được tạo ra một cách độc hại, khi được phân tích cú pháp thông qua Autodesk 3ds Max, có thể buộc một lỗ hổng Out-of-Bound Write",
+  "key": "099025b8ff198547a01599910b5d03be3e9d870c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-17113 — A flaw was found in CRI-O's container-creation environment-variable handling (`mergeEnvs` in `server/utils",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-17113",
+  "published": "2026-08-24T22:16:50.333",
+  "summary": "A flaw was found in CRI-O's container-creation environment-variable handling\n(`mergeEnvs` in `server/utils.go`, consumed by `setupContainerEnvironmentAndWorkdir` in\n`server/container_create.go`). When a `CreateContainer` request supplies a `nil` CRI\n`Envs` field, CRI-O falls back to using the target OCI image's `config.Env` entries\nunfiltered, in contrast to the normal merge path, which validates each entry for a\n`key=value` form before use. An OCI image whose `config.Env` contains an entry with no\n`=` character (e.g. a bare `NOEQUALS` string) causes CRI-O to split that entry into a\nsingle-ele",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-17113",
+   "cvss": 6.0,
+   "ref": "https://access.redhat.com/security/cve/CVE-2026-17113"
+  },
+  "title_vi": "CVE-2026-17113 - Một lỗ hổng đã được tìm thấy trong môi trường tạo container của CRI-O - xử lý biến đổi (`mergeEnvs` trong `máy chủ/thiết bị",
+  "key": "183d766d28a04310ec75b6ed49ce7689b12aa518"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-27364 — Subscriber Broken Access Control in Style Kits <= 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-27364",
+  "published": "2026-08-24T22:16:51.380",
+  "summary": "Subscriber Broken Access Control in Style Kits <= 2.6.5 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-27364",
+   "cvss": 6.5,
+   "ref": "https://patchstack.com/database/wordpress/plugin/analogwp-templates/vulnerability/wordpress-style-kits-plugin-2-6-5-broken-access-control-vulnerability-2?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-27364 - Người đăng ký Kiểm soát truy cập bị hỏng trong Bộ công cụ kiểu <= 2",
+  "key": "0a3861f376b766d60e332f2a528480b5e701fcf3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-32554 — Unauthenticated SQL Injection in WooBeWoo Product Filter Pro <= 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-32554",
+  "published": "2026-08-24T22:16:51.510",
+  "summary": "Unauthenticated SQL Injection in WooBeWoo Product Filter Pro <= 3.1.8 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-32554",
+   "cvss": 9.3,
+   "ref": "https://patchstack.com/database/wordpress/plugin/woofilter-pro/vulnerability/wordpress-woobewoo-product-filter-pro-plugin-3-1-8-sql-injection-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-32554 — SQL Injection chưa được xác thực trong WooBeWoo Product Filter Pro <= 3",
+  "key": "5772ae38e2c39a7e181d53ec21e46e53c49ed59a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-32555 — Unauthenticated SQL Injection in Boost <= 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-32555",
+  "published": "2026-08-24T22:16:51.650",
+  "summary": "Unauthenticated SQL Injection in Boost <= 2.0.4 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-32555",
+   "cvss": 9.3,
+   "ref": "https://patchstack.com/database/wordpress/plugin/boost/vulnerability/wordpress-boost-plugin-2-0-4-sql-injection-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-32555 — SQL Injection không được xác thực trong Boost <= 2",
+  "key": "cf7db3eebe76c32daed2d3522cfe5a6c90ff00bf"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-32556 — Unauthenticated Cross Site Scripting (XSS) in Boost <= 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-32556",
+  "published": "2026-08-24T22:16:51.773",
+  "summary": "Unauthenticated Cross Site Scripting (XSS) in Boost <= 2.0.4 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-32556",
+   "cvss": 7.1,
+   "ref": "https://patchstack.com/database/wordpress/plugin/boost/vulnerability/wordpress-boost-plugin-2-0-4-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-32556 — Kịch bản chéo trang chưa được xác thực (XSS) trong Boost <= 2",
+  "key": "943c9fd059bbf3c88fde1b57d1608807636984cb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-32559 — Subscriber Arbitrary File Upload in UltimateAI <= 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-32559",
+  "published": "2026-08-24T22:16:51.900",
+  "summary": "Subscriber Arbitrary File Upload in UltimateAI <= 3.1.0 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-32559",
+   "cvss": 9.9,
+   "ref": "https://patchstack.com/database/wordpress/plugin/ultimate_ai/vulnerability/wordpress-ultimateai-plugin-3-1-0-arbitrary-file-upload-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-32559 — Tải lên tệp tùy ý của người đăng ký trong UltimateAI <= 3",
+  "key": "b8290ad83b4b91a71975705eb3dffaf37d016df5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-32560 — Subscriber Local File Inclusion in MagicAI for WordPress - AI Text, Image, Chat, Code, and Voice Generator <= 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-32560",
+  "published": "2026-08-24T22:16:52.027",
+  "summary": "Subscriber Local File Inclusion in MagicAI for WordPress - AI Text, Image, Chat, Code, and Voice Generator <= 1.4 versions.",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-32560",
+   "cvss": 8.8,
+   "ref": "https://patchstack.com/database/wordpress/plugin/magicai-wp/vulnerability/wordpress-magicai-for-wordpress-ai-text-image-chat-code-and-voice-generator-plugin-1-4-local-file-inclusion-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-32560 — Bao gồm tệp cục bộ của người đăng ký trong MagicAI cho WordPress - Trình tạo văn bản, hình ảnh, trò chuyện, mã và giọng nói AI <= 1",
+  "key": "b9dfa79d7614c58275593422a6e586435cf47a2b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-32561 — Subscriber Privilege Escalation in Booking Hub <= 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-32561",
+  "published": "2026-08-24T22:16:52.157",
+  "summary": "Subscriber Privilege Escalation in Booking Hub <= 1.3.0 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-32561",
+   "cvss": 8.8,
+   "ref": "https://patchstack.com/database/wordpress/plugin/booking-hub/vulnerability/wordpress-booking-hub-plugin-1-3-0-privilege-escalation-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-32561 - Đặc quyền của người đăng ký leo thang trong Trung tâm đặt phòng <= 1",
+  "key": "652ea782d6f5133aa38994433ea3b893ca6dd066"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-32563 — Subscriber PHP Object Injection in ACPT (Pro) - Custom Post Types Plugin for WordPress <= 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-32563",
+  "published": "2026-08-24T22:16:52.287",
+  "summary": "Subscriber PHP Object Injection in ACPT (Pro) - Custom Post Types Plugin for WordPress <= 2.0.63 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-32563",
+   "cvss": 9.8,
+   "ref": "https://patchstack.com/database/wordpress/plugin/advanced-custom-post-type/vulnerability/wordpress-acpt-pro-custom-post-types-plugin-for-wordpress-plugin-2-0-63-php-object-injection-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-32563 — Subscriber PHP Object Injection trong ACPT (Pro) - Plugin Custom Post Types cho WordPress <= 2",
+  "key": "7bf4683f6fea3c53663281a02fe6aeca12aa29a4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-45404 — OpenTelemetry-Go is the Go implementation of OpenTelemetry",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-45404",
+  "published": "2026-08-24T22:16:53.020",
+  "summary": "OpenTelemetry-Go is the Go implementation of OpenTelemetry. From version 0.11.0 through 1.44.0, the OpenTracing bridge's bridgeSpan contains an unsynchronized extraBaggageItems map which can cause a panic. Because Go maps are not safe for concurrent read/write access, concurrent SetBaggageItem and correlation.MapFromContext calls on the same hooked bridgeSpan can trigger a fatal runtime error—such as concurrent map read and map write or concurrent map iteration and map write—terminating the process and causing denial of service. This issue is fixed in version 1.45.0.",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-45404",
+   "cvss": null,
+   "ref": "https://github.com/open-telemetry/opentelemetry-go/commit/93a693edeed0e07ce5ebd1dfe67af42d1e2055d8"
+  },
+  "title_vi": "CVE-2026-45404 — OpenTelemetry-Go là triển khai Go của OpenTelemetry",
+  "key": "0584c8a3a212fb638cc98a15595a65052d86fca0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-68516 — OpenEXR is the reference implementation and specification for the EXR image format, widely used in the motion picture industry",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-68516",
+  "published": "2026-08-24T22:17:19.340",
+  "summary": "OpenEXR is the reference implementation and specification for the EXR image format, widely used in the motion picture industry. From version 3.4.0 through 3.4.13, a crafted HTJ2K-compressed EXR can crash OpenEXR during normal decode. An HTJ2K-compressed EXR whose JPEG 2000 SIZ fields place the first tile outside the visible image can reach invalid tile and codeblock geometry in the vendored OpenJPH AVX2 decoder, causing a stack out-of-bounds write and denial of service. OpenEXR's HTJ2K path validates the decoded codestream dimensions against the EXR chunk size, but it does not reject SIZ image",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-68516",
+   "cvss": 6.5,
+   "ref": "https://github.com/AcademySoftwareFoundation/openexr/commit/45521f92104373b5c850f27f2d4659ab6759e848"
+  },
+  "title_vi": "CVE-2026-68516 — OpenEXR là tài liệu tham khảo và thông số kỹ thuật cho định dạng hình ảnh EXR, được sử dụng rộng rãi trong ngành công nghiệp điện ảnh",
+  "key": "687b1bf871b3adeffec8440eb80e9f2c7849a002"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77337 — CakePHP Authentication is an authentication plugin for CakePHP that can also be used in PSR-7 based applications",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77337",
+  "published": "2026-08-24T22:17:19.510",
+  "summary": "CakePHP Authentication is an authentication plugin for CakePHP that can also be used in PSR-7 based applications. Versions before 2.11.2, from 3.0.0 through 3.3.6, and from 4.0.0 through 4.2.0 allow authentication bypass and potential CPU or memory exhaustion when CookieAuthenticator uses unencrypted, forgeable legacy tokens. This issue is fixed in versions 2.11.2, 3.3.7, and 4.2.1.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77337",
+   "cvss": null,
+   "ref": "https://github.com/cakephp/authentication/commit/c94d9a5380e7f4fdf38d338a9de2223a5b087159"
+  },
+  "title_vi": "CVE-2026-77337 — CakePHP Authentication là một plugin xác thực cho CakePHP cũng có thể được sử dụng trong các ứng dụng dựa trên PSR-7",
+  "key": "a053a907290acfe9d124adb76248291ac613a152"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77384 — libp2p is a JavaScript implementation of the libp2p networking stack",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77384",
+  "published": "2026-08-24T22:17:19.650",
+  "summary": "libp2p is a JavaScript implementation of the libp2p networking stack. Prior to version 4.2.9, the reservation refresh path in reservation-store.ts reuses the same retimeableSignal but unconditionally registers another abort listener on every refresh. As a result, a remote peer can repeatedly send valid RESERVE requests for the same reservation, causing unbounded listener and closure growth in @libp2p/circuit-relay-v2 relay servers and leading to denial of service. This issue is fixed in version 4.2.9.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77384",
+   "cvss": 7.5,
+   "ref": "https://github.com/libp2p/js-libp2p/commit/4bb8fbe8d3f3590e4af51a1f5f7de56fffa5804d"
+  },
+  "title_vi": "CVE-2026-77384 — libp2p là một triển khai JavaScript của ngăn xếp mạng libp2p",
+  "key": "f94751ba5921e4367ceefa044348b3ac4544b472"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78259 — Unauthenticated Broken Authentication in WPLegalPages <= 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78259",
+  "published": "2026-08-24T22:17:19.803",
+  "summary": "Unauthenticated Broken Authentication in WPLegalPages <= 3.7.0 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78259",
+   "cvss": 7.3,
+   "ref": "https://patchstack.com/database/wordpress/plugin/wplegalpages/vulnerability/wordpress-wplegalpages-plugin-3-7-0-broken-authentication-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-78259 — Xác thực bị hỏng không được xác thực trong WPLegalPages <= 3",
+  "key": "dcce72ebcbd4834b0edbdceecedb688592ddc937"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78262 — Unauthenticated PHP Object Injection in WP Project Manager <= 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78262",
+  "published": "2026-08-24T22:17:19.947",
+  "summary": "Unauthenticated PHP Object Injection in WP Project Manager <= 4.0.6 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78262",
+   "cvss": 9.8,
+   "ref": "https://patchstack.com/database/wordpress/plugin/wedevs-project-manager/vulnerability/wordpress-wp-project-manager-plugin-4-0-6-php-object-injection-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-78262 — Tiêm đối tượng PHP không được xác thực trong WP Project Manager <= 4",
+  "key": "7308894b913bdd1ac449a85617eb7fa8ae2c058c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78263 — Unauthenticated Cross Site Scripting (XSS) in Event Tickets <= 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78263",
+  "published": "2026-08-24T22:17:20.133",
+  "summary": "Unauthenticated Cross Site Scripting (XSS) in Event Tickets <= 5.29.2.1 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78263",
+   "cvss": 7.1,
+   "ref": "https://patchstack.com/database/wordpress/plugin/event-tickets/vulnerability/wordpress-event-tickets-plugin-5-29-2-1-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-78263 — Kịch bản chéo trang web không được xác thực (XSS) trong Vé sự kiện <= 5",
+  "key": "33a9c4cb70c0246245971e291f836d4b0842a172"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78264 — Unauthenticated Cross Site Scripting (XSS) in Toolset Blocks <= 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78264",
+  "published": "2026-08-24T22:17:20.267",
+  "summary": "Unauthenticated Cross Site Scripting (XSS) in Toolset Blocks <= 1.6.26 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78264",
+   "cvss": 7.1,
+   "ref": "https://patchstack.com/database/wordpress/plugin/toolset-blocks/vulnerability/wordpress-toolset-blocks-plugin-1-6-26-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-78264 — Tập lệnh chéo trang không được xác thực (XSS) trong các khối bộ công cụ <= 1",
+  "key": "ef2a6fa26c1cdb1126791aeb9622134fe9f8a692"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78265 — Unauthenticated PHP Object Injection in The Events Calendar <= 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78265",
+  "published": "2026-08-24T22:17:20.407",
+  "summary": "Unauthenticated PHP Object Injection in The Events Calendar <= 6.17.2 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78265",
+   "cvss": 9.8,
+   "ref": "https://patchstack.com/database/wordpress/plugin/the-events-calendar/vulnerability/wordpress-the-events-calendar-plugin-6-17-2-php-object-injection-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-78265 — Tiêm đối tượng PHP chưa được xác thực trong Lịch sự kiện <= 6",
+  "key": "460c7e063c85ff3b7e544fc106331f2140169489"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78266 — Subscriber Broken Access Control in AutomatorWP <= 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78266",
+  "published": "2026-08-24T22:17:20.540",
+  "summary": "Subscriber Broken Access Control in AutomatorWP <= 5.8.3 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78266",
+   "cvss": 6.5,
+   "ref": "https://patchstack.com/database/wordpress/plugin/automatorwp/vulnerability/wordpress-automatorwp-plugin-5-8-3-broken-access-control-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-78266 — Người đăng ký kiểm soát truy cập bị hỏng trong AutomatorWP <= 5",
+  "key": "6af669f450c7cb6bbce42572070b1266afbc7a17"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78267 — Unauthenticated Privilege Escalation in TranslatePress <= 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78267",
+  "published": "2026-08-24T22:17:20.670",
+  "summary": "Unauthenticated Privilege Escalation in TranslatePress <= 3.3.2 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78267",
+   "cvss": 9.8,
+   "ref": "https://patchstack.com/database/wordpress/plugin/translatepress-multilingual/vulnerability/wordpress-translatepress-plugin-3-3-2-privilege-escalation-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-78267 — Nâng cấp đặc quyền chưa được xác thực trong TranslatePress <= 3",
+  "key": "2d0b0f6cd75acbb229b57a50e542f661613c590c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78268 — Unauthenticated Sensitive Data Exposure in Lead Generation Contact Widget &amp; AI Chatbot: Chat Button, Phone Call, Telegram, Email – SiteLeads <= 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78268",
+  "published": "2026-08-24T22:17:20.797",
+  "summary": "Unauthenticated Sensitive Data Exposure in Lead Generation Contact Widget &amp; AI Chatbot: Chat Button, Phone Call, Telegram, Email – SiteLeads <= 1.2.0 versions.",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78268",
+   "cvss": 7.5,
+   "ref": "https://patchstack.com/database/wordpress/plugin/siteleads/vulnerability/wordpress-lead-generation-contact-widget-ai-chatbot-chat-button-phone-call-telegram-email-siteleads-plugin-1-2-0-sensitive-data-exposure-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-78268 - Phơi nhiễm dữ liệu nhạy cảm chưa được xác thực trong tiện ích liên hệ tạo khách hàng tiềm năng &amp; chatbot AI: Nút trò chuyện, Cuộc gọi điện thoại, Telegram, Email – Lãnh đạo trang web &lt;= 1",
+  "key": "f3e240915408d64db55b5bb157d77765746c6601"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78282 — Unauthenticated Cross Site Scripting (XSS) in Stripe Payments <= 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78282",
+  "published": "2026-08-24T22:17:20.930",
+  "summary": "Unauthenticated Cross Site Scripting (XSS) in Stripe Payments <= 2.1.2 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78282",
+   "cvss": 7.1,
+   "ref": "https://patchstack.com/database/wordpress/plugin/stripe-payments/vulnerability/wordpress-stripe-payments-plugin-2-1-2-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-78282 — Cross Site Scripting (XSS) không được xác thực trong thanh toán Stripe <= 2",
+  "key": "3e6f26e3b1d2f7c9c1ce7d821d06a11152d78f1c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78284 — Unauthenticated Arbitrary File Deletion in MasterStudy LMS <= 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78284",
+  "published": "2026-08-24T22:17:21.053",
+  "summary": "Unauthenticated Arbitrary File Deletion in MasterStudy LMS <= 3.7.42 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78284",
+   "cvss": 8.6,
+   "ref": "https://patchstack.com/database/wordpress/plugin/masterstudy-lms-learning-management-system/vulnerability/wordpress-masterstudy-lms-plugin-3-7-42-arbitrary-file-deletion-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-78284 — Xóa tệp tùy ý không được xác thực trong MasterStudy LMS <= 3",
+  "key": "fbb7bb84e692323182513c4941f3e6697338932f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78434 — A flaw has been found in Faveo Helpdesk up to 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78434",
+  "published": "2026-08-24T22:17:21.190",
+  "summary": "A flaw has been found in Faveo Helpdesk up to 2.0.3. This impacts the function FormController::post_ticket_reply of the file app/Http/Controllers/Client/helpdesk/FormController.php of the component post-ticket-reply Endpoint. This manipulation causes missing authentication. The attack can be initiated remotely. The exploit has been published and may be used. The project was informed of the problem early through an issue report but has not responded yet.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78434",
+   "cvss": 6.5,
+   "ref": "https://github.com/faveosuite/faveo-helpdesk/issues/8346"
+  },
+  "title_vi": "CVE-2026-78434 — Một lỗ hổng đã được tìm thấy trong Faveo Helpdesk lên đến 2",
+  "key": "b2b2e80d80f6d8b76a1c855d15ad67abc09d2ba0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78435 — A vulnerability has been found in Faveo Helpdesk up to 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78435",
+  "published": "2026-08-24T22:17:21.373",
+  "summary": "A vulnerability has been found in Faveo Helpdesk up to 2.0.3. Affected is the function unlink of the file app/Http/Controllers/Admin/helpdesk/SettingsController.php of the component Logo Handler. Such manipulation of the argument data1 leads to path traversal. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The project was informed of the problem early through an issue report but has not responded yet.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78435",
+   "cvss": 3.8,
+   "ref": "https://github.com/faveosuite/faveo-helpdesk/issues/8343"
+  },
+  "title_vi": "CVE-2026-78435 — Một lỗ hổng đã được tìm thấy trong Faveo Helpdesk lên đến 2",
+  "key": "8c0dddaf24aeadab1b7e98584940029afa7a3031"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-53532 — OpenEXR is the reference implementation and specification for the EXR image format, widely used in the motion picture industry",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-53532",
+  "published": "2026-08-24T23:16:36.920",
+  "summary": "OpenEXR is the reference implementation and specification for the EXR image format, widely used in the motion picture industry. In versions 3.4.0 through 3.4.12, a crafted HTJ2K-compressed EXR file causes an unconditional process abort in any application that calls exr_start_read() on untrusted input, resulting in denial of service. The crash is triggered by a QCD marker whose lower five bits are zero, which OpenEXR passes into the vendored OpenJPH library while constructing the codestream and evaluating its quantization delta parameters. OpenJPH uses an assertion rather than a recoverable err",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-53532",
+   "cvss": null,
+   "ref": "https://github.com/AcademySoftwareFoundation/openexr/releases/tag/v3.4.13"
+  },
+  "title_vi": "CVE-2026-53532 — OpenEXR là tài liệu tham khảo và thông số kỹ thuật cho định dạng hình ảnh EXR, được sử dụng rộng rãi trong ngành công nghiệp điện ảnh",
+  "key": "b85b0eda9dac84c696d2eff6878e85f3d01ed75c"
+ },
+ {
   "source": "Cloudflare Blog",
   "title": "The Cloudflare Blog – Brought to you by EmDash",
   "link": "https://blog.cloudflare.com/cloudflare-blog-uses-emdash/",
@@ -1974,7 +2886,7 @@
    "cvss": 6.3,
    "ref": "https://github.com/endrazine/rocq-cve-poc-22287"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-72714 — Rocq Prover không khôi phục bản sao cờ kiểm tra vũ trụ của biểu đồ vũ trụ khi một mô-đun đã vô hiệu hóa kiểm tra cục bộ bị đóng",
   "key": "5a1be5675dd309b3ad89cab1f5b25dd9ef5acc42"
  },
  {
@@ -1992,7 +2904,7 @@
    "cvss": null,
    "ref": "https://github.com/dazuo233/cve/issues/3"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-75368 — Một chồng tràn trong chức năng loadRawData của phần mềm SpaceDot AcubeSAT OBC commit eaf90ec cho phép kẻ tấn công gây ra Từ chối Dịch vụ (DoS) thông qua",
   "key": "ce5fc26fe1d707b7f2396bd115ca76d9b45fd6e5"
  },
  {
@@ -2010,7 +2922,7 @@
    "cvss": null,
    "ref": "https://github.com/dazuo233/cve/issues/4"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-75369 — Một lỗ hổng đọc out-of-bound trong CAN::Application:: parsePerformFunctionMessagecomponent của phần mềm SpaceDot AcubeSAT OBC commit eaf90ec al",
   "key": "85a6354aff39a3f57b66be2e217d9886403e003c"
  },
  {
@@ -2028,7 +2940,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/authlib/joserfc/commit/76ee6a59bf5773c0af00b99076c5e199031f97f1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-75509 — joserfc là một thư viện Python cung cấp việc triển khai một số tiêu chuẩn JSON Object Signing and Encryption (JOSE)",
   "key": "01ccdf23b02768a2dfe79b190770c974bf8f92eb"
  },
  {
@@ -2046,7 +2958,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/lepture/mistune/commit/0938fb7"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-76098 — Mistune là trình phân tích cú pháp Python Markdown với các trình kết xuất và plugin",
   "key": "0f5046cddee308753f271ac130e2b3d5904d7de9"
  },
  {
@@ -2064,7 +2976,7 @@
    "cvss": 3.5,
    "ref": "https://github.com/netty/netty/commit/1b5abc6443b63726c72cdd285af2feb7ddbb8ff7"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-76816 — Netty là một khung ứng dụng mạng không đồng bộ, hướng sự kiện",
   "key": "d7e376220692bbb0c236fd29cbd4a9eaf1efbaad"
  },
  {
@@ -2082,7 +2994,7 @@
    "cvss": 5.3,
    "ref": "https://github.com/FasterXML/jackson-databind/security/advisories/GHSA-vvgp-rfg2-7rr6"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-77310 - jackson-databind chứa chức năng liên kết dữ liệu đa năng và mô hình cây cho Bộ xử lý dữ liệu Jackson",
   "key": "72190bf47113dd58f86e656430495b5da0d0dee2"
  },
  {
@@ -2118,7 +3030,7 @@
    "cvss": 5.3,
    "ref": "https://github.com/sworddut/mcp-ffmpeg-helper/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-78430 — Một lỗ hổng đã được phát hiện trong Sworddut mcp-ffmpeg-helper 0",
   "key": "22aac3dcd5c3f272f54c46297d7be007f9f53381"
  },
  {
@@ -2136,7 +3048,7 @@
    "cvss": null,
    "ref": "https://github.com/RansomLook/RansomLook/commit/8602740347b0e928ad9fbaf5bc6ff242337dec6b"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-78551 — RansomLook chứa nhiều điểm yếu trong điểm cuối xác thực cho phép kẻ tấn công từ xa chưa được xác thực liệt kê tên người dùng hợp lệ, mỗi",
   "key": "771b900d92a69088e54e14a7c5c222cdbf3a5780"
  },
  {
@@ -2154,7 +3066,7 @@
    "cvss": null,
    "ref": "https://github.com/RansomLook/RansomLook/commit/df9d47edcf02dd0125db869d5bc19d93f426d892"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-78553 — RansomLook đã tạo khóa ký phiên Flask của mình mà không hạn chế rõ ràng quyền truy cập tệp",
   "key": "7bdfbd2bf342bd9a303c3f95066b96cd77c07a00"
  },
  {
@@ -2173,7 +3085,7 @@
    "cvss": null,
    "ref": "https://github.com/RansomLook/RansomLook/commit/b358dfa4f40c677a47c602ebbb4473aeae349f5c"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-78555 — RansomLook đã hiển thị các khóa API hoàn chỉnh trong nguồn HTML của trang quản trị/admin/apikeys đã xác thực",
   "key": "364b70c9104568fe6854ecd83057774c84f74cee"
  },
  {
