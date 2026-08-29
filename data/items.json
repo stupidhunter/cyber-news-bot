@@ -1,6 +1,556 @@
 [
  {
   "source": "VietnamPlus Kinh tế số",
+  "title": "Nvidia chuyển lợi thế từ GPU sang cuộc đua tối ưu toàn bộ hệ thống AI",
+  "link": "https://www.vietnamplus.vn/nvidia-chuyen-loi-the-tu-gpu-sang-cuoc-dua-toi-uu-toan-bo-he-thong-ai-post1133358.vnp",
+  "published": "2026-08-29T15:41:51+00:00",
+  "summary": "Khi các đối thủ ngày càng tự phát triển chip AI, Nvidia đang mở rộng lợi thế từ GPU sang các thành phần và hệ thống điều phối dữ liệu, qua đó hướng tới tối ưu hiệu suất toàn bộ hạ tầng AI quy mô lớn. Nvidia dự kiến rót hàng trăm triệu USD vào hạ tầng trung tâm dữ liệu AI Microsoft \"chiêu mộ\" lãnh đạo Nvidia điều hành hoạt động tại Israel NVIDIA thâu tóm khoảng 21 tỷ USD cổ phần SpaceX",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "294ddbbf257cfc37d19d7549a6671f9fbe858077"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Trung Quốc thúc đẩy robot ứng dụng thực tế, nâng cao năng lực ngành vi mạch",
+  "link": "https://www.vietnamplus.vn/trung-quoc-thuc-day-robot-ung-dung-thuc-te-nang-cao-nang-luc-nganh-vi-mach-post1133359.vnp",
+  "published": "2026-08-29T15:41:12+00:00",
+  "summary": "Trung Quốc sẽ đẩy nhanh việc đưa robot từ nghiên cứu vào ứng dụng thực tế, đồng thời tập trung đột phá công nghệ cốt lõi và nâng cao năng lực tự chủ, sức cạnh tranh của ngành vi mạch. Hàn Quốc đầu tư 2.300 tỷ won phát triển robot hình người Mitsubishi sẽ đưa robot hình người vào đội ngũ nhân viên nhà máy Trung Quốc đẩy mạnh phát triển AI hiện thân và robot hình người",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "a4b4e4c503aa6d238033d6a583dcfdfe7bcca77f"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Niger kiểm soát tình hình sau vụ nổi loạn của một nhóm binh sỹ tại thủ đô",
+  "link": "https://www.vietnamplus.vn/niger-kiem-soat-tinh-hinh-sau-vu-noi-loan-cua-mot-nhom-binh-sy-tai-thu-do-post1133354.vnp",
+  "published": "2026-08-29T15:13:47+00:00",
+  "summary": "Bộ trưởng Quốc phòng cho biết một nhóm binh sỹ tại Căn cứ 101 đã có hành động “vi phạm kỷ luật và quy định quân đội,'' tìm cách khống chế một số đồng đội trước khi nổ súng vào điểm nhạy cảm ở thủ đô. Niger: Gần 50 người chết giữa sa mạc Sahara Niger và Trung Quốc ký các thỏa thuận hợp tác dầu khí 1 tỷ USD Hàng chục dân thường thiệt mạng trong vụ tấn công đẫm máu ở Niger",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "bf6fd155b187fc9bd07b8ceaef4ef2be20ea6ed4"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Kỳ thủ và AI phối hợp tranh tài tại giải cờ vây đặc biệt ở Nhật Bản",
+  "link": "https://www.vietnamplus.vn/ky-thu-va-ai-phoi-hop-tranh-tai-tai-giai-co-vay-dac-biet-o-nhat-ban-post1133348.vnp",
+  "published": "2026-08-29T14:19:42+00:00",
+  "summary": "Nhật Bản lần đầu tổ chức giải cờ vây trong đó kỳ thủ chuyên nghiệp bắt cặp với AI để cùng ra quyết định, qua đó thử nghiệm khả năng phối hợp người-máy và hướng tới phát triển loại hình eSports mới. Spotify siết nội dung do \"Trí tuệ nhân tạo\" sáng tác Kimi K3 và xu hướng mới trong cuộc đua trí tuệ nhân tạo Trí tuệ nhân tạo: Lợi thế AI nằm ở những công nghệ khó sao chép",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "cfc2ad893ff7d5d477ed9f7dbd0bcf07a5702337"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Campuchia ra mắt ứng dụng di động giúp báo cáo các vụ lừa đảo trực tuyến",
+  "link": "https://www.vietnamplus.vn/campuchia-ra-mat-ung-dung-di-dong-giup-bao-cao-cac-vu-lua-dao-truc-tuyen-post1133331.vnp",
+  "published": "2026-08-29T12:24:45+00:00",
+  "summary": "Đây là công cụ quan trọng giúp người dân nhanh chóng báo cáo các vụ việc nghi ngờ gian lận công nghệ và các loại tội phạm khác cho Cảnh sát Quốc gia, từ đó cơ quan chức năng có thể kịp thời xử lý. Campuchia cảnh báo về chiêu trò lừa đảo mới trên mạng xã hội Campuchia đạt bước tiến trong cuộc chiến chống lừa đảo trực tuyến Đắk Lắk khởi tố 5 bị can \"rửa\" hơn 14 tỷ đồng cho tổ chức lừa đảo tại Campuchia",
+  "categories": [
+   "breach",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "f88dfa25c69a9ad7d48a58bd03f6d5c44da5f02d"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Tăng cường hợp tác giáo dục Việt Nam-Nga qua chương trình bồi dưỡng tiếng Nga",
+  "link": "https://www.vietnamplus.vn/tang-cuong-hop-tac-giao-duc-viet-nam-nga-qua-chuong-trinh-boi-duong-tieng-nga-post1133302.vnp",
+  "published": "2026-08-29T12:24:26+00:00",
+  "summary": "Chương trình bồi dưỡng giáo viên tiếng Nga tại Moskva giúp giảng viên Việt Nam cập nhật phương pháp giảng dạy hiện đại, ứng dụng công nghệ số và AI, qua đó góp phần nâng cao chất lượng dạy và học. Nhà xuất bản Giáo dục Việt Nam trao tặng tủ sách tiếng Việt tại Liên bang Nga Khai mạc Hội nghị hiệu trưởng các trường đại học Việt Nam và Liên bang Nga Đưa văn hóa, giáo dục Việt Nam đến gần hơn với bạn bè Liên bang Nga",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "1ea4d2b7fe586702ee9768929d1d6c60edc14b4f"
+ },
+ {
+  "source": "Tuổi Trẻ Công nghệ",
+  "title": "Nhật Bản cho người đấu cờ vây cùng AI, kỳ vọng thành eSports mới",
+  "link": "https://tuoitre.vn/nhat-ban-cho-nguoi-dau-co-vay-cung-ai-ky-vong-thanh-esports-moi-100260829210426748.htm",
+  "published": "2026-08-29T16:10:57.989408+00:00",
+  "summary": "Lần đầu tiên, các kỳ thủ chuyên nghiệp Nhật Bản bắt cặp với AI để cùng tính nước cờ, mở ra cách chơi mới có thể trở thành eSports.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "06e15cb3376a6c09e9726ae8a389d58f960278c9"
+ },
+ {
+  "source": "Báo Tin tức (TTXVN) KH-CN",
+  "title": "Nhật Bản: Thử nghiệm mô hình con người và AI phối hợp chơi cờ",
+  "link": "https://baotintuc.vn/khoa-hoc-cong-nghe/nhat-ban-thu-nghiem-mo-hinh-con-nguoi-va-ai-phoi-hop-choi-co-20260829203847096.htm",
+  "published": "2026-08-29T16:10:56.924523+00:00",
+  "summary": "Theo phóng viên TTXVN tại Tokyo, ngày 29/8, Nhật Bản lần đầu tổ chức vòng chung kết một giải cờ vây có sự tham gia của trí tuệ nhân tạo (AI).",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "531b954a320f080fe9fb25ac810b147e3ab555f6"
+ },
+ {
+  "source": "Thanh Niên Công nghệ",
+  "title": "One UI 9 mở kh&oacute;a ba t&iacute;nh năng AI cho Samsung Galaxy S26",
+  "link": "https://thanhnien.vn/one-ui-9-mo-khoa-ba-tinh-nang-ai-cho-samsung-galaxy-s26-185260829133856415.htm",
+  "published": "2026-08-29T12:47:00+00:00",
+  "summary": "Ba t&iacute;nh năng AI (tr&iacute; tuệ nh&acirc;n tạo) từng bị Samsung giới hạn tr&ecirc;n Galaxy Z Fold8 v&agrave; Z Flip8 nay đ&atilde; xuất hiện tr&ecirc;n Galaxy S26.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "71f6747d26e448ce751549feed810ab01176e5f2"
+ },
+ {
+  "source": "Thanh Niên Công nghệ",
+  "title": "Ph&aacute;t hiện hơn 1.600 t&agrave;i liệu học thuật mang t&ecirc;n t&aacute;c giả do AI bịa ra",
+  "link": "https://thanhnien.vn/phat-hien-hon-1600-tai-lieu-hoc-thuat-mang-ten-tac-gia-do-ai-bia-ra-185260829160457832.htm",
+  "published": "2026-08-29T11:53:00+00:00",
+  "summary": "Một nghi&ecirc;n cứu ph&aacute;t hiện h&agrave;ng ngh&igrave;n bản ghi tr&ecirc;n Zenodo chứa t&ecirc;n t&aacute;c giả kh&ocirc;ng c&oacute; thật, cho thấy dữ liệu do AI tạo c&oacute; thể đi v&agrave;o hệ thống học thuật.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "dcdf441221ac30d1b0fc28fa6cc05f25b42d07a7"
+ },
+ {
+  "source": "GenK",
+  "title": "Cận cảnh tủ lạnh LG French Door Fit & Max tại Việt Nam: Tối ưu không gian bếp, dung tích 550 lít, giá 59,99 triệu đồng",
+  "link": "https://genk.vn/can-canh-tu-lanh-lg-french-door-fit-max-tai-viet-nam-toi-uu-khong-gian-bep-dung-tich-550-lit-gia-5999-trieu-dong-165260829183803777.chn",
+  "published": "2026-08-29T16:10:50.181793+00:00",
+  "summary": "Mẫu tủ lạnh French Door mới của LG kết hợp thiết kế cửa mỏng, bản lề Zero Clearance với không gian lưu trữ linh hoạt, ba kiểu đá cùng loạt tính năng AI hướng đến thói quen sử dụng thực tế của các gia đình hiện đại.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "49bfc26b144c884e2d7aae254eadebc812dd2c35"
+ },
+ {
+  "source": "GenK",
+  "title": "Ngân hàng cảnh báo thủ đoạn lừa đảo lợi dụng quá trình chuyển đổi số và mạo danh cơ quan Thuế, công an, nộp phạt giao thông...",
+  "link": "https://genk.vn/ngan-hang-canh-bao-thu-doan-lua-dao-loi-dung-qua-trinh-chuyen-doi-so-va-mao-danh-co-quan-thue-cong-an-nop-phat-giao-thong-165260829165802423.chn",
+  "published": "2026-08-29T16:10:50.181883+00:00",
+  "summary": "Mới đây, Techcombank đã gửi tới khách hàng cảnh báo về thủ đoạn lừa đảo lợi dụng quá trình chuyển đổi số và mạo danh các Cơ quan nhà nước.",
+  "categories": [
+   "breach",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "567939e2d282cb0febe617ea454af412ec6d994e"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "De: Hackers demand 30 bitcoin from Berlin as sensitive data breach widens",
+  "link": "https://databreaches.net/2026/08/29/de-hackers-demand-30-bitcoin-from-berlin-as-sensitive-data-breach-widens/",
+  "published": "2026-08-29T15:20:21+00:00",
+  "summary": "DPA reports: The Berlin state government has declined to comment on the demands made by hackers who targeted the city&#8217;s administrative data network two weeks ago, a spokeswoman said on Saturday. The government is also withholding information about which data the attackers accessed and exactly who is behind the cyberattack. &#8220;For reasons of investigative tactics,... Source",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "De: Tin tặc yêu cầu 30 bitcoin từ Berlin khi vi phạm dữ liệu nhạy cảm mở rộng",
+  "key": "e03b5fd6c390025243809e2e5e654d5ffb2dd81e"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "US officials backpedal on claims that government agencies were hacked by Chinese",
+  "link": "https://databreaches.net/2026/08/29/us-officials-backpedal-on-claims-that-government-agencies-were-hacked-by-chinese/",
+  "published": "2026-08-29T15:02:26+00:00",
+  "summary": "AJ Vicens and Raphael Satter report: U.S. officials are backpedaling on claims that several government agencies were hacked by Chinese spies, now saying that the organizations were among the hackers&#8217; targets. In a freshly edited statement, the Justice Department said Friday that the U.S. Senate, the Federal Reserve, NASA, and others were &#8220;among the targets... Source",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Các quan chức Hoa Kỳ đã phản hồi về những tuyên bố rằng các cơ quan chính phủ đã bị Trung Quốc tấn công",
+  "key": "5c4646ac31695eb6ce6a3100909cee5b777153f1"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "PEAR leaks data allegedly exfiltrated from South Plains Rural Health Services while SPRHS remains silent",
+  "link": "https://databreaches.net/2026/08/29/pear-leaks-data-allegedly-exfiltrated-from-south-plains-rural-health-services-while-sprhs-remains-silent/",
+  "published": "2026-08-29T14:15:57+00:00",
+  "summary": "SuspectFile reports: A cyberattack against a Texas healthcare organization allegedly resulted in the exfiltration of approximately 1.4 TB of data, according to claims made by the ransomware group PEAR. The alleged victim is South Plains Rural Health Services, Inc. (SPRHS), a nonprofit healthcare organization that has provided services to rural communities across West Texas for decades. The information... Source",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "PEAR rò rỉ dữ liệu được cho là bị rò rỉ từ Dịch vụ Y tế Nông thôn South Plains trong khi SPRHS vẫn im lặng",
+  "key": "940aafb89a1836498e4a6093891f1f72f86705c1"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "SCOOP: Some Click2Mail customers will soon be receiving notification of a data security incident",
+  "link": "https://databreaches.net/2026/08/29/scoop-some-click2mail-customers-will-soon-be-receiving-notification-of-a-data-security-incident/",
+  "published": "2026-08-29T14:03:43+00:00",
+  "summary": "On August 27, DataBreaches woke up to a message request on Signal that read, &#8220;Click2mail.com checkout with a debit card, website is actively hijacked. Card gets sold to fraudsters. It’s happened twice.&#8221; DataBreaches accepted the request, and learned that the customer who contacted us first experienced a problem on June 2, and then again the... Source",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "TIN SỐT DẺO: Một số khách hàng của Click2Mail sẽ sớm nhận được thông báo về sự cố bảo mật dữ liệu",
+  "key": "42f99ec30faf9cc78d4d173fba87f1631ee03363"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "Two different groups have recently attacked Interim HealthCare entities. Should other franchises be concerned?",
+  "link": "https://databreaches.net/2026/08/29/two-different-groups-have-recently-attacked-interim-healthcare-entities-should-other-franchises-be-concerned/",
+  "published": "2026-08-29T13:45:33+00:00",
+  "summary": "In April, Interim HealthCare of West Texas LLC (Lubbock, Amarillo, and Pampa) and Interim HealthCare of Amarillo notified the U.S. Department of Health and Human Services of a breach. West Texas notified HHS that 2,071 patients were affected, while the Amarillo franchise notified HHS that 666 patients were affected. In closing its investigation into Interim... Source",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Hai nhóm khác nhau gần đây đã tấn công các cơ sở Chăm sóc Sức khỏe Tạm thời. Có nên quan tâm đến các nhượng quyền thương mại khác không?",
+  "key": "380e16b73ac49f0b9965638cfb7d95ff528244da"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "Star Health’s public record: A data breach, a ₹3.39-crore fine, 13,000 ombudsman complaints — and still no accounting for the policyholder",
+  "link": "https://databreaches.net/2026/08/29/star-healths-public-record-a-data-breach-a-%e2%82%b93-39-crore-fine-13000-ombudsman-complaints-and-still-no-accounting-for-the-policyholder/",
+  "published": "2026-08-29T11:47:05+00:00",
+  "summary": "Nitin Naresh revisits the significant Star Health breach of 2024. Previous coverage of the hack-and-leak incident can be found linked in the Related section below this post, which includes coverage of threats made to the insurance firm&#8217;s executives, court injunctions that, of course, did not stop a threat actor from leaking data, and lawsuits against... Source",
+  "categories": [
+   "breach",
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Hồ sơ công khai của Star Health: Vi phạm dữ liệu, phạt tiền 3,39 ₹, 13.000 khiếu nại của thanh tra viên — và vẫn không tính đến chủ hợp đồng",
+  "key": "c3e181f7c6a03582bac59c38fd118055ded39731"
+ },
+ {
+  "source": "SecurityWeek",
+  "title": "Hasbro Data Breach Exposed Employee Personal Information",
+  "link": "https://www.securityweek.com/hasbro-data-breach-exposed-employee-personal-information/",
+  "published": "2026-08-29T11:55:00+00:00",
+  "summary": "A cyberattack caused disruptions at the toy and game giant earlier this year and the company is now disclosing a data breach. The post Hasbro Data Breach Exposed Employee Personal Information appeared first on SecurityWeek .",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Thông tin cá nhân của nhân viên bị lộ do vi phạm dữ liệu Hasbro",
+  "key": "a5e96400c6c9adfd09d510c23ba621b7100802c7"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82364 — A security vulnerability has been detected in macrozheng mall up to 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82364",
+  "published": "2026-08-29T11:16:47.140",
+  "summary": "A security vulnerability has been detected in macrozheng mall up to 1.0.3. This impacts an unknown function of the file /order/submit of the component Order Submission. The manipulation leads to race condition. It is possible to initiate the attack remotely. The attack is considered to have high complexity. The exploitability is said to be difficult. The vendor deleted the GitHub issue for this vulnerability without and explanation.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82364",
+   "cvss": 4.2,
+   "ref": "https://github.com/macrozheng/mall/"
+  },
+  "title_vi": "CVE-2026-82364 — Một lỗ hổng bảo mật đã được phát hiện trong trung tâm thương mại macrozheng lên đến 1",
+  "key": "eca95ec0ee2793c0a5069e4ed4470b34a36277c0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-14494 — The Sigma Forms Pro plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-14494",
+  "published": "2026-08-29T12:16:41.163",
+  "summary": "The Sigma Forms Pro plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 1.4.5 via the handle_form_submission function. This is due to the plugin dynamically granting the unfiltered_upload capability to all users during form submissions and bypassing MIME type validation when allowed_file_types is not configured. This makes it possible for unauthenticated attackers to execute code on the server. Several default pre-built templates including Job Application, Support Ticket, and Wholesale Application have file upload fields with no file type restricti",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-14494",
+   "cvss": 9.8,
+   "ref": "https://feedback.bdthemes.com/announcements"
+  },
+  "title_vi": "CVE-2026-14494 — Plugin Sigma Forms Pro cho WordPress dễ bị thực thi mã từ xa trong tất cả các phiên bản cho đến, và bao gồm, 1",
+  "key": "9589eaf3f2542832f00f9005e6b3d1ebcb9f1c0b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82447 — Skyvern before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82447",
+  "published": "2026-08-29T13:16:38.643",
+  "summary": "Skyvern before 1.0.45 contains a sandbox escape vulnerability in TextPromptBlock that renders prompts twice, first through a sandboxed Jinja environment and then through an unsandboxed environment. Attackers can inject malicious Jinja template syntax through workflow parameters or upstream block output to execute arbitrary code with server process privileges.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82447",
+   "cvss": 8.8,
+   "ref": "https://github.com/Skyvern-AI/skyvern"
+  },
+  "title_vi": "CVE-2026-82447 — Skyvern trước 1",
+  "key": "0ead210b06e5f16bfa926497fec9c35c6a547951"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82448 — Shinobi before commit 5a76c74f contains a hardcoded connection key in the child node service that allows unauthenticated attackers to execute arbitrar",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82448",
+  "published": "2026-08-29T13:16:38.877",
+  "summary": "Shinobi before commit 5a76c74f contains a hardcoded connection key in the child node service that allows unauthenticated attackers to execute arbitrary database queries. Attackers reaching the child node port can present the hardcoded key during WebSocket handshake, then dispatch SQL queries through the onWebSocketDataFromChildNode handler to read and modify user records and camera configuration.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82448",
+   "cvss": 9.8,
+   "ref": "https://gitlab.com/Shinobi-Systems/Shinobi"
+  },
+  "title_vi": "CVE-2026-82448 — Shinobi trước commit 5a76c74f chứa khóa kết nối được mã hóa cứng trong dịch vụ nút con cho phép những kẻ tấn công chưa được xác thực thực thực thi arbitrar",
+  "key": "b97c5750aeac0539b5d244b0e6c1fc5250c3a430"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82449 — Cockpit CMS before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82449",
+  "published": "2026-08-29T13:16:39.030",
+  "summary": "Cockpit CMS before 2.14.1 contains an account enumeration vulnerability in the auth check endpoint due to timing discrepancies in password verification. Attackers can measure response times across multiple requests to determine which accounts exist by observing that existing accounts trigger bcrypt verification while non-existent accounts return immediately.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82449",
+   "cvss": 5.3,
+   "ref": "https://github.com/Cockpit-HQ/Cockpit"
+  },
+  "title_vi": "CVE-2026-82449 — CMS buồng lái trước 2",
+  "key": "54b555bf74ce6a82151babd7424d00c668563c24"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82450 — BookStack before 26",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82450",
+  "published": "2026-08-29T14:16:37.930",
+  "summary": "BookStack before 26.05.4 contains a remote code execution vulnerability in the portable ZIP import functionality that allows users with Import Content and Create Books permissions to upload a PHP polyglot file as a book cover. Attackers can bypass image extension validation by embedding a PHP file with a .php filename in the ZIP archive, which is stored in the public web root and executed by unauthenticated requests.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82450",
+   "cvss": 8.8,
+   "ref": "https://github.com/BookStackApp/BookStack"
+  },
+  "title_vi": "CVE-2026-82450 — BookStack trước 26",
+  "key": "a4f45a94c82815226084bf1298674e0b76e3d2ed"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82451 — Formwork through 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82451",
+  "published": "2026-08-29T14:16:38.067",
+  "summary": "Formwork through 2.3.14 contains a stored cross-site scripting vulnerability in visit tracking that records the Referer header host unescaped. Unauthenticated attackers can craft malicious Referer headers to inject markup that executes in administrator browsers when viewing the Statistics panel.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82451",
+   "cvss": 6.1,
+   "ref": "https://github.com/getformwork/formwork"
+  },
+  "title_vi": "CVE-2026-82451 — Ván khuôn đến 2",
+  "key": "9d6c3526a8d28e4c01f730b199d595b88914d78e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82452 — rust-iot-platform through commit 5df942ab contains an authentication bypass vulnerability where most REST API routes lack authentication guards in the",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82452",
+  "published": "2026-08-29T14:16:38.210",
+  "summary": "rust-iot-platform through commit 5df942ab contains an authentication bypass vulnerability where most REST API routes lack authentication guards in their handler signatures. Unauthenticated attackers can create, update, list, retrieve, and delete user accounts by directly accessing unprotected endpoints without providing valid credentials.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82452",
+   "cvss": 9.8,
+   "ref": "https://github.com/iot-ecology/rust-iot-platform"
+  },
+  "title_vi": "CVE-2026-82452 - nền tảng rust-iot thông qua commit 5df942ab chứa lỗ hổng bỏ qua xác thực trong đó hầu hết các tuyến API REST thiếu nhân viên bảo vệ xác thực trong",
+  "key": "3e69684ef70dc436800b4538d8517b376f50a19e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82453 — rust-iot-platform through commit 5df942ab stores user passwords in cleartext without hashing in the user model",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82453",
+  "published": "2026-08-29T14:16:38.347",
+  "summary": "rust-iot-platform through commit 5df942ab stores user passwords in cleartext without hashing in the user model. Attackers can read API responses from user retrieval and listing routes to obtain plaintext credentials for all accounts.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82453",
+   "cvss": 7.5,
+   "ref": "https://github.com/iot-ecology/rust-iot-platform"
+  },
+  "title_vi": "CVE-2026-82453 - nền tảng rust-iot thông qua commit 5df942ab lưu trữ mật khẩu người dùng trong cleartext mà không cần băm trong mô hình người dùng",
+  "key": "9c5dbb524f7c4d0a904beba34ffaaf0b1f380dbb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82454 — The Omnivore API (packages/api) before the fix in commit abf53d6 contains an authentication bypass in Apple sign-in token verification",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82454",
+  "published": "2026-08-29T14:16:38.480",
+  "summary": "The Omnivore API (packages/api) before the fix in commit abf53d6 contains an authentication bypass in Apple sign-in token verification. The decodeAppleToken function extracted the 'alg' field from the attacker-supplied JWT header and passed it as the sole allowed algorithm to jwt.verify(). Using jsonwebtoken v8 (which does not validate key/algorithm compatibility), an attacker can set alg=HS256 and sign a forged token using Apple's publicly available RSA public key as the HMAC secret, bypassing signature verification and impersonating any Apple-linked account.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82454",
+   "cvss": 9.1,
+   "ref": "https://github.com/omnivore-app/omnivore"
+  },
+  "title_vi": "CVE-2026-82454 — API Omnivore (gói/api) trước khi sửa lỗi trong cam kết abf53d6 chứa một bỏ qua xác thực trong xác minh mã thông báo đăng nhập của Apple",
+  "key": "b19af01473f94f9c2f2466d5c590bd9d9e17ccda"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82455 — RubyGems fails to re-validate path containment after filesystem symlink resolution during gem extraction",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82455",
+  "published": "2026-08-29T14:16:38.623",
+  "summary": "RubyGems fails to re-validate path containment after filesystem symlink resolution during gem extraction. When a pre-existing symlink inside the destination directory points outside the extraction root, extracted files that appear to be written under the destination directory can instead be written outside of it, breaking the extraction safety boundary. The fix resolves the real path of the parent directory before writing and raises Gem::Package::PathError if it escapes the destination directory.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82455",
+   "cvss": 7.1,
+   "ref": "https://github.com/ruby/rubygems"
+  },
+  "title_vi": "CVE-2026-82455 - RubyGems không xác thực lại việc ngăn chặn đường dẫn sau khi phân giải symlink của hệ thống tệp trong quá trình trích xuất đá quý",
+  "key": "7b24d3f10d3442fb407c3628b57f8e6f127aec76"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82456 — argocd-mcp 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82456",
+  "published": "2026-08-29T14:16:38.767",
+  "summary": "argocd-mcp 0.8.0 binds its HTTP transport to every network interface and accepts MCP sessions without requiring caller credentials when ARGOCD_API_TOKEN is configured. Attackers who can reach the listener can invoke the full tool surface using the operator's stored token to create applications, request syncs, and modify Argo CD resources.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82456",
+   "cvss": 10.0,
+   "ref": "https://github.com/argoproj-labs/mcp-for-argocd"
+  },
+  "title_vi": "CVE-2026-82456 — argocd-mcp 0",
+  "key": "c0458e8906bfb050eca105d996815159e5bc8e5f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82457 — su-exec through 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82457",
+  "published": "2026-08-29T14:16:38.910",
+  "summary": "su-exec through 0.3 fails to validate numeric user and group identifiers parsed with strtol before assigning to uid_t and gid_t, allowing truncation of out-of-range values to zero. Attackers can supply large numeric identifiers that truncate to root's identifier, causing su-exec to execute target programs with root privileges instead of intended unprivileged accounts.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82457",
+   "cvss": 7.8,
+   "ref": "https://gist.github.com/thesmartshadow/ed96e2a88643c34a247c9b7cf9e311be"
+  },
+  "title_vi": "CVE-2026-82457 — su-exec đến 0",
+  "key": "a3897c1b5ac26a2e5249598481245c8375b783ef"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82477 — In MITRE SAF Heimdall 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82477",
+  "published": "2026-08-29T15:17:55.317",
+  "summary": "In MITRE SAF Heimdall 2.11.6 through 2.13.x before 2.14.0, an SSRF issue allows remote attackers to access internal network resources via the Tenable proxy endpoint. This occurs in apps/backend/src/tenable/tenable.controller.ts.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82477",
+   "cvss": 5.8,
+   "ref": "https://github.com/mitre/heimdall2/commit/b6a9cdb4fc01f96aaa1a77cc27d1d449b485937b"
+  },
+  "title_vi": "CVE-2026-82477 — Trong MITRE SAF Heimdall 2",
+  "key": "7775c7741791ab2f63adae7b22a8ec0f0e666db3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82481 — The cohttp package before 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82481",
+  "published": "2026-08-29T15:17:55.487",
+  "summary": "The cohttp package before 6.3.0 for OCaml allows directory traversal.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82481",
+   "cvss": null,
+   "ref": "https://github.com/mirage/ocaml-cohttp/pull/1145"
+  },
+  "title_vi": "CVE-2026-82481 — Gói cohttp trước 6",
+  "key": "0d1e77c63f0886d936ca1ee9cb7221c0ca40f51a"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
   "title": "Nhóm phối hợp hai nước Việt Nam-Lào rà soát Thỏa thuận Hà Nội năm 2007",
   "link": "https://www.vietnamplus.vn/nhom-phoi-hop-hai-nuoc-viet-nam-lao-ra-soat-thoa-thuan-ha-noi-nam-2007-post1133322.vnp",
   "published": "2026-08-29T10:17:50+00:00",
@@ -912,7 +1462,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Viết blog mực vào thứ Sáu: Xe tải chở mực tràn ở Rhode Island",
   "key": "60812bf73c6a98d7986846f91cbe3c1a92cc84f6"
  },
  {
@@ -940,7 +1490,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Thăm dò nhiễu loạn: Một chẩn đoán mới cho sự mong manh của an toàn LLM",
   "key": "e08a59dfced500a6059d20f40cd3a61c7ff9161b"
  },
  {
@@ -1066,7 +1616,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Berlin từ chối trả tiền cho các tin tặc đánh cắp dữ liệu từ mạng lưới nhà nước của thành phố",
   "key": "97d6d2052f5f73e8f907482ce7baa0427c95596e"
  },
  {
@@ -1080,7 +1630,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Lỗ hổng EVM của Cosmos bị khai thác sau khi Cosmos Labs biết mọi blockchain đang chạy đều dễ bị tổn thương",
   "key": "add513db8444cb908439ae72c690aa191199157d"
  },
  {
@@ -3621,7 +4171,7 @@
    "cvss": 8.0,
    "ref": "https://github.com/runatlantis/atlantis"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82282 — Atlantis đến 0",
   "key": "7f171c5fb2f0102584ded4857d97844d661b0dd0"
  },
  {
@@ -3639,7 +4189,7 @@
    "cvss": 8.1,
    "ref": "https://github.com/VoltAgent/voltagent"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82283 — VoltAgent qua 2",
   "key": "a20b67431222957a6c3c3c518b45102af53a796d"
  },
  {
@@ -3657,7 +4207,7 @@
    "cvss": 8.1,
    "ref": "https://github.com/QuivrHQ/quivr"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82284 — Phiên bản Quivr đến 0",
   "key": "20241c5577b4a255f0a206068cccd59b37e564a0"
  },
  {
@@ -3675,7 +4225,7 @@
    "cvss": 8.2,
    "ref": "https://github.com/dataelement/bisheng"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82285 — bisheng qua 2",
   "key": "9295c8b8b682f67dd9cc5de186beb2ed83e82209"
  },
  {
@@ -3694,7 +4244,7 @@
    "cvss": 8.6,
    "ref": "https://github.com/BuilderIO/gpt-crawler"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82286 — gpt-crawler thông qua 1",
   "key": "1ec09a267d1c356ececca8e8b2e555df3b7f7cc5"
  },
  {
@@ -3713,7 +4263,7 @@
    "cvss": 8.1,
    "ref": "https://github.com/rybbit-io/rybbit"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82287 — Rybbit trước 2",
   "key": "f9fe3abb2c5e92ead674342737450248a7f09028"
  },
  {
@@ -3731,7 +4281,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82288 — WebUI khuếch tán ổn định thông qua 1",
   "key": "702b92d5d0478e3c279488d797dbba64d9f3e602"
  },
  {
@@ -3750,7 +4300,7 @@
    "cvss": 7.4,
    "ref": "https://github.com/coderamp-labs/gitingest"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82289 — Gitingest đến 0",
   "key": "1bfe6a152cfeeb097ecdb311953be8e22502abed"
  },
  {
@@ -3768,7 +4318,7 @@
    "cvss": 5.3,
    "ref": "https://github.com/Chainlit/chainlit"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82290 — Chainlit thông qua 2",
   "key": "1ba664a4926d1c6409399ca8fa73a137f268fb9f"
  },
  {
@@ -3787,7 +4337,7 @@
    "cvss": 8.1,
    "ref": "https://github.com/heyform/heyform"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82291 — HeyForm trước 3",
   "key": "91aa43aadc1e8f60ff93b4c15f2fbce646cc9d1e"
  },
  {
@@ -3806,7 +4356,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/StarRocks/starrocks"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82306 — StarRocks qua 4",
   "key": "2e836f146a31d4ecc7dafc3c57d472ccc8d758de"
  },
  {
@@ -3824,7 +4374,7 @@
    "cvss": 9.8,
    "ref": "https://docs.jfrog.com/releases/docs/artifactory-self-managed-releases"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82329 — JFrog Artifactory chứa một điểm yếu xác thực, theo cấu hình mặc định, có thể cho phép kẻ tấn công chưa được xác thực có quyền truy cập mạng vào",
   "key": "5def0f71c629ee94374991a4c93a9765ac15c591"
  },
  {
@@ -3842,7 +4392,7 @@
    "cvss": 6.1,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-82343"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82343 — Một lỗ hổng đã được tìm thấy trong plugin file-psd trong GIMP",
   "key": "d6c2f54640b025dd8ae1e70588509d3b1a1d5491"
  },
  {
@@ -3860,7 +4410,7 @@
    "cvss": 5.9,
    "ref": "https://www.ibm.com/support/pages/node/7285147"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-36271 — Hệ thống phân tích tích hợp IBM 1",
   "key": "d6c32886989a282d6076c9542e6de24a6a3c68f6"
  },
  {
@@ -3878,7 +4428,7 @@
    "cvss": 5.9,
    "ref": "https://www.ibm.com/support/pages/node/7285149"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-36290 — Hệ thống phân tích tích hợp IBM 1",
   "key": "38b5d2d086a9bbba217922a59a48d684f54301ed"
  },
  {
@@ -3914,7 +4464,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/zephyrproject-rtos/zephyr/commit/260c32ef9a89824bd25e17170e77aa4b98c84069"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-13734 — Zephyr's WireGuard VPN mặt phẳng dữ liệu nhận xử lý wg_process_data_message() trong subsys/net/lib/wireguard/wg_crypto",
   "key": "d0ca947d170173a9426d32c28580c622a311e212"
  },
  {
@@ -3932,7 +4482,7 @@
    "cvss": 3.7,
    "ref": "https://github.com/zephyrproject-rtos/zephyr/commit/87c520a55f0f0e7cd4adf8780166e45eaad6d81c"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-13735 — Triển khai WireGuard của Zephyr trong subsys/net/lib/wireguard/wg_crypto",
   "key": "ecfca938ca42498dc5e9d0e7054f7d2990dcfac4"
  },
  {
@@ -3968,7 +4518,7 @@
    "cvss": 7.5,
    "ref": "https://www.ibm.com/support/pages/node/7284580"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-17203 - Chuyên gia thời gian chạy quản trị của IBM cho i 1R1M0 có thể cho phép kẻ tấn công được xác thực từ xa có được thông tin nhạy cảm do xác thực không đúng",
   "key": "ea91ef6613d363eea0e912cf760eb2ebd7ad8b6b"
  },
  {
@@ -4148,7 +4698,7 @@
    "cvss": null,
    "ref": "https://security.netapp.com/advisory/NTAP-20260828-0021/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-22056 — StorageGRID (trước đây là StorageGRID Webscale) phiên bản 11",
   "key": "868e64f43e0e9bbc5f374f53c43a129583576e57"
  },
  {
@@ -4184,7 +4734,7 @@
    "cvss": 6.2,
    "ref": "https://www.ibm.com/support/pages/node/7285507"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-3686 — IBM Cloud Pak cho hệ thống dữ liệu 11",
   "key": "de758afe7e4c83ab87019c4ae094ef8d2ab29e9c"
  },
  {
@@ -4202,7 +4752,7 @@
    "cvss": null,
    "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-51661 — Kiểm soát truy cập không chính xác trong hàm getPortForwardRules của TOTOLINK T6 4",
   "key": "220c1a2646cf8420fd35e4edd4648fefa0d87c5e"
  },
  {
@@ -4220,7 +4770,7 @@
    "cvss": null,
    "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-51662 — Kiểm soát truy cập không chính xác trong hàm getCloudSrvCheckStatus của TOTOLINK T6 4",
   "key": "7eb7f7f5ee58a8047c558f357950ddfdc3b41819"
  },
  {
@@ -4238,7 +4788,7 @@
    "cvss": null,
    "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-51663 — Kiểm soát truy cập không chính xác trong hàm getWiFiApcliScan của TOTOLINK T6 4",
   "key": "895e56bc17e6bc33b3e757da6fbb8cc2922b89af"
  },
  {
@@ -4256,7 +4806,7 @@
    "cvss": null,
    "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-51664 — Kiểm soát truy cập không chính xác trong hàm getTelnetCfg của TOTOLINK T6 4",
   "key": "4cd5d56d068ecdffb83b47d709d85034e20ca532"
  },
  {
@@ -4274,7 +4824,7 @@
    "cvss": null,
    "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-51665 — Kiểm soát truy cập không chính xác trong hàm getTracerouteCfg của TOTOLINK T6 4",
   "key": "90243435109f4c5bae30130392e501621b569157"
  },
  {
@@ -4292,7 +4842,7 @@
    "cvss": null,
    "ref": "https://github.com/Basekick-Labs/arc/commit/38402ad2ebddd32c15bf4a0fc9c22c920e5685df"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-55678 - ARC là một cơ sở dữ liệu chuỗi thời gian mở, gốc SQL để đo từ xa",
   "key": "0a80a2ebdb74c25baccbf67522e4e88037c4af10"
  },
  {
@@ -4310,7 +4860,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/PrivateBin/PrivateBin/commit/7f1f40853efe0eb12db9cc4a30ea8524ac00f423"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-55696 — PrivateBin là một pastebin trực tuyến, nơi máy chủ không có kiến thức về dữ liệu được dán",
   "key": "18e26c1a8e2cbe45d1e844ef678f87710c2440dc"
  },
  {
@@ -4328,7 +4878,7 @@
    "cvss": null,
    "ref": "https://github.com/klever-io/klever-go/commit/8bcc600b0ac88070740c63c7ce1c8a968dd85251"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-55763 — Klever-Go là triển khai Go của giao thức blockchain Klever",
   "key": "c615e844af73b4d62df9ebe0c4343f7525cc9b16"
  },
  {
@@ -4346,7 +4896,7 @@
    "cvss": 0.0,
    "ref": "https://github.com/PrivateBin/PrivateBin/commit/164c839c39688533ef0086575878e8392cd21249"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-55891 — PrivateBin là một pastebin trực tuyến, nơi máy chủ không có kiến thức về dữ liệu được dán",
   "key": "efb509a0133e7083408c58597ce43334edc819f2"
  },
  {
@@ -4364,7 +4914,7 @@
    "cvss": null,
    "ref": "https://www.tp-link.com/en/support/download/tl-mr100/v3.20/#Firmware"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-75118 — Lỗ hổng tràn bộ đệm dựa trên ngăn xếp xác thực trước tồn tại trong chức năng http_gdpr_decrypt của TL-MR100 V3",
   "key": "7550419e93742d9f7a9110824b299fa9632533d3"
  },
  {
@@ -4382,7 +4932,7 @@
    "cvss": null,
    "ref": "https://www.tp-link.com/en/support/download/tl-wr841n/v14/#Firmware"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-76649 — Một lỗ hổng tham chiếu con trỏ RỖNG tồn tại trong TL-WR841N v14 trong dịch vụ UPnP khi xử lý các yêu cầu hành động SOAP",
   "key": "f2ce27b4ba0ea21842d2a0a8aa178cd5b57f5328"
  },
  {
@@ -4400,7 +4950,7 @@
    "cvss": null,
    "ref": "https://www.tp-link.com/en/support/download/tl-wr841n/v14/#Firmware"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-76650 — Một lỗ hổng tham chiếu con trỏ RỖNG tồn tại trong TL-WR841N v14 trong dịch vụ UPnP khi xử lý các yêu cầu truy vấn biến trạng thái SOAP",
   "key": "beea3cb14216c891830597c87b3702499db14878"
  },
  {
@@ -4761,7 +5311,7 @@
    "cvss": 5.9,
    "ref": "https://github.com/mariadb-corporation/mariadb-connector-nodejs/commit/29733403cfe6519cdfe9c36c93765a468fbe285d"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-55854 — MariaDB Connector/Node",
   "key": "2004ce9b1e568278b66cb9e4b162076281bc5f4d"
  },
  {
@@ -4779,7 +5329,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/mariadb-corporation/mariadb-connector-nodejs/commit/25c6239b68fd909132355c3f8535a5ef32423468"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-55855 — MariaDB Connector/Node",
   "key": "07c3218499e27aaa06e09267893a77be405fa8a8"
  },
  {
@@ -73531,546 +74081,5 @@
   },
   "title_vi": "",
   "key": "fe6486874fa03599bfc843f71d21dab9c88ba886"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-43670 — A Content Security Policy bypass was addressed with improved enforcement in AudioWorklet contexts",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-43670",
-  "published": "2026-08-25T20:16:55.600",
-  "summary": "A Content Security Policy bypass was addressed with improved enforcement in AudioWorklet contexts. This issue is fixed in Safari 26.5, iOS 18.7.9 and iPadOS 18.7.9, iOS 26.5 and iPadOS 26.5, macOS Tahoe 26.5. Processing maliciously crafted web content may bypass Content Security Policy.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-43670",
-   "cvss": null,
-   "ref": "https://support.apple.com/en-us/127110"
-  },
-  "title_vi": "",
-  "key": "045e86a5bae1aca20e515e4d52cf0cf7d0a8b77f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-45018 — Chainlit is a Python framework for building production-ready conversational AI applications",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-45018",
-  "published": "2026-08-25T20:16:55.720",
-  "summary": "Chainlit is a Python framework for building production-ready conversational AI applications. From 2.4.0rc0 until 2.12.0, Chainlit deployments with features.mcp.enabled set to true in .chainlit/config.toml expose the POST /mcp endpoint without requiring authentication. For stdio transport, the endpoint accepts a user-controlled fullCommand string. The validate_mcp_command() function in backend/chainlit/mcp.py checks only the executable name against config.features.mcp.stdio.allowed_executables and passes unchecked arguments to StdioServerParameters in backend/chainlit/server.py. Because npx sup",
-  "categories": [
-   "ai",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-45018",
-   "cvss": 9.8,
-   "ref": "https://github.com/Chainlit/chainlit/blob/2.12.0/docs/security-advisory-2026-mcp.md#spl-2026-001--command-injection-via-mcp-stdio"
-  },
-  "title_vi": "",
-  "key": "00eccf1e62c4f8c0ac52dedf62c866b5290f4d8d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-45019 — Chainlit is a Python framework for building production-ready conversational AI applications",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-45019",
-  "published": "2026-08-25T20:16:55.910",
-  "summary": "Chainlit is a Python framework for building production-ready conversational AI applications. From 2.4.0rc0 until 2.12.0, Chainlit deployments with features.mcp.enabled set to true in .chainlit/config.toml expose the POST /mcp endpoint without requiring authentication. For sse and streamable-http transports, ConnectSseMCPRequest and ConnectStreamableHttpMCPRequest in backend/chainlit/types.py accept a user-controlled url and optional headers dictionary without scheme validation, private-address filtering, or an allowlist. The connect_mcp handler in backend/chainlit/server.py passes these values",
-  "categories": [
-   "ai",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-45019",
-   "cvss": 7.2,
-   "ref": "https://github.com/Chainlit/chainlit/blob/2.12.0/docs/security-advisory-2026-mcp.md#spl-2026-002--ssrf-via-mcp-streamable-http--sse"
-  },
-  "title_vi": "",
-  "key": "b5105b0919adb011eb43ab3a43eb2fbc3340ceda"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55099 — icalendar is an RFC 5545 compatible parser and generator of iCalendar files for Python",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55099",
-  "published": "2026-08-25T20:16:56.940",
-  "summary": "icalendar is an RFC 5545 compatible parser and generator of iCalendar files for Python. From 7.1.0 until 7.1.3, the Component equality method in src/icalendar/cal/component.py compares nested subcomponents with two membership loops, and each membership test invokes the same method on child components, causing O(2^n) work relative to nesting depth. Component.from_ical accepts arbitrarily nested BEGIN:VEVENT blocks without a depth limit, so an attacker can submit a sub-kilobyte .ics file containing equal nested subtrees and trigger the cost when an application performs equality, inequality, memb",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55099",
-   "cvss": 7.5,
-   "ref": "https://github.com/collective/icalendar/commit/b6b2608ae3af6de40695b4e40f71847485aa0b49"
-  },
-  "title_vi": "",
-  "key": "e05dc5ab8e7f4a50e1279c61b77371771a893fd8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-59981 — OpenEXR is the reference implementation and specification for the EXR image file format, widely used in the motion picture industry",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-59981",
-  "published": "2026-08-25T20:16:58.907",
-  "summary": "OpenEXR is the reference implementation and specification for the EXR image file format, widely used in the motion picture industry. In versions through 3.2.10, 3.3.0 through 3.3.12, and 3.4.0 through 3.4.13, the OpenEXRUtil library returns an out-of-bounds pointer from the SampleCountChannel::row() API when a deep image has a non-zero dataWindow origin. The row() accessor is documented as 0-based and computes its address from an internal base that is offset for absolute pixel coordinates, so the two coordinate models conflict whenever dataWindow.min is non-zero. For a deep image whose data wi",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-59981",
-   "cvss": 7.1,
-   "ref": "https://github.com/AcademySoftwareFoundation/openexr/commit/37f03b6ed90f3dd9910f31de3a40f25f2bc2aca1"
-  },
-  "title_vi": "",
-  "key": "78a8ec4a57ed9b42c8dbda57441df9813f7973da"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-64705 — A buffer overflow was addressed with improved bounds checking",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-64705",
-  "published": "2026-08-25T20:17:00.333",
-  "summary": "A buffer overflow was addressed with improved bounds checking. This issue is fixed in macOS Sequoia 15.7.7, macOS Sonoma 14.8.7. An app may be able to cause unexpected system termination or write kernel memory.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-64705",
-   "cvss": null,
-   "ref": "https://support.apple.com/en-us/127116"
-  },
-  "title_vi": "",
-  "key": "34b6a288fda0e86f896cb27fb19669c39f815f7d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-65367 — A null pointer dereference was addressed with improved input validation",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-65367",
-  "published": "2026-08-25T20:17:00.640",
-  "summary": "A null pointer dereference was addressed with improved input validation. This issue is fixed in iOS 18.7.9 and iPadOS 18.7.9, iOS 26.5 and iPadOS 26.5. An app may be able to cause unexpected system termination.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-65367",
-   "cvss": null,
-   "ref": "https://support.apple.com/en-us/127110"
-  },
-  "title_vi": "",
-  "key": "1cbf147cf5207b4ebd94740ad9ce99db28f511ab"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-66152 — A Path traversal vulnerability in OPSWAT tarball in the SonicWall NetExtender Linux client allows an attacker to write arbitrary file as root",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66152",
-  "published": "2026-08-25T20:17:01.147",
-  "summary": "A Path traversal vulnerability in OPSWAT tarball in the SonicWall NetExtender Linux client allows an attacker to write arbitrary file as root.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-66152",
-   "cvss": null,
-   "ref": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2026-0013"
-  },
-  "title_vi": "",
-  "key": "cd06c37bc183f23525bb959ebfa4a53c9735de27"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-66153 — The NEService auto-upgrade process insecurely handles temporary files in SonicWall NetExtender Linux client which allows an attacker to manipulate fil",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66153",
-  "published": "2026-08-25T20:17:01.270",
-  "summary": "The NEService auto-upgrade process insecurely handles temporary files in SonicWall NetExtender Linux client which allows an attacker to manipulate file paths.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-66153",
-   "cvss": null,
-   "ref": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2026-0013"
-  },
-  "title_vi": "",
-  "key": "ca3244d03d68d4ce054c24408fb332b4049d4f83"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-68513 — OpenEXR is the reference implementation and specification for the EXR image format, widely used in the motion picture industry",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-68513",
-  "published": "2026-08-25T20:17:02.463",
-  "summary": "OpenEXR is the reference implementation and specification for the EXR image format, widely used in the motion picture industry. Versions 3.3.0 through 3.3.12 and 3.4.0 through 3.4.13 contain a heap buffer overflow in PyOpenEXR triggered by a channel-name key collision between literal and prefixed RGB channels. When separate_channels=false, PyOpenEXR maps each physical channel name through channelNameToRGBA() and coalesces the results into a shared RGB array. A crafted flat scanline EXR that contains both a literal channel such as left and prefixed channels such as left.R, left.G, and left.B ca",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-68513",
-   "cvss": 7.1,
-   "ref": "https://github.com/AcademySoftwareFoundation/openexr/commit/c1f3ec0d91cfa5a8035ecd00920835ac76e01640"
-  },
-  "title_vi": "",
-  "key": "91290fcff36584467b2724eef21a6f54c4122c35"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-68514 — OpenEXR is the reference implementation and specification for the EXR image file format, widely used in the motion picture industry",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-68514",
-  "published": "2026-08-25T20:17:02.613",
-  "summary": "OpenEXR is the reference implementation and specification for the EXR image file format, widely used in the motion picture industry. In versions 3.3.0 through 3.3.12 and 3.4.0 through 3.4.13, the PyOpenEXR Python bindings contain a heap out-of-bounds write triggered when reading a crafted deep scanline EXR file. When a deep file declares a literal channel named left alongside layer-prefixed RGB channels left.R, left.G, and left.B, the wrapper processes the literal left channel first and allocates a scalar deep sample array for it, then reuses that same array as the coalesced destination for th",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-68514",
-   "cvss": 5.5,
-   "ref": "https://github.com/AcademySoftwareFoundation/openexr/commit/c1f3ec0d91cfa5a8035ecd00920835ac76e01640"
-  },
-  "title_vi": "",
-  "key": "7ad5adc6694c9bbf2f844ccfe1b2e9fd2f94ae62"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-68515 — OpenEXR is the reference implementation and specification for the EXR image format, widely used in the motion picture industry",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-68515",
-  "published": "2026-08-25T20:17:02.780",
-  "summary": "OpenEXR is the reference implementation and specification for the EXR image format, widely used in the motion picture industry. In versions before 3.2.11, 3.3.0 through 3.3.12, and 3.4.0 through 3.4.13, exrmultiview can write past a heap allocation when it combines two attacker-supplied, individually valid scanline EXR files whose union dataWindow is not aligned to one view's channel subsampling. The utility allocates sampled channel storage using a truncated union_width / xSampling, then reads the sampled input through a Slice based on the misaligned union window, producing a heap out-of-boun",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-68515",
-   "cvss": 7.1,
-   "ref": "https://github.com/AcademySoftwareFoundation/openexr/commit/77ee19c021398b1c56f32c3af8347e365dbd4f33"
-  },
-  "title_vi": "",
-  "key": "8ba0851c314d7bd0efb7af391cc5df8575844c09"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-74932 — The WP Fastest Cache WordPress plugin before 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-74932",
-  "published": "2026-08-25T20:17:03.250",
-  "summary": "The WP Fastest Cache WordPress plugin before 1.5.1 does not validate the Host header before using it to build the URLs of the asset files it embeds in the pages it caches, and does not include that header in the cache key, allowing unauthenticated attackers to poison cached pages with references to a server they control and have arbitrary JavaScript run for every subsequent visitor.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-74932",
-   "cvss": 7.5,
-   "ref": "https://wpscan.com/vulnerability/f1eebb4a-cfd1-419e-852d-e5a949437afb/"
-  },
-  "title_vi": "",
-  "key": "fdbf284723efb1c47af787877698a7d2f2fa7a01"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-77585 — The Okta Privileged Access client does not reject a leading hyphen in the username portion of an SSH target",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77585",
-  "published": "2026-08-25T20:17:06.477",
-  "summary": "The Okta Privileged Access client does not reject a leading hyphen in the username portion of an SSH target. As a result, the value may be interpreted as a command-line option by the underlying SSH process.",
-  "categories": [
-   "cloud",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-77585",
-   "cvss": 5.3,
-   "ref": "https://trust.okta.com/security-advisories/improper-validation-ssh-target-in-okta-privileged-access-client-cve-2026-77585"
-  },
-  "title_vi": "",
-  "key": "d051a22922f394e284187acf7c7b87d55e4e4f19"
- },
- {
-  "source": "VietnamPlus Kinh tế số",
-  "title": "Thanh Hóa: Khởi tố đối tượng lừa bán sâm Lai Châu thành sâm Ngọc Linh",
-  "link": "https://www.vietnamplus.vn/thanh-hoa-khoi-to-doi-tuong-lua-ban-sam-lai-chau-thanh-sam-ngoc-linh-post1132489.vnp",
-  "published": "2026-08-25T14:51:36+00:00",
-  "summary": "Từ những củ sâm Lai Châu, Hằng đã đưa ra thông tin gian dối, quảng cáo, “gắn mác” sâm Ngọc Linh chính gốc Kon Tum để livestream chào bán trên mạng xã hội nhằm thu lợi bất chính. Kon Tum tiêu hủy gần 150 cây giống sâm giả Ngọc Linh Kon Tum: Đã có thiết bị phân biệt sâm Ngọc Linh thật, giả Nhiều thủ đoạn giả mạo sâm Việt Nam gây lũng đoạn thị trường",
-  "categories": [
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "c0468334e8340340b42a45964d77422f8bb6269c"
- },
- {
-  "source": "VietnamPlus Kinh tế số",
-  "title": "Hà Nội phân luồng giao thông tại các vị trí bị ngập úng trên địa bàn 4 xã",
-  "link": "https://www.vietnamplus.vn/ha-noi-phan-luong-giao-thong-tai-cac-vi-tri-bi-ngap-ung-tren-dia-ban-4-xa-post1132481.vnp",
-  "published": "2026-08-25T14:21:05+00:00",
-  "summary": "Sở Xây dựng Hà Nội thực hiện phương án phân luồng tổ chức giao thông, bảo đảm an toàn giao thông tại các vị trí bị ngập úng thuộc địa bàn 4 xã Kiều Phú, Quốc Oai, Phú Cát và Dương Hòa. Hà Nội quyết liệt xử lý các \"điểm nghẽn\" úng ngập, môi trường đô thị Hà Nội tích hợp camera AI với hệ thống giám sát thoát nước để phát hiện điểm ngập Hà Nội hoàn thành 16 điểm chống úng ngập nội đô trước mùa mưa",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "30edc08a042767cae7af1068536bbd050a8feb05"
- },
- {
-  "source": "VietnamPlus Kinh tế số",
-  "title": "Giáo dục phải đi trước một bước để chuẩn bị cho tương lai đất nước",
-  "link": "https://www.vietnamplus.vn/giao-duc-phai-di-truoc-mot-buoc-de-chuan-bi-cho-tuong-lai-dat-nuoc-post1132476.vnp",
-  "published": "2026-08-25T13:46:03+00:00",
-  "summary": "Tổng Bí thư, Chủ tịch nước Tô Lâm yêu cầu đẩy mạnh chuyển đổi số và trí tuệ nhân tạo, nhưng phải đặt công nghệ đúng vị trí: Công nghệ phục vụ giáo dục, không thay thế bản chất của giáo dục. Dấu ấn chính sách an sinh gắn với phát triển giáo dục tại Hà Nội Tổng Bí thư, Chủ tịch nước: Công tác giáo dục đào tạo nguồn nhân lực cho phát triển đất nước là đặc biệt quan trọng Tổng Bí thư, Chủ tịch nước Tô Lâm: Chuyển mạnh từ tư duy “quản lý giáo dục” sang “quản trị phát triển giáo dục”",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "84642e1bb7c1f78aa0aeacb928d96457fd83ad76"
- },
- {
-  "source": "VietnamPlus Kinh tế số",
-  "title": "Bồ Đào Nha: Nhiều người bị thương trong vụ xe lao vào đám đông",
-  "link": "https://www.vietnamplus.vn/bo-dao-nha-nhieu-nguoi-bi-thuong-trong-vu-xe-lao-vao-dam-dong-post1132472.vnp",
-  "published": "2026-08-25T13:33:31+00:00",
-  "summary": "Theo Lực lượng Vệ binh Cộng hòa Quốc gia Bồ Đào Nha, người đàn ông 35 tuổi lái xe hướng về phía một nhóm người và không chấp hành nhiều lần yêu cầu dừng xe của cảnh sát. Cảnh sát Đức tiêu diệt nghi phạm vụ tấn công đám đông tại Berlin Đức xác định danh tính kẻ lao xe vào đám đông ở Berlin Đức: Xe tải lao vào đám đông ở Berlin, 1 người thiệt mạng",
-  "categories": [
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "874971dcb53365720edcba7a837a85f14a7073ae"
- },
- {
-  "source": "Báo Tin tức (TTXVN) KH-CN",
-  "title": "Trí tuệ nhân tạo: Chuyên gia cảnh báo nguy cơ phụ thuộc AI để giải quyết vấn đề tâm lý",
-  "link": "https://baotintuc.vn/khoa-hoc-doi-song/tri-tue-nhan-tao-chuyen-gia-canh-bao-nguy-co-phu-thuoc-ai-de-giai-quyet-van-de-tam-ly-20260825213649228.htm",
-  "published": "2026-08-25T16:33:47.545887+00:00",
-  "summary": "Trí tuệ nhân tạo (AI) ngày càng được nhiều người sử dụng không chỉ để tìm kiếm thông tin mà còn để chia sẻ những vấn đề cá nhân như cô đơn, lo âu, mâu thuẫn gia đình hay khủng hoảng tình cảm.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "cd7dbd9a22f9a620365935ee1cd267f77ffdd519"
- },
- {
-  "source": "GenK",
-  "title": "Cuối tháng săn sale đồ công nghệ: Từ smartphone Samsung, Xiaomi đến tai nghe Anker, smartwatch Kieslect AI",
-  "link": "https://genk.vn/cuoi-thang-san-sale-do-cong-nghe-tu-smartphone-samsung-xiaomi-den-tai-nghe-anker-smartwatch-kieslect-ai-165260825214508756.chn",
-  "published": "2026-08-25T16:33:39.584550+00:00",
-  "summary": "Nhiều thương hiệu tung deal giảm giá vào dịp cuối tháng sát nghỉ lễ.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "c79c7dffb723b486dba266de5526fc4c86f3ad7b"
- },
- {
-  "source": "GenK",
-  "title": "Mac Studio mới ra mắt với M5 Max và M5 Ultra: “Quái vật hiệu năng” với chip mạnh nhất Apple từng tạo ra, có thể ghép bốn máy thành cụm AI, giá từ 69,9 và 159,9 triệu",
-  "link": "https://genk.vn/mac-studio-moi-ra-mat-voi-m5-max-va-m5-ultra-quai-vat-hieu-nang-voi-chip-manh-nhat-apple-tung-tao-ra-co-the-ghep-bon-may-thanh-cum-ai-gia-tu-699-va-1599-trieu-165260825202312285.chn",
-  "published": "2026-08-25T16:33:39.584604+00:00",
-  "summary": "Mac Studio mới hỗ trợ tới 512 GB bộ nhớ thống nhất và có thể ghép bốn máy thành cụm xử lý AI. Sản phẩm hướng đến nhà phát triển, giới sáng tạo và các quy trình chuyên nghiệp đòi hỏi hiệu năng cực cao.",
-  "categories": [
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "8ad2d74e967a922394444d94faba75fec4d33f89"
- },
- {
-  "source": "GenK",
-  "title": "Không cần chờ tới Halloween, Apple đánh úp người dùng với chip M6 tiến trình 2nm trên Mac mini, giá từ 24,9 triệu đồng",
-  "link": "https://genk.vn/khong-can-cho-toi-halloween-apple-danh-up-nguoi-dung-voi-chip-m6-tien-trinh-2nm-tren-mac-mini-gia-tu-249-trieu-dong-165260825200937591.chn",
-  "published": "2026-08-25T16:33:39.584617+00:00",
-  "summary": "Apple ra mắt Mac mini mới với chip M6 và M5 Pro, giữ thiết kế nhỏ gọn nhưng nâng mạnh hiệu năng AI, CPU, đồ họa và kết nối.",
-  "categories": [
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "3ccde6627e68495a6ed72b615f1e924cb97678fc"
- },
- {
-  "source": "GenK",
-  "title": "Cơn sốt tuyển dụng nhân sự phim AI bùng nổ mạnh mẽ, biến Trung Quốc thành công xưởng sản xuất điện ảnh thế hệ mới",
-  "link": "https://genk.vn/con-sot-tuyen-dung-nhan-su-phim-ai-bung-no-manh-me-bien-trung-quoc-thanh-cong-xuong-san-xuat-dien-anh-the-he-moi-165260825194125691.chn",
-  "published": "2026-08-25T16:33:39.584638+00:00",
-  "summary": "Nhu cầu tuyển dụng nhân sự làm phim bằng trí tuệ nhân tạo tại Trung Quốc đang tăng vọt ở mức kỷ lục. Bằng việc làm chủ công nghệ mô hình video lớn, các nhà làm phim tại đất nước này đang biến những điều tưởng chừng vô lý thành hiện thực, rút ngắn quy trình sản xuất từ nhiều tháng xuống chỉ vài ngày.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "3e48cc85970f038f6d4a4b580d23f01b7d906d5e"
- },
- {
-  "source": "VnExpress Số hóa",
-  "title": "Quản trị AI lấy con người làm trung tâm",
-  "link": "https://vnexpress.net/quan-tri-ai-lay-con-nguoi-lam-trung-tam-5113208.html",
-  "published": "2026-08-25T13:00:00+00:00",
-  "summary": "Luật Trí tuệ nhân tạo được đánh giá tạo khung pháp lý quan trọng, giúp Việt Nam vừa thúc đẩy đổi mới sáng tạo, vừa kiểm soát rủi ro và nâng hiệu quả quản trị công.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "c9e597e3a38dfbb6c8c1801527ec9784accb5b09"
- },
- {
-  "source": "Cloud Security Alliance",
-  "title": "Multi-Cloud Data Pipelines: Why Key Management Can’t Be an Afterthought",
-  "link": "https://cloudsecurityalliance.org/articles/multi-cloud-data-pipelines-why-key-management-can-t-be-an-afterthought",
-  "published": "2026-08-05T22:44:12+00:00",
-  "summary": "Data pipelines are rarely simple anymore. A typical enterprise pipeline might ingest data in AWS, process it in Azure, send a subset to a SaaS analytics platform, and store the results in Google Cloud. That useful flexibility also creates a security problem. Every stage that processes or transmits sensitive data needs a clear encryption and key management strategy. CSA’s new research on multi-cloud key management solutions (KMS) emphasizes that data pipelines process and transmit large v...",
-  "categories": [
-   "cloud"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "44a5acb2ceb1f0798fb59d26a009f5819b6f5092"
- },
- {
-  "source": "OpenAI News",
-  "title": "The full stack behind abundant intelligence",
-  "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-  "published": "2026-08-25T07:05:00+00:00",
-  "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
-  "categories": [
-   "ai"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "999052fade3f86629e8fa99639b8d355fc39d813"
- },
- {
-  "source": "OpenAI News",
-  "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-  "link": "https://openai.com/index/jalapeno-first-results",
-  "published": "2026-08-25T07:00:00+00:00",
-  "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
-  "categories": [
-   "ai"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "415f67c0efd01ac609533f6ae1ed6a4c9d5fdbea"
- },
- {
-  "source": "DataBreaches.net",
-  "title": "Inside a Syrian Interrogation Room: The Detainee Files an Infostealer Stole From a Military Police Unit",
-  "link": "https://databreaches.net/2026/08/25/inside-a-syrian-interrogation-room-the-detainee-files-an-infostealer-stole-from-a-military-police-unit/",
-  "published": "2026-08-25T15:43:51+00:00",
-  "summary": "Hudson Rock&#8217;s InfoStealers has an interesting story. From their Executive Summary: In May 2023, an infostealer infected a computer belonging to the Military Police Investigation Section in Suluk, northern Syria – a unit of the Turkish-backed Syrian National Army (SNA). The malware took saved passwords, cookies and a live Telegram session. Then its file-grabber module reached... Source",
-  "categories": [
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "3a62f693fec9d8286633859c8e3b19caada103f3"
- },
- {
-  "source": "DataBreaches.net",
-  "title": "Health systems warn of coordinated phishing targeting Epic’s patient portal",
-  "link": "https://databreaches.net/2026/08/25/health-systems-warn-of-coordinated-phishing-targeting-epics-patient-portal/",
-  "published": "2026-08-25T15:14:03+00:00",
-  "summary": "Chad Van Alstin reports: Numerous health systems across the country have issued alerts, warning patients to ignore scam messages that are attempting to phish passwords from patients, allowing hackers to gain access to Epic Systems’ MyChart patient portal. The effort appears to be coordinated by a single cybercriminal or a group, as more than a... Source",
-  "categories": [
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "6940b83383b3ec6aca953e6b85bfe01da2ad3396"
- },
- {
-  "source": "DataBreaches.net",
-  "title": "Seoul National University Hospital skips cybersecurity disclosure for years despite breach affecting 830,000",
-  "link": "https://databreaches.net/2026/08/25/seoul-national-university-hospital-skips-cybersecurity-disclosure-for-years-despite-breach-affecting-830000/",
-  "published": "2026-08-25T14:55:36+00:00",
-  "summary": "This is one of those headlines where our first thought was &#8220;Uh oh!&#8221; but then we read more and thought &#8220;Hmmm&#8230;&#8221; Ko Jae-woo reports: Seoul National University Hospital has not filed a mandatory cybersecurity disclosure for years, an investigation has found. While tertiary hospitals are generally required to submit such disclosures, the hospital is exempt... Source",
-  "categories": [
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "868fe50bf5e620d6bebabaf5488a77e19d588162"
- },
- {
-  "source": "DarkReading",
-  "title": "Is Cyber Facing an Affordability Crisis?",
-  "link": "https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-",
-  "published": "2026-08-25T14:53:13+00:00",
-  "summary": "As breach costs reach record highs and defense spending nears $240 billion, small businesses are dangerously exposed, threatening supply chain security.",
-  "categories": [
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "8248f63bbf88acb490f6fbcc0eff46dd6b6a1f0b"
- },
- {
-  "source": "The Record",
-  "title": "Ukraine to give Britain access to battlefield data to train AI",
-  "link": "https://therecord.media/ukraine-uk-ai-drone-data",
-  "published": "2026-08-25T14:00:00+00:00",
-  "summary": "Ukraine will give Britain access to a vast trove of battlefield data collected during the war with Russia, allowing U.K. companies and researchers to use it to train and test artificial intelligence systems.",
-  "categories": [
-   "ai"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "700b48a9079ddf26b98bec19a5388f9f238369e5"
- },
- {
-  "source": "The Record",
-  "title": "UK government seeks powers to secretly block risky tech suppliers",
-  "link": "https://therecord.media/uk-technology-national-security",
-  "published": "2026-08-25T12:45:00+00:00",
-  "summary": "The British government is seeking new powers to ban certain technology vendors from supplying companies working in the country’s critical sectors — potentially doing so in secret.",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "635bd681bcab81ea509b5abcc66cf927fecd74bb"
- },
- {
-  "source": "SecurityWeek",
-  "title": "Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation",
-  "link": "https://www.securityweek.com/linux-foundation-to-govern-trace-an-open-standard-for-ai-runtime-attestation/",
-  "published": "2026-08-25T16:23:45+00:00",
-  "summary": "TRACE was developed by AMD, Intel, Microsoft, OPAQUE, and TII and contributed to the Linux Foundation. The post Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation appeared first on SecurityWeek .",
-  "categories": [
-   "ai"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "d8483a293061ba2e9d41fbf81262f11f81583f24"
  }
 ]
