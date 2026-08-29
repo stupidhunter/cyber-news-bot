@@ -1,6 +1,748 @@
 [
  {
   "source": "VietnamPlus Kinh tế số",
+  "title": "Nhóm phối hợp hai nước Việt Nam-Lào rà soát Thỏa thuận Hà Nội năm 2007",
+  "link": "https://www.vietnamplus.vn/nhom-phoi-hop-hai-nuoc-viet-nam-lao-ra-soat-thoa-thuan-ha-noi-nam-2007-post1133322.vnp",
+  "published": "2026-08-29T10:17:50+00:00",
+  "summary": "Sau gần 20 năm triển khai, Thỏa thuận&nbsp;Hà Nội đã trở thành một trong những khuôn khổ hợp tác quan trọng giữa hai Chính phủ Việt Nam và Lào trong việc tạo thuận lợi cho hoạt động qua lại biên giới. Việt Nam luôn dành ưu tiên cao nhất cho việc vun đắp và phát triển quan hệ Việt Nam-Lào Việt Nam-Lào mở rộng không gian hợp tác trong chuyển đổi số, bán dẫn và AI Hội nghị giữa kỳ Ủy ban Hợp tác hai nước Việt Nam-Lào năm 2026",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "a36a94b188e4278d9da628eb40e2823d6efc184c"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Ukraine: Nổ lớn tại kho hàng ở Kiev khiến 27 người thiệt mạng",
+  "link": "https://www.vietnamplus.vn/ukraine-no-lon-tai-kho-hang-o-kiev-khien-27-nguoi-thiet-mang-post1133324.vnp",
+  "published": "2026-08-29T10:17:25+00:00",
+  "summary": "Vụ cháy lớn kèm nhiều tiếng nổ tại một kho hàng khiến ít nhất 27 người thiệt mạng, 42 người bị thương và 381 người phải sơ tán, trong khi nhà chức trách đã mở cuộc điều tra về nguyên nhân vụ việc. Nhiều vụ nổ làm rung chuyển thủ đô của Ukraine Nga tiếp tục tấn công các cảng hậu cần của Ukraine Ukraine: Nhiều tiếng nổ vang lên ở khu vực trung tâm và phía Đông thủ đô Kiev",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "2853bda240ee52a9bb4b8a838af4a210c66bb7c6"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Anthropic ra mắt công cụ AI có thể tự tiến hành thí nghiệm khoa học",
+  "link": "https://www.vietnamplus.vn/anthropic-ra-mat-cong-cu-ai-co-the-tu-tien-hanh-thi-nghiem-khoa-hoc-post1133303.vnp",
+  "published": "2026-08-29T07:20:56+00:00",
+  "summary": "Với MHS, Anthropic đang đưa AI tiến thêm một bước: từ phân tích dữ liệu khoa học, hình thành giả thuyết sang trực tiếp điều khiển thiết bị để kiểm chứng các giả thuyết trong thế giới thực. Meta tung công cụ AI lập trình tự động cho nhà phát triển Google ra mắt công cụ AI giúp giải mã những bí ẩn của bộ gene người Công cụ AI mới của Australia chống hình ảnh deepfake độc hại",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "29a1314b977b92477ccf4eba58aeacf2e3beead2"
+ },
+ {
+  "source": "Tuổi Trẻ Công nghệ",
+  "title": "Berlin bị tin tặc tống tiền 2 triệu euro sau vụ tấn công mạng",
+  "link": "https://tuoitre.vn/berlin-bi-tin-tac-tong-tien-2-trieu-euro-sau-vu-tan-cong-mang-10026082916010388.htm",
+  "published": "2026-08-29T10:45:15.274463+00:00",
+  "summary": "Chính quyền Berlin bị nhóm tin tặc được cho là Rhysida đòi 30 Bitcoin, tương đương khoảng 2 triệu euro, sau vụ tấn công mạng khiến dữ liệu có thể bị đánh cắp.",
+  "categories": [
+   "breach",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "0ce7c71c538085bd87775765270aef70a1a32fd6"
+ },
+ {
+  "source": "Tuổi Trẻ Công nghệ",
+  "title": "AI của Anthropic bắt đầu tự điều khiển phòng thí nghiệm, tự làm thí nghiệm thay con người",
+  "link": "https://tuoitre.vn/ai-cua-anthropic-bat-dau-tu-dieu-khien-phong-thi-nghiem-tu-lam-thi-nghiem-thay-con-nguoi-100260829150326811.htm",
+  "published": "2026-08-29T10:45:15.274490+00:00",
+  "summary": "Anthropic đang thử nghiệm hệ thống cho phép AI như Claude tự điều khiển kính hiển vi, laser, cánh tay robot và thiết bị phòng thí nghiệm để làm thí nghiệm.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "d0b0635c422b8de3a04b7606184beef502a1bcf1"
+ },
+ {
+  "source": "Tuổi Trẻ Công nghệ",
+  "title": "Mỹ điều tra OpenAI sau vụ AI 'nổi loạn' tự ý tấn công Hugging Face",
+  "link": "https://tuoitre.vn/my-dieu-tra-openai-sau-vu-ai-noi-loan-tu-y-tan-cong-hugging-face-100260825164234515.htm",
+  "published": "2026-08-29T10:45:15.274774+00:00",
+  "summary": "Mỹ mở cuộc điều tra OpenAI, sau khi hai mô hình AI của công ty thoát khỏi môi trường thử nghiệm, truy cập Internet và tấn công nền tảng Hugging Face.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "51795623b4840ae81cb0f262c056d167fcd7d61c"
+ },
+ {
+  "source": "Báo Tin tức (TTXVN) KH-CN",
+  "title": "Anthropic ra mắt công cụ AI có thể tự tiến hành thí nghiệm khoa học",
+  "link": "https://baotintuc.vn/khoa-hoc-doi-song/anthropic-ra-mat-cong-cu-ai-co-the-tu-tien-hanh-thi-nghiem-khoa-hoc-20260829133953635.htm",
+  "published": "2026-08-29T10:45:13.958716+00:00",
+  "summary": "Công ty trí tuệ nhân tạo (AI) Anthropic đang triển khai phiên bản thử nghiệm của một hệ thống cho phép các trợ lý AI như Claude điều khiển thiết bị khoa học và kỹ thuật để tự tiến hành các thí nghiệm. Đây được xem là một bước tiến mới của Anthropic trong việc đưa AI từ môi trường số vào thế giới vật lý.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "a0ffd14fe2880b7a3c4fb4196f80fe9eef6dcd71"
+ },
+ {
+  "source": "Thanh Niên Công nghệ",
+  "title": "5 c&agrave;i đặt n&ecirc;n tắt sau khi &#039;đập hộp&#039; điện thoại Android",
+  "link": "https://thanhnien.vn/5-cai-dat-nen-tat-sau-khi-dap-hop-dien-thoai-android-185260828104053564.htm",
+  "published": "2026-08-29T08:06:00+00:00",
+  "summary": "Việc chủ động v&ocirc; hiệu h&oacute;a 5 c&agrave;i đặt mặc định tr&ecirc;n hệ điều h&agrave;nh Android sẽ gi&uacute;p người d&ugrave;ng tối ưu h&oacute;a thời lượng pin, bảo mật v&agrave; n&acirc;ng cao trải nghiệm.",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "584ce25a4641386058e806bca1d96ab5317b6e27"
+ },
+ {
+  "source": "GenK",
+  "title": "Giám đốc Kỹ thuật AI Techcombank: Năng lực tính toán AI ngày càng 'đắt đỏ và phức tạp', mua thêm hạ tầng không còn là giải pháp hàng đầu",
+  "link": "https://genk.vn/giam-doc-ky-thuat-ai-techcombank-nang-luc-tinh-toan-ai-ngay-cang-dat-do-va-phuc-tap-mua-them-ha-tang-khong-con-la-giai-phap-hang-dau-165260829141825342.chn",
+  "published": "2026-08-29T10:45:04.552472+00:00",
+  "summary": "Ông Lê Ngọc Sơn - Giám đốc Kỹ thuật AI tại Techcombank khuyến nghị các tổ chức cần có chiến lược chủ động để kiểm soát chi phí và sự phụ thuộc vào hạ tầng, thay vì đơn giản là tiếp tục mua thêm năng lực tính toán.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "5872988e39bdbca964c1d14d83088b42224181ae"
+ },
+ {
+  "source": "Znews Công nghệ",
+  "title": "Vì sao Apple chọn Việt Nam để mở trung tâm đào tạo đầu tiên ở ĐNA",
+  "link": "https://tech.zingnews.vn/vi-sao-apple-chon-viet-nam-de-mo-trung-tam-dao-tao-dau-tien-o-dna-post1680012.html",
+  "published": "2026-08-29T10:11:54+00:00",
+  "summary": "Những người lao động trong các nhà máy là nhóm dễ bị ảnh hưởng nhất khi tự động hóa mở rộng, AI ngày càng phát triển.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "f3b603d80dbb87d8779acfc6156dfd5201e69211"
+ },
+ {
+  "source": "Znews Công nghệ",
+  "title": "Người trẻ phong cách bật mí lý do chọn Galaxy Z Flip8",
+  "link": "https://tech.zingnews.vn/nguoi-tre-phong-cach-bat-mi-ly-do-chon-galaxy-z-flip8-post1679961.html",
+  "published": "2026-08-29T04:00:20+00:00",
+  "summary": "Người trẻ yêu thích Galaxy Z Flip8 nhờ cảm giác gọn tay, vừa túi với thiết kế gập cá tính, chụp ảnh xoá phông chất lượng và dễ dàng chỉnh sửa ảnh, video với AI.",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "e934e4517a0fa2066bb40b8450970acd4a09ac7b"
+ },
+ {
+  "source": "VnExpress Số hóa",
+  "title": "Galaxy S26 FE - smartphone giá tốt với AI cao cấp",
+  "link": "https://vnexpress.net/galaxy-s26-fe-smartphone-gia-tot-voi-ai-cao-cap-5114783.html",
+  "published": "2026-08-29T09:01:29+00:00",
+  "summary": "Mẫu điện thoại \"Fan Edition\" vừa ra mắt của Samsung cân bằng giữa sức mạnh xử lý, thời lượng pin và tính năng AI cao cấp, nhưng thiết kế không có nhiều đột phá.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "6b21f577f8434258b6dcd4fd6b3235caa4c66951"
+ },
+ {
+  "source": "OpenAI News",
+  "title": "Disrupting a new covert influence campaign from Russia",
+  "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+  "published": "2026-08-25T00:00:00+00:00",
+  "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Làm gián đoạn một chiến dịch gây ảnh hưởng bí mật mới từ Nga",
+  "key": "c415cc99c8660cf7317db89e6231a9b0e6b27bb4"
+ },
+ {
+  "source": "Schneier on Security",
+  "title": "Black Hat State of Security Vendors",
+  "link": "https://www.schneier.com/blog/archives/2026/08/black-hat-state-of-security-vendors.html",
+  "published": "2026-08-25T10:54:50+00:00",
+  "summary": "Andy Ellis has a roundup of the security vendors at Black Hat this year. Key Takeaways: We have entered into an AI world. While nearly half of booths didn&#8217;t directly mention AI or agents in their taglines, the effects of AI are everywhere. Multiple spaces (Identity, SaaS, AppSec, Data) have almost every vendor leading with AI; existing unsolved problem areas just got worse. At the same time, there&#8217;s a clear trichotomy in the market: tools that tell you how bad things are; tools that stop adversaries, and tools that prevent problems from occurring. While you&#8217;d suspect that the",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Nhà cung cấp bảo mật của Black Hat",
+  "key": "41a2f033e764fc46166aa55f915b4a68a51cd7cb"
+ },
+ {
+  "source": "Talos Blog",
+  "title": "The safety penalty: Reclaiming operational sovereignty in the age of AI",
+  "link": "https://blog.talosintelligence.com/the-safety-penalty-reclaiming-operational-sovereignty-in-the-age-of-ai/",
+  "published": "2026-08-25T10:00:22+00:00",
+  "summary": "As frontier AI models become increasingly restrictive, security teams are facing a \"safety penalty\" that hampers real-time incident response. Discover how organizations can move toward operational sovereignty to ensure their defensive AI keeps pace with unconstrained adversaries.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Hình phạt về an toàn: Đòi lại chủ quyền hoạt động trong thời đại AI",
+  "key": "1f2eea2b03b8d267d6b556fde6626ba862d14d8f"
+ },
+ {
+  "source": "Unit 42",
+  "title": "The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Execution",
+  "link": "https://unit42.paloaltonetworks.com/ai-enabled-malware-analysis/",
+  "published": "2026-08-25T10:00:57+00:00",
+  "summary": "Explore Unit 42 research on AI-enabled malware. Learn how existing behavioral detection and endpoint analytics stop AI-authored code before execution. The post The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Execution appeared first on Unit 42 .",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Tình trạng phần mềm độc hại hỗ trợ AI tháng 8 năm 2026: Từ lạm dụng thương hiệu đến thực thi tác nhân",
+  "key": "8e65d2dac92ed01358ee521533349070906c86cc"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-41012 — Traffic interception vulnerability in BOSH Director vCenter CPI allows attackers positioned between BOSH Director and vCenter to impersonate vCenter R",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-41012",
+  "published": "2026-08-29T03:17:06.637",
+  "summary": "Traffic interception vulnerability in BOSH Director vCenter CPI allows attackers positioned between BOSH Director and vCenter to impersonate vCenter REST API and capture administrator credentials via HTTP Basic auth, leading to complete virtualization infrastructure takeover.\n\n\n\nAn attacker who can intercept traffic between the BOSH Director and vCenter can establish a malicious server impersonating the vCenter REST API. When the BOSH Director makes CPI calls to perform routine cloud infrastructure operations, the attacker captures the vCenter administrator username and password transmitted vi",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-41012",
+   "cvss": 7.7,
+   "ref": "https://www.cloudfoundry.org/blog/cve-2026-41012-bosh-vsphere-cpi-improper-cert-validation/"
+  },
+  "title_vi": "CVE-2026-41012 — Lỗ hổng chặn lưu lượng truy cập trong BOSH Director vCenter CPI cho phép kẻ tấn công nằm giữa BOSH Director và vCenter mạo danh vCenter R",
+  "key": "0127ec378fa294d25c474a706c6e6cd49070aadb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-10522 — The MemberHero WordPress plugin through 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-10522",
+  "published": "2026-08-29T06:16:57.717",
+  "summary": "The MemberHero  WordPress plugin through 6.9 does not restrict which account fields can be supplied during its frontend registration process, allowing unauthenticated attackers to register a new user with an arbitrary role, including Administrator, leading to a full site takeover.\n\nVersion 6.9 is advertised as resolving this issue, but the fix is incomplete and the current version remains exploitable by unauthenticated attackers to obtain administrator access and to take over existing accounts. No version that fully addresses the issue is available at the time of this advisory.\n\nMitigation: de",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-10522",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/8d531f22-1e8b-4e35-adec-c9304f4f7a07/"
+  },
+  "title_vi": "CVE-2026-10522 — Plugin WordPress MemberHero thông qua 6",
+  "key": "7fb2aff9e7a000be0c2ec34973a9274ab32e5dd0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-16061 — The Rest Routes WordPress plugin through 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-16061",
+  "published": "2026-08-29T06:17:00.247",
+  "summary": "The Rest Routes  WordPress plugin through 5.5.5 does not sanitize and validate a value taken from the URL of one of its public REST routes before using it in a SQL query, allowing unauthenticated attackers to perform SQL injection attacks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-16061",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/a5114034-797c-44cd-ba9b-6ab3655fd3e8/"
+  },
+  "title_vi": "CVE-2026-16061 — The Rest Routes Plugin WordPress thông qua 5",
+  "key": "d75f1e4586aa31487aa185f8f9810789abef1074"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-16259 — The Uix UserCenter WordPress plugin through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-16259",
+  "published": "2026-08-29T06:17:00.360",
+  "summary": "The Uix UserCenter WordPress plugin through 1.0.3 does not verify that the account being modified through an unauthenticated profile-update action belongs to the requester, and it authenticates that action with a token whose signing key is hardcoded and identical across every install, allowing unauthenticated attackers to forge a token for any user, overwrite an administrator's email and password, and take over the account.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-16259",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/e551128c-c9b1-4e6a-a2aa-92830b7a4887/"
+  },
+  "title_vi": "CVE-2026-16259 — Plugin Uix UserCenter WordPress thông qua 1",
+  "key": "f99966a089c184eed1cd59d7e810aad8db166cfd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-16600 — The SmartAIPress WordPress plugin through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-16600",
+  "published": "2026-08-29T06:17:05.443",
+  "summary": "The SmartAIPress WordPress plugin through 1.2.0 does not perform a capability check on one of its AJAX actions and does not validate a user-supplied URL before fetching it server-side, allowing users with subscriber-level access and above to make the site retrieve arbitrary internal or external URLs and read the response, resulting in a full-read Server-Side Request Forgery.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-16600",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/66d2dc2d-fe77-4d34-bfca-d47b086a9c96/"
+  },
+  "title_vi": "CVE-2026-16600 — Plugin WordPress SmartAIPress thông qua 1",
+  "key": "20260faacf3f30a04bcd7d6ec525903fb011f4c9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-16947 — The Total processing card payments for WooCommerce WordPress plugin through 7",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-16947",
+  "published": "2026-08-29T06:17:05.583",
+  "summary": "The Total processing card payments for WooCommerce WordPress plugin through 7.3 does not validate a user-supplied path before using it to build a server-side verification request, and does not verify the authenticity of the response, allowing unauthenticated attackers to redirect that request to an arbitrary host (disclosing the merchant's payment-gateway credentials) and to forge a success response that marks arbitrary WooCommerce orders as paid.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-16947",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/53fe46b3-e8c4-448e-aa80-b7fb02fffa51/"
+  },
+  "title_vi": "CVE-2026-16947 — Tổng số thanh toán thẻ xử lý cho WooCommerce WordPress plugin thông qua 7",
+  "key": "d33e444f6df3c3dbfbcbd62273171961832dbff0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-17520 — The Newsletters WordPress plugin before 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-17520",
+  "published": "2026-08-29T06:17:12.177",
+  "summary": "The Newsletters WordPress plugin before 4.17 does not generate its API key using a sufficiently random source, deriving it from a publicly known value, allowing unauthenticated attackers to compute the key and perform privileged actions such as adding and deleting subscribers and sending emails, when the optional API has been enabled.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-17520",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/5a719e6b-22e1-4950-bf17-cd92e2ea6685/"
+  },
+  "title_vi": "CVE-2026-17520 — Bản tin WordPress plugin trước 4",
+  "key": "a71b5f3428ba1fbf2607ca6819cb3a4ff2080771"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-17522 — The Newsletters WordPress plugin before 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-17522",
+  "published": "2026-08-29T06:17:12.290",
+  "summary": "The Newsletters WordPress plugin before 4.17 does not perform any nonce or capability check when saving one of its settings screens, and writes every submitted parameter into its own options, allowing attackers to make a logged in administrator overwrite arbitrary Newsletters WordPress plugin before 4.17 settings, including the credential protecting its API, via a Cross-Site Request Forgery attack.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-17522",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/ebb8d4b7-14b5-49ed-b727-129123d6ce45/"
+  },
+  "title_vi": "CVE-2026-17522 — Bản tin WordPress plugin trước 4",
+  "key": "96d59ca2b4ac6c69f1470a0b23bff7fdb2a90d26"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18233 — The MStore API WordPress plugin before 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18233",
+  "published": "2026-08-29T06:17:16.007",
+  "summary": "The MStore API  WordPress plugin before 4.21.1 does not verify that the order targeted by one of its delivery endpoints belongs to the requester, allowing any authenticated user, including Subscribers, to mark arbitrary orders as completed and paid without any payment being made.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18233",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/241c0394-8dfa-475c-a91b-e2b5e47add53/"
+  },
+  "title_vi": "CVE-2026-18233 — Plugin WordPress MStore API trước 4",
+  "key": "a97a1ade6ff5b7cf6830817e2be40bbf9cc8f526"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18234 — The MStore API WordPress plugin before 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18234",
+  "published": "2026-08-29T06:17:20.960",
+  "summary": "The MStore API  WordPress plugin before 4.21.1 does not verify that the order targeted by its wallet payment handling belongs to the requester, and does not deduct the wallet balance for most payment methods, allowing any authenticated user, including Subscribers, to mark arbitrary orders as paid without any payment being taken.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18234",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/1dc31c4e-9687-4056-a93e-9509c5a88828/"
+  },
+  "title_vi": "CVE-2026-18234 — Plugin WordPress MStore API trước 4",
+  "key": "a556888542dc0a4dead52f33b25cf9496416b1ef"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-19430 — The Catfolders Document Gallery Pro WordPress plugin before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19430",
+  "published": "2026-08-29T06:17:24.857",
+  "summary": "The Catfolders Document Gallery Pro WordPress plugin before 2.0.7 does not authorise some of its REST API routes, and the token identifying the requested content is forgeable client side, allowing unauthenticated users to list and download the contents of folders that were never published on the site.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-19430",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/ebf45bc7-a782-48b6-99ca-25bc78697e20/"
+  },
+  "title_vi": "CVE-2026-19430 — The Catfolders Document Gallery Pro WordPress plugin before 2",
+  "key": "fd3bc7715389f7ff4a4d19679f021c2dd1c53dfb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-76546 — The User Profile Builder WordPress plugin before 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76546",
+  "published": "2026-08-29T06:17:24.977",
+  "summary": "The User Profile Builder  WordPress plugin before 4.0.1 does not escape the output of one of its optional shortcodes, allowing users with a role as low as contributor to perform Stored Cross-Site Scripting attacks against any user viewing the affected content, including administrators. The shortcode is not enabled by default.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-76546",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/2c67d682-3e11-4fcd-9aae-ab7895d5da67/"
+  },
+  "title_vi": "CVE-2026-76546 — Trình tạo hồ sơ người dùng WordPress plugin before 4",
+  "key": "dca453a5b279e6c0bd884f17c44453dc6b6e5dd4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-76547 — The User Profile Builder WordPress plugin before 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76547",
+  "published": "2026-08-29T06:17:29.343",
+  "summary": "The User Profile Builder  WordPress plugin before 4.0.1 does not validate the type of data being deserialized when importing a configuration file, allowing high privilege users such as administrators to conduct PHP Object Injection. The affected feature is a free add-on which is disabled by default, and no POP chain is present in the User Profile Builder  WordPress plugin before 4.0.1 itself, so further impact requires a suitable gadget from another installed User Profile Builder  WordPress plugin before 4.0.1 or .",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-76547",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/b80151f4-e910-4263-9ecc-470fb39d7583/"
+  },
+  "title_vi": "CVE-2026-76547 — Trình tạo hồ sơ người dùng WordPress plugin before 4",
+  "key": "e1a72f69b69cb25018421f2a8fd8fe7ef10fb3b7"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-76548 — The User Profile Builder WordPress plugin before 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76548",
+  "published": "2026-08-29T06:17:29.450",
+  "summary": "The User Profile Builder  WordPress plugin before 4.0.1 does not properly restrict its front-end file upload feature, granting unauthenticated visitors capabilities reserved to privileged roles. This allows them to list the site's media library and to modify unpublished posts, pages and media items belonging to other users.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-76548",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/75e0611d-e11d-44f8-8fc1-7c40bb113f64/"
+  },
+  "title_vi": "CVE-2026-76548 — Trình tạo hồ sơ người dùng WordPress plugin before 4",
+  "key": "f897c635ae33092d898ace6f5cb191d68f3e5ca2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-76586 — The Appointment Booking Calendar Plugin and Scheduling Plugin WordPress plugin before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76586",
+  "published": "2026-08-29T06:17:34.353",
+  "summary": "The Appointment Booking Calendar Plugin and Scheduling Plugin  WordPress plugin before 1.6.3 does not verify the amount actually paid against the server-side price staged for a booking when confirming an online payment, allowing unauthenticated users to have a paid appointment approved for a fraction of its price.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-76586",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/bc74bc9b-92ce-434e-a21d-34d7525c8600/"
+  },
+  "title_vi": "CVE-2026-76586 — Plugin Đặt lịch hẹn và Plugin Lập lịch WordPress trước 1",
+  "key": "b90aba76f6e4b15d85d7dee532df41732d063f74"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77007 — The HEL Online Classroom: AI-powered Online Classrooms WordPress plugin through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77007",
+  "published": "2026-08-29T06:17:34.453",
+  "summary": "The HEL Online Classroom: AI-powered Online Classrooms WordPress plugin through 1.0.3 does not perform any authorisation check on one of its REST API routes, allowing unauthenticated users to retrieve its stored settings, including the shared secret used to sign API requests to the connected BigBlueButton server.",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77007",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/24f1da87-4217-4876-a0f3-5e125f694651/"
+  },
+  "title_vi": "CVE-2026-77007 — Lớp học trực tuyến HEL: Plugin WordPress Lớp học trực tuyến hỗ trợ AI thông qua 1",
+  "key": "9f437dc7572b932c37ceef92d1455067f17987ac"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77008 — The HEL Online Classroom: AI-powered Online Classrooms WordPress plugin through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77008",
+  "published": "2026-08-29T06:17:38.927",
+  "summary": "The HEL Online Classroom: AI-powered Online Classrooms WordPress plugin through 1.0.3 does not have any authorisation or authentication check when saving its settings, allowing unauthenticated users to overwrite them and repoint every online classroom, along with the shared secret those sessions are signed with, at infrastructure of their choosing.",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77008",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/529663a1-87ed-4cff-92f5-85641e9718b3/"
+  },
+  "title_vi": "CVE-2026-77008 — Lớp học trực tuyến HEL: Plugin WordPress Lớp học trực tuyến hỗ trợ AI thông qua 1",
+  "key": "f0f9d9d741f4b30badfb9ed24886c68e25a6e0b4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77010 — The HEL Online Classroom: AI-powered Online Classrooms WordPress plugin through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77010",
+  "published": "2026-08-29T06:17:39.037",
+  "summary": "The HEL Online Classroom: AI-powered Online Classrooms WordPress plugin through 1.0.3 does not perform authorisation checks on its REST API routes and does not consistently enforce the per-class access code, allowing unauthenticated users to obtain a signed meeting join link for any classroom, including one protected by an access code, and to join it with moderator privileges.",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77010",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/c50e6d2c-fe67-44d4-af10-a261d0afc6d7/"
+  },
+  "title_vi": "CVE-2026-77010 — Lớp học trực tuyến HEL: Plugin WordPress Lớp học trực tuyến hỗ trợ AI thông qua 1",
+  "key": "9bc16b7ae89d298095c15d2659a5cdfacdbfb0cb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77012 — The 爱采集数据采集和发布插件 WordPress plugin through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77012",
+  "published": "2026-08-29T06:17:44.040",
+  "summary": "The 爱采集数据采集和发布插件 WordPress plugin through 1.0.0 does not require a per-install secret for one of its unauthenticated endpoints, relying on a hardcoded default, and does not validate the URLs or destination paths it is given, allowing unauthenticated attackers to read arbitrary files from the server, force it to issue arbitrary requests and retrieve the responses, and write attacker-supplied content outside the uploads directory.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77012",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/025664f8-2af7-4692-a9a0-1d28916a1565/"
+  },
+  "title_vi": "CVE-2026-77012 — Plugin 爱采集数据采集和发布插件 WordPress thông qua 1",
+  "key": "f65f03deaae1c2df95a735119c2e38647041b079"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77704 — The Booking for Appointments and Events Calendar WordPress plugin before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77704",
+  "published": "2026-08-29T06:17:44.150",
+  "summary": "The Booking for Appointments and Events Calendar  WordPress plugin before 2.4.9 does not check that a user holds the required capability before letting them change an appointment's status, allowing customers to set arbitrary statuses on appointments they are booked on, including approving their own bookings that were left awaiting approval and overwriting another customer's booking status on a shared appointment.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77704",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/7b444920-28c4-4e4c-b5fd-38fdc31aef0c/"
+  },
+  "title_vi": "CVE-2026-77704 — Plugin WordPress Đặt lịch hẹn và sự kiện trước 2",
+  "key": "3ba24fd9a4c46cc34367945ce124c42478be5548"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77786 — The Rank Math SEO WordPress plugin before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77786",
+  "published": "2026-08-29T06:17:44.250",
+  "summary": "The Rank Math SEO  WordPress plugin before 1.0.277 does not check that the user requesting an automated SEO fix holds the capability WordPress itself requires for the settings being changed, allowing users with the Editor role to modify site-wide core WordPress settings that are reserved to administrators.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77786",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/b0f3dfdb-9f0a-418c-9ce5-6a2b2b1f1b49/"
+  },
+  "title_vi": "CVE-2026-77786 — Plugin Rank Math SEO WordPress trước 1",
+  "key": "4924a16723ec14b26af57716106fba476c1e4b8b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-80311 — The Stripe Payment Forms by WP Full Pay WordPress plugin before 8",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80311",
+  "published": "2026-08-29T06:17:49.560",
+  "summary": "The Stripe Payment Forms by WP Full Pay  WordPress plugin before 8.5.5 does not verify that a subscription belongs to the customer bound to the requesting customer-portal session before cancelling it, allowing a user with a confirmed portal session to cancel subscriptions belonging to other customers.\n\nExploitation requires the attacker to know the target subscription's identifier, which is high-entropy and not enumerable through the Stripe Payment Forms by WP Full Pay  WordPress plugin before 8.5.5.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-80311",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/e1b0e815-e803-4a14-ab2a-ed860e82c782/"
+  },
+  "title_vi": "CVE-2026-80311 — Các biểu mẫu thanh toán Stripe bằng plugin WP Full Pay WordPress trước 8",
+  "key": "a0ced252e3cba4f4a363544b62030e1a8dc317d1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-80488 — The WP Ultimate CSV Importer WordPress plugin before 9",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80488",
+  "published": "2026-08-29T06:17:49.663",
+  "summary": "The WP Ultimate CSV Importer  WordPress plugin before 9.0 does not properly sanitise and escape imported field values before using them in a SQL statement, which could allow high privilege users such as admin to perform SQL injection attacks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-80488",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/94ed94c8-88e9-4fe8-ad83-cacd4f39dd20/"
+  },
+  "title_vi": "CVE-2026-80488 — Trình nhập CSV WP Ultimate WordPress plugin trước 9",
+  "key": "7bdad5c7ca016b4de91f9a67ce2b89bd0af19965"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81026 — The MasterStudy LMS WordPress Plugin WordPress plugin before 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81026",
+  "published": "2026-08-29T06:17:55.990",
+  "summary": "The MasterStudy LMS WordPress Plugin  WordPress plugin before 3.7.40 does not verify the amount, receiver, currency or status of a payment notification before marking the corresponding order completed, allowing unauthenticated users to complete full-price orders and gain access to paid content by paying only a token amount.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81026",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/6677b55c-5d51-4849-ac67-849a500aefe2/"
+  },
+  "title_vi": "CVE-2026-81026 — The MasterStudy LMS WordPress Plugin WordPress plugin before 3",
+  "key": "d6849760c5a598666eff96b338d8dec67c690265"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81200 — The MasterStudy LMS WordPress Plugin WordPress plugin before 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81200",
+  "published": "2026-08-29T06:17:58.587",
+  "summary": "The MasterStudy LMS WordPress Plugin  WordPress plugin before 3.7.42 does not correctly restrict access to order information, allowing any user with the instructor role to read other users' order billing details, including name, email address, phone number and postal address, by enumerating order IDs.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81200",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/1a4db76f-7043-4f9e-a584-17151d008ab1/"
+  },
+  "title_vi": "CVE-2026-81200 — The MasterStudy LMS WordPress Plugin WordPress plugin before 3",
+  "key": "a1308c42e0488c7797e21669a13bf3f3494b9a5c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81342 — The MasterStudy LMS WordPress Plugin WordPress plugin before 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81342",
+  "published": "2026-08-29T06:17:58.700",
+  "summary": "The MasterStudy LMS WordPress Plugin  WordPress plugin before 3.7.43 does not validate a redirect parameter supplied during user registration before using it, allowing unauthenticated attackers to redirect users to arbitrary external URLs.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81342",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/f6f89b50-3087-4fb6-ba12-93fdc1bcc9ed/"
+  },
+  "title_vi": "CVE-2026-81342 — The MasterStudy LMS WordPress Plugin WordPress plugin before 3",
+  "key": "cb15285d15f0071e7012b2eff23dc8abcde86b8c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81346 — The Frontend Admin by DynamiApps WordPress plugin before 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81346",
+  "published": "2026-08-29T06:18:02.633",
+  "summary": "The Frontend Admin by DynamiApps WordPress plugin before 3.29.11 does not perform a capability check on one of its AJAX actions, allowing any authenticated user, such as a subscriber, to delete arbitrary membership plans.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81346",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/0fee8405-24c3-470e-b16d-7c839cba6038/"
+  },
+  "title_vi": "CVE-2026-81346 — The Frontend Admin của DynamiApps WordPress plugin before 3",
+  "key": "64d494577d882aa47f9777d64e7103d4a98a7123"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-80725 — In the Linux kernel, the following vulnerability has been resolved: net: gro: properly validate BIG TCP aggregation criteria When GRO attempts to aggr",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80725",
+  "published": "2026-08-29T07:16:54.573",
+  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nnet: gro: properly validate BIG TCP aggregation criteria\n\nWhen GRO attempts to aggregate packets beyond GRO_LEGACY_MAX_SIZE (64KB),\nBIG TCP should only be permitted for plain IPv4 TCP and plain IPv6 TCP\n(with sufficient MAC header room to insert the temporary HBH jumbo header).\n\nHowever, commit b1a78b9b9886 (\"net: add support for ipv4 big tcp\")\nloosened the check in skb_gro_receive(), leading to several issues:\n\n1. skb_gro_receive() checked skb_headroom(p) instead of the actual space\n   before the MAC header (p->mac_header). ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-80725",
+   "cvss": null,
+   "ref": "https://git.kernel.org/stable/c/03cb8cc2961f5f781d12e903782cb3815ed84b1c"
+  },
+  "title_vi": "CVE-2026-80725 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: net: gro: xác thực đúng các tiêu chí tổng hợp TCP LỚN Khi GRO cố gắng tích hợp",
+  "key": "010d4497d8c7e2727e8eae20f466f1ca86f2d191"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
   "title": "Nhân viên Google thử nghiệm mô hình AI Gemini Flash thế hệ tiếp theo",
   "link": "https://www.vietnamplus.vn/nhan-vien-google-thu-nghiem-mo-hinh-ai-gemini-flash-the-he-tiep-theo-post1133234.vnp",
   "published": "2026-08-29T00:16:09+00:00",
@@ -156,7 +898,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "McKesson đang điều tra một sự cố an ninh mạng sau khi ShinyHunters tuyên bố đánh cắp dữ liệu bệnh nhân",
   "key": "f888f642ae202e62b16ee6d32d4a957c636c5f57"
  },
  {
@@ -226,7 +968,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "[Sự kiện ảo] Mọi doanh nghiệp nên biết gì về bảo mật tài sản đám mây trong thời đại AI",
   "key": "f3e0976a2c8b99fb8d514976f484beabbea98a48"
  },
  {
@@ -240,7 +982,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "[Sự kiện ảo] Xây dựng chiến lược AI bảo mật cho doanh nghiệp",
   "key": "ccfacad2c59cbf15ad2a69771bd64a65492b434d"
  },
  {
@@ -3676,7 +4418,7 @@
    "cvss": null,
    "ref": "https://www.tp-link.com/en/support/download/tl-wr841n/v14/#Firmware"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-76651 — Lỗ hổng tràn bộ đệm tồn tại trong dịch vụ http nhúng trong TL-WR841N v14 khi xử lý các yêu cầu đa phần/dữ liệu biểu mẫu",
   "key": "564914d6db1a2102ef8007246944e3cac7352e2d"
  },
  {
@@ -3695,7 +4437,7 @@
    "cvss": 7.5,
    "ref": "https://cna.openjsf.org/security-advisories.html"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-77037 - multer là một phần mềm trung gian để xử lý dữ liệu đa phần/biểu mẫu trong Node",
   "key": "cf050c939daeb4e722655a952c1b6586ba78a019"
  },
  {
@@ -3713,7 +4455,7 @@
    "cvss": 3.7,
    "ref": "https://cna.openjsf.org/security-advisories.html"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-77063 - multer là một phần mềm trung gian để xử lý dữ liệu đa phần/biểu mẫu trong Node",
   "key": "2925e6cd48d9205a060900f0e9ee49d159d7d531"
  },
  {
@@ -3731,7 +4473,7 @@
    "cvss": 7.5,
    "ref": "https://cna.openjsf.org/security-advisories.html"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-77078 - multer là một phần mềm trung gian để xử lý dữ liệu đa phần/biểu mẫu trong Node",
   "key": "51e17e5c94561522b81e0aaa150737e873eefac4"
  },
  {
@@ -3749,7 +4491,7 @@
    "cvss": 7.7,
    "ref": "https://www.mongodb.com/docs/bi-connector/current/release-notes/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-81490 — Người dùng cơ sở dữ liệu có thể tạo chế độ xem trong không gian tên mà Trình kết nối MongoDB cho các mẫu BI có thể khiến quy trình lấy mẫu lược đồ ngừng hoạt động b",
   "key": "21dbd3a427a0c24f4638865844f8ff13b1fba624"
  },
  {
@@ -3767,7 +4509,7 @@
    "cvss": 7.5,
    "ref": "https://www.mongodb.com/docs/bi-connector/current/release-notes/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-81517 — Một bên chưa được xác thực có thể đến cổng của một phiên bản MongoDB Connector cho BI (mongosqld) có thể tạo ra đủ hoạt động nhật ký kết nối thường xuyên",
   "key": "295814d62baa0860c7c826db8f3b2e89af862493"
  },
  {
@@ -3785,7 +4527,7 @@
    "cvss": 7.5,
    "ref": "https://www.mongodb.com/docs/bi-connector/current/release-notes/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-81518 — Khi mongosqld được cấu hình với tệp thẩm quyền chứng chỉ máy khách, người nghe yêu cầu chứng chỉ máy khách trong quá trình bắt tay TLS nhưng không",
   "key": "4c2897ce4b213614f8d6f97372410e838b6723e6"
  },
  {
@@ -3803,7 +4545,7 @@
    "cvss": 7.5,
    "ref": "https://www.mongodb.com/docs/bi-connector/current/release-notes/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-81520 — Một máy khách có thể truy cập mạng chưa được xác thực có thể giữ Trình kết nối MongoDB cho phiên xác thực BI mở vô thời hạn bằng cách bắt đầu",
   "key": "5da00dc4d0078287e1fcad8711ddec33d8d3444b"
  },
  {
@@ -3821,7 +4563,7 @@
    "cvss": 8.8,
    "ref": "https://github.com/mongodb/mongo-bi-connector-odbc-driver/releases"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-81532 - Người dùng có thể gửi SQL thông qua một ứng dụng bằng cách sử dụng Trình kết nối MongoDB cho trình điều khiển BI ODBC có thể cung cấp một câu lệnh con trỏ định vị có con trỏ",
   "key": "ec3f5c5ca38dee6aebd196d0d680abd1d943b98f"
  },
  {
@@ -3839,7 +4581,7 @@
    "cvss": 7.1,
    "ref": "https://github.com/mongodb/mongo-bi-connector-odbc-driver/releases"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-81533 - Một ứng dụng sử dụng Trình điều khiển ODBC của Trình kết nối BI MongoDB có thể gặp phải vấn đề về an toàn bộ nhớ khi một câu lệnh SQL được gửi có chứa một sự cô đơn bất thường",
   "key": "b5a9ac8192b33b70a9795be49345d06519d13981"
  },
  {
@@ -3857,7 +4599,7 @@
    "cvss": 7.6,
    "ref": "https://blog.amberwolf.com/blog/2026/august/thin-client-thin-crypto-overview/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82017 — IGEL OS 12 trước 12",
   "key": "5917f9f7dd53858a7b1364ae967f3bc9587d574f"
  },
  {
@@ -3875,7 +4617,7 @@
    "cvss": 6.1,
    "ref": "https://blog.amberwolf.com/blog/2026/august/thin-client-thin-crypto-overview/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82018 — IGEL OS 12 trước 12",
   "key": "7dcd5e1d9e49e69cdafae6a425fa7d9083cf5bbd"
  },
  {
@@ -3893,7 +4635,7 @@
    "cvss": 7.5,
    "ref": "https://cna.openjsf.org/security-advisories.html"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82333 - multer là một phần mềm trung gian để xử lý dữ liệu đa phần/biểu mẫu trong Node",
   "key": "baf95a83a81d13642a8d62162a20158d6cb47152"
  },
  {
@@ -3911,7 +4653,7 @@
    "cvss": null,
    "ref": "https://github.com/klever-io/klever-go/commit/8bcc600b0ac88070740c63c7ce1c8a968dd85251"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-55764 — Klever-Go là triển khai Go của giao thức blockchain Klever",
   "key": "a5eae519baa4cf429807bbd7409b0f56cca86f16"
  },
  {
@@ -3929,7 +4671,7 @@
    "cvss": 5.4,
    "ref": "https://github.com/silverstripe/silverstripe-versioned/commit/6e30a2cf8d4b9233690464da61bd0fc4d3e92952"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-55779 — Silverstripe Versioned cung cấp phiên bản cho các mẫu Silverstripe",
   "key": "dd0222212e3a261863f99158ad67d4c80ddedcb6"
  },
  {
@@ -3947,7 +4689,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/free5gc/free5gc/security/advisories/GHSA-334q-h5g3-fpxv"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-55784 — free5GC là một triển khai mã nguồn mở của mạng lõi 5G",
   "key": "9b69de5bb0d10c733b9ec3e772415e6a45180035"
  },
  {
@@ -3965,7 +4707,7 @@
    "cvss": 3.7,
    "ref": "https://github.com/free5gc/ausf/commit/7a5a4aa1ec6cd0e1febebf333911c3104968edf0"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-55785 — free5GC là một triển khai mã nguồn mở của mạng lõi 5G",
   "key": "1b0e3f5906f8b9eb3cbcadb51b9b6780194d2d0e"
  },
  {
@@ -3983,7 +4725,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/Graylog2/graylog2-server/commit/793df6e8202ea55c15a762e47a2a8a775961dd3f"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-55841 — Graylog là một nền tảng quản lý nhật ký mở và miễn phí",
   "key": "9c5742852800e18363eb9b96b4b3a46b4163f744"
  },
  {
@@ -4001,7 +4743,7 @@
    "cvss": 8.6,
    "ref": "https://github.com/mapfish/mapfish-print/commit/13beae7a7f970fc3526c1f7ca5db817d8d51fbec"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-55848 — mapfish-print là một thành phần của MapFish để in bản đồ bản đồ theo khuôn mẫu",
   "key": "8acaf1adba334beebc9a0c9bd20ad15dca0a3b4c"
  },
  {
@@ -4055,7 +4797,7 @@
    "cvss": 5.9,
    "ref": "https://github.com/mariadb-corporation/mariadb-connector-j/commit/149ec6a626376214966c01f42d48be1b80d06056"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-55856 — MariaDB Connector/J được sử dụng để kết nối các ứng dụng được phát triển trong Java với cơ sở dữ liệu MariaDB và MySQL",
   "key": "4a519389f1cf3152f26600326fe139522401474d"
  },
  {
@@ -4073,7 +4815,7 @@
    "cvss": 5.9,
    "ref": "https://github.com/mariadb-corporation/mariadb-connector-j/commit/a8599ab1cbe4b8818ea945bf56a4e012c302b388"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-55857 — MariaDB Connector/J được sử dụng để kết nối các ứng dụng được phát triển trong Java với cơ sở dữ liệu MariaDB và MySQL",
   "key": "ee9438d528afa024a8256a03d682cfecdae47a22"
  },
  {
@@ -4091,7 +4833,7 @@
    "cvss": 5.9,
    "ref": "https://github.com/mariadb-corporation/mariadb-connector-j/commit/300716bef1e1d0370a41be7863b88aa2d55fbb69"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-55858 — MariaDB Connector/J được sử dụng để kết nối các ứng dụng được phát triển trong Java với cơ sở dữ liệu MariaDB và MySQL",
   "key": "f3c64645d6f09e75b47e6c53a7d379bc5449f2b1"
  },
  {
@@ -4109,7 +4851,7 @@
    "cvss": 5.9,
    "ref": "https://github.com/mariadb-corporation/mariadb-connector-r2dbc/commit/38bad9afebc6c581a853656a42f9ebf403b1b1b7"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-55859 — MariaDB Connector/R2DBC là một máy khách MariaDB và MySQL không chặn được triển khai trong Java",
   "key": "957c85e83c294b23b9f61f9ddfe6e182312903c8"
  },
  {
@@ -4127,7 +4869,7 @@
    "cvss": 5.9,
    "ref": "https://github.com/mariadb-corporation/mariadb-connector-r2dbc/commit/be786603ec5530414996d2396157013e095b320a"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-55860 — MariaDB Connector/R2DBC là một máy khách MariaDB và MySQL không chặn được triển khai trong Java",
   "key": "1f9b8f127962c59750d7f9acad02e62a85c5ee50"
  },
  {
@@ -4145,7 +4887,7 @@
    "cvss": null,
    "ref": "https://github.com/Graylog2/graylog2-server/commit/41d3745d0e52736d06c07d279ca0d72c1616df4c"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-55867 — Graylog là một nền tảng quản lý nhật ký mở và miễn phí",
   "key": "16dc07aea4158a658985b1f201f579b70fd9aff3"
  },
  {
@@ -73330,772 +74072,5 @@
   "extra": {},
   "title_vi": "",
   "key": "d8483a293061ba2e9d41fbf81262f11f81583f24"
- },
- {
-  "source": "SecurityWeek",
-  "title": "Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails",
-  "link": "https://www.securityweek.com/alice-raises-140m-to-expand-ai-model-defenses-and-enterprise-guardrails/",
-  "published": "2026-08-25T14:11:59+00:00",
-  "summary": "The company, previously known as ActiveFence, has raised a total of $280 million from investors. The post Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails appeared first on SecurityWeek .",
-  "categories": [
-   "ai"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "4f5f92c9582104dd1ec442cba4880dfdf2df3f4e"
- },
- {
-  "source": "SecurityWeek",
-  "title": "WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities",
-  "link": "https://www.securityweek.com/wordpress-websites-targeted-via-miniorange-plugin-vulnerabilities/",
-  "published": "2026-08-25T13:33:12+00:00",
-  "summary": "CVE-2026-61979 and CVE-2026-15981 are authentication bypass vulnerabilities affecting the MiniOrange SAML 2.0 SSO plugin. The post WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities appeared first on SecurityWeek .",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "ecce78fbdeffc3d9719d19dcd1af47b0d6da8f5e"
- },
- {
-  "source": "SecurityWeek",
-  "title": "WhatsApp Adds Multiple Passkeys and Stronger 2SV in Account Security Update",
-  "link": "https://www.securityweek.com/whatsapp-adds-multiple-passkeys-and-stronger-2sv-in-account-security-update/",
-  "published": "2026-08-25T13:00:00+00:00",
-  "summary": "When Android users get a call from a non-contact, they will see more information about the caller, including their country. The post WhatsApp Adds Multiple Passkeys and Stronger 2SV in Account Security Update appeared first on SecurityWeek .",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "01064a0f1a2cb7bab6dca0cbf1619d9107188e8b"
- },
- {
-  "source": "SecurityWeek",
-  "title": "Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference",
-  "link": "https://www.securityweek.com/hands-on-cyber-physical-systems-training-returns-to-ics-cybersecurity-conference/",
-  "published": "2026-08-25T12:57:59+00:00",
-  "summary": "Hands-on Cyber Attack Methods course returns to SecurityWeek’s ICS Cybersecurity Conference, October 6–8 at the W Nashville. The post Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference appeared first on SecurityWeek .",
-  "categories": [
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "528f8098e4315bfb4edefd045dea0636ed06b8d8"
- },
- {
-  "source": "The Hacker News",
-  "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
-  "link": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
-  "published": "2026-08-25T14:07:37+00:00",
-  "summary": "Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden instructions inside the model itself. The findings were shared with The Hacker News ahead of publication, and the report says Oasis Security reported them to NVIDIA's Product Security Incident",
-  "categories": [
-   "ai"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "c650f6b43af4ca29ce700808121d9d3cabd1edf8"
- },
- {
-  "source": "The Hacker News",
-  "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
-  "link": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html",
-  "published": "2026-08-25T13:19:41+00:00",
-  "summary": "Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their accounts using the phishing-resistant method. The tech giant said more than 1 billion people use a passkey to log into WhatsApp. Support for passkeys was first introduced in Android in October 2023,",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "f94dc5a97965da045c3b4e32aaf6f2e89be65067"
- },
- {
-  "source": "The Hacker News",
-  "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
-  "link": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
-  "published": "2026-08-25T12:43:51+00:00",
-  "summary": "Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted notebook, according to VulnCheck's CVE Numbering Authority (CNA) record. The CNA record says the command can run as a local subprocess when the notebook is opened in edit mode. The vulnerability, tracked",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "f2772b75cb293885e651e5dd169859f726049dae"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-14457 — Issue summary: In a server or client configuration with RFC7250 Raw Public Keys (RPKs) enabled, and only the private key (with no associated certifica",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-14457",
-  "published": "2026-08-25T13:17:49.533",
-  "summary": "Issue summary: In a server or client configuration with RFC7250 Raw Public Keys (RPKs)\nenabled, and only the private key (with no associated certificate) configured locally,\na NULL pointer dereference may occur when the remote peer solicits raw public keys and\nalso sends the typically omitted \"signature_algorithms_cert\" TLS extension.\n\nImpact summary: The impact is limited to a possible Denial of Service as a result of\nan application abort, no data disclosure or remote command execution are possible.\n\nCWE: CWE-476: NULL Pointer Dereference\n\nDescription: While a passing comment in sample code i",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-14457",
-   "cvss": 7.5,
-   "ref": "https://github.com/openssl/openssl/commit/1e8c398db67404babd3e5af999bb6bd86f720c76"
-  },
-  "title_vi": "CVE-2026-14457 — Tóm tắt sự cố: Trong cấu hình máy chủ hoặc máy khách có bật Khóa công khai thô RFC7250 (RPK) và chỉ có khóa riêng (không có chứng nhận liên quan",
-  "key": "27c6c4c8d9d628edba557e716ad3bab4653f925a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-18798 — Issue summary: QUIC server may double free QRX (QUIC record layer RX) object when channel creation fails for initial packet",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18798",
-  "published": "2026-08-25T13:17:49.813",
-  "summary": "Issue summary: QUIC server may double free QRX (QUIC record layer RX) object\nwhen channel creation fails for initial packet.\n\nImpact summary: Double free leads to heap corruption, which typically results in \ntermination of QUIC server process, leading to Denial of Service. There is so\nfar no evidence that this double free is exploitable for remote code execution,\nthus it is considered highly improbable.\n\nCWE: CWE-415: Double Free\n\nDescription: In order to validate initial packet, OpenSSL QUIC stack default\npacket handler (port_default_packet_handler()) creates a so-called QRX object.\nIf the in",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-18798",
-   "cvss": 7.5,
-   "ref": "https://github.com/openssl/openssl/commit/70cebd74d3592f5272945501b58a60374c4e13af"
-  },
-  "title_vi": "CVE-2026-18798 — Tóm tắt vấn đề: Máy chủ QUIC có thể nhân đôi đối tượng QRX (lớp bản ghi QUIC RX) miễn phí khi tạo kênh không thành công cho gói ban đầu",
-  "key": "558ee03b7a4f3ef97bd6b54910713e80b12f5ee3"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-54874 — Issue summary: Receiving a DTLS record for a future epoch while a handshake is in progress causes OpenSSL to buffer far more memory than the record it",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-54874",
-  "published": "2026-08-25T13:19:24.033",
-  "summary": "Issue summary: Receiving a DTLS record for a future epoch while a handshake\nis in progress causes OpenSSL to buffer far more memory than the record\nitself requires.\n\nImpact summary: A peer can use a small amount of network traffic to make an\nOpenSSL DTLS endpoint retain a disproportionately large amount of memory,\nwhich may lead to a Denial of Service.\n\nCWE: CWE-405: Asymmetric Resource Consumption (Amplification)\n\nDescription: While a DTLS handshake is in progress, a peer may legitimately\nhave already moved on to the next epoch (for example, having sent its\nChangeCipherSpec and Finished messa",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-54874",
-   "cvss": 7.5,
-   "ref": "https://github.com/openssl/openssl/commit/4808b5d64176451f3d93d87d0ac9c81a9b13fb23"
-  },
-  "title_vi": "CVE-2026-54874 — Tóm tắt vấn đề: Nhận được bản ghi DTLS cho một kỷ nguyên trong tương lai trong khi một cái bắt tay đang được tiến hành khiến OpenSSL lưu trữ nhiều bộ nhớ hơn so với bản ghi",
-  "key": "926a47546872024c287cdf2f126cc17b63a0791f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-57863 — Crater Invoice through 6",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-57863",
-  "published": "2026-08-25T13:19:24.200",
-  "summary": "Crater Invoice through 6.0.6 contains a path traversal vulnerability in the self-update API that allows authenticated company owners to write arbitrary files outside the intended extraction directory by supplying crafted ZIP archives with ../ sequences to the unzip endpoint. Attackers can exploit unsanitized ZIP entry names passed to PHP's ZipArchive::extractTo() to write arbitrary PHP files into the web-accessible public directory and achieve remote code execution on the server.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-57863",
-   "cvss": 8.8,
-   "ref": "https://gist.github.com/sermikr0/cc58727e6a777b6ea1104e923803a0ba"
-  },
-  "title_vi": "CVE-2026-57863 - Hóa đơn từ miệng núi lửa đến 6",
-  "key": "d66271fac3fa418310fd936c119092f1ac3f19b6"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-63072 — Issue summary: OpenSSL CMS decryption sizes the key-unwrap output buffer based on querying the unwrapped key size, but the AES-WRAP-PAD unwrap primiti",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63072",
-  "published": "2026-08-25T13:19:26.010",
-  "summary": "Issue summary: OpenSSL CMS decryption sizes the key-unwrap output buffer based\non querying the unwrapped key size, but the AES-WRAP-PAD unwrap primitive\ncan write and cleanse more bytes than that query reports, causing an 8-byte\nout-of-bounds heap write.\n\nImpact summary: An attacker who supplies a crafted CMS message can trigger a\ndeterministic 8-byte out-of-bounds heap write when the victim decrypts it\nwith CMS_decrypt(), corrupting the heap and typically resulting in a Denial\nof Service.\n\nCWE: CWE-787: Out-of-bounds Write\n\nDescription: The key-wrap OID is potentially attacker-controlled on t",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-63072",
-   "cvss": 7.5,
-   "ref": "https://github.com/openssl/openssl/commit/2a3dac874c8057c1f0186849bf1ede1ae7b6b756"
-  },
-  "title_vi": "CVE-2026-63072 — Tóm tắt vấn đề: Giải mã OpenSSL CMS kích thước bộ đệm đầu ra mở khóa dựa trên truy vấn kích thước khóa mở khóa, nhưng AES-WRAP-PAD mở khóa chính",
-  "key": "4da2decbe4da637632cb7ba6d5ed80bbbf6738f2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-63073 — Issue summary: OpenSSL CMP response validation passed an unexpected response sender distinguished name directly as the format string to `ERR_raise_dat",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63073",
-  "published": "2026-08-25T13:19:26.147",
-  "summary": "Issue summary: OpenSSL CMP response validation passed an unexpected response\nsender distinguished name directly as the format string to `ERR_raise_data()`.\n\nImpact summary: A malicious or intercepted CMP endpoint can crash a CMP client\nthat enforces an expected sender or uses a pinned server certificate whose\nsubject becomes the default expected sender.\n\nCWE: CWE-134 (Use of Externally-Controlled Format String)\n\nDescription: When validating a received CMP message, ossl_cmp_msg_check_update()\nconverts the peer-supplied sender distinguished name with X509_NAME_oneline()\nand passes it directly as",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-63073",
-   "cvss": null,
-   "ref": "https://github.com/openssl/openssl/commit/0cc20b322639919aa423e90799d9a57c3b4b76ca"
-  },
-  "title_vi": "CVE-2026-63073 — Tóm tắt sự cố: Xác thực phản hồi OpenSSL CMP đã thông qua một tên người gửi phản hồi bất ngờ được phân biệt trực tiếp dưới dạng chuỗi định dạng thành `ERR_raise_dat",
-  "key": "fd343dee7d12517f4b7ea914bbf2d2365570eec2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-63074 — Issue summary: The OpenSSL Certificate Management Protocol (CMP) caches additional certificates (extraCerts) sent in a CMP message, but never expunges",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63074",
-  "published": "2026-08-25T13:19:26.283",
-  "summary": "Issue summary: The OpenSSL Certificate Management Protocol (CMP) caches\nadditional certificates (extraCerts) sent in a CMP message, but never expunges\nthem (for instance if they are invalid).  If a server reuses an OSSL_CMP_CTX\nfrequently, this cache of extraCerts may grow unboundedly, and a malicious\nclient may flood a CMP server with requests driving this growth.\n\nImpact summary: Users utilizing a CMP server that reuses a single OSSL_CMP_CTX\nfor the lifetime of a server process may observe unbounded memory growth in the\nevent a malicious client repeatedly sends requests containing unique ext",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-63074",
-   "cvss": 5.9,
-   "ref": "https://github.com/openssl/openssl/commit/01e567978a55fba18142a230380c31296049fae7"
-  },
-  "title_vi": "CVE-2026-63074 — Tóm tắt vấn đề: Giao thức quản lý chứng chỉ OpenSSL (CMP) lưu trữ các chứng chỉ bổ sung (extraCerts) được gửi trong tin nhắn CMP, nhưng không bao giờ xóa",
-  "key": "d39f197a4fc02120040778f1005f8ef6c5f692fe"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-63075 — Issue summary: When OpenSSL processes QUIC traffic from a peer that repeatedly sends ack-eliciting packets while not acknowledging ACK-only responses,",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63075",
-  "published": "2026-08-25T13:19:26.413",
-  "summary": "Issue summary: When OpenSSL processes QUIC traffic from a peer that repeatedly\nsends ack-eliciting packets while not acknowledging ACK-only responses, the\nQUIC stack can retain ACK-only packet metadata for the lifetime of the\nconnection.\n\nImpact summary: A remote peer that can complete a QUIC handshake can\ncause connection-scoped memory growth which may lead to Denial of Service\nthrough memory exhaustion, especially with sustained traffic or many concurrent\nQUIC connections.\n\nCWE: CWE-770: Allocation of Resources Without Limits or Throttling\n\nDescription: When the OpenSSL QUIC stack sends an A",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-63075",
-   "cvss": 7.5,
-   "ref": "https://github.com/openssl/openssl/commit/7308946576b12e64b8be53bcf0a120354b2b42bc"
-  },
-  "title_vi": "CVE-2026-63075 - Tóm tắt vấn đề: Khi OpenSSL xử lý lưu lượng QUIC từ một đồng nghiệp liên tục gửi các gói gợi ý ack trong khi không thừa nhận các phản hồi chỉ dành cho ACK,",
-  "key": "db5427e115ccd39c78ce4f76b1bf43fe8fc9d730"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-63076 — Issue summary: OpenSSL CMP password based protection verification only checks whether the protectionAlg parameter was not NULL and not its ASN",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63076",
-  "published": "2026-08-25T13:19:26.543",
-  "summary": "Issue summary: OpenSSL CMP password based protection verification only\nchecks whether the protectionAlg parameter was not NULL and not its\nASN.1 type, before treating it as a PBMParameter. A crafted message can\ncontain a parameter of a different type, which is then dereferenced as an\ninvalid pointer.\n\nImpact summary: A remote, unauthenticated attacker can crash an application\nacting as a CMP server that accepts PBM-protected messages, or a CMP client\ntalking to a malicious or intercepted CMP server, resulting in a Denial of\nService.\n\nCWE: CWE-476: NULL Pointer Dereference\n\nDescription: When ve",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-63076",
-   "cvss": 7.5,
-   "ref": "https://github.com/openssl/openssl/commit/37882aa2e0256e1072442a8f62f7db45b995c45b"
-  },
-  "title_vi": "CVE-2026-63076 — Tóm tắt vấn đề: Xác minh bảo vệ dựa trên mật khẩu OpenSSL CMP chỉ kiểm tra xem tham số protectionAlg có RỖNG hay không và không phải Asn của nó",
-  "key": "b819b9cac17a5bd2f10ea03df35866886da0d1d0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75803 — Issue summary: ChaCha20-Poly1305 and AES-OCB decryption with an empty ciphertext can report success without verifying the supplied authentication tag ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75803",
-  "published": "2026-08-25T13:19:29.570",
-  "summary": "Issue summary: ChaCha20-Poly1305 and AES-OCB decryption with an empty\nciphertext can report success without verifying the supplied authentication\ntag when the operation is finalized by calling the EVP_Cipher() function.\n\nImpact summary: Applications calling EVP_Cipher() on an empty ciphertext and\nexpecting the call to check the AEAD tag may accept forged messages.\n\nCWE: CWE-354 (Improper Validation of Integrity Check Value)\n\nDescription: The EVP_Cipher() API call for AEAD ciphers behaves like a one\nshot encryption and decryption call. It also verifies the AEAD tag after the\ndecryption operatio",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75803",
-   "cvss": null,
-   "ref": "https://github.com/openssl/openssl/commit/119ab9555dc62275bbd71f6f49529b1a44feba42"
-  },
-  "title_vi": "CVE-2026-75803 — Tóm tắt vấn đề: Giải mã ChaCha20-Poly1305 và AES-OCB với bản mã trống có thể báo cáo thành công mà không cần xác minh thẻ xác thực được cung cấp",
-  "key": "2118b1b8e75c1d202c663d0173b55a119a20a424"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-77998 — Joomla Extension - miniorange",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77998",
-  "published": "2026-08-25T13:19:30.817",
-  "summary": "Joomla Extension - miniorange.com - Unauthenticated Authentication Bypass via SAMLResponse Parameter in miniOrange SAML SSO < 11.0.2, SAML SP Single Sign On – Login with ADFS < 6.4,  SAML SP Single Sign On – SAML SSO login with Google Apps < 6.4 - This is due to the mo_saml_validate_signature() function performing a loose boolean check on the raw tri-state integer returned by PHP's openssl_verify(), causing an error return value of -1 to be evaluated as truthy and therefore treated as a successful signature verification. This makes it possible for unauthenticated attackers to log in as any exi",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-77998",
-   "cvss": null,
-   "ref": "https://www.miniorange.com/"
-  },
-  "title_vi": "",
-  "key": "3427ee929cd34fc5f8c2e04a817f9d445fa42e18"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-78581 — Authorization Bypass Through User-Controlled Key (CWE-639) in Kibana can lead to unauthorized data modification via Accessing Functionality Not Proper",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78581",
-  "published": "2026-08-25T13:19:31.120",
-  "summary": "Authorization Bypass Through User-Controlled Key (CWE-639) in Kibana can lead to unauthorized data modification via Accessing Functionality Not Properly Constrained by ACLs (CAPEC-1). Under certain conditions, an authenticated user could reference another user's AI Assistant conversation identifier to access or modify a conversation they do not own. Successful exploitation requires knowledge of a hard-to-guess identifier.",
-  "categories": [
-   "ai",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-78581",
-   "cvss": 4.2,
-   "ref": "https://discuss.elastic.co/t/kibana-8-16-3-8-17-2-security-update-esa-2026-51/387446"
-  },
-  "title_vi": "CVE-2026-78581 - Bỏ qua ủy quyền thông qua khóa do người dùng kiểm soát (CWE-639) ở Kibana có thể dẫn đến việc sửa đổi dữ liệu trái phép thông qua chức năng truy cập không phù hợp",
-  "key": "d779040d99add05ba1416d7ba1f528d7d00dc938"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-78885 — A vulnerability was identified in liketrek TREK up to 3",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78885",
-  "published": "2026-08-25T13:19:31.780",
-  "summary": "A vulnerability was identified in liketrek TREK up to 3.0.22. The impacted element is the function findOrCreateUser of the file server/src/services/oidcService.ts of the component OIDC Service. Such manipulation leads to improper authentication. It is possible to launch the attack remotely. The attack requires a high level of complexity. The exploitability is regarded as difficult. Upgrading to version 3.1.0 is sufficient to resolve this issue. Upgrading the affected component is advised.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-78885",
-   "cvss": 5.6,
-   "ref": "https://github.com/liketrek/TREK/releases/tag/v3.1.0"
-  },
-  "title_vi": "CVE-2026-78885 — Một lỗ hổng đã được xác định trong LIKETREK TREK lên đến 3",
-  "key": "c2d03adee0b320cb291c99ae28ceb0629c38efe0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-78886 — A security flaw has been discovered in liketrek TREK up to 3",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78886",
-  "published": "2026-08-25T13:19:32.013",
-  "summary": "A security flaw has been discovered in liketrek TREK up to 3.0.22. This affects an unknown function of the file server/src/nest/journey/journey-public.controller.ts of the component Public Journey Photo Proxy. Performing a manipulation results in path traversal. The attack can be initiated remotely. The attack's complexity is rated as high. The exploitability is reported as difficult. Upgrading to version 3.1.0 mitigates this issue. It is advisable to upgrade the affected component.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-78886",
-   "cvss": 3.7,
-   "ref": "https://github.com/liketrek/TREK/releases/tag/v3.1.0"
-  },
-  "title_vi": "CVE-2026-78886 — Một lỗ hổng bảo mật đã được phát hiện trong LIKETREK TREK lên đến 3",
-  "key": "6af77193a75534ca10a60550d2f3ff2457a22fa0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-78887 — A weakness has been identified in liketrek TREK up to 3",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78887",
-  "published": "2026-08-25T13:19:32.233",
-  "summary": "A weakness has been identified in liketrek TREK up to 3.0.22. This impacts the function validateShareTokenForAsset of the component Journey Photo Proxy. Executing a manipulation can lead to incorrect authorization. The attack can be launched remotely. This attack is characterized by high complexity. The exploitability is said to be difficult. Upgrading to version 3.1.0 will fix this issue. You should upgrade the affected component.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-78887",
-   "cvss": 3.7,
-   "ref": "https://github.com/liketrek/TREK/releases/tag/v3.1.0"
-  },
-  "title_vi": "CVE-2026-78887 — Một điểm yếu đã được xác định trong LIKETREK TREK lên đến 3",
-  "key": "36c3591d0fdf1253ac34851b2893fa1c3ad57004"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79406 — A security vulnerability has been detected in macrozheng mall up to 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79406",
-  "published": "2026-08-25T13:19:32.433",
-  "summary": "A security vulnerability has been detected in macrozheng mall up to 1.0.3. Affected is the function OmsCartItemServiceImpl.updateQuantity of the file /cart/update/quantity. The manipulation of the argument quantity leads to business logic errors. The attack may be initiated remotely. The vendor deleted the GitHub issue for this vulnerability without any explanation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79406",
-   "cvss": 4.3,
-   "ref": "https://github.com/macrozheng/mall/"
-  },
-  "title_vi": "CVE-2026-79406 — Một lỗ hổng bảo mật đã được phát hiện trong trung tâm thương mại macrozheng lên đến 1",
-  "key": "b3c6a1a87fff4ee979a5273f57f26fc7998eabe5"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55525 — PraisonAI is a multi-agent teams system",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55525",
-  "published": "2026-08-25T14:16:52.417",
-  "summary": "PraisonAI is a multi-agent teams system. Prior to praisonaiagents 1.6.58, the web_crawl function validates only the initial URL before _crawl_with_httpx uses httpx.Client(follow_redirects=True). Redirect targets are not revalidated, so an attacker who influences a crawl target can redirect a public URL to loopback, private network, or cloud metadata services while ALLOW_LOCAL_CRAWL remains disabled. The fetched internal response is returned to the agent context. This issue is fixed in version 1.6.58.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55525",
-   "cvss": 7.5,
-   "ref": "https://github.com/MervinPraison/PraisonAI/commit/2f9677abb2ea68eab864ee8b6a828fd0141612e1"
-  },
-  "title_vi": "CVE-2026-55525 — PraisonAI là một hệ thống nhóm đa đại lý",
-  "key": "f2b1d928115c4b3f956c162da1d5d2575fa560f0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79622 — A weakness has been identified in dekdee adobe-xd-mcp 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79622",
-  "published": "2026-08-25T14:16:57.420",
-  "summary": "A weakness has been identified in dekdee adobe-xd-mcp 1.0.0. Impacted is an unknown function of the file src/parsers/xd-parser.ts of the component file-access-from-request Endpoint. Executing a manipulation of the argument outputFile/outputDir can lead to path traversal. It is possible to launch the attack remotely. The exploit has been made available to the public and could be used for attacks. The project was informed of the problem early through an issue report but has not responded yet.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79622",
-   "cvss": 7.3,
-   "ref": "https://github.com/dekdee/adobe-xd-mcp/"
-  },
-  "title_vi": "CVE-2026-79622 — Một điểm yếu đã được xác định trong dekdee adobe-xd-mcp 1",
-  "key": "b74f3f3cd553f10f4a8e8fe31873dd545d3b78d4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79623 — A security vulnerability has been detected in FishCodeTech Muteki up to 0",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79623",
-  "published": "2026-08-25T14:16:57.620",
-  "summary": "A security vulnerability has been detected in FishCodeTech Muteki up to 0.2.5. The affected element is an unknown function of the file .claude/settings.json of the component Default Local Worker Backend. The manipulation leads to os command injection. The attack can be initiated remotely. The exploit has been disclosed publicly and may be used. The issue was closed with the comment (translated from Chinese): \"The project will be refactored and shut down.\"",
-  "categories": [
-   "ai",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79623",
-   "cvss": 6.3,
-   "ref": "https://github.com/FishCodeTech/muteki/"
-  },
-  "title_vi": "CVE-2026-79623 — Một lỗ hổng bảo mật đã được phát hiện trong FishCodeTech Muteki lên đến 0",
-  "key": "6eac36a229ec7ac2157a8cccb56c1963d36dc956"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79655 — A flaw was found in sos clean, a utility within the sos package",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79655",
-  "published": "2026-08-25T14:16:58.010",
-  "summary": "A flaw was found in sos clean, a utility within the sos package. This vulnerability allows a local attacker to perform arbitrary file creation or overwrite. By crafting a malicious tar archive, an attacker can exploit a path traversal issue during tar extraction, where symlink and hardlink targets are not properly validated. This enables the attacker to write files to arbitrary locations on the system with the privileges of the sos clean process, which often runs as root.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79655",
-   "cvss": 7.8,
-   "ref": "https://access.redhat.com/security/cve/CVE-2026-79655"
-  },
-  "title_vi": "CVE-2026-79655 — Một lỗ hổng đã được tìm thấy trong SOS Clean, một tiện ích trong gói SOS",
-  "key": "7372596c2e0948b2db019dfac5e9a9130d4e6173"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-15310 — When decompressing crafted zip files using the bzip/LZMA/Zstandard compressions, Python could use an attacker-controlled size to pre-allocate memory, ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-15310",
-  "published": "2026-08-25T15:16:30.027",
-  "summary": "When decompressing crafted zip files using the bzip/LZMA/Zstandard \n\ncompressions, Python could use an attacker-controlled size to \n\npre-allocate memory, possibly resulting in memory exhaustion.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-15310",
-   "cvss": null,
-   "ref": "https://github.com/python/cpython/issues/156002"
-  },
-  "title_vi": "CVE-2026-15310 - Khi giải nén các tệp zip được tạo thủ công bằng cách sử dụng nén bzip/LZMA/Zstandard, Python có thể sử dụng kích thước do kẻ tấn công kiểm soát để phân bổ trước bộ nhớ,",
-  "key": "ef1bf59c4442fd4a794ce74e8cee6929e3195b15"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-16286 — Unrestricted upload of file with dangerous type vulnerability in TRtek Technological Products Computer Software Hardware Industry and Trade Limited Co",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-16286",
-  "published": "2026-08-25T15:16:30.180",
-  "summary": "Unrestricted upload of file with dangerous type vulnerability in TRtek Technological Products Computer Software Hardware Industry and Trade Limited Company Software Repository Management allows Upload a Web Shell to a Web Server.\n\nThis issue affects Software Repository Management: before 2fb4acee.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-16286",
-   "cvss": 9.8,
-   "ref": "https://siberguvenlik.gov.tr/guvenlik-bildirimleri/detay/tr-26-0899"
-  },
-  "title_vi": "CVE-2026-16286 — Tải lên không giới hạn tệp có lỗ hổng loại nguy hiểm trong TRtek Technological Products Computer Software Hardware Industry and Trade Limited Co",
-  "key": "f28c72cbeb259b6068ba1c18fbca1b13e1338331"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-16599 — GNU wget is vulnerable to denial of service in its FTP OPIE/S-KEY authentication functionality",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-16599",
-  "published": "2026-08-25T15:16:30.340",
-  "summary": "GNU wget is vulnerable to denial of service in its FTP OPIE/S-KEY authentication functionality. The server-supplied sequence number from the FTP challenge line is used as an iteration count for an MD5 key-derivation loop without any upper bound validation. A malicious FTP server or a network attacker positioned to intercept FTP traffic can send a crafted OPIE challenge with a sequence number near INT_MAX, causing wget to perform up to approximately 2.1 billion MD5 computations and suspend for some time. The --timeout option does not mitigate this because it applies only to network I/O, not CPU",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-16599",
-   "cvss": null,
-   "ref": "https://cert.pl/en/posts/2026/08/CVE-2026-16599"
-  },
-  "title_vi": "CVE-2026-16599 — GNU wget dễ bị từ chối dịch vụ trong chức năng xác thực FTP OPIE/S-KEY",
-  "key": "a8137a2a8369d3ce9b3f92b57c482b44a4e7caee"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55526 — PraisonAI is a multi-agent teams system",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55526",
-  "published": "2026-08-25T15:16:33.300",
-  "summary": "PraisonAI is a multi-agent teams system. Prior to praisonaiagents 1.6.58, spider_tools._host_is_blocked() does not resolve ordinary hostnames before scrape_page fetches them. A hostname such as 127.0.0.1.nip.io passes validation and resolves to loopback, permitting internal HTTP access. The fix uses socket.getaddrinfo and fails closed on DNS errors. This issue is fixed in version 1.6.58.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55526",
-   "cvss": 8.5,
-   "ref": "https://github.com/MervinPraison/PraisonAI/commit/2f9677abb2ea68eab864ee8b6a828fd0141612e1"
-  },
-  "title_vi": "CVE-2026-55526 — PraisonAI là một hệ thống nhóm đa đại lý",
-  "key": "b2393ea115d5fd8159760fa0f18120418ff4a19c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55527 — PraisonAI is a multi-agent teams system",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55527",
-  "published": "2026-08-25T15:16:33.443",
-  "summary": "PraisonAI is a multi-agent teams system. Prior to praisonaiagents 1.6.58, the FileMemory constructor joins unsanitized user_id into self.user_path. A caller supplying ../ or path separators can escape the memory directory and write JSON data to arbitrary process-writable locations. The fix sanitizes user_id before constructing self.user_path. This issue is fixed in version 1.6.58.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55527",
-   "cvss": 7.1,
-   "ref": "https://github.com/MervinPraison/PraisonAI/commit/2f9677abb2ea68eab864ee8b6a828fd0141612e1"
-  },
-  "title_vi": "CVE-2026-55527 — PraisonAI là một hệ thống nhóm đa đại lý",
-  "key": "a0ecf6738f1d06b7a7431e7d3fc0b8e31b6adf12"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55528 — PraisonAI is a multi-agent teams system",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55528",
-  "published": "2026-08-25T15:16:33.590",
-  "summary": "PraisonAI is a multi-agent teams system. Prior to praisonaiagents 1.6.58, AgentServer exposes ServerConfig.auth_token but AgentServer._create_app does not check it on any route. A remote caller can subscribe, publish, and perform other actions without a valid bearer token or X-Auth-Token even when authentication is configured. This issue is fixed in version 1.6.58.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55528",
-   "cvss": 8.2,
-   "ref": "https://github.com/MervinPraison/PraisonAI/commit/2f9677abb2ea68eab864ee8b6a828fd0141612e1"
-  },
-  "title_vi": "CVE-2026-55528 — PraisonAI là một hệ thống nhóm đa đại lý",
-  "key": "9da7103c8235af9daeb15a6831a7bb50101619dc"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55529 — PraisonAI is a multi-agent teams system",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55529",
-  "published": "2026-08-25T15:16:33.727",
-  "summary": "PraisonAI is a multi-agent teams system. Prior to praisonai 4.6.58, the MCP HTTP Stream _validate_origin method accepts request_origin.startswith(allowed), so the attacker-controlled localhost.evil.example HTTP origin matches the localhost allowlist. Without an API key, a malicious webpage can submit tools/call requests to the local MCP server and execute exposed tools. This issue is fixed in version 4.6.58.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55529",
-   "cvss": 6.9,
-   "ref": "https://github.com/MervinPraison/PraisonAI/commit/2f9677abb2ea68eab864ee8b6a828fd0141612e1"
-  },
-  "title_vi": "CVE-2026-55529 — PraisonAI là một hệ thống nhóm đa đại lý",
-  "key": "18c34a0e5b0848303b1cfbacba1822b0f492e35f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55530 — PraisonAI is a multi-agent teams system",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55530",
-  "published": "2026-08-25T15:16:33.870",
-  "summary": "PraisonAI is a multi-agent teams system. Prior to praisonaiagents 1.6.58, ast_grep_rewrite lacks the @require_approval decorator used by sibling mutation tools. With dry_run=False, an agent-controlled call can pass --update-all and a broad path to rewrite matching files without the expected authorization gate. This issue is fixed in version 1.6.58.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55530",
-   "cvss": 6.1,
-   "ref": "https://github.com/MervinPraison/PraisonAI/commit/2f9677abb2ea68eab864ee8b6a828fd0141612e1"
-  },
-  "title_vi": "CVE-2026-55530 — PraisonAI là một hệ thống nhóm đa đại lý",
-  "key": "31c7b6dab4ec0ccd40cad3e41905614bb9f3ff5e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55531 — PraisonAI is a multi-agent teams system",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55531",
-  "published": "2026-08-25T15:16:34.017",
-  "summary": "PraisonAI is a multi-agent teams system. Prior to praisonai 4.6.58, the MCP HTTP Stream mcp_post handler creates a new _sessions entry for every initialize request but does not call _cleanup_sessions or enforce a maximum. An unauthenticated caller can exhaust memory. The fix invokes cleanup and limits sessions through PRAISONAI_MCP_MAX_SESSIONS. This issue is fixed in version 4.6.58.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55531",
-   "cvss": 6.5,
-   "ref": "https://github.com/MervinPraison/PraisonAI/commit/2f9677abb2ea68eab864ee8b6a828fd0141612e1"
-  },
-  "title_vi": "CVE-2026-55531 — PraisonAI là một hệ thống nhóm đa đại lý",
-  "key": "96c92bbf697b9c4552d4165071ff2f8d23aaac4a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55534 — PraisonAI is a multi-agent teams system",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55534",
-  "published": "2026-08-25T15:16:34.167",
-  "summary": "PraisonAI is a multi-agent teams system. From praisonai 4.6.34 until 4.6.58, praisonai serve agents accepts --api-key but _create_agents_app() does not authenticate POST /agents or POST /agents/{agent_name}. A network caller can invoke configured agents without credentials even when an API key was supplied. This issue is fixed in version 4.6.58.",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55534",
-   "cvss": 8.6,
-   "ref": "https://github.com/MervinPraison/PraisonAI/commit/2f9677abb2ea68eab864ee8b6a828fd0141612e1"
-  },
-  "title_vi": "CVE-2026-55534 — PraisonAI là một hệ thống nhóm đa đại lý",
-  "key": "e209d84bd5eff9f838c0b97257a6772f7bc44f96"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55535 — PraisonAI is a multi-agent teams system",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55535",
-  "published": "2026-08-25T15:16:34.307",
-  "summary": "PraisonAI is a multi-agent teams system. Prior to praisonai 4.6.58, the Jobs API validate_webhook_url() path fails open on socket.gaierror and does not bind the validated address to the later request. An attacker webhook_url can later resolve to 127.0.0.1, 169.254.169.254, or another internal address. This issue is fixed in version 4.6.58.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55535",
-   "cvss": 6.8,
-   "ref": "https://github.com/MervinPraison/PraisonAI/commit/2f9677abb2ea68eab864ee8b6a828fd0141612e1"
-  },
-  "title_vi": "CVE-2026-55535 — PraisonAI là một hệ thống nhóm đa đại lý",
-  "key": "f0ff9ef799cb6f377d677d012a5a384daa5ecd95"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55537 — PraisonAI is a multi-agent teams system",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55537",
-  "published": "2026-08-25T15:16:34.450",
-  "summary": "PraisonAI is a multi-agent teams system. Prior to praisonai 4.6.58, JobSubmitRequest.validate_webhook_url() accepts webhook_url when resolution raises socket.gaierror because the exception path uses except socket.gaierror: pass. JobExecutor._send_webhook() later performs a fresh lookup, allowing DNS changes to direct the request to an internal service. This issue is fixed in version 4.6.58.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55537",
-   "cvss": 7.1,
-   "ref": "https://github.com/MervinPraison/PraisonAI/commit/2f9677abb2ea68eab864ee8b6a828fd0141612e1"
-  },
-  "title_vi": "CVE-2026-55537 — PraisonAI là một hệ thống nhóm đa đại lý",
-  "key": "9f4cb5bcffc41408ca5186ad48463b8585cd89b8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55538 — PraisonAI is a multi-agent teams system",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55538",
-  "published": "2026-08-25T15:16:34.597",
-  "summary": "PraisonAI is a multi-agent teams system. Prior to praisonai 4.6.51, praisonai serve agents parses config[\"api_key\"] but _create_agents_app() does not authenticate POST /agents or POST /agents/{agent_name}. Missing or incorrect bearer and X-API-Key values still reach agent execution. This issue is fixed in version 4.6.58.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55538",
-   "cvss": 7.3,
-   "ref": "https://github.com/MervinPraison/PraisonAI/commit/2f9677abb2ea68eab864ee8b6a828fd0141612e1"
-  },
-  "title_vi": "CVE-2026-55538 — PraisonAI là một hệ thống nhóm đa đại lý",
-  "key": "1308ccdd7c3f9c64b72a70a37eebbfd536b4bdc4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55540 — PraisonAI is a multi-agent teams system",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55540",
-  "published": "2026-08-25T15:16:34.740",
-  "summary": "PraisonAI is a multi-agent teams system. Prior to praisonai 4.6.51, is_path_within_directory() uses os.path.abspath() rather than os.path.realpath() for the workspace boundary. A symlink inside workspace can point outside and still pass the check, allowing read_file and other code tools to access files outside the configured workspace. This issue is fixed in version 4.6.58.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55540",
-   "cvss": 7.1,
-   "ref": "https://github.com/MervinPraison/PraisonAI/commit/2f9677abb2ea68eab864ee8b6a828fd0141612e1"
-  },
-  "title_vi": "CVE-2026-55540 — PraisonAI là một hệ thống nhóm đa đại lý",
-  "key": "2bd4cab470763c4340672f22980af7d346426060"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55541 — PraisonAI is a multi-agent teams system",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55541",
-  "published": "2026-08-25T15:16:34.887",
-  "summary": "PraisonAI is a multi-agent teams system. Prior to praisonai 4.6.58, praisonai serve agents and praisonai serve unified parse --api-key but _create_agents_app() and _create_unified_app() do not install a credential check. Unauthenticated callers can reach POST /agents and POST /api/v1/agents/{id}/invoke. This issue is fixed in version 4.6.58.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55541",
-   "cvss": null,
-   "ref": "https://github.com/MervinPraison/PraisonAI/commit/2f9677abb2ea68eab864ee8b6a828fd0141612e1"
-  },
-  "title_vi": "CVE-2026-55541 — PraisonAI là một hệ thống nhóm đa đại lý",
-  "key": "fe6db8351e4df306c14de093bccbd3bc74a08185"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55624 — MintyItanium Lost-Auction is an auction plugin for Minecraft",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55624",
-  "published": "2026-08-25T15:16:35.033",
-  "summary": "MintyItanium Lost-Auction is an auction plugin for Minecraft. Prior to commit 88c920b05042929db334ba06d57f052b42d6b3f8, players can take items like barrier blocks or duplicate items from the GUI. Commit 88c920b05042929db334ba06d57f052b42d6b3f8 fixes the issue.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55624",
-   "cvss": null,
-   "ref": "https://codeberg.org/MintyItanium/Lost-Auction"
-  },
-  "title_vi": "CVE-2026-55624 — MintyItanium Lost-Auction là một plugin đấu giá cho Minecraft",
-  "key": "84ec2851998b760e6dfe0bd710f9266454268dd4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69104 — An authenticated user may initiate repository migration operations without required repository permissions, potentially causing information disclosure",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69104",
-  "published": "2026-08-25T15:16:37.750",
-  "summary": "An authenticated user may initiate repository migration operations without required repository permissions, potentially causing information disclosure, unauthorized state changes, and service disruption. Fixed versions address the issue.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69104",
-   "cvss": 7.6,
-   "ref": "https://docs.jfrog.com/releases/docs/artifactory-self-managed-releases"
-  },
-  "title_vi": "CVE-2026-69104 - Người dùng được xác thực có thể bắt đầu các hoạt động di chuyển kho lưu trữ mà không cần quyền lưu trữ bắt buộc, có khả năng gây tiết lộ thông tin",
-  "key": "71ec469d6939a9d4100e233831e4b46b441622a3"
  }
 ]
