@@ -1,5 +1,281 @@
 [
  {
+  "source": "VnExpress Số hóa",
+  "title": "Việt Nam đặt mục tiêu có 10 thương hiệu AI quốc tế năm 2030",
+  "link": "https://vnexpress.net/viet-nam-dat-muc-tieu-co-10-thuong-hieu-ai-quoc-te-nam-2030-5115221.html",
+  "published": "2026-08-30T10:50:46+00:00",
+  "summary": "Việt Nam phấn đấu đến năm 2030 hình thành 10 thương hiệu AI có năng lực cạnh tranh trên thị trường khu vực và quốc tế cùng 8 mô hình AI tiếng Việt.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "2b28d37e6a7565ac9509779d79921813aaee9a42"
+ },
+ {
+  "source": "VnExpress Số hóa",
+  "title": "LG OLED evo AI W6 - TV 'dán tường' giá 220 triệu đồng",
+  "link": "https://vnexpress.net/lg-oled-evo-ai-w6-tv-dan-tuong-gia-220-trieu-dong-5115222.html",
+  "published": "2026-08-30T11:37:47+00:00",
+  "summary": "LG OLED evo AI W6 giá 220 triệu đồng cho bản 83 inch, có độ mỏng chỉ 9,9 mm, thiết kế ngàm treo như \"dán tường\".",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "11bf4a7e7730de51aa2461277abf5727fe01cc30"
+ },
+ {
+  "source": "OpenAI News",
+  "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+  "link": "https://openai.com/index/introducing-admin-plugin",
+  "published": "2026-08-25T00:00:00+00:00",
+  "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Giới thiệu plugin Admin cho ChatGPT Work và Codex",
+  "key": "0a512c2d20f6bb47774f13008e053ff228282ab7"
+ },
+ {
+  "source": "DarkReading",
+  "title": "Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw",
+  "link": "https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw",
+  "published": "2026-08-25T19:50:16+00:00",
+  "summary": "Attackers can exploit a security bug in Nvidia's tool to gain unauthenticated access to the local model server through the Ollama API, paving the way for persistent AI agent corruption.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Tìm Nemo(Claw): Vấn đề mạng cho phép ngộ độc LLM trong OpenClaw",
+  "key": "55280e6f1bee2a7ab4228dec4af9fcce683772a9"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2026-60004 — Gitea Code Injection Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-60004",
+  "published": "2026-08-25",
+  "summary": "Gitea contains a code injection vulnerability that allows an attacker with repository write access to send a malicious patch to the diffpatch API endpoint to plant an executable Git hook and run shell commands as the Gitea service account.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-60004",
+   "vendor": "Gitea",
+   "product": "Gitea",
+   "due_date": "2026-08-28",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "CVE-2026-60004 — Lỗ hổng Gitea Code Injection",
+  "key": "7fac35e1e28a4581becfa958f4231ad36d4a6ad5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78699 — Unchecked Return Value vulnerability in ash-project ash_postgres allows a user who can drive a tenant rename to a name that collides with an existing ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78699",
+  "published": "2026-08-30T16:16:42.623",
+  "summary": "Unchecked Return Value vulnerability in ash-project ash_postgres allows a user who can drive a tenant rename to a name that collides with an existing tenant's schema to have their tenant record repointed at that other tenant's live schema, gaining access to its data.\n\nAshPostgres.MultiTenancy.rename_tenant/3 issues the ALTER SCHEMA ... RENAME TO ... with the non-raising Ecto.Adapters.SQL.query/2, discards its {:ok, _} | {:error, _} result, and unconditionally returns :ok. PostgreSQL rejects the rename when the target schema already exists (and on insufficient privilege or lock timeout), but th",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78699",
+   "cvss": null,
+   "ref": "https://cna.erlef.org/cves/CVE-2026-78699.html"
+  },
+  "title_vi": "CVE-2026-78699 — Lỗ hổng Giá trị hoàn vốn không được kiểm soát trong ash-project ash_postgres cho phép người dùng có thể lái xe đổi tên người thuê thành tên va chạm với tên hiện có",
+  "key": "31e4e02098a3af4b90d2b4aee85c149565f32951"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82549 — A vulnerability was identified in Linux Foundation Magma 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82549",
+  "published": "2026-08-30T16:16:43.667",
+  "summary": "A vulnerability was identified in Linux Foundation Magma 1.9.0. This affects an unknown function of the component SecurityModeComplete Handler. Such manipulation leads to improper validation of integrity check value. The attack may be launched remotely. The exploit is publicly available and might be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82549",
+   "cvss": 8.3,
+   "ref": "https://github.com/magma/magma/issues/16024"
+  },
+  "title_vi": "CVE-2026-82549 — Một lỗ hổng đã được xác định trong Linux Foundation Magma 1",
+  "key": "b97438d8a51a30d1e84263524a9e11845bcdbb7a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82550 — A security flaw has been discovered in Linux Foundation Magma 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82550",
+  "published": "2026-08-30T16:16:43.847",
+  "summary": "A security flaw has been discovered in Linux Foundation Magma 1.9.0. This impacts an unknown function of the component NGSetupRequest Handler. Performing a manipulation of the argument NG-IoT-DefaultPagingDRX results in improper input validation. Remote exploitation of the attack is possible. The exploit has been released to the public and may be used for attacks. The project was informed of the problem early through an issue report but has not responded yet.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82550",
+   "cvss": 5.3,
+   "ref": "https://github.com/magma/magma/issues/16023"
+  },
+  "title_vi": "CVE-2026-82550 — Một lỗ hổng bảo mật đã được phát hiện trong Linux Foundation Magma 1",
+  "key": "07688a169282be0714331ce03e37aba9bb9416ec"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82551 — A weakness has been identified in Linux Foundation Magma 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82551",
+  "published": "2026-08-30T17:16:38.687",
+  "summary": "A weakness has been identified in Linux Foundation Magma 1.9.0. Affected is an unknown function of the file ngap_amf_handlers.c of the component NGSetup Handler. Executing a manipulation can lead to state issue. The attack can be executed remotely. The exploit has been made available to the public and could be used for attacks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82551",
+   "cvss": 5.3,
+   "ref": "https://github.com/magma/magma/issues/16021"
+  },
+  "title_vi": "CVE-2026-82551 — Một điểm yếu đã được xác định trong Linux Foundation Magma 1",
+  "key": "5ba356a34d1335cc9fe321669705290ac0b3ff60"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82552 — A security vulnerability has been detected in Linux Foundation Magma 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82552",
+  "published": "2026-08-30T17:16:39.370",
+  "summary": "A security vulnerability has been detected in Linux Foundation Magma 1.9.0. Affected by this vulnerability is an unknown functionality of the file tasks/ngap/ngap_amf.c of the component gNB Termination Handler. The manipulation leads to denial of service. The attack is possible to be carried out remotely. The exploit has been disclosed publicly and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82552",
+   "cvss": 4.3,
+   "ref": "https://github.com/magma/magma/issues/16019"
+  },
+  "title_vi": "CVE-2026-82552 — Lỗ hổng bảo mật đã được phát hiện trong Linux Foundation Magma 1",
+  "key": "785492ad33f69aab660de36f05e3958aa657716a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82553 — A vulnerability was detected in sambitraj Student Management System up to 56ba287f2e9031523ccb4244cb6e3fe530e4e5d5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82553",
+  "published": "2026-08-30T17:16:39.547",
+  "summary": "A vulnerability was detected in sambitraj Student Management System up to 56ba287f2e9031523ccb4244cb6e3fe530e4e5d5. Affected by this issue is the function mysqli_query of the file student_dashboard.php of the component Student Dashboard. The manipulation of the argument roll_no results in improper authorization. The attack may be performed from remote. The exploit is now public and may be used. This product utilizes a rolling release system for continuous delivery, and as such, version information for affected or updated releases is not disclosed. The project was informed of the problem early ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82553",
+   "cvss": 6.3,
+   "ref": "https://github.com/sambitraj/STUDENT-MANAGEMENT-SYSTEM/issues/6"
+  },
+  "title_vi": "CVE-2026-82553 — Một lỗ hổng đã được phát hiện trong Hệ thống quản lý sinh viên sambitraj lên đến 56ba287f2e9031523ccb4244cb6e3fe530e4e5d5",
+  "key": "d3d0fdc8fb5c9fa8cf8b391f744bbc47e0cb402b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81319 — Deserialization of Untrusted Data vulnerability in ash-project ash_cloak allows an attacker who can influence the bytes of an encrypted column to cras",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81319",
+  "published": "2026-08-30T18:16:59.157",
+  "summary": "Deserialization of Untrusted Data vulnerability in ash-project ash_cloak allows an attacker who can influence the bytes of an encrypted column to crash the BEAM node, by triggering unbounded atom creation or a decompression bomb during decryption.\n\nAshCloak.Calculations.Decrypt decodes the decrypted binary with Ash.Helpers.non_executable_binary_to_term/1 without the :safe option, so atoms in the payload are interned during the decode and never garbage collected, and the term format's compressed form is inflated transparently. vault.decrypt!() is the only barrier and stops tampering only for an",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81319",
+   "cvss": null,
+   "ref": "https://cna.erlef.org/cves/CVE-2026-81319.html"
+  },
+  "title_vi": "CVE-2026-81319 — Deserialization của lỗ hổng dữ liệu không đáng tin cậy trong ash-project ash_cloak cho phép kẻ tấn công có thể ảnh hưởng đến các byte của một cột được mã hóa để cras",
+  "key": "7f88ca19dde154c0cc51084f8967d7bee78868b1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81322 — Exposure of Sensitive Information to an Unauthorized Actor vulnerability in ash-project ash_cloak allows anyone with access to logs, error trackers, o",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81322",
+  "published": "2026-08-30T18:17:00.010",
+  "summary": "Exposure of Sensitive Information to an Unauthorized Actor vulnerability in ash-project ash_cloak allows anyone with access to logs, error trackers, or crash reports, or anyone who can trigger a validation error, to recover the plaintext of a field the library encrypts.\n\nAshCloak.Transformers.SetUpEncryption removes each cloaked attribute from the action's accept list and adds an action argument that carries the plaintext into the encryption change. That argument is built with sensitive?: attr.sensitive?, inheriting the flag from the source attribute, so a cloaked attribute declared without se",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81322",
+   "cvss": null,
+   "ref": "https://cna.erlef.org/cves/CVE-2026-81322.html"
+  },
+  "title_vi": "CVE-2026-81322 — Tiếp xúc với thông tin nhạy cảm với lỗ hổng Diễn viên trái phép trong ash-project ash_cloak cho phép bất kỳ ai có quyền truy cập vào nhật ký, trình theo dõi lỗi, o",
+  "key": "b7d03875b3ad01612c8486f10b85eb168e8ca4f3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82554 — A flaw has been found in SourceCodester Queue Management System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82554",
+  "published": "2026-08-30T18:17:00.180",
+  "summary": "A flaw has been found in SourceCodester Queue Management System 1.0. This affects an unknown part of the file /api/add_customer.php. This manipulation of the argument Name causes cross site scripting. It is possible to initiate the attack remotely. The exploit has been published and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82554",
+   "cvss": 4.3,
+   "ref": "https://github.com/Jack-MRJ/Queue-Management-System-Vulnerability-Report"
+  },
+  "title_vi": "CVE-2026-82554 — Một lỗ hổng đã được tìm thấy trong Hệ thống quản lý hàng đợi SourceCodester 1",
+  "key": "d4580fe50a9e28c94fabccaa597f5f2db3622e4f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82555 — A vulnerability has been found in TOTOLINK N600R 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82555",
+  "published": "2026-08-30T18:17:00.380",
+  "summary": "A vulnerability has been found in TOTOLINK N600R 4.3.0cu.7866_B20220506. This vulnerability affects the function loginAuth of the file /web_cste/cgi-bin/cstecgi.cgi of the component Authentication Handler. Such manipulation leads to insufficiently random values. It is possible to launch the attack remotely. This attack is characterized by high complexity. It is stated that the exploitability is difficult. The exploit has been disclosed to the public and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82555",
+   "cvss": 3.7,
+   "ref": "https://github.com/b1uerry/cves/blob/main/TOTOLINK/N600R/TOTOLINK_N600R_predictable-token/poc.py"
+  },
+  "title_vi": "CVE-2026-82555 — Một lỗ hổng đã được tìm thấy trong TOTOLINK N600R 4",
+  "key": "dbe21b99ceb8c76fd3c6492305e2b592bb41b55c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82556 — A vulnerability was found in Forgejo up to 15",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82556",
+  "published": "2026-08-30T18:17:00.563",
+  "summary": "A vulnerability was found in Forgejo up to 15.0.4. This issue affects the function net.LookupIP of the file services/migrations/allowlist/is_migrate_allowed.go of the component Repository Migration Handler. Performing a manipulation results in server-side request forgery. The attack can be initiated remotely. The exploit has been made public and could be used. The patch is named b313bb83f5ff22bcc0378e0e0ca7bbd58303f168. It is recommended to apply a patch to fix this issue. The project maintainer explains: \"I don't intend to backport this to v15 or v16 as it is a breaking change.\"",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82556",
+   "cvss": 6.3,
+   "ref": "https://codeberg.org/forgejo/forgejo/commit/b313bb83f5ff22bcc0378e0e0ca7bbd58303f168"
+  },
+  "title_vi": "CVE-2026-82556 — Một lỗ hổng đã được tìm thấy trong Forgejo lên đến 15",
+  "key": "288dfb9077dcfaff7f9416c7c1cac3e4f5364394"
+ },
+ {
   "source": "VietnamPlus Kinh tế số",
   "title": "Thái Lan bác bỏ tin giả về biến thể COVID-19 'Deltacron XBC'",
   "link": "https://www.vietnamplus.vn/thai-lan-bac-bo-tin-gia-ve-bien-the-covid-19-deltacron-xbc-post1133441.vnp",
@@ -7735,7 +8011,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "BotBase cho các nhà khai thác: Một con đường rõ ràng hơn để tham gia thư mục bot và tác nhân của Cloudflare",
   "key": "27e7a02edec911d9d9cfc29687cae7e44de53630"
  },
  {
@@ -7777,7 +8053,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Quận Winona đã trả hơn $ 128k sau cuộc tấn công ransomware tháng 1",
   "key": "d3af29577820373276b5de96f4db5cd2d3d42ee1"
  },
  {
@@ -7791,7 +8067,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Vương quốc Anh: Tổ chức từ thiện HIV bị đánh cắp dữ liệu sức khỏe ‘nhạy cảm’",
   "key": "100f9645b7a6545164ede981626601bcc3d4a670"
  },
  {
@@ -7833,7 +8109,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Bạn Cần Lừa Đảo Qua Mạng cho OT",
   "key": "54c87af7ab3f4f7590ff984099515c9001bc88f5"
  },
  {
@@ -7847,7 +8123,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Xác định công tắc tắt AI là khó, nhưng cần thiết",
   "key": "5c61a549391224a66f01f908f6122f33972b7362"
  },
  {
@@ -7861,7 +8137,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Vulnpocalypse đang định giá lại nền kinh tế tiền thưởng lỗi",
   "key": "0aea6ce773a843116de31bce555033e2a1519f72"
  },
  {
@@ -7889,7 +8165,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Trong các tin tức khác: Log4j RCE Scare, Minimus Shutdown, Iran Hacker Trừng phạt",
   "key": "43267b824ccd6f2af80b8f54ebcef82394277e2b"
  },
  {
@@ -7903,7 +8179,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "ATF xác nhận sự cố mạng sau cuộc tấn công của nhóm ransomware",
   "key": "c81d78ebadfac3a165294914f0e2c37f330d909c"
  },
  {
@@ -7917,7 +8193,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Các tác nhân OpenAI đã khai thác lỗ hổng nhân Linux trên các hệ thống riêng của công ty",
   "key": "315e661477477c601739621604a114ffee1f0231"
  },
  {
@@ -8001,7 +8277,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "lỗ hổng ownCloud bị lợi dụng để đánh cắp hồ sơ hạt nhân từ cơ quan nghiên cứu Philippines",
   "key": "2a9adc2f529b1d384e618dd615bc98d8678dce43"
  },
  {
@@ -8015,7 +8291,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "19 tiện ích mở rộng Chrome và Edge được tìm thấy với mã tiết kiệm ví và mã tiết kiệm tiền điện tử",
   "key": "4d5ec016fae858399f74dfcadad5051e9f7b373f"
  },
  {
@@ -11583,7 +11859,7 @@
    "cvss": null,
    "ref": "https://github.com/WWBN/AVideo/security/advisories/GHSA-xv5m-gpmp-m72c"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-81732 — WWBN AVideo đến hết phiên bản 30",
   "key": "eee0b09ecf86f29d2fdb5dacc07fdc17dfff227f"
  },
  {
@@ -11601,7 +11877,7 @@
    "cvss": null,
    "ref": "https://github.com/WWBN/AVideo/security/advisories/GHSA-wpr3-456q-6vgc"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-81733 — WWBN AVideo đến hết ngày 30",
   "key": "c16edc7faa562b2f6bad5d0c15a5e9a312fc10ef"
  },
  {
@@ -11619,7 +11895,7 @@
    "cvss": 5.3,
    "ref": "https://patchstack.com/database/wordpress/plugin/essential-addons-for-elementor-lite/vulnerability/wordpress-essential-addons-for-elementor-plugin-6-7-3-captcha-bypass-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-81777 — Lỗ hổng xác thực By Spoofing trong WPDeveloper Essential Addons for Elementor cho phép giả mạo danh tính",
   "key": "6b60d6c1879a1ee97d11119a4e0d0a5f6c90e1a1"
  },
  {
@@ -11637,7 +11913,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/iswalle/getnote-mcp/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82111 — Một lỗ hổng đã được phát hiện trong iswalle getnote-mcp lên đến 1",
   "key": "a7c459468d7b170dbc2ddf22ebe29e6e1cdc83b7"
  },
  {
@@ -11655,7 +11931,7 @@
    "cvss": 10.0,
    "ref": "https://patchstack.com/articles/unauthenticated-php-object-injection-to-remote-code-execution-on-givewp?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82222 — Deserialization của lỗ hổng dữ liệu không đáng tin cậy trong Liquid Web / StellarWP GiveWP cho phép Object Injection",
   "key": "79fa8fbcaa77a46c77ecec06fc193d89199fdcb4"
  },
  {
@@ -11675,7 +11951,7 @@
    "cvss": 5.7,
    "ref": "https://github.com/siyuan-note/siyuan/security/advisories/GHSA-p23f-cm6q-2qp8"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82233 — SiYuan trước v3",
   "key": "c30df0e38d9371a2b55c8f9b85cfb3c74d49faca"
  },
  {
@@ -11693,7 +11969,7 @@
    "cvss": 8.2,
    "ref": "https://github.com/siyuan-note/siyuan/security/advisories/GHSA-x8gv-g2g3-65fj"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82234 — Phiên bản SiYuan trước v3",
   "key": "632349155a6d29577d13a2fa599cacbbd27f49b5"
  },
  {
@@ -11711,7 +11987,7 @@
    "cvss": 5.9,
    "ref": "https://github.com/filebrowser/filebrowser/commit/586d198d"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82235 - trình duyệt tập tin thông qua 2",
   "key": "68bf0fc60eeace12387c59e59b0670d33d4f4c29"
  },
  {
@@ -11729,7 +12005,7 @@
    "cvss": 3.1,
    "ref": "https://github.com/filebrowser/filebrowser/commit/0231b7eb"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82236 — Phiên bản Trình duyệt tệp từ 2",
   "key": "2c1a6dcd379501d229fff5543a6b7f737b2e90f3"
  },
  {
@@ -11747,7 +12023,7 @@
    "cvss": 3.1,
    "ref": "https://github.com/filebrowser/filebrowser/security/advisories/GHSA-m8v4-4w34-rrvf"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82237 - trình duyệt tập tin thông qua 2",
   "key": "c0d067b904e257a860c2660c69ebcefcedffcfb0"
  },
  {
@@ -11765,7 +12041,7 @@
    "cvss": 3.1,
    "ref": "https://github.com/filebrowser/filebrowser/security/advisories/GHSA-4r8p-gqj2-mwgm"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82238 - trình duyệt tập tin từ phiên bản 2",
   "key": "794697e90921756d192488d2529e4c4558eae4a4"
  },
  {
@@ -11783,7 +12059,7 @@
    "cvss": 8.1,
    "ref": "https://github.com/Budibase/budibase/security/advisories/GHSA-vq3j-xwg3-pg8x"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82239 — Budibase trước 3",
   "key": "1e4e6b1e0ce84ed1c76ceb2f786f08d9b12d5a63"
  },
  {
@@ -11801,7 +12077,7 @@
    "cvss": 8.1,
    "ref": "https://github.com/Budibase/budibase/security/advisories/GHSA-468g-55qj-v8rr"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82240 — Budibase trước 3",
   "key": "9b8ce1851e35c470e149b3886cb4d5a347b89d46"
  },
  {
@@ -11819,7 +12095,7 @@
    "cvss": 7.1,
    "ref": "https://github.com/Budibase/budibase/security/advisories/GHSA-9754-4wm6-3c8r"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82241 — Budibase backend-core (@ budibase/backend-core, được sử dụng bởi @ budibase/server) bỏ qua phạm vi không gian địa chỉ dùng chung 100",
   "key": "bf6021d3d3766d747481ad6096d55bccdf9cd01e"
  },
  {
@@ -11837,7 +12113,7 @@
    "cvss": 7.7,
    "ref": "https://github.com/Budibase/budibase/security/advisories/GHSA-xqpq-288m-r5q7"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82242 — Phiên bản Budibase trước 3",
   "key": "432c48fd93fe42714826c69d91305f3bbb553200"
  },
  {
@@ -11856,7 +12132,7 @@
    "cvss": 7.6,
    "ref": "https://github.com/Budibase/budibase/security/advisories/GHSA-83m5-fvmg-r7xv"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82243 — Máy chủ Budibase trước 3",
   "key": "799c3a13b54bd7d818effbc1d8ea727378f41cb8"
  },
  {
@@ -11875,7 +12151,7 @@
    "cvss": 9.1,
    "ref": "https://github.com/Budibase/budibase/security/advisories/GHSA-gwr2-pgg3-p7xp"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82244 — Phiên bản Budibase trước 3",
   "key": "e4c3f07de81f8e1c94d364baa99dd178bb8a6d72"
  },
  {
@@ -11893,7 +12169,7 @@
    "cvss": 8.1,
    "ref": "https://github.com/Budibase/budibase/security/advisories/GHSA-4wr8-5c3p-rjcr"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82245 — Budibase trước 3",
   "key": "def6245ed70a0560ff44c960d8909420dd161147"
  },
  {
@@ -11911,7 +12187,7 @@
    "cvss": 7.1,
    "ref": "https://github.com/Budibase/budibase/security/advisories/GHSA-48x3-9ph2-p9gj"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82246 — Máy chủ Budibase trước 3",
   "key": "50e554337bf00444318cef1c5f1f25503c97125e"
  },
  {
@@ -11930,7 +12206,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/GitoxideLabs/gitoxide/security/advisories/GHSA-jrcm-326h-gpp8"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82247 — thùng gix-url của gitoxit (<= 0",
   "key": "4bcc0db92b76fb9d4039f4e33ac5e1bc4cf5a89e"
  },
  {
@@ -11948,7 +12224,7 @@
    "cvss": 5.3,
    "ref": "https://github.com/GitoxideLabs/gitoxide/security/advisories/GHSA-pmm9-4h7q-24c8"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82248 — gix-worktree-state trước 0",
   "key": "a5862a1253b70d4b7a0e1371595e4f815d7f2134"
  },
  {
@@ -11967,7 +12243,7 @@
    "cvss": 3.1,
    "ref": "https://github.com/GitoxideLabs/gitoxide/security/advisories/GHSA-6wr8-3w4h-j9wj"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82249 — gitoxit trước 0",
   "key": "8c71e6b65b987679fce7431cf8c019afb9711b59"
  },
  {
@@ -11985,7 +12261,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/GitoxideLabs/gitoxide/security/advisories/GHSA-2vh6-hw4j-32ww"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82250 — phiên bản gitoxit gix-packetline trước 0",
   "key": "d6ca27cec3dad5ead8cbbf650be1ca9de2db8f81"
  },
  {
@@ -12003,7 +12279,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/GitoxideLabs/gitoxide/security/advisories/GHSA-fr8x-3vfx-f45h"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82251 — gitoxit trước 0",
   "key": "d3ce209d7aff24fb724c9412e3affb5b27e23f42"
  },
  {
@@ -12021,7 +12297,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/GitoxideLabs/gitoxide/security/advisories/GHSA-pg4w-g64p-qwhj"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82252 — gitoxit trước 0",
   "key": "b84b7bf739df7ddc2a88f4407d1fe23f79a24448"
  },
  {
@@ -12039,7 +12315,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/GitoxideLabs/gitoxide/security/advisories/GHSA-p3hw-mv63-rf9w"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82253 — gitoxit (Rust crates gix <= 0",
   "key": "4e2172ac1129e3e9cac4696a89bb4fddd6c61c52"
  },
  {
@@ -12057,7 +12333,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/GitoxideLabs/gitoxide/security/advisories/GHSA-x494-mj8g-cj27"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82254 — gitoxit trước 0",
   "key": "42977d123dbb9329a19e0c0ea4435667035fefba"
  },
  {
@@ -12076,7 +12352,7 @@
    "cvss": 6.8,
    "ref": "https://github.com/GitoxideLabs/gitoxide/security/advisories/GHSA-9857-6mw7-fq2m"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82255 — phiên bản gitoxit từ 0",
   "key": "c6d45511e2f5990cf5c9523a7ad3aaee2146cbd9"
  },
  {
@@ -12094,7 +12370,7 @@
    "cvss": 5.3,
    "ref": "https://github.com/sveltejs/kit/security/advisories/GHSA-wqjv-9729-c5q2"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82256 — SvelteKit trước 2",
   "key": "158eeec14ef4fcefb24c92c4e13ce064d007bc24"
  },
  {
@@ -12112,7 +12388,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/sveltejs/kit/security/advisories/GHSA-866w-xmhq-wj7x"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82257 — Phiên bản SvelteKit trước 2",
   "key": "eea2c85cc9ab386737fe8da66eec37d486d493c8"
  },
  {
@@ -12130,7 +12406,7 @@
    "cvss": null,
    "ref": "https://github.com/sveltejs/kit/security/advisories/GHSA-hgv7-v322-mmgr"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82258 — Phiên bản SvelteKit từ 2",
   "key": "2e8f1f80025a376be7b693354058d3857370b069"
  },
  {
@@ -12148,7 +12424,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/sveltejs/kit/security/advisories/GHSA-fpg4-jhqr-589c"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82259 — Phiên bản SvelteKit từ 2",
   "key": "b9a9fad886c5b0b60c0349e98cc8cc89234ea01e"
  },
  {
@@ -12166,7 +12442,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/sveltejs/kit/security/advisories/GHSA-vrhm-gvg7-fpcf"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82260 — Phiên bản SvelteKit(@ sveltejs/kit) >=2",
   "key": "dc0ef02722ff5b136205b802836dbe218aa399e5"
  },
  {
@@ -12184,7 +12460,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/sveltejs/kit/security/advisories/GHSA-88qp-p4qg-rqm6"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82261 — Phiên bản SvelteKit(@ sveltejs/kit) >=2",
   "key": "827dda0f69cfd4a5ade8af332009a9629d86b298"
  },
  {
@@ -12275,7 +12551,7 @@
    "cvss": null,
    "ref": "https://github.com/grpc-ecosystem/grpc-gateway"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-37236 — grpc-gateway v2",
   "key": "3d4e128e41c0af85d46db92a5e66259167288fbb"
  },
  {
@@ -73710,295 +73986,5 @@
   },
   "title_vi": "",
   "key": "66f4bc381b38a1bf92199e07a1730d135ef24239"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79845 — A vulnerability was identified in code-projects Simple Inventory System 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79845",
-  "published": "2026-08-25T22:17:06.860",
-  "summary": "A vulnerability was identified in code-projects Simple Inventory System 1.0. This vulnerability affects unknown code of the file /InventoryManagement/edit.php. The manipulation of the argument ID leads to sql injection. The attack is possible to be carried out remotely. The exploit is publicly available and might be used.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79845",
-   "cvss": 7.3,
-   "ref": "https://code-projects.org/"
-  },
-  "title_vi": "",
-  "key": "b8c2a210c4b16e28d98219a52c7d3c699c582f61"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80182 — In OpenStack Keystone before 29",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80182",
-  "published": "2026-08-25T22:17:07.067",
-  "summary": "In OpenStack Keystone before 29.0.3, tokens obtained via OAuth1 access token, application credential, or trust-scoped authentication could create new long-lived credentials or authorize new delegations that persist independently of, and outlive, the credential used to obtain them. The delegation restrictions that block these operations did not consistently apply to all delegated token types, allowing an OAuth1-scoped token, for example, to create application credentials or authorize OAuth1 request tokens despite those operations being restricted for other delegated token types. All Keystone de",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80182",
-   "cvss": null,
-   "ref": "https://launchpad.net/bugs/2153453"
-  },
-  "title_vi": "",
-  "key": "9130509fd7eed54b346ce54380e2c2c95bde111c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80184 — In OpenStack Keystone before 29",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80184",
-  "published": "2026-08-25T22:17:07.250",
-  "summary": "In OpenStack Keystone before 29.0.3, tokens obtained via delegated authentication mechanisms (OAuth1 access tokens, application credentials, trusts) could be submitted to the token-method authentication path for reauthentication to escape their intended project scope. When an application credential token was presented with no explicit scope, Keystone would issue a new token scoped to the credential owner's default project rather than the project for which the credential was issued, bypassing the intended project boundary. All Keystone deployments that permit delegated authentication through OA",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80184",
-   "cvss": null,
-   "ref": "https://launchpad.net/bugs/2158538"
-  },
-  "title_vi": "",
-  "key": "9e19848eaee2c3ac00a4ac4c7e0130c8107d8412"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80185 — BlueZ sdp-xml",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80185",
-  "published": "2026-08-25T22:17:07.427",
-  "summary": "BlueZ sdp-xml.c type confusion via RegisterProfile(ServiceRecord) can crash bluetoothd (local DoS): a crafted nested ServiceRecord can corrupt the SDP XML parser stack so scalar union data is treated as a sequence pointer, allowing a local caller to crash bluetoothd.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80185",
-   "cvss": 5.7,
-   "ref": "https://access.redhat.com/security/cve/CVE-2026-80185"
-  },
-  "title_vi": "",
-  "key": "d0f708c6cb8557312809245ba8064a836e659481"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80186 — A stack-based buffer overflow vulnerability exists in BlueZ, the Linux Bluetooth protocol stack",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80186",
-  "published": "2026-08-25T22:17:07.587",
-  "summary": "A stack-based buffer overflow vulnerability exists in BlueZ, the Linux Bluetooth protocol stack. A remote user within Bluetooth radio range can send a specially crafted Extended Inquiry Response (EIR) packet that causes a buffer overflow when the target device performs Bluetooth discovery. This vulnerability can lead to a Denial of Service (DoS) by crashing the bluetoothd service and may allow for arbitrary code execution.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80186",
-   "cvss": 7.6,
-   "ref": "https://access.redhat.com/security/cve/CVE-2026-80186"
-  },
-  "title_vi": "",
-  "key": "c8877b3370ccb77371e9d369d9bd55fc5cd64044"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-15088 — Vulnerability in Drupal Development Environment",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-15088",
-  "published": "2026-08-25T23:16:54.810",
-  "summary": "Vulnerability in Drupal Development Environment. This issue affects Development Environment versions: *.*.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-15088",
-   "cvss": null,
-   "ref": "https://www.drupal.org/sa-contrib-2026-089"
-  },
-  "title_vi": "",
-  "key": "a6ac25c588a785428904c22766424a7793b9e83e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-15916 — Missing Authorization vulnerability in Drupal Drupal core allows Forceful Browsing",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-15916",
-  "published": "2026-08-25T23:16:56.320",
-  "summary": "Missing Authorization vulnerability in Drupal Drupal core allows Forceful Browsing. This issue affects Drupal core versions: from 0.0.0 to 10.6.13, from 11.3.0 to 11.3.14, from 11.4.0 to 11.4.4, from 0.0.0 to 11.0.*, from 0.0.0 to 11.1.*, from 0.0.0 to 11.2.*.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-15916",
-   "cvss": null,
-   "ref": "https://www.drupal.org/sa-core-2026-010"
-  },
-  "title_vi": "",
-  "key": "f2ea169bedbdefd37d5df4f634975cf242dd2bf4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-15917 — Improper Neutralization of Input During Web Page Generation (\"Cross-site Scripting\") vulnerability in Drupal Drupal core allows Cross-Site Scripting (",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-15917",
-  "published": "2026-08-25T23:16:56.437",
-  "summary": "Improper Neutralization of Input During Web Page Generation (\"Cross-site Scripting\") vulnerability in Drupal Drupal core allows Cross-Site Scripting (XSS). This issue affects Drupal core versions: from 11.3.0 to 11.3.14, from 11.4.0 to 11.4.4, from 0.0.0 to 11.2.*.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-15917",
-   "cvss": null,
-   "ref": "https://www.drupal.org/sa-core-2026-011"
-  },
-  "title_vi": "",
-  "key": "0d204e42cdbf771b450c3932e5e949912ceb8885"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-16638 — Improper Neutralization of Input During Web Page Generation (\"Cross-site Scripting\") vulnerability in Drupal Media Folders allows Stored XSS",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-16638",
-  "published": "2026-08-25T23:16:56.560",
-  "summary": "Improper Neutralization of Input During Web Page Generation (\"Cross-site Scripting\") vulnerability in Drupal Media Folders allows Stored XSS. This issue affects Media Folders versions: from 0.0.0 to 1.0.8.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-16638",
-   "cvss": null,
-   "ref": "https://www.drupal.org/sa-contrib-2026-080"
-  },
-  "title_vi": "",
-  "key": "912b682d4f66155055138b43f75bec487f0e80d7"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-16639 — Authentication Bypass Using an Alternate Path or Channel vulnerability in Drupal Internationalization Single Sign-On allows Authentication Bypass",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-16639",
-  "published": "2026-08-25T23:16:56.673",
-  "summary": "Authentication Bypass Using an Alternate Path or Channel vulnerability in Drupal Internationalization Single Sign-On allows Authentication Bypass. This issue affects Internationalization Single Sign-On versions: from 0.0.0 to 1.8.0.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-16639",
-   "cvss": null,
-   "ref": "https://www.drupal.org/sa-contrib-2026-081"
-  },
-  "title_vi": "",
-  "key": "9d40579bb780cd4ccf686ce750de9f3c23034077"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-16640 — Improper Neutralization of Input During Web Page Generation (\"Cross-site Scripting\") vulnerability in Drupal Search API Autocomplete allows Reflected ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-16640",
-  "published": "2026-08-25T23:16:56.787",
-  "summary": "Improper Neutralization of Input During Web Page Generation (\"Cross-site Scripting\") vulnerability in Drupal Search API Autocomplete allows Reflected XSS. This issue affects Search API Autocomplete versions: from 0.0.0 to 1.12.0.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-16640",
-   "cvss": null,
-   "ref": "https://www.drupal.org/sa-contrib-2026-082"
-  },
-  "title_vi": "",
-  "key": "70f1aca7bc5ff6b3de090aa0128d24a8b4afbcf5"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-16641 — Vulnerability in Drupal Commerce Elavon",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-16641",
-  "published": "2026-08-25T23:16:56.900",
-  "summary": "Vulnerability in Drupal Commerce Elavon. This issue affects Commerce Elavon versions: *.*.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-16641",
-   "cvss": null,
-   "ref": "https://www.drupal.org/sa-contrib-2026-084"
-  },
-  "title_vi": "",
-  "key": "f16ac8c7c7e8cb9441192a758e95fdacb19e4b84"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-16642 — Vulnerability in Drupal Email Login OTP",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-16642",
-  "published": "2026-08-25T23:16:56.997",
-  "summary": "Vulnerability in Drupal Email Login OTP. This issue affects Email Login OTP versions: *.*.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-16642",
-   "cvss": null,
-   "ref": "https://www.drupal.org/sa-contrib-2026-085"
-  },
-  "title_vi": "",
-  "key": "7aa6f08e8d21a8f2a6183c0f7f34d695484731c8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-16643 — Vulnerability in Drupal Lunr exposed filters",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-16643",
-  "published": "2026-08-25T23:16:57.100",
-  "summary": "Vulnerability in Drupal Lunr exposed filters. This issue affects Lunr exposed filters versions: *.*.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-16643",
-   "cvss": null,
-   "ref": "https://www.drupal.org/sa-contrib-2026-086"
-  },
-  "title_vi": "",
-  "key": "387be7ed365d6d061ffb2f2ff21c656a70ae92a3"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-16644 — Incorrect Authorization vulnerability in Drupal Webform REST allows Forceful Browsing",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-16644",
-  "published": "2026-08-25T23:16:57.200",
-  "summary": "Incorrect Authorization vulnerability in Drupal Webform REST allows Forceful Browsing. This issue affects Webform REST versions: from 0.0.0 to 4.1.0.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-16644",
-   "cvss": null,
-   "ref": "https://www.drupal.org/sa-contrib-2026-087"
-  },
-  "title_vi": "",
-  "key": "5a0bf733bef7f47ef55a2409e9d463aefda9adf5"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-16645 — Missing Authorization vulnerability in Drupal PhotoSwipe - Responsive JavaScript Modal Image Gallery allows Forceful Browsing",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-16645",
-  "published": "2026-08-25T23:16:57.313",
-  "summary": "Missing Authorization vulnerability in Drupal PhotoSwipe - Responsive JavaScript Modal Image Gallery allows Forceful Browsing. This issue affects PhotoSwipe - Responsive JavaScript Modal Image Gallery versions: from 0.0.0 to 3.2.0.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-16645",
-   "cvss": null,
-   "ref": "https://www.drupal.org/sa-contrib-2026-088"
-  },
-  "title_vi": "",
-  "key": "7950707e0e8991a2ee57264a296efb46fd4fb7ec"
  }
 ]
