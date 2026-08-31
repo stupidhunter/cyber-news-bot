@@ -1,5 +1,688 @@
 [
  {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Cơ cấu đào tạo đại học năm học 2025-2026",
+  "link": "https://www.vietnamplus.vn/co-cau-dao-tao-dai-hoc-nam-hoc-2025-2026-post1133462.vnp",
+  "published": "2026-08-31T01:57:25+00:00",
+  "summary": "Năm học 2025-2026 đánh dấu bước tiến trong đào tạo đại học, với nhiều chương trình STEM và nhân lực chiến lược góp phần phát triển giáo dục Việt Nam. Giáo dục đại học có chuyển biến rõ nét trong năm học 2025-2026 Kiến tạo cơ chế, khai thác sức mạnh trí tuệ kiều bào trong kỷ nguyên số Bộ GD-ĐT dự kiến bổ sung thêm kỳ thi để chọn đội tuyển Olympic Trí tuệ nhân tạo",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "7e23607bbb9982fa94a33141f30f606bc6dc7621"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Khi di sản bước vào dòng chảy sáng tạo: Ai giữ quyền kể câu chuyện?",
+  "link": "https://www.vietnamplus.vn/khi-di-san-buoc-vao-dong-chay-sang-tao-ai-giu-quyen-ke-cau-chuyen-post1132403.vnp",
+  "published": "2026-08-31T01:00:00+00:00",
+  "summary": "Khi di sản bước vào công nghiệp văn hóa và không gian số, vấn đề đặt ra không còn là bảo tồn hay phát triển, mà là làm thế nào để cộng đồng vẫn giữ quyền kể, sáng tạo và hưởng lợi từ chính di sản đó. Nhận diện giá trị cốt lõi của du lịch khi ứng dụng chuyển đổi số và AI Số hóa di sản: \"Đánh thức\" ký ức, khơi dậy nguồn lực phát triển Từ phố cổ đến làng nghề: Hội An “chạm” di sản từ những sáng tạo mới",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "9422fd11c660b296c38688a819053a7c20914563"
+ },
+ {
+  "source": "Báo Tin tức (TTXVN) KH-CN",
+  "title": "Dấu vết vô hình của AI",
+  "link": "https://baotintuc.vn/khoa-hoc-cong-nghe/dau-vet-vo-hinh-cua-ai-20260831072358985.htm",
+  "published": "2026-08-31T03:30:58.310408+00:00",
+  "summary": "Kể từ tháng 8/2026, Anthropic - công ty đứng sau mô hình ngôn ngữ Claude - chính thức gắn watermark, một dấu kỹ thuật số vô hình lên mọi sản phẩm đầu ra của hệ thống trên phạm vi toàn cầu.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "b334149784e1c651e3e4e9b62d59d5121ec4eef5"
+ },
+ {
+  "source": "Thanh Niên Công nghệ",
+  "title": "Rủi ro khi AI được quyền tự chạy lệnh",
+  "link": "https://thanhnien.vn/rui-ro-khi-ai-duoc-quyen-tu-chay-lenh-18526083107033124.htm",
+  "published": "2026-08-31T00:40:00+00:00",
+  "summary": "Một nghi&ecirc;n cứu bảo mật đặt nghi vấn c&aacute;c AI agent như Claude, Codex v&agrave; Hermes c&oacute; thể l&agrave;m theo hướng dẫn tr&ecirc;n web để c&agrave;i m&atilde; chưa được x&aacute;c minh.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "0abaf7202ec6346f25bd10a72cedd816b0ad6737"
+ },
+ {
+  "source": "GenK",
+  "title": "Sự thật về vụ AI của OpenAI tấn công Hugging Face: 700 Agent tự phối hợp tấn công và che đậy dấu vết",
+  "link": "https://genk.vn/su-that-ve-vu-ai-cua-openai-tan-cong-hugging-face-700-agent-tu-phoi-hop-tan-cong-va-che-day-dau-vet-165260831091510783.chn",
+  "published": "2026-08-31T03:30:50.942943+00:00",
+  "summary": "Hàng trăm AI Agents của OpenAI đã tự phối hợp với nhau mà không cần mệnh lệnh từ con người và tấn công vào đối tác Hugging Face, thậm chí sau đó còn tìm cách che giấu hành vi của mình.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "900af239cc07af0879ed762715d5e33975e558a8"
+ },
+ {
+  "source": "GenK",
+  "title": "AI đang biến 200 triệu người dùng miễn phí của Canva thành gánh nặng chưa có lời giải",
+  "link": "https://genk.vn/ai-dang-bien-200-trieu-nguoi-dung-mien-phi-cua-canva-thanh-ganh-nang-chua-co-loi-giai-16526083108431437.chn",
+  "published": "2026-08-31T03:30:50.942997+00:00",
+  "summary": "Canva từng xây dựng đế chế công nghệ trị giá hàng chục tỷ USD nhờ chiến lược thu hút hàng trăm triệu người dùng miễn phí. Nhưng khi AI trở thành trọng tâm tăng trưởng mới, chính nhóm người dùng này lại có thể trở thành gánh nặng.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "b8fa4bde7c82f3e094de978d0aa3550b2118175a"
+ },
+ {
+  "source": "GenK",
+  "title": "Hàng triệu khách hàng sân bay Anh bị lộ dữ liệu",
+  "link": "https://genk.vn/hang-trieu-khach-hang-san-bay-anh-bi-lo-du-lieu-165260831073757999.chn",
+  "published": "2026-08-31T03:30:50.943080+00:00",
+  "summary": "VTV.vn - Khoảng 8,7 triệu khách hàng của 3 sân bay lớn tại Anh bị lộ một số thông tin cá nhân sau vụ tấn công mạng, song hoạt động hàng không vẫn bình thường.",
+  "categories": [
+   "breach",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "d8d8285d9c0b4f7b7b706db8100082c4bb21f95b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82589 — A security flaw has been discovered in Open5GS up to 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82589",
+  "published": "2026-08-30T23:17:07.800",
+  "summary": "A security flaw has been discovered in Open5GS up to 2.7.7. Impacted is the function amf_namf_comm_handle_n1_n2_message_transfer of the file src/amf/namf-handler.c of the component N1-N2 Message Handler. Performing a manipulation of the argument N1N2MessageTransferReqData.n2InfoContainer.smInfo.n2InfoContent.ngapIeType results in denial of service. The attack may be initiated remotely. The exploit has been released to the public and may be used for attacks. Upgrading to version 2.8.0 is recommended to address this issue. The patch is named abf8a836564b966b5141110fc25ed413c4f17522. It is advisa",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82589",
+   "cvss": 4.3,
+   "ref": "https://github.com/open5gs/open5gs/"
+  },
+  "title_vi": "CVE-2026-82589 — Một lỗ hổng bảo mật đã được phát hiện trong Open5GS lên đến 2",
+  "key": "243d0837c3527a7a7b5d6e519ef7a70c109c6b76"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82590 — A weakness has been identified in Open5GS up to 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82590",
+  "published": "2026-08-30T23:17:07.967",
+  "summary": "A weakness has been identified in Open5GS up to 2.7.7. The affected element is the function smf_nudm_sdm_handle_get of the file src/smf/nudm-handler.c of the component SMF. Executing a manipulation of the argument preemptCap can lead to reachable assertion. The attack may be launched remotely. Upgrading to version 2.8.0 is sufficient to fix this issue. This patch is called 4554405f29bffd7562abedbee63484825bd90cd5. You should upgrade the affected component.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82590",
+   "cvss": 4.3,
+   "ref": "https://github.com/open5gs/open5gs/"
+  },
+  "title_vi": "CVE-2026-82590 — Một điểm yếu đã được xác định trong Open5GS lên đến 2",
+  "key": "d4be8fa4d5897a9be5902604f500f2921cae8783"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82591 — A security vulnerability has been detected in Open Asset Import Library Assimp up to 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82591",
+  "published": "2026-08-30T23:17:08.137",
+  "summary": "A security vulnerability has been detected in Open Asset Import Library Assimp up to 6.0.2. The impacted element is the function MD5Importer::MakeDataUnique of the file code/AssetLib/MD5/MD5Loader.cpp. The manipulation of the argument iNewIndex leads to heap-based buffer overflow. The attack can only be performed from a local environment. The identifier of the patch is bf9dabb617c46e5133dac65cca6bff177917afcb. Applying a patch is the recommended action to fix this issue.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82591",
+   "cvss": 5.3,
+   "ref": "https://github.com/assimp/assimp/commit/bf9dabb617c46e5133dac65cca6bff177917afcb"
+  },
+  "title_vi": "CVE-2026-82591 — Một lỗ hổng bảo mật đã được phát hiện trong Open Asset Import Library Assimp up to 6",
+  "key": "0acbd4a55c876cda4a2908a45221fc0fcc2fa65c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82592 — A vulnerability was detected in D-Link DIR-825M 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82592",
+  "published": "2026-08-30T23:17:08.303",
+  "summary": "A vulnerability was detected in D-Link DIR-825M 1.1.8. This affects the function sub_46725C of the file /boafrm/formDiskFormat of the component Disk Formatting Handler Endpoint. The manipulation of the argument partition results in stack-based buffer overflow. The attack can be executed remotely. The exploit is now public and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82592",
+   "cvss": 9.9,
+   "ref": "https://github.com/Robots10/IoT_vlu/blob/main/reports/Dlink/formDiskFormat/formDiskFormat.md"
+  },
+  "title_vi": "CVE-2026-82592 — Một lỗ hổng đã được phát hiện trong D-Link DIR-825M 1",
+  "key": "c2fed97c36e0758ee42146f4fe0fb26cd8ac0055"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82593 — A flaw has been found in D-Link DIR-825M 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82593",
+  "published": "2026-08-31T00:16:41.630",
+  "summary": "A flaw has been found in D-Link DIR-825M 1.1.8. This impacts the function sub_41802C of the file /boafrm/formLtefotaUpgradeFibocom of the component LTE Module Firmware Upgrade. This manipulation of the argument fota_url causes stack-based buffer overflow. The attack is possible to be carried out remotely. The exploit has been published and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82593",
+   "cvss": 9.9,
+   "ref": "https://github.com/Robots10/IoT_vlu/blob/main/reports/Dlink/formLtefotaUpgradeFibocom/formLtefotaUpgradeFibocom.md"
+  },
+  "title_vi": "CVE-2026-82593 — Một lỗ hổng đã được tìm thấy trong D-Link DIR-825M 1",
+  "key": "b34eb411dbbe047488462109a5b3d60e20a18c83"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82594 — A vulnerability has been found in LogNet grpc-spring-boot-starter up to 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82594",
+  "published": "2026-08-31T00:16:41.800",
+  "summary": "A vulnerability has been found in LogNet grpc-spring-boot-starter up to 5.2.0. Affected is an unknown function of the component Annotation Processing. Such manipulation leads to improper authorization. The attack may be performed from remote. A high complexity level is associated with this attack. The exploitability is told to be difficult. The exploit has been disclosed to the public and may be used. The project was informed of the problem early through an issue report but has not responded yet.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82594",
+   "cvss": 5.0,
+   "ref": "https://github.com/LogNet/grpc-spring-boot-starter/"
+  },
+  "title_vi": "CVE-2026-82594 — Một lỗ hổng đã được tìm thấy trong LogNet grpc-spring-boot-starter lên đến 5",
+  "key": "a88d1d444049ecc7f5e1f73883fb679d030597d1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82595 — A vulnerability was found in D-Link DIR-825M 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82595",
+  "published": "2026-08-31T00:16:41.980",
+  "summary": "A vulnerability was found in D-Link DIR-825M 1.1.8. Affected by this vulnerability is the function sub_456CF4 of the file /boafrm/formSysCmd of the component System Command Execution. Performing a manipulation of the argument sysCmd results in command injection. It is possible to initiate the attack remotely. The exploit has been made public and could be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82595",
+   "cvss": 7.4,
+   "ref": "https://github.com/Robots10/IoT_vlu/blob/main/reports/Dlink/formSysCmd/formSysCmd.md"
+  },
+  "title_vi": "CVE-2026-82595 — Một lỗ hổng đã được tìm thấy trong D-Link DIR-825M 1",
+  "key": "47f25074fc98782092d2deef3c38580ab3be8d3f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82596 — A vulnerability was determined in LatencyUtils up to 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82596",
+  "published": "2026-08-31T00:16:42.150",
+  "summary": "A vulnerability was determined in LatencyUtils up to 2.0.3. Affected by this issue is the function LatencyStats.recordDetectedPause of the file src/main/java/org/LatencyUtils/LatencyStats.java of the component PauseDetector. Executing a manipulation can lead to memory corruption. The attack needs to be launched locally. The exploit has been publicly disclosed and may be utilized. The project was informed of the problem early through an issue report but has not responded yet.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82596",
+   "cvss": 3.3,
+   "ref": "https://github.com/LatencyUtils/LatencyUtils/"
+  },
+  "title_vi": "CVE-2026-82596 — Một lỗ hổng đã được xác định trong LatencyUtils up to 2",
+  "key": "f4915f3171fedad4b13c106bf0ce3539ea3e2549"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77956 — Improper Control of Generation of Code (Code Injection) vulnerability in ash-project ash_ai allows a remote, unauthenticated client to execute arbitra",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77956",
+  "published": "2026-08-31T01:16:49.563",
+  "summary": "Improper Control of Generation of Code (Code Injection) vulnerability in ash-project ash_ai allows a remote, unauthenticated client to execute arbitrary Elixir code.\n\nAshAi.Actions.Prompt evaluates prompt content through EEx.eval_string/2. The documented prompt: fn input, context -> ... end form lets the prompt content be built from action arguments, so when a prompt action's text incorporates request data, that attacker-controlled text is compiled and run as an EEx template (Elixir source). Content such as <%= System.cmd(...) %> therefore executes on the server before any model request is mad",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77956",
+   "cvss": null,
+   "ref": "https://cna.erlef.org/cves/CVE-2026-77956.html"
+  },
+  "title_vi": "CVE-2026-77956 — Lỗ hổng kiểm soát tạo mã (Code Injection) không đúng cách trong Ash-project Ash_ai cho phép một khách hàng từ xa, chưa được xác thực thực thực thi arbitra",
+  "key": "c6792848677ee208e2b8c704a2b22ae13574d881"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81315 — Origin Validation Error vulnerability in ash-project ash_ai allows a malicious web page to bypass the MCP server's DNS-rebinding protection and issue ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81315",
+  "published": "2026-08-31T01:16:49.977",
+  "summary": "Origin Validation Error vulnerability in ash-project ash_ai allows a malicious web page to bypass the MCP server's DNS-rebinding protection and issue cross-site requests to a user's local MCP server with that user's actor.\n\nIn AshAi.Mcp.Server, with the default allowed_origins: nil, origin_allowed?/3 accepts an origin when uri.host == conn.host and the forwarded scheme is https. Both values are attacker-controlled: conn.host comes from the Host header and the scheme is read from the raw x-forwarded-proto header with no trusted-proxy check. Under DNS rebinding the browser sends the attacker's o",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81315",
+   "cvss": null,
+   "ref": "https://cna.erlef.org/cves/CVE-2026-81315.html"
+  },
+  "title_vi": "CVE-2026-81315 — Lỗ hổng Lỗi xác thực nguồn gốc trong Ash Project Ash_ai cho phép một trang web độc hại vượt qua sự cố và bảo vệ liên kết DNS của máy chủ MCP",
+  "key": "696a95cfed6cafaa0c22c8b4609020999a9c71cc"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82597 — A vulnerability was identified in TOTOLINK NR1800X 9",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82597",
+  "published": "2026-08-31T01:16:50.190",
+  "summary": "A vulnerability was identified in TOTOLINK NR1800X 9.1.0u.6681_B20230703. This affects the function setUssd of the file /cgi-bin/cstecgi.cgi. The manipulation of the argument ussd leads to command injection. The attack can be initiated remotely. The exploit is publicly available and might be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82597",
+   "cvss": 7.4,
+   "ref": "https://github.com/lxiansheng488-bit/-/blob/main/TOTOlink/totolink%20setuuid%E5%91%BD%E4%BB%A4%E6%B3%A8%E5%85%A5.pdf"
+  },
+  "title_vi": "CVE-2026-82597 — Một lỗ hổng đã được xác định trong TOTOLINK NR1800X 9",
+  "key": "124716e702bf78f13895a6077605a017421b9322"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82598 — A vulnerability was determined in SeaCMS up to 13",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82598",
+  "published": "2026-08-31T01:16:50.417",
+  "summary": "A vulnerability was determined in SeaCMS up to 13.6. Affected is the function parseIf of the file search.php of the component Template Engine. This manipulation of the argument searchtype causes code injection. It is possible to initiate the attack remotely. The exploit has been publicly disclosed and may be utilized.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82598",
+   "cvss": 7.3,
+   "ref": "https://github.com/T-Chachamaru/seacms-13.6-security-advisories/blob/a084a3e573240d54860153321df271280daec262/c-009-search-cascade-template-rce.md"
+  },
+  "title_vi": "CVE-2026-82598 — Một lỗ hổng đã được xác định trong SeaCMS lên đến 13",
+  "key": "41f925667a2b986171e2cd7e53049b6b009e65a5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82599 — A vulnerability was identified in SeaCMS up to 13",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82599",
+  "published": "2026-08-31T01:16:50.630",
+  "summary": "A vulnerability was identified in SeaCMS up to 13.6. Affected by this vulnerability is the function unlink of the file /member.php?action=chgpwdsubmit of the component Avatar Upload. Such manipulation of the argument oldpic leads to path traversal. It is possible to launch the attack remotely. The exploit is publicly available and might be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82599",
+   "cvss": 5.4,
+   "ref": "https://github.com/T-Chachamaru/seacms-13.6-security-advisories/blob/a084a3e573240d54860153321df271280daec262/c-002b-member-oldpic-file-deletion.md"
+  },
+  "title_vi": "CVE-2026-82599 — Một lỗ hổng đã được xác định trong SeaCMS lên đến 13",
+  "key": "f16df80bff22c4556950dcfa13e4a915135baa2b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75760 — Generation of Error Message Containing Sensitive Information vulnerability in ash-project ash_ai discloses provider request state and credentials in a",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75760",
+  "published": "2026-08-31T02:17:01.313",
+  "summary": "Generation of Error Message Containing Sensitive Information vulnerability in ash-project ash_ai discloses provider request state and credentials in a user-facing validation error.\n\nIn AshAi.Changes.Vectorize, when the embedding provider call fails the change added a changeset error whose message inspected the raw error term (An error occurred while generating embeddings: #{inspect(error)}). A plain-string add_error produces an Ash.Error.Changes.InvalidChanges in the :invalid class, which AshJsonApi and AshGraphql render back to the caller. The embedding client's error term is not sanitized, s",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75760",
+   "cvss": null,
+   "ref": "https://cna.erlef.org/cves/CVE-2026-75760.html"
+  },
+  "title_vi": "CVE-2026-75760 — Tạo thông báo lỗi chứa lỗ hổng Thông tin nhạy cảm trong Ash-project Ash_ai tiết lộ trạng thái và thông tin xác thực yêu cầu của nhà cung cấp trong",
+  "key": "b6f7c79a460a9e098f4a3dfb6bdfeed23eb9c6f9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82564 — Authorization Bypass Through User-Controlled Key vulnerability in ash-project ash_ai allows a caller of an identity-configured tool to update or destr",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82564",
+  "published": "2026-08-31T02:17:02.103",
+  "summary": "Authorization Bypass Through User-Controlled Key vulnerability in ash-project ash_ai allows a caller of an identity-configured tool to update or destroy records it never identified, including every row in the table.\n\nIn AshAi.Tool.Execution, identity_filter/3 built the update/destroy filter directly from the raw tool arguments as [{key, Map.get(arguments, to_string(key))}] and passed it to Ash.Query.do_filter/2. A map value is parsed as a predicate expression rather than a literal, so a caller can send {\"public_ref\": {\"not_eq\": \"<own-ref>\"}} and, combined with Ash.Query.limit(1) and Ash.bulk_u",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82564",
+   "cvss": null,
+   "ref": "https://cna.erlef.org/cves/CVE-2026-82564.html"
+  },
+  "title_vi": "CVE-2026-82564 — Lỗ hổng Authorization Bypass Through User-Controlled Key trong Ash-project Ash_ai cho phép người gọi của một công cụ được định cấu hình nhận dạng cập nhật hoặc hủy",
+  "key": "1655f4622e5e1374bc5e00723a2c8ae839e05992"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82579 — Loop with Unreachable Exit Condition (Infinite Loop) vulnerability in ash-project ash_ai allows an attacker who can influence a model's output to hang",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82579",
+  "published": "2026-08-31T02:17:02.270",
+  "summary": "Loop with Unreachable Exit Condition (Infinite Loop) vulnerability in ash-project ash_ai allows an attacker who can influence a model's output to hang the tool loop and drive unbounded, repeated model requests.\n\nAshAi.ToolLoop classifies a model response of :tool_calls, then filters the calls through normalize_tool_calls/2 and unprocessed_tool_calls/2. Both can empty the list: a call missing a valid name, or one reusing a tool_call_id that already has a result in history, is dropped. With an empty list the loop appended nothing and recursed with a byte-identical message list, so the conversati",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82579",
+   "cvss": null,
+   "ref": "https://cna.erlef.org/cves/CVE-2026-82579.html"
+  },
+  "title_vi": "CVE-2026-82579 — Lỗ hổng Loop with Unreachable Exit Condition (Infinite Loop) trong Ash project ash_ai cho phép kẻ tấn công có thể ảnh hưởng đến đầu ra của mô hình treo",
+  "key": "e883b96e5b4ffeece14fc487b9272ad2fb6b9bf3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82580 — Generation of Error Message Containing Sensitive Information vulnerability in ash-project ash_ai discloses internal error text to chat users",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82580",
+  "published": "2026-08-31T02:17:02.440",
+  "summary": "Generation of Error Message Containing Sensitive Information vulnerability in ash-project ash_ai discloses internal error text to chat users.\n\nIn AshAi.ToolLoop and AshAi.Tools, an exception raised while executing a tool was serialized verbatim with Exception.message/1 into the tool-result content. That content is appended to the conversation, emitted as a {:tool_result, ...} stream event, and sent back to the model, which typically relays it to the user. No filtering happened first, so anything raised inside a tool callback or lifecycle hook (database constraint messages, adapter errors, quer",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82580",
+   "cvss": null,
+   "ref": "https://cna.erlef.org/cves/CVE-2026-82580.html"
+  },
+  "title_vi": "CVE-2026-82580 — Tạo thông báo lỗi chứa lỗ hổng Thông tin nhạy cảm trong Ash-project Ash_ai tiết lộ văn bản lỗi nội bộ cho người dùng trò chuyện",
+  "key": "fadbc18bf2b6b90eec2c3e3ec5f8e3324e292139"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82600 — A security flaw has been discovered in SeaCMS up to 13",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82600",
+  "published": "2026-08-31T02:17:02.603",
+  "summary": "A security flaw has been discovered in SeaCMS up to 13.6. Affected by this issue is some unknown functionality of the file /zyapi.php?ac=videolist. Performing a manipulation of the argument ids results in sql injection. The attack can be initiated remotely. The exploit has been released to the public and may be used for attacks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82600",
+   "cvss": 7.3,
+   "ref": "https://github.com/T-Chachamaru/seacms-13.6-security-advisories/blob/a084a3e573240d54860153321df271280daec262/c-004-zyapi-ids-sql-injection.md"
+  },
+  "title_vi": "CVE-2026-82600 — Một lỗ hổng bảo mật đã được phát hiện trong SeaCMS lên đến 13",
+  "key": "635303695d73def5a385692bed9e214951d5d6cf"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82601 — A weakness has been identified in SeaCMS up to 13",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82601",
+  "published": "2026-08-31T02:17:02.817",
+  "summary": "A weakness has been identified in SeaCMS up to 13.6. This affects an unknown part of the file /err.php. Executing a manipulation of the argument errtxt can lead to cross site scripting. The attack can be launched remotely. The exploit has been made available to the public and could be used for attacks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82601",
+   "cvss": 4.3,
+   "ref": "https://github.com/T-Chachamaru/seacms-13.6-security-advisories/blob/a084a3e573240d54860153321df271280daec262/c-007-errtxt-reflected-xss.md"
+  },
+  "title_vi": "CVE-2026-82601 — Một điểm yếu đã được xác định trong SeaCMS lên đến 13",
+  "key": "479baec01f0b7a7ff6741d88f3233a95450217fd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82602 — A security vulnerability has been detected in SeaCMS up to 13",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82602",
+  "published": "2026-08-31T02:17:03.003",
+  "summary": "A security vulnerability has been detected in SeaCMS up to 13.6. This vulnerability affects unknown code of the file /ass.php. The manipulation leads to authorization bypass. The attack may be initiated remotely. The exploit has been disclosed publicly and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82602",
+   "cvss": 5.3,
+   "ref": "https://github.com/T-Chachamaru/seacms-13.6-security-advisories/blob/a084a3e573240d54860153321df271280daec262/c-011-ass-paywall-url-disclosure.md"
+  },
+  "title_vi": "CVE-2026-82602 — Một lỗ hổng bảo mật đã được phát hiện trong SeaCMS lên đến 13",
+  "key": "fae3d102a083645bfbec28d5135c04c150a0e9cf"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82603 — A vulnerability was detected in SeaCMS up to 13",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82603",
+  "published": "2026-08-31T02:17:03.190",
+  "summary": "A vulnerability was detected in SeaCMS up to 13.6. This issue affects some unknown processing of the file /member.php?action=del_pl of the component Comment Cache. The manipulation of the argument itype/vid results in path traversal. The attack may be launched remotely. The exploit is now public and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82603",
+   "cvss": 5.4,
+   "ref": "https://github.com/T-Chachamaru/seacms-13.6-security-advisories/blob/a084a3e573240d54860153321df271280daec262/c-008-member-del-pl-js-file-deletion.md"
+  },
+  "title_vi": "CVE-2026-82603 — Một lỗ hổng đã được phát hiện trong SeaCMS lên đến 13",
+  "key": "90686a37dd089a4c52202592740af14c0ca7452b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82604 — A flaw has been found in BareBones BBEdit up to 15",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82604",
+  "published": "2026-08-31T02:17:03.370",
+  "summary": "A flaw has been found in BareBones BBEdit up to 15.5.5. Impacted is an unknown function of the component Java Language Module. This manipulation causes uncontrolled recursion. Remote exploitation of the attack is possible. Upgrading to version 16.0 is recommended to address this issue. You should upgrade the affected component.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82604",
+   "cvss": 4.3,
+   "ref": "https://ciphersecuritylabs.com/research/articles/fuzzing-bbedit-language-modules-stack-exhaustion-and-infinite-loop-dos-bugs"
+  },
+  "title_vi": "CVE-2026-82604 — Một lỗ hổng đã được tìm thấy trong BareBones BBEdit lên đến 15",
+  "key": "b0286a250aeaf46f94574d123ef4061d4e446fb5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75757 — Reliance on Cookies without Validation and Integrity Checking vulnerability in ash-project ash_admin lets an attacker who controls a sibling subdomain",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75757",
+  "published": "2026-08-31T03:16:42.133",
+  "summary": "Reliance on Cookies without Validation and Integrity Checking vulnerability in ash-project ash_admin lets an attacker who controls a sibling subdomain rebind an admin's session to a different actor, tenant, or authorization mode.\n\nAshAdmin's client JavaScript read its state cookies (tenant, actor_resource, actor_primary_key, actor_action, actor_domain, actor_authorizing, actor_paused) by matching the cookie name with an unanchored regular expression (new RegExp(name + \"=([^;]+)\")) against the whole document.cookie. Any cookie whose name merely ends with the requested name therefore matches, an",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75757",
+   "cvss": null,
+   "ref": "https://cna.erlef.org/cves/CVE-2026-75757.html"
+  },
+  "title_vi": "CVE-2026-75757 - Sự phụ thuộc vào Cookie mà không có lỗ hổng Xác thực và Kiểm tra Tính toàn vẹn trong ash-project ash_admin cho phép kẻ tấn công kiểm soát tên miền phụ của anh chị em ruột",
+  "key": "a6244d20c11958920c308918391225bdc0ea6016"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77850 — Stored Cross-site Scripting vulnerability in ash-project ash_admin executes attacker-supplied record content as script in an administrator's browser",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77850",
+  "published": "2026-08-31T03:16:42.307",
+  "summary": "Stored Cross-site Scripting vulnerability in ash-project ash_admin executes attacker-supplied record content as script in an administrator's browser.\n\nThe relationship typeahead components AshAdmin.Components.Resource.RelationshipField and AshAdmin.Components.Resource.ManagedRelationshipSelectField highlight the matched search term by wrapping it in <b> tags and rendering the whole string with Phoenix.HTML.raw/1. The highlighted value is the destination record's label_field, ordinary database content that is often written by lower-privileged users. Because raw/1 disables output escaping for th",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77850",
+   "cvss": null,
+   "ref": "https://cna.erlef.org/cves/CVE-2026-77850.html"
+  },
+  "title_vi": "CVE-2026-77850 - Lỗ hổng Cross-site Scripting được lưu trữ trong Ash-project Ash_admin thực thi nội dung bản ghi do kẻ tấn công cung cấp dưới dạng tập lệnh trong trình duyệt của quản trị viên",
+  "key": "4a88be14a8d954bf71ada3e957288ee439df01ad"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81852 — Use of Insufficiently Random Values vulnerability in ash-project ash_admin ships a hardcoded, publicly known CSP nonce, defeating nonce-based Content-",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81852",
+  "published": "2026-08-31T03:16:42.500",
+  "summary": "Use of Insufficiently Random Values vulnerability in ash-project ash_admin ships a hardcoded, publicly known CSP nonce, defeating nonce-based Content-Security-Policy protection.\n\nWhen mounted without :csp_nonce_assign_key, AshAdmin.Router.ash_admin/2 defaulted the img, style, and script nonces to the literal constant ash_admin-Ed55GFnX, which AshAdmin.Layouts wrote verbatim into the nonce attribute of its inline <style> and <script> tags on every response. The value is a compile-time constant published in the repository and is never rotated per request. If an application's CSP script-src allow",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81852",
+   "cvss": null,
+   "ref": "https://cna.erlef.org/cves/CVE-2026-81852.html"
+  },
+  "title_vi": "CVE-2026-81852 — Sử dụng lỗ hổng Giá trị ngẫu nhiên không đủ trong Ash-project Ash_admin gửi một nonce CSP được mã hóa cứng, được biết đến công khai, đánh bại Content- nonce-based",
+  "key": "750be09d17f149efb56ebbb6629282ff04eedb45"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81853 — Authorization Bypass Through User-Controlled Key vulnerability in ash-project ash_admin turns a record-lookup URL into an equality oracle over sensiti",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81853",
+  "published": "2026-08-31T03:16:42.670",
+  "summary": "Authorization Bypass Through User-Controlled Key vulnerability in ash-project ash_admin turns a record-lookup URL into an equality oracle over sensitive attributes.\n\nAshAdmin.Helpers.decode_primary_key/2 decodes the composite-primary-key form (Base64 plus ETF) and returns the decoded map verbatim as the lookup filter, without checking that its keys are the resource's primary-key fields. The deserialization guards bound size, block new atoms and funs, and reject nested expressions, but none restricts which fields come back, and :safe still allows any already-interned attribute name. An attacker",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81853",
+   "cvss": null,
+   "ref": "https://cna.erlef.org/cves/CVE-2026-81853.html"
+  },
+  "title_vi": "CVE-2026-81853 — Lỗ hổng Authorization Bypass Through User-Controlled Key trong Ash-project Ash_admin biến một URL tra cứu hồ sơ thành một nhà tiên tri bình đẳng về sensiti",
+  "key": "8d74979b0685f72cff76e3d3e75cd001fa7e03f2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82605 — A vulnerability has been found in BareBones BBEdit up to 15",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82605",
+  "published": "2026-08-31T03:16:42.850",
+  "summary": "A vulnerability has been found in BareBones BBEdit up to 15.5.5. The affected element is an unknown function of the component Lasso Language Tokenizer. Such manipulation leads to infinite loop. The attack can be executed remotely. Upgrading to version 16.0 is sufficient to fix this issue. The affected component should be upgraded.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82605",
+   "cvss": 4.3,
+   "ref": "https://ciphersecuritylabs.com/research/articles/fuzzing-bbedit-language-modules-stack-exhaustion-and-infinite-loop-dos-bugs"
+  },
+  "title_vi": "CVE-2026-82605 — Một lỗ hổng đã được tìm thấy trong BareBones BBEdit lên đến 15",
+  "key": "2e9c449dd393d306925f2e75673dceff3e86bdcd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82607 — A vulnerability was found in Cozmoslabs Profile Builder Plugin up to 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82607",
+  "published": "2026-08-31T03:16:43.103",
+  "summary": "A vulnerability was found in Cozmoslabs Profile Builder Plugin up to 3.16.1 on WordPress. The impacted element is the function wppb_ajax_simple_avatar of the file /wp-admin/admin-ajax.php of the component Avatar Simple Upload AJAX Handler. Performing a manipulation results in unrestricted upload. The attack is possible to be carried out remotely. The exploit has been made public and could be used. Upgrading to version 3.16.2 is sufficient to resolve this issue. It is suggested to upgrade the affected component.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82607",
+   "cvss": 7.3,
+   "ref": "https://ciphersecuritylabs.com/research/articles/when-the-browser-is-the-only-bouncer-unauthenticated-media-upload-in-profile-builder"
+  },
+  "title_vi": "CVE-2026-82607 — Một lỗ hổng đã được tìm thấy trong Cozmoslabs Profile Builder Plugin lên đến 3",
+  "key": "d0a1d0c5fa61e123cdbc832b2ced79c83cbd8339"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82608 — A vulnerability was determined in Kamailio up to 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82608",
+  "published": "2026-08-31T03:16:43.293",
+  "summary": "A vulnerability was determined in Kamailio up to 5.5.0/6.0.7. This affects the function get_4bytes of the file src/modules/ims_registrar_scscf/cxdx_avp.c of the component AVP Handler. Executing a manipulation can lead to out-of-bounds read. The attack may be performed from remote. The exploit has been publicly disclosed and may be utilized. This patch is called abb5d60af6eefbd367bf6588c5589566b090e272. It is advisable to implement a patch to correct this issue. The vendor points out, that \"[v]ersion 5.5.0 is old and not maintained anymore.\"",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82608",
+   "cvss": 7.4,
+   "ref": "https://github.com/Kamailio/Kamailio/commit/abb5d60af6eefbd367bf6588c5589566b090e272"
+  },
+  "title_vi": "CVE-2026-82608 — Một lỗ hổng đã được xác định ở Kamailio lên đến 5",
+  "key": "ea427dbc0bc9aa18208c678704fbef17b99fb139"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82673 — Improper Limitation of a Pathname to a Restricted Directory (Path Traversal) vulnerability in ash-project ash_admin allows writing attacker-controlled",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82673",
+  "published": "2026-08-31T03:16:43.473",
+  "summary": "Improper Limitation of a Pathname to a Restricted Directory (Path Traversal) vulnerability in ash-project ash_admin allows writing attacker-controlled bytes to arbitrary paths on the server.\n\nAshAdmin.Components.Resource.Form.consume_file_uploads/1 builds the destination as Path.join([tmp_dir, entry.client_name]) and writes it with File.cp!/2. entry.client_name is the browser-supplied filename and is not sanitized, and Path.join/1 does not normalize ... An upload named ../../../../var/www/app/priv/static/x.png therefore escapes the random temp directory and lands anywhere the BEAM user can wri",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82673",
+   "cvss": null,
+   "ref": "https://cna.erlef.org/cves/CVE-2026-82673.html"
+  },
+  "title_vi": "CVE-2026-82673 - Giới hạn không đúng của một tên đường dẫn đến một thư mục bị hạn chế (Path Traversal) lỗ hổng trong ash-project ash_admin cho phép viết kẻ tấn công kiểm soát",
+  "key": "90e7dca665123237167a7db86435fbd0213fa1dd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82681 — Improper Encoding or Escaping of Output vulnerability in ash-project ash_admin lets an attacker who controls a record's string primary key rewrite the",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82681",
+  "published": "2026-08-31T03:16:43.643",
+  "summary": "Improper Encoding or Escaping of Output vulnerability in ash-project ash_admin lets an attacker who controls a record's string primary key rewrite the target of AshAdmin's row-action links.\n\nThe Table, DataTable, and Show components built row-action URLs by raw string interpolation, splicing the primary key (and table, domain, and resource names) into the query string without URL-encoding. Ash resources routinely use user-settable string primary keys (slugs, emails). Because Plug.Conn.Query resolves duplicate parameters last-wins and primary_key is interpolated last, a stored key such as foo&a",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82681",
+   "cvss": null,
+   "ref": "https://cna.erlef.org/cves/CVE-2026-82681.html"
+  },
+  "title_vi": "CVE-2026-82681 — Lỗ hổng mã hóa hoặc thoát khỏi đầu ra không đúng cách trong ash-project ash_admin cho phép kẻ tấn công kiểm soát khóa chính của chuỗi bản ghi viết lại",
+  "key": "2b44343f4b39b98a52d4368baa227ab222588297"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82722 — Allocation of Resources Without Limits or Throttling vulnerability in ash-project ash_admin lets any client that can reach the admin LiveView exhaust ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82722",
+  "published": "2026-08-31T03:16:43.817",
+  "summary": "Allocation of Resources Without Limits or Throttling vulnerability in ash-project ash_admin lets any client that can reach the admin LiveView exhaust the BEAM atom table and crash the entire node.\n\nTwo LiveView event handlers interned atoms from unvalidated client input: AshAdmin.PageLive's set_actor built modules from the resource/domain payload with Module.concat/1, and AshAdmin.Components.Resource.Show's calculate converted every submitted form key with String.to_atom/1. Atoms are never garbage collected and the table is capped, so flooding either event with random names mints a new atom pe",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82722",
+   "cvss": null,
+   "ref": "https://cna.erlef.org/cves/CVE-2026-82722.html"
+  },
+  "title_vi": "CVE-2026-82722 — Phân bổ tài nguyên không giới hạn hoặc lỗ hổng điều chỉnh trong ash-project ash_admin cho phép bất kỳ khách hàng nào có thể tiếp cận quản trị viên LiveView",
+  "key": "ae19f5ce6dcb526801847f4e9f7885f7fba49e43"
+ },
+ {
   "source": "NVD",
   "title": "CVE-2026-56713 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-56713",
@@ -8701,7 +9384,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "PaperCut Zero-Day bị khai thác trong các cuộc tấn công, ảnh hưởng đến tất cả các phiên bản NG và MF",
   "key": "1a49aac50fa14c8c903a29ccbdcf724636ac49af"
  },
  {
@@ -8715,7 +9398,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Cửa hậu HOOKEDGE liên kết với APT28 nhắm vào Chính phủ châu Âu và các tổ chức ngoại giao",
   "key": "6b3285e71538aaae974f93af51e0f045fba54fd7"
  },
  {
@@ -11113,7 +11796,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/21bbe38faee4a195d33a93e3908e307807f7745d"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80702 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: drm/vmwgfx: fix guest_memory_dirty bitfield clobbered as size Two sites in vmwgfx_",
   "key": "5043a7d256e638db176dcc0bfa7d5c0f025789ca"
  },
  {
@@ -11131,7 +11814,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/4070909ac042f44654aac72f7986ea550c96f591"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80703 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: drm/amdkfd: Khắc phục thiếu kiểm tra ủy quyền trong KFD_IOC_DBG_TRAP_DISABLE Prevent un",
   "key": "1f16e52eb8f41f6dbe2294487cd95d65055c229d"
  },
  {
@@ -11149,7 +11832,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/02647d98340738f918690ed227fdcf154db1b84a"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80704 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: drm/amd/display: sử dụng ngữ cảnh thích hợp để ghi nhật ký Giống như phần còn lại của mã,",
   "key": "b6ba76e1e04d19c956b7ae06deb9f746b4842079"
  },
  {
@@ -11167,7 +11850,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/000acb4ce7fb9feba3072ce468ad681f6585cd5d"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80705 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: drm/amd/display: kiểm tra xem dml21_add_phantom_plane() có thành công hay không Xác minh rằng",
   "key": "486c85c6b8223f6361cb95e4ff2e337dbef8d68b"
  },
  {
@@ -11185,7 +11868,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/2ee477e541a6d5e434d6a4041c6b677ab42e1d82"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80706 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: can: softing: fw_parse(): xác thực bản ghi firmware kéo dài fw_parse() đọc một bản ghi cố định",
   "key": "4a83039afc9ffa407f88fc67f4aa9c7d89b855d3"
  },
  {
@@ -11203,7 +11886,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/038bad8e16c2e28acf31f0b527a816fb23a57269"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80707 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: can: j1939: transport: j1939_session_fresh_new(): initialize receive buffer Zero t",
   "key": "21209de78ad35cd89f8d82787a0baa4128573578"
  },
  {
@@ -11221,7 +11904,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/01476391aecef36a3b789ee844357b22fbc90665"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80708 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: s390/zcrypt: Fix missing mem scrub at clear key import in cca_clr2cipherkey ()",
   "key": "e4c4b59175f397b86e194935025405f6e69c7ce3"
  },
  {
@@ -11239,7 +11922,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/1223477ca88e2396eca440919d0ca8754df79bd5"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80709 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: s390/zcrypt: Sửa lỗi xác minh giá trị miền với CPRB EP11 Có lỗi",
   "key": "6e4d4df431ee876be0bd9f93a0c0a6208ad42e95"
  },
  {
@@ -11257,7 +11940,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/7f40b346462f563a0d6e841a77b5163d2a882a04"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80710 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: s390/dasd: Khắc phục bộ đệm kiểm tra định dạng dưới cỡ fmt_buffer_size trong dasd_eckd_check_d",
   "key": "2fadf875b352baa96d47ade2e8fb255e8bb171a9"
  },
  {
@@ -11275,7 +11958,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/725668c6b6aa3971fe850659102c250d0d676e18"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80711 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: power: supply: max17040: xử lý thiếu nhà cung cấp trạng thái MAX17040 không báo cáo c",
   "key": "3f3ae4d89550d020eeaf120b42ec5c80bef26722"
  },
  {
@@ -11293,7 +11976,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/3ba021079ef2ac6e21e3547328496ac42d22b56a"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80712 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: spi: spi-qpic-snand: ghi giá trị tính năng trước khi thực thi SET_FEATURE qcom_spi",
   "key": "7b4462e8063d0378de779facf50248b3f0990667"
  },
  {
@@ -11311,7 +11994,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/bc0e8faf90e776a2f1f3967a04e8091e6bdb4977"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80713 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: io_uring: duy trì các hạn chế nhiệm vụ trên exec Các hạn chế theo nhiệm vụ áp dụng cho al",
   "key": "aa6b7c5e2fd41d384fe84895ebe73067761c790e"
  },
  {
@@ -11329,7 +12012,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/06d1d9b56ef8132fbf85006885eb43d9510b8b02"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80714 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: ipvs: không lan truyền cờ một gói đến các kết nối được đồng bộ hóa Các kết nối được đồng bộ hóa có thể là c",
   "key": "548b8fec0831e6adcc7c844b39e6c6fb5730ac81"
  },
  {
@@ -11347,7 +12030,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/3b5aee6fcbf6b58112d40d19c8d31fa3f78ee668"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80715 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: igc: remove napi_synchronize() trong igc_down() Khi một ứng dụng AF_XDP không có bản sao",
   "key": "692ecd7d158c0f4c39a25ca0ab4cfcffba257094"
  },
  {
@@ -11365,7 +12048,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/1c1b7e8e545ce65e40f65b55c432765e058ea98f"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80716 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ALSA: pcm: wake linked drain waiters on unlink snd_pcm_drain() trên luồng được liên kết",
   "key": "0130b066e3574031bdf88d7ccf3cb39cdb47fad6"
  },
  {
@@ -11383,7 +12066,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/17b412468c7a44f66a385bda48cdc1e94e39bd6d"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80717 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: sctp: validate Adaptation Indication parameter length The Adaptation Layer Indicat",
   "key": "ad9e6687d5a5f475047fc790aba8fcf3473d4901"
  },
  {
@@ -11401,7 +12084,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/01504da375f5b19df195cb1cb1cf1dd184318f97"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80718 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: mm/percpu-km: khắc phục tràn bitmap và hạch toán trong pcpu_create_chunk() Trong pcpu_cr",
   "key": "b0d1570a7c8662a11b134dab753645bb6798c838"
  },
  {
@@ -11419,7 +12102,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/de4660898b7aa7e03d3b120a6bfa6b26211e4e77"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80719 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: mm: mglru: sửa các bản cập nhật hàng loạt cũ sau khi memcg reparenting Bảng trang mglru wa",
   "key": "3b993c869abbe8587c69fefb5721d2b340a0f5be"
  },
  {
@@ -11437,7 +12120,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/4a869be56e9f6ce7462abcf324ebdefc5de051be"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80720 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: iomap: thêm một bio_set riêng cho iomap_split_ioend iomap_split_ioend có thể tách bi",
   "key": "1964a474e33330cb7a634ff3d152078b11dd50aa"
  },
  {
@@ -11455,7 +12138,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/aa9f7cb2bd3a2be998ceb739fc9a2f986eba43eb"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80721 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: Bluetooth: ISO: đảm bảo không có tham chiếu hcon lơ lửng trong iso_conn Sau iso_conn_del(",
   "key": "a4d27a017274695af18fda86241e59f6482ebc0d"
  },
  {
@@ -11473,7 +12156,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0502d5077e419427d80f4d46ba95d0067f5fb916"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80722 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: wifi: mac80211: xác thực các tham số TWT riêng lẻ trước khi thiết lập trình điều khiển ieee80211_proce",
   "key": "b0d317d49a43cb50fc76a705cc237d63c1de6fee"
  },
  {
@@ -11491,7 +12174,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/68d27250c9e81ab7764603e346c2b1017cb53adf"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80723 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: of: reserved_mem: ngăn chặn OOB khi quá nhiều vùng động được xác định Khi khởi động, f",
   "key": "351d3012eb9114999579e281e99676d9a190ce58"
  },
  {
@@ -11509,7 +12192,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/2496e141827102d6af512950057d402a2cfb2bfc"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80724 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ptp: vmclock: ngăn ánh xạ chỉ đọc trở thành vmclock_miscdev_mm có thể ghi được",
   "key": "e3274af985efd02abefa9fe4c247917dabf5eb97"
  },
  {
@@ -11527,7 +12210,7 @@
    "cvss": 6.5,
    "ref": "https://www.tenable.com/security/research/tra-2026-57"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82123 — Lỗ hổng trung hòa đầu vào không đúng cách trong quá trình tạo trang web ('tập lệnh chéo trang web') trong Logic & Vòng lặp hữu hình",
   "key": "3434495c663b22c0d908db97243a2b8254007605"
  },
  {
@@ -11545,7 +12228,7 @@
    "cvss": 4.3,
    "ref": "https://www.synology.com/en-global/security/advisory/Synology_SA_26_10"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-9491 — Lỗ hổng giả mạo yêu cầu phía máy chủ (SSRF) trong webhook trong Synology Chat Server before 2",
   "key": "2aa5e1d1a8a7873242bb5c05537e8e9ab5d56509"
  },
  {
@@ -11563,7 +12246,7 @@
    "cvss": 6.5,
    "ref": "https://www.synology.com/en-global/security/advisory/Synology_SA_26_10"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-9548 — Trung hòa đầu vào không đúng cách trong quá trình tạo trang web ('Cross-site Scripting') lỗ hổng trong tên miền trích xuất trong Synology Chat Server trước",
   "key": "9fe5707c69de45f2bdd7a1d7ffad2c7051c2414a"
  },
  {
@@ -73272,719 +73955,5 @@
   },
   "title_vi": "",
   "key": "923ba287566dce1ee6203635d5b68a5f73c0dbb9"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79263 — Race condition in Extensions in Google Chrome prior to 152",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79263",
-  "published": "2026-08-25T21:18:20.887",
-  "summary": "Race condition in Extensions in Google Chrome prior to 152.0.7977.65 allowed a remote attacker to execute arbitrary code inside the sandbox via crafted network traffic. (Chromium security severity: Low)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79263",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0256176589.html"
-  },
-  "title_vi": "",
-  "key": "bb2b53f37021aa98d20623b2d60142f1114bb4e1"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79264 — Incorrect reference resolution in Preload in Google Chrome prior to 152",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79264",
-  "published": "2026-08-25T21:18:21.000",
-  "summary": "Incorrect reference resolution in Preload in Google Chrome prior to 152.0.7977.65 allowed a remote attacker to bypass web origin policy via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79264",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0256176589.html"
-  },
-  "title_vi": "",
-  "key": "8852bf941ab56c73fcb4fa09f7811821e979d3a8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79265 — Incomplete cleanup in GetUserMedia in Google Chrome prior to 152",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79265",
-  "published": "2026-08-25T21:18:21.107",
-  "summary": "Incomplete cleanup in GetUserMedia in Google Chrome prior to 152.0.7977.65 allowed a remote attacker who had compromised the renderer process and leveraged social engineering to obtain sensitive information via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79265",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0256176589.html"
-  },
-  "title_vi": "",
-  "key": "42852c7e8d00d0687294420312d68e1b848bbb6e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79266 — Use after free in DevTools in Google Chrome prior to 152",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79266",
-  "published": "2026-08-25T21:18:21.213",
-  "summary": "Use after free in DevTools in Google Chrome prior to 152.0.7977.65 allowed a remote attacker leveraging social engineering to execute arbitrary code inside the sandbox via a crafted Chrome extension. (Chromium security severity: Medium)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79266",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0256176589.html"
-  },
-  "title_vi": "",
-  "key": "8350968616ee1bb4c0fdf9b5b48c494269a0d4e8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79267 — Race condition in Workers in Google Chrome prior to 152",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79267",
-  "published": "2026-08-25T21:18:21.323",
-  "summary": "Race condition in Workers in Google Chrome prior to 152.0.7977.65 allowed a remote attacker who had compromised the renderer process to bypass web origin policy via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79267",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0256176589.html"
-  },
-  "title_vi": "",
-  "key": "a173042be35460d1ef298b8d923c97db6343963f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79269 — Uninitialized resource in ANGLE in Google Chrome prior to 152",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79269",
-  "published": "2026-08-25T21:18:21.430",
-  "summary": "Uninitialized resource in ANGLE in Google Chrome prior to 152.0.7977.65 allowed a remote attacker to potentially bypass web origin policy via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79269",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0256176589.html"
-  },
-  "title_vi": "",
-  "key": "f41c0b8c9f697bfddb9810b537d59bcd8a7d5962"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79270 — Uninitialized resource in ANGLE in Google Chrome prior to 152",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79270",
-  "published": "2026-08-25T21:18:21.540",
-  "summary": "Uninitialized resource in ANGLE in Google Chrome prior to 152.0.7977.65 allowed a remote attacker to read memory outside the sandbox via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79270",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0256176589.html"
-  },
-  "title_vi": "",
-  "key": "0be4cf2385fec56dabc82b7367f93d8866245f05"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79271 — Information leak in DOM in Google Chrome prior to 152",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79271",
-  "published": "2026-08-25T21:18:21.650",
-  "summary": "Information leak in DOM in Google Chrome prior to 152.0.7977.65 allowed a remote attacker leveraging social engineering to obtain sensitive information via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79271",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0256176589.html"
-  },
-  "title_vi": "",
-  "key": "3e1f217c1197b25d7eee868d7a4d6a64571c76c0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79272 — Improper input validation in FindInPage in Google Chrome prior to 152",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79272",
-  "published": "2026-08-25T21:18:21.760",
-  "summary": "Improper input validation in FindInPage in Google Chrome prior to 152.0.7977.65 allowed a remote attacker who had compromised the renderer process to leak cross-origin data via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79272",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0256176589.html"
-  },
-  "title_vi": "",
-  "key": "54c6478c59b709d4ac414a2d4a178847ff7b2144"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79273 — Incorrect reference resolution in WebView in Google Chrome on on Android prior to 152",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79273",
-  "published": "2026-08-25T21:18:21.870",
-  "summary": "Incorrect reference resolution in WebView in Google Chrome on on Android prior to 152.0.7977.65 allowed a remote attacker to potentially bypass web origin policy via a crafted HTML page. (Chromium security severity: Low)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79273",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0256176589.html"
-  },
-  "title_vi": "",
-  "key": "ecf033472f4e72d82f121b954c6bc9fd9bc8fdeb"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79274 — Information leak in GPU in Google Chrome prior to 152",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79274",
-  "published": "2026-08-25T21:18:21.983",
-  "summary": "Information leak in GPU in Google Chrome prior to 152.0.7977.65 allowed a remote attacker to obtain cross-origin data via a crafted HTML page. (Chromium security severity: High)",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79274",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0256176589.html"
-  },
-  "title_vi": "",
-  "key": "21b56f606b83a9fdbc236b9c10646c6a97c57931"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79275 — Use after free in ANGLE in Google Chrome prior to 152",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79275",
-  "published": "2026-08-25T21:18:22.090",
-  "summary": "Use after free in ANGLE in Google Chrome prior to 152.0.7977.65 allowed a remote attacker to execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: High)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79275",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0256176589.html"
-  },
-  "title_vi": "",
-  "key": "ca6c50674fb382d532502b0fd6cdfa28f832979b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79276 — Improper privilege management in FileSystem in Google Chrome prior to 152",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79276",
-  "published": "2026-08-25T21:18:22.200",
-  "summary": "Improper privilege management in FileSystem in Google Chrome prior to 152.0.7977.65 allowed a remote attacker leveraging social engineering to bypass system access restrictions via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79276",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0256176589.html"
-  },
-  "title_vi": "",
-  "key": "c20cf90fc3e45bae2f8af415af70b1f820c0d883"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79282 — Use after free in ANGLE in Google Chrome on on Android prior to 152",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79282",
-  "published": "2026-08-25T21:18:22.307",
-  "summary": "Use after free in ANGLE in Google Chrome on on Android prior to 152.0.7977.65 allowed a remote attacker to execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: Critical)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79282",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0256176589.html"
-  },
-  "title_vi": "",
-  "key": "8b8ead855273ba48fe6a43519987675c1efba3c2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79283 — UI misrepresentation in Geometry in Google Chrome prior to 152",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79283",
-  "published": "2026-08-25T21:18:22.417",
-  "summary": "UI misrepresentation in Geometry in Google Chrome prior to 152.0.7977.65 allowed a remote attacker to spoof UI elements via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79283",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0256176589.html"
-  },
-  "title_vi": "",
-  "key": "6ff544e00bd75238d986650eb52af4cf2dc0e6ea"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79284 — UI misrepresentation in Core in Google Chrome on on Mac prior to 152",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79284",
-  "published": "2026-08-25T21:18:22.520",
-  "summary": "UI misrepresentation in Core in Google Chrome on on Mac prior to 152.0.7977.65 allowed a remote attacker who had compromised the renderer process to spoof UI elements via a crafted HTML page. (Chromium security severity: Low)",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79284",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0256176589.html"
-  },
-  "title_vi": "",
-  "key": "326fc67f2d720be43ebb4300c7f837043d74d8cc"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79285 — Uninitialized resource in ANGLE in Google Chrome on on Windows prior to 152",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79285",
-  "published": "2026-08-25T21:18:22.640",
-  "summary": "Uninitialized resource in ANGLE in Google Chrome on on Windows prior to 152.0.7977.65 allowed a remote attacker to obtain cross-origin data via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79285",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0256176589.html"
-  },
-  "title_vi": "",
-  "key": "8066d7e12013af934730c2cc1af9643f84f192c4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79286 — Missing authorization in CustomTabs in Google Chrome on on Android prior to 152",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79286",
-  "published": "2026-08-25T21:18:22.747",
-  "summary": "Missing authorization in CustomTabs in Google Chrome on on Android prior to 152.0.7977.65 allowed a local attacker to potentially execute arbitrary code outside the sandbox via a co-installed app. (Chromium security severity: Medium)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79286",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0256176589.html"
-  },
-  "title_vi": "",
-  "key": "a677bad559cf663eac3d2918f5ec961ef051033a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79287 — Observable discrepancy in Forms in Google Chrome prior to 152",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79287",
-  "published": "2026-08-25T21:18:22.860",
-  "summary": "Observable discrepancy in Forms in Google Chrome prior to 152.0.7977.65 allowed a remote attacker to obtain sensitive information via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79287",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0256176589.html"
-  },
-  "title_vi": "",
-  "key": "b43cf457174ffb79782df5a285c801162a4f4dea"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79288 — Improper input validation in Autofill in Google Chrome on on Android prior to 152",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79288",
-  "published": "2026-08-25T21:18:22.963",
-  "summary": "Improper input validation in Autofill in Google Chrome on on Android prior to 152.0.7977.65 allowed a remote attacker to obtain sensitive information via a crafted HTML page. (Chromium security severity: High)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79288",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0256176589.html"
-  },
-  "title_vi": "",
-  "key": "9e9fe1f787d359378b502fb5d220a3c568fb6bdf"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79289 — Improper control of a resource through its lifetime in Workers in Google Chrome prior to 152",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79289",
-  "published": "2026-08-25T21:18:23.077",
-  "summary": "Improper control of a resource through its lifetime in Workers in Google Chrome prior to 152.0.7977.65 allowed a remote attacker who had compromised the renderer process to bypass site isolation via a crafted HTML page. (Chromium security severity: Low)",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79289",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0256176589.html"
-  },
-  "title_vi": "",
-  "key": "8c629aece27682a7727ab4d486995cc85f86ded8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79290 — Use after free in Aura in Google Chrome prior to 152",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79290",
-  "published": "2026-08-25T21:18:23.197",
-  "summary": "Use after free in Aura in Google Chrome prior to 152.0.7977.65 allowed a remote attacker to execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: Critical)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79290",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0256176589.html"
-  },
-  "title_vi": "",
-  "key": "db84139651fade9f4d9b252eeeff53c3471aca4b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79291 — Information leak in CSS in Google Chrome prior to 152",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79291",
-  "published": "2026-08-25T21:18:23.300",
-  "summary": "Information leak in CSS in Google Chrome prior to 152.0.7977.65 allowed a remote attacker to obtain sensitive information via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79291",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0256176589.html"
-  },
-  "title_vi": "",
-  "key": "2279bb779979b2ebaad8d6537caa7c8f85b5c1b3"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79292 — Integer overflow in Chromecast in Google Chrome prior to 152",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79292",
-  "published": "2026-08-25T21:18:23.417",
-  "summary": "Integer overflow in Chromecast in Google Chrome prior to 152.0.7977.65 allowed a remote attacker who had compromised the renderer process to potentially execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: High)",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79292",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0256176589.html"
-  },
-  "title_vi": "",
-  "key": "ed54fdebe34205de72f014139720a872c5fba975"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79293 — Information leak in Animation in Google Chrome prior to 152",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79293",
-  "published": "2026-08-25T21:18:23.530",
-  "summary": "Information leak in Animation in Google Chrome prior to 152.0.7977.65 allowed a remote attacker to obtain sensitive information via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79293",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0256176589.html"
-  },
-  "title_vi": "",
-  "key": "2106863be29474a3d8f2c0e5a202c2fd392dfba9"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79792 — A flaw has been found in zackees transcribe-anything up to 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79792",
-  "published": "2026-08-25T21:18:23.660",
-  "summary": "A flaw has been found in zackees transcribe-anything up to 4.1.0. Affected is the function ytdlp_download of the file src/transcribe_anything/ytldp_download.py of the component Yt-dlp Download. This manipulation of the argument url causes os command injection. The attack may be initiated remotely. The attack's complexity is rated as high. The exploitability is told to be difficult. The exploit has been published and may be used. The project was informed of the problem early through an issue report but has not responded yet.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79792",
-   "cvss": 5.6,
-   "ref": "https://github.com/zackees/transcribe-anything/"
-  },
-  "title_vi": "",
-  "key": "41ce3769661a4c9b174859e0759ead6432df2cf8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79793 — A vulnerability has been found in code-projects Online Shopping System 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79793",
-  "published": "2026-08-25T21:18:23.847",
-  "summary": "A vulnerability has been found in code-projects Online Shopping System 1.0. Affected by this vulnerability is an unknown functionality of the file /admin/sumit_form.php. Such manipulation of the argument Success leads to cross site scripting. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79793",
-   "cvss": 4.3,
-   "ref": "https://code-projects.org/"
-  },
-  "title_vi": "",
-  "key": "bbad4c13310679a99fbd7b7b484f08ff5bfe0ea0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80101 — A flaw was found in the file-xwd plugin in GIMP",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80101",
-  "published": "2026-08-25T21:18:24.023",
-  "summary": "A flaw was found in the file-xwd plugin in GIMP. When processing a specially crafted XWD image file, the plugin validates the image width and bytes-per-line parameters independently rather than ensuring their combined values are consistent with the allocated buffer size. This incorrect validation leads to improper bounds checking, causing a heap out-of-bounds read. This issue can result in an application crash, leading to a denial of service, or a limited information disclosure of heap memory contents into the produced image.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80101",
-   "cvss": 4.4,
-   "ref": "https://access.redhat.com/security/cve/CVE-2026-80101"
-  },
-  "title_vi": "",
-  "key": "51237f9bd3ecc43bed169c3a470d3a9a23931909"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80104 — DB-GPT builds the destination path for an uploaded skill from the multipart filename without constraining it to the upload directory",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80104",
-  "published": "2026-08-25T21:18:24.163",
-  "summary": "DB-GPT builds the destination path for an uploaded skill from the multipart filename without constraining it to the upload directory. skill_upload in packages/dbgpt-app/src/dbgpt_app/openapi/api_v1/agentic_data_api.py takes file.filename as given and writes the request body to upload_dir / filename. A path composed with that operator discards the left operand when the right one is absolute and follows parent references otherwise, so a filename such as ../../../tmp/x or /tmp/x resolves outside the intended directory; nothing canonicalises the result, checks that it remains under the upload root",
-  "categories": [
-   "ai",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80104",
-   "cvss": 9.8,
-   "ref": "https://github.com/eosphoros-ai/DB-GPT"
-  },
-  "title_vi": "",
-  "key": "34a5f6596e3a1a6b691321fe9297fe594d75fea1"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-32637 — Velero is an open source tool for backing up, restoring, and migrating Kubernetes cluster resources and persistent volumes",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-32637",
-  "published": "2026-08-25T22:17:02.380",
-  "summary": "Velero is an open source tool for backing up, restoring, and migrating Kubernetes cluster resources and persistent volumes. Prior to 1.18.1, an attacker who compromises the backup object-storage backend can upload a malicious backup tarball containing parent-directory paths that escape the extraction directory during restore and overwrite sensitive files in the Velero pod filesystem. This issue is fixed in version 1.18.1.",
-  "categories": [
-   "cloud",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-32637",
-   "cvss": null,
-   "ref": "https://github.com/securego/gosec/issues/324"
-  },
-  "title_vi": "",
-  "key": "8bd5a23d33543dbf3672f2ae5d5fe6de1b930a80"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-38465 — A Stored XSS vulnerability in the donor avatar mouse-over text feature in GazellePW (GazellePosterWall) commit 86c4bedf727691b5a97af42a4864869d1844644",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-38465",
-  "published": "2026-08-25T22:17:03.020",
-  "summary": "A Stored XSS vulnerability in the donor avatar mouse-over text feature in GazellePW (GazellePosterWall) commit 86c4bedf727691b5a97af42a4864869d18446449 allows remote authenticated users to inject arbitrary JavaScript via the avatar_mouse_over_text parameter, which is stored and later rendered in avatar tooltip.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-38465",
-   "cvss": null,
-   "ref": "https://github.com/Mosasauroidea/GazellePW/blob/86c4bedf727691b5a97af42a4864869d18446449/app/Manager/Donation.php#L708"
-  },
-  "title_vi": "",
-  "key": "c08c6e2fef59b78d836d4103c8eb84af2aa2dd4a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-38466 — A Stored XSS vulnerability in the torrent remaster custom title feature in GazellePW (GazellePosterWall) commit 86c4bedf727691b5a97af42a4864869d184464",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-38466",
-  "published": "2026-08-25T22:17:03.160",
-  "summary": "A Stored XSS vulnerability in the torrent remaster custom title feature in GazellePW (GazellePosterWall) commit 86c4bedf727691b5a97af42a4864869d18446449 allows remote authenticated users to inject arbitrary JavaScript via the remaster_custom_title parameter, which is stored during torrent upload or edit and later rendered in torrent title output.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-38466",
-   "cvss": null,
-   "ref": "https://github.com/Mosasauroidea/GazellePW/blob/86c4bedf727691b5a97af42a4864869d18446449/app/Upload.php#L231"
-  },
-  "title_vi": "",
-  "key": "bf6edd6fbdaa832d7270b670df9c2c769eee83f0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-38467 — A SQL injection vulnerability in the tags manager in GazellePW (GazellePosterWall) commit 86c4bedf727691b5a97af42a4864869d18446449 allows remote authe",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-38467",
-  "published": "2026-08-25T22:17:03.280",
-  "summary": "A SQL injection vulnerability in the tags manager in GazellePW (GazellePosterWall) commit 86c4bedf727691b5a97af42a4864869d18446449 allows remote authenticated users with users_mod privileges to execute arbitrary SQL commands via the tagid or type parameter in a crafted POST request to tools.php?action=manage_tags.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-38467",
-   "cvss": null,
-   "ref": "https://github.com/Mosasauroidea/GazellePW/blob/86c4bedf727691b5a97af42a4864869d18446449/sections/tools/managers/manage_tags.php"
-  },
-  "title_vi": "",
-  "key": "84cc89dbb6bc747e5fee4aae87207d7b9f1f98cb"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-38468 — A SQL injection vulnerability in the country-code lookup endpoint in GazellePW (GazellePosterWall) commit 86c4bedf727691b5a97af42a4864869d18446449 all",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-38468",
-  "published": "2026-08-25T22:17:03.413",
-  "summary": "A SQL injection vulnerability in the country-code lookup endpoint in GazellePW (GazellePosterWall) commit 86c4bedf727691b5a97af42a4864869d18446449 allows remote authenticated users with users_view_ips privileges to execute arbitrary SQL commands via the ip parameter in a crafted request to tools.php?action=get_cc.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-38468",
-   "cvss": null,
-   "ref": "https://github.com/Mosasauroidea/GazellePW/blob/86c4bedf727691b5a97af42a4864869d18446449/classes/tools.class.php#L22"
-  },
-  "title_vi": "",
-  "key": "be3e07cb7f238d5c9c4b4b64b25c5d42b53e34b8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-38469 — A Stored XSS vulnerability in the custom bonus title feature in GazellePW (GazellePosterWall) commit 86c4bedf727691b5a97af42a4864869d18446449 allows r",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-38469",
-  "published": "2026-08-25T22:17:03.533",
-  "summary": "A Stored XSS vulnerability in the custom bonus title feature in GazellePW (GazellePosterWall) commit 86c4bedf727691b5a97af42a4864869d18446449 allows remote authenticated users to inject arbitrary JavaScript via the title parameter in /bonus.php and /user.php?action=staff_tool.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-38469",
-   "cvss": null,
-   "ref": "https://github.com/Mosasauroidea/GazellePW/blob/86c4bedf727691b5a97af42a4864869d18446449/app/Bonus.php#L202"
-  },
-  "title_vi": "",
-  "key": "94797f33589bc2dbccb4308f7da061734b20a442"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-38470 — A Broken access control vulnerability in the API user endpoint in GazellePW (GazellePosterWall) commit 86c4bedf727691b5a97af42a4864869d18446449 allows",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-38470",
-  "published": "2026-08-25T22:17:03.663",
-  "summary": "A Broken access control vulnerability in the API user endpoint in GazellePW (GazellePosterWall) commit 86c4bedf727691b5a97af42a4864869d18446449 allows unprivileged, authenticated users to enable or disable arbitrary user accounts via the req=disable or req=enable action using a normal user-created API token.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-38470",
-   "cvss": null,
-   "ref": "https://github.com/Mosasauroidea/GazellePW/blob/86c4bedf727691b5a97af42a4864869d18446449/app/API/User.php#L107"
-  },
-  "title_vi": "",
-  "key": "d7e157d043fb9dfd70b189fb0e28a72cae56a2ae"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-38472 — A Stored XSS vulnerability in forum reward comments in GazellePW (GazellePosterWall) commit 86c4bedf727691b5a97af42a4864869d18446449 allows remote att",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-38472",
-  "published": "2026-08-25T22:17:03.790",
-  "summary": "A Stored XSS vulnerability in forum reward comments in GazellePW (GazellePosterWall) commit 86c4bedf727691b5a97af42a4864869d18446449 allows remote attackers to inject arbitrary JavaScript via the c parameter in /forums.php?action=ajax_get_jf which is later rendered in the data-tooltip attribute in /forums.php?action=viewthread and interpreted as HTML by the Tooltipster configuration.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-38472",
-   "cvss": null,
-   "ref": "https://github.com/Mosasauroidea/GazellePW/blob/86c4bedf727691b5a97af42a4864869d18446449/sections/forums/ajax_get_jf.php#L27"
-  },
-  "title_vi": "",
-  "key": "38953ee4164da5ae6d70eefbd87a89b0e839bf8c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-38473 — A Stored XSS vulnerability in the subtitle deletion flow in GazellePW (GazellePosterWall) commit 86c4bedf727691b5a97af42a4864869d18446449 allows remot",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-38473",
-  "published": "2026-08-25T22:17:03.910",
-  "summary": "A Stored XSS vulnerability in the subtitle deletion flow in GazellePW (GazellePosterWall) commit 86c4bedf727691b5a97af42a4864869d18446449 allows remote authenticated users to inject arbitrary JavaScript via a crafted subtitle filename, which is stored during upload and later rendered in /subtitles.php?action=delete.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-38473",
-   "cvss": null,
-   "ref": "https://github.com/Mosasauroidea/GazellePW/blob/86c4bedf727691b5a97af42a4864869d18446449/sections/subtitles/delete.php#L25"
-  },
-  "title_vi": "",
-  "key": "905ee090a6f0c1afa924f55836cfb10ab373a5e2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-38474 — GazellePW (GazellePosterWall) commit 86c4bedf727691b5a97af42a4864869d18446449 suffers from a Broken access control vulnerability in the IP lock manage",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-38474",
-  "published": "2026-08-25T22:17:04.037",
-  "summary": "GazellePW (GazellePosterWall) commit 86c4bedf727691b5a97af42a4864869d18446449 suffers from a Broken access control vulnerability in the IP lock manager, which allows remote authenticated users to add, modify, or delete IP lock entries for arbitrary accounts via tools.php?action=iplock.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-38474",
-   "cvss": null,
-   "ref": "https://github.com/Mosasauroidea/GazellePW/blob/86c4bedf727691b5a97af42a4864869d18446449/classes/iplock.class.php#L48"
-  },
-  "title_vi": "",
-  "key": "e62cb4e795bc5938f2966bfbf368d62e954029f6"
  }
 ]
