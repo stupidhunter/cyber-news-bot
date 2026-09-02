@@ -1,5 +1,493 @@
 [
  {
+  "source": "AWS Security Blog",
+  "title": "Managing identity source transition for AWS IAM Identity Center",
+  "link": "https://aws.amazon.com/blogs/security/managing-identity-source-transition-for-aws-iam-identity-center/",
+  "published": "2026-09-02T20:36:31+00:00",
+  "summary": "September 2, 2026: This post was republished to include Active Directory migration strategies and automation for permission sets. AWS IAM Identity Center manages user access to Amazon Web Services (AWS) resources, including both AWS accounts and applications. You can use IAM Identity Center to create and manage user identities within the Identity Center identity store […]",
+  "categories": [
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Quản lý quá trình chuyển đổi nguồn nhận dạng cho Trung tâm nhận dạng AWS IAM",
+  "key": "489edb4e9a271a055d29f6b4871c48ea4d385259"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "DoD confirms ‘refrigeration disruption’ at military commissaries",
+  "link": "https://databreaches.net/2026/09/02/dod-confirms-refrigeration-disruption-at-military-commissaries/",
+  "published": "2026-09-02T20:25:53+00:00",
+  "summary": "DysruptionHub raised the suspicion flag yesterday, but couldn&#8217;t get a straight answer from DOD as to whether refrigeration outages at 14 commissaries represented a cyberattack. The Military Times fared no better: With more than a half-dozen commissaries on military bases in the continental U.S. reporting refrigeration outages this week, the Pentagon is acknowledging the problem... Source",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "DoD xác nhận ‘gián đoạn làm lạnh’ tại các ủy ban quân sự",
+  "key": "2b7ece34a54e8d9c25006b87c969e946a85c9480"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "Hackers expose donor data from Russian fundraisers for Ukrainians, political prisoners",
+  "link": "https://databreaches.net/2026/09/02/hackers-expose-donor-data-from-russian-fundraisers-for-ukrainians-political-prisoners/",
+  "published": "2026-09-02T20:23:19+00:00",
+  "summary": "Daryna Antoniuk reports: Hackers reportedly gained access to payment accounts used by two Russian fundraising projects supporting Ukrainians and political prisoners, exposing donor email addresses and limited payment card information. The unknown threat actor targeted Davayte, which raises money for civilians in Ukraine affected by Russia’s invasion, and You Are Not Alone, a project supporting... Source",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Tin tặc tiết lộ dữ liệu nhà tài trợ từ các quỹ gây quỹ của Nga cho người Ukraine, tù nhân chính trị",
+  "key": "a9e6c6d12498a5e0789d6f2c4fd140dc68723e25"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "Luminis Health facilities dealing with a cyberattack",
+  "link": "https://databreaches.net/2026/09/02/luminis-health-facilities-dealing-with-a-cyberattack/",
+  "published": "2026-09-02T20:19:06+00:00",
+  "summary": "Bridget Byrne reports: Luminis Health is experiencing a cybersecurity incident affecting certain systems across its organization, according to a Facebook post Tuesday. “Our priority remains providing safe, high-quality care to our patients,” the health system said in the post that went up around 6:45 p.m. “We understand the concern this may cause for our patients,... Source",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Các cơ sở y tế của Luminis đối phó với một cuộc tấn công mạng",
+  "key": "f7598888bc6f9db19daacd27d9be24295c39afb4"
+ },
+ {
+  "source": "DarkReading",
+  "title": "AI’s Vulnerability Surge May Be More Manageable Than First Feared",
+  "link": "https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared",
+  "published": "2026-09-02T21:14:06+00:00",
+  "summary": "New research suggests the coming Vulnpocalypse may not be so overwhelming for enterprise security teams — if they have the right strategies.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Sự gia tăng tính dễ bị tổn thương của AI có thể dễ quản lý hơn so với lo ngại ban đầu",
+  "key": "92ac9135f1afd12d9f89d88286ebb422319bd2be"
+ },
+ {
+  "source": "DarkReading",
+  "title": "SonicWall SMA 1000 Zero-Days Enable Unauthenticated RCE",
+  "link": "https://www.darkreading.com/vulnerabilities-threats/sonicwall-sma-1000-zero-days-unauthenticated-rce",
+  "published": "2026-09-02T20:43:59+00:00",
+  "summary": "The exploitation activity follows attacks earlier this summer on two other zero-day vulnerabilities in the vendor's edge devices.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "SonicWall SMA 1000 Zero-Days cho phép RCE chưa được xác thực",
+  "key": "dd1574fb414eb80f375dd76519c234723da09487"
+ },
+ {
+  "source": "DarkReading",
+  "title": "AI Gives Cybercriminals a Dangerous Time Advantage",
+  "link": "https://www.darkreading.com/threat-intelligence/ai-gives-cybercriminals-dangerous-time-advantage",
+  "published": "2026-09-02T19:46:31+00:00",
+  "summary": "Former cybercriminal Brett Johnson provides a look inside the mind of a threat actor and discusses where AI provides the most value for attackers.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "AI mang lại cho tội phạm mạng một lợi thế về thời gian nguy hiểm",
+  "key": "9c1c8b13d2c5c4cf670efd591186a86dabcf0f7c"
+ },
+ {
+  "source": "SecurityWeek",
+  "title": "OpenLeash Adds a Human Check to Risky AI Agent Actions",
+  "link": "https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/",
+  "published": "2026-09-02T19:30:00+00:00",
+  "summary": "The security tool intercepts potentially dangerous agent actions, blocking clear threats and requesting human approval when intent is uncertain. The post OpenLeash Adds a Human Check to Risky AI Agent Actions appeared first on SecurityWeek .",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "OpenLeash thêm kiểm tra của con người vào các hành động tác nhân AI rủi ro",
+  "key": "44907d9a42553eb05a2ffd3d2f146a55c7f44c12"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
+  "link": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
+  "published": "2026-09-02T18:27:49+00:00",
+  "summary": "Google on Wednesday announced Gemini 3.8 Flash Cyber, which it described as its most capable cybersecurity model, and has made it available to a set of trusted defenders via a new initiative called the Fairwind Program. \"The Fairwind Program gives high-priority defenders (like governments, healthcare providers, and telecommunications services) early access to advanced models that help them",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Google, Anthropic và OpenAI công bố các mô hình, biện pháp bảo vệ và chương trình truy cập AI trên mạng",
+  "key": "bea77444136683f4cf93d17aecb377f1ef07dc49"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-19117 — Under specific conditions, an attacker can register an attacker-controlled FIDO2 credential against a target account and then authenticate as that use",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19117",
+  "published": "2026-09-02T19:17:16.490",
+  "summary": "Under specific conditions, an attacker can register an attacker-controlled FIDO2 credential against a target account and then authenticate as\nthat user. This issue affects on-premises deployments only.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-19117",
+   "cvss": 9.8,
+   "ref": "https://delinea.com/security-advisories"
+  },
+  "title_vi": "CVE-2026-19117 - Trong các điều kiện cụ thể, kẻ tấn công có thể đăng ký thông tin xác thực FIDO2 do kẻ tấn công kiểm soát đối với tài khoản mục tiêu và sau đó xác thực khi sử dụng",
+  "key": "42b9d7298b3df3a4fbba0acec9bb1dc5ca9adf2d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84381 — HTTPX2 is a next generation HTTP client for Python",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84381",
+  "published": "2026-09-02T19:18:08.217",
+  "summary": "HTTPX2 is a next generation HTTP client for Python. Prior to 2.10.0, httpcore2 fails to start TLS in src/httpcore2/httpcore2/_sync/socks_proxy.py and src/httpcore2/httpcore2/_async/socks_proxy.py when the remote origin uses wss through a SOCKS5 proxy because the TLS upgrade condition only recognizes https. HTTPX2 exposes the flaw through Client.websocket() and AsyncClient.websocket() from 2.6.0 through 2.9.1, so the opening handshake, query parameters, Authorization headers, cookies, and subsequent frames can cross the proxy path in plaintext without certificate verification. An attacker contr",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84381",
+   "cvss": 8.1,
+   "ref": "https://github.com/pydantic/httpx2/commit/fb008dd700b761d955210d9692475c3e2f379453"
+  },
+  "title_vi": "CVE-2026-84381 — HTTPX2 là ứng dụng khách http thế hệ tiếp theo cho Python",
+  "key": "ac4574071cbdf3afe6360333b63a3e9c432e8d73"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84382 — HTTPX2 is a next generation HTTP client for Python",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84382",
+  "published": "2026-09-02T19:18:08.353",
+  "summary": "HTTPX2 is a next generation HTTP client for Python. Prior to 2.12.0, the HTTPX2 content decoders in src/httpx2/httpx2/_decoders.py fully inflate each gzip, deflate, br, or zstd network chunk before iter_bytes() or aiter_bytes() yields bounded pieces to the application. A 64 KiB compressed chunk can expand to approximately 64 MiB in one intermediate allocation, so an attacker-controlled or compromised server can cause severe memory pressure or out-of-memory process termination even when the application streams the response. This issue is fixed in version 2.12.0.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84382",
+   "cvss": 7.5,
+   "ref": "https://github.com/pydantic/httpx2/commit/4fd0c70a3f207c618b145934792f791bccfb39f8"
+  },
+  "title_vi": "CVE-2026-84382 — HTTPX2 là ứng dụng khách http thế hệ tiếp theo cho Python",
+  "key": "bf77b4d1a2bc2f82b5a4ef0083c47c374ce0bf46"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84839 — A vulnerability was determined in tsi-coop tsi-dpdp-cms up to 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84839",
+  "published": "2026-09-02T19:18:09.210",
+  "summary": "A vulnerability was determined in tsi-coop tsi-dpdp-cms up to 0.5.0. Affected by this issue is some unknown functionality of the file web.xml of the component Admin Console/DPO Compliance Console. Executing a manipulation can lead to missing authentication. It is possible to launch the attack remotely. The exploit has been publicly disclosed and may be utilized. Upgrading to version 0.5.1 can resolve this issue. It is suggested to upgrade the affected component.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84839",
+   "cvss": 5.3,
+   "ref": "https://github.com/mano257200/TSI-DPDP-CMS-Missing-Authentication/blob/main/README.md"
+  },
+  "title_vi": "CVE-2026-84839 — Một lỗ hổng được xác định trong tsi-coop tsi-dpdp-cms lên đến 0",
+  "key": "ed144a0088b7fb621d025781ea1bad24eb4fd025"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84840 — A vulnerability was identified in tsi-coop tsi-dpdp-cms up to 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84840",
+  "published": "2026-09-02T19:18:09.393",
+  "summary": "A vulnerability was identified in tsi-coop tsi-dpdp-cms up to 0.5.0. This affects an unknown part of the file InterceptingFilter.java of the component Bootstrap Setup Endpoint. The manipulation leads to missing authentication. The attack can be initiated remotely. The exploit is publicly available and might be used. Upgrading to version 0.5.1 is able to mitigate this issue. Upgrading the affected component is recommended.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84840",
+   "cvss": 6.5,
+   "ref": "https://github.com/mano257200/TSI-DPDP-CMS-Unauthenticated-Super-Admin-Bootstrap-Endpoint/blob/main/README.md"
+  },
+  "title_vi": "CVE-2026-84840 — Một lỗ hổng đã được xác định trong tsi-coop tsi-dpdp-cms lên đến 0",
+  "key": "6d97b525f8d18e54dd2e82437de6bc0639cd88c2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84841 — A security flaw has been discovered in tsi-coop tsi-dpdp-cms up to 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84841",
+  "published": "2026-09-02T19:18:09.580",
+  "summary": "A security flaw has been discovered in tsi-coop tsi-dpdp-cms up to 0.5.0. This vulnerability affects unknown code. The manipulation results in client-side enforcement of server-side security. The attack can be launched remotely. The exploit has been released to the public and may be used for attacks. Upgrading to version 0.5.1 is able to resolve this issue. It is recommended to upgrade the affected component.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84841",
+   "cvss": 7.3,
+   "ref": "https://github.com/mano257200/TSI-DPDP-CMS-Client-Side-Only-Authentication-Allows-Complete-Bypass-via-Direct-HTTP-Request/blob/main/README.md"
+  },
+  "title_vi": "CVE-2026-84841 — Một lỗ hổng bảo mật đã được phát hiện trong tsi-coop tsi-dpdp-cms lên đến 0",
+  "key": "59e5207a5f3c0175e120aede0e0323981dcd6516"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2023-20576 — Insufficient Verification of Data Authenticity in AGESA™ may allow an attacker to update SPI ROM data potentially resulting in denial of service or pr",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2023-20576",
+  "published": "2026-09-02T20:17:32.950",
+  "summary": "Insufficient Verification of Data Authenticity in AGESA™ may allow an attacker to update SPI ROM data potentially resulting in denial of service or privilege escalation.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2023-20576",
+   "cvss": 7.7,
+   "ref": "https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7009.html"
+  },
+  "title_vi": "CVE-2023-20576 — Xác minh không đủ tính xác thực dữ liệu trong AGESA™ có thể cho phép kẻ tấn công cập nhật dữ liệu SPI ROM có khả năng dẫn đến từ chối dịch vụ hoặc pr",
+  "key": "19c8dbf0dead0c97a8012ba122a9b11a220660d0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2023-20577 — A heap overflow in SMM module may allow an attacker with access to a second vulnerability that enables writing to SPI flash, potentially resulting in ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2023-20577",
+  "published": "2026-09-02T20:17:34.093",
+  "summary": "A heap overflow in SMM module may allow an attacker with access to a second vulnerability that enables writing to SPI flash, potentially resulting in arbitrary code execution.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2023-20577",
+   "cvss": 7.4,
+   "ref": "https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7009.html"
+  },
+  "title_vi": "CVE-2023-20577 — Một tràn heap trong mô-đun SMM có thể cho phép kẻ tấn công có quyền truy cập vào lỗ hổng thứ hai cho phép ghi vào flash SPI, có khả năng dẫn đến",
+  "key": "4c78f3537815e2c5a9899774082daf69d9398da4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-56855 — Previously, after a channel has been established, a malicious peer could send crafted messages that would deadlock the entire connection",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-56855",
+  "published": "2026-09-02T20:17:36.397",
+  "summary": "Previously, after a channel has been established, a malicious peer could send crafted messages that would deadlock the entire connection. Now, we handle all RFC 4254 channel messages; global requests are handled explicitly. Then, treat all other messages as a protocol error and tear the connection down instead of buffering and blocking.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-56855",
+   "cvss": null,
+   "ref": "https://go.dev/cl/826524"
+  },
+  "title_vi": "CVE-2026-56855 — Trước đây, sau khi một kênh đã được thiết lập, một kẻ ngang hàng độc hại có thể gửi tin nhắn được tạo ra sẽ làm tắc nghẽn toàn bộ kết nối",
+  "key": "3130e421da96d952159ebdf4311f46adec818b4d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75134 — SEOWriting plugin for WordPress through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75134",
+  "published": "2026-09-02T20:17:36.577",
+  "summary": "SEOWriting plugin for WordPress through 1.12.5 contains a stored cross-site scripting vulnerability that allows authenticated contributors to inject malicious JavaScript by exploiting an overly permissive KSES allowlist that explicitly permits the onload event handler on iframe elements. Attackers can store crafted JavaScript payloads in post content that execute when the affected post is viewed or previewed by higher-privileged users, potentially leading to privilege escalation or account compromise.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75134",
+   "cvss": 6.4,
+   "ref": "https://github.com/Elymaro/CVE/blob/main/WordPress/CVE-2026-75134.md"
+  },
+  "title_vi": "CVE-2026-75134 — Plugin SEOWriting cho WordPress thông qua 1",
+  "key": "50a622f85ac3ec7b0036fec604158d08a714631c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75135 — UpSignOn for Windows before 7",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75135",
+  "published": "2026-09-02T20:17:36.720",
+  "summary": "UpSignOn for Windows before 7.19.0 contains a sensitive data exposure vulnerability that allows local attackers to recover the master password and decrypt vault contents by reading a retained backup key from the process memory of UpSignOn.exe, even after the vault has been re-locked. Attackers can extract the backup key from process memory to decrypt the encrypted master password backup stored in v6-vault1.DATA.txt, then use the recovered master password to decrypt the main vault and export all password manager entries in cleartext.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75135",
+   "cvss": 6.1,
+   "ref": "https://upsignon.eu/en/resources/release-notes/app#7.19.0"
+  },
+  "title_vi": "CVE-2026-75135 — UpSignOn cho Windows trước 7",
+  "key": "3f9cb6cea86b6fdb670d9aa268289b42f1261cf5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75136 — UpSignOn for Windows before 7",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75136",
+  "published": "2026-09-02T20:17:36.877",
+  "summary": "UpSignOn for Windows before 7.19.0 contains an insecure credential storage vulnerability that allows local attackers to retrieve the biometric unlock key stored in the Windows PasswordVault API without triggering any authentication prompt. Attackers can access the stored biometric key from a standard local process within the same Windows session to decrypt the protected vault files and export the entire password manager contents in cleartext.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75136",
+   "cvss": 6.1,
+   "ref": "https://upsignon.eu/en/resources/release-notes/app#7.19.0"
+  },
+  "title_vi": "CVE-2026-75136 — UpSignOn cho Windows trước 7",
+  "key": "2dddc179284327772fc829d869adb74272e72b34"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75137 — UpSignOn for Windows before 7",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75137",
+  "published": "2026-09-02T20:17:37.033",
+  "summary": "UpSignOn for Windows before 7.19.0 contains a sensitive data exposure vulnerability that allows local attackers to recover cleartext vault data from process memory even after the application has been locked. Attackers can use the PROCESS_VM_READ permission to read the memory space of UpSignOn.exe and extract sensitive fields including entry names, URLs, usernames, passwords, TOTP secrets, and notes.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75137",
+   "cvss": 6.1,
+   "ref": "https://upsignon.eu/en/resources/release-notes/app#7.19.0"
+  },
+  "title_vi": "CVE-2026-75137 — UpSignOn cho Windows trước 7",
+  "key": "0ad4357adc596cb7c58c873c4519da403b085ea8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78662 — Previously, a channel registered in the mux's chanList is not usable until it is established",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78662",
+  "published": "2026-09-02T20:17:37.167",
+  "summary": "Previously, a channel registered in the mux's chanList is not usable until it is established. A malicious peer was able flood the channel's incomingRequests, deadlocking the entire connection. Now, we add an atomic established state, set when a channel becomes usable. Until such a time, handlePacket drops every packet other than the open confirmation/failure, without blocking and without tearing down the connection.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78662",
+   "cvss": null,
+   "ref": "https://go.dev/cl/826504"
+  },
+  "title_vi": "CVE-2026-78662 — Trước đây, một kênh được đăng ký trong chanList của mux không thể sử dụng được cho đến khi nó được thiết lập",
+  "key": "f9b7046c4235c4a9f1f21ec514906a36c2110634"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82524 — UnoPim before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82524",
+  "published": "2026-09-02T20:17:39.210",
+  "summary": "UnoPim before 2.1.5 contains an authenticated file upload vulnerability that allows authenticated administrators to upload arbitrary PHP files through the TinyMCE image upload endpoint due to missing file extension and MIME type validation. Attackers can upload a PHP web shell to the public storage disk and execute arbitrary operating system commands on the server by accessing the uploaded file at the URL returned in the server response.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82524",
+   "cvss": 7.2,
+   "ref": "https://ashutosh-jena.in/blog/remote-code-execution-rce-via-unrestricted-file-upload-in-unopim-v214"
+  },
+  "title_vi": "CVE-2026-82524 — UnoPim trước 2",
+  "key": "f84b5da5cec80158df2fc315351009a1ea54ab4b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84292 — fast-uri serializes the port component of a URI without validating it",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84292",
+  "published": "2026-09-02T20:17:39.543",
+  "summary": "fast-uri serializes the port component of a URI without validating it. When recomposing the authority, the userinfo and host components are escaped but the port is concatenated verbatim, so a port value that is not a sequence of digits can inject authority delimiters, demoting the intended host to userinfo and pointing the authority at an attacker-controlled host. Both fast-uri and Node's URL read the result back as the attacker's host with no error, so re-validating the built URI does not catch it. This affects applications that build URIs from parts and assign untrusted data to the port comp",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84292",
+   "cvss": 7.5,
+   "ref": "https://cna.openjsf.org/security-advisories.html"
+  },
+  "title_vi": "CVE-2026-84292 — fast-uri tuần tự hóa thành phần cổng của URI mà không xác thực nó",
+  "key": "5c7c1ab1c17eedab907e7bc0ec88fe924acb0812"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84452 — Windows ML CLI is a command line tool for building portable, performant, and high-quality AI models for Windows ML",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84452",
+  "published": "2026-09-02T20:17:41.350",
+  "summary": "Windows ML CLI is a command line tool for building portable, performant, and high-quality AI models for Windows ML. Prior to 0.4.0, the src/winml/modelkit/serve/cli_api.py component exposes WinML CLI commands through a localhost HTTP API without authentication and configures the allow_origins setting as a wildcard in both src/winml/modelkit/serve/cli_api.py and src/winml/modelkit/serve/app.py. A malicious website loaded by a user can send cross-origin requests to /v1/cli/build or /v1/cli/config and set the trust_remote_code parameter to true, which is converted to the --trust-remote-code comma",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84452",
+   "cvss": null,
+   "ref": "https://github.com/microsoft/winml-cli/commit/f4073e0ef4700a25b623487e7e45c421ca0b9993"
+  },
+  "title_vi": "CVE-2026-84452 — Windows ML CLI là một công cụ dòng lệnh để xây dựng các mô hình AI di động, hiệu suất và chất lượng cao cho Windows ML",
+  "key": "52a1ce0feaef498791521ed9a53854f1fc923d5a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84852 — A security vulnerability has been detected in Reader Tools PDF Reader App 98",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84852",
+  "published": "2026-09-02T20:17:42.050",
+  "summary": "A security vulnerability has been detected in Reader Tools PDF Reader App 98.8 on Android. The affected element is the function ActSplashNew.handleDeeplink of the component File Handler. The manipulation of the argument _display_name leads to path traversal. An attack has to be approached locally. The exploit has been disclosed publicly and may be used. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84852",
+   "cvss": 4.4,
+   "ref": "https://docs.google.com/document/d/1g8q6UDV2EBm0UfEz2tc1eVBSxXqX5Zk8Ei30FuKAYa8/edit?usp=sharing"
+  },
+  "title_vi": "CVE-2026-84852 — Một lỗ hổng bảo mật đã được phát hiện trong Reader Tools PDF Reader App 98",
+  "key": "a3a8acbb4d6cd3a8db9905c350861adf8daf26e3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84856 — A vulnerability was detected in rowboatlabs rowboat up to 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84856",
+  "published": "2026-09-02T20:17:42.563",
+  "summary": "A vulnerability was detected in rowboatlabs rowboat up to 0.9.1. The impacted element is the function request.text/req.json of the file apps/rowboat/app/api/composio/webhook/route.ts of the component Composio Webhook Endpoint. The manipulation results in denial of service. It is possible to launch the attack remotely. The exploit is now public and may be used. Upgrading to version 0.9.2 is sufficient to resolve this issue. Upgrading the affected component is recommended. The legacy Next.js app was deleted at 0.9.2 rather than patched, leaving no security control behind.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84856",
+   "cvss": 5.3,
+   "ref": "https://github.com/hackerguopeng/cve/tree/main/Rowboat_PreAuth_Body_Buffer_DoS_Report"
+  },
+  "title_vi": "CVE-2026-84856 — Một lỗ hổng đã được phát hiện trong rowboatabs rowboat lên đến 0",
+  "key": "f4ad874a66cc14bab01848e236cddb58d4351bc0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84857 — A flaw has been found in sigoden aichat up to 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84857",
+  "published": "2026-09-02T20:17:42.753",
+  "summary": "A flaw has been found in sigoden aichat up to 0.30.4. This affects an unknown function of the file src/serve.rs of the component API Endpoint. This manipulation causes uncontrolled memory allocation. The attack can be initiated remotely. The exploit has been published and may be used. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84857",
+   "cvss": 5.3,
+   "ref": "https://github.com/outlookgp/CVE/tree/main/AIChat_Serve_Request_Body_DoS_Report"
+  },
+  "title_vi": "CVE-2026-84857 — Một lỗ hổng đã được tìm thấy trong sigoden aichat lên đến 0",
+  "key": "fee8726b3e16d8f6f62612c5f7a23878290cc9d1"
+ },
+ {
   "source": "VietnamNet Công nghệ",
   "title": "Nhiều doanh nghiệp tại Việt Nam sẵn sàng trả lương cao cho nhân sự mảng AI",
   "link": "https://vietnamnet.vn/luong-nhan-su-mang-ai-tai-viet-nam-cao-hon-cac-vi-tri-khac-tu-10-50-2329599.html",
@@ -219,7 +707,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Bảo mật tác nhân: Phát hiện và phản hồi ở tốc độ máy",
   "key": "a79b402037546b09d55e0e3160e1684d83156169"
  },
  {
@@ -346,7 +834,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Các đại lý AI hiện đang gửi email cho tôi với những lo ngại về bảo mật của họ",
   "key": "1afdad2e1284d1f1ffaf086c6139c46cbc20961a"
  },
  {
@@ -472,7 +960,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Công dân Nga phải đối mặt với 20 năm vì chiến dịch phần mềm độc hại đã lây nhiễm 80.000 người hành nghề tự do",
   "key": "c4b6376760c994769156d04f7225a4428fc8fa83"
  },
  {
@@ -2110,7 +2598,7 @@
    "cvss": null,
    "ref": "https://github.com/nuclio/nuclio/commit/86d4e39387d8845f567649201798800830f08411"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-79756 - Nuclio là khung \"Không có máy chủ\" cho các sự kiện thời gian thực và xử lý dữ liệu",
   "key": "03d4b9b58b5d7f6d9e9d742f11f3afca13b1e1d1"
  },
  {
@@ -2129,7 +2617,7 @@
    "cvss": 8.3,
    "ref": "https://github.com/toon-format/toon/commit/94a2b7560b2b5ed903a4d466a3bce8b13daa2660"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82404 - TOON là một chuỗi dữ liệu JSON nhỏ gọn, có thể đọc được bởi con người cho các lời nhắc LLM",
   "key": "8968aef846b029056e20b9521a482dfe7e56fa57"
  },
  {
@@ -2147,7 +2635,7 @@
    "cvss": null,
    "ref": "https://github.com/withastro/astro/commit/05763a0884aabb1da78a2749d5bb9d41ae620527"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84376 — Astro là một khung web cho các trang web hướng nội dung",
   "key": "148421ca314e7d315717f43c26e0981770e1b175"
  },
  {
@@ -2165,7 +2653,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/Tencent/AI-Infra-Guard"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84809 - Thành phần quét kỹ năng của Tencent AI-Infra-Guard loại trừ các tệp bytecode Python đã biên dịch khỏi phân tích bằng cách mã hóa cứng __pycache__ thư mục và",
   "key": "e4456ae4494b50e20bc5d1a20198a9bbf8d28445"
  },
  {
@@ -2184,7 +2672,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/claude-world/claude-skill-antivirus"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84810 — claude-skill-antivirus không phân tích được các tệp thực thi khi quét các thư mục kỹ năng cục bộ, chỉ đọc KỸ NĂNG",
   "key": "0ef351729fdd6327c26bd1ec245afda2d14b5526"
  },
  {
@@ -2202,7 +2690,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/agentverus/agentverus-scanner"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84811 — agentverus-scanner không phân tích được các tệp bytecode Python đã biên dịch trong các thư mục mã đồng hành, cho phép kẻ tấn công bỏ qua quét bảo mật bằng sh",
   "key": "bde84da724765a08da9bdacd56a400bbb847106b"
  },
  {
@@ -2221,7 +2709,7 @@
    "cvss": null,
    "ref": "https://github.com/malach-it/boruta-server/releases/tag/0.10.0"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-49249 — Boruta là một máy chủ ủy quyền độc lập nhằm triển khai OAuth 2",
   "key": "01770807b09e1fa82829503d0b70a19b275bbeb6"
  },
  {
@@ -2239,7 +2727,7 @@
    "cvss": 4.4,
    "ref": "https://github.com/DSpace/DSpace/pull/12541"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-49830 - Phần mềm nguồn mở DSpace là một ứng dụng kho lưu trữ cung cấp quyền truy cập bền vững vào tài nguyên kỹ thuật số",
   "key": "aa274caad3040ea8d6a71475e95a9f037b189e22"
  },
  {
@@ -2257,7 +2745,7 @@
    "cvss": 5.5,
    "ref": "https://github.com/DSpace/DSpace/pull/12539"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-49831 - Phần mềm nguồn mở DSpace là một ứng dụng kho lưu trữ cung cấp quyền truy cập bền vững vào tài nguyên kỹ thuật số",
   "key": "ec3bd13ea9731b2b202a8af23d1fc4229f24731d"
  },
  {
@@ -2275,7 +2763,7 @@
    "cvss": 8.0,
    "ref": "https://github.com/DSpace/DSpace/pull/12548"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-49832 - Phần mềm nguồn mở DSpace là một ứng dụng kho lưu trữ cung cấp quyền truy cập bền vững vào tài nguyên kỹ thuật số",
   "key": "8b1ea78a1919912c3579ca858323992e116f3c51"
  },
  {
@@ -2294,7 +2782,7 @@
    "cvss": 5.5,
    "ref": "https://github.com/DSpace/DSpace/pull/12540"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-49833 - Phần mềm nguồn mở DSpace là một ứng dụng kho lưu trữ cung cấp quyền truy cập bền vững vào tài nguyên kỹ thuật số",
   "key": "827f3cbdbe2dce0986af05bfa550254841da87ff"
  },
  {
@@ -2313,7 +2801,7 @@
    "cvss": 9.6,
    "ref": "https://github.com/BishopFox/joro/releases/tag/1.1.1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-53649 — Joro là một khung khai thác web",
   "key": "8faa70a0cdbcb0befd4d6f123f47550d486e5e64"
  },
  {
@@ -2331,7 +2819,7 @@
    "cvss": null,
    "ref": "https://github.com/vbpf/prevail/commit/2b209bc4e3d612ff9aca87125e67c0ff84477e61"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-53670 — PREVAIL là Trình xác minh EBPF đa thức-thời gian chạy sử dụng Lớp diễn giải trừu tượng",
   "key": "9952b092963944b3cbfc3d1e648dc6d94e56fdb6"
  },
  {
@@ -2349,7 +2837,7 @@
    "cvss": null,
    "ref": "https://github.com/vbpf/prevail/commit/de65234f67d2608b54d12571edb585ead224363c"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-53671 — PREVAIL là Trình xác minh EBPF đa thức-thời gian chạy sử dụng Lớp diễn giải trừu tượng",
   "key": "433b24cced7b5490e42e9489385103159933d319"
  },
  {
@@ -2367,7 +2855,7 @@
    "cvss": null,
    "ref": "https://github.com/vbpf/prevail/commit/d3fab8c23a93d9a615bc741b254ab26391559e0f"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-53706 — PREVAIL là Trình xác minh EBPF đa thức-thời gian chạy sử dụng Lớp diễn giải trừu tượng",
   "key": "45b9db46ca70597b1589cc5abb58f30746b44ec2"
  },
  {
@@ -2387,7 +2875,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/malach-it/boruta-server/commit/5f8362aea39fdc2c6d6cfe41c6519985f32ba9b5"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-55221 — Boruta là một máy chủ ủy quyền độc lập nhằm triển khai OAuth 2",
   "key": "384902e04382eb215c61e3ec6b7967c1314218de"
  },
  {
@@ -2405,7 +2893,7 @@
    "cvss": 9.1,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-66786"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-66786 — Một lỗ hổng đã được tìm thấy trong tàu ngầm",
   "key": "0993592cd993b5355237ae6d00c69c5545a8b3f4"
  },
  {
@@ -2423,7 +2911,7 @@
    "cvss": null,
    "ref": "https://help.sonatype.com/en/sonatype-nexus-repository-3-95-0-release-notes.html"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-77121 — Tài khoản người dùng có quyền triển khai các tạo tác lên kho lưu trữ Maven được lưu trữ có thể tải lên tệp POM có chứa trường siêu dữ liệu quá khổ",
   "key": "523c7aea2c969d1d06e0ac1d804c3183926b4ab3"
  },
  {
@@ -2441,7 +2929,7 @@
    "cvss": null,
    "ref": "https://help.sonatype.com/en/sonatype-nexus-repository-3-96-0-release-notes.html"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-77122 — Một lỗ hổng ủy quyền trong điểm cuối chi tiết kho lưu trữ REST API (GET /service/REST/v1/repositories/{repositoryName}) trong Kho lưu trữ Nexus 3 của Sonatype",
   "key": "39febbf8875724779ade267cf5be0f690ce23d1d"
  },
  {
@@ -2459,7 +2947,7 @@
    "cvss": null,
    "ref": "https://help.sonatype.com/en/sonatype-nexus-repository-3-96-0-release-notes.html"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-77123 — Nexus Repository 3 chứa lỗ hổng tiết lộ thông tin nhạy cảm trong API đọc khả năng",
   "key": "cfb59e803cc33dfc55e844aca9d3334dca6b1147"
  },
  {
@@ -2477,7 +2965,7 @@
    "cvss": null,
    "ref": "https://help.sonatype.com/en/sonatype-nexus-repository-3-96-0-release-notes.html"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-77124 — Trong các phiên bản Nexus Repository 3 bị ảnh hưởng, điểm cuối thực thi tập lệnh (POST /service/rest/v1/script/{name}/run) không xác minh xem tập lệnh có thực thi hay không",
   "key": "782fbff8b65caa0beed6d11929aeb7419bb358d7"
  },
  {
@@ -2495,7 +2983,7 @@
    "cvss": null,
    "ref": "https://help.sonatype.com/en/sonatype-nexus-repository-3-96-0-release-notes.html"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-77125 — Một lỗ hổng đã được xác định trong Kho lưu trữ Nexus 3 của Sonatype, trong đó hai điểm cuối API REST quản lý nhóm blobstore không thực thi chính xác",
   "key": "b29cf67e02850dcf812355b9fc2abc1835f8976b"
  },
  {
@@ -2514,7 +3002,7 @@
    "cvss": 5.4,
    "ref": "https://github.com/libjxl/libjxl/commit/22ad80af1454f0444ea34115e49ed40517147d68"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82522 — libjxl trước 0",
   "key": "818bdc2feba7cf7c6495a1cdf282b1a0e2a59f14"
  },
  {
@@ -2534,7 +3022,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/BerriAI/litellm/commit/473f72e63a9777d793fbbf57194d8ec4fb97bc1b"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84377 — LiteLLM là một máy chủ proxy (Cổng AI) để gọi các API LLM ở định dạng OpenAI (hoặc gốc)",
   "key": "332725da23b8af4d66da7089a2c89a9ec8ffd676"
  },
  {
@@ -2553,7 +3041,7 @@
    "cvss": 5.9,
    "ref": "https://github.com/pydantic/httpx2/commit/cbfc0e04ef6507da29ccbb3b9c2e5b23dd693414"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84378 — HTTPX2 là ứng dụng khách http thế hệ tiếp theo cho Python",
   "key": "47fd1afcbea1b746467b251149d17558e4bb6504"
  },
  {
@@ -2571,7 +3059,7 @@
    "cvss": 5.3,
    "ref": "https://github.com/pydantic/httpx2/commit/de96d810ee4e309d118982fe7084a46a2bcd600d"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84379 — HTTPX2 là ứng dụng khách http thế hệ tiếp theo cho Python",
   "key": "ec420b06b4e832542eb290e727efc86da05e3024"
  },
  {
@@ -2589,7 +3077,7 @@
    "cvss": 5.6,
    "ref": "https://github.com/pydantic/httpx2/commit/829b93a2393212996f613e635261f777d9ec6eab"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84380 — HTTPX2 là ứng dụng khách http thế hệ tiếp theo cho Python",
   "key": "79aa94996e2a6f99379fc2351a0d92451732126a"
  },
  {
@@ -2607,7 +3095,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/outlookgp/CVE/tree/main/OpenBrowser_Message_Budget_DoS_Report"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84833 — Một lỗ hổng được tìm thấy trong trình duyệt mở ntegrals lên đến 067fc45d649baa961750da8e2f4a75d87c5c75c8",
   "key": "3240047c1c31576bda675d30412311842db2bce1"
  },
  {
@@ -73349,450 +73837,5 @@
   "extra": {},
   "title_vi": "",
   "key": "1a472fcdfee45752e404d602aa66c2180fcbd56e"
- },
- {
-  "source": "The Record",
-  "title": "Cyberattack on Manchester Airports Group exposes data of 8.7 million customers",
-  "link": "https://therecord.media/cyberattack-on-manchester-airports-group-exposes-millions-customer-info",
-  "published": "2026-08-27T13:15:00+00:00",
-  "summary": "A spokesperson told The Yorkshire Post that roughly 8.7 million people were impacted, although they did not provide a date range. They added that in the “vast majority” of cases, the only information accessed was an email address.",
-  "categories": [
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "f3510ab7f2fd3957ed451e0869530ca3a88f98c5"
- },
- {
-  "source": "The Record",
-  "title": "Australia charges two men for TeamPCP supply-chain hacking spree",
-  "link": "https://therecord.media/australia-teampcp-hackers-arrested",
-  "published": "2026-08-27T13:00:00+00:00",
-  "summary": "Two men in Australia were charged Wednesday over their alleged membership in TeamPCP, the cybercrime group blamed for one of the most damaging hacking campaigns of the past year.",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "22b78ae06383c49678941a84943b250cdebc1ca9"
- },
- {
-  "source": "The Record",
-  "title": "DOJ firearms agency says hackers breached system containing investigation targets",
-  "link": "https://therecord.media/doj-atf-cyberattack-qilin-ransomware",
-  "published": "2026-08-27T12:15:00+00:00",
-  "summary": "The Bureau of Alcohol, Tobacco, Firearms and Explosives confirmed it experienced a cyberattack on a system containing investigation information, as a prolific ransomware gang claimed to have carried out the breach.",
-  "categories": [
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "edf16c54dd6f90cc6e183b08ecc969fd7fbc7c96"
- },
- {
-  "source": "Krebs on Security",
-  "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
-  "link": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
-  "published": "2026-08-27T11:04:15+00:00",
-  "summary": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two unnamed suspects from Western Australia, aged 21 and 23, were arrested in connection with a \"sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of global businesses.\" The AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old sus",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "e7c6a6399ddcb254d7d8f26b9525e978bbd4f564"
- },
- {
-  "source": "SecurityWeek",
-  "title": "Trump Order Aims to Block Foreign Backdoors in US Power Grid Gear",
-  "link": "https://www.securityweek.com/trump-order-aims-to-block-foreign-backdoors-in-us-power-grid-gear/",
-  "published": "2026-08-27T14:17:26+00:00",
-  "summary": "The White House’s new executive order 14420 widens scrutiny of industrial control systems over cyber sabotage concerns. The post Trump Order Aims to Block Foreign Backdoors in US Power Grid Gear appeared first on SecurityWeek .",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "76bdde2fdaec6b211bf8b1ec3e71ded74fb9411a"
- },
- {
-  "source": "SecurityWeek",
-  "title": "Australia Arrests 2 Alleged TeamPCP Hackers",
-  "link": "https://www.securityweek.com/australia-arrests-2-alleged-teampcp-hackers/",
-  "published": "2026-08-27T12:48:03+00:00",
-  "summary": "Australian and US authorities collaborated to identify and charge the alleged cybercriminals, who face many years in prison. The post Australia Arrests 2 Alleged TeamPCP Hackers appeared first on SecurityWeek .",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "22ec3e4da1e9c622922b8d7a691653ef7150bc82"
- },
- {
-  "source": "SecurityWeek",
-  "title": "OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack",
-  "link": "https://www.securityweek.com/openai-agents-coordinated-via-makeshift-message-board-ahead-of-hugging-face-hack/",
-  "published": "2026-08-27T11:58:01+00:00",
-  "summary": "New training environments will teach AI models to distrust instructions arriving from other agents outside sanctioned channels. The post OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack appeared first on SecurityWeek .",
-  "categories": [
-   "ai"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "93a9803c75dfcfbcfb43cd600612b226e6b4c1b1"
- },
- {
-  "source": "SecurityWeek",
-  "title": "Okta Shares Surge on Strong Earnings, Growing Demand for AI Identity Security",
-  "link": "https://www.securityweek.com/okta-shares-surge-on-strong-earnings-growing-demand-for-ai-identity-security/",
-  "published": "2026-08-27T11:53:10+00:00",
-  "summary": "The identity security company beat quarterly expectations and raised its outlook as enterprises face growing pressure to secure AI agents and other non-human identities. The post Okta Shares Surge on Strong Earnings, Growing Demand for AI Identity Security appeared first on SecurityWeek .",
-  "categories": [
-   "ai",
-   "cloud"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "61083415ce6c71acb63b3b1b45b6c65b0f7449fb"
- },
- {
-  "source": "SecurityWeek",
-  "title": "CISO Conversations: Chris Wheeler – Trust Is the Job, From the Navy to the C-Suite",
-  "link": "https://www.securityweek.com/ciso-conversations-chris-wheeler-trust-is-the-job-from-the-navy-to-the-c-suite/",
-  "published": "2026-08-27T11:15:00+00:00",
-  "summary": "SecurityWeek talks to Chris Wheeler, CISO at Resilience, about his journey from the Navy to becoming a cybersecurity leader. The post CISO Conversations: Chris Wheeler – Trust Is the Job, From the Navy to the C-Suite appeared first on SecurityWeek .",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "c7c2e14eaf60c9d1a5c6714e084ab84997585d57"
- },
- {
-  "source": "SecurityWeek",
-  "title": "Cyberattack Causes Global Disruption at Boston Scientific",
-  "link": "https://www.securityweek.com/cyberattack-causes-global-disruption-at-boston-scientific/",
-  "published": "2026-08-27T10:18:27+00:00",
-  "summary": "The cybersecurity incident has disrupted Boston Scientific’s ability to process and ship customer orders. The post Cyberattack Causes Global Disruption at Boston Scientific appeared first on SecurityWeek .",
-  "categories": [
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "33aa10991809bdc1c6aefeecb3d8ee279a30d9ad"
- },
- {
-  "source": "SecurityWeek",
-  "title": "The Future of AI-Driven Security Depends on Complete Data",
-  "link": "https://www.securityweek.com/the-future-of-ai-driven-security-depends-on-complete-data/",
-  "published": "2026-08-27T10:00:00+00:00",
-  "summary": "For twenty-five years, \"data\" in security meant logs and events. But logs are a lossy representation of reality. The post The Future of AI-Driven Security Depends on Complete Data appeared first on SecurityWeek .",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "605b7e7d4a5e4a1d0ba757aa5c8a9f93a43cf742"
- },
- {
-  "source": "SecurityWeek",
-  "title": "US Disrupts Chinese Hacking Platform Used in Military and Critical Infrastructure Attacks",
-  "link": "https://www.securityweek.com/us-disrupts-chinese-hacking-platform-used-in-military-and-critical-infrastructure-attacks/",
-  "published": "2026-08-27T09:01:06+00:00",
-  "summary": "The operation focused on a group named QTFY, which offers hacking services to the Chinese government and others. The post US Disrupts Chinese Hacking Platform Used in Military and Critical Infrastructure Attacks appeared first on SecurityWeek .",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "64db698383f94b887388c5f91fd67ba4c6efa956"
- },
- {
-  "source": "SecurityWeek",
-  "title": "Pro-Russian Hackers Claim Responsibility for Major Cyberattack on Norway’s Public Digital Services",
-  "link": "https://www.securityweek.com/pro-russian-hackers-claim-responsibility-for-major-cyberattack-on-norways-public-digital-services/",
-  "published": "2026-08-27T08:00:00+00:00",
-  "summary": "The pro-Russian hacker group Server Killers claimed responsibility for the attack. The post Pro-Russian Hackers Claim Responsibility for Major Cyberattack on Norway’s Public Digital Services appeared first on SecurityWeek .",
-  "categories": [
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "b8f6e9044701c0d318b386475d2f22a4f3a92e31"
- },
- {
-  "source": "The Hacker News",
-  "title": "Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE",
-  "link": "https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html",
-  "published": "2026-08-27T15:13:00+00:00",
-  "summary": "Credit:&nbsp;Hacktron Vercel has released security patches for two critical-severity vulnerabilities in the Next.js web framework, both of which allow unauthenticated remote code execution, one exploitable via specially crafted AVIF image files and the other through a path traversal flaw affecting servers that use a Windows filesystem. The Windows path traversal, tracked as&nbsp;CVE-2026-75604&",
-  "categories": [
-   "cloud"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "3a1c9192f293f67828f8c6949e70cd3099670f81"
- },
- {
-  "source": "The Hacker News",
-  "title": "ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories",
-  "link": "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html",
-  "published": "2026-08-27T15:12:16+00:00",
-  "summary": "A fake login page. A fake security scan. A fake productivity app. Apparently, pretending to be useful is still one of the easier ways into a machine. The rest of the week gets stranger: botnets borrowing AI, command traffic hiding in public infrastructure, malicious tools waiting before showing their real behavior, exposed systems getting scanned, and exploit windows shrinking again. Different",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "6f827fe02eec1941b12d2f27c7b4d7d377e98da6"
- },
- {
-  "source": "The Hacker News",
-  "title": "Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers",
-  "link": "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html",
-  "published": "2026-08-27T13:39:56+00:00",
-  "summary": "Cybersecurity researchers have disclosed details of a vulnerability in Amazon Kiro, an artificial intelligence (AI)-powered, agentic integrated development environment (IDE), that could facilitate data exfiltration via prompt injection and Kiro Powers. The security flaw, which does not have a CVE identifier, works against Kiro IDE 0.7.45 on Windows, according to Mindguard. The latest version of",
-  "categories": [
-   "ai",
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "de4830faad793180ac50e134e84536b236653b39"
- },
- {
-  "source": "The Hacker News",
-  "title": "Learn How to Build Security Operations Ready for AI-Powered Attacks",
-  "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
-  "published": "2026-08-27T11:56:30+00:00",
-  "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover vulnerabilities, generate exploit code, and move through weaknesses faster than traditional security processes were built to handle. The challenge is no longer just finding another vulnerability or",
-  "categories": [
-   "ai"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "72f0ec645c06997cd48436648698922521f2d728"
- },
- {
-  "source": "The Hacker News",
-  "title": "Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks",
-  "link": "https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html",
-  "published": "2026-08-27T11:56:26+00:00",
-  "summary": "The Australian Federal Police (AFP) has charged two Western Australian men with a combined total of 14 offences over their alleged role in TeamPCP, the cybercrime group behind the March 2026 compromise of the open-source security scanners Trivy and Checkmarx KICS and the AI gateway LiteLLM. Louis Michael Gaebler, 23, and Ruben Ian Thomson, 21, appeared in Perth Magistrates Court on August 27,",
-  "categories": [
-   "ai"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "8d64420b7ec5c1e54333f52aab5ebc2630a6d8b1"
- },
- {
-  "source": "The Hacker News",
-  "title": "What the Data Says About AI in Security Operations in 2026",
-  "link": "https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html",
-  "published": "2026-08-27T11:30:00+00:00",
-  "summary": "AI is officially mainstream in security operations. According to Prophet Security's State of AI in Security Operations 2026 report (produced from ViB’s survey of 250+ cybersecurity pros), 40% of security teams now use AI daily. Another 56% are currently testing it out, and only 4% have no plans to adopt it. For the teams already using AI, what is actually changing? Here are the ten biggest",
-  "categories": [
-   "ai"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "60f28f74c1bdab520d81b85b101ee736e834cf98"
- },
- {
-  "source": "The Hacker News",
-  "title": "Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools",
-  "link": "https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html",
-  "published": "2026-08-27T11:00:57+00:00",
-  "summary": "Individuals and organizations in Cambodia have emerged as the target of a new campaign that delivers an open-source remote access trojan (RAT) called Spark RAT. \"The samples employ diverse lure themes, suggesting an effort to appeal to a broad range of potential victims. These include government notices, public health materials, real estate-related content, and other topics,\" Acronis Threat",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "6ccd9567bae57baf94d337453e7be2e14ed28d6a"
- },
- {
-  "source": "The Hacker News",
-  "title": "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
-  "link": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
-  "published": "2026-08-27T09:33:38+00:00",
-  "summary": "Threat actors linked by Arctic Wolf to Dark Caracal with medium confidence deployed a previously undocumented Go-based malware framework, GoCaracal, during a June 2026 intrusion at an unnamed communications organization in Venezuela. GoCaracal provides operators with remote shell access and payload execution, while the extended profile adds browser data theft, keylogging, remote desktop control",
-  "categories": [
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "cfa9cab4d0e043121952f7327fe80ab885ab1edd"
- },
- {
-  "source": "The Hacker News",
-  "title": "New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access",
-  "link": "https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html",
-  "published": "2026-08-27T08:13:11+00:00",
-  "summary": "Academic researchers have disclosed a Rowhammer attack impacting NVIDIA workstation GPUs with GDDR6 memory that defeats error correction codes (ECC), the mitigation NVIDIA recommends against GPU Rowhammer, and enables denial-of-service (DoS) and privilege escalation to a root shell. Dubbed GPUThor, the attack was developed by researchers at the University of Toronto, who hammered four DRAM",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "b6cf9d7c07d364f3fc359240bf54499c56524574"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2023-49105 — ownCloud Improper Authentication Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2023-49105",
-  "published": "2026-08-27",
-  "summary": "ownCloud contains an improper authentication vulnerability that allows an attacker to access, modify, or delete any file without authentication if the username of a victim is known, and the victim has no signing-key configured.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2023-49105",
-   "vendor": "ownCloud",
-   "product": "ownCloud",
-   "due_date": "2026-08-30",
-   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
-  },
-  "title_vi": "",
-  "key": "1c82e1b644a8c59a09acc2ec497d65369efdb84c"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2026-53362 — Linux Kernel Unspecified Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-53362",
-  "published": "2026-08-27",
-  "summary": "Linux Kernel contains an unspecified vulnerability that can allow for privilege escalation via IPv6 networking subsystem. This vulnerability can impact multiple products, including but not limited to Suse, Red Hat, and other products using Linux. ",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-53362",
-   "vendor": "Linux",
-   "product": "Kernel",
-   "due_date": "2026-08-30",
-   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
-  },
-  "title_vi": "",
-  "key": "c96b3f45a7d2b7b869a25dcf8e2941abe49d88f9"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2026-66384 — JFrog Artifactory Improper Limitation of a Pathname to a Restricted Directory Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66384",
-  "published": "2026-08-27",
-  "summary": "JFrog Artifactory contains an improper limitation of a pathname to a restricted directory vulnerability. This can allow an authenticated user to write data outside the intended Docker cache path under specific remote-repository conditions.",
-  "categories": [
-   "cloud",
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-66384",
-   "vendor": "JFrog",
-   "product": "Artifactory",
-   "due_date": "2026-09-10",
-   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
-  },
-  "title_vi": "",
-  "key": "7ca66e9dc033d033126844fbdf513613b03ca34e"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2026-73570 — Zimbra Collaboration Suite (ZCS) OS Command Injection Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73570",
-  "published": "2026-08-21",
-  "summary": "Zimbra Collaboration Suite (ZCS) contains an OS command injection vulnerability which could allow an unauthenticated attacker to send specially crafted SMTP requests that may result in execution of arbitrary operating system commands as the Zimbra user.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-73570",
-   "vendor": "Synacor",
-   "product": "Zimbra Collaboration Suite (ZCS)",
-   "due_date": "2026-08-24",
-   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
-  },
-  "title_vi": "",
-  "key": "adc5630b1fc3ac5c66097cbf0f412d1eec593108"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-27330 — Unauthenticated Broken Access Control in Mobile App for WooCommerce <= 0",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-27330",
-  "published": "2026-08-27T10:16:35.290",
-  "summary": "Unauthenticated Broken Access Control in Mobile App for WooCommerce <= 0.4.62 versions.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-27330",
-   "cvss": 8.6,
-   "ref": "https://patchstack.com/database/wordpress/plugin/mobile-app-for-woocommerce/vulnerability/wordpress-mobile-app-for-woocommerce-plugin-0-4-62-broken-access-control-vulnerability?_s_id=cve"
-  },
-  "title_vi": "CVE-2026-27330 - Kiểm soát truy cập bị hỏng chưa được xác thực trong ứng dụng dành cho thiết bị di động dành cho WooCommerce <= 0",
-  "key": "d71c480a0f74207da41eee4c42d99592b916a86f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-32479 — Unauthenticated SQL Injection in Visitor Traffic Real Time Statistics Pro <= 11",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-32479",
-  "published": "2026-08-27T10:16:35.543",
-  "summary": "Unauthenticated SQL Injection in Visitor Traffic Real Time Statistics Pro <= 11.17 versions.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-32479",
-   "cvss": 9.3,
-   "ref": "https://patchstack.com/database/wordpress/plugin/visitors-traffic-real-time-statistics-pro/vulnerability/wordpress-visitor-traffic-real-time-statistics-pro-plugin-11-17-sql-injection-vulnerability?_s_id=cve"
-  },
-  "title_vi": "CVE-2026-32479 - SQL Injection chưa được xác thực trong thống kê lưu lượng truy cập theo thời gian thực Pro <= 11",
-  "key": "165d464d80c71987504700327b8d860fcc73ee9d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-32550 — Subscriber SQL Injection in Kadence Shop Kit <= 3",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-32550",
-  "published": "2026-08-27T10:16:35.677",
-  "summary": "Subscriber SQL Injection in Kadence Shop Kit <= 3.0.6 versions.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-32550",
-   "cvss": 8.5,
-   "ref": "https://patchstack.com/database/wordpress/plugin/kadence-shop-kit/vulnerability/wordpress-kadence-shop-kit-plugin-3-0-6-sql-injection-vulnerability?_s_id=cve"
-  },
-  "title_vi": "CVE-2026-32550 — SQL Injection của người đăng ký trong Kadence Shop Kit <= 3",
-  "key": "174f77a75d4491348974d874c22ee1153a100cce"
  }
 ]
