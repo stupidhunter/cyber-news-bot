@@ -1,5 +1,393 @@
 [
  {
+  "source": "Tuổi Trẻ Công nghệ",
+  "title": "Mỹ thúc G20 'mở đường' cho AI sử dụng tác phẩm có bản quyền",
+  "link": "https://tuoitre.vn/my-thuc-g20-mo-duong-cho-ai-su-dung-tac-pham-co-ban-quyen-100260903101438168.htm",
+  "published": "2026-09-03T08:32:11.938685+00:00",
+  "summary": "Tại cuộc họp G20, Mỹ kêu gọi cho phép AI sử dụng tác phẩm của tác giả, nghệ sĩ để huấn luyện mô hình, đồng thời bảo vệ quyền lợi của họ.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "05ab08838514ed0433bddd34cc37b7363516e8b8"
+ },
+ {
+  "source": "Tuổi Trẻ Công nghệ",
+  "title": "New York cấm học sinh lớp 8 trở xuống dùng AI, lo trẻ 'giao não' cho máy",
+  "link": "https://tuoitre.vn/new-york-cam-hoc-sinh-lop-8-tro-xuong-dung-ai-lo-tre-giao-nao-cho-may-100260903095918004.htm",
+  "published": "2026-09-03T08:32:11.938713+00:00",
+  "summary": "New York cấm học sinh lớp 8 trở xuống tại các trường công dùng AI vì lo công nghệ này ảnh hưởng tư duy của trẻ.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "d50600da73f43111d7f30bac12667f588dd93e57"
+ },
+ {
+  "source": "Thanh Niên Công nghệ",
+  "title": "Google n&acirc;ng cấp Gemini với sức mạnh đ&aacute;ng kinh ngạc",
+  "link": "https://thanhnien.vn/google-nang-cap-gemini-voi-suc-manh-dang-kinh-ngac-185260903102312985.htm",
+  "published": "2026-09-03T04:12:00+00:00",
+  "summary": "Google tiếp tục tăng tốc cuộc đua AI khi tr&igrave;nh l&agrave;ng Gemini 3.8 Flash, chỉ ba tuần sau phi&ecirc;n bản tiền nhiệm.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "54530852f8e9b67c60f50286b060aab79662b6ab"
+ },
+ {
+  "source": "GenK",
+  "title": "Huawei bất ngờ tung ra dòng nova 16s Series tại Đức với camera 200MP và pin 7.000mAh",
+  "link": "https://genk.vn/huawei-bat-ngo-tung-ra-dong-nova-16s-series-tai-duc-voi-camera-200mp-va-pin-7000mah-165260903103243424.chn",
+  "published": "2026-09-03T08:32:04.359670+00:00",
+  "summary": "Tại thành phố Munich, Đức, Huawei vừa chính thức giới thiệu dòng điện thoại nova 16s Series tới thị trường toàn cầu. Bộ đôi sản phẩm mới này nhanh chóng gây ấn tượng mạnh mẽ nhờ camera 200MP, các tính năng AI thông minh, pin 7.000mAh và độ bền cao.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "7a83c9f0f1ae608097e8f48015d6cf5aecbce3ac"
+ },
+ {
+  "source": "VnExpress Số hóa",
+  "title": "Robot hình người 'tấn công' khách khi bị đẩy",
+  "link": "https://vnexpress.net/robot-hinh-nguoi-tan-cong-khach-khi-bi-day-5116030.html",
+  "published": "2026-09-03T05:03:07+00:00",
+  "summary": "Một robot hình người đã phản ứng lại một vị khách sau khi người này đẩy nó lùi về phía sau.",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "83bdca6237be94ac031151f7be7deba21f71535c"
+ },
+ {
+  "source": "Cloudflare Blog",
+  "title": "Say it once: Introducing Bot Preference Sync",
+  "link": "https://blog.cloudflare.com/bot-preference-sync/",
+  "published": "2026-08-21T23:19:57+00:00",
+  "summary": "Cloudflare's new Bot Preference Sync automatically aligns your robots.txt file with your AI bot policies for Search, Agent, and Training. Easily manage which bots access your content without maintaining static files.",
+  "categories": [
+   "ai",
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Nói một lần: Giới thiệu Bot Preference Sync",
+  "key": "c73c4b28d220c04af73dcc93ea5ce0bc9b7dcbd4"
+ },
+ {
+  "source": "AWS Security Blog",
+  "title": "Extend Amazon Bedrock Guardrails to Tool Interactions Using the Strands Agents SDK",
+  "link": "https://aws.amazon.com/blogs/security/extend-amazon-bedrock-guardrails-to-tool-interactions-using-the-strands-agents-sdk/",
+  "published": "2026-08-27T16:20:05+00:00",
+  "summary": "If you’re running AI agents in production, Amazon Bedrock Guardrails protects the model boundary. But your agents also invoke tools, fetch external data, and communicate with other systems. That data flows outside the model boundary, where model-level guardrails can’t reach. You can extend guardrail coverage to those interactions using three validation checkpoints built with the […]",
+  "categories": [
+   "ai",
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Mở rộng Amazon Bedrock Guardrails để tương tác với công cụ bằng cách sử dụng Strands Agents SDK",
+  "key": "f4be394dcd8ed0c555309baab0d09c2e85521aba"
+ },
+ {
+  "source": "OpenAI News",
+  "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+  "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+  "published": "2026-08-27T09:00:00+00:00",
+  "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Câu trả lời tốt hơn, tư duy rộng hơn: Những gì sinh viên đạt được từ ChatGPT và đào tạo tư duy phản biện",
+  "key": "5d976ff19c44c016e4e3a1abdb96043283b80d1b"
+ },
+ {
+  "source": "OpenAI News",
+  "title": "Expanding OpenAI’s presence in Brazil",
+  "link": "https://openai.com/index/expanding-our-presence-in-brazil",
+  "published": "2026-08-27T03:00:00+00:00",
+  "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Mở rộng sự hiện diện của OpenAI tại Brazil",
+  "key": "70c9f39d74f2d7f14137f6bbb9425cceeec4105c"
+ },
+ {
+  "source": "Schneier on Security",
+  "title": "LLM-Based Social Engineering Scams",
+  "link": "https://www.schneier.com/blog/archives/2026/08/llm-based-social-engineering-scams.html",
+  "published": "2026-08-27T09:56:56+00:00",
+  "summary": "OpenAI disrupted a social engineering group from Cambodia that used ChatGPT. Its scope is impressive: The network simultaneously conducted multiple types of scams, often blending elements from different schemes. For instance, operators used dating personas to build trust before introducing fraudulent investment opportunities involving cryptocurrencies and spot gold trading. Other users engaged in lengthy romantic conversations with targets using fictitious identities, posed as representatives of online gambling platforms offering fake bonuses and winnings, or impersonated law enforcement agenc",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Lừa đảo phi kỹ thuật dựa trên LLM",
+  "key": "e56181d9f0d58940f91000b8660d5102d1657331"
+ },
+ {
+  "source": "Talos Blog",
+  "title": "“Sorry, I can’t help with that”: How your guardrails might become the attacker’s best friend",
+  "link": "https://blog.talosintelligence.com/sorry-i-cant-help-with-that-how-your-guardrails-might-become-the-attackers-best-friend/",
+  "published": "2026-08-27T18:00:24+00:00",
+  "summary": "In his first Threat Source newsletter, David Bianco explores the critical need for operational sovereignty in customizing AI guardrails to maintain the defender’s advantage.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "“Xin lỗi, tôi không thể giúp được”: Làm thế nào để lan can của bạn có thể trở thành người bạn thân nhất của kẻ tấn công",
+  "key": "253ce4126bc62f2e26382a173794c2796b401bf6"
+ },
+ {
+  "source": "Talos Blog",
+  "title": "JavaScript obfuscation: From party trick to phishing kit",
+  "link": "https://blog.talosintelligence.com/javascript-obfuscation-from-party-trick-to-phishing-kit/",
+  "published": "2026-08-27T10:00:27+00:00",
+  "summary": "Learn the basics of what obfuscation is, why a researcher would try to reverse it, and several ways to approach the problem.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Che giấu mã JavaScript: Từ trò đùa vui nhộn đến bộ công cụ lừa đảo",
+  "key": "2cc00abad9480d8de7b1c6e1adafc91c3b09ecb2"
+ },
+ {
+  "source": "Unit 42",
+  "title": "Connecting the Dots: Securing the Overlooked Corners of the Software Development Lifecycle (SDLC) Supply Chain",
+  "link": "https://unit42.paloaltonetworks.com/sdlc-supply-chain/",
+  "published": "2026-08-21T23:00:21+00:00",
+  "summary": "Attackers are targeting CI/CD pipelines and developer tools instead of application code, requiring total SDLC visibility and strict security controls The post Connecting the Dots: Securing the Overlooked Corners of the Software Development Lifecycle (SDLC) Supply Chain appeared first on Unit 42 .",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Kết nối các điểm: Đảm bảo các góc bị bỏ qua của Chuỗi cung ứng Vòng đời Phát triển Phần mềm (SDLC)",
+  "key": "cd2acfd7ece816899d7cca03990bbeb11d276753"
+ },
+ {
+  "source": "DarkReading",
+  "title": "Agentic AI Risks, CVE Program Concerns Permeate Black Hat USA 2026",
+  "link": "https://www.darkreading.com/cybersecurity-operations/agentic-ai-risks-cve-program-concerns-black-hat-usa-2026",
+  "published": "2026-08-27T17:25:09+00:00",
+  "summary": "This installment of the Reporters' Notebook video series discusses the topics that dominated the cybersecurity conference, such as AI's effects on vulnerability reporting and security research.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Rủi ro AI đại lý, mối lo ngại của chương trình CVE cho phép Black Hat USA 2026",
+  "key": "699d031fb03d903a5a62a05a275199cc0fce7da2"
+ },
+ {
+  "source": "DarkReading",
+  "title": "Russian Hackers Phish EU Officials Over Messaging Apps",
+  "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-phish-eu-officials-messaging-apps",
+  "published": "2026-08-27T11:16:01+00:00",
+  "summary": "EU governments are trying to move away from popular messaging apps as nation-state threat groups shift their focus from email to Signal and WhatsApp.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Tin tặc Nga lừa đảo các quan chức EU qua các ứng dụng nhắn tin",
+  "key": "7e75c2cc0289b3cc2d538fa7c2e86e56d1a738af"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
+  "link": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
+  "published": "2026-09-03T06:26:59+00:00",
+  "summary": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike Falcon. \"FalconFlank is a 0day privilege escalation that abuses the office malicious macros remediation in CrowdStrike Falcon Sensor,\" the researcher said in a GitHub README file, adding",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Nhà nghiên cứu phát hành FalconFlank PoC cho thấy sự leo thang đặc quyền trong CrowdStrike Falcon",
+  "key": "94121c42c69859f8083d99853322c63cd469d09a"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
+  "link": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
+  "published": "2026-09-03T05:19:04+00:00",
+  "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs. The vulnerabilities are as follows - CVE-2026-83548 (CVSS score: 10.0) - A server-side request forgery vulnerability in SonicWall SMA 1000 Appliances that could allow a remote unauthenticated",
+  "categories": [
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "CISA thêm bảy lỗ hổng bị khai thác khi kẻ tấn công triển khai Reverse Shells và Crypto Miners",
+  "key": "6a2a81c07f91e5e824462fad124dd00959386867"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-66048 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66048",
+  "published": "2026-09-03T05:05:41.247",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-66048",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2026-66048 — Lý do bị từ chối: ID CVE này đã bị Cơ quan Đánh số CVE từ chối hoặc rút lại",
+  "key": "09fb66d86b2c02d3fca9ae3ec2fab84fa1aa9fc0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-66049 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66049",
+  "published": "2026-09-03T05:05:41.440",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-66049",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2026-66049 — Lý do bị từ chối: ID CVE này đã bị Cơ quan Đánh số CVE từ chối hoặc rút lại",
+  "key": "aa87d2ba77147869aa63af3a4aad81c8f5feb764"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84394 — fast-uri accepts a host that contains an unbalanced or misplaced authority bracket without reporting an error",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84394",
+  "published": "2026-09-03T05:16:38.680",
+  "summary": "fast-uri accepts a host that contains an unbalanced or misplaced authority bracket without reporting an error. A host that starts with an opening bracket but does not end with a closing bracket is neither validated as an IP literal nor canonicalized as a domain name, so parse() returns it as the host with error undefined, while Node's URL and the HTTP clients built on it resolve the same string to a different host. An application that reads the parsed host to make a host decision, such as an SSRF denylist, a redirect allowlist, or proxy routing, and then passes the original URL to an HTTP clie",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84394",
+   "cvss": 7.5,
+   "ref": "https://cna.openjsf.org/security-advisories.html"
+  },
+  "title_vi": "CVE-2026-84394 — fast-uri chấp nhận một máy chủ có khung thẩm quyền không cân bằng hoặc không đúng chỗ mà không báo cáo lỗi",
+  "key": "7178842ac98b533a1acfe2cbc13d6da7d5075151"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84851 — An uncontrolled recursion issue exists in Amazon Ion-C versions before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84851",
+  "published": "2026-09-03T05:16:46.640",
+  "summary": "An uncontrolled recursion issue exists in Amazon Ion-C versions before 1.1.6 that might allow a remote unauthenticated actor to craft Ion data that exhausts the native call stack and crashes the application using the library, resulting in a denial of service.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84851",
+   "cvss": 7.5,
+   "ref": "https://aws.amazon.com/security/security-bulletins/2026-094-aws/"
+  },
+  "title_vi": "CVE-2026-84851 - Một vấn đề đệ quy không được kiểm soát tồn tại trong các phiên bản Amazon Ion-C trước 1",
+  "key": "b6b3fad6eb9388ca97d208358dced762e40f3a8a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84885 — A vulnerability has been found in simular-ai Agent-S 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84885",
+  "published": "2026-09-03T05:16:47.010",
+  "summary": "A vulnerability has been found in simular-ai Agent-S 0.3.1/0.3.2. This impacts an unknown function of the file code_agent.py of the component CodeAgent. Such manipulation leads to denial of service. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84885",
+   "cvss": 4.3,
+   "ref": "https://github.com/outlookgp/CVE/tree/main/AgentS_CodeAgent_Tool_Output_DoS_Report"
+  },
+  "title_vi": "CVE-2026-84885 — Một lỗ hổng đã được tìm thấy trong simular-ai Agent-S 0",
+  "key": "2f152987a9de84267c92787fd8405d80826bbc41"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84886 — A vulnerability was determined in simular-ai Agent-S up to 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84886",
+  "published": "2026-09-03T05:16:47.167",
+  "summary": "A vulnerability was determined in simular-ai Agent-S up to 0.3.2. Affected by this vulnerability is the function ImageData of the file gui_agents/s1/utils/ocr_server.py of the component OCR HTTP API. Executing a manipulation of the argument img_bytes can lead to resource consumption. The attack may be launched remotely. The exploit has been publicly disclosed and may be utilized. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84886",
+   "cvss": 5.3,
+   "ref": "https://github.com/hackerguopeng/cve/tree/main/AgentS_OCR_HTTP_Body_Image_DoS_Report"
+  },
+  "title_vi": "CVE-2026-84886 — Một lỗ hổng đã được xác định trong simular-ai Agent-S lên đến 0",
+  "key": "60890ce5f18c752f0617fa21c5d4abab565c5980"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84887 — A vulnerability was identified in simular-ai Agent-S up to 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84887",
+  "published": "2026-09-03T05:16:47.333",
+  "summary": "A vulnerability was identified in simular-ai Agent-S up to 0.3.2. Affected by this issue is some unknown functionality of the file grounding.py of the component Model-generated GUI Action Execution Workflow. The manipulation leads to denial of service. Remote exploitation of the attack is possible. The exploit is publicly available and might be used. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84887",
+   "cvss": 4.3,
+   "ref": "https://github.com/outlookgp/CVE/tree/main/AgentS_Action_Parameter_Budget_DoS_Report"
+  },
+  "title_vi": "CVE-2026-84887 — Một lỗ hổng đã được xác định trong simular-ai Agent-S lên đến 0",
+  "key": "7bf1f4622f6a42264ad999d1b74c205ab6daf720"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84888 — A weakness has been identified in RightNow-AI OpenFang up to 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84888",
+  "published": "2026-09-03T05:16:47.493",
+  "summary": "A weakness has been identified in RightNow-AI OpenFang up to 0.6.9. This vulnerability affects the function shell_exec of the file crates/openfang-runtime/src/tool_runner.rs. This manipulation causes uncontrolled memory allocation. The attack is possible to be carried out remotely. The exploit has been made available to the public and could be used for attacks. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84888",
+   "cvss": 4.3,
+   "ref": "https://github.com/outlookgp/CVE/tree/main/OpenFang_ShellExec_Output_Buffer_DoS_Report"
+  },
+  "title_vi": "CVE-2026-84888 — Một điểm yếu đã được xác định trong RightNow-AI OpenFang lên đến 0",
+  "key": "34644ba657362a45d584bf000e3404a2ba37488f"
+ },
+ {
   "source": "VietnamPlus Kinh tế số",
   "title": "Mỹ: Thành phố New York cấm học sinh sử dụng AI",
   "link": "https://www.vietnamplus.vn/my-thanh-pho-new-york-cam-hoc-sinh-su-dung-ai-post1133926.vnp",
@@ -4647,7 +5035,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Nhóm tin tặc ủng hộ Ukraine mới nhắm mục tiêu vào các công ty Nga bằng ransomware tùy chỉnh",
   "key": "ae1acf447b08d4bd159befb06c7770d30fb750a6"
  },
  {
@@ -4661,7 +5049,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Tin tặc tiết lộ dữ liệu nhà tài trợ từ các quỹ gây quỹ của Nga cho người Ukraine, tù nhân chính trị",
   "key": "039974b86b0a1b3e9b0bbf5a4242d41b6cb702f6"
  },
  {
@@ -4831,7 +5219,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Thông tin về lỗ hổng bảo mật mới của Cleo Harmony đã được công bố.",
   "key": "acf72badaecc7f47843acdf1f1cf0920df96931b"
  },
  {
@@ -4916,7 +5304,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Cấu hình .git độc hại có thể khiến Claude, Codex, Con trỏ và các tác nhân AI khác chạy mã tấn công",
   "key": "02a1f67a8df264dec10af91f52875bf05ea8be9d"
  },
  {
@@ -4930,7 +5318,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Các mô-đun Apache độc hại chiếm đoạt lưu lượng truy cập trang web của chính phủ Brazil để đẩy các trang cá cược",
   "key": "68b6b76dac27d60a16ad107c5bcff601ab5121fd"
  },
  {
@@ -4944,7 +5332,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "BGP Hijack cung cấp bản cập nhật Virtualizor độc hại thiết lập quyền truy cập root liên tục",
   "key": "25c11688a74962d4eca18a5bb8674a9618e647f3"
  },
  {
@@ -4958,7 +5346,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Meta Ads Push StreamRat Trojan Android có thể giành quyền kiểm soát thiết bị gần như hoàn chỉnh",
   "key": "322264689c0930de15470203837df473bfd8057f"
  },
  {
@@ -10974,7 +11362,7 @@
    "cvss": null,
    "ref": "https://www.drupal.org/sa-contrib-2026-111"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-16647 — Authentication Bypass Using an Alternate Path or Channel vulnerability in Drupal Disable Login Page allows Functionality Bypass",
   "key": "a62b0ba297d0434be7fdcb59b5f0cc3974e07ec9"
  },
  {
@@ -10992,7 +11380,7 @@
    "cvss": 4.8,
    "ref": "https://www.drupal.org/sa-contrib-2026-094"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-18986 — Improper Neutralization of Input During Web Page Generation (\"Cross-site Scripting\") vulnerability in Drupal Entity Browser allows Stored XSS",
   "key": "81d3d2c159dd065994740e2fc905b1636d7a3bf6"
  },
  {
@@ -11010,7 +11398,7 @@
    "cvss": null,
    "ref": "https://www.drupal.org/sa-contrib-2026-097"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-73474 — Server-Side Request Forgery (SSRF) vulnerability in Drupal Entity Share Websub allows Server Side Request Forgery",
   "key": "8f7ff4857f4675b0f4aa4abbc27a4485e4e9e009"
  },
  {
@@ -11028,7 +11416,7 @@
    "cvss": null,
    "ref": "https://www.drupal.org/sa-contrib-2026-095"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-73475 — Incorrect Authorization vulnerability in Drupal Commerce PayPal allows Forceful Browsing",
   "key": "9b05a7775ed2a404e5da2182d39f61f1003dc34d"
  },
  {
@@ -11046,7 +11434,7 @@
    "cvss": null,
    "ref": "https://www.drupal.org/sa-contrib-2026-098"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-73476 — Improper Handling of Case Sensitivity vulnerability in Drupal External Authentication allows Privilege Escalation",
   "key": "9c704bc033985dfa9a7f2625332fc2f3b82bafd9"
  },
  {
@@ -11064,7 +11452,7 @@
    "cvss": null,
    "ref": "https://www.drupal.org/sa-contrib-2026-099"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-73477 — Incorrect Authorization vulnerability in Drupal Quick Tabs allows Forceful Browsing",
   "key": "348e32369b22c217dec38ca97a6d205e7e0b0e02"
  },
  {
@@ -11082,7 +11470,7 @@
    "cvss": null,
    "ref": "https://www.drupal.org/sa-contrib-2026-096"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-73478 — Incorrect Authorization vulnerability in Drupal Diff allows Forceful Browsing",
   "key": "23651278afd02c2692d5961762026b4f9012a16f"
  },
  {
@@ -11100,7 +11488,7 @@
    "cvss": null,
    "ref": "https://www.drupal.org/sa-contrib-2026-100"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-76755 — Vulnerability in Drupal Gammu SMS Daemon",
   "key": "aef1c6a658a5ff0904c3feb2d257a236431880c1"
  },
  {
@@ -11118,7 +11506,7 @@
    "cvss": null,
    "ref": "https://www.drupal.org/sa-contrib-2026-100"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-76756 — Vulnerability in Drupal Gammu SMS Daemon",
   "key": "40e302a08ffffb19734a0b58087b135951414968"
  },
  {
@@ -11136,7 +11524,7 @@
    "cvss": null,
    "ref": "https://www.drupal.org/sa-contrib-2026-100"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-76757 — Vulnerability in Drupal Gammu SMS Daemon",
   "key": "de56176cc942e240d35d5a74898669ef7edea0a5"
  },
  {
@@ -11154,7 +11542,7 @@
    "cvss": null,
    "ref": "https://www.drupal.org/sa-contrib-2026-101"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-76758 — Vulnerability in Drupal Link content parser",
   "key": "477326d374b592a516e4e02a8f976d27f5149ea2"
  },
  {
@@ -11172,7 +11560,7 @@
    "cvss": null,
    "ref": "https://www.drupal.org/sa-contrib-2026-102"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-76759 — Vulnerability in Drupal Screenshot",
   "key": "e0deec32ba6205be06e3c580d6083fc78052f360"
  },
  {
@@ -11190,7 +11578,7 @@
    "cvss": null,
    "ref": "https://www.drupal.org/sa-contrib-2026-102"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-76782 — Vulnerability in Drupal Screenshot",
   "key": "47a74fda91f19685806ebecb6f3e92a6c953c381"
  },
  {
@@ -11208,7 +11596,7 @@
    "cvss": null,
    "ref": "https://www.drupal.org/sa-contrib-2026-113"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-81158 — Incorrect Authorization vulnerability in Drupal Entity API allows Forceful Browsing",
   "key": "c42de50b1f04489d3ef4fa174b98575e42d63d4b"
  },
  {
@@ -11226,7 +11614,7 @@
    "cvss": null,
    "ref": "https://www.drupal.org/sa-contrib-2026-106"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-81159 — Observable Timing Discrepancy vulnerability in Drupal Commerce CyberSource allows Brute Force",
   "key": "575b677a462a05bb3a2b4a27ea86f57e628edd65"
  },
  {
@@ -11244,7 +11632,7 @@
    "cvss": null,
    "ref": "https://www.drupal.org/sa-contrib-2026-117"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-81160 — Improper Neutralization of Input During Web Page Generation (\"Cross-site Scripting\") vulnerability in Drupal Slick Carousel allows Stored XSS",
   "key": "b0bfdd64f53cfffb00a7cd36af82252329c97f49"
  },
  {
@@ -11262,7 +11650,7 @@
    "cvss": null,
    "ref": "https://www.drupal.org/sa-contrib-2026-107"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-81161 — Privilege Defined With Unsafe Actions vulnerability in Drupal Content Moderation Notifications allows Privilege Escalation",
   "key": "152997c9e8a49980ab27b12d21bbb53b5bee12f1"
  },
  {
@@ -11280,7 +11668,7 @@
    "cvss": null,
    "ref": "https://www.drupal.org/sa-contrib-2026-112"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-81162 — Insertion of Sensitive Information Into Sent Data vulnerability in Drupal DXPR Builder: The Best Editing (AI) Experience for Drupal allows Forceful Br",
   "key": "6f098cf25e39a910768c389506241287b0af30e6"
  },
  {
@@ -11298,7 +11686,7 @@
    "cvss": null,
    "ref": "https://www.drupal.org/sa-contrib-2026-114"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-81164 — Missing Authorization vulnerability in Drupal Entity PDF allows Forceful Browsing",
   "key": "a0b4563f8f81a8a6995d9def321af20704c4a2fe"
  },
  {
@@ -11316,7 +11704,7 @@
    "cvss": null,
    "ref": "https://www.drupal.org/sa-contrib-2026-104"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-81165 — Incorrect Authorization vulnerability in Drupal Blazy allows Forceful Browsing",
   "key": "221886ea94e386c375c5b8960dbd4f63e2800fa8"
  },
  {
@@ -11334,7 +11722,7 @@
    "cvss": null,
    "ref": "https://www.drupal.org/sa-contrib-2026-109"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-81166 — Missing Authorization vulnerability in Drupal Digital Signage Framework allows Forceful Browsing",
   "key": "fb057d7eb17aca75100156149acd70ede913b3fb"
  },
  {
@@ -11352,7 +11740,7 @@
    "cvss": 4.8,
    "ref": "https://www.drupal.org/sa-contrib-2026-103"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-81167 — Improper Neutralization of Input During Web Page Generation (\"Cross-site Scripting\") vulnerability in Drupal Address Suggestion allows Cross-Site Scri",
   "key": "0a6b3e0028627abfe6927b877eedc19d715230b2"
  },
  {
@@ -11370,7 +11758,7 @@
    "cvss": null,
    "ref": "https://www.drupal.org/sa-contrib-2026-105"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-81168 — Authentication Bypass Using an Alternate Path or Channel vulnerability in Drupal CAPTCHA Protected Page allows Functionality Bypass",
   "key": "dd3180b780096cf93042bac667e5d60137526881"
  },
  {
@@ -11388,7 +11776,7 @@
    "cvss": null,
    "ref": "https://www.drupal.org/sa-contrib-2026-116"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-81201 — Improper Neutralization of Input During Web Page Generation (\"Cross-site Scripting\") vulnerability in Drupal Monster Menus allows Stored XSS",
   "key": "a94b4e729b62ddcfcd47b208a2b8cc9dc6639ca4"
  },
  {
@@ -11406,7 +11794,7 @@
    "cvss": null,
    "ref": "https://www.drupal.org/sa-contrib-2026-115"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-81205 — Improper Neutralization of Special Elements used in an LDAP Query ('LDAP Injection') vulnerability in Drupal LDAP / Active Directory Integration allow",
   "key": "3d9396be6dbfbd7b2e967b2ff91a762d7fa312b4"
  },
  {
@@ -11424,7 +11812,7 @@
    "cvss": null,
    "ref": "https://www.drupal.org/sa-contrib-2026-108"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-81269 — Missing Authorization vulnerability in Drupal Data field allows Forceful Browsing",
   "key": "ec352217561ba8f08bfc923e0682b9613c126335"
  },
  {
@@ -11442,7 +11830,7 @@
    "cvss": 3.3,
    "ref": "https://wpscan.com/vulnerability/7f00e126-7c2a-404d-911a-cf5d4c489f5f/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2023-3360 — The Weaver Show Posts WordPress plugin before 1",
   "key": "16ffe5969e3364bdee3b438d87b03171567a5fe1"
  },
  {
@@ -11460,7 +11848,7 @@
    "cvss": 5.9,
    "ref": "https://wpscan.com/vulnerability/b2c7d31d-8d9f-4c79-b01b-fc350c60a528/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2024-3773 — The LiveJournal Shortcode WordPress plugin through 1",
   "key": "aae44e31e125ff85513840968093a889854a4a19"
  },
  {
@@ -11478,7 +11866,7 @@
    "cvss": null,
    "ref": "https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1702.html"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2024-7956 — A vulnerability exists in the affected products that allows a threat actor to gain access to user’s projects",
   "key": "1f418a2309661047acdbfd4f0725d16167ec3e6d"
  },
  {
@@ -11496,7 +11884,7 @@
    "cvss": null,
    "ref": ""
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-13398 — Rejected reason: This CVE ID is a duplicate of CVE-2025-13542 and was never published",
   "key": "3960516d5bec7bada7a874fa44d95e4570f10b7f"
  },
  {
@@ -11514,7 +11902,7 @@
    "cvss": 5.3,
    "ref": "https://wpscan.com/vulnerability/a5fb18fa-be2c-41a5-81ef-ca27de024d34/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-15481 — The Notification Bar for WordPress plugin through 1",
   "key": "fa107afd13412d4152cf683d7bbc1ec51394ee24"
  },
  {
@@ -11532,7 +11920,7 @@
    "cvss": 8.2,
    "ref": "https://wpscan.com/vulnerability/3e9da619-bce1-49b5-aa35-dce22b72f9e6/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-15485 — The Auto x LINE WordPress plugin through 1",
   "key": "ccd38f22a39f6a335e7f69c4f3a1cf677d3f1830"
  },
  {
@@ -11550,7 +11938,7 @@
    "cvss": 5.3,
    "ref": "https://wpscan.com/vulnerability/b1b4f64a-5bff-486e-a3e5-e71b5ca28d78/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-15489 — The Passster WordPress plugin before 4",
   "key": "fadf3044b1aec0c94ac3c94b7a58bb46d1e331c6"
  },
  {
@@ -73500,375 +73888,5 @@
   "extra": {},
   "title_vi": "",
   "key": "7640e571aafa4c3a21df9fef6efa9742d8a83f3a"
- },
- {
-  "source": "VietnamPlus Kinh tế số",
-  "title": "Thanh niên TTXVN chuyển đổi số, ứng dụng AI trong công tác chuyên môn",
-  "link": "https://www.vietnamplus.vn/thanh-nien-ttxvn-chuyen-doi-so-ung-dung-ai-trong-cong-tac-chuyen-mon-post1132973.vnp",
-  "published": "2026-08-27T14:06:16+00:00",
-  "summary": "Giám đốc Trung tâm Kỹ thuật Thông tấn Nguyễn Đức Vũ cho biết trong chiến lược chuyển đổi số giai đoạn 2026-2030, TTXVN hướng tới xây dựng hệ sinh thái số dùng chung, liên thông. Nghị quyết 57-NQ/TW: Ứng dụng AI, tăng tốc chuẩn hóa cơ sở dữ liệu đất đai Nhận diện giá trị cốt lõi của du lịch khi ứng dụng chuyển đổi số và AI Chuyển đổi số khu vực công: Hạ tầng bền vững, dữ liệu an toàn, quản trị hiệu quả",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "1931f8078a68f8939855d4d62dfea1cf4849c1d8"
- },
- {
-  "source": "VietnamPlus Kinh tế số",
-  "title": "Hỗ trợ 1,9 tỷ đồng cho 85 hộ dân ở Đồng Nai có rẫy bị voi rừng phá",
-  "link": "https://www.vietnamplus.vn/ho-tro-19-ty-dong-cho-85-ho-dan-o-dong-nai-co-ray-bi-voi-rung-pha-post1132966.vnp",
-  "published": "2026-08-27T13:23:54+00:00",
-  "summary": "Ủy ban Nhân dân xã Thanh Sơn, thành phố Đồng Nai đã hỗ trợ 85 hộ dân bị thiệt hại do voi rừng kéo về phá trong giai đoạn từ ngày 1/1/2021 đến 31/12/2023, với tổng kinh phí hơn 1,9 tỷ đồng. Bình Phước: Voi rừng phá chòi và cây trồng của dân ở xã Tân Lợi Đồng Nai: Voi rừng tấn công làm người bị thương, phá nát nhiều hoa màu Voi rừng lại xuất hiện, phá cây trồng, đe dọa người dân Đồng Nai",
-  "categories": [
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "79bbf75acddbb286f1c58025f67d640eccee42b4"
- },
- {
-  "source": "Tuổi Trẻ Công nghệ",
-  "title": "Bệnh nhân đầu tiên trên thế giới được AI hỗ trợ phẫu thuật cắt khối u não",
-  "link": "https://tuoitre.vn/benh-nhan-dau-tien-tren-the-gioi-duoc-ai-ho-tro-phau-thuat-cat-khoi-u-nao-100260827221615726.htm",
-  "published": "2026-08-27T18:49:08.206939+00:00",
-  "summary": "Ông Rhys Hibbert ở Anh đã trở thành bệnh nhân đầu tiên trên thế giới được AI trực tiếp hỗ trợ phẫu thuật não.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "d3b4971c7f8101aa002a2e7e7c6ff3de75c80303"
- },
- {
-  "source": "Tuổi Trẻ Công nghệ",
-  "title": "Sản phẩm có sử dụng trí tuệ nhân tạo thì quyền tác giả thuộc về ai?",
-  "link": "https://tuoitre.vn/san-pham-co-su-dung-tri-tue-nhan-tao-thi-quyen-tac-gia-thuoc-ve-ai-10026082720492321.htm",
-  "published": "2026-08-27T18:49:08.206978+00:00",
-  "summary": "Với một tác phẩm có sử dụng AI để tạo ra thì quyền tác giả, quyền liên quan chỉ được xác lập khi con người có đóng góp đáng kể và mang tính quyết định và con người chịu trách nhiệm về nội dung và tính hợp pháp của tác phẩm.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "21dd0414d8680ee83205c28f66a8b6dab841e95e"
- },
- {
-  "source": "Tuổi Trẻ Công nghệ",
-  "title": "Qualcomm muốn đưa Việt Nam thành trung tâm R&D AI lớn thứ ba của tập đoàn trên toàn cầu",
-  "link": "https://tuoitre.vn/qualcomm-muon-dua-viet-nam-thanh-trung-tam-rd-ai-lon-thu-ba-cua-tap-doan-tren-toan-cau-100260827184328466.htm",
-  "published": "2026-08-27T18:49:08.206990+00:00",
-  "summary": "Đó là chia sẻ của Chủ tịch, Tổng giám đốc điều hành Tập đoàn Qualcomm (Mỹ) trong cuộc gặp với Tổng Bí thư, Chủ tịch nước Tô Lâm.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "08438ceb7a13e5a51d607943801c735a8850e4a4"
- },
- {
-  "source": "Tuổi Trẻ Công nghệ",
-  "title": "688 tác nhân AI của OpenAI tự lập nhóm, phối hợp tấn công Hugging Face",
-  "link": "https://tuoitre.vn/688-tac-nhan-ai-cua-openai-tu-lap-nhom-phoi-hop-tan-cong-hugging-face-100260827162723036.htm",
-  "published": "2026-08-27T18:49:08.207013+00:00",
-  "summary": "Báo cáo điều tra cho thấy 688 tác nhân AI đã tự lập diễn đàn, trao đổi và phối hợp xâm nhập hệ thống Hugging Face mà không cần con người điều khiển liên tục.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "9c8039a595d3b7136ceb1ee7b891f4a27266bc72"
- },
- {
-  "source": "Tuổi Trẻ Công nghệ",
-  "title": "200 doanh nghiệp Hàn Quốc mang AI, công nghệ xanh tìm đối tác tại TP.HCM",
-  "link": "https://tuoitre.vn/200-doanh-nghiep-han-quoc-mang-ai-cong-nghe-xanh-tim-doi-tac-tai-tphcm-100260827143342104.htm",
-  "published": "2026-08-27T18:49:08.207023+00:00",
-  "summary": "Gần 200 doanh nghiệp, tổ chức từ 18 thành phố công nghiệp Hàn Quốc đến TP.HCM, mang theo AI, công nghệ cao và giải pháp chuyển đổi xanh.",
-  "categories": [
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "12979276a2683bcba55833874465f7ab3dec2f15"
- },
- {
-  "source": "Tuổi Trẻ Công nghệ",
-  "title": "Tỉ phú Bill Gates lần đầu mong AI phát triển chậm lại",
-  "link": "https://tuoitre.vn/ti-phu-bill-gates-lan-dau-mong-ai-phat-trien-cham-lai-10026082713181772.htm",
-  "published": "2026-08-27T18:49:08.207032+00:00",
-  "summary": "Từng lạc quan về AI, tỉ phú Bill Gates hiện lo ngại rằng công nghệ này có thể gây ra nhiều tác động tiêu cực.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "d5b97233db985139b22128bdc8e5350de0932728"
- },
- {
-  "source": "Báo Tin tức (TTXVN) KH-CN",
-  "title": "Kinh tế số trở thành động lực tăng trưởng của Thủ đô",
-  "link": "https://baotintuc.vn/khoa-hoc-cong-nghe/kinh-te-so-tro-thanh-dong-luc-tang-truong-cua-thu-do-20260827180315593.htm",
-  "published": "2026-08-27T18:49:06.983121+00:00",
-  "summary": "Hà Nội đang đẩy mạnh ứng dụng trí tuệ nhân tạo, phát triển doanh nghiệp công nghệ số và thúc đẩy chuyển đổi số, từng bước đưa kinh tế số trở thành động lực quan trọng cho tăng trưởng nhanh, bền vững của Thủ đô.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "bb49792a17ef4113668ed8a7893b16f5898dd31f"
- },
- {
-  "source": "Báo Tin tức (TTXVN) KH-CN",
-  "title": "Robot hình người lập kỷ lục mới",
-  "link": "https://baotintuc.vn/khoa-hoc-cong-nghe/robot-hinh-nguoi-lap-ky-luc-moi-20260827143659901.htm",
-  "published": "2026-08-27T18:49:06.983166+00:00",
-  "summary": "Đại hội Thể thao Robot hình người thế giới lần thứ 2 tại Bắc Kinh, Trung Quốc, đã khép lại ngày 26/8 với hàng loạt kỷ lục mới, trong đó robot hình người tiếp tục phá kỷ lục chạy 100m, đồng thời ban tổ chức công bố bộ dữ liệu quy mô lớn phục vụ nghiên cứu và phát triển trí tuệ nhân tạo (AI).",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "b3e8f4132d6843b0d752ac2b522fe209d6c5c26f"
- },
- {
-  "source": "Thanh Niên Công nghệ",
-  "title": "Galaxy S26 FE tr&igrave;nh l&agrave;ng, được cập nhật Android tới 7 năm",
-  "link": "https://thanhnien.vn/galaxy-s26-fe-trinh-lang-duoc-cap-nhat-android-toi-7-nam-185260827210631055.htm",
-  "published": "2026-08-27T14:21:00+00:00",
-  "summary": "Samsung ch&iacute;nh thức ra mắt Galaxy S26 FE với One UI 9, Galaxy AI cải tiến v&agrave; gi&aacute; khởi điểm tăng l&ecirc;n 700 USD.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "d8731ceaf08a4a3fe0db9192d17868a4bcfc7271"
- },
- {
-  "source": "Dân Trí Sức mạnh số",
-  "title": "Chiều lòng người dùng Trung Quốc, Apple tích hợp AI của Alibaba vào iPhone",
-  "link": "https://dantri.com.vn/cong-nghe/chieu-long-nguoi-dung-trung-quoc-apple-tich-hop-ai-cua-alibaba-vao-iphone-20250214123737429.htm",
-  "published": "2025-02-15T02:44:10+00:00",
-  "summary": "(Dân trí) - Apple sẽ tích hợp công cụ AI do Alibaba phát triển vào iPhone bán ra tại thị trường Trung Quốc. Đây được xem là động thái làm chiều lòng người dùng tại thị trường điện thoại lớn nhất thế giới.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "f41d76649582c5bf3f72794a01e52c766dbe31d9"
- },
- {
-  "source": "Dân Trí Sức mạnh số",
-  "title": "Điện thoại giá rẻ sẽ được trang bị thêm nhiều tính năng AI",
-  "link": "https://dantri.com.vn/cong-nghe/dien-thoai-gia-re-se-duoc-trang-bi-them-nhieu-tinh-nang-ai-20250213150704704.htm",
-  "published": "2025-02-13T09:23:55+00:00",
-  "summary": "(Dân trí) - Các mẫu smartphone tầm trung và giá rẻ trong tương lai sẽ được tích hợp thêm nhiều tính năng trí tuệ nhân tạo, cũng như cải thiện hiệu suất xử lý nhờ chip mới ra mắt của Qualcomm.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "fff861b8e2fb19d9fd9083b2e6052477240da9c0"
- },
- {
-  "source": "Dân Trí Sức mạnh số",
-  "title": "Cảnh báo về lừa đảo tình cảm nhân dịp Lễ Tình nhân",
-  "link": "https://dantri.com.vn/cong-nghe/canh-bao-ve-lua-dao-tinh-cam-nhan-dip-le-tinh-nhan-20250213122014518.htm",
-  "published": "2025-02-13T07:54:58+00:00",
-  "summary": "(Dân trí) - Những kẻ lừa đảo thường lợi dụng các dịp lễ hoặc sự kiện lớn để đánh lừa nạn nhân.",
-  "categories": [
-   "breach",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "4abb6f8e1280505fc63d8d7179104aef04540f89"
- },
- {
-  "source": "Dân Trí Sức mạnh số",
-  "title": "Tin tặc ngụy trang phần mềm độc hại thành chương trình hợp pháp để lừa đảo",
-  "link": "https://dantri.com.vn/cong-nghe/tin-tac-nguy-trang-phan-mem-doc-hai-thanh-chuong-trinh-hop-phap-de-lua-dao-20250213100439974.htm",
-  "published": "2025-02-13T03:46:41+00:00",
-  "summary": "(Dân trí) - Số liệu thống kê của hãng nghiên cứu bảo mật Kaspersky cho thấy số lượng các vụ tấn công mạng tại Việt Nam đã giảm năm thứ 4 liên tiếp.",
-  "categories": [
-   "breach",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "8ab514a5337c948e148cf7aef01c4543cbaf18e2"
- },
- {
-  "source": "Dân Trí Sức mạnh số",
-  "title": "Nhóm tin tặc chuyên phát tán mã độc tống tiền bị bắt tại Thái Lan",
-  "link": "https://dantri.com.vn/cong-nghe/nhom-tin-tac-chuyen-phat-tan-ma-doc-tong-tien-bi-bat-tai-thai-lan-20250212150147769.htm",
-  "published": "2025-02-12T09:39:14+00:00",
-  "summary": "(Dân trí) - Một nhóm, bao gồm 2 nam và 2 nữ, tất cả đều mang quốc tịch Nga, vừa bị cảnh sát bắt giữ tại Thái Lan. Đây là nhóm tin tặc đứng sau chiến dịch phát tán mã độc tống tiền trên toàn cầu.",
-  "categories": [
-   "breach",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "2d985b3b0abe876548745a3b4fa4586d9d48aca4"
- },
- {
-  "source": "Dân Trí Sức mạnh số",
-  "title": "Cảnh báo 5 hình thức lừa đảo trực tuyến nhiều người Việt thường mắc phải",
-  "link": "https://dantri.com.vn/cong-nghe/canh-bao-5-hinh-thuc-lua-dao-truc-tuyen-nhieu-nguoi-viet-thuong-mac-phai-20250212093056461.htm",
-  "published": "2025-02-12T02:33:25+00:00",
-  "summary": "(Dân trí) - Hãng công nghệ Google vừa công bố 5 hình thức lừa đảo trực tuyến phổ biến mà nhiều người Việt thường xuyên mắc phải, đồng thời đưa ra một số lời khuyên để giúp người dùng sử dụng Internet an toàn hơn.",
-  "categories": [
-   "breach",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "dc26e4444f25872de4f241d1129d90bb3391ea3f"
- },
- {
-  "source": "GenK",
-  "title": "Thương vụ lớn nhất từ trước đến nay của NVIDIA: Bỏ gần 13 tỷ USD mua một công ty mã nguồn mở, gấp 86 lần doanh thu hàng năm",
-  "link": "https://genk.vn/thuong-vu-lon-nhat-tu-truoc-den-nay-cua-nvidia-bo-gan-13-ty-usd-mua-mot-cong-ty-ma-nguon-mo-gap-86-lan-doanh-thu-hang-nam-165260827222753248.chn",
-  "published": "2026-08-27T18:48:58.835150+00:00",
-  "summary": "Theo một số chuyên gia, thương vụ này sẽ giúp NVIDIA mở rộng sự hiện diện của mình trong toàn bộ hệ sinh thái AI, từ năng lượng, nền tảng mô hình cho đến các ứng dụng.",
-  "categories": [
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "b3c638d37186082331fc1287dd1b187560c2e252"
- },
- {
-  "source": "GenK",
-  "title": "Cận cảnh Galaxy S26 FE: Chất Galaxy S cao cấp ngày càng rõ rệt, nhiều tính năng AI, giá từ 18,99 triệu đồng",
-  "link": "https://genk.vn/can-canh-galaxy-s26-fe-chat-galaxy-s-cao-cap-ngay-cang-ro-ret-nhieu-tinh-nang-ai-gia-tu-1899-trieu-dong-165260827202343488.chn",
-  "published": "2026-08-27T18:48:58.835195+00:00",
-  "summary": "Galaxy S26 FE tiếp tục công thức quen thuộc của dòng Fan Edition: giữ lại những trải nghiệm cốt lõi của Galaxy S, đồng thời điều chỉnh cấu hình để đạt mức giá dễ tiếp cận hơn. Thế hệ mới tạo dấu ấn bằng thiết kế đồng bộ với Galaxy S26 series, màn hình lớn 120Hz, hệ thống camera đủ ba tiêu cự và loạt tính năng Galaxy AI",
-  "categories": [
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "a3687aa14cbc3c9338a75da2ab25303eb1b53ec0"
- },
- {
-  "source": "GenK",
-  "title": "Sếp nói \"em nên có xe ô tô\", tôi phải hiểu câu đó như thế nào?",
-  "link": "https://genk.vn/sep-noi-em-nen-co-xe-o-to-toi-phai-hieu-cau-do-nhu-the-nao-165260827182806405.chn",
-  "published": "2026-08-27T18:48:58.835253+00:00",
-  "summary": "Đoán ý sếp là một nghệ thuật, và không phai ai cũng có thể làm nghệ sĩ.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "1c6ece1f2239b21f9895b75e724c1f788aefc849"
- },
- {
-  "source": "GenK",
-  "title": "Đây là món đồ điện tử mà ngày xưa \"cho cũng không ai lấy\", thế mà giờ nhà nào còn là đem đi bán được khối tiền",
-  "link": "https://genk.vn/day-la-mon-do-dien-tu-ma-ngay-xua-cho-cung-khong-ai-lay-the-ma-gio-nha-nao-con-la-dem-di-ban-duoc-khoi-tien-165260827183447826.chn",
-  "published": "2026-08-27T18:48:58.835310+00:00",
-  "summary": "Đôi khi, những thiết bị cũ kỹ lại hóa thành món đồ sưu tầm vô giá.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "e71a258bf666155f4aba4a77c007b9880be7f452"
- },
- {
-  "source": "GenK",
-  "title": "Tất cả người dân cảnh giác khi nhận cuộc gọi hiển thị đúng số người thân, nhưng kèm những dấu hiệu này",
-  "link": "https://genk.vn/tat-ca-nguoi-dan-canh-giac-khi-nhan-cuoc-goi-hien-thi-dung-so-nguoi-than-nhung-kem-nhung-dau-hieu-nay-16526082717192458.chn",
-  "published": "2026-08-27T18:48:58.835354+00:00",
-  "summary": "Công an cảnh báo, với kỹ thuật Caller ID Spoofing, kẻ gian có thể mạo danh bất kỳ số ngân hàng hay công an để thực hiện lừa đảo.",
-  "categories": [
-   "breach",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "caf32946664925aab9feb6a8cea8ef2c4e4aa479"
- },
- {
-  "source": "GenK",
-  "title": "TV đang thông thái hơn bao giờ hết, gỡ rối mọi thắc mắc thường nhật trong tích tắc",
-  "link": "https://genk.vn/tv-dang-thong-thai-hon-bao-gio-het-go-roi-moi-thac-mac-thuong-nhat-trong-tich-tac-165260827140255746.chn",
-  "published": "2026-08-27T18:48:58.835397+00:00",
-  "summary": "Nhờ khả năng giải đáp mọi thắc mắc, cung cấp mẹo vặt cuộc sống để hỗ trợ người dùng, Samsung AI TV đang chuyển mình từ một thiết bị đơn thuần thành bậc thầy thông thái ngay trong phòng khách mỗi gia đình.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "a6cee24a32e5cd426a41c2b024fadfc0c8bf2a56"
- },
- {
-  "source": "VnExpress Số hóa",
-  "title": "Nền tảng Hugging Face bị 700 tác nhân OpenAI tấn công",
-  "link": "https://vnexpress.net/nen-tang-hugging-face-bi-700-tac-nhan-openai-tan-cong-5114062.html",
-  "published": "2026-08-27T08:00:00+00:00",
-  "summary": "Một nhóm gồm 700 tác nhân do OpenAI tạo ra đã phối hợp với nhau để tấn công nền tảng Hugging Face hồi tháng 7, nhiều trường hợp thậm chí cố che dấu vết.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "5f9d503cc9952609e605b0f0e9fd2f3350f89112"
- },
- {
-  "source": "Cloudflare Blog",
-  "title": "How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache",
-  "link": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
-  "published": "2026-08-27T17:02:35+00:00",
-  "summary": "Five Rust-level memory optimizations to the DNS cache layout of Big Pineapple cut per-entry memory by 56%, freeing approximately 100 TB of memory across Cloudflare's fleet.",
-  "categories": [
-   "cloud"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "962b31b905cf5ff3bbd251b8cd554c7b1394c0d4"
  }
 ]
