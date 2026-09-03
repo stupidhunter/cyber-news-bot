@@ -1,6 +1,1615 @@
 [
  {
   "source": "VietnamPlus Kinh tế số",
+  "title": "Israel dọa tấn công toàn bộ cơ sở hạ tầng Iran nếu bị tập kích",
+  "link": "https://www.vietnamplus.vn/israel-doa-tan-cong-toan-bo-co-so-ha-tang-iran-neu-bi-tap-kich-post1134110.vnp",
+  "published": "2026-09-03T15:53:57+00:00",
+  "summary": "Israel cảnh báo sẽ tấn công toàn bộ cơ sở hạ tầng Iran, kể cả năng lượng, nếu Tehran tiến hành tập kích nhằm vào Israel. Lãnh đạo Trung Quốc, Nga trao đổi các vấn đề song phương và quốc tế Lũ quét tại Nepal và Trung Quốc: Thủ tướng Nepal kêu gọi hành động về khí hậu Triều Tiên cải tổ ban lãnh đạo quân đội, cách chức Bộ trưởng Quốc phòng",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "d9be001eb22b2695d2debea8812c3194dc0bcd9e"
+ },
+ {
+  "source": "Tuổi Trẻ Công nghệ",
+  "title": "ChatGPT, Claude và Grok đồng loạt... sập",
+  "link": "https://tuoitre.vn/chatgpt-claude-va-grok-dong-loat-sap-100260903223310253.htm",
+  "published": "2026-09-03T19:04:50.161057+00:00",
+  "summary": "Các trang công nghệ Sqmagazine, 9to5Google... xác nhận một số dịch vụ AI (trí tuệ nhân tạo) quen thuộc bỗng nhiên gặp lỗi.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "503b7d1bc962abb11ed526502f2cac0663427b6f"
+ },
+ {
+  "source": "Tuổi Trẻ Công nghệ",
+  "title": "Nvidia vung 12,9 tỉ USD thâu tóm Hugging Face, nền tảng AI từng bị OpenAI tấn công",
+  "link": "https://tuoitre.vn/nvidia-vung-129-ti-usd-thau-tom-hugging-face-nen-tang-ai-tung-bi-openai-tan-cong-100260903210355837.htm",
+  "published": "2026-09-03T19:04:50.161085+00:00",
+  "summary": "Nvidia chi 12,9 tỉ USD mua lại Hugging Face, nền tảng AI có hơn 18 triệu người dùng và tập trung vào các mô hình AI mở.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "26cbf1dee7c8b9cd6093cfdce8a0d38ee44466f7"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "Agentic Ransomware Took Down Enterprise in Ten Hours: AI Left 80-Page Audit",
+  "link": "https://databreaches.net/2026/09/03/agentic-ransomware-took-down-enterprise-in-ten-hours-ai-left-80-page-audit/",
+  "published": "2026-09-03T16:51:35+00:00",
+  "summary": "Roger Satterfield reports: An attacker handed an unknown corporate victim a comprehensive, 80-page security audit on Wednesday — not as a service, but as a postscript to the ransomware attack that had just consumed the victim&#8217;s enterprise. According to Palo Alto Networks&#8217; threat intelligence unit Unit 42, whose researchers documented the September 2 incident, the... Source",
+  "categories": [
+   "ai",
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "0e010403845b7bce12cf7237ddae505fa5b477e9"
+ },
+ {
+  "source": "Talos Blog",
+  "title": "The story behind the intelligence",
+  "link": "https://blog.talosintelligence.com/the-story-behind-the-intelligence/",
+  "published": "2026-09-03T18:00:13+00:00",
+  "summary": "From engaging with cybercriminals to surviving a live Flamin’ Hot Cheetos taste test, Hazel reflects on the latest Beers with Talos with Azim, where they cover the full spectrum of what it takes to gather threat intel.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "9f24f3b7955d1412301040c1941f2cd5f20b117c"
+ },
+ {
+  "source": "DarkReading",
+  "title": "Chinese Routers Sold Worldwide Contain Backdoors",
+  "link": "https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors",
+  "published": "2026-08-27T19:31:45+00:00",
+  "summary": "An untold number of ZBT routers sold around the world as white-label products come with several implants built by the manufacturer.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "0ea999b3d7b5cbacd06eee82ff943359b3eb90da"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
+  "link": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
+  "published": "2026-09-03T15:52:07+00:00",
+  "summary": "Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, alongside an IOS XR hardening release bundling 7 umbrella CVEs, 2 of which are rated 9.8, with no workaround for any IOS XR version. The Nexus vulnerability, tracked as CVE-2026-20212 (CVSS score: 9.8), is",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "56d7a17502717ae82517dfef08544a89f88fa0b4"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
+  "link": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html",
+  "published": "2026-09-03T15:26:47+00:00",
+  "summary": "Cybersecurity researchers have disclosed details of a sophisticated Python-based Windows malware framework called BraZetsu that fuels an underground marketplace commercializing access to compromised hosts. \"Unlike the standard infostealer model, BraZetsu is a comprehensive master toolkit that empowers Initial Access Brokers (IABs) by turning compromised systems into highly valuable commercial",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "fc0bff2395d8685a28f5003756f72e2da3294364"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
+  "link": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
+  "published": "2026-09-03T14:39:05+00:00",
+  "summary": "Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting courts in 11 U.S. states, the U.S. Virgin Islands, and Ontario, Canada. West Publishing said it discovered the activity on June 30, 2026. A subset of court records could contain individuals' names",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "cc5afa6c41187b8660156aeadf0c45fc200e646e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-48486 — Signum Node is a HDD-mined cryptocurrency using an energy efficient and fair Proof-of-Commitment (PoC+) consensus algorithm",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-48486",
+  "published": "2026-09-03T16:17:24.330",
+  "summary": "Signum Node is a HDD-mined cryptocurrency using an energy efficient and fair Proof-of-Commitment (PoC+) consensus algorithm. Prior to version 3.9.9, an integer overflow in BlockServiceImpl.applyBlock() allowed a miner to receive an arbitrarily inflated block reward by crafting a block with a negative totalFeeCashBackNqt value. The vulnerability was introduced when the SMART_FEES hardfork (block ~1,029,000) enabled fee cash-back and burn accounting without overflow protection. This issue has been patched in version 3.9.9.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-48486",
+   "cvss": 7.5,
+   "ref": "https://github.com/signum-network/signum-node/releases/tag/v3.9.9"
+  },
+  "title_vi": "CVE-2026-48486 - Signum Node là một loại tiền điện tử được khai thác bằng HDD sử dụng thuật toán đồng thuận Proof-of-Commitment (PoC+) tiết kiệm năng lượng và công bằng",
+  "key": "4418d63b46b081cf5f2f4f4153b67df7f5537078"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-50554 — Note Mark is an open-source note-taking application",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-50554",
+  "published": "2026-09-03T16:17:25.020",
+  "summary": "Note Mark is an open-source note-taking application. Prior to version 0.19.5, GET /api/books/{bookID}/notes is an unauthenticated endpoint that accepts a \"deleted\" query parameter. When the request is ?deleted=true, the service runs the query with Unscoped() (bypassing GORM's soft-delete scope) but keeps the read-authorization clause as \"owner_id = ? OR is_public = ?\". As a result, any unauthenticated caller can enumerate the metadata of soft-deleted (\"trashed\") notes belonging to any public book — notes the owner explicitly deleted and expected to be removed from public view. This issue has b",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-50554",
+   "cvss": 5.3,
+   "ref": "https://github.com/enchant97/note-mark/commit/9c9b72740f22a06131a8f64b53bb08e3b05b81a6"
+  },
+  "title_vi": "CVE-2026-50554 — Note Mark là một ứng dụng ghi chú mã nguồn mở",
+  "key": "a3ff8aa4faecd8d297ed4ec13f2ff016960824e6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-53720 — pymonocypher uses cython to wrap the Monocypher C library",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-53720",
+  "published": "2026-09-03T16:17:25.360",
+  "summary": "pymonocypher uses cython to wrap the Monocypher C library. Prior to version 4.0.2.8, the argon2i_32 implementation does not check the nb_blocks size. If the caller does not provide a sufficiently large buffer based on the API contract, then argon2i_32 will write past the end of the buffer and possibly corrupt the heap. This issue has been patched in version 4.0.2.8.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-53720",
+   "cvss": null,
+   "ref": "https://github.com/jetperch/pymonocypher/commit/90ff5b13b13b5673c372e188f482d8c172e6ab86"
+  },
+  "title_vi": "CVE-2026-53720 — pymonocypher sử dụng xython để bọc thư viện Monocypher C",
+  "key": "4fe1207b771e804d9108b29a9bc1a16c6734724f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-53924 — Gardens v2 is a modular governance framework that enables communities to create and manage multiple governance pools with customizable parameters and ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-53924",
+  "published": "2026-09-03T16:17:25.520",
+  "summary": "Gardens v2 is a modular governance framework that enables communities to create and manage multiple governance pools with customizable parameters and voting mechanisms. Prior to 0xc9d4e0dacd937364793278180551e59d93cd43f9, StreamingEscrow.claim() correctly rejects withdrawals while an escrow is disputed, but the permissionless syncOutflow() path performs the same excess-balance transfer without checking disputed. After a streaming proposal is challenged, anyone can call syncOutflow() to transfer escrowed SuperTokens to the proposal beneficiary while the dispute is pending. If the proposal is la",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-53924",
+   "cvss": null,
+   "ref": "https://github.com/1Hive/gardens-v2/security/advisories/GHSA-jxgc-cgfq-436j"
+  },
+  "title_vi": "CVE-2026-53924 — Gardens v2 là một khung quản trị mô-đun cho phép các cộng đồng tạo và quản lý nhiều nhóm quản trị với các thông số có thể tùy chỉnh và",
+  "key": "dfd2c3d88220d0b085c52043747609db300c6f13"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-55658 — Gardens v2 is a modular governance framework that enables communities to create and manage multiple governance pools with customizable parameters and ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55658",
+  "published": "2026-09-03T16:17:26.250",
+  "summary": "Gardens v2 is a modular governance framework that enables communities to create and manage multiple governance pools with customizable parameters and voting mechanisms. In 3e595f3 and prior, when a streaming proposal is funded, the cluster of streaming contracts moves real pool funds into the proposal's StreamingEscrow to back the Superfluid constant flow agreement (the CFA deposit, plus a 0.5 percent margin). cancelProposal then zeroes the escrow's GDA member units but never reclaims that parked balance, and the permissionless claim() forwards the escrow's entire balance, including the pool f",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-55658",
+   "cvss": 7.7,
+   "ref": "https://github.com/1Hive/gardens-v2/security/advisories/GHSA-jwvq-5xmf-f377"
+  },
+  "title_vi": "CVE-2026-55658 — Gardens v2 là một khung quản trị mô-đun cho phép các cộng đồng tạo và quản lý nhiều nhóm quản trị với các thông số có thể tùy chỉnh và",
+  "key": "3d1350499ac5d90467a3e49d0b760890d0947917"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-57445 — Gardens v2 is a modular governance framework that enables communities to create and manage multiple governance pools with customizable parameters and ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-57445",
+  "published": "2026-09-03T16:17:26.883",
+  "summary": "Gardens v2 is a modular governance framework that enables communities to create and manage multiple governance pools with customizable parameters and voting mechanisms. In dfba919e218e20d52db9f7b2e8d292d45a46c91b and prior, normal beneficiary payout paths in StreamingEscrow preserve depositAmount() while an active stream needs an escrow reserve. However, the approve-side dispute resolution path drains the whole available escrow balance to the proposal beneficiary. At time of publication, there are no publicly known patches.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-57445",
+   "cvss": null,
+   "ref": "https://github.com/1Hive/gardens-v2/security/advisories/GHSA-3xpr-2mm7-77j7"
+  },
+  "title_vi": "CVE-2026-57445 — Gardens v2 là một khung quản trị mô-đun cho phép các cộng đồng tạo và quản lý nhiều nhóm quản trị với các thông số có thể tùy chỉnh và",
+  "key": "e42be533af1391833e0152176a824877eba9e04a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71963 — Hermes Agent 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71963",
+  "published": "2026-09-03T16:18:21.710",
+  "summary": "Hermes Agent 0.18.2 through 0.21.0, fixed in commit f6234d0, contains a remote code execution vulnerability that allows attackers to execute arbitrary OS commands by supplying a malicious repository with a crafted .git/config that sets core.fsmonitor to an attacker-controlled command. When a user opens the malicious repository and sends any message, the agent triggers a git status index refresh which executes the injected command in the user's process context, exposing the full environment including configured provider API keys.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71963",
+   "cvss": 8.8,
+   "ref": "https://github.com/NousResearch/hermes-agent/commit/f6234d00c5d59450adea1d7edd30ad3859375c79"
+  },
+  "title_vi": "CVE-2026-71963 — Đặc vụ Hermes 0",
+  "key": "e094ac5fa08513f554d6bf7f88802a5a26bf601f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75034 — A flaw was found in Rancher Manager",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75034",
+  "published": "2026-09-03T16:18:22.343",
+  "summary": "A flaw was found in Rancher Manager. The SAML assertion replay protection introduced by the fix for CVE-2026-44946 recorded consumed assertion IDs in a per-process cache, so each replica only detected replays that reached the same pod. In a high-availability deployment, an attacker holding a captured assertion could replay it once against every other replica to obtain additional authenticated sessions as the victim.\n\n\nThis issue affects Rancher: before 2.15.1.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75034",
+   "cvss": 7.4,
+   "ref": "https://github.com/rancher/rancher/releases/tag/v2.15.1"
+  },
+  "title_vi": "CVE-2026-75034 — Một lỗ hổng đã được tìm thấy trong Rancher Manager",
+  "key": "10ab3a9721a2b0a83f00c3cda3eb80910f9409ad"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75035 — A flaw was found in Rancher Manager",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75035",
+  "published": "2026-09-03T16:18:22.477",
+  "summary": "A flaw was found in Rancher Manager. When a non-administrative caller supplied a label selector naming a different user, the ext.cattle.io/v1 Token store dropped its internal owner filter instead of returning an empty result. Any authenticated user could therefore list and watch every other user's tokens, disclosing token metadata and the stored salted hash of the bearer token.\n\n\n\nThis issue affects Rancher: before 2.15.1.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75035",
+   "cvss": 7.7,
+   "ref": "https://github.com/rancher/rancher/releases/tag/v2.15.1"
+  },
+  "title_vi": "CVE-2026-75035 — Một lỗ hổng đã được tìm thấy trong Rancher Manager",
+  "key": "0786349446586c4a778b47b5fdab3636cc6c699b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75036 — A security vulnerability was discovered in Fleet's Helm template preprocessing where templates evaluated by the Fleet controller could reach network r",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75036",
+  "published": "2026-09-03T16:18:22.607",
+  "summary": "A security vulnerability was discovered in Fleet's Helm template preprocessing where templates evaluated by the Fleet controller could reach network resources outside the management cluster. A user who can supply bundle content to a repository referenced by a `GitRepo` resource can cause the Fleet controller to:\n- Disclose cluster metadata available to the templating context.\n- Reveal information about hosts reachable from the controller's network position.\nBecause the disclosure channel is name resolution, it may remain effective in environments where outbound traffic is otherwise restricted.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75036",
+   "cvss": null,
+   "ref": "https://github.com/rancher/fleet/security/advisories/GHSA-x9m6-xcjr-hpjp"
+  },
+  "title_vi": "CVE-2026-75036 - Một lỗ hổng bảo mật đã được phát hiện trong quá trình tiền xử lý mẫu Helm của Hạm đội, nơi các mẫu được đánh giá bởi bộ điều khiển Hạm đội có thể truy cập mạng r",
+  "key": "a59ef05f1f94d9b541575acc6c1fa8259b3008d8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82525 — Exterro FTK Imager before 8",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82525",
+  "published": "2026-09-03T16:18:23.077",
+  "summary": "Exterro FTK Imager before 8.3 contains an XML external entity (XXE) injection vulnerability that allows attackers to read arbitrary files from the host filesystem by embedding malicious external entity references and attacker-controlled XSLT stylesheets within a Report.xml file inside a UFDR ZIP evidence item. Attackers can craft a malicious UFDR archive that, when previewed by an examiner, causes the XML parser to resolve file:// external entity references and execute msxsl:script within the external stylesheet to exfiltrate the resolved file contents to an attacker-controlled endpoint via a ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82525",
+   "cvss": 5.5,
+   "ref": "https://d1kpmuwb7gvu1i.cloudfront.net/8.x/8.3.0/Exterro%20FTK%20Imager%208.3%20-%20Release%20Notes.pdf"
+  },
+  "title_vi": "CVE-2026-82525 — Exterro FTK Imager trước 8",
+  "key": "de311028365c2d056acd6ef43ec36b914c3e4b9b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-83961 — ColdFusion is affected by an Improper Authentication vulnerability that could result in privilege escalation",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-83961",
+  "published": "2026-09-03T16:18:23.383",
+  "summary": "ColdFusion is affected by an Improper Authentication vulnerability that could result in privilege escalation. An attacker could leverage this vulnerability to gain limited read and write access. The vulnerable component is restricted to an administrative network zone by default. Exploitation of this issue does not require user interaction. Scope is changed.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-83961",
+   "cvss": 7.1,
+   "ref": "https://helpx.adobe.com/security/products/coldfusion/apsb26-90.html"
+  },
+  "title_vi": "CVE-2026-83961 — ColdFusion bị ảnh hưởng bởi lỗ hổng Xác thực không đúng cách có thể dẫn đến leo thang đặc quyền",
+  "key": "77f42afb140b010d45c95724e89e0317a9fe58d9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84962 — An unauthorized user with key vault write access may cause an authorized client to issue arbitrary authenticated Google Cloud KMS API calls under the ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84962",
+  "published": "2026-09-03T16:18:24.967",
+  "summary": "An unauthorized user with key vault write access may cause an authorized client to issue arbitrary authenticated Google Cloud KMS API calls under the authorized user's identity, escalating database-level access into cloud key control and defeating client-side encryption.",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84962",
+   "cvss": 4.2,
+   "ref": "https://jira.mongodb.org/browse/MONGOCRYPT-960"
+  },
+  "title_vi": "CVE-2026-84962 — Người dùng trái phép có quyền truy cập ghi kho lưu trữ chính có thể khiến khách hàng được ủy quyền phát hành các cuộc gọi API KMS của Google Cloud được xác thực tùy ý theo",
+  "key": "961fc40e23d92a3a5ce4c364722c12f87067d826"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84963 — An incorrect numeric conversion in the JSON parsing component of the MongoDB C Driver's BSON library may cause an unusually large text value to be sil",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84963",
+  "published": "2026-09-03T16:18:25.120",
+  "summary": "An incorrect numeric conversion in the JSON parsing component of the MongoDB C Driver's BSON library may cause an unusually large text value to be silently shortened, or the corresponding field to be omitted, while the parsing operation still reports success and returns no error. An unauthenticated party who can supply the input processed by an application that uses this component may cause that application to hold data that does not match what was submitted, which may result in unintended alteration of data.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84963",
+   "cvss": 5.3,
+   "ref": "https://jira.mongodb.org/browse/CDRIVER-6407"
+  },
+  "title_vi": "CVE-2026-84963 — Chuyển đổi số không chính xác trong thành phần phân tích cú pháp JSON của thư viện BSON của MongoDB C Driver có thể gây ra giá trị văn bản lớn bất thường",
+  "key": "473b68b6efd02ade00a128c959d0f32a90091a3b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84964 — A double free in the OpenSSL-based TLS certificate revocation checking path of the MongoDB C Driver can be reached by a TLS endpoint that the client a",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84964",
+  "published": "2026-09-03T16:18:25.270",
+  "summary": "A double free in the OpenSSL-based TLS certificate revocation checking path of the MongoDB C Driver can be reached by a TLS endpoint that the client already trusts. During the handshake, specially formed certificate data can cause the same heap object to be released twice. An unauthenticated party acting as the trusted endpoint may cause the connecting client application to terminate unexpectedly.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84964",
+   "cvss": 5.9,
+   "ref": "https://jira.mongodb.org/browse/CDRIVER-6409"
+  },
+  "title_vi": "CVE-2026-84964 — Đường dẫn kiểm tra thu hồi chứng chỉ TLS dựa trên OpenSSL của Trình điều khiển MongoDB C có thể đạt được bằng điểm cuối TLS mà khách hàng",
+  "key": "91b561b9bf033dc4affd143f35518ddbac6f2cb2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84965 — An integer wraparound in an allocation size calculation in the BSON library's JSON parsing code can cause a buffer to be released while a following co",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84965",
+  "published": "2026-09-03T16:18:25.417",
+  "summary": "An integer wraparound in an allocation size calculation in the BSON library's JSON parsing code can cause a buffer to be released while a following copy operation still writes through the stale pointer. On builds where sizes are 32 bits, an unauthenticated party able to supply a sufficiently large JSON input to an application that links the library may cause that application to terminate unexpectedly, resulting in denial of service.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84965",
+   "cvss": 5.1,
+   "ref": "https://jira.mongodb.org/browse/CDRIVER-6405"
+  },
+  "title_vi": "CVE-2026-84965 — Một số nguyên bao quanh trong tính toán kích thước phân bổ trong mã phân tích cú pháp JSON của thư viện BSON có thể gây ra một bộ đệm được phát hành trong khi một đồng sau",
+  "key": "4dff6a610beed9a540dc9de8f7e5d91f8aabb1dd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84966 — An incorrect numeric type conversion in the BSON document building component of the MongoDB C++ Driver may cause a length value to be interpreted inco",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84966",
+  "published": "2026-09-03T16:18:25.563",
+  "summary": "An incorrect numeric type conversion in the BSON document building component of the MongoDB C++ Driver may cause a length value to be interpreted incorrectly. When an application supplies an extremely large, non-terminated field name to the builder, the library may read memory outside the intended buffer and terminate the calling process. No authentication is required, but the calling application must pass the oversized name in a specific form.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84966",
+   "cvss": 5.1,
+   "ref": "https://jira.mongodb.org/browse/CXX-3548"
+  },
+  "title_vi": "CVE-2026-84966 — Việc chuyển đổi loại số không chính xác trong thành phần xây dựng tài liệu BSON của Trình điều khiển MongoDB C++ có thể khiến giá trị độ dài được hiểu là inco",
+  "key": "a8b735ea9834729032c175af161610243859946c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84967 — A component of the MongoDB extension for Visual Studio Code does not neutralize special characters in a connection string before that value is placed ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84967",
+  "published": "2026-09-03T16:18:25.703",
+  "summary": "A component of the MongoDB extension for Visual Studio Code does not neutralize special characters in a connection string before that value is placed into a command line the extension composes for an integrated terminal. An unauthenticated remote unauthorized-user who persuades a developer to accept a user-supplied connection target, and then to open the extension's shell feature, can place characters of the unauthorized-user’s choosing into that command line. No privileges on the developer's machine are required, but several user actions are. The confirmation the developer sees does not displ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84967",
+   "cvss": 4.3,
+   "ref": "https://jira.mongodb.org/browse/VSCODE-798"
+  },
+  "title_vi": "CVE-2026-84967 — Một thành phần của tiện ích mở rộng MongoDB cho Visual Studio Code không trung hòa các ký tự đặc biệt trong chuỗi kết nối trước khi giá trị đó được đặt",
+  "key": "4250ae5368b9250e17557601f54f9e37e78836be"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85137 — A security vulnerability has been detected in SeaCMS up to 13",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85137",
+  "published": "2026-09-03T16:18:26.470",
+  "summary": "A security vulnerability has been detected in SeaCMS up to 13.6. This impacts the function parseIf of the file seacms_locoy_news.php of the component Locoy Collector. The manipulation of the argument pwd leads to code injection. The attack may be initiated remotely. The exploit has been disclosed publicly and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85137",
+   "cvss": 7.3,
+   "ref": "https://github.com/T-Chachamaru/seacms-13.6-security-advisories/blob/a084a3e573240d54860153321df271280daec262/d-001-locoy-default-password-template-rce.md"
+  },
+  "title_vi": "CVE-2026-85137 — Một lỗ hổng bảo mật đã được phát hiện trong SeaCMS lên đến 13",
+  "key": "550edaa625a5f129bf0bc07ee8e37a2c6bc56fd0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85138 — A vulnerability was detected in SeaCMS up to 13",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85138",
+  "published": "2026-09-03T16:18:26.677",
+  "summary": "A vulnerability was detected in SeaCMS up to 13.6. Affected is the function addslashes of the file weixin/index.php of the component WeChat Module. The manipulation of the argument Content results in sql injection. The attack may be launched remotely. The exploit is now public and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85138",
+   "cvss": 7.3,
+   "ref": "https://github.com/T-Chachamaru/seacms-13.6-security-advisories/blob/a084a3e573240d54860153321df271280daec262/d-003-weixin-xml-entity-sqli.md"
+  },
+  "title_vi": "CVE-2026-85138 — Một lỗ hổng đã được phát hiện trong SeaCMS lên đến 13",
+  "key": "ee87bc902a57124d7b4bc997e02dfb6fc32402d7"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85236 — A cross-site request forgery (CSRF) vulnerability existed in the cullEmptyEvents action of MISP",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85236",
+  "published": "2026-09-03T16:18:27.013",
+  "summary": "A cross-site request forgery (CSRF) vulnerability existed in the cullEmptyEvents action of MISP. The endpoint performed a state-changing and irreversible operation while accepting HTTP GET requests.\n\n\nBecause bodyless GET requests are not subject to CakePHP's CSRF validation, an attacker could cause an authenticated MISP user with sufficient privileges to invoke the endpoint simply by causing their browser to load a crafted URL, for example through an embedded image or other automatically requested resource.\n\n\nSuccessful exploitation triggers the deletion of published empty events. The deletio",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85236",
+   "cvss": null,
+   "ref": "https://github.com/MISP/MISP/commit/2b6b3ac90"
+  },
+  "title_vi": "CVE-2026-85236 — Lỗ hổng giả mạo yêu cầu chéo (CSRF) tồn tại trong hành động cullEmptyEvents của MISP",
+  "key": "db544ffe14001b302fe961cb092ab7c1ce158d32"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85237 — A vulnerability in MISP's email-based one-time password (OTP) authentication flow allowed an attacker to perform an unrestricted number of OTP verific",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85237",
+  "published": "2026-09-03T16:18:27.163",
+  "summary": "A vulnerability in MISP's email-based one-time password (OTP) authentication flow allowed an attacker to perform an unrestricted number of OTP verification attempts.\n\n\nThe email_otp() endpoint did not apply brute-force protection when validating submitted OTP values. An attacker who had reached the OTP verification stage, for example after successfully providing a user's primary authentication credentials, could repeatedly submit candidate OTP values while the same OTP remained valid. This significantly increased the feasibility of guessing the OTP and bypassing the additional authentication f",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85237",
+   "cvss": null,
+   "ref": "https://github.com/MISP/MISP/commit/8658062ea"
+  },
+  "title_vi": "CVE-2026-85237 — Lỗ hổng trong quy trình xác thực mật khẩu một lần (OTP) dựa trên email của MISP cho phép kẻ tấn công thực hiện xác minh OTP với số lượng không hạn chế",
+  "key": "cd6e0ce98117ff3bce3c4cc6e8ffe54c6d8b6e77"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85238 — MISP contains a session fixation vulnerability in the CustomAuth authentication (a custom configuration) flow",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85238",
+  "published": "2026-09-03T16:18:27.313",
+  "summary": "MISP contains a session fixation vulnerability in the CustomAuth authentication (a custom configuration) flow. When a user was successfully authenticated through CustomAuth, MISP stored the authenticated user identity in the existing session without first rotating the session identifier.\n\n\nAs a result, if an attacker can cause a victim to use a session identifier known to the attacker before authentication, that same session identifier remains valid after the victim successfully authenticates. The attacker could subsequently reuse the fixed session identifier to access the victim's authenticat",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85238",
+   "cvss": null,
+   "ref": "https://github.com/MISP/MISP/commit/e2eb2f058"
+  },
+  "title_vi": "CVE-2026-85238 — MISP chứa lỗ hổng cố định phiên trong quy trình xác thực CustomAuth (cấu hình tùy chỉnh)",
+  "key": "e705621a6d5b53e898b6751540046f473e725833"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85239 — A vulnerability in MISP's event template handling allowed an authenticated user with permission to create or modify event templates to bypass validati",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85239",
+  "published": "2026-09-03T16:18:27.457",
+  "summary": "A vulnerability in MISP's event template handling allowed an authenticated user with permission to create or modify event templates to bypass validation of the template definition field.\n\nThe EventTemplate::beforeValidate() method only performed semantic validation when the supplied definition was already represented as an array. If a caller instead supplied a pre-encoded string, including malformed JSON or JSON representing an unexpected data type, the value bypassed validateDefinition() and only needed to satisfy the generic notBlank validation rule. As a result, an invalid event template de",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85239",
+   "cvss": null,
+   "ref": "https://github.com/MISP/MISP/commit/a90d552b3"
+  },
+  "title_vi": "CVE-2026-85239 — Một lỗ hổng trong việc xử lý mẫu sự kiện của MISP cho phép người dùng được xác thực có quyền tạo hoặc sửa đổi các mẫu sự kiện để bỏ qua xác thực",
+  "key": "93022327d198e6abe99d977268626d0bca123320"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75602 — OpenList a file list program that supports multiple storage",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75602",
+  "published": "2026-09-03T17:17:23.757",
+  "summary": "OpenList a file list program that supports multiple storage. Prior to 4.2.3, OpenList's offline-download feature at POST /api/fs/add_offline_download with tool: \"SimpleHttp\" accepts an attacker-supplied URL and saves its bytes under a per-task temporary directory before transferring them to the user's destination storage. The temporary filename comes from the attacker-controlled Content-Disposition header, is passed from parseFilenameFromContentDisposition in internal/offline_download/http/util.go to filepath.Join(task.TempDir, filename) in SimpleHttp.Run in internal/offline_download/http/clie",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75602",
+   "cvss": 6.5,
+   "ref": "https://github.com/OpenListTeam/OpenList/commit/9cc5dd969b9833c8cb4e14c338c3571dfdbe2108"
+  },
+  "title_vi": "CVE-2026-75602 — OpenList một chương trình danh sách tệp hỗ trợ nhiều bộ nhớ",
+  "key": "5cabfaea3e3eef026eeaa15bc2c48237174e937f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81281 — Subscriber Cross Site Scripting (XSS) in Graphene <= 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81281",
+  "published": "2026-09-03T17:17:23.907",
+  "summary": "Subscriber Cross Site Scripting (XSS) in Graphene <= 2.9.4 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81281",
+   "cvss": 6.5,
+   "ref": "https://patchstack.com/database/wordpress/theme/graphene/vulnerability/wordpress-graphene-theme-2-9-4-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-81281 — Tập lệnh chéo trang web của người đăng ký (XSS) trong Graphene <= 2",
+  "key": "4ecbbc8799dd4492af644f052056319f0c9a5086"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81282 — Subscriber Cross Site Scripting (XSS) in Product Variations Swatches for WooCommerce <= 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81282",
+  "published": "2026-09-03T17:17:24.033",
+  "summary": "Subscriber Cross Site Scripting (XSS) in Product Variations Swatches for WooCommerce <= 1.1.18 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81282",
+   "cvss": 6.5,
+   "ref": "https://patchstack.com/database/wordpress/plugin/product-variations-swatches-for-woocommerce/vulnerability/wordpress-product-variations-swatches-for-woocommerce-plugin-1-1-18-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-81282 — Tập lệnh chéo trang web của người đăng ký (XSS) trong Mẫu biến thể sản phẩm cho WooCommerce <= 1",
+  "key": "8d8bb0205ba8f85f53a8eb6ab0d27a16dc8be7c9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81292 — Unauthenticated Cross Site Scripting (XSS) in Simple Payment <= 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81292",
+  "published": "2026-09-03T17:17:24.163",
+  "summary": "Unauthenticated Cross Site Scripting (XSS) in Simple Payment <= 2.5.1 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81292",
+   "cvss": 7.1,
+   "ref": "https://patchstack.com/database/wordpress/plugin/simple-payment/vulnerability/wordpress-simple-payment-plugin-2-5-1-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-81292 — Kịch bản chéo trang không được xác thực (XSS) trong Thanh toán đơn giản <= 2",
+  "key": "f0ee36b6c4691aaf07fc142fe3fcc1f6ebe8c42f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81295 — Unauthenticated Cross Site Scripting (XSS) in Under Construction <= 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81295",
+  "published": "2026-09-03T17:17:24.290",
+  "summary": "Unauthenticated Cross Site Scripting (XSS) in Under Construction <= 5.82 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81295",
+   "cvss": 7.1,
+   "ref": "https://patchstack.com/database/wordpress/plugin/under-construction-page/vulnerability/wordpress-under-construction-plugin-5-82-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-81295 — Kịch bản chéo trang web chưa được xác thực (XSS) trong Đang xây dựng <= 5",
+  "key": "4ff15f7733b632ffc86c729bd5efcd04f02e2c4c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81300 — Unauthenticated Cross Site Scripting (XSS) in Calculation For Contact Form 7 <= 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81300",
+  "published": "2026-09-03T17:17:24.410",
+  "summary": "Unauthenticated Cross Site Scripting (XSS) in Calculation For Contact Form 7 <= 1.0 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81300",
+   "cvss": 7.1,
+   "ref": "https://patchstack.com/database/wordpress/plugin/calculation-for-contact-form-7/vulnerability/wordpress-calculation-for-contact-form-7-plugin-1-0-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-81300 — Kịch bản chéo trang chưa được xác thực (XSS) trong Tính toán cho Biểu mẫu liên hệ 7 <= 1",
+  "key": "42e5745f5544080a694df62f926227533f56e506"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81773 — Unauthenticated Cross Site Scripting (XSS) in Ninja Forms File Uploads Extension <= 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81773",
+  "published": "2026-09-03T17:17:24.533",
+  "summary": "Unauthenticated Cross Site Scripting (XSS) in  Ninja Forms File Uploads Extension <= 3.3.26 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81773",
+   "cvss": 7.1,
+   "ref": "https://patchstack.com/database/wordpress/plugin/ninja-forms-uploads/vulnerability/wordpress-ninja-forms-file-uploads-extension-plugin-3-3-26-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-81773 — Tập lệnh chéo trang web chưa được xác thực (XSS) trong tiện ích mở rộng tải lên tệp Ninja Forms <= 3",
+  "key": "1ddc5a2dd8fe1ad204eb4d337c7b9b77d9aed706"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81776 — Unauthenticated Cross Site Scripting (XSS) in WP QuickLaTeX <= 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81776",
+  "published": "2026-09-03T17:17:24.650",
+  "summary": "Unauthenticated Cross Site Scripting (XSS) in WP QuickLaTeX <= 3.8.8 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81776",
+   "cvss": 7.1,
+   "ref": "https://patchstack.com/database/wordpress/plugin/wp-quicklatex/vulnerability/wordpress-wp-quicklatex-plugin-3-8-8-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-81776 — Cross Site Scripting (XSS) chưa được xác thực trong WP QuickLaTeX <= 3",
+  "key": "803cd534beae5bc4506fd8f4bebbf1bba6756b60"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84215 — Unauthenticated Broken Access Control in Timetics <= 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84215",
+  "published": "2026-09-03T17:17:25.030",
+  "summary": "Unauthenticated Broken Access Control in Timetics <= 1.0.61 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84215",
+   "cvss": 6.5,
+   "ref": "https://patchstack.com/database/wordpress/plugin/timetics/vulnerability/wordpress-timetics-plugin-1-0-61-broken-access-control-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-84215 - Kiểm soát truy cập bị hỏng không được xác thực trong thời gian <= 1",
+  "key": "e7839fbaf2292632a4c291e2b19e888816a7e664"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84238 — Unauthenticated Broken Access Control in YITH Request a Quote for WooCommerce Premium < 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84238",
+  "published": "2026-09-03T17:17:25.150",
+  "summary": "Unauthenticated Broken Access Control in YITH Request a Quote for WooCommerce Premium < 4.46.0 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84238",
+   "cvss": 9.8,
+   "ref": "https://patchstack.com/database/wordpress/plugin/yith-woocommerce-request-a-quote-premium/vulnerability/wordpress-yith-request-a-quote-for-woocommerce-premium-plugin-4-46-0-broken-access-control-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-84238 — Kiểm soát truy cập bị hỏng chưa được xác thực trong YITH Yêu cầu báo giá cho WooCommerce Premium < 4",
+  "key": "8bfaf72aaffd0bb35d02e07baf4980f1fe82ed7a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84736 — In the current development version of Eclipse aeriOS, for which no official release has yet been published, the Federator component disables TLS certi",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84736",
+  "published": "2026-09-03T17:17:25.427",
+  "summary": "In the current development version of Eclipse aeriOS, for which no official release has yet been published, the Federator component disables TLS certificate validation for outbound HTTPS connections by default. When the TLS_CERTIFICATE_VALIDATION environment variable is unset or set to false, the component configures its HTTP transport to skip TLS certificate verification.\n\n\n\n\nAs a result, an attacker able to intercept network communications between the Federator and external services could impersonate those services and intercept sensitive information transmitted over HTTPS, including OAuth c",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84736",
+   "cvss": null,
+   "ref": "https://github.com/eclipse-aerios/federator/commit/9c63b60becc9873b0195ff9cd6582b69cb12d4f2"
+  },
+  "title_vi": "CVE-2026-84736 — Trong phiên bản phát triển hiện tại của Eclipse aeriOS, chưa có bản phát hành chính thức nào được công bố, thành phần Federator sẽ vô hiệu hóa TLS certi",
+  "key": "f8e38ff47ef9a61b8e1f5db4fc4fb15a88a947d7"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84752 — Contributor PHP Object Injection in RTMKit <= 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84752",
+  "published": "2026-09-03T17:17:25.547",
+  "summary": "Contributor PHP Object Injection in RTMKit <= 2.1.5 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84752",
+   "cvss": 8.8,
+   "ref": "https://patchstack.com/database/wordpress/plugin/rometheme-for-elementor/vulnerability/wordpress-rtmkit-plugin-2-1-5-php-object-injection-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-84752 — Contributor PHP Object Injection trong RTMKit <= 2",
+  "key": "6fc73d7119945955421800b243c9f11056b2d8f2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84753 — Unauthenticated PHP Object Injection in Mail Mint <= 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84753",
+  "published": "2026-09-03T17:17:25.673",
+  "summary": "Unauthenticated PHP Object Injection in Mail Mint <= 1.31.0 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84753",
+   "cvss": 9.8,
+   "ref": "https://patchstack.com/database/wordpress/plugin/mail-mint/vulnerability/wordpress-mail-mint-plugin-1-31-0-php-object-injection-vulnerability?_s_id=cve"
+  },
+  "title_vi": "",
+  "key": "ea3ef5e5242d45e0103f435dfa34dca6c49acddd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84754 — Unauthenticated Broken Access Control in WPFunnels <= 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84754",
+  "published": "2026-09-03T17:17:25.797",
+  "summary": "Unauthenticated Broken Access Control in WPFunnels <= 3.12.13 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84754",
+   "cvss": 6.5,
+   "ref": "https://patchstack.com/database/wordpress/plugin/wpfunnels/vulnerability/wordpress-wpfunnels-plugin-3-12-13-broken-access-control-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-84754 - Kiểm soát truy cập bị hỏng không được xác thực trong WPFunnels <= 3",
+  "key": "f6b150a415de651eeca5ca5ef1077224407b8696"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84755 — Unauthenticated Broken Access Control in Mail Mint <= 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84755",
+  "published": "2026-09-03T17:17:25.917",
+  "summary": "Unauthenticated Broken Access Control in Mail Mint <= 1.31.0 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84755",
+   "cvss": 6.5,
+   "ref": "https://patchstack.com/database/wordpress/plugin/mail-mint/vulnerability/wordpress-mail-mint-plugin-1-31-0-broken-access-control-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-84755 — Kiểm soát truy cập bị hỏng không được xác thực trong Mail Mint <= 1",
+  "key": "79d80316a4152c5b3ad34266cd194431dfe0ec12"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84756 — Subscriber Privilege Escalation in WCFM Membership <= 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84756",
+  "published": "2026-09-03T17:17:26.117",
+  "summary": "Subscriber Privilege Escalation in WCFM Membership <= 2.11.11 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84756",
+   "cvss": 7.1,
+   "ref": "https://patchstack.com/database/wordpress/plugin/wc-multivendor-membership/vulnerability/wordpress-wcfm-membership-plugin-2-11-11-privilege-escalation-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-84756 - Nâng cấp đặc quyền thuê bao trong tư cách thành viên WCFM <= 2",
+  "key": "6c893ed16686dba3c94e523714790668e833c3fd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84757 — Unauthenticated Settings Change in WP Compress <= 7",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84757",
+  "published": "2026-09-03T17:17:26.660",
+  "summary": "Unauthenticated Settings Change in WP Compress <= 7.21.28 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84757",
+   "cvss": 8.2,
+   "ref": "https://patchstack.com/database/wordpress/plugin/wp-compress-image-optimizer/vulnerability/wordpress-wp-compress-plugin-7-21-28-settings-change-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-84757 — Thay đổi cài đặt chưa được xác thực trong WP Compress <= 7",
+  "key": "b20b8bb80faa46034083365cf228143b048a3b36"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84758 — Unauthenticated Broken Access Control in Business Directory <= 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84758",
+  "published": "2026-09-03T17:17:26.787",
+  "summary": "Unauthenticated Broken Access Control in Business Directory <= 6.4.26 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84758",
+   "cvss": 6.5,
+   "ref": "https://patchstack.com/database/wordpress/plugin/business-directory-plugin/vulnerability/wordpress-business-directory-plugin-6-4-26-broken-access-control-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-84758 - Kiểm soát truy cập bị hỏng không được xác thực trong Danh bạ doanh nghiệp <= 6",
+  "key": "2ca5ddb6dc6bcef15aec14c2eae570684a4bd87b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84761 — Unauthenticated Server Side Request Forgery (SSRF) in LiteSpeed Cache <= 7",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84761",
+  "published": "2026-09-03T17:17:27.060",
+  "summary": "Unauthenticated Server Side Request Forgery (SSRF) in LiteSpeed Cache <= 7.9 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84761",
+   "cvss": 7.2,
+   "ref": "https://patchstack.com/database/wordpress/plugin/litespeed-cache/vulnerability/wordpress-litespeed-cache-plugin-7-9-server-side-request-forgery-ssrf-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-84761 — Giả mạo yêu cầu phía máy chủ chưa được xác thực (SSRF) trong LiteSpeed Cache <= 7",
+  "key": "576b645a6be9250f57913b757a14319026eed7af"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84762 — Unauthenticated Bypass Vulnerability in WP EasyPay <= 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84762",
+  "published": "2026-09-03T17:17:27.320",
+  "summary": "Unauthenticated Bypass Vulnerability in WP EasyPay <= 4.5.3 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84762",
+   "cvss": 5.3,
+   "ref": "https://patchstack.com/database/wordpress/plugin/wp-easy-pay/vulnerability/wordpress-wp-easypay-plugin-4-5-3-bypass-vulnerability-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-84762 — Lỗ hổng Bypass không được xác thực trong WP EasyPay <= 4",
+  "key": "9b4402b8200772bcee6530102d1203e21a155beb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84763 — Unauthenticated Cross Site Scripting (XSS) in RTMKit <= 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84763",
+  "published": "2026-09-03T17:17:27.450",
+  "summary": "Unauthenticated Cross Site Scripting (XSS) in RTMKit <= 2.1.5 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84763",
+   "cvss": 7.1,
+   "ref": "https://patchstack.com/database/wordpress/plugin/rometheme-for-elementor/vulnerability/wordpress-rtmkit-plugin-2-1-5-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-84763 — Kịch bản chéo trang không được xác thực (XSS) trong RTMKit <= 2",
+  "key": "81cbe95015ff99bd6cb58e8142fd5ccc0df6ceb2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84765 — Unauthenticated Cross Site Scripting (XSS) in Breadcrumb NavXT <= 7",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84765",
+  "published": "2026-09-03T17:17:27.580",
+  "summary": "Unauthenticated Cross Site Scripting (XSS) in Breadcrumb NavXT <= 7.5.1 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84765",
+   "cvss": 7.1,
+   "ref": "https://patchstack.com/database/wordpress/plugin/breadcrumb-navxt/vulnerability/wordpress-breadcrumb-navxt-plugin-7-5-1-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-84765 — Cross Site Scripting (XSS) chưa được xác thực trong Breadcrumb NavXT <= 7",
+  "key": "0644dbbf58f19b17aa5d37b07f853372173edc69"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84766 — Unauthenticated Bypass Vulnerability in FluentBooking Pro <= 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84766",
+  "published": "2026-09-03T17:17:27.753",
+  "summary": "Unauthenticated Bypass Vulnerability in FluentBooking Pro <= 2.2.1 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84766",
+   "cvss": 5.9,
+   "ref": "https://patchstack.com/database/wordpress/plugin/fluent-booking-pro/vulnerability/wordpress-fluentbooking-pro-plugin-2-2-1-bypass-vulnerability-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-84766 — Lỗ hổng Bypass không được xác thực trong FluentBooking Pro <= 2",
+  "key": "a8a4b83d8e2332e74ffcfaf30a6c88f67785de65"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84767 — Unauthenticated Bypass Vulnerability in BookIt <= 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84767",
+  "published": "2026-09-03T17:17:27.880",
+  "summary": "Unauthenticated Bypass Vulnerability in BookIt <= 2.6.0.3 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84767",
+   "cvss": 5.3,
+   "ref": "https://patchstack.com/database/wordpress/plugin/bookit/vulnerability/wordpress-bookit-plugin-2-6-0-3-bypass-vulnerability-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-84767 — Lỗ hổng Bypass không được xác thực trong BookIt <= 2",
+  "key": "52f7417becdafe8f3b9711c9c0cd1500621c60e7"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84768 — Unauthenticated SQL Injection in VikAppointments Services Booking Calendar <= 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84768",
+  "published": "2026-09-03T17:17:28.010",
+  "summary": "Unauthenticated SQL Injection in VikAppointments Services Booking Calendar <= 1.2.20 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84768",
+   "cvss": 9.3,
+   "ref": "https://patchstack.com/database/wordpress/plugin/vikappointments/vulnerability/wordpress-vikappointments-services-booking-calendar-plugin-1-2-20-sql-injection-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-84768 — SQL Injection chưa được xác thực trong VikAppointments Services Booking Calendar <= 1",
+  "key": "b6956de9ae2c82bb180816e230c529546c0c3868"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84769 — Unauthenticated Insecure Direct Object References (IDOR) in Business Directory <= 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84769",
+  "published": "2026-09-03T17:17:28.140",
+  "summary": "Unauthenticated Insecure Direct Object References (IDOR) in Business Directory <= 6.4.26 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84769",
+   "cvss": 6.5,
+   "ref": "https://patchstack.com/database/wordpress/plugin/business-directory-plugin/vulnerability/wordpress-business-directory-plugin-6-4-26-insecure-direct-object-references-idor-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-84769 - Tham chiếu đối tượng trực tiếp không an toàn không được xác thực (IDOR) trong Danh mục kinh doanh <= 6",
+  "key": "ebc9f8efcb952ce3e74268c790cdcdd0ee803845"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84773 — Unauthenticated Cross Site Scripting (XSS) in EWWW Image Optimizer <= 8",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84773",
+  "published": "2026-09-03T17:17:28.263",
+  "summary": "Unauthenticated Cross Site Scripting (XSS) in EWWW Image Optimizer <= 8.7.6 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84773",
+   "cvss": 7.2,
+   "ref": "https://patchstack.com/database/wordpress/plugin/ewww-image-optimizer/vulnerability/wordpress-ewww-image-optimizer-plugin-8-7-6-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-84773 — Cross Site Scripting (XSS) chưa được xác thực trong Trình tối ưu hóa hình ảnh EWWW <= 8",
+  "key": "494ad137c35df8414763c2f4a58124fe3cba554f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84774 — Unauthenticated Cross Site Scripting (XSS) in WP Statistics <= 14",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84774",
+  "published": "2026-09-03T17:17:28.383",
+  "summary": "Unauthenticated Cross Site Scripting (XSS) in WP Statistics <= 14.16.11 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84774",
+   "cvss": 6.1,
+   "ref": "https://patchstack.com/database/wordpress/plugin/wp-statistics/vulnerability/wordpress-wp-statistics-plugin-14-16-11-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-84774 — Cross Site Scripting (XSS) không được xác thực trong WP Statistics <= 14",
+  "key": "d072fc1e8fc3272559f6a1d93b1a0b503199a8e4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84776 — Unauthenticated Denial of Service Attack in MalCare Security <= 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84776",
+  "published": "2026-09-03T17:17:28.507",
+  "summary": "Unauthenticated Denial of Service Attack in MalCare Security <= 6.69 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84776",
+   "cvss": 7.5,
+   "ref": "https://patchstack.com/database/wordpress/plugin/malcare-security/vulnerability/wordpress-malcare-security-plugin-6-69-denial-of-service-attack-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-84776 — Tấn công từ chối dịch vụ không được xác thực trong MalCare Security <= 6",
+  "key": "9e4a0c00678c318902a4c44a04ee49c50b64acfd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84777 — Unauthenticated Broken Authentication in Really Simple SSL <= 9",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84777",
+  "published": "2026-09-03T17:17:28.623",
+  "summary": "Unauthenticated Broken Authentication in Really Simple SSL <= 9.8.0 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84777",
+   "cvss": 7.4,
+   "ref": "https://patchstack.com/database/wordpress/plugin/really-simple-ssl/vulnerability/wordpress-really-simple-ssl-plugin-9-8-0-2fa-bypass-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-84777 - Xác thực bị hỏng không được xác thực trong SSL thực sự đơn giản <= 9",
+  "key": "fdaa7f1ba8bd2e22f26262763158ee511dc04b26"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84778 — Unauthenticated Denial of Service Attack in Migrate Guru – Site Migration &amp; Cloning <= 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84778",
+  "published": "2026-09-03T17:17:28.747",
+  "summary": "Unauthenticated Denial of Service Attack in Migrate Guru – Site Migration &amp; Cloning <= 6.65 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84778",
+   "cvss": 7.5,
+   "ref": "https://patchstack.com/database/wordpress/plugin/migrate-guru/vulnerability/wordpress-migrate-guru-site-migration-cloning-plugin-6-65-denial-of-service-attack-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-84778 — Tấn công từ chối dịch vụ không được xác thực trong Guru di cư – Di chuyển và nhân bản trang web &lt;= 6",
+  "key": "1f0e271d1c68aa449b94f0a68836e351efb28784"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84779 — Subscriber Broken Access Control in Agentimus – AI SEO, llms",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84779",
+  "published": "2026-09-03T17:17:28.880",
+  "summary": "Subscriber Broken Access Control in Agentimus – AI SEO, llms.txt &amp; MCP for AI Agents <= 1.51.0 versions.",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84779",
+   "cvss": 8.1,
+   "ref": "https://patchstack.com/database/wordpress/plugin/agentimus/vulnerability/wordpress-agentimus-ai-seo-llms-txt-mcp-for-ai-agents-plugin-1-51-0-broken-access-control-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-84779 — Người đăng ký Kiểm soát truy cập bị hỏng trong Agentimus – AI SEO, llms",
+  "key": "0f6a76d3a0cf02fbb05978a79f1589b37478307a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84812 — Unauthenticated Cross Site Scripting (XSS) in BP Better Messages <= 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84812",
+  "published": "2026-09-03T17:17:29.033",
+  "summary": "Unauthenticated Cross Site Scripting (XSS) in BP Better Messages <= 2.15.27 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84812",
+   "cvss": 7.1,
+   "ref": "https://patchstack.com/database/wordpress/plugin/bp-better-messages/vulnerability/wordpress-bp-better-messages-plugin-2-15-27-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-84812 — Kịch bản chéo trang không được xác thực (XSS) trong Thông điệp tốt hơn của BP <= 2",
+  "key": "2b205919d2e70901cdc85f3d5a9363503fcf557e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84813 — Unauthenticated SQL Injection in GeoDirectory <= 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84813",
+  "published": "2026-09-03T17:17:29.157",
+  "summary": "Unauthenticated SQL Injection in GeoDirectory <= 2.8.174 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84813",
+   "cvss": 9.3,
+   "ref": "https://patchstack.com/database/wordpress/plugin/geodirectory/vulnerability/wordpress-geodirectory-plugin-2-8-174-sql-injection-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-84813 — SQL Injection chưa được xác thực trong GeoDirectory <= 2",
+  "key": "a9e5d2f5957350aa5855c0f5230159a3b20c47a3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84814 — Subscriber Privilege Escalation in Bricksforge <= 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84814",
+  "published": "2026-09-03T17:17:29.277",
+  "summary": "Subscriber Privilege Escalation in Bricksforge <= 3.1.8.8 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84814",
+   "cvss": 9.8,
+   "ref": "https://patchstack.com/database/wordpress/plugin/bricksforge/vulnerability/wordpress-bricksforge-plugin-3-1-8-8-privilege-escalation-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-84814 — Đặc quyền của người đăng ký leo thang trong Bricksforge <= 3",
+  "key": "626e227d33e40f1be67236b008a92110830b9a3a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84834 — Unauthenticated PHP Object Injection in JobSearch <= 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84834",
+  "published": "2026-09-03T17:17:29.400",
+  "summary": "Unauthenticated PHP Object Injection in JobSearch <= 3.2.0 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84834",
+   "cvss": 9.8,
+   "ref": "https://patchstack.com/database/wordpress/plugin/wp-jobsearch/vulnerability/wordpress-jobsearch-plugin-3-2-0-php-object-injection-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-84834 — PHP Object Injection chưa được xác thực trong JobSearch <= 3",
+  "key": "7554bc10f48e4f8379f4014a57566f100bac15f5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84836 — Subscriber Insecure Direct Object References (IDOR) in WC Ukraine Shipping <= 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84836",
+  "published": "2026-09-03T17:17:29.517",
+  "summary": "Subscriber Insecure Direct Object References (IDOR) in WC Ukraine Shipping <= 1.22.3 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84836",
+   "cvss": 7.1,
+   "ref": "https://patchstack.com/database/wordpress/plugin/wc-ukr-shipping/vulnerability/wordpress-wc-ukraine-shipping-plugin-1-22-3-insecure-direct-object-references-idor-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-84836 - Tham chiếu đối tượng trực tiếp không an toàn của người đăng ký (IDOR) trong WC Ukraina Vận chuyển <= 1",
+  "key": "67ba61e280c2aa6f0db79b27868d5c6c3e15d3bc"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84847 — Unauthenticated Broken Access Control in Quick Event Manager <= 9",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84847",
+  "published": "2026-09-03T17:17:29.643",
+  "summary": "Unauthenticated Broken Access Control in Quick Event Manager <= 9.17 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84847",
+   "cvss": 7.5,
+   "ref": "https://patchstack.com/database/wordpress/plugin/quick-event-manager/vulnerability/wordpress-quick-event-manager-plugin-9-17-broken-access-control-vulnerability?_s_id=cve"
+  },
+  "title_vi": "",
+  "key": "7896e841c74af2dc67e26c7754af4c8ced371686"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84848 — Unauthenticated Cross Site Scripting (XSS) in Quick Event Manager <= 9",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84848",
+  "published": "2026-09-03T17:17:29.770",
+  "summary": "Unauthenticated Cross Site Scripting (XSS) in Quick Event Manager <= 9.17 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84848",
+   "cvss": 7.1,
+   "ref": "https://patchstack.com/database/wordpress/plugin/quick-event-manager/vulnerability/wordpress-quick-event-manager-plugin-9-17-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "",
+  "key": "e35a4827ef813ef2bccbac4f9387024719e4b222"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84849 — Unauthenticated Bypass Vulnerability in Pre-Orders for WooCommerce <= 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84849",
+  "published": "2026-09-03T17:17:29.883",
+  "summary": "Unauthenticated Bypass Vulnerability in Pre-Orders for WooCommerce <= 2.3 versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84849",
+   "cvss": 6.5,
+   "ref": "https://patchstack.com/database/wordpress/plugin/pre-orders-for-woocommerce/vulnerability/wordpress-pre-orders-for-woocommerce-plugin-2-3-bypass-vulnerability-vulnerability?_s_id=cve"
+  },
+  "title_vi": "",
+  "key": "f2c9661190005169dbd56073cb3ea3bef31259ac"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85186 — A weakness has been identified in itsourcecode Online Medicine Delivery System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85186",
+  "published": "2026-09-03T17:17:30.007",
+  "summary": "A weakness has been identified in itsourcecode Online Medicine Delivery System 1.0. Affected by this vulnerability is the function doupdateimage of the file /customer/controller.php?action=photos of the component Customer Controller. Executing a manipulation of the argument photo can lead to unrestricted upload. The attack may be performed from remote. The exploit has been made available to the public and could be used for attacks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85186",
+   "cvss": 6.3,
+   "ref": "https://github.com/boyslikesports/202607_vul_dir/blob/main/C-11-FileUpload-RCE-Customer_en.md"
+  },
+  "title_vi": "",
+  "key": "710d50fcbad55a18f256cc14bf8b55304b14927a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85242 — PlaywrightCapture contains a server-side request forgery (SSRF) vulnerability in its favicon retrieval functionality",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85242",
+  "published": "2026-09-03T17:17:30.177",
+  "summary": "PlaywrightCapture contains a server-side request forgery (SSRF) vulnerability in its favicon retrieval functionality. When only_global_lookup is enabled, the application validates the initial favicon URL to prevent requests to localhost, loopback, or other non-public network addresses. However, redirects followed by aiohttp were not subjected to the same validation.\n\n\nAn attacker able to influence the content of a page processed by PlaywrightCapture could specify a publicly reachable favicon URL that responds with an HTTP redirect to a local or otherwise restricted address, such as 127.0.0.1, ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85242",
+   "cvss": null,
+   "ref": "https://github.com/Lookyloo/PlaywrightCapture/commit/b912a04f7b190807b5e14e497048896bc5016fb9"
+  },
+  "title_vi": "",
+  "key": "c1fa8b6da0bef64a3be16b7550c5ef65d831dbad"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85302 — Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in WPKoi WordPress Themes WPKoi Templates for Eleme",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85302",
+  "published": "2026-09-03T17:17:30.320",
+  "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in WPKoi WordPress Themes WPKoi Templates for Elementor allows DOM-Based XSS.\n\nThis issue affects WPKoi Templates for Elementor: from n/a through 3.7.2.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85302",
+   "cvss": 6.5,
+   "ref": "https://patchstack.com/database/wordpress/plugin/wpkoi-templates-for-elementor/vulnerability/wordpress-wpkoi-templates-for-elementor-plugin-3-7-2-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "",
+  "key": "defd238dc9da2c6bb7a962cd7a02f5e28300addc"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85303 — Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Magepeople inc",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85303",
+  "published": "2026-09-03T17:17:30.457",
+  "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Magepeople inc. Booking and Rental Manager allows Stored XSS.\n\nThis issue affects Booking and Rental Manager: from n/a through 2.7.7.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85303",
+   "cvss": 6.5,
+   "ref": "https://patchstack.com/database/wordpress/plugin/booking-and-rental-manager-for-woocommerce/vulnerability/wordpress-booking-and-rental-manager-plugin-2-7-7-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "",
+  "key": "9646c1419b8da691a4c4c2b19e2bdc9ea9ea7040"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85304 — Missing Authorization vulnerability in Unlimited Elements Unlimited Elements For Elementor (Free Widgets, Addons, Templates) allows Exploiting Incorre",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85304",
+  "published": "2026-09-03T17:17:30.580",
+  "summary": "Missing Authorization vulnerability in Unlimited Elements Unlimited Elements For Elementor (Free Widgets, Addons, Templates) allows Exploiting Incorrectly Configured Access Control Security Levels.\n\nThis issue affects Unlimited Elements For Elementor (Free Widgets, Addons, Templates): from n/a through 2.0.17.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85304",
+   "cvss": 5.3,
+   "ref": "https://patchstack.com/database/wordpress/plugin/unlimited-elements-for-elementor/vulnerability/wordpress-unlimited-elements-for-elementor-free-widgets-addons-templates-plugin-2-0-17-broken-access-control-vulnerability?_s_id=cve"
+  },
+  "title_vi": "",
+  "key": "b9308cd908fca11c8978987d873fe064919e7a5e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85305 — Server-Side Request Forgery (SSRF) vulnerability in SEOPress allows Server Side Request Forgery",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85305",
+  "published": "2026-09-03T17:17:30.710",
+  "summary": "Server-Side Request Forgery (SSRF) vulnerability in SEOPress allows Server Side Request Forgery.\n\nThis issue affects SEOPress: from n/a through 10.1.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85305",
+   "cvss": 5.4,
+   "ref": "https://patchstack.com/database/wordpress/plugin/wp-seopress/vulnerability/wordpress-seopress-plugin-10-1-server-side-request-forgery-ssrf-vulnerability?_s_id=cve"
+  },
+  "title_vi": "",
+  "key": "f46d7f56481b6fda8da760f3f8c018abad7c0eaa"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85306 — Missing Authorization vulnerability in Cascadia Web Services MountDev AI MCP Connector for WordPress allows Exploiting Incorrectly Configured Access C",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85306",
+  "published": "2026-09-03T17:17:30.833",
+  "summary": "Missing Authorization vulnerability in Cascadia Web Services MountDev AI MCP Connector for WordPress allows Exploiting Incorrectly Configured Access Control Security Levels.\n\nThis issue affects MountDev AI MCP Connector for WordPress: from n/a through 1.6.5.",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85306",
+   "cvss": 6.5,
+   "ref": "https://patchstack.com/database/wordpress/plugin/mountdev-ai-mcp-connector/vulnerability/wordpress-mountdev-ai-mcp-connector-for-wordpress-plugin-1-6-5-broken-access-control-vulnerability?_s_id=cve"
+  },
+  "title_vi": "",
+  "key": "9b221bf1ed52b60326b1d22cd819ad4a33f137b8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85307 — Insertion of Sensitive Information Into Sent Data vulnerability in Kevin Pirnie KP Agent Ready allows Retrieve Embedded Sensitive Data",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85307",
+  "published": "2026-09-03T17:17:30.963",
+  "summary": "Insertion of Sensitive Information Into Sent Data vulnerability in Kevin Pirnie KP Agent Ready allows Retrieve Embedded Sensitive Data.\n\nThis issue affects KP Agent Ready: from n/a before 1.2.08.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85307",
+   "cvss": 5.3,
+   "ref": "https://patchstack.com/database/wordpress/plugin/kp-agent-ready/vulnerability/wordpress-kp-agent-ready-plugin-1-1-99-sensitive-data-exposure-vulnerability?_s_id=cve"
+  },
+  "title_vi": "",
+  "key": "0a6455bbf4b1a591ea788f161e9965ed57706678"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85308 — Authorization Bypass Through User-Controlled Key vulnerability in Brainstorm Force SureForms allows Exploiting Incorrectly Configured Access Control S",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85308",
+  "published": "2026-09-03T17:17:31.097",
+  "summary": "Authorization Bypass Through User-Controlled Key vulnerability in Brainstorm Force SureForms allows Exploiting Incorrectly Configured Access Control Security Levels.\n\nThis issue affects SureForms: from n/a through 2.12.5.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85308",
+   "cvss": 5.3,
+   "ref": "https://patchstack.com/database/wordpress/plugin/sureforms/vulnerability/wordpress-sureforms-plugin-2-12-5-insecure-direct-object-references-idor-vulnerability?_s_id=cve"
+  },
+  "title_vi": "",
+  "key": "bdfcee10b13378ae7797c1ff7cd75d6274c715ff"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85309 — Missing Authorization vulnerability in Supsystic Ultimate Maps by Supsystic allows Exploiting Incorrectly Configured Access Control Security Levels",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85309",
+  "published": "2026-09-03T17:17:31.220",
+  "summary": "Missing Authorization vulnerability in Supsystic Ultimate Maps by Supsystic allows Exploiting Incorrectly Configured Access Control Security Levels.\n\nThis issue affects Ultimate Maps by Supsystic: from n/a through 1.5.3.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85309",
+   "cvss": 5.3,
+   "ref": "https://patchstack.com/database/wordpress/plugin/ultimate-maps-by-supsystic/vulnerability/wordpress-ultimate-maps-by-supsystic-plugin-1-5-3-broken-access-control-vulnerability?_s_id=cve"
+  },
+  "title_vi": "",
+  "key": "bb8d3d2d117790da8e082e694c17495472ff82a0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-58400 — GeoNetwork is a catalog application to manage spatially referenced resources",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-58400",
+  "published": "2026-09-03T18:17:22.827",
+  "summary": "GeoNetwork is a catalog application to manage spatially referenced resources. Prior to versions 4.4.12 and 4.2.17, the Saxon XSLT processor used to render formatters is configured without secure processing (`FEATURE_SECURE_PROCESSING`) and without disabling Java extension functions (`ALLOW_EXTERNAL_FUNCTIONS`). Any stylesheet loaded by GeoNetwork can therefore invoke\n`java.lang.Runtime.exec()` or `java.lang.ProcessBuilder` directly, achieving arbitrary command execution as the GeoNetwork process user. A user with sufficient privileges to upload a formatter can deliver a `.xsl` file containing ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-58400",
+   "cvss": 9.1,
+   "ref": "https://docs.geonetwork-opensource.org/4.2/overview/change-log/version-4.2.17"
+  },
+  "title_vi": "",
+  "key": "02ee30589233712e488bddcfb4319060cecfbc48"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-63219 — GeoNetwork is a catalog application to manage spatially referenced resources",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63219",
+  "published": "2026-09-03T18:17:22.997",
+  "summary": "GeoNetwork is a catalog application to manage spatially referenced resources. Prior to versions 4.4.12 and 4.2.17, the API endpoint for creating a new formatter via file upload is unprotected and allows the upload of external uncontrolled files. An unauthenticated attacker can upload arbitrary `.xsl` or `.zip` formatter files to the server.  An unauthenticated attacker can write arbitrary files into the GeoNetwork formatter directory. On its own this constitutes unauthorized write access to server storage. The issue is patched in GeoNetwork versions 4.4.12 and 4.2.17.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-63219",
+   "cvss": 8.6,
+   "ref": "https://docs.geonetwork-opensource.org/4.2/overview/change-log/version-4.2.17"
+  },
+  "title_vi": "",
+  "key": "56798f96cbd108a896dff0fba6c9bb4812da8bbd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82023 — LearnPress WordPress Plugin before 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82023",
+  "published": "2026-09-03T18:17:24.260",
+  "summary": "LearnPress WordPress Plugin before 4.4.6 contains a broken object-level authorization vulnerability that allows authenticated attackers with the Instructor role to add answers to quiz questions owned by other instructors by exploiting a missing ownership check on the question answer insert path. Attackers can supply arbitrary question identifiers during answer insertion, bypassing instructor-boundary restrictions to persistently modify quiz content across courses they do not own.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82023",
+   "cvss": 4.3,
+   "ref": "https://wordpress.org/plugins/learnpress/#developers"
+  },
+  "title_vi": "",
+  "key": "f0d9b6945f6155152ea9605016a28521dadcdb60"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82024 — LearnPress WordPress Plugin before 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82024",
+  "published": "2026-09-03T18:17:24.410",
+  "summary": "LearnPress WordPress Plugin before 4.4.6 contains a stored cross-site scripting vulnerability that allows authenticated attackers with the Instructor role to inject persistent malicious payloads by submitting unsanitized input into quiz question answer title fields. Attackers can store arbitrary JavaScript through the answer title parameter, which is rendered through an unescaped HTML sink to execute in the browsers of any user who views the affected quiz question, including students, other instructors, and administrators.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82024",
+   "cvss": 5.4,
+   "ref": "https://wordpress.org/plugins/learnpress/#developers"
+  },
+  "title_vi": "",
+  "key": "19a6aec9f354b7388eedef898dc1cd077ccdfd90"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-83959 — Substance3D - Sampler is affected by a Heap-based Buffer Overflow vulnerability that could result in arbitrary code execution in the context of the cu",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-83959",
+  "published": "2026-09-03T18:17:24.733",
+  "summary": "Substance3D - Sampler is affected by a Heap-based Buffer Overflow vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-83959",
+   "cvss": 7.8,
+   "ref": "https://helpx.adobe.com/security/products/substance3d-sampler/apsb26-121.html"
+  },
+  "title_vi": "",
+  "key": "2e74292564702fbcf5f2997552f4e74e5092f2ed"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84968 — An out-of-bounds read in the BSON decoding component of the MongoDB PHP driver may allow an unauthenticated party who supplies specially formed input ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84968",
+  "published": "2026-09-03T18:17:33.010",
+  "summary": "An out-of-bounds read in the BSON decoding component of the MongoDB PHP driver may allow an unauthenticated party who supplies specially formed input to have a small amount of adjacent process memory copied into an error message that is returned to application code. This may result in unintended disclosure of limited memory contents.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84968",
+   "cvss": 5.3,
+   "ref": "https://jira.mongodb.org/browse/PHPC-2744"
+  },
+  "title_vi": "",
+  "key": "361edb4bdb7200f82ba12f28997d7485d3eacc09"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85012 — Improper neutralization of special elements used in an OS command (CWE-78) in the blueprint resynthesis framework in Amazon Web Services codecatalyst-",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85012",
+  "published": "2026-09-03T18:17:33.190",
+  "summary": "Improper neutralization of special elements used in an OS command (CWE-78) in the blueprint resynthesis framework in Amazon Web Services codecatalyst-blueprints before 0.3.156 might allow a user with permission to commit to a repository in the project to execute arbitrary commands in the blueprint resynthesis environment via shell metacharacters in the owner field of a [local] merge strategy entry in a crafted .ownership-file.\n\n\n\nVersion 0.3.156 removes shell interpretation of the owner field, running the command directly rather than through a shell, and rejects values outside an allowlisted c",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85012",
+   "cvss": 8.0,
+   "ref": "https://aws.amazon.com/security/security-bulletins/2026-095-aws/"
+  },
+  "title_vi": "",
+  "key": "947f74e8f7fc4424d40a437b9f1a85abad6df808"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85187 — A security vulnerability has been detected in itsourcecode Online Medicine Delivery System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85187",
+  "published": "2026-09-03T18:17:33.707",
+  "summary": "A security vulnerability has been detected in itsourcecode Online Medicine Delivery System 1.0. Affected by this issue is the function Order::pupdate of the file /rider/orders/controller.php?action=edit&actions=confirm of the component Order Status Update. The manipulation of the argument ID leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed publicly and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85187",
+   "cvss": 7.3,
+   "ref": "https://github.com/boyslikesports/202607_vul_dir/blob/main/C-12-SQLi-Rider-Order-MultiPoint_en.md"
+  },
+  "title_vi": "",
+  "key": "7b22fb3f4ff6088bedb72015a151051d0b204bf4"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
   "title": "Thủng lưới phút cuối, U20 Việt Nam thua trận thứ 2 liên tiếp ở Vòng loại châu Á",
   "link": "https://www.vietnamplus.vn/thung-luoi-phut-cuoi-u20-viet-nam-thua-tran-thu-2-lien-tiep-o-vong-loai-chau-a-post1134092.vnp",
   "published": "2026-09-03T15:25:05+00:00",
@@ -72151,1647 +73760,5 @@
   },
   "title_vi": "CVE-2026-14558 — Plugin WordPress giao diện người dùng trước 4",
   "key": "09794598f0a20589eedf2e9eb3942af734e80bf6"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-14567 — The User Frontend WordPress plugin before 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-14567",
-  "published": "2026-08-28T08:16:40.423",
-  "summary": "The User Frontend  WordPress plugin before 4.3.10 does not restrict access to its user directory search endpoint, allowing unauthenticated attackers to retrieve the email address and phone number of every registered user, including administrators.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-14567",
-   "cvss": 5.3,
-   "ref": "https://wpscan.com/vulnerability/1ff904bd-cb9e-4530-afb4-6842395bb774/"
-  },
-  "title_vi": "CVE-2026-14567 — Plugin WordPress giao diện người dùng trước 4",
-  "key": "ba8cc05c13da199efde88a5a558e92337b761d4e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-19084 — The shared-files-pro WordPress plugin before 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19084",
-  "published": "2026-08-28T08:16:40.513",
-  "summary": "The shared-files-pro WordPress plugin before 1.7.70 does not validate the file path supplied when creating a featured image, allowing unauthenticated attackers to read arbitrary files from the server and republish their contents at a public URL.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-19084",
-   "cvss": 7.5,
-   "ref": "https://wpscan.com/vulnerability/48b86169-5ccf-4111-be15-9dd45d478465/"
-  },
-  "title_vi": "CVE-2026-19084 — Plugin WordPress chia sẻ tệp-pro trước 1",
-  "key": "7da9a89d9e30db7ed14c44c361d6922ec8aa8849"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-19423 — The Ultimate Member WordPress plugin before 2",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19423",
-  "published": "2026-08-28T08:16:40.610",
-  "summary": "The Ultimate Member  WordPress plugin before 2.13.0 does not validate a submitted role selection when it cannot resolve the set of roles a profile form permits, and screens the value against the site's registered role names rather than against the form's own allow-list, allowing unauthenticated users who register through the Ultimate Member  WordPress plugin before 2.13.0's own form to grant themselves arbitrary capabilities and reach administrator-equivalent access.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-19423",
-   "cvss": 8.1,
-   "ref": "https://wpscan.com/vulnerability/3cdc8700-165a-4787-a3d0-b0914865b07b/"
-  },
-  "title_vi": "CVE-2026-19423 — Plugin WordPress Ultimate Member before 2",
-  "key": "d57b8c6a90289306eabef8e17bf48899d2cd00c5"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-40541 — An improper neutralization of input during web page generation ('Cross-site Scripting') vulnerability in extract domain in Synology Chat Server before",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-40541",
-  "published": "2026-08-28T08:16:40.713",
-  "summary": "An improper neutralization of input during web page generation ('Cross-site Scripting') vulnerability in extract domain in Synology Chat Server before 2.4.5-22148 allows remote authenticated users, via a UI interaction, to read or write arbitrary files and conduct denial-of-service attacks in DSM.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-40541",
-   "cvss": 9.0,
-   "ref": "https://www.synology.com/en-global/security/advisory/Synology_SA_26_10"
-  },
-  "title_vi": "CVE-2026-40541 — Trung hòa đầu vào không đúng cách trong quá trình tạo trang web ('Cross-site Scripting') lỗ hổng trong tên miền trích xuất trong Synology Chat Server trước",
-  "key": "3f294c7f0416373dad5f4ccd8142d5008deb548d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-4246 — The ElementsKit Pro plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 's' parameter of the Advanced Search REST endpoint in al",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-4246",
-  "published": "2026-08-28T08:16:40.850",
-  "summary": "The ElementsKit Pro plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 's' parameter of the Advanced Search REST endpoint in all versions up to, and including, 4.10.1 due to insufficient input sanitization and output escaping. The REST endpoint at /wp-json/elementskit/v1/advanced-search uses permission_callback set to __return_true, allowing unauthenticated access. Search terms are stored in the ekit_advanced_search_popular_keyword WordPress option via update_option(). While sanitize_text_field() is applied, it does not encode double quotes, and the stored keywords are r",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-4246",
-   "cvss": 6.1,
-   "ref": "https://plugins.trac.wordpress.org/browser/elementskit/trunk/widgets/advanced-search/advanced-search-handler.php#L38"
-  },
-  "title_vi": "CVE-2026-4246 — Plugin ElementsKit Pro cho WordPress dễ bị tấn công bởi Stored Cross-Site Scripting thông qua tham số's'của điểm cuối REST Tìm kiếm Nâng cao trong al",
-  "key": "19c6bb9359a4978d8d2fe2077942b1727bf5ba14"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-5097 — The wpForo Forum plugin for WordPress is vulnerable to SQL Injection via the 'referer' parameter in all versions up to, and including, 2",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-5097",
-  "published": "2026-08-28T08:16:41.003",
-  "summary": "The wpForo Forum plugin for WordPress is vulnerable to SQL Injection via the 'referer' parameter in all versions up to, and including, 2.4.17. This is due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-5097",
-   "cvss": 7.5,
-   "ref": "https://plugins.trac.wordpress.org/browser/wpforo/tags/2.4.16/includes/functions.php#L3063"
-  },
-  "title_vi": "CVE-2026-5097 — Plugin wpForo Forum cho WordPress dễ bị tấn công SQL Injection thông qua tham số 'referer' trong tất cả các phiên bản lên đến, và bao gồm, 2",
-  "key": "328daea036374aa70e9c8902a53724a12a0ea0df"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-6286 — The Booking for Appointments and Events Calendar – Amelia plugin for WordPress is vulnerable to Stored Cross-Site Scripting via customer name fields i",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-6286",
-  "published": "2026-08-28T08:16:41.140",
-  "summary": "The Booking for Appointments and Events Calendar – Amelia plugin for WordPress is vulnerable to Stored Cross-Site Scripting via customer name fields in versions up to and including 2.2. This is due to an authentication bypass where the AddBookingCommand explicitly skips nonce verification (Command.php line 186), allowing unauthenticated users to submit booking data. While the plugin applies sanitize_text_field() to customer firstName and lastName fields (BookingApplicationService.php lines 302-308), this function only removes HTML tags and preserves special characters including double quotes. ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-6286",
-   "cvss": 7.2,
-   "ref": "https://plugins.trac.wordpress.org/browser/ameliabooking/tags/2.1.3/redesign/dist/index.js#L199"
-  },
-  "title_vi": "CVE-2026-6286 — Đặt lịch hẹn và sự kiện – Plugin Amelia cho WordPress dễ bị tấn công Tập lệnh chéo được lưu trữ thông qua các trường tên khách hàng i",
-  "key": "1b4c495d82d8a03c11959b0b454144edbf9a25d2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-73827 — SOY Calendar contains a cross-site scripting vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73827",
-  "published": "2026-08-28T08:16:41.313",
-  "summary": "SOY Calendar contains a cross-site scripting vulnerability. An arbitrary script may be executed on the web browser of the user who is logging in to the product.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-73827",
-   "cvss": 5.4,
-   "ref": "https://jvn.jp/en/jp/JVN04485476/"
-  },
-  "title_vi": "CVE-2026-73827 — Lịch ĐẬU NÀNH chứa lỗ hổng tập lệnh chéo trang web",
-  "key": "c13ea6b29d42d30c18c750b44ed84fca89353219"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-76581 — The WPMU DEV Dashboard plugin for WordPress is vulnerable to Authentication Bypass in all versions up to, and including, 5",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76581",
-  "published": "2026-08-28T08:16:41.463",
-  "summary": "The WPMU DEV Dashboard plugin for WordPress is vulnerable to Authentication Bypass in all versions up to, and including, 5.0.1. This is due to inconsistent and ambiguous HMAC message construction between the unauthenticated `wdpsso_step1` and `wdpsso_step2` AJAX actions, where step 1 signs and discloses an unseparated concatenation of the token, state, redirect, and domain values, while step 2 verifies an unseparated concatenation that omits the domain field. This makes it possible for unauthenticated attackers, on sites connected to WPMU DEV with Hub SSO enabled and mapped to an administrator",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-76581",
-   "cvss": 9.8,
-   "ref": "https://wpmudev.com/project/wpmu-dev-dashboard/"
-  },
-  "title_vi": "CVE-2026-76581 — Plugin WPMU DEV Dashboard cho WordPress dễ bị bỏ qua xác thực trong tất cả các phiên bản lên đến, và bao gồm, 5",
-  "key": "1f319072b09b9d883155e7e356c92efae6bc8201"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-77701 — The WCFM Marketplace WordPress plugin before 3",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77701",
-  "published": "2026-08-28T08:16:41.587",
-  "summary": "The WCFM Marketplace  WordPress plugin before 3.8.2 does not correctly verify that the person requesting a refund owns the order, allowing unauthenticated users to create refund requests against any guest checkout order on the site.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-77701",
-   "cvss": 5.3,
-   "ref": "https://wpscan.com/vulnerability/38195936-5dc2-474f-84e5-fdcc0b39caca/"
-  },
-  "title_vi": "CVE-2026-77701 — Plugin WCFM Marketplace WordPress trước 3",
-  "key": "f8557bdbe2504a29866b09f3bb111d0fac932f94"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-77838 — SOY Calendar contains a cross-site scripting vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77838",
-  "published": "2026-08-28T08:16:41.680",
-  "summary": "SOY Calendar contains a cross-site scripting vulnerability. An arbitrary script may be executed on the web browser of the user who is logging in to the product.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-77838",
-   "cvss": 5.4,
-   "ref": "https://jvn.jp/en/jp/JVN04485476/"
-  },
-  "title_vi": "CVE-2026-77838 — Lịch ĐẬU NÀNH chứa lỗ hổng kịch bản đa trang web",
-  "key": "185a59096f38ce13a7c726354544de311dacf818"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-78032 — SOY CMS contains an issue with deserialization of untrusted data",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78032",
-  "published": "2026-08-28T08:16:41.800",
-  "summary": "SOY CMS  contains an issue with deserialization of untrusted data. An arbitrary code may be executed by an attacker with the web server privilege.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-78032",
-   "cvss": 9.8,
-   "ref": "https://jvn.jp/en/jp/JVN04485476/"
-  },
-  "title_vi": "CVE-2026-78032 — CMS ĐẬU NÀNH có vấn đề với việc giải mã dữ liệu không đáng tin cậy",
-  "key": "7575337a738ab60b3337d3c1b2b47c7c616ce266"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-78238 — SOY Gallery contains a cross-site scripting vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78238",
-  "published": "2026-08-28T08:16:42.030",
-  "summary": "SOY Gallery  contains a cross-site scripting vulnerability. An arbitrary script may be executed on the web browser of the user who is logging in to the product.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-78238",
-   "cvss": 5.4,
-   "ref": "https://jvn.jp/en/jp/JVN04485476/"
-  },
-  "title_vi": "CVE-2026-78238 - Thư viện ĐẬU NÀNH chứa lỗ hổng kịch bản đa trang web",
-  "key": "4361db22039014379053e20523ef61ff1681b722"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79615 — The Quiz and Survey Master (QSM) WordPress plugin before 11",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79615",
-  "published": "2026-08-28T08:16:42.150",
-  "summary": "The Quiz and Survey Master (QSM)  WordPress plugin before 11.2.4 does not check authorisation when returning question bank entries through one of its REST API routes, allowing users with a role as low as Contributor to read the questions, hints and correct answer keys of quizzes belonging to other users.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79615",
-   "cvss": 2.7,
-   "ref": "https://wpscan.com/vulnerability/f4c77fda-edc2-44c5-95d9-358636896b5f/"
-  },
-  "title_vi": "",
-  "key": "3e07e7d3a308f71a2c0c677e141651fd5a613076"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79706 — The Breeze Cache WordPress plugin before 2",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79706",
-  "published": "2026-08-28T08:16:42.243",
-  "summary": "The Breeze Cache WordPress plugin before 2.5.13 does not sanitise a value taken from the request before using it to build the paths of the files it caches, allowing unauthenticated attackers to create files at arbitrary locations on the server, outside the intended cache directory.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79706",
-   "cvss": 5.3,
-   "ref": "https://wpscan.com/vulnerability/c7086680-71ee-4520-9c21-d510b2ec92b4/"
-  },
-  "title_vi": "CVE-2026-79706 — Plugin WordPress Breeze Cache trước 2",
-  "key": "f7faa28e9bf11ae80d62242167ba73af37f9aade"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79995 — The User Registration & Membership WordPress plugin before 5",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79995",
-  "published": "2026-08-28T08:16:42.337",
-  "summary": "The User Registration & Membership  WordPress plugin before 5.2.5 does not verify that the account whose pending email change is being cancelled belongs to the user making the request, allowing authenticated users with Subscriber-level access and above to cancel any other user's in-progress email change, including an administrator's.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79995",
-   "cvss": 4.3,
-   "ref": "https://wpscan.com/vulnerability/551423b4-5c0c-48cc-9ba0-1f5637eea446/"
-  },
-  "title_vi": "CVE-2026-79995 — Plugin WordPress Đăng ký người dùng & Tư cách thành viên trước 5",
-  "key": "e6ac62cf808aead2cbf59a734778ed05b7462f9a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79996 — The User Registration & Membership WordPress plugin before 5",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79996",
-  "published": "2026-08-28T08:16:42.427",
-  "summary": "The User Registration & Membership  WordPress plugin before 5.2.6 does not perform a capability check when saving its login settings, allowing authenticated users who have been granted a User Registration & Membership  WordPress plugin before 5.2.6 management capability but not full administrator access to change arbitrary site options and escalate their privileges to administrator.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79996",
-   "cvss": 7.2,
-   "ref": "https://wpscan.com/vulnerability/609bbb7c-c19a-4c72-8cef-95598a2cfc0d/"
-  },
-  "title_vi": "CVE-2026-79996 — Plugin WordPress Đăng ký người dùng & Tư cách thành viên trước 5",
-  "key": "b35eb744d606542bb3da9724c227455b4553c7b3"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80590 — In the Linux kernel, the following vulnerability has been resolved: inet: frags: strip GSO state from fragments before reassembly A virtio_net_hdr (tu",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80590",
-  "published": "2026-08-28T08:16:42.517",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\ninet: frags: strip GSO state from fragments before reassembly\n\nA virtio_net_hdr (tun/tap, or AF_PACKET with PACKET_VNET_HDR) can mark\nan IPv4 or IPv6 fragment as GSO; nothing relates gso_type to frag_off.\ninet_frag_reasm_prepare()/inet_frag_reasm_finish() keep the first\nfragment's skb as the head of the reassembled datagram, including its\nshinfo->gso_size/gso_type/gso_segs, and chain the remaining fragments\non frag_list with whatever linear/paged layout they arrived with.\n\nAfter ip_defrag() (ip_local_deliver(), nf_defrag_ipv4",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80590",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/14a8f3e10fa9a5abd6cedcdaa0c0b7ea9a09f234"
-  },
-  "title_vi": "CVE-2026-80590 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: inet: frags: tách trạng thái GSO khỏi các đoạn trước khi lắp ráp lại Một virtio_net_hdr (tu",
-  "key": "1de6f6190a2ab1003fc34009fabd937ff2099245"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80591 — In the Linux kernel, the following vulnerability has been resolved: f2fs: fix listxattr handling of corrupted xattr entries Validate the xattr entry b",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80591",
-  "published": "2026-08-28T08:16:42.693",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nf2fs: fix listxattr handling of corrupted xattr entries\n\nValidate the xattr entry before reading its fields in f2fs_listxattr().\nReturn -EFSCORRUPTED when the entry is outside the valid xattr storage\narea instead of returning a successful partial result.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80591",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/2770041f34b52334ea63351ffb1cc2007a9de46e"
-  },
-  "title_vi": "CVE-2026-80591 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: f2fs: fix listxattr xử lý các mục nhập xattr bị hỏng Xác thực mục nhập xattr b",
-  "key": "54702b788f6a7383e48826f2a1579cc2835d6960"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80592 — In the Linux kernel, the following vulnerability has been resolved: samples/damon/mtier: fail early if address range parameters are invalid The commen",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80592",
-  "published": "2026-08-28T08:16:42.830",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nsamples/damon/mtier: fail early if address range parameters are invalid\n\nThe comment on top of `struct damon_region` clearly says that\n\n    For any use case, @ar should be non-zero positive size.\n\nwhich is now verified in damon_verify_new_region() if the kernel is built\nwith DAMON_DEBUG_SANITY.\n\nThe WARN_ONCE() can be triggered if the mtier sample module is enabled\nbefore node{0,1}_{start,end}_addr have been properly initialized, which is\nobviously not good.\n\n ------------[ cut here ]------------\n start 0 >= end 0\n WARNING: m",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80592",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/7746d72c64054976887928d64d2caf25c5a6dcc0"
-  },
-  "title_vi": "CVE-2026-80592 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: samples/damon/mtier: fail early nếu các tham số phạm vi địa chỉ không hợp lệ",
-  "key": "b5b8a56efedc3404caa780edd6c926a93de710a7"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80593 — In the Linux kernel, the following vulnerability has been resolved: hwmon: (asus_atk0110) Check package count before accessing element atk_ec_present(",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80593",
-  "published": "2026-08-28T08:16:42.930",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nhwmon: (asus_atk0110) Check package count before accessing element\n\natk_ec_present() walks the management group package returned by the GGRP\nACPI method and, for each sub-package, reads its first element:\n\n\tid = &obj->package.elements[0];\n\tif (id->type != ACPI_TYPE_INTEGER)\n\nwithout checking that the sub-package is non-empty.  ACPICA allocates the\nelement array with exactly package.count entries, so for a sub-package\nwith a zero count this reads past the allocation.\n\nThe sibling function atk_debugfs_ggrp_open() performs the s",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80593",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/2a137124664aad1e36d8d74e8e2207365a04737f"
-  },
-  "title_vi": "CVE-2026-80593 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: hwmon: (asus_atk0110) Kiểm tra số lượng gói trước khi truy cập phần tử atk_ec_present(",
-  "key": "9570e2195a6d783fadefd92bf3f3b56bd625303a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80594 — In the Linux kernel, the following vulnerability has been resolved: Input: ims-pcu - fix potential infinite loop in CDC union descriptor parsing The d",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80594",
-  "published": "2026-08-28T08:16:43.060",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nInput: ims-pcu - fix potential infinite loop in CDC union descriptor parsing\n\nThe driver parses CDC union descriptors in ims_pcu_get_cdc_union_desc()\nby iterating through the extra descriptor data. However, it does not\nverify that the bLength of each descriptor is at least 2. A malicious\ndevice could provide a descriptor with bLength = 0, leading to an\ninfinite loop in the driver.\n\nAdd a check to ensure bLength is at least 2 before proceeding with\nparsing.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80594",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/383934c249a9817d242d02d30bfbc8defbf0d533"
-  },
-  "title_vi": "CVE-2026-80594 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: Input: ims-pcu - fix potential infinite loop in CDC union descriptor parsing The d",
-  "key": "422b32a227ef45664ca1f40506c05d58c677fa13"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80595 — In the Linux kernel, the following vulnerability has been resolved: Input: ims-pcu - add response length checks The driver processes response data fro",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80595",
-  "published": "2026-08-28T08:16:43.187",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nInput: ims-pcu - add response length checks\n\nThe driver processes response data from device buffers without verifying\nthat the device actually sent enough data. This can lead to\nout-of-bounds reads or processing stale data.\n\nAdd checks for the expected response length before accessing the\nbuffers.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80595",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/3e0e8d7f8139a9496e389e7372e3f8b57b3e4e3e"
-  },
-  "title_vi": "CVE-2026-80595 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: Input: ims-pcu - add response length checks Trình điều khiển xử lý dữ liệu phản hồi fro",
-  "key": "82ca33a5b112a5b7ab2a8680d556dbc22d96b139"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80596 — In the Linux kernel, the following vulnerability has been resolved: Input: ims-pcu - only expose sysfs attributes on control interface When the driver",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80596",
-  "published": "2026-08-28T08:16:43.320",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nInput: ims-pcu - only expose sysfs attributes on control interface\n\nWhen the driver was converted to use the driver core to instantiate device\nattributes (via .dev_groups in the usb_driver structure), the attributes\nstarted appearing on all interfaces bound to the driver. Since the ims-pcu\ndriver manually claims the secondary data interface during probe, the\ndriver core automatically creates the sysfs attributes for that interface\nas well.\n\nHowever, the driver only supports these attributes on the primary control\ninterface. D",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80596",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/001428ea4d2c371107cb984108e266adf99f1f1e"
-  },
-  "title_vi": "CVE-2026-80596 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: Input: ims-pcu - chỉ phơi bày các thuộc tính sysfs trên giao diện điều khiển Khi trình điều khiển",
-  "key": "3a9ae636021622c7afa8ad939bac32926db3c7a7"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80597 — In the Linux kernel, the following vulnerability has been resolved: mtd: maps: vmu-flash: fix NULL pointer dereference in initialization The mtd_info ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80597",
-  "published": "2026-08-28T08:16:43.437",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nmtd: maps: vmu-flash: fix NULL pointer dereference in initialization\n\nThe mtd_info contains a struct device, which must be linked to its\nparent. Without this, the initialization of the MTD fails with a NULL\npointer dereference.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80597",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/0db62da830ec57ad3efe24337763c8bf5442c6be"
-  },
-  "title_vi": "CVE-2026-80597 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: mtd: maps: vmu-flash: fix NULL pointer dereference in initialization The mtd_info",
-  "key": "b8ad3f3679576d1b7a2e9601fa892d379a9c53eb"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80598 — In the Linux kernel, the following vulnerability has been resolved: ntfs3: fix out-of-bounds read in decompress_lznt decompress_lznt() does not valida",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80598",
-  "published": "2026-08-28T08:16:43.580",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nntfs3: fix out-of-bounds read in decompress_lznt\n\ndecompress_lznt() does not validate array index bounds before accessing\nthe decompression table. A corrupted NTFS3 image with invalid compressed\ndata can trigger an out-of-bounds read.\n\nAdd index bounds checking to prevent the OOB access.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80598",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/1113fa5b01a47a1a4cdbb9c695197ca6215f02a8"
-  },
-  "title_vi": "CVE-2026-80598 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ntfs3: fix out-of-bounds read in decompress_lznt decompress_lznt () không valida",
-  "key": "22a33a1054e30743894e973dee73c5cc60223ce5"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80599 — In the Linux kernel, the following vulnerability has been resolved: batman-adv: dat: ensure accessible eth_hdr proto field When batadv_get_vid() acces",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80599",
-  "published": "2026-08-28T08:16:43.700",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nbatman-adv: dat: ensure accessible eth_hdr proto field\n\nWhen batadv_get_vid() accesses the proto field of the ethernet header, it\nis not checking if the data itself is accessible. The caller is responsible\nfor it. But in contrast to other call sites, batadv_dat_get_vid() and its\ncaller didn't make sure this is true. This could have caused an\nout-of-bounds access.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80599",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/26560c4a03dc4d607331600c187f59ab2df5f341"
-  },
-  "title_vi": "CVE-2026-80599 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: batman-adv: dat: đảm bảo trường proto eth_hdr có thể truy cập Khi batadv_get_vid() truy cập",
-  "key": "8d91238c8281ab1e198f3b9957c60a13f4dbc5a8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80600 — In the Linux kernel, the following vulnerability has been resolved: batman-adv: dat: acquire ARP hw source only after skb realloc The pskb_may_pull() ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80600",
-  "published": "2026-08-28T08:16:43.827",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nbatman-adv: dat: acquire ARP hw source only after skb realloc\n\nThe pskb_may_pull() called by batadv_get_vid() could reallocate the buffer\nbehind the skb. Variables which were pointing to the old buffer need to be\nreassigned to avoid an use-after-free.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80600",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/01678c53a7717a748aee388b6839e7b9761d641c"
-  },
-  "title_vi": "CVE-2026-80600 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: batman-adv: dat: chỉ thu được nguồn ARP hw sau khi phân bổ lại skb pskb_may_pull()",
-  "key": "2940ce7b67163d78016dbcb090772295b9efd3f1"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80601 — In the Linux kernel, the following vulnerability has been resolved: batman-adv: gw: acquire ethernet header only after skb realloc The pskb_may_pull()",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80601",
-  "published": "2026-08-28T08:16:43.947",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nbatman-adv: gw: acquire ethernet header only after skb realloc\n\nThe pskb_may_pull() called by batadv_get_vid() could reallocate the buffer\nbehind the skb. Variables which were pointing to the old buffer need to be\nreassigned to avoid an use-after-free.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80601",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/2760b38222c8828b075802342fe3b91eb823d542"
-  },
-  "title_vi": "CVE-2026-80601 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: batman-adv: gw: chỉ thu được tiêu đề ethernet sau khi phân bổ lại skb pskb_may_pull()",
-  "key": "8858729f975746479527c3c7efd728ee75fc003c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80602 — In the Linux kernel, the following vulnerability has been resolved: perf/x86/amd/lbr: Fix kernel address leakage A user-only branch stack can contain ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80602",
-  "published": "2026-08-28T08:16:44.070",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nperf/x86/amd/lbr: Fix kernel address leakage\n\nA user-only branch stack can contain branches that originate from\nthe kernel. As a result, kernel addresses are exposed to user space\neven when PERF_SAMPLE_BRANCH_USER is requested. On AMD processors\nsupporting X86_FEATURE_AMD_LBR_V2, perf can still report SYSRET/ERET\nentries for which the branch-from addresses are in the kernel.\n\nE.g.\n\n  $ perf record -e cycles -o - -j any,save_type,u -- \\\n        perf bench syscall basic --loop 1000 | \\\n        perf script -i - -F brstack|tr ' '",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80602",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/208ecca408b1707ad86ea247d3d3e09d3606fc13"
-  },
-  "title_vi": "CVE-2026-80602 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: perf/x86/amd/lbr: Khắc phục rò rỉ địa chỉ nhân Một ngăn xếp nhánh chỉ dành cho người dùng có thể chứa",
-  "key": "c376eb0971490d9ed9158348863e8b50481c64a5"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80603 — In the Linux kernel, the following vulnerability has been resolved: netfilter: nf_conntrack_irc: fix parse_dcc() off-by-one OOB read parse_dcc() treat",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80603",
-  "published": "2026-08-28T08:16:44.187",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nnetfilter: nf_conntrack_irc: fix parse_dcc() off-by-one OOB read\n\nparse_dcc() treats data_end as an inclusive end pointer, but its only\ncaller passes data_limit = ib_ptr + datalen, which points one past the\nlast valid byte.\n\nThe newline search loop iterates while tmp <= data_end, so when no\nnewline is present, *tmp is read at tmp == data_end, one byte beyond\nthe region filled by skb_header_pointer().\n\nirc_buffer is kmalloc'd as MAX_SEARCH_SIZE + 1 bytes and datalen is\ncapped at MAX_SEARCH_SIZE, so the stray read does not faul",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80603",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/2393f0bd7a467ad475598f3a5b9de27ca36e3037"
-  },
-  "title_vi": "CVE-2026-80603 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: netfilter: nf_conntrack_irc: fix parse_dcc() off-by-one OOB read parse_dcc() treat",
-  "key": "c836e0b5e9deeb9d939f986826b82d5df50b3df9"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80604 — In the Linux kernel, the following vulnerability has been resolved: HID: core: Fix OOB read in hid_get_report for numbered reports When a caller passe",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80604",
-  "published": "2026-08-28T08:16:44.317",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nHID: core: Fix OOB read in hid_get_report for numbered reports\n\nWhen a caller passes a size of 0 to hid_report_raw_event() for a\nnumbered report, the function originally called hid_get_report() before\nperforming any size validation.\n\nInside hid_get_report(), if the report is numbered (report_enum->numbered\nis true), it unconditionally dereferences data[0] to extract the report ID.\nWith a size of 0, this results in an out-of-bounds read or kernel panic.\n\nFix this by moving the numbered report size validation check before the\nc",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80604",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/30ff978af92cb51c9ba99f96fc4f4ac80d7001ba"
-  },
-  "title_vi": "CVE-2026-80604 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: HID: core: Khắc phục OOB đọc trong hid_get_report cho các báo cáo được đánh số Khi người gọi",
-  "key": "c6b89a68df8ef2fbc9a4603cf1ceeae737462a3e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80605 — In the Linux kernel, the following vulnerability has been resolved: HID: picolcd: prevent NULL pointer dereference in picolcd_send_and_wait() In picol",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80605",
-  "published": "2026-08-28T08:16:44.450",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nHID: picolcd: prevent NULL pointer dereference in picolcd_send_and_wait()\n\nIn picolcd_send_and_wait(), an integer overflow of the signed loop counter\n'k' can theoretically lead to a NULL pointer dereference of 'raw_data'.\nIf the loop executes more than INT_MAX times, 'k' becomes negative,\nmaking the condition 'k < size' true even when 'size' is 0.\n\nChange the type of 'k' to 'unsigned int' to prevent the overflow and\neliminate the out-of-bounds access.\n\nFound by Linux Verification Center (linuxtesting.org) with the Svace stati",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80605",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/0021eb09041f021c079be1022934a280f7f176c0"
-  },
-  "title_vi": "CVE-2026-80605 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: HID: picolcd: prevent NULL pointer dereference in picolcd_send_and_wait() Trong picol",
-  "key": "c4ca3a6f0e141042786af9ea141ba509abc611d4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80606 — In the Linux kernel, the following vulnerability has been resolved: drm/xe/userptr: Hold notifier_lock for write on inject test path When CONFIG_DRM_X",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80606",
-  "published": "2026-08-28T08:16:44.573",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\ndrm/xe/userptr: Hold notifier_lock for write on inject test path\n\nWhen CONFIG_DRM_XE_USERPTR_INVAL_INJECT=y, xe_pt_svm_userptr_pre_commit()\nruns vma_check_userptr() with the svm notifier_lock taken for read. The\ntest injection causes vma_check_userptr() to call\nxe_vma_userptr_force_invalidate(), which feeds into\nxe_vma_userptr_do_inval() with drm_gpusvm_ctx.in_notifier=true. That\nflag tells drm_gpusvm_unmap_pages() the caller already holds\nnotifier_lock for write and only asserts the mode. Because the caller\nactually holds it",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80606",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/ab9ea5c943c7e780124e75b7ffad9f1c752b2579"
-  },
-  "title_vi": "CVE-2026-80606 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: drm/xe/userptr: Giữ notifier_lock để ghi trên đường dẫn kiểm tra inject Khi CONFIG_DRM_X",
-  "key": "6a54aacd191981f1caacdae4a14a632c3b1bad32"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80607 — In the Linux kernel, the following vulnerability has been resolved: tracing/probes: Remove WARN_ON_ONCE from parse_btf_arg Sashiko found that user can",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80607",
-  "published": "2026-08-28T08:16:44.677",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\ntracing/probes: Remove WARN_ON_ONCE from parse_btf_arg\n\nSashiko found that user can cause this WARN_ON_ONCE() easily\nwith adding a kprobe event based on a raw address with BTF\nparameter.\n\nSince this is not an unexpected condition, remove the\nWARN_ON_ONCE().",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80607",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/251a8fe1b9aedccd298b77bc28426d564c5a923f"
-  },
-  "title_vi": "CVE-2026-80607 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: tracing/probes: Remove WARN_ON_ONCE from parse_btf_arg Sashiko found that user can",
-  "key": "6114ec38256c875ef4686136badfd8ccb195b9ff"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80608 — In the Linux kernel, the following vulnerability has been resolved: accel/amdxdna: Fix iommu domain lifetime race during device removal When force_iov",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80608",
-  "published": "2026-08-28T08:16:44.777",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\naccel/amdxdna: Fix iommu domain lifetime race during device removal\n\nWhen force_iova mode is enabled, amdxdna_remove() frees xdna->domain. If\namdxdna_gem_obj_free() is called after device removal, it may attempt to\naccess xdna->domain, resulting in a use-after-free.\n\nFix the race by adding freeing xdna->domain as a managed release action,\nso its lifetime is managed by DRM and remains valid until all managed\nresources are released.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80608",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/65e7e2b8d71b418439ebc68e80ed3e5a325375d6"
-  },
-  "title_vi": "CVE-2026-80608 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: accel/amdxdna: Khắc phục cuộc đua suốt đời miền iommu trong quá trình xóa thiết bị Khi force_iov",
-  "key": "121aae1564fa527a31ed4f2711a0f7650e276e09"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80609 — In the Linux kernel, the following vulnerability has been resolved: qede: fix out-of-bounds check for cqe->len_list[] Move index check before element ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80609",
-  "published": "2026-08-28T08:16:44.870",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nqede: fix out-of-bounds check for cqe->len_list[]\n\nMove index check before element access.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80609",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/1aacefd074b5dcc99b8dbcd73e1c963ed5010110"
-  },
-  "title_vi": "CVE-2026-80609 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: qede: fix out-of-bound check for cqe->len_list[] Move index check before element",
-  "key": "e0adb4fa6a94c54d9de78eb8e3b7ecc8b04adf72"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80610 — In the Linux kernel, the following vulnerability has been resolved: net: enetc: fix potential divide-by-zero when num_vsi is zero For i",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80610",
-  "published": "2026-08-28T08:16:44.987",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nnet: enetc: fix potential divide-by-zero when num_vsi is zero\n\nFor i.MX94 series, all the standalone ENETCs do not support SR-IOV, so\npf->caps.num_vsi is zero. This leads to a divide-by-zero in\nenetc4_default_rings_allocation() when distributing rings among PF and\nVFs.\n\nDivision by zero is undefined behavior in C. On ARM64, the UDIV/SDIV\ninstructions silently return zero rather than raising an exception, so\nthe issue does not cause a visible crash. However, relying on this\nbehavior is incorrect and poses a cross-platform comp",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80610",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/5da65537792b68b6052ffcab65e04c27aea6dfe4"
-  },
-  "title_vi": "CVE-2026-80610 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net: enetc: fix potential divide-by-zero when num_vsi is zero For i",
-  "key": "ae19dc9d516cb5cdb972a798552cc1d1fd0cb738"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80611 — In the Linux kernel, the following vulnerability has been resolved: ACPI: processor_idle: Mark LPI enter functions as __cpuidle When function tracing ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80611",
-  "published": "2026-08-28T08:16:45.080",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nACPI: processor_idle: Mark LPI enter functions as __cpuidle\n\nWhen function tracing or Kprobes is enabled, entering an ACPI Low\nPower Idle (LPI) state triggers the following RCU splat:\n\n  RCU not on for: acpi_idle_lpi_enter+0x4/0xd8\n  WARNING: CPU: 8 PID: 0 at include/linux/trace_recursion.h:162 function_trace_call+0x1e8/0x228\n\nThe acpi_idle_lpi_enter() function is invoked within the cpuidle\npath after RCU has already been disabled for the current local CPU.\nConsequently, ftrace's function_trace_call() expects RCU to be\nactive",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80611",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/10f675902a5fc88ccfe34bb8aa37de50806b03b1"
-  },
-  "title_vi": "CVE-2026-80611 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ACPI: processor_idle: Mark LPI enter functions as __cpuidle When function tracing",
-  "key": "d28edfae3c51608f6c5bc714d9608e18283fdbdf"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80612 — In the Linux kernel, the following vulnerability has been resolved: net: lwtunnel: Drop skb metadata before LWT encapsulation skb metadata is meant fo",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80612",
-  "published": "2026-08-28T08:16:45.183",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nnet: lwtunnel: Drop skb metadata before LWT encapsulation\n\nskb metadata is meant for passing information between XDP and TC. It lives\nin the skb headroom, immediately before skb->data. LWT programs cannot\naccess the __sk_buff->data_meta pseudo-pointer to metadata.\n\nHowever, LWT encapsulation prepends outer headers, moving skb->data back\nover the headroom where the metadata sits. On an RX-originated (forwarded)\npacket that still carries XDP metadata this goes wrong in two different\nways, depending on the encap type:\n\n1. Non-BP",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80612",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/19eec11f3ab5dd29ba58f5f209c24e946c95ef12"
-  },
-  "title_vi": "CVE-2026-80612 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net: lwtunnel: Thả siêu dữ liệu skb trước khi siêu dữ liệu skb đóng gói LWT có nghĩa là cho",
-  "key": "919f60606f1d37f64ed54120c5d3fcf12374d75d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80613 — In the Linux kernel, the following vulnerability has been resolved: veth: fix NAPI leak in XDP enable error path During XDP enablement in veth, if xdp",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80613",
-  "published": "2026-08-28T08:16:45.303",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nveth: fix NAPI leak in XDP enable error path\n\nDuring XDP enablement in veth, if xdp_rxq_info_reg() or\nxdp_rxq_info_reg_mem_model() fails, the driver rolls back the changes.\n\nHowever, the rollback loop:\n\tfor (i--; i >= start; i--) {\n\ndecrements the loop index 'i' before the first iteration. This\ncorrectly skips unregistering the rxq for the failed index 'i' (as\nregistration failed or was already cleaned up), but it also\nerroneously skips calling netif_napi_deli() for rq[i].xdp_napi.\n\nSince netif_napi_add() was already called f",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80613",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/4559770b2a241344d762719e674241fcc8528f02"
-  },
-  "title_vi": "CVE-2026-80613 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: veth: fix NAPI leak in XDP enable error path During XDP enablement in veth, if xdp",
-  "key": "9085ccf0ea3b10bb7261e37c04c19b3efbf41bb7"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80614 — In the Linux kernel, the following vulnerability has been resolved: net: emac: Fix NULL pointer dereference in emac_probe Move devm_request_irq() afte",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80614",
-  "published": "2026-08-28T08:16:45.430",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nnet: emac: Fix NULL pointer dereference in emac_probe\n\nMove devm_request_irq() after devm_platform_ioremap_resource() so that\ndev->emacp is mapped before the interrupt handler can fire.  An early\ninterrupt hitting emac_irq() would dereference the NULL dev->emacp and\ncrash.\n\nAlso remove redundant error message. devm_platform_ioremap_resource()\nalready returns an error message with dev_err_probe().",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80614",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/44068b6863fbda78fc810921ddf61642c377b3ca"
-  },
-  "title_vi": "CVE-2026-80614 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net: emac: Fix NULL pointer dereference in emac_probe Move devm_request_irq() afte",
-  "key": "d343117ff8b050dd41c8e0e5a4e53be1fdaeb398"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80615 — In the Linux kernel, the following vulnerability has been resolved: net: dst_metadata: fix false-positive memcpy overflow in tun_dst_unclone kmalloc_f",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80615",
-  "published": "2026-08-28T08:16:45.523",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nnet: dst_metadata: fix false-positive memcpy overflow in tun_dst_unclone\n\nkmalloc_flex() in metadata_dst_alloc() sets __counted_by for the\nstructure to the options_len, which is then initialized to zero.\nLater, we're initializing the structure by copying the tunnel info\ntogether with the options, and this triggers a warning for a potential\nmemcpy overflow, since the compiler estimates that the options can't\nfit into the structure, even though the memory for them is actually\nallocated.\n\n memcpy: detected buffer overflow: 104 b",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80615",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/4c6d43db2a4d2cef3921e885cf34798f790d34ea"
-  },
-  "title_vi": "CVE-2026-80615 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net: dst_metadata: fix false-positive memcpy overflow in tun_dst_unclone kmalloc_f",
-  "key": "c2fafb06873fe5bfdb880684b953bbbcc1088ece"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80616 — In the Linux kernel, the following vulnerability has been resolved: ieee802154: Avoid calling WARN_ON() on -ENOMEM in cfg802154_switch_netns() It's po",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80616",
-  "published": "2026-08-28T08:16:45.620",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nieee802154: Avoid calling WARN_ON() on -ENOMEM in cfg802154_switch_netns()\n\nIt's pointless to call WARN_ON() in case of an allocation failure in\ndev_change_net_namespace() and device_rename(), since it only leads to\nuseless splats caused by deliberate fault injections, so avoid it.\n\nFound by Linux Verification Center (linuxtesting.org) with Syzkaller.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80616",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/0569f67ed6a7af838e2141da93c68e6b6013f483"
-  },
-  "title_vi": "CVE-2026-80616 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ieee802154: Tránh gọi WARN_ON() trên -ENOMEM trong cfg802154_switch_netns() Đó là po",
-  "key": "397683fd46c81b6f996577115df9a93feedbea07"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80617 — In the Linux kernel, the following vulnerability has been resolved: net: airoha: fix foe_check_time allocation size foe_check_time is declared as u16 ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80617",
-  "published": "2026-08-28T08:16:45.723",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nnet: airoha: fix foe_check_time allocation size\n\nfoe_check_time is declared as u16 pointer but was allocated with\nonly ppe_num_entries bytes instead of ppe_num_entries * sizeof(u16).\n\nWhen airoha_ppe_foe_verify_entry() is called with hash >= ppe_num_entries/2,\nit writes beyond the allocated buffer, causing heap buffer overflow and\npotential kernel crash.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80617",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/112b5eff24e044561ee9599a0d34e0fcea1df4e0"
-  },
-  "title_vi": "CVE-2026-80617 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net: airoha: fix foe_check_time kích thước phân bổ foe_check_time được khai báo là u16",
-  "key": "daf62993cf45e44e56841f9540cce2fe598a09a8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80618 — In the Linux kernel, the following vulnerability has been resolved: drm/amdkfd: Avoid double-unpin of DOORBELL/MMIO BOs on free amdgpu_amdkfd_gpuvm_fr",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80618",
-  "published": "2026-08-28T08:16:45.823",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\ndrm/amdkfd: Avoid double-unpin of DOORBELL/MMIO BOs on free\n\namdgpu_amdkfd_gpuvm_free_memory_of_gpu() unpinned DOORBELL and MMIO\nremap BOs (which are pinned at allocation time) before checking whether\nthe BO is still mapped to the GPU. When the BO is still mapped, the\nfunction returns -EBUSY and leaves the BO alive, but it has already\nbeen unpinned. The BO is then unpinned again when it is finally freed\nduring process teardown, triggering a ttm_bo_unpin() underflow warning:\n\n  WARNING: CPU: 18 PID: 15066 at ttm/ttm_bo.c:650 a",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80618",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/0e27d92f69b8e4c750a4b181cc05a86b9338c4f5"
-  },
-  "title_vi": "CVE-2026-80618 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: drm/amdkfd: Tránh mở khóa kép CHUÔNG CỬA/MMIO BOs trên amdgpu_amdkfd_gpuvm_fr miễn phí",
-  "key": "7ba902110b84e9945406eb3bdef2b407f82b6ae5"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80619 — In the Linux kernel, the following vulnerability has been resolved: apparmor: fix potential UAF in aa_replace_profiles The function aa_replace_profile",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80619",
-  "published": "2026-08-28T08:16:45.950",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\napparmor: fix potential UAF in aa_replace_profiles\n\nThe function aa_replace_profiles was accessing udata->size after calling\naa_put_loaddata(udata), causing a potential UAF.\n\nFixed this by saving the size to a local variable before dropping the\nreference.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80619",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/57b1bd4486d56254bb8af1a8f3d4445bbe505290"
-  },
-  "title_vi": "CVE-2026-80619 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: apparmor: fix potential UAF in aa_replace_profiles Chức năng aa_replace_profile",
-  "key": "e2cf5a1ed51ef34cb24db46512b2d7e3bd177083"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80620 — In the Linux kernel, the following vulnerability has been resolved: Revert \"PCI/MSI: Unmap MSI-X region on error\" This reverts commit 1a8d4c6ecb4c8126",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80620",
-  "published": "2026-08-28T08:16:46.083",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nRevert \"PCI/MSI: Unmap MSI-X region on error\"\n\nThis reverts commit 1a8d4c6ecb4c81261bcdf13556abd4a958eca202.\n\nCommit 1a8d4c6ecb4c (\"PCI/MSI: Unmap MSI-X region on error\") added an\niounmap(dev->msix_base) on the error path of msix_capability_init() to\nrelease the MSI-X region when msix_setup_interrupts() fails.\n\nWhen msix_setup_interrupts() fails, the call chain is:\n\n  msix_setup_interrupts()\n    -> __msix_setup_interrupts()\n         struct pci_dev *dev __free(free_msi_irqs) = __dev;\n         ...\n         return ret;  // __fre",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80620",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/0a2aeb02894b839ecc3ece6dc7e5c3d6c3def16f"
-  },
-  "title_vi": "CVE-2026-80620 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: Hoàn nguyên \"PCI/MSI: Unmap MSI-X region on error\" Điều này hoàn nguyên cam kết 1a8d4c6ecb4c8126",
-  "key": "399274eace6e3e774a4e159f22946a100f36c40d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80621 — In the Linux kernel, the following vulnerability has been resolved: PCI: dwc: Avoid dwc_pcie_rasdes_debugfs_deinit() NULL dereference when no RAS DES ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80621",
-  "published": "2026-08-28T08:16:46.220",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nPCI: dwc: Avoid dwc_pcie_rasdes_debugfs_deinit() NULL dereference when no RAS DES capability\n\ndwc_pcie_rasdes_debugfs_init() returns success when the controller has no\nRAS DES capability, leaving pci->debugfs->rasdes_info unset. The common\ndebugfs teardown path still calls dwc_pcie_rasdes_debugfs_deinit(), which\ndereferences rasdes_info unconditionally.\n\nReturn early when no RAS DES state was allocated. In that case no RAS DES\nmutex was initialized, so there is nothing to destroy.\n\n[mani: reworded subject]",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80621",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/26b67fa10ef84ea667942491b50e6261a45f098d"
-  },
-  "title_vi": "CVE-2026-80621 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: PCI: dwc: Avoid dwc_pcie_rasdes_debugfs_deinit() NULL dereference when no RAS DES",
-  "key": "1e44632249a8a01d68dccf1d7d1356ffc2871a8a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80622 — In the Linux kernel, the following vulnerability has been resolved: char: tlclk: fix use-after-free in tlclk_cleanup() This patch improves the module ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80622",
-  "published": "2026-08-28T08:16:46.320",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nchar: tlclk: fix use-after-free in tlclk_cleanup()\n\nThis patch improves the module cleanup process in the tlclk driver to\nprevent potential use-after-free and race conditions.\n\nCurrently, the file_operations structure does not specify the .owner\nfield, which could allow the module to be unloaded while user-space\nprocesses are still interacting with the device. Additionally, the\ntlclk_cleanup() function frees the alarm_events memory before ensuring\nthat blocked processes in the waitqueue are fully awakened and that the\nswitcho",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80622",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/09d8d2a46a9ec9ff728f3159a174a2ab25dd0f0a"
-  },
-  "title_vi": "CVE-2026-80622 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: char: tlclk: fix use-after-free trong tlclk_cleanup() Bản vá này cải thiện mô-đun",
-  "key": "96d32db67eef12e8e16b90e7e9c9b27360fa897c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80623 — In the Linux kernel, the following vulnerability has been resolved: coresight: ete: Always save state on power down System register ETMs and ETE are u",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80623",
-  "published": "2026-08-28T08:16:46.447",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\ncoresight: ete: Always save state on power down\n\nSystem register ETMs and ETE are unlikely to be preserved on CPU power\ndown. The ETE DT binding also never documented\n\"arm,coresight-loses-context-with-cpu\" so nobody would have legitimately\nbeen able to use that binding to fix it and ACPI has no such binding at\nall.\n\nFix it by hard coding the setting for sysreg ETMs (ETE is always sysreg)\nor ACPI boots. Use a local variable when setting up save_state so that\nit's immune to concurrent probing when devices have different\nconfigu",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80623",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/293dacd5b6a9f1275d92ca6c4fd874e54b2c8319"
-  },
-  "title_vi": "CVE-2026-80623 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: coresight: ete: Luôn lưu trạng thái khi tắt nguồn ETM đăng ký hệ thống và ete là u",
-  "key": "d7fc81e3a5bcc2a2a623a8f0c285028477070683"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80624 — In the Linux kernel, the following vulnerability has been resolved: mfd: cs42l43: Sanity check firmware size Currently the code checks if a firmware w",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80624",
-  "published": "2026-08-28T08:16:46.543",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nmfd: cs42l43: Sanity check firmware size\n\nCurrently the code checks if a firmware was received, however it does\nnot verify that the firmware size is larger than the firmware header. As\nthe firmware pointer is dereferenced as a pointer to the header\nstructure this could lead to an out of bounds memory access. Add the\nmissing check.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80624",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/17d79248b4f370663f9d351409a130fc1ed9416d"
-  },
-  "title_vi": "CVE-2026-80624 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: mfd: cs42l43: Sanity kiểm tra kích thước phần sụn Hiện tại mã kiểm tra xem phần sụn có",
-  "key": "f0b6057cdbf595fd43a85bad54ef7643c71e1098"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80625 — In the Linux kernel, the following vulnerability has been resolved: RDMA/hns: Fix memory leak of bonding resources In a corner case of concurrent driv",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80625",
-  "published": "2026-08-28T08:16:46.647",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nRDMA/hns: Fix memory leak of bonding resources\n\nIn a corner case of concurrent driver removal and driver reset,\nbonding resource is first released in hns_roce_hw_v2_exit() during\ndriver removal, and then is allocated again in hns_roce_register_device()\nduring driver reset. This leads to memory leak because the release\ntiming has already passed. This may also lead to a kernel panic\nas below because of the leaked notifier callback:\n\nCall trace:\n  0xffffa20fccc04978 (P)\n  raw_notifier_call_chain+0x20/0x38\n  call_netdevice_notifi",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80625",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/bc4caea7a82bbcf94a34eff7094e7f9b501680ab"
-  },
-  "title_vi": "CVE-2026-80625 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: RDMA/hns: Khắc phục rò rỉ bộ nhớ của tài nguyên liên kết Trong một trường hợp góc của ổ đĩa đồng thời",
-  "key": "bffc8dd0a1cc064e3a26a9490e64baf2f0b779e2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80626 — In the Linux kernel, the following vulnerability has been resolved: powerpc/perf: fix preempt count underflow in fsl_emb_pmu_del fsl_emb_pmu_del() unc",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80626",
-  "published": "2026-08-28T08:16:46.740",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\npowerpc/perf: fix preempt count underflow in fsl_emb_pmu_del\n\nfsl_emb_pmu_del() unconditionally calls put_cpu_var(cpu_hw_events) at\nthe 'out:' label, but only calls the matching get_cpu_var() after the\n'i < 0' early-return check. When event->hw.idx is negative the\nfunction jumps to 'out:' without having taken get_cpu_var(), and the\ntrailing put_cpu_var() then issues an unmatched preempt_enable(),\nunderflowing preempt_count.\n\nOn a CONFIG_PREEMPT=y kernel preempt_count would underflow and\neventually present as a 'scheduling whi",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80626",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/5397142d60aa29dcf636f5459d960bfc4f97c42a"
-  },
-  "title_vi": "CVE-2026-80626 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: powerpc/perf: fix preempt count underflow trong fsl_emb_pmu_del fsl_emb_pmu_del() unc",
-  "key": "7b9e22a60f24033555deea32cc17080a65b6e077"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80627 — In the Linux kernel, the following vulnerability has been resolved: MIPS: mm: Fix out-of-bounds write in maar_res_walk() maar_res_walk() uses wi->num_",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80627",
-  "published": "2026-08-28T08:16:46.867",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nMIPS: mm: Fix out-of-bounds write in maar_res_walk()\n\nmaar_res_walk() uses wi->num_cfg as the index into the fixed-size\nwi->cfg array, but checks whether the array is full only after it has\nfilled the selected entry. If walk_system_ram_range() reports more than\n16 memory ranges, the overflow call writes one struct maar_config past\nthe end of the array before WARN_ON() prevents num_cfg from advancing.\n\nMove the full-array check before taking the array slot and return non-zero\nwhen the scratch array is full, so walk_system_ram_",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80627",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/038f068cced8e9c49e8c419f3112d909ad366a3a"
-  },
-  "title_vi": "CVE-2026-80627 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: MIPS: mm: Fix out-of-bounds write in maar_res_walk() maar_res_walk() sử dụng wi->num_",
-  "key": "987f6a0caf67a9f90481ab84e06587f236b808de"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80628 — In the Linux kernel, the following vulnerability has been resolved: ALSA: seq: oss: Serialize readq reset state with q->lock snd_seq_oss_readq_clear()",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80628",
-  "published": "2026-08-28T08:16:47.007",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nALSA: seq: oss: Serialize readq reset state with q->lock\n\nsnd_seq_oss_readq_clear() resets qlen, head, and tail without\nq->lock even though the normal reader and producer paths serialize the\nsame ring state under that spinlock. A reset can therefore race\nsnd_seq_oss_readq_free() or snd_seq_oss_readq_put_event() and leave\nstale records in the queue, drop freshly queued ones, or report the\nwrong readiness after wakeup. KCSAN reports a data race between\nsnd_seq_oss_readq_clear() and snd_seq_oss_readq_free().\n\nTake q->lock while ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80628",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/287d506d4e0865918cec82bb1361f283a08c979b"
-  },
-  "title_vi": "CVE-2026-80628 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ALSA: seq: oss: Serialize readq reset state with q->lock snd_seq_oss_readq_clear()",
-  "key": "105a56c892ebf67a3d263641f6f5fa29df6cc7f4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80629 — In the Linux kernel, the following vulnerability has been resolved: octeontx2-af: npc: Fix size of entry2cntr_map KASAN prints below splat",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80629",
-  "published": "2026-08-28T08:16:47.743",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nocteontx2-af: npc: Fix size of entry2cntr_map\n\nKASAN prints below splat. This is caused by allocating counter for\nreserved mcam entry for cpt 2nd pass entry. But mcam->entry2cntr_map\nis not allocated for reserved entries.\n\nBUG: KASAN: slab-out-of-bounds in npc_map_mcam_entry_and_cntr+0xb0/0x1a0\nWrite of size 2 at addr ffff0001033e7ffe by task kworker/0:1/14\n\nCPU: 0 PID: 14 Comm: kworker/0:1 Not tainted 6.1.67 #1\nHardware name: Marvell CN106XX board (DT)\nWorkqueue: events work_for_cpu_fn\nCall trace:\n dump_backtrace.part.0+0xe4",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80629",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/1d072cc3ba4338d6b2acb85d50a3af5cf2b12a3e"
-  },
-  "title_vi": "CVE-2026-80629 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: octeontx2-af: npc: Fix size of entry2cntr_map KASAN prints below SPLAT",
-  "key": "3c3f85c59f0770895c47bd2917b09179cbc41c50"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80630 — In the Linux kernel, the following vulnerability has been resolved: net/sched: sch_fq_codel: Do not call qdisc_tree_reduce_backlog during peek before ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80630",
-  "published": "2026-08-28T08:16:47.850",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nnet/sched: sch_fq_codel: Do not call qdisc_tree_reduce_backlog during peek before restoring qlen\n\nWhenever fq_codel drops packets during peek, it calls\nqdisc_tree_reduce_backlog. An issue arises because it calls\nqdisc_tree_reduce_backlog before it reincrements the qlen. If qlen drops\nto zero, but peek returns an skb, the parent's qlen_notify callback will be\nexecuted even though fq_codel still has 1 packet on the queue and, thus,\nwill mistakenly deactivate the parent's class causing issues like a recent\nreport [1] and a wild ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80630",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/0500af8630c3253f0dde879bd3a73a06bb2f2b3f"
-  },
-  "title_vi": "CVE-2026-80630 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net/sched: sch_fq_codel: Không gọi qdisc_tree_reduce_backlog trong khi xem trước",
-  "key": "9fa8a0b4fad18332be50895f4f7d8f30160b6a1b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80631 — In the Linux kernel, the following vulnerability has been resolved: btrfs: lzo: reject compressed segment that overflows the compressed input lzo_deco",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80631",
-  "published": "2026-08-28T08:16:48.010",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nbtrfs: lzo: reject compressed segment that overflows the compressed input\n\nlzo_decompress_bio() validates each on-disk segment length seg_len only\nagainst the workspace cbuf size, not against the compressed input size\n(compressed_len, the total folio bytes of the bio).  A crafted extent can\ncarry a segment whose seg_len passes the cbuf check but runs past the end\nof the bio, so copy_compressed_segment() walks off the last folio:\nget_current_folio() then returns the NULL folio from bio_next_folio(), and\nwith CONFIG_BTRFS_ASSER",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80631",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/1641d058adfbd50cf95d54581ed5d142ee82c07f"
-  },
-  "title_vi": "",
-  "key": "3957485679bada3947d677ca90fb0e53a4744b94"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80632 — In the Linux kernel, the following vulnerability has been resolved: wifi: mt76: mt7996: Fix NULL pointer dereference in mt7996_init_tx_queues() When M",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80632",
-  "published": "2026-08-28T08:16:48.107",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nwifi: mt76: mt7996: Fix NULL pointer dereference in mt7996_init_tx_queues()\n\nWhen MT76_NPU and CONFIG_NET_MEDIATEK_SOC_WED are enabled and\nmt76 detects properly the Airoha NPU SoC, mt7996_init_tx_queues() will\ndereference a NULL WED pointer.\nFix the issue by always passing the WED pointer from mt7996_dma_init().",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80632",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/6794edb55b5f5ef834e03b0b241b1a8b725f82c0"
-  },
-  "title_vi": "",
-  "key": "936bd73979d96af92b996dcf3d7e94bd410557a0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80633 — In the Linux kernel, the following vulnerability has been resolved: iommufd: Take dma_resv lock before dma_buf_unpin() in release path dma_buf_unpin()",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80633",
-  "published": "2026-08-28T08:16:48.200",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\niommufd: Take dma_resv lock before dma_buf_unpin() in release path\n\ndma_buf_unpin() requires the caller to hold the exporter's dma_resv\nlock:\n\n  void dma_buf_unpin(struct dma_buf_attachment *attach)\n  {\n          ...\n          dma_resv_assert_held(dmabuf->resv);\n          ...\n  }\n\niopt_release_pages() calls dma_buf_unpin() without taking that lock,\nso every iommufd_ioas_destroy()/iommufd_ioas_unmap() that releases\nthe last reference on a DMABUF-backed iopt_pages triggers a WARN.\nThis was hit while running tools/testing/selfte",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80633",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/cc69d0332421fd2943b66dbe5e597bf4fd5af126"
-  },
-  "title_vi": "",
-  "key": "06283f9d5f2e3b3b6cd688bec7d0df59ebfbcafd"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80634 — In the Linux kernel, the following vulnerability has been resolved: netfilter: flowtable: avoid num_encaps underflow on bridge VLAN untag The DEV_PATH",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80634",
-  "published": "2026-08-28T08:16:48.303",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nnetfilter: flowtable: avoid num_encaps underflow on bridge VLAN untag\n\nThe DEV_PATH_BR_VLAN_UNTAG case post-decrements info->num_encaps\ninside WARN_ON_ONCE(). num_encaps is u8, so if it's already 0 the\ndecrement still happens and wraps it to 255. The break only leaves\nthe inner switch -- a later path entry can set info->indev back to\na real device, and we end up returning with num_encaps == 255.\n\nnft_dev_forward_path() then walks info.encap[] (size 2) up to\nnum_encaps, which means an OOB stack read and a bogus count copied\nin",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80634",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/2f55fa28011c97d6495d5787808db10a8c2d690d"
-  },
-  "title_vi": "",
-  "key": "684424d6f5afb28be21516701013f44831e59407"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80635 — In the Linux kernel, the following vulnerability has been resolved: wifi: wcn36xx: fix OOB read from short trigger BA firmware response The firmware r",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80635",
-  "published": "2026-08-28T08:16:48.400",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nwifi: wcn36xx: fix OOB read from short trigger BA firmware response\n\nThe firmware response length is only checked against sizeof(*rsp) (20\nbytes), but when candidate_cnt >= 1, a 22-byte candidate struct is read\nat buf + 20 without verifying the response contains it. This causes an\nout-of-bounds read of stale heap data, corrupting the BA session state.\n\nAdd validation that the response includes the candidate data.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80635",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/04aba50212f9f274e1a726fb3873b5ce8da2d821"
-  },
-  "title_vi": "",
-  "key": "cfd16f886a30dfcd145f61861f4cb49587931d67"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80636 — In the Linux kernel, the following vulnerability has been resolved: netfilter: conntrack: revert ct extension genid infrastructure This infrastructure",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80636",
-  "published": "2026-08-28T08:16:48.513",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nnetfilter: conntrack: revert ct extension genid infrastructure\n\nThis infrastructure is not used anymore after moving ct timeout and\nhelper to use datapath refcount to track object use.\n\nRevert commit c56716c69ce1 (\"netfilter: extensions: introduce extension\ngenid count\") this patch disables all ct extensions (leading to NULL)\nfor unconfirmed conntracks, when this is only targeted at ct helper and\nct timeout. There is also codebase that dereferences the ct extension\nwithout checking for NULL which could lead to crash.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80636",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/35e21a4dccc5c255ba59ccfbfeb4629ed21da972"
-  },
-  "title_vi": "",
-  "key": "2da2ba7ddb851868f2edd17cd29894f17bf82df2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80637 — In the Linux kernel, the following vulnerability has been resolved: netfilter: synproxy: fix unaligned memory access in timestamp adjustment Use get_u",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80637",
-  "published": "2026-08-28T08:16:48.620",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nnetfilter: synproxy: fix unaligned memory access in timestamp adjustment\n\nUse get_unaligned_be32() and put_unaligned_be32() to safely read and\nwrite the timestamp fields. This prevents performance degradation due to\nunaligned memory access or even a crash on strict alignment\narchitectures.\n\nThis follows the implementation of timestamp parsing in the networking\nstack at tcp_parse_options() and synproxy_parse_options().",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80637",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/2b8e7aaa38002d8ee2f48d87b1f392eadd8e98c4"
-  },
-  "title_vi": "",
-  "key": "9babd9601f8e032c77c5a5ce3faba561a1f5895d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80638 — In the Linux kernel, the following vulnerability has been resolved: ocfs2: fix out-of-bounds write in ocfs2_remove_refcount_extent [BUG] Unlinking a r",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80638",
-  "published": "2026-08-28T08:16:48.720",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nocfs2: fix out-of-bounds write in ocfs2_remove_refcount_extent\n\n[BUG]\nUnlinking a refcounted file whose refcount tree has leaf blocks\ntriggers a fortify panic due to an out-of-bounds write.\n\n[CAUSE]\nWhen the last leaf block is removed from a refcount tree,\nocfs2_remove_refcount_extent() converts the root back to leaf mode\nwith a bulk memset on &rb->rf_records. rf_records sits in an anonymous\nunion with rf_list. rf_list.l_tree_depth aliases rf_records.rl_count,\nand is 0 for a single-level tree. With rl_count equal to 0, the me",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80638",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/1ec3cca2d8b6b9ff6584ca626d4c8918bbf48d44"
-  },
-  "title_vi": "",
-  "key": "12a14ee4658ec616430a89fe623fc4b54c3fd60e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80639 — In the Linux kernel, the following vulnerability has been resolved: cxl/test: Fix __fortify_panic Fix a runtime assertion in setup_xor_mapping()",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80639",
-  "published": "2026-08-28T08:16:48.813",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\ncxl/test: Fix __fortify_panic\n\nFix a runtime assertion in setup_xor_mapping(). Fortify complains that it\nis potentially overflowing the xormaps array per __counted_by(nr_maps).\nQuiet the false positive by initializing @nr_maps earlier.\n\n memcpy: detected buffer overflow: 32 byte write of buffer size 0\n WARNING: lib/string_helpers.c:1036 at __fortify_report+0x4d/0xa0, CPU#8: modprobe/2728\n Call Trace:\n  __fortify_panic+0xd/0xf\n  setup_xor_mapping+0x6c/0xa0 [cxl_translate]\n\n[ dj: Fixed up @nr_entries to @nr_maps in commit log. ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80639",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/08326b92c7a414a73b5b308d1daf0e91e0134dfc"
-  },
-  "title_vi": "",
-  "key": "92d25547a76af1c7c3790039dcd7ebbcb815099d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80640 — In the Linux kernel, the following vulnerability has been resolved: cxl/fwctl: Fix __fortify_panic Fix a runtime assertion in cxlctl_get_supported_fea",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80640",
-  "published": "2026-08-28T08:16:48.910",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\ncxl/fwctl: Fix __fortify_panic\n\nFix a runtime assertion in cxlctl_get_supported_features(). Fortify\ncomplains that it is potentially overflowing the entries array per\n__counted_by_le(num_entries). Quiet the false positive by initializing\n@num_entries earlier.\n\n memcpy: detected buffer overflow: 48 byte write of buffer size 0\n WARNING: lib/string_helpers.c:1036 at __fortify_report+0x4d/0xa0, CPU#7: fwctl/1398\n RIP: 0010:__fortify_report+0x50/0xa0\n Call Trace:\n  __fortify_panic+0xd/0xf\n  cxlctl_get_supported_features.cold+0x23/",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80640",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/18c67ecc5dafe14055edcea53f36f4e31df1816b"
-  },
-  "title_vi": "",
-  "key": "bb269aa39f45085c48e8117d77fa4a442741ac38"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80641 — In the Linux kernel, the following vulnerability has been resolved: wifi: wlcore: enable the right set of ciphers The firmware version number check fo",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80641",
-  "published": "2026-08-28T08:16:49.003",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nwifi: wlcore: enable the right set of ciphers\n\nThe firmware version number check for IGTK introduced in\ncommit c34dbc5900b0 (\"wifi: wlcore: Add support for IGTK key\")\n\nlets the amount of ciphers decrease on every boot of a too old firmware and\nthat is practically happening. It also does not take into account other\nchips than the wl18xx. On some wl128x, the following can be observed\nwhen connecting via nm to a common ap:\n\n[  484.113311] wlcore: WARNING could not set keys\n[  484.117828] wlcore: ERROR Could not add or replace ke",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80641",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/7495adaa0e45e180f4b6b7436675c6266edff1ff"
-  },
-  "title_vi": "",
-  "key": "6466024cb16f6dd6a760494df1127b3c27b09838"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80642 — In the Linux kernel, the following vulnerability has been resolved: liveupdate: Reference count incoming FLB data Increment the incoming FLB refcount ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80642",
-  "published": "2026-08-28T08:16:49.097",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nliveupdate: Reference count incoming FLB data\n\nIncrement the incoming FLB refcount in liveupdate_flb_get_incoming() so\nthat the FLB structure cannot be freed while the caller is actively using\nit. Add an additional liveupdate_flb_put_incoming() function so the\ncaller can explicitly indicate when it is done using the FLB data.\n\nDuring a Live Update, a subsystem might need to hold onto the incoming\nFile-Lifecycle-Bound (FLB) data for an extended period, such as during\ndevice enumeration. Incrementing the reference count guarant",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80642",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/725ada0273a0f48a67fd59cc518d7f8055fe3d5c"
-  },
-  "title_vi": "",
-  "key": "becb48a6eb38f7f98c322a82dd06d120116ffe64"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80643 — In the Linux kernel, the following vulnerability has been resolved: EDAC/igen6: Fix call trace due to missing release() When unloading the igen6_edac ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80643",
-  "published": "2026-08-28T08:16:49.193",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nEDAC/igen6: Fix call trace due to missing release()\n\nWhen unloading the igen6_edac driver, there is a call trace:\n\n  Device '(null)' does not have a release() function, it is broken and must be fixed.\n  See Documentation/core-api/kobject.rst.\n  WARNING: drivers/base/core.c:2567 at device_release+0x84/0x90, CPU#5: rmmod/127209\n  ...\n  RIP: 0010:device_release+0x84/0x90\n  Call Trace:\n   <TASK>\n   kobject_put+0x8c/0x220\n   put_device+0x17/0x30\n   igen6_unregister_mcis+0xa2/0xe0 [igen6_edac]\n   igen6_remove+0x82/0xb0 [igen6_edac]",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80643",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/9a84ced0243c74aa431ec287555054c69e6167d1"
-  },
-  "title_vi": "",
-  "key": "64cde5e87accfaa9ac533e420bd351e92ceb5491"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80644 — In the Linux kernel, the following vulnerability has been resolved: ocfs2: don't BUG_ON an invalid journal dinode [BUG] A fuzzed OCFS2 image can corru",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80644",
-  "published": "2026-08-28T08:16:49.290",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nocfs2: don't BUG_ON an invalid journal dinode\n\n[BUG]\nA fuzzed OCFS2 image can corrupt the current slot journal dinode while\nmount is still in progress. The mount path first reports the invalid\njournal block and then crashes in shutdown:\n\nkernel BUG at fs/ocfs2/journal.c:1034!\nOops: invalid opcode: 0000 [#1] SMP KASAN NOPTI\nRIP: 0010:ocfs2_journal_toggle_dirty+0x2d6/0x340 fs/ocfs2/journal.c:1034\nCall Trace:\n ocfs2_journal_shutdown+0x414/0xc30 fs/ocfs2/journal.c:1116\n ocfs2_mount_volume fs/ocfs2/super.c:1785 [inline]\n ocfs2_fil",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80644",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/12c32a7350b670aaaaf2e01583d8648ec0c9755c"
-  },
-  "title_vi": "",
-  "key": "0366d54d84bad56d89535b551ba292b5b4ce8830"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80645 — In the Linux kernel, the following vulnerability has been resolved: rapidio/tsi721: prevent a bad dereference in tsi721_db_dpc() With a list_for_each(",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80645",
-  "published": "2026-08-28T08:16:49.423",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nrapidio/tsi721: prevent a bad dereference in tsi721_db_dpc()\n\nWith a list_for_each() loop, if we don't find the item we are looking for\nin the list, then the loop exits with the iterator, which is \"dbell\" in\nthis loop, pointing to invalid memory.\n\nThis code uses the \"found\" variable to determine if we have found the\ndoorbell we are looking for or not.  However, the problem that the \"found\"\nvariable needs to be set to false at the start of each iteration,\notherwise after the first correct doorbell, then everything is marked as",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80645",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/070f356ea4f419e4e85e4089381f4477f41d969e"
-  },
-  "title_vi": "",
-  "key": "f592a01dc8bbea64c5104f92ad6defd380786f83"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80646 — In the Linux kernel, the following vulnerability has been resolved: ipv6: guard against possible NULL deref in __in6_dev_stats_get() dev_get_by_index_",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80646",
-  "published": "2026-08-28T08:16:49.550",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nipv6: guard against possible NULL deref in __in6_dev_stats_get()\n\ndev_get_by_index_rcu() could return NULL if the original physical\ndevice is unregistered.\n\nFound by Sashiko.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80646",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/0db1949084e85a72d174a7dea3259b94fe5a9305"
-  },
-  "title_vi": "",
-  "key": "f70df173a247161c951faf4a309a6eaa77e3e21a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80647 — In the Linux kernel, the following vulnerability has been resolved: RDMA/hns: Fix warning in poll cq direct mode CQs allocated by ib_alloc_cq() always",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80647",
-  "published": "2026-08-28T08:16:49.677",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nRDMA/hns: Fix warning in poll cq direct mode\n\nCQs allocated by ib_alloc_cq() always have a comp_handler. Though\nin direct mode this handler is never expected to be called, it\nis still called when the driver is reset, triggering the following\nWARN_ONCE():\n\nCall trace:\nib_cq_completion_direct+0x38/0x60\nhns_roce_cq_completion+0x54/0x90 (hns_roce_hw_v2]\nhns_roce_handle_device_err+Ox1c8/0x340 [hns_roce_hw_v2]\nhns_roce_hw_v2_uninit_instance.constprop.0+0x34/0x70 [hns_roce_hw_v2]\nhns_roce_hw_v2_reset_notify+0xc4/0xe0 [hns_roce_hw_v2",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80647",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/16138ea9833d6bb1bed37a3321f282242704bf02"
-  },
-  "title_vi": "",
-  "key": "ab782d121064487cb421b8bd3a8eba8271dae324"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80648 — In the Linux kernel, the following vulnerability has been resolved: pinctrl: spacemit: fix NULL check in spacemit_pin_set_config spacemit_pin_set_conf",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80648",
-  "published": "2026-08-28T08:16:49.800",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\npinctrl: spacemit: fix NULL check in spacemit_pin_set_config\n\nspacemit_pin_set_config() looks up the per-pin descriptor with\nspacemit_get_pin() then checks the wrong variable for failure:\n\n\tconst struct spacemit_pin *spin = spacemit_get_pin(pctrl, pin);\n\t...\n\tif (!pin)\n\t\treturn -EINVAL;\n\n\treg = spacemit_pin_to_reg(pctrl, spin->pin);\n\npin is an unsigned int pin id, where 0 (GPIO_0 / gmac0_rxdv on K3) is a\nvalid pin, so rejecting it here drops the PAD config write for the first\npin of every group. On K3 Pico-ITX the GMAC RGMII ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80648",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/09c816e5c4d3a8d6d6e4b7537433e5e98505d934"
-  },
-  "title_vi": "",
-  "key": "ffbadc4c0a79b9d77dd1baee0d56c0c6af74ba4f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80649 — In the Linux kernel, the following vulnerability has been resolved: firmware: arm_scmi: Fix OOB in scmi_power_name_get() scmi_power_name_get() does no",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80649",
-  "published": "2026-08-28T08:16:49.897",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nfirmware: arm_scmi: Fix OOB in scmi_power_name_get()\n\nscmi_power_name_get() does not validate the domain number passed by the\nexternal caller, which may lead to an out-of-bounds access.\n\nFix this by returning \"unknown\" for invalid domains, like\nscmi_reset_name_get() does.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80649",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/01613f5e4ff6c080260615392338e92e261d109b"
-  },
-  "title_vi": "",
-  "key": "7459fa20c46e26b526bfe76523c2ca935c323740"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80650 — In the Linux kernel, the following vulnerability has been resolved: media: atomisp: gc2235: fix UAF and memory leak gc2235_probe() handles its error p",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80650",
-  "published": "2026-08-28T08:16:50.010",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nmedia: atomisp: gc2235: fix UAF and memory leak\n\ngc2235_probe() handles its error paths incorrectly.\n\nIf media_entity_pads_init() fails, gc2235_remove() is called, which\ntears down the subdev and frees dev, but then still falls through to\natomisp_register_i2c_module(). This results in use-after-free.\n\nIf atomisp_register_i2c_module() fails, the media entity and control\nhandler are left initialized and dev is leaked.\n\ngc2235_remove() unconditionally calls media_entity_cleanup() and\nv4l2_ctrl_handler_free(), but these are not i",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80650",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/628f763aee0047ff44974388d6f70f75a763026b"
-  },
-  "title_vi": "",
-  "key": "860ad908c15e4074f6254b757f6b33fc90753eb5"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80651 — In the Linux kernel, the following vulnerability has been resolved: crypto: ccp/sev-dev-tsm - bail out early when pdev->bus is NULL dsm_create() initi",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80651",
-  "published": "2026-08-28T08:16:50.110",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\ncrypto: ccp/sev-dev-tsm - bail out early when pdev->bus is NULL\n\ndsm_create() initially checks pdev->bus when computing segment_id:\n\n\tu8 segment_id = pdev->bus ? pci_domain_nr(pdev->bus) : 0;\n\nBut the next two lines unconditionally dereference pdev->bus via\npcie_find_root_port() and especially pci_dev_id(pdev), which expands\nto PCI_DEVID(dev->bus->number, dev->devfn). If pdev->bus is in fact\nNULL, segment_id is initialised to 0 but the very next statement\ncrashes the kernel.\n\nsmatch flags this:\n\n  drivers/crypto/ccp/sev-dev-t",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80651",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/6bafd740095fb3d0e9a00540bc8f3484c38e6f85"
-  },
-  "title_vi": "",
-  "key": "4189cbcaa8fda5ede45af5e358c7fa4b86176e96"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80652 — In the Linux kernel, the following vulnerability has been resolved: crypto: ccp - Treat zero-length cert chain as query for blob lengths When handling",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80652",
-  "published": "2026-08-28T08:16:50.200",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\ncrypto: ccp - Treat zero-length cert chain as query for blob lengths\n\nWhen handling a PDH export, treat a zero-length userspace cert chain buffer\nas a request to query the length of the relevant blobs.  Failure to account\nfor the zero-length buffer trips a BUG_ON() when running with\nCONFIG_DEBUG_VIRTUAL=y due to trying to get the physical address of the\nZERO_SIZE_PTR (returned by kzalloc() on the bogus allocation).\n\n   kernel BUG at arch/x86/mm/physaddr.c:28 !\n  Oops: invalid opcode: 0000 [#1] SMP KASAN NOPTI\n  CPU: 30 UID: 0",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80652",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/13b4d5e055d344e34b864bced0a591ceaac7ad81"
-  },
-  "title_vi": "",
-  "key": "ff10066aa09fc6c19441c046d650f7f5c6316748"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80653 — In the Linux kernel, the following vulnerability has been resolved: scsi: hisi_sas: Add slave_destroy interface for v3 hw WARNING is triggered when ex",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80653",
-  "published": "2026-08-28T08:16:50.350",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nscsi: hisi_sas: Add slave_destroy interface for v3 hw\n\nWARNING is triggered when executing link reset of remote PHY and rmmod\nSAS driver simultaneously. Following is the WARNING log:\n\nWARNING: CPU: 61 PID: 21818 at drivers/base/core.c:1347 __device_links_no_driver+0xb4/0xc0\n Call trace:\n  __device_links_no_driver+0xb4/0xc0\n  device_links_driver_cleanup+0xb0/0xfc\n  __device_release_driver+0x198/0x23c\n  device_release_driver+0x38/0x50\n  bus_remove_device+0x130/0x140\n  device_del+0x184/0x434\n  __scsi_remove_device+0x118/0x150\n  ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80653",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/4867dba229292e13fc19ed865ec1839661952ff9"
-  },
-  "title_vi": "",
-  "key": "2ca3d041b2a9f6032fef747fc69e445982a145e5"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80654 — In the Linux kernel, the following vulnerability has been resolved: soc: xilinx: Shutdown and free rx mailbox channel A mbox rx channel is requested u",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80654",
-  "published": "2026-08-28T08:16:50.467",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nsoc: xilinx: Shutdown and free rx mailbox channel\n\nA mbox rx channel is requested using mbox_request_channel_byname() in\nprobe. In remove callback, the rx mailbox channel is cleaned up when the\nrx_chan is NULL due to incorrect condition check. The mailbox channel is\nnot shutdown and it can receive messages even after the device removal.\nThis leads to use after free. Also the channel resources are not freed.\nFix this by checking the rx_chan correctly.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80654",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/a83e77d1e52c01c50096e6e97c57d34e0590d628"
-  },
-  "title_vi": "",
-  "key": "70ba4c1454c0d79156b42f2ceb08e522071e8f3a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80655 — In the Linux kernel, the following vulnerability has been resolved: soc: xilinx: Fix race condition in event registration The zynqmp_power driver regi",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80655",
-  "published": "2026-08-28T08:16:50.573",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nsoc: xilinx: Fix race condition in event registration\n\nThe zynqmp_power driver registers handlers for suspend and subsystem\nrestart events using register_event(). However, the work structures\n(zynqmp_pm_init_suspend_work and zynqmp_pm_init_restart_work) used by\nthese handlers were allocated and initialized after the registration\ncall.\n\nThis created a race window where, if the firmware triggered an event\nimmediately after registration but before allocation, the callback\n(suspend_event_callback or subsystem_restart_event_callba",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80655",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/d349aa118ff5e4cab88424ce1b16e08edd70f8bb"
-  },
-  "title_vi": "",
-  "key": "8f1f79d1707c0baa87225c8929d664c535cf7a5f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80656 — In the Linux kernel, the following vulnerability has been resolved: hfsplus: Add a sanity check for btree node size Syzbot reported an uninit-value bu",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80656",
-  "published": "2026-08-28T08:16:50.700",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nhfsplus: Add a sanity check for btree node size\n\nSyzbot reported an uninit-value bug in [1] with a corrupted HFS+ image,\nduring the file system mounting process, specifically while loading the\ncatalog, a corrupted node_size value of 1 caused the rec_off argument\npassed to hfs_bnode_read_u16() (within hfs_bnode_find()) to be excessively\nlarge. Consequently, the function failed to return a valid value to\ninitialize the off variable, triggering the bug [1].\n\nEvery node starts from BTree node descriptor: struct hfs_bnode_desc.\nSo",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80656",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/306265eb9384d2c224f1b14d83a29323f0eab6d1"
-  },
-  "title_vi": "",
-  "key": "19c369214d8f2018788b0ec82179c625690fdaef"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80657 — In the Linux kernel, the following vulnerability has been resolved: accel/amdxdna: Guard management mailbox channel cleanup against NULL pointer The m",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80657",
-  "published": "2026-08-28T08:16:50.817",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\naccel/amdxdna: Guard management mailbox channel cleanup against NULL pointer\n\nThe management mailbox channel cleanup helpers can be called from\nerror handling paths when mgmt_chann has already been destroyed.\n\nAdd NULL checks to xdna_mailbox_free_channel() and\nxdna_mailbox_stop_channel() so the cleanup path safely returns instead\nof dereferencing a NULL mailbox channel pointer.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80657",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/506255d46bdb93a281cf39e72abbca124f5c7a1b"
-  },
-  "title_vi": "",
-  "key": "a3c31efab753337a7576b58309a383d4d57e762d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80658 — In the Linux kernel, the following vulnerability has been resolved: drm/rockchip: dw_dp: Fix null-ptr-deref in dw_dp_remove() Attempting to access dri",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80658",
-  "published": "2026-08-28T08:16:50.917",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\ndrm/rockchip: dw_dp: Fix null-ptr-deref in dw_dp_remove()\n\nAttempting to access driver data in the platform driver ->remove()\ncallback may lead to a null pointer dereference since there is no\nguaranty that the component ->bind() callback invoking\nplatform_set_drvdata() was executed.\n\nA common scenario is when Rockchip DRM driver didn't manage to run\ncomponent_bind_all() because of an (unrelated) error causing early\nreturn from rockchip_drm_bind().\n\nDrop the unnecessary call to platform_get_drvdata() and, instead,\nreference th",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80658",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/33bc9fba3ae05863fabe3436ddca2ca4f4939c5e"
-  },
-  "title_vi": "",
-  "key": "69fc9b34dcda013df6d7ca3f39ff4389346b6f7d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80659 — In the Linux kernel, the following vulnerability has been resolved: mmc: vub300: defer reset until cmd_mutex is unlocked vub300_cmndwork_thread() hold",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80659",
-  "published": "2026-08-28T08:16:51.020",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nmmc: vub300: defer reset until cmd_mutex is unlocked\n\nvub300_cmndwork_thread() holds cmd_mutex while it sends a command and\nwaits for the command response.  If the response wait times out,\n__vub300_command_response() kills the command URBs and then synchronously\nresets the USB device through usb_reset_device().\n\nThat reset path re-enters the driver through vub300_pre_reset(), which\nalso takes cmd_mutex.  The worker therefore tries to acquire the same\nmutex recursively while it is still holding it from the command path.\n\nThis ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80659",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/2e6b9a394206c76dd417c991312f349435ef35e6"
-  },
-  "title_vi": "",
-  "key": "87fe5a3fc27b656dc6aaa548dca7b241fda6f48d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80660 — In the Linux kernel, the following vulnerability has been resolved: hwmon: (occ) unregister sysfs devices outside occ lock occ_active(false) and occ_s",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80660",
-  "published": "2026-08-28T08:16:51.160",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nhwmon: (occ) unregister sysfs devices outside occ lock\n\nocc_active(false) and occ_shutdown() unregister sysfs-backed devices while\nocc->lock is held.  hwmon_device_unregister() and sysfs_remove_group() can\nwait for active sysfs callbacks to drain, and those callbacks can enter the\nOCC update path and try to take occ->lock again.  That gives the unregister\npaths the lock ordering occ->lock -> sysfs callback drain, while a callback\nhas the opposite edge sysfs callback -> occ->lock.\n\nThis issue was found by our static analysis t",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80660",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/2092952f22a7da98e76e84139ae202b1fc7ba899"
-  },
-  "title_vi": "",
-  "key": "698b2a76b3411f427ec6c93232ceeec2cc207007"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80661 — In the Linux kernel, the following vulnerability has been resolved: ufs: core: tracing: Do not dereference pointers in TP_printk() The trace events in",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80661",
-  "published": "2026-08-28T08:16:51.290",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nufs: core: tracing: Do not dereference pointers in TP_printk()\n\nThe trace events in drivers/ufs/core/ufs_trace.h were converted to take a\npointer to the hba structure as an argument for the tracepoint and then in\nTP_printk() the printing of the dev_name from the ring buffer was\nconverted to using the dev dereferenced pointer from the hba saved\npointer.\n\nThis is not allowed as the TP_printk() is executed at the time the trace\nevent is read from /sys/kernel/tracing/trace file. That can happen\nliterally, seconds, minutes, hours,",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80661",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/2510434307a224078302019e52ab3c863fbe87fb"
-  },
-  "title_vi": "",
-  "key": "ad4698df4f27774493ba03af0a603b36d1348dea"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80662 — In the Linux kernel, the following vulnerability has been resolved: cxl: Fix CXL_HEADERLOG_SIZE to match RAS Capability size The CXL r4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80662",
-  "published": "2026-08-28T08:16:51.397",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\ncxl: Fix CXL_HEADERLOG_SIZE to match RAS Capability size\n\nThe CXL r4.0 8.2.4.17.7 RAS Capability Structure has total length 0x58\nbytes (CXL_RAS_CAPABILITY_LENGTH); the Header Log occupies the trailing\n64 bytes at offset 0x18.  CXL_HEADERLOG_SIZE was defined as SZ_512,\neight times the actual on-device size.\n\nheader_log_copy() reads CXL_HEADERLOG_SIZE_U32 (128) dwords from the\nRAS capability iomap, overrunning the 88-byte mapping by 448 bytes.\nThe cxl_aer_uncorrectable_error trace event memcpy()s CXL_HEADERLOG_SIZE\n(512) bytes ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80662",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/6fc1919a6f2ed541484dd1f6cd93374044f8fd3d"
-  },
-  "title_vi": "",
-  "key": "69e1ed75502fd69ee6e57b5e2b0295d7c0bf2f0c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80663 — In the Linux kernel, the following vulnerability has been resolved: tools/power/x86/intel-speed-select: Harden daemon pidfile open Avoid symlink-based",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80663",
-  "published": "2026-08-28T08:16:51.503",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\ntools/power/x86/intel-speed-select: Harden daemon pidfile open\n\nAvoid symlink-based pidfile clobbering by opening the pidfile with\nO_NOFOLLOW and validating it with fstat() before locking/writing.\n\nThe daemon currently uses a fixed pidfile path under /tmp. A local\nunprivileged user can pre-create a symlink at that path and cause a\nroot-run daemon instance to write into an attacker-chosen file.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80663",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/19ffeb30fdfce63f8d6aca71bcdddb3f69d46278"
-  },
-  "title_vi": "",
-  "key": "87fce58b702f4f9439c7377ecaec3384a469803a"
  }
 ]
