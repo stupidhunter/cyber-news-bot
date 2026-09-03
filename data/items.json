@@ -1,5 +1,1240 @@
 [
  {
+  "source": "Znews Công nghệ",
+  "title": "Nvidia lại vung tiền",
+  "link": "https://tech.zingnews.vn/nvidia-lai-vung-tien-post1680997.html",
+  "published": "2026-09-03T21:38:36+00:00",
+  "summary": "Nếu được phê duyệt, thoả thuận trị giá gần 13 tỷ USD với Hugging Face sẽ giúp Nvidia nắm giữ vị thế quan trọng trong cả lĩnh vực phần cứng lẫn nền tảng phân phối phần mềm AI.",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "edfd1ae5da11f4a020a881a549108bcbf390e7c1"
+ },
+ {
+  "source": "Cloudflare Blog",
+  "title": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
+  "link": "https://blog.cloudflare.com/vulnerability-discovery-remediation/",
+  "published": "2026-09-03T21:03:02+00:00",
+  "summary": "Use production traffic and security signals to prioritize findings, prepare edge mitigations when safe, and propose code patches. By combining WAF data with OpenAI Daybreak models, Vulnerability Discovery and Remediation helps teams identify and patch the most critical threats first.",
+  "categories": [
+   "ai",
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "74d890c49583c5d3646ffef1eefa7f679cade614"
+ },
+ {
+  "source": "AWS Security Blog",
+  "title": "Incident response guide for AWS CloudTrail investigations – Part 2",
+  "link": "https://aws.amazon.com/blogs/security/incident-response-guide-for-aws-cloudtrail-investigations-part-2/",
+  "published": "2026-09-03T21:15:53+00:00",
+  "summary": "In Part 1 of this guide, we examined two common incident scenarios: cross-account Amazon Simple Storage Service (Amazon S3) data deletion with ransomware implications, and cryptocurrency mining deployed through AWS CloudFormation using exposed AWS Management Console credentials. We also introduced key incident response terminology and investigative frameworks for analyzing AWS CloudTrail events. In this second […]",
+  "categories": [
+   "breach",
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "5db0ba49af7bfbf4b881c030dc9b8ef7c75ad5c5"
+ },
+ {
+  "source": "AWS Security Blog",
+  "title": "Incident response guide for AWS CloudTrail investigations – Part 1",
+  "link": "https://aws.amazon.com/blogs/security/incident-response-guide-for-aws-cloudtrail-investigations-part-1/",
+  "published": "2026-09-03T21:15:39+00:00",
+  "summary": "AWS CloudTrail logs contain the evidence you need when investigating suspicious activity in your AWS environment, but knowing which fields matter and how to interpret them can mean the difference between surface-level analysis and uncovering the full scope of an incident. This guide walks you through real-world scenarios, showing you how to analyze CloudTrail events […]",
+  "categories": [
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "f1309b61a6cc76dcc3340303d8f5a9ce230983b9"
+ },
+ {
+  "source": "OpenAI News",
+  "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+  "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+  "published": "2026-09-03T13:15:00+00:00",
+  "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "ccf2a3792f58ad9ccd4a7cb43168ce9702f36f8c"
+ },
+ {
+  "source": "OpenAI News",
+  "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+  "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+  "published": "2026-09-03T12:00:00+00:00",
+  "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "c58c6b2512fc60afafab9c419d9d98d6755e2fb7"
+ },
+ {
+  "source": "OpenAI News",
+  "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+  "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+  "published": "2026-09-03T12:00:00+00:00",
+  "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "1c502b9ac51a4a78c591c948a1101d3dc90c9c02"
+ },
+ {
+  "source": "OpenAI News",
+  "title": "Safety overview: GPT-6 Astra",
+  "link": "https://openai.com/index/safety-overview-gpt-6-astra",
+  "published": "2026-09-03T00:00:00+00:00",
+  "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "d0d2d940f1afb3560be47aa9c810da5159f77a02"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "Two “Nephrology Associates” suffered cyberattacks. Only one of them has disclosed it.",
+  "link": "https://databreaches.net/2026/09/03/two-nephrology-associates-suffered-cyberattacks-only-one-of-them-has-disclosed-it/",
+  "published": "2026-09-03T21:44:51+00:00",
+  "summary": "Sometimes, first impressions are wrong. And in the case of &#8220;Nephrology Associates,&#8221; DataBreaches mistakenly thought one victim was attacked by two different groups. But no, there are actually two unrelated entities with the same name that suffered attacks this year. And only one of them has disclosed it. The Kansas Incident On March 7, The... Source",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Hai “Nephrology Associates” bị tấn công mạng. Chỉ một trong số họ đã tiết lộ nó.",
+  "key": "6b17e3ad683a265b0f95351c2cb1914e53b0b15b"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "The New School Safety Perimeter: Where Cybersecurity Meets Physical Security",
+  "link": "https://databreaches.net/2026/09/03/the-new-school-safety-perimeter-where-cybersecurity-meets-physical-security/",
+  "published": "2026-09-03T20:27:57+00:00",
+  "summary": "Kumar Sokka reports: At many institutions, the student ID number exposed in a data breach is the same number that unlocks dorm doors, sits behind classroom badge readers, controls laboratory access, and authenticates into building automation systems. The badge in a student&#8217;s wallet is keyed to that database. When that database is compromised, every physical... Source",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "4d78346f9f94b88a4ad9f187cd72a60656a6b440"
+ },
+ {
+  "source": "DarkReading",
+  "title": "Large Enterprises Targeted in Fake Merger &amp; Acquisition Scams",
+  "link": "https://www.darkreading.com/cyberattacks-data-breaches/large-enterprises-fake-merger-acquisition-scams",
+  "published": "2026-09-03T20:18:14+00:00",
+  "summary": "Threat actors behind the &quot;Phantom Deal&quot; campaign are studying companies in extreme detail, aiming to dupe midlevel employees into initiating large financial transfers.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Các doanh nghiệp lớn bị nhắm mục tiêu trong các vụ lừa đảo mua bán và sáp nhập giả mạo",
+  "key": "afaea6695d67a25af5047509a6fea9e4927ff8c6"
+ },
+ {
+  "source": "DarkReading",
+  "title": "What We Missed: Did ShinyHunters 'Breach' ReliaQuest?",
+  "link": "https://www.darkreading.com/cybersecurity-operations/what-we-missed-did-shinyhunters-breach-reliaquest",
+  "published": "2026-09-03T19:42:39+00:00",
+  "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the latest antics of ShinyHunters to new research about the prevalence (or lack thereof) of AI-generated malware.",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Những gì chúng tôi đã bỏ lỡ: ShinyHunters đã 'Vi phạm' ReliaQuest?",
+  "key": "50b3b47acd22a9ee69e818a691b264da718a5164"
+ },
+ {
+  "source": "The Record",
+  "title": "Large group of Serbian opposition, activist figures targeted with spyware",
+  "link": "https://therecord.media/serbia-spyware-pegasus-europe",
+  "published": "2026-09-03T19:30:41+00:00",
+  "summary": "At least 14 Serbians have been targeted with advanced spyware since December, with victims including a member of Parliament, a local opposition politician and student protesters, according to digital forensic researchers.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Một nhóm lớn phe đối lập Serbia, các nhân vật hoạt động được nhắm mục tiêu bằng phần mềm gián điệp",
+  "key": "9f002928ffba8bf2667c773d26d65833abe8393b"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
+  "link": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
+  "published": "2026-09-03T18:02:47+00:00",
+  "summary": "The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click “Allow.” Why break in when someone might open the door? That idea runs through this edition. Attackers use real tools, fake login pages, old account links, and software guides that point to unsafe downloads. One wrong letter in a web address can be enough. There is also",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "5d5ba6a09ae191678046f4c40b6add72745153bc"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-15431 — A potential security vulnerability has been identified in the HP Support Assistant for versions prior to 9",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-15431",
+  "published": "2026-09-03T19:17:26.820",
+  "summary": "A potential security vulnerability has been identified in the HP Support\n Assistant for versions prior to 9.53.2.0. The vulnerability\n               could potentially allow a local attacker to escalate \nprivileges due to insufficient access controls.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-15431",
+   "cvss": null,
+   "ref": "https://support.hp.com/us-en/document/ish_15587742-15587765-16/hpsbgn04131"
+  },
+  "title_vi": "CVE-2026-15431 — Một lỗ hổng bảo mật tiềm ẩn đã được xác định trong Trợ lý hỗ trợ HP cho các phiên bản trước 9",
+  "key": "22092dc4d9068a67147cee9d0b3cae56add71dab"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-33630 — c-ares is an asynchronous resolver library",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-33630",
+  "published": "2026-09-03T19:17:27.420",
+  "summary": "c-ares is an asynchronous resolver library. From ver 1.32.3 until 1.34.7, a use-after-free / double-free in c-ares' query-completion handling. The same flaw — a query's callback being invoked while the query is still linked in the channel's internal lookup structures — is present at multiple points in the resend/finish path (timeout handling, response handling, and query dispatch). If the query, or for ares_getaddrinfo() the owning host_query, is freed as a side effect of that callback, it is then accessed and/or freed a second time. This vulnerability is fixed in ver 1.34.7.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-33630",
+   "cvss": 7.5,
+   "ref": "https://github.com/c-ares/c-ares/commit/1fa3b86a0b8d18fe7b60f3228a01d770feb026bc"
+  },
+  "title_vi": "CVE-2026-33630 — c-ares là một thư viện phân giải không đồng bộ",
+  "key": "e38a371474fdf513c789a3ec4167eead92a76160"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-49455 — Waku is the minimal React framework",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-49455",
+  "published": "2026-09-03T19:17:28.100",
+  "summary": "Waku is the minimal React framework. Prior to version 1.0.0-beta.1, Waku's RSC request dispatcher invokes server actions without validating the request's Origin (or Sec-Fetch-Site) header. A cross-origin web attacker can therefore cause a victim browser to issue an authenticated POST to a registered server action endpoint using a CORS-safelisted content type (text/plain), which does not trigger a preflight. Any state-mutating server action that the application exposes via 'use server' can be invoked with the victim's cookies attached. This issue has been patched in version 1.0.0-beta.1.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-49455",
+   "cvss": 6.5,
+   "ref": "https://github.com/wakujs/waku/releases/tag/v1.0.0-beta.1"
+  },
+  "title_vi": "CVE-2026-49455 — Waku là khung Phản ứng tối thiểu",
+  "key": "518381f7b90ea3c1a91a97309363306c6ee7130b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-49456 — Waku is the minimal React framework",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-49456",
+  "published": "2026-09-03T19:17:28.250",
+  "summary": "Waku is the minimal React framework. Prior to version 1.0.0-beta.1, the unstable_redirect() helper exported from waku/router/server (packages/waku/src/router/define-router.tsx:156–161) accepts an arbitrary string and reflects it unchanged into the HTTP Location response header with no URL validation, scheme restriction, or path-only enforcement. Any application that passes user-controlled input to this helper — the natural pattern documented in the JSDoc and official fixtures — is vulnerable to open redirect attacks. An attacker who convinces a victim to click a crafted link can silently redir",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-49456",
+   "cvss": 3.1,
+   "ref": "https://github.com/wakujs/waku/pull/2090"
+  },
+  "title_vi": "CVE-2026-49456 — Waku là khung Phản ứng tối thiểu",
+  "key": "54a50850ea7f57115121193c3cb47865be49e264"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78583 — Incorrect Authorization (CWE-863) in Kibana can lead to privilege escalation via Input Data Manipulation (CAPEC-153)",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78583",
+  "published": "2026-09-03T19:17:28.550",
+  "summary": "Incorrect Authorization (CWE-863) in Kibana can lead to privilege escalation via Input Data Manipulation (CAPEC-153). Elasticsearch cluster privilege declarations originating from integration packages were not validated before being used to mint credentials for enrolled Elastic Agents. A user holding Fleet management privileges could therefore cause every Elastic Agent on a targeted policy to receive a credential carrying arbitrarily elevated Elasticsearch cluster privileges, up to and including full cluster administration.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78583",
+   "cvss": 8.1,
+   "ref": "https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-9-5-3-security-update-esa-2026-140/390158"
+  },
+  "title_vi": "CVE-2026-78583 — Ủy quyền không chính xác (CWE-863) ở Kibana có thể dẫn đến leo thang đặc quyền thông qua Thao tác dữ liệu đầu vào (CAPEC-153)",
+  "key": "f3b4bb20fe3d4b16ca299881daa64763cc4bae81"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78593 — An insufficiently validated configuration field in Kibana's Cribl integration allows an authenticated user holding Kibana Fleet management privileges ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78593",
+  "published": "2026-09-03T19:17:28.687",
+  "summary": "An insufficiently validated configuration field in Kibana's Cribl integration allows an authenticated user holding Kibana Fleet management privileges to inject attacker-controlled expressions into a server-side script template, resulting in an Elasticsearch ingest pipeline being written beyond the caller's authorized Elasticsearch permissions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78593",
+   "cvss": 4.3,
+   "ref": "https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-9-5-3-security-update-esa-2026-151/390159"
+  },
+  "title_vi": "CVE-2026-78593 - Trường cấu hình được xác thực không đầy đủ trong tích hợp Cribl của Kibana cho phép người dùng được xác thực nắm giữ đặc quyền quản lý Đội xe Kibana",
+  "key": "b723bcf8728e1a04b3966d89a6a54013b8a25999"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78595 — Missing Authorization in Kibana Leading to Information Disclosure / Missing Authorization (CWE-862) in the Kibana Fleet feature can lead to informatio",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78595",
+  "published": "2026-09-03T19:17:28.850",
+  "summary": "Missing Authorization in Kibana Leading to Information Disclosure / Missing Authorization (CWE-862) in the Kibana Fleet feature can lead to information disclosure via Privilege Abuse (CAPEC-122). An authenticated user holding read-level Fleet agent privileges in one Kibana space could enumerate agent metadata and access diagnostic content belonging to agents enrolled in other Kibana spaces.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78595",
+   "cvss": 4.3,
+   "ref": "https://discuss.elastic.co/t/kibana-9-4-6-9-5-3-security-update-esa-2026-153/390160"
+  },
+  "title_vi": "CVE-2026-78595 — Thiếu ủy quyền ở Kibana dẫn đến tiết lộ thông tin/ thiếu ủy quyền (CWE-862) trong tính năng Hạm đội Kibana có thể dẫn đến thông tin",
+  "key": "92c6ebb831d4dddb0690f6fe9dd05ef872ab1d25"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78596 — Missing Authorization in Kibana Leading to Unauthorized Modification of Data / Missing Authorization (CWE-862) in Kibana can lead to unauthorized modi",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78596",
+  "published": "2026-09-03T19:17:28.993",
+  "summary": "Missing Authorization in Kibana Leading to Unauthorized Modification of Data / Missing Authorization (CWE-862) in Kibana can lead to unauthorized modification of data via Privilege Abuse (CAPEC-122). An authenticated user holding Security read-level access in a single Kibana space could trigger Entity Analytics migration operations that perform privileged writes across all Kibana spaces, regardless of that user's actual access scope.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78596",
+   "cvss": 4.3,
+   "ref": "https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-9-5-3-security-update-esa-2026-154/390161"
+  },
+  "title_vi": "CVE-2026-78596 — Thiếu ủy quyền ở Kibana dẫn đến việc sửa đổi trái phép dữ liệu / Thiếu ủy quyền (CWE-862) ở Kibana có thể dẫn đến modi trái phép",
+  "key": "484a85e30cd22dead60cbde5e6518521157a573d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82298 — Incorrect Authorization (CWE-863) in Kibana can lead to denial of service via Exploiting Incorrectly Configured Access Control Security Levels (CAPEC-",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82298",
+  "published": "2026-09-03T19:17:29.587",
+  "summary": "Incorrect Authorization (CWE-863) in Kibana can lead to denial of service via Exploiting Incorrectly Configured Access Control Security Levels (CAPEC-180).",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82298",
+   "cvss": 4.3,
+   "ref": "https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-9-5-3-security-update-esa-2026-174/390162"
+  },
+  "title_vi": "CVE-2026-82298 - Ủy quyền không chính xác (CWE-863) ở Kibana có thể dẫn đến từ chối dịch vụ thông qua Khai thác cấp độ bảo mật kiểm soát truy cập được cấu hình không chính xác (CAPEC-",
+  "key": "863aecbc81d302213d394bacf6a91740c0128637"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82299 — Incorrect Authorization (CWE-863) in Kibana can lead to information disclosure via Exploiting Incorrectly Configured Access Control Security Levels (C",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82299",
+  "published": "2026-09-03T19:17:29.707",
+  "summary": "Incorrect Authorization (CWE-863) in Kibana can lead to information disclosure via Exploiting Incorrectly Configured Access Control Security Levels (CAPEC-180).",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82299",
+   "cvss": 6.5,
+   "ref": "https://discuss.elastic.co/t/kibana-9-4-6-9-5-3-security-update-esa-2026-175/390163"
+  },
+  "title_vi": "CVE-2026-82299 - Ủy quyền không chính xác (CWE-863) ở Kibana có thể dẫn đến việc tiết lộ thông tin thông qua Khai thác cấp độ bảo mật kiểm soát truy cập được cấu hình không chính xác (C",
+  "key": "6cf2a7c5ad7b8b8bb6b43409487ed1e657943a99"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82302 — Incorrect Authorization (CWE-863) in Kibana can lead to unauthorized configuration modification via Exploiting Incorrectly Configured Access Control S",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82302",
+  "published": "2026-09-03T19:17:29.827",
+  "summary": "Incorrect Authorization (CWE-863) in Kibana can lead to unauthorized configuration modification via Exploiting Incorrectly Configured Access Control Security Levels (CAPEC-180).",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82302",
+   "cvss": 8.1,
+   "ref": "https://discuss.elastic.co/t/kibana-8-19-22-9-4-7-9-5-3-security-update-esa-2026-178/390164"
+  },
+  "title_vi": "CVE-2026-82302 - Ủy quyền không chính xác (CWE-863) trong Kibana có thể dẫn đến sửa đổi cấu hình trái phép thông qua Khai thác kiểm soát truy cập cấu hình không chính xác S",
+  "key": "68dfac3a93480fb091d7472332a95cd2601e3631"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82526 — R2R through 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82526",
+  "published": "2026-09-03T19:17:29.950",
+  "summary": "R2R through 3.6.6 contains a stacked SQL injection vulnerability that allows unauthenticated attackers to execute arbitrary SQL statements by manipulating the index name parameter in the vector index creation endpoint. The index name is interpolated directly into a CREATE INDEX statement via string formatting without identifier quoting or allowlist validation, enabling arbitrary DDL and DML execution through semicolon-separated statements under the PostgreSQL superuser account.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82526",
+   "cvss": 9.8,
+   "ref": "https://github.com/SciPhi-AI/R2R/issues/2309"
+  },
+  "title_vi": "CVE-2026-82526 — R2R đến 3",
+  "key": "3ab717dfd3590802136119068bdf1fe527dd9f70"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85028 — Creation of a temporary file in a directory with insecure permissions in the FPGA management tool installation component in AWS FPGA Development Kit (",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85028",
+  "published": "2026-09-03T19:17:30.083",
+  "summary": "Creation of a temporary file in a directory with insecure permissions in the FPGA management tool installation component in AWS FPGA Development Kit (aws-fpga) before 2.3.4 might allow local users to execute arbitrary code with root privileges via crafted shell content placed at a predictable path in a world-writable temporary directory, which the installation step reads after elevating its own privileges.\n\n\n\nTo remediate this issue, users should upgrade to version 2.3.4.",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85028",
+   "cvss": 7.8,
+   "ref": "https://aws.amazon.com/security/security-bulletins/2026-096-aws/"
+  },
+  "title_vi": "CVE-2026-85028 — Tạo tệp tạm thời trong thư mục có quyền không an toàn trong thành phần cài đặt công cụ quản lý FPGA trong AWS FPGA Development Kit (",
+  "key": "d602def1e1d8e6fc58cf5567bb64afccbb82dc76"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85205 — A vulnerability was determined in itsourcecode Online Medicine Delivery System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85205",
+  "published": "2026-09-03T19:17:30.230",
+  "summary": "A vulnerability was determined in itsourcecode Online Medicine Delivery System 1.0. This issue affects the function addwishlist of the file /customer/controller.php?action=addwish of the component Wishlist. This manipulation of the argument proid causes sql injection. The attack may be initiated remotely.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85205",
+   "cvss": 6.3,
+   "ref": "https://github.com/boyslikesports/202607_vul_dir/blob/main/H-02-SQLi-Wishlist-Update-Insert_en.md"
+  },
+  "title_vi": "CVE-2026-85205 - Một lỗ hổng đã được xác định trong Hệ thống phân phối thuốc trực tuyến mã nguồn 1",
+  "key": "64b56fb4e159431ed0ec05afada9af697f38d847"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85388 — Worklenz through 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85388",
+  "published": "2026-09-03T19:17:30.403",
+  "summary": "Worklenz through 3.0.0 fails to properly validate the sort-field query parameter in pagination helper functions, allowing authenticated users to inject arbitrary PostgreSQL expressions into ORDER BY clauses. Attackers can use time-based and boolean-based blind SQL injection techniques to extract sensitive database content including password hashes from other tenants. This is an incomplete fix for CVE-2026-25947.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85388",
+   "cvss": 8.1,
+   "ref": "https://github.com/Worklenz/worklenz"
+  },
+  "title_vi": "CVE-2026-85388 — Worklenz thông qua 3",
+  "key": "c1007c65e95b90de09a2ed6d462d5a640c565d9b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85389 — Worklenz before 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85389",
+  "published": "2026-09-03T19:17:30.553",
+  "summary": "Worklenz before 3.0.0 fails to verify task ownership by organization when resolving task-scoped API endpoints, allowing authenticated users to access another tenant's task data. Attackers can query task endpoints with arbitrary task UUIDs to retrieve work logs, comments, attachments, and project insights belonging to other organizations.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85389",
+   "cvss": 6.5,
+   "ref": "https://github.com/Worklenz/worklenz"
+  },
+  "title_vi": "CVE-2026-85389 — Worklenz trước 3",
+  "key": "c98663aeff17ff105baba39bc3d923356d0c103e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85390 — Checkmate through 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85390",
+  "published": "2026-09-03T19:17:30.690",
+  "summary": "Checkmate through 3.11.0 omits the isAllowed role guard middleware on maintenance-window, notification, and check-deletion routes, allowing read-only users to perform administrative actions. Attackers with user-role sessions can create arbitrary maintenance windows to silence alerts, modify notification channels, and delete monitor check history to erase incident evidence.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85390",
+   "cvss": 7.1,
+   "ref": "https://github.com/bluewave-labs/Checkmate"
+  },
+  "title_vi": "CVE-2026-85390 — Chiếu tướng thông qua 3",
+  "key": "dfdfaf98edf0bc61162d50722dd20974cf7de1c6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85391 — Peppermint through 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85391",
+  "published": "2026-09-03T19:17:30.830",
+  "summary": "Peppermint through 0.5.5 contains a hardcoded JWT signing secret in docker-compose.yml that allows unauthenticated attackers to forge session tokens for any account. Attackers can use the published secret to mint valid tokens for arbitrary user IDs and access protected endpoints without credentials.",
+  "categories": [
+   "breach",
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85391",
+   "cvss": 9.8,
+   "ref": "https://github.com/Peppermint-Lab/peppermint"
+  },
+  "title_vi": "CVE-2026-85391 — Bạc hà đến 0",
+  "key": "a21623ec80dd44bb06af4c0675fe19f249cf6df5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85392 — Peppermint through 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85392",
+  "published": "2026-09-03T19:17:30.970",
+  "summary": "Peppermint through 0.5.5 contains an authorization bypass vulnerability in the GET /api/v1/auth/user/:id/logout endpoint that allows authenticated attackers to delete sessions for any user by supplying arbitrary user IDs. Attackers can forcibly log out any user including administrators by calling the logout handler with another user's ID, since the endpoint performs no authorization checks to verify the caller owns the target account.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85392",
+   "cvss": 4.3,
+   "ref": "https://github.com/Peppermint-Lab/peppermint"
+  },
+  "title_vi": "CVE-2026-85392 — Bạc hà đến 0",
+  "key": "55c297090fcea1b97be83cc29c05493f84d05801"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85393 — node-forge through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85393",
+  "published": "2026-09-03T19:17:31.103",
+  "summary": "node-forge through 1.4.0 fails to validate element count in nested DigestAlgorithm sequences during RSA PKCS#1 v1.5 signature verification. Attackers can embed garbage bytes inside the DigestAlgorithm sequence to forge valid signatures for arbitrary messages using low-exponent RSA keys. This is an incomplete fix for CVE-2026-33894.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85393",
+   "cvss": 7.5,
+   "ref": "https://github.com/advisories/GHSA-ppp5-5v6c-4jwp"
+  },
+  "title_vi": "CVE-2026-85393 — node-forge qua 1",
+  "key": "16cdffb57192100d314b296f98c7dc14ad4ff6da"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85394 — python-jose through 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85394",
+  "published": "2026-09-03T19:17:31.257",
+  "summary": "python-jose through 3.5.0 fails to properly validate asymmetric keys in HMAC initialization, accepting DER-encoded public keys that lack PEM armor or SSH prefixes. Attackers holding the service's public key can forge HS256 tokens that pass verification when algorithms are not explicitly restricted. This is an incomplete fix for CVE-2024-33663.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85394",
+   "cvss": 9.1,
+   "ref": "https://github.com/advisories/GHSA-6c5p-j8vq-pqhj"
+  },
+  "title_vi": "CVE-2026-85394 — python-jose qua 3",
+  "key": "ca917bfba27240f630f3ef4475c9f45414f39ed1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85395 — UnoPim before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85395",
+  "published": "2026-09-03T19:17:31.390",
+  "summary": "UnoPim before 2.1.3 fails to include integration store, update, and key-generation routes in its ACL map, allowing any admin user to bypass permission checks. Attackers with minimal admin privileges can create OAuth API integrations, mint client credentials, and escalate permissions by exploiting missing authorization validation in the Bouncer middleware.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85395",
+   "cvss": 7.1,
+   "ref": "https://github.com/geo-chen/oss/blob/main/unopim.md"
+  },
+  "title_vi": "CVE-2026-85395 — UnoPim trước 2",
+  "key": "b3cbf0af6b426bf9aeafb1e71b616671a7cc6491"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85396 — rubyzip versions before 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85396",
+  "published": "2026-09-03T19:17:31.527",
+  "summary": "rubyzip versions before 3.4.0 contain a path traversal vulnerability in Zip::Entry#extract that fails to properly validate extraction paths using prefix comparison without trailing separators. Attackers can craft archive entries with names like ../upload_backup/owned.sh to write files outside the intended extraction directory into sibling paths sharing the destination prefix.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85396",
+   "cvss": 7.5,
+   "ref": "https://github.com/geo-chen/oss/blob/main/rubyzip.md"
+  },
+  "title_vi": "CVE-2026-85396 — phiên bản rubyzip trước 3",
+  "key": "35fa4a107d5407018273700080372c9fa5ebcde1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-19795 — IBM Qiskit SDK 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19795",
+  "published": "2026-09-03T20:17:19.790",
+  "summary": "IBM Qiskit SDK 2.1.0 through 2.5.1 could allow a local attacker to cause a denial of service due to improper handling of a specially crafted object during deserialization. A malicious QPY payload can trigger a segmentation fault, causing the application to crash when deserializing untrusted input.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-19795",
+   "cvss": 6.2,
+   "ref": "https://www.ibm.com/support/pages/node/7285932"
+  },
+  "title_vi": "",
+  "key": "f108f998ed24c1858ace9a73e9f0554f40a78c3d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-44506 — Medplum is a developer platform that enables development of healthcare apps",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-44506",
+  "published": "2026-09-03T20:17:21.177",
+  "summary": "Medplum is a developer platform that enables development of healthcare apps. In Medplum versions 4.1.10 through 5.1.6, the /oauth2/register endpoint could return the client_secret of preconfigured OAuth clients defined via the defaultOAuthClients server configuration when a matching redirect_uri was provided. This issue has been patched in version 5.1.7.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-44506",
+   "cvss": 8.2,
+   "ref": "https://github.com/medplum/medplum/releases/tag/v5.1.7"
+  },
+  "title_vi": "CVE-2026-44506 - Medplum là một nền tảng dành cho nhà phát triển cho phép phát triển các ứng dụng chăm sóc sức khỏe",
+  "key": "60c0e2e7af3f0bd02d4b438584b3deb112cf61cb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-53728 — Medplum is a developer platform that enables development of healthcare apps",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-53728",
+  "published": "2026-09-03T20:17:21.643",
+  "summary": "Medplum is a developer platform that enables development of healthcare apps. Prior to version 5.1.6, the external identity provider callback at GET /auth/external accepts attacker-controlled redirect URIs that only need to start with a registered client redirect URI, rather than matching exactly. After a successful external IdP login, the server appends Medplum login and code values to that attacker-supplied URL and issues a redirect. Because the external login request state is serialized as raw JSON and later trusted by the callback, an attacker who can tamper with state.redirectUri can cause",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-53728",
+   "cvss": 7.1,
+   "ref": "https://github.com/medplum/medplum/commit/7ae10035ddadde4dba7b18d3156553940465b3a1"
+  },
+  "title_vi": "CVE-2026-53728 - Medplum là một nền tảng dành cho nhà phát triển cho phép phát triển các ứng dụng chăm sóc sức khỏe",
+  "key": "5ccff069aefd2f6b4b666f8795c7e7dc57c3d6eb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82527 — R2R through 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82527",
+  "published": "2026-09-03T20:17:22.360",
+  "summary": "R2R through 3.6.6 contains a SQL injection vulnerability that allows unauthenticated attackers to inject SQL predicates into the chunks search query by manipulating the filter key parameter in the retrieval search endpoint. Attackers can exploit the direct interpolation of filter keys into the SQL WHERE clause without parameterization or escaping to perform time-based and boolean-based data exfiltration from the application database.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82527",
+   "cvss": 7.5,
+   "ref": "https://github.com/SciPhi-AI/R2R/issues/2308"
+  },
+  "title_vi": "CVE-2026-82527 — R2R đến 3",
+  "key": "9ea93d171cc60b857ecd978d226244c14e242c25"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85042 — Use after free in DevTools in Google Chrome prior to 152",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85042",
+  "published": "2026-09-03T20:17:22.727",
+  "summary": "Use after free in DevTools in Google Chrome prior to 152.0.7977.82 allowed a remote attacker to execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: High)",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85042",
+   "cvss": 9.6,
+   "ref": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01882797386.html"
+  },
+  "title_vi": "CVE-2026-85042 — Sử dụng sau khi miễn phí trong DevTools trong Google Chrome trước 152",
+  "key": "06f42e3254f5fa2a563aeeca53fbf9d08cffa0b3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85043 — Incomplete cleanup in Network in Google Chrome prior to 152",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85043",
+  "published": "2026-09-03T20:17:23.270",
+  "summary": "Incomplete cleanup in Network in Google Chrome prior to 152.0.7977.82 allowed a remote attacker to bypass system access restrictions via crafted network traffic. (Chromium security severity: High)",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85043",
+   "cvss": null,
+   "ref": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01882797386.html"
+  },
+  "title_vi": "CVE-2026-85043 — Dọn dẹp chưa hoàn tất trong Mạng trong Google Chrome trước 152",
+  "key": "cb2944982fffd561f758ef55c7e8396202b75d50"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85044 — Use of released resource in Mobile in Google Chrome on on Android prior to 152",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85044",
+  "published": "2026-09-03T20:17:23.570",
+  "summary": "Use of released resource in Mobile in Google Chrome on on Android prior to 152.0.7977.82 allowed a remote attacker leveraging social engineering to bypass web origin policy via a crafted HTML page. (Chromium security severity: Medium)",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85044",
+   "cvss": null,
+   "ref": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01882797386.html"
+  },
+  "title_vi": "CVE-2026-85044 — Sử dụng tài nguyên đã phát hành trong Điện thoại di động trong Google Chrome trên Android trước 152",
+  "key": "5b7314a98fafa06639d22faa942a0373894bb992"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85045 — Race condition in V8 in Google Chrome prior to 152",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85045",
+  "published": "2026-09-03T20:17:23.890",
+  "summary": "Race condition in V8 in Google Chrome prior to 152.0.7977.82 allowed a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. (Chromium security severity: High)",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85045",
+   "cvss": 7.5,
+   "ref": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01882797386.html"
+  },
+  "title_vi": "CVE-2026-85045 — Tình trạng cuộc đua trong V8 trong Google Chrome trước 152",
+  "key": "113b64ab064d569100c90787cce291e3011ce9fa"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85046 — Type confusion in V8 in Google Chrome prior to 152",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85046",
+  "published": "2026-09-03T20:17:24.210",
+  "summary": "Type confusion in V8 in Google Chrome prior to 152.0.7977.82 allowed a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. (Chromium security severity: High)",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85046",
+   "cvss": 8.8,
+   "ref": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01882797386.html"
+  },
+  "title_vi": "CVE-2026-85046 — Nhập nhầm lẫn trong V8 trong Google Chrome trước 152",
+  "key": "8791bc527364cbc410ac21fa0695264d431fcee4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85047 — Improper input validation in Transactions Platform in Google Chrome on on iOS prior to 152",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85047",
+  "published": "2026-09-03T20:17:24.690",
+  "summary": "Improper input validation in Transactions Platform in Google Chrome on on iOS prior to 152.0.7977.82 allowed a remote attacker to potentially execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: Medium)",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85047",
+   "cvss": 9.6,
+   "ref": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01882797386.html"
+  },
+  "title_vi": "CVE-2026-85047 — Xác thực đầu vào không đúng cách trong Nền tảng giao dịch trong Google Chrome trên iOS trước 152",
+  "key": "3834aaeeaad225fc2f072c0bd543203b6e36fff3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85048 — Use after free in Compositing in Google Chrome prior to 152",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85048",
+  "published": "2026-09-03T20:17:25.160",
+  "summary": "Use after free in Compositing in Google Chrome prior to 152.0.7977.82 allowed a remote attacker who had compromised the renderer process to execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: High)",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85048",
+   "cvss": 8.3,
+   "ref": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01882797386.html"
+  },
+  "title_vi": "CVE-2026-85048 — Sử dụng sau khi miễn phí trong Compositing trong Google Chrome trước 152",
+  "key": "8dec8053acdb000de632df3b8ba7ecde955ae772"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85049 — Use after free in Skia in Google Chrome prior to 152",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85049",
+  "published": "2026-09-03T20:17:25.610",
+  "summary": "Use after free in Skia in Google Chrome prior to 152.0.7977.82 allowed a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. (Chromium security severity: High)",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85049",
+   "cvss": 8.8,
+   "ref": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01882797386.html"
+  },
+  "title_vi": "CVE-2026-85049 — Sử dụng sau khi miễn phí trong Skia trong Google Chrome trước 152",
+  "key": "a25f9b2d48fd8d265cfc50b02ef841b7a156f40a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85050 — Out of bounds write in WebGL in Google Chrome on on Android prior to 152",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85050",
+  "published": "2026-09-03T20:17:26.077",
+  "summary": "Out of bounds write in WebGL in Google Chrome on on Android prior to 152.0.7977.82 allowed a remote attacker to execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: High)",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85050",
+   "cvss": 9.6,
+   "ref": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01882797386.html"
+  },
+  "title_vi": "CVE-2026-85050 — Ghi ngoài giới hạn bằng WebGL trong Google Chrome trên Android trước 152",
+  "key": "6ba28047416ad680631b9cc913b7e9302be38b89"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85051 — Type confusion in Compositing in Google Chrome prior to 152",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85051",
+  "published": "2026-09-03T20:17:26.420",
+  "summary": "Type confusion in Compositing in Google Chrome prior to 152.0.7977.82 allowed a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. (Chromium security severity: High)",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85051",
+   "cvss": 8.8,
+   "ref": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01882797386.html"
+  },
+  "title_vi": "CVE-2026-85051 — Nhập nhầm lẫn trong việc tổng hợp trong Google Chrome trước 152",
+  "key": "96aa8221f8f6a55c6e2bfcc88951355a3a0362c4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85052 — Out of bounds read in CrashReporting in Google Chrome prior to 152",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85052",
+  "published": "2026-09-03T20:17:26.857",
+  "summary": "Out of bounds read in CrashReporting in Google Chrome prior to 152.0.7977.82 allowed a remote attacker who had compromised the renderer process to read memory outside the sandbox via a crafted HTML page. (Chromium security severity: High)",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85052",
+   "cvss": 3.1,
+   "ref": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01882797386.html"
+  },
+  "title_vi": "CVE-2026-85052 — Đọc ngoài giới hạn trong CrashReporting trong Google Chrome trước 152",
+  "key": "cfb81eb816163fdbedac612352148af34f5ac41f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85053 — Improper resource exposure in CacheStorage in Google Chrome prior to 152",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85053",
+  "published": "2026-09-03T20:17:27.163",
+  "summary": "Improper resource exposure in CacheStorage in Google Chrome prior to 152.0.7977.82 allowed a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. (Chromium security severity: High)",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85053",
+   "cvss": 8.8,
+   "ref": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01882797386.html"
+  },
+  "title_vi": "CVE-2026-85053 — Tiếp xúc tài nguyên không đúng cách trong CacheStorage trong Google Chrome trước 152",
+  "key": "b71b6921fad1b12e47b07532f966f924ac5edb84"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85207 — A vulnerability was identified in itsourcecode Online Medicine Delivery System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85207",
+  "published": "2026-09-03T20:17:27.613",
+  "summary": "A vulnerability was identified in itsourcecode Online Medicine Delivery System 1.0. Impacted is an unknown function of the file /index.php?q=orderdetails. Such manipulation of the argument location leads to cross site scripting. The attack may be launched remotely. The exploit is publicly available and might be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85207",
+   "cvss": 3.5,
+   "ref": "https://github.com/boyslikesports/202607_vul_dir/blob/main/H-06-XSS-Reflected-OrderDetails_en.md"
+  },
+  "title_vi": "CVE-2026-85207 - Một lỗ hổng đã được xác định trong Hệ thống phân phối thuốc trực tuyến mã nguồn 1",
+  "key": "5cbf149e21106876c2774fb835ea086f7e89a222"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-63376 — toml-node is a TOML parser for Node",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63376",
+  "published": "2026-09-03T21:17:21.513",
+  "summary": "toml-node is a TOML parser for Node.js and the browser. Prior to 4.1.2, toml.parse() in lib/compiler.js can be tricked by a table path such as a.b.y.__proto__.__proto__, allowing traversal from a scalar value into Number.prototype and Object.prototype. The currentPath tracking value uses both arrays and strings, so valueAssignments records a comma-joined path such as a,b.y while deepRef checks the dot-joined path a.b.y, allowing the duplicate-key guard to miss and attacker-controlled keys to be written to Object.prototype. A table-array prefix-clearing path in addTableArray can also erase guar",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-63376",
+   "cvss": 8.2,
+   "ref": "https://github.com/BinaryMuse/toml-node/commit/def6ab5ea99038c0dd482cd6af1745a6af8b4c44"
+  },
+  "title_vi": "CVE-2026-63376 — toml-node là trình phân tích cú pháp TOML cho Node",
+  "key": "033effa5cdb00af138ac41816f3cbf88fd1e43ea"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71429 — stream-json is a micro-library of stream components for processing JSON and JSONC with a minimal memory footprint",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71429",
+  "published": "2026-09-03T21:17:21.660",
+  "summary": "stream-json is a micro-library of stream components for processing JSON and JSONC with a minimal memory footprint. Prior to 3.5.0, the path filters pick, ignore, filter, and replace in src/core/filters/filter-base.js recompute the full path string from the nesting stack for every checkable token. Because the stack length equals the current nesting depth and a checkable token is emitted at every level, a depth D document costs O(D²) rather than O(D) to process. The issue is triggered by nesting depth rather than byte volume, including the documented pick({filter: 'data'}) traversal-until-match ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71429",
+   "cvss": 6.2,
+   "ref": "https://github.com/uhop/stream-json/commit/a869fb98aaef9225556f49901a8f55954ff856e6"
+  },
+  "title_vi": "CVE-2026-71429 — stream-json là một thư viện vi mô gồm các thành phần luồng để xử lý JSON và JSONC với dung lượng bộ nhớ tối thiểu",
+  "key": "721e501e98879f9835fc8927d3ab65487c6122b4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77465 — toml-node is a TOML parser for Node",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77465",
+  "published": "2026-09-03T21:17:21.803",
+  "summary": "toml-node is a TOML parser for Node.js and the browser. Prior to 4.2.0, toml.parse() uses a Peggy 5.1.0 generated recursive-descent parser in lib/parser.js whose peg$parsevalue, peg$parsearray, and peg$parseinline_table_entry functions recurse through nested arrays and inline tables without a depth limit. A remote unauthenticated application parsing an attacker-controlled TOML document containing a few thousand nested arrays or inline tables can exhaust the Node.js call stack, raise an unexpected RangeError rather than the parser's SyntaxError, and terminate an unprotected request worker or pr",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77465",
+   "cvss": 7.5,
+   "ref": "https://github.com/BinaryMuse/toml-node/commit/967b8b06754f3ecd9863cea118dc50792a8c353f"
+  },
+  "title_vi": "CVE-2026-77465 — toml-node là trình phân tích cú pháp TOML cho Node",
+  "key": "40bdd536da282a1e67338759a5a0e43b9e3b7881"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82520 — parsedmarc before 11",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82520",
+  "published": "2026-09-03T21:17:22.407",
+  "summary": "parsedmarc before 11.0.1 decompresses gzip and ZIP attachments in a single unbounded read with no limit on decompressed output size. Because parsedmarc automatically processes incoming DMARC report emails without user interaction, an unauthenticated remote attacker can send a crafted email with a highly compressed attachment to the monitored mailbox, causing the parsedmarc process to allocate memory proportional to the uncompressed size and exhaust available RAM.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82520",
+   "cvss": 7.5,
+   "ref": "https://github.com/domainaware/parsedmarc/releases/tag/11.0.1"
+  },
+  "title_vi": "CVE-2026-82520 - phân tích cú pháp trước 11",
+  "key": "78e6462b27b6f674015e00fbe486ce4b730200f0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82521 — parsedmarc 9",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82521",
+  "published": "2026-09-03T21:17:22.553",
+  "summary": "parsedmarc 9.0.6 before 11.0.1 writes forensic report sample files using an output path derived from the email subject. When the subject consists entirely of path traversal sequences, the filename sanitization function produces an empty string, and a fallback to the raw unsanitized subject causes the resulting file to be written outside the intended samples directory. An attacker who can cause a forensic failure report with a crafted Subject to be processed can write a dot-prefixed file with attacker-controlled content to an ancestor directory of the configured samples output path. Exploitatio",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82521",
+   "cvss": 5.3,
+   "ref": "https://github.com/domainaware/parsedmarc/releases/tag/11.0.1"
+  },
+  "title_vi": "CVE-2026-82521 - phân tích cú pháp 9",
+  "key": "3591013e60e61d098708e936664eb1e38850c0f2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84185 — A flaw was found in the jwcrypto library, which is used for implementing Javascript Object Signing and Encryption (JOSE) standards",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84185",
+  "published": "2026-09-03T21:17:22.687",
+  "summary": "A flaw was found in the jwcrypto library, which is used for implementing Javascript Object Signing and Encryption (JOSE) standards. The issue occurs when the library verifies a General JSON Serialization JWS using a set of keys. Due to a coding error, the library fails to correctly identify the specific key ID (kid) and may instead accept a signature made by any valid key in the set. This can allow an attacker with a valid key to bypass authorization checks in applications that rely on the key ID to identify specific tenants or users.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84185",
+   "cvss": 5.9,
+   "ref": "https://access.redhat.com/security/cve/CVE-2026-84185"
+  },
+  "title_vi": "CVE-2026-84185 — Một lỗ hổng đã được tìm thấy trong thư viện jwcrypto, được sử dụng để triển khai các tiêu chuẩn Mã hóa và Ký đối tượng Javascript (JOSE)",
+  "key": "d7e9055cec20864ed46313bec52636c72cc498f8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85061 — MapLibre GL JS is an interactive vector tile map library for web browsers",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85061",
+  "published": "2026-09-03T21:17:23.323",
+  "summary": "MapLibre GL JS is an interactive vector tile map library for web browsers. Prior to 6.4.1, DOM.sanitize() in src/util/dom.ts iterates elem.attributes as a live NamedNodeMap while removeAttributes() removes attributes from the same collection, shifting indexes and skipping an adjacent dangerous attribute. An attacker who controls untrusted third-party style attribution strings or user-supplied custom attributions can supply consecutive dangerous attributes, causing an attribute such as onload or ontoggle to survive sanitization and execute when the attribution control inserts the content into i",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85061",
+   "cvss": 10.0,
+   "ref": "https://github.com/maplibre/maplibre-gl-js/commit/1da69f3cd913a39fa948708e01478663bf48bc27"
+  },
+  "title_vi": "CVE-2026-85061 — MapLibre GL JS là thư viện bản đồ ô vectơ tương tác cho các trình duyệt web",
+  "key": "320e3f975969bb02ce3a1342dc80f667224c22e5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85062 — Colord is a tiny yet powerful tool for high-performance color manipulations and conversions",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85062",
+  "published": "2026-09-03T21:17:23.477",
+  "summary": "Colord is a tiny yet powerful tool for high-performance color manipulations and conversions. Prior to 2.9.4, synchronous CSS color string matchers in src/colorModels/rgbString.ts, src/colorModels/hslString.ts, src/colorModels/hwbString.ts, src/colorModels/lchString.ts, and src/colorModels/cmykString.ts use the ambiguous numeric regular expression ([+-]?\\d*.?\\d+), allowing the same digits to be divided between overlapping quantifiers in quadratically many ways when malformed input is rejected. An attacker who can supply an unbounded color string to colord(), getFormat(), isEqual(), mix(), or co",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85062",
+   "cvss": null,
+   "ref": "https://github.com/omgovich/colord/commit/87018089515ed66a85b1a95c3c7c3fd69a25bac2"
+  },
+  "title_vi": "CVE-2026-85062 — Colord là một công cụ nhỏ nhưng mạnh mẽ cho các thao tác và chuyển đổi màu hiệu suất cao",
+  "key": "d12b604e07858e38e33c53d2762aa0782844b3c4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85063 — node-csv is a full-featured CSV parser with a simple API that is tested against large datasets",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85063",
+  "published": "2026-09-03T21:17:23.620",
+  "summary": "node-csv is a full-featured CSV parser with a simple API that is tested against large datasets. Prior to 7.0.2, csv-parse with the columns and group_columns_by_name options enabled treats a duplicate __proto__ header as an existing property in packages/csv-parse/lib/api/index.js, assigns an attacker-controlled array through obj['__proto__'], and replaces the parsed record object's prototype. A malicious CSV header can therefore inject inherited array values into the returned record, hide those inherited values from JSON serialization, and affect property enumeration and type or shape checks in",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85063",
+   "cvss": null,
+   "ref": "https://github.com/adaltas/node-csv/commit/eb4d1484589c976dcb977db8dd0b90e015a6f66e"
+  },
+  "title_vi": "CVE-2026-85063 - node-csv là trình phân tích cú pháp CSV đầy đủ tính năng với API đơn giản được kiểm tra dựa trên các bộ dữ liệu lớn",
+  "key": "5b746b41f3b5a39fa7098b3eb4ba961075cac227"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85208 — A security flaw has been discovered in itsourcecode Online Medicine Delivery System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85208",
+  "published": "2026-09-03T21:17:23.777",
+  "summary": "A security flaw has been discovered in itsourcecode Online Medicine Delivery System 1.0. The affected element is the function doInsert of the file /rider/orders/controller.php?action=add of the component Order Management Controller. Performing a manipulation of the argument image results in unrestricted upload. Remote exploitation of the attack is possible. The exploit has been released to the public and may be used for attacks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85208",
+   "cvss": 7.3,
+   "ref": "https://github.com/boyslikesports/202607_vul_dir/blob/main/H-12-FileUpload-RCE-RiderOrders_en.md"
+  },
+  "title_vi": "CVE-2026-85208 — Một lỗ hổng bảo mật đã được phát hiện trong Hệ thống phân phối thuốc trực tuyến mã nguồn 1",
+  "key": "0c15039a060342e88438b488eb99c27d24d7a1c9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85222 — A vulnerability has been found in D-Link DNS-340L 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85222",
+  "published": "2026-09-03T21:17:23.990",
+  "summary": "A vulnerability has been found in D-Link DNS-340L 1.01B04. Affected by this vulnerability is an unknown functionality of the file /cgi-bin/addon_center.cgi of the component Add-On Center. Such manipulation of the argument f_name/f_url/f_flag/f_login_user leads to os command injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85222",
+   "cvss": 9.1,
+   "ref": "https://github.com/dxz0069/WAVLINK-WN530H4-Command-Injection-in-set_add_routing/blob/main/DLINK-CMD-007-vulndb.md"
+  },
+  "title_vi": "CVE-2026-85222 — Một lỗ hổng đã được tìm thấy trong D-Link DNS-340L 1",
+  "key": "9c319b737c97a0b012354765563d6c3bff7734c9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85458 — Divide-by-zero in Xpdf 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85458",
+  "published": "2026-09-03T21:17:24.170",
+  "summary": "Divide-by-zero in Xpdf 4.06 (and earlier), when a glyph in a Type 3 font has a zero height.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85458",
+   "cvss": null,
+   "ref": "https://www.xpdfreader.com/security-bug/CVE-2026-85458.html"
+  },
+  "title_vi": "CVE-2026-85458 — Chia theo số không trong Xpdf 4",
+  "key": "3d391f72650ccbdb5d70cb6d299d3057b8a03971"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-8862 — IBM Netezza Software 11",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-8862",
+  "published": "2026-09-03T21:17:24.307",
+  "summary": "IBM Netezza Software 11.3.0.3 through Interim Fix 002 has credentials that are hardcoded in the application source code, allowing unauthorized access to the container registry. The exposed secret enables attackers to pull private container images, potentially revealing proprietary code, configuration details, and other sensitive information.",
+  "categories": [
+   "breach",
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-8862",
+   "cvss": 7.5,
+   "ref": "https://www.ibm.com/support/pages/node/7284359"
+  },
+  "title_vi": "CVE-2026-8862 — Phần mềm IBM Netezza 11",
+  "key": "2e14ddb12e02ef358a1b83580b21d66d802b4c0d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-9036 — IBM Netezza Software 11",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-9036",
+  "published": "2026-09-03T21:17:24.440",
+  "summary": "IBM Netezza Software 11.3.0.3 through Interim Fix 002 does not validate or improperly validates TLS certificate validation, which could allow an attacker to obtain sensitive information using man in the middle techniques.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-9036",
+   "cvss": 5.9,
+   "ref": "https://www.ibm.com/support/pages/node/7284359"
+  },
+  "title_vi": "CVE-2026-9036 — Phần mềm IBM Netezza 11",
+  "key": "ec22c06df96658c4cfc04f1467a06fef835a7787"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-9736 — IBM Netezza Software 11",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-9736",
+  "published": "2026-09-03T21:17:24.560",
+  "summary": "IBM Netezza Software 11.3.0.3 through Interim Fix 002 could allow an unauthorized user to inject data into log messages due to improper neutralization of special elements when written to log files.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-9736",
+   "cvss": 5.3,
+   "ref": "https://www.ibm.com/support/pages/node/7284359"
+  },
+  "title_vi": "CVE-2026-9736 — Phần mềm IBM Netezza 11",
+  "key": "82344e8ed7bca209aa7948f12af412aa49ab6ee7"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-9744 — IBM Netezza Software 11",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-9744",
+  "published": "2026-09-03T21:17:24.683",
+  "summary": "IBM Netezza Software 11.3.0.3 through Interim Fix 002 does not validate or improperly validates TLS certificate validation, which could allow an attacker to obtain sensitive information using man in the middle techniques.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-9744",
+   "cvss": 5.3,
+   "ref": "https://www.ibm.com/support/pages/node/7284359"
+  },
+  "title_vi": "CVE-2026-9744 — Phần mềm IBM Netezza 11",
+  "key": "195a510b01487ea5718202e6eb24e08233a3d95a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-9745 — IBM Netezza Software 11",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-9745",
+  "published": "2026-09-03T21:17:24.797",
+  "summary": "IBM Netezza Software 11.3.0.3 through Interim Fix 002 has operations that are performed without validating bucket ownership using the ExpectedBucketOwner parameter. This omission may allow a remote attacker to exploit misconfigurations or naming collisions to redirect application requests to an unintended S3 bucket under their control.",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-9745",
+   "cvss": 6.5,
+   "ref": "https://www.ibm.com/support/pages/node/7284359"
+  },
+  "title_vi": "CVE-2026-9745 — Phần mềm IBM Netezza 11",
+  "key": "e8c61fa47b66122eaaa9e8dba639c7525a66fe63"
+ },
+ {
   "source": "VietnamPlus Kinh tế số",
   "title": "Israel dọa tấn công toàn bộ cơ sở hạ tầng Iran nếu bị tập kích",
   "link": "https://www.vietnamplus.vn/israel-doa-tan-cong-toan-bo-co-so-ha-tang-iran-neu-bi-tap-kich-post1134110.vnp",
@@ -72652,1113 +73887,5 @@
   },
   "title_vi": "CVE-2026-81490 — Người dùng cơ sở dữ liệu có thể tạo chế độ xem trong không gian tên mà Trình kết nối MongoDB cho các mẫu BI có thể khiến quy trình lấy mẫu lược đồ ngừng hoạt động b",
   "key": "21dbd3a427a0c24f4638865844f8ff13b1fba624"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-81517 — An unauthenticated party able to reach the port of a MongoDB Connector for BI (mongosqld) instance may generate enough routine connection log activity",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81517",
-  "published": "2026-08-28T22:16:54.383",
-  "summary": "An unauthenticated party able to reach the port of a MongoDB Connector for BI (mongosqld) instance may generate enough routine connection log activity to exhaust the storage backing the configured log path. When a log write or log rotation operation subsequently fails, the resulting error is not handled and the shared mongosqld process ends, ending service for all connected SQL clients. The process continues to end on startup until an operator restores available storage, and the diagnostic message explaining the condition is not recorded.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-81517",
-   "cvss": 7.5,
-   "ref": "https://www.mongodb.com/docs/bi-connector/current/release-notes/"
-  },
-  "title_vi": "CVE-2026-81517 — Một bên chưa được xác thực có thể đến cổng của một phiên bản MongoDB Connector cho BI (mongosqld) có thể tạo ra đủ hoạt động nhật ký kết nối thường xuyên",
-  "key": "295814d62baa0860c7c826db8f3b2e89af862493"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-81518 — When mongosqld is configured with a client certificate authority file, the listener requests a client certificate during the TLS handshake but does no",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81518",
-  "published": "2026-08-28T22:16:54.510",
-  "summary": "When mongosqld is configured with a client certificate authority file, the listener requests a client certificate during the TLS handshake but does not require one, so a client that presents no certificate is still accepted. In deployments that rely on client certificates as the sole means of identifying users, a remote party with network access to the listener can therefore establish a session and read the MongoDB data exposed through the connector.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-81518",
-   "cvss": 7.5,
-   "ref": "https://www.mongodb.com/docs/bi-connector/current/release-notes/"
-  },
-  "title_vi": "CVE-2026-81518 — Khi mongosqld được cấu hình với tệp thẩm quyền chứng chỉ máy khách, người nghe yêu cầu chứng chỉ máy khách trong quá trình bắt tay TLS nhưng không",
-  "key": "4c2897ce4b213614f8d6f97372410e838b6723e6"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-81520 — A network-reachable client that has not yet authenticated can hold a MongoDB Connector for BI authentication session open indefinitely by beginning a ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81520",
-  "published": "2026-08-28T22:16:54.650",
-  "summary": "A network-reachable client that has not yet authenticated can hold a MongoDB Connector for BI authentication session open indefinitely by beginning a SASL-based login exchange and then declining to complete it. Because the negotiation loop had no overall time bound and the read from the client had no deadline, each such session retains a worker, a client connection slot, and its associated backend database connections until the process is restarted. Repeated use of this behavior can consume the configured connection capacity and prevent legitimate users from establishing new sessions.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-81520",
-   "cvss": 7.5,
-   "ref": "https://www.mongodb.com/docs/bi-connector/current/release-notes/"
-  },
-  "title_vi": "CVE-2026-81520 — Một máy khách có thể truy cập mạng chưa được xác thực có thể giữ Trình kết nối MongoDB cho phiên xác thực BI mở vô thời hạn bằng cách bắt đầu",
-  "key": "5da00dc4d0078287e1fcad8711ddec33d8d3444b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-81532 — A user able to submit SQL through an application using the MongoDB Connector for BI ODBC driver can supply a positioned-cursor statement whose cursor ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81532",
-  "published": "2026-08-28T22:16:54.793",
-  "summary": "A user able to submit SQL through an application using the MongoDB Connector for BI ODBC driver can supply a positioned-cursor statement whose cursor name exceeds the size of an internal fixed-length buffer. Because the name length is not bounded before the driver builds its diagnostic message, memory adjacent to that buffer is overwritten with user-supplied content. This can terminate the hosting application process and may allow unintended code to run within it.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-81532",
-   "cvss": 8.8,
-   "ref": "https://github.com/mongodb/mongo-bi-connector-odbc-driver/releases"
-  },
-  "title_vi": "CVE-2026-81532 - Người dùng có thể gửi SQL thông qua một ứng dụng bằng cách sử dụng Trình kết nối MongoDB cho trình điều khiển BI ODBC có thể cung cấp một câu lệnh con trỏ định vị có con trỏ",
-  "key": "ec3f5c5ca38dee6aebd196d0d680abd1d943b98f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-81533 — An application using the MongoDB BI Connector ODBC Driver may encounter a memory-safety issue when a submitted SQL statement contains an unusually lon",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81533",
-  "published": "2026-08-28T22:16:54.930",
-  "summary": "An application using the MongoDB BI Connector ODBC Driver may encounter a memory-safety issue when a submitted SQL statement contains an unusually long run of digits following a LIMIT clause. The issue occurs only on connections where the driver's optional prefetch setting is enabled, and stems from the driver copying the digit sequence into a fixed-size internal buffer without checking its length. A user able to influence the numeric portion of a LIMIT clause could cause the hosting application process to terminate unexpectedly or corrupt adjacent memory in that process.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-81533",
-   "cvss": 7.1,
-   "ref": "https://github.com/mongodb/mongo-bi-connector-odbc-driver/releases"
-  },
-  "title_vi": "CVE-2026-81533 - Một ứng dụng sử dụng Trình điều khiển ODBC của Trình kết nối BI MongoDB có thể gặp phải vấn đề về an toàn bộ nhớ khi một câu lệnh SQL được gửi có chứa một sự cô đơn bất thường",
-  "key": "b5a9ac8192b33b70a9795be49345d06519d13981"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82017 — IGEL OS 12 before 12",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82017",
-  "published": "2026-08-28T22:16:55.067",
-  "summary": "IGEL OS 12 before 12.7.6 and IGEL OS 11 before 11.11.150 contain a boot registry parameter injection vulnerability that allows attackers with physical access to execute arbitrary Linux loader parameters by writing to an unencrypted and unsigned configuration area read by the signed bootloader. Attackers can inject malicious kernel command line parameters that execute with boot environment privileges without triggering TPM PCR measurement failures, as the attack does not modify the measured boot code.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82017",
-   "cvss": 7.6,
-   "ref": "https://blog.amberwolf.com/blog/2026/august/thin-client-thin-crypto-overview/"
-  },
-  "title_vi": "CVE-2026-82017 — IGEL OS 12 trước 12",
-  "key": "5917f9f7dd53858a7b1364ae967f3bc9587d574f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82018 — IGEL OS 12 before 12",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82018",
-  "published": "2026-08-28T22:16:55.217",
-  "summary": "IGEL OS 12 before 12.9.0, 12.8.3 LTS and IGEL OS 11 before 11.11.150 contain a secure boot bypass vulnerability in the GRUB boot stage that allows physically present attackers to gain unauthorized root access by placing an unsigned empty file named igel.conf on a partition. Attackers can exploit GRUB's fail-open signature verification behavior to drop into an interactive GRUB prompt, then boot the device's own kernel with additional command-line arguments to obtain a root shell with the disk unlocked while leaving TPM PCR values unaltered.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82018",
-   "cvss": 6.1,
-   "ref": "https://blog.amberwolf.com/blog/2026/august/thin-client-thin-crypto-overview/"
-  },
-  "title_vi": "CVE-2026-82018 — IGEL OS 12 trước 12",
-  "key": "7dcd5e1d9e49e69cdafae6a425fa7d9083cf5bbd"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82333 — multer is a middleware for handling multipart/form-data in Node",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82333",
-  "published": "2026-08-28T22:16:57.037",
-  "summary": "multer is a middleware for handling multipart/form-data in Node.js. A small multipart request with two specially crafted text field names can make multer's field parser synchronously iterate a maximum-length sparse array, blocking the event loop so the process cannot handle other requests. A large numeric array index in the first field allocates a maximum-length sparse array, and a second field with a non-numeric key then triggers a full-length iteration inside the append-field dependency. All versions before 2.3.0 are affected, and this is a remotely triggerable denial of service. multer 2.3.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82333",
-   "cvss": 7.5,
-   "ref": "https://cna.openjsf.org/security-advisories.html"
-  },
-  "title_vi": "CVE-2026-82333 - multer là một phần mềm trung gian để xử lý dữ liệu đa phần/biểu mẫu trong Node",
-  "key": "baf95a83a81d13642a8d62162a20158d6cb47152"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55764 — Klever-Go is the Go implementation of the Klever blockchain protocol",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55764",
-  "published": "2026-08-28T23:17:07.220",
-  "summary": "Klever-Go is the Go implementation of the Klever blockchain protocol. Prior to 1.7.19, Klever-Go allows a mint-role holder to bypass a finite per-nonce MaxSupply on the semi-fungible token add-quantity path. In core/kapp/systemAccount/systemAcount.go, SFTAddCirculation performed meta.Circulation += amount before evaluating whether Circulation exceeded MaxSupply, without checking for signed int64 overflow. A large positive raw Amount supplied through processSemiFungibleAddQuantity in core/kapp/kda/mint.go can wrap Circulation negative, causing the signed maximum-supply comparison to pass and cr",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55764",
-   "cvss": null,
-   "ref": "https://github.com/klever-io/klever-go/commit/8bcc600b0ac88070740c63c7ce1c8a968dd85251"
-  },
-  "title_vi": "CVE-2026-55764 — Klever-Go là triển khai Go của giao thức blockchain Klever",
-  "key": "a5eae519baa4cf429807bbd7409b0f56cca86f16"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55779 — Silverstripe Versioned provides versioning for Silverstripe models",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55779",
-  "published": "2026-08-28T23:17:07.357",
-  "summary": "Silverstripe Versioned provides versioning for Silverstripe models. Prior to 3.2.1, RestoreAction::getRestoreMessage() in src/RestoreAction.php builds ArchiveAdmin restore notifications rendered as CAST_HTML and inserts $restoredItem->Title, $restoredItem->URLSegment, $restoredItem->CMSEditLink(), and $changedProperty['value'] without applying Convert::raw2xml(). When an administrator restores an archived page containing a crafted title or URL segment, the generated restoration message can execute stored JavaScript in the administrator's browser, compromising the confidentiality and integrity ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55779",
-   "cvss": 5.4,
-   "ref": "https://github.com/silverstripe/silverstripe-versioned/commit/6e30a2cf8d4b9233690464da61bd0fc4d3e92952"
-  },
-  "title_vi": "CVE-2026-55779 — Silverstripe Versioned cung cấp phiên bản cho các mẫu Silverstripe",
-  "key": "dd0222212e3a261863f99158ad67d4c80ddedcb6"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55784 — free5GC is an open-source implementation of the 5G core network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55784",
-  "published": "2026-08-28T23:17:07.517",
-  "summary": "free5GC is an open-source implementation of the 5G core network. In version 1.4.4 and earlier, the AUSF component stores per-subscriber authentication state in a global sync.Map named AUSFContext.UePool in internal/context/context.go, keyed only by SUPI. Every request handled by internal/sbi/processor/ue_authentication.go creates an AusfUeContext, and AddAusfUeContextToPool executes ausfContext.UePool.Store(ausfUeContext.Supi, ausfUeContext), unconditionally replacing the active context for that SUPI. An attacker with access to the AUSF SBI/N12 interface can send concurrent POST /nausf-auth/v1",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55784",
-   "cvss": 7.5,
-   "ref": "https://github.com/free5gc/free5gc/security/advisories/GHSA-334q-h5g3-fpxv"
-  },
-  "title_vi": "CVE-2026-55784 — free5GC là một triển khai mã nguồn mở của mạng lõi 5G",
-  "key": "9b69de5bb0d10c733b9ec3e772415e6a45180035"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55785 — free5GC is an open-source implementation of the 5G core network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55785",
-  "published": "2026-08-28T23:17:07.697",
-  "summary": "free5GC is an open-source implementation of the 5G core network. Prior to 1.4.5, the AUSF component performs cryptographic authentication comparisons in internal/sbi/processor/ue_authentication.go with ordinary equality helpers. Auth5gAkaComfirmRequestProcedure compares RES* and XRES* with strings.EqualFold and logs the expected XRES* value at INFO level before comparison. EapAuthComfirmRequestProcedure compares AT_MAC and XMAC with bytes.Equal and evaluates XRES == RES with ordinary string equality. These comparisons can return at mismatch-dependent times, although testing did not demonstrate",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55785",
-   "cvss": 3.7,
-   "ref": "https://github.com/free5gc/ausf/commit/7a5a4aa1ec6cd0e1febebf333911c3104968edf0"
-  },
-  "title_vi": "CVE-2026-55785 — free5GC là một triển khai mã nguồn mở của mạng lõi 5G",
-  "key": "1b0e3f5906f8b9eb3cbcadb51b9b6780194d2d0e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55841 — Graylog is a free and open log management platform",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55841",
-  "published": "2026-08-28T23:17:07.840",
-  "summary": "Graylog is a free and open log management platform. Prior to Graylog Server versions 6.3.12, 7.0.7, and 7.1.2 and Graylog Forwarder version 7.3, the FortiGate key-value syslog parser in graylog2-server/src/main/java/org/graylog2/inputs/codecs/GLFortiGateSyslogEvent.java and graylog2-server/src/main/java/org/graylog2/inputs/codecs/SyslogCodec.java mishandles field-like text inside quoted values. GLFortiGateSyslogEvent.getFields() uses KV_PATTERN and QUOTED_KV_PATTERN, while SyslogCodec.parse() invokes the FortiGateSyslogEvent parser; crafted values containing = or backslash-escaped quotes can c",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55841",
-   "cvss": 7.5,
-   "ref": "https://github.com/Graylog2/graylog2-server/commit/793df6e8202ea55c15a762e47a2a8a775961dd3f"
-  },
-  "title_vi": "CVE-2026-55841 — Graylog là một nền tảng quản lý nhật ký mở và miễn phí",
-  "key": "9c5742852800e18363eb9b96b4b3a46b4163f744"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55848 — mapfish-print is a component of MapFish for printing templated cartographic maps",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55848",
-  "published": "2026-08-28T23:17:08.013",
-  "summary": "mapfish-print is a component of MapFish for printing templated cartographic maps. Prior to 3.28.30, 3.30.32, 3.31.24, 3.33.16, and 4.0.5, MapFish Print accepts an attacker-controlled GML layer url in requests to the /api/print3/print endpoint and fetches XML parsed by core/src/main/java/org/mapfish/print/map/geotools/GmlLayer.java without disabling external entities and external DTDs. A remote XML document and DTD can expand a local file entity, and the resulting content can be exposed through the GML parsing and error path. This allows unauthenticated attackers to read files such as operating",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55848",
-   "cvss": 8.6,
-   "ref": "https://github.com/mapfish/mapfish-print/commit/13beae7a7f970fc3526c1f7ca5db817d8d51fbec"
-  },
-  "title_vi": "CVE-2026-55848 — mapfish-print là một thành phần của MapFish để in bản đồ bản đồ theo khuôn mẫu",
-  "key": "8acaf1adba334beebc9a0c9bd20ad15dca0a3b4c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55854 — MariaDB Connector/Node",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55854",
-  "published": "2026-08-28T23:17:08.203",
-  "summary": "MariaDB Connector/Node.js is used to connect applications developed on Node.js to MariaDB and MySQL databases. Prior to 3.2.4, 3.3.3, 3.4.6, and 3.5.3, MariaDB Connector/Node.js can disclose an account password when PAM dialog authentication is negotiated over an insecure transport. In lib/cmd/handshake/auth/pam-password-auth.js and lib/cmd/handshake/authentication.js, the SendPamAuthPacketFactory behavior for the server-side plugin dialog lacked the secure-transport gate applied to mysql_clear_password. With the default sslMode=DISABLE and restrictedAuth=null settings, a hostile or on-path se",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55854",
-   "cvss": 5.9,
-   "ref": "https://github.com/mariadb-corporation/mariadb-connector-nodejs/commit/29733403cfe6519cdfe9c36c93765a468fbe285d"
-  },
-  "title_vi": "CVE-2026-55854 — MariaDB Connector/Node",
-  "key": "2004ce9b1e568278b66cb9e4b162076281bc5f4d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55855 — MariaDB Connector/Node",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55855",
-  "published": "2026-08-28T23:17:08.353",
-  "summary": "MariaDB Connector/Node.js is used to connect applications developed on Node.js to MariaDB and MySQL databases. Prior to 3.2.4, 3.3.3, 3.4.6, and 3.5.3, MariaDB Connector/Node.js permits SQL injection when attacker-controlled Buffer parameters are escaped client-side under the big5, gbk, sjis, cp932, or gb18030 client character sets. PacketOutputStream.writeBufferEscape in lib/io/packet-output-stream.js escaped bytes without the charset-aware getMbRecognizer logic in lib/misc/charset-mb.js. The server SQL lexer runs my_ismbchar before escape processing, so an attacker-controlled lead byte can c",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55855",
-   "cvss": 6.5,
-   "ref": "https://github.com/mariadb-corporation/mariadb-connector-nodejs/commit/25c6239b68fd909132355c3f8535a5ef32423468"
-  },
-  "title_vi": "CVE-2026-55855 — MariaDB Connector/Node",
-  "key": "07c3218499e27aaa06e09267893a77be405fa8a8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55856 — MariaDB Connector/J is used to connect applications developed in Java to MariaDB and MySQL databases",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55856",
-  "published": "2026-08-28T23:17:08.513",
-  "summary": "MariaDB Connector/J is used to connect applications developed in Java to MariaDB and MySQL databases. Prior to 2.7.14, 3.3.5, 3.4.3, and 3.5.9, when a Java application connects with sslMode=verify-full or sslMode=verify-ca, supplies a password, and does not configure serverSslCert or trustStore, Connector/J can accept an untrusted self-signed certificate through the fallbackToSystemTrustStore=true ephemeral trust manager and record its certFingerprint for later identity binding. The OK-packet and authentication-switch paths enforce the certificate fingerprint, but the initial-handshake path do",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55856",
-   "cvss": 5.9,
-   "ref": "https://github.com/mariadb-corporation/mariadb-connector-j/commit/149ec6a626376214966c01f42d48be1b80d06056"
-  },
-  "title_vi": "CVE-2026-55856 — MariaDB Connector/J được sử dụng để kết nối các ứng dụng được phát triển trong Java với cơ sở dữ liệu MariaDB và MySQL",
-  "key": "4a519389f1cf3152f26600326fe139522401474d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55857 — MariaDB Connector/J is used to connect applications developed in Java to MariaDB and MySQL databases",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55857",
-  "published": "2026-08-28T23:17:08.680",
-  "summary": "MariaDB Connector/J is used to connect applications developed in Java to MariaDB and MySQL databases. Prior to 2.7.14, 3.3.5, 3.4.3, and 3.5.9, PAM dialog authentication can be coerced into transmitting the account password over an insecure connection. The mysql_clear_password plugin is gated behind a secure transport, but the sibling PAM handler SendPamAuthPacketFactory, named dialog by the server, does not declare that requirement and inherits the default secure-required value false; older branches implement the same affected behavior in SendPamAuthPacket. A hostile or man-in-the-middle serv",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55857",
-   "cvss": 5.9,
-   "ref": "https://github.com/mariadb-corporation/mariadb-connector-j/commit/a8599ab1cbe4b8818ea945bf56a4e012c302b388"
-  },
-  "title_vi": "CVE-2026-55857 — MariaDB Connector/J được sử dụng để kết nối các ứng dụng được phát triển trong Java với cơ sở dữ liệu MariaDB và MySQL",
-  "key": "ee9438d528afa024a8256a03d682cfecdae47a22"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55858 — MariaDB Connector/J is used to connect applications developed in Java to MariaDB and MySQL databases",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55858",
-  "published": "2026-08-28T23:17:08.827",
-  "summary": "MariaDB Connector/J is used to connect applications developed in Java to MariaDB and MySQL databases. Prior to 2.7.14, 3.3.5, 3.4.3, and 3.5.9, the connector encodes and decodes protocol text and performs client-side escaping under the assumption that the connection character set is UTF-8. The server can report a mid-session change to character_set_client through OK-packet session-state tracking, including a change caused by SET NAMES, a stored routine or trigger, server configuration, or a hostile server. If character_set_client changes to a non-UTF-8 value, the driver continues to read and w",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55858",
-   "cvss": 5.9,
-   "ref": "https://github.com/mariadb-corporation/mariadb-connector-j/commit/300716bef1e1d0370a41be7863b88aa2d55fbb69"
-  },
-  "title_vi": "CVE-2026-55858 — MariaDB Connector/J được sử dụng để kết nối các ứng dụng được phát triển trong Java với cơ sở dữ liệu MariaDB và MySQL",
-  "key": "f3c64645d6f09e75b47e6c53a7d379bc5449f2b1"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55859 — MariaDB Connector/R2DBC is a non-blocking MariaDB and MySQL client implemented in Java",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55859",
-  "published": "2026-08-28T23:17:09.007",
-  "summary": "MariaDB Connector/R2DBC is a non-blocking MariaDB and MySQL client implemented in Java. Prior to 1.4.1, org.mariadb:r2dbc-mariadb encodes and decodes all character data under the assumption that the connection character set is UTF-8. A server can announce a mid-session change to character_set_client through the OK-packet session-state-tracking mechanism, including through SET NAMES executed by a stored routine or trigger, server configuration, or a hostile or man-in-the-middle server. If the new character set is not UTF-8, the driver continues to exchange UTF-8 while the server interprets the ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55859",
-   "cvss": 5.9,
-   "ref": "https://github.com/mariadb-corporation/mariadb-connector-r2dbc/commit/38bad9afebc6c581a853656a42f9ebf403b1b1b7"
-  },
-  "title_vi": "CVE-2026-55859 — MariaDB Connector/R2DBC là một máy khách MariaDB và MySQL không chặn được triển khai trong Java",
-  "key": "957c85e83c294b23b9f61f9ddfe6e182312903c8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55860 — MariaDB Connector/R2DBC is a non-blocking MariaDB and MySQL client implemented in Java",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55860",
-  "published": "2026-08-28T23:17:09.153",
-  "summary": "MariaDB Connector/R2DBC is a non-blocking MariaDB and MySQL client implemented in Java. Prior to 1.4.1, org.mariadb:r2dbc-mariadb does not gate clear-text password authentication plugins on transport encryption because the AuthenticationPlugin interface has no capability for a plugin to require a secure connection. A hostile or man-in-the-middle MariaDB server can send an AuthSwitchRequest naming mysql_clear_password or dialog (PAM) over a plain-TCP unencrypted connection, and AuthenticationFlow permits ClearPasswordPluginFlow or PamPluginFlow to return the user's password as cleartext bytes o",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55860",
-   "cvss": 5.9,
-   "ref": "https://github.com/mariadb-corporation/mariadb-connector-r2dbc/commit/be786603ec5530414996d2396157013e095b320a"
-  },
-  "title_vi": "CVE-2026-55860 — MariaDB Connector/R2DBC là một máy khách MariaDB và MySQL không chặn được triển khai trong Java",
-  "key": "1f9b8f127962c59750d7f9acad02e62a85c5ee50"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55867 — Graylog is a free and open log management platform",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55867",
-  "published": "2026-08-28T23:17:09.300",
-  "summary": "Graylog is a free and open log management platform. From 6.2.0 until 6.3.12, 7.0.7, and 7.1.2, the DELETE /users/{userId}/tokens/{idOrToken} endpoint implemented by UsersResource.revokeToken() in graylog2-server/src/main/java/org/graylog2/rest/resources/users/UsersResource.java checks USERS_TOKENREMOVE permission against the attacker-controlled userId path parameter before resolving the token selected by idOrToken. An authenticated user can provide an authorized userId while accessTokenService.loadById() or accessTokenService.load() resolves a token belonging to another user, including a servi",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55867",
-   "cvss": null,
-   "ref": "https://github.com/Graylog2/graylog2-server/commit/41d3745d0e52736d06c07d279ca0d72c1616df4c"
-  },
-  "title_vi": "CVE-2026-55867 — Graylog là một nền tảng quản lý nhật ký mở và miễn phí",
-  "key": "16dc07aea4158a658985b1f201f579b70fd9aff3"
- },
- {
-  "source": "VietnamPlus Kinh tế số",
-  "title": "Xây dựng biên giới hòa bình, hữu nghị, hợp tác và phát triển",
-  "link": "https://www.vietnamplus.vn/xay-dung-bien-gioi-hoa-binh-huu-nghi-hop-tac-va-phat-trien-post1133215.vnp",
-  "published": "2026-08-28T15:25:34+00:00",
-  "summary": "Từ đầu năm 2026 đến nay, các Đồn Biên phòng tuyến biên giới Quảng Ninh và Chi đội quản lý biên giới Phòng Thành Cảng, Quảng Tây (Trung Quốc) phối hợp giải quyết tốt các vấn đề xảy ra trên biên giới. Việt Nam và Trung Quốc phối hợp tuần tra liên hợp trên biên giới Cửa khẩu Ái Điểm khôi phục thông quan cho hàng hóa Trung Quốc và Việt Nam Trung Quốc miễn thị thực quá cảnh 10 ngày cho công dân Việt Nam",
-  "categories": [
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "d595b4757f741e268f5741016c5ea959dec10381"
- },
- {
-  "source": "VietnamPlus Kinh tế số",
-  "title": "Việt Nam đặt mục tiêu thuộc nhóm 10 quốc gia dẫn đầu châu Á về AI vào năm 2045",
-  "link": "https://www.vietnamplus.vn/viet-nam-dat-muc-tieu-thuoc-nhom-10-quoc-gia-dan-dau-chau-a-ve-ai-vao-nam-2045-post1133204.vnp",
-  "published": "2026-08-28T14:17:01+00:00",
-  "summary": "Theo Chiến lược quốc gia về trí tuệ nhân tạo đến năm 2030, tầm nhìn đến năm 2045, Việt Nam phấn đấu thuộc nhóm 10 quốc gia dẫn đầu châu Á về năng lực nghiên cứu, phát triển, làm chủ AI. Google giới thiệu 50 câu chuyện đổi mới sáng tạo cùng AI tại Việt Nam Bài toán phát triển nguồn nhân lực Việt Nam trong kỷ nguyên AI 10 triệu lao động Việt Nam sẽ được trang bị kỹ năng AI vào năm 2030",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "6d65ac6d339b104231437c2951bd33b9657385a5"
- },
- {
-  "source": "Tuổi Trẻ Công nghệ",
-  "title": "Đà Nẵng có 'siêu app' cho dân, ngồi nhà vẫn biết máy bay đổi cửa - đổi giờ",
-  "link": "https://tuoitre.vn/da-nang-co-sieu-app-cho-dan-ngoi-nha-van-biet-may-bay-doi-cua-doi-gio-100260828091911964.htm",
-  "published": "2026-08-28T19:52:35.634412+00:00",
-  "summary": "Không cần tới sân bay, ai cũng có thể theo dõi giờ bay, nhà ga, quầy làm thủ tục, cửa khởi hành và trạng thái chuyến bay theo thời gian thực ngay trên ứng dụng Danang Smart City.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "3e863b9be06e35b21bec6fbfc57de7bc18d960bc"
- },
- {
-  "source": "Báo Tin tức (TTXVN) KH-CN",
-  "title": "Tòa án Mỹ hủy lệnh cấm của Lầu Năm Góc đối với Anthropic",
-  "link": "https://baotintuc.vn/khoa-hoc-cong-nghe/toa-an-my-huy-lenh-cam-cua-lau-nam-goc-doi-voi-anthropic-20260828130620168.htm",
-  "published": "2026-08-28T19:52:34.245195+00:00",
-  "summary": "Ngày 27/8, một thẩm phán Liên bang Mỹ ra phán quyết bác bỏ các biện pháp trừng phạt do chính quyền Tổng thống Donald Trump áp đặt hồi tháng 2 đối với \"gã khổng lồ\" trí tuệ nhân tạo (AI) Anthropic, qua đó hủy vĩnh viễn lệnh cấm của Lầu Năm Góc đối với “cha đẻ” của mô hình AI Claude.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "9cf44390d1c17398e8b3de695b69c7a63b9736bc"
- },
- {
-  "source": "Thanh Niên Công nghệ",
-  "title": "L&yacute; do n&ecirc;n khởi động lại điện thoại sau khi cập nhật",
-  "link": "https://thanhnien.vn/ly-do-nen-khoi-dong-lai-dien-thoai-sau-khi-cap-nhat-185260828134151144.htm",
-  "published": "2026-08-28T07:19:00+00:00",
-  "summary": "Việc chủ động khởi động lại điện thoại sau khi n&acirc;ng cấp hệ thống kh&ocirc;ng chỉ giải ph&oacute;ng bộ nhớ m&agrave; c&ograve;n l&agrave; l&aacute; chắn bảo mật hiệu quả.",
-  "categories": [
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "b9b09bbfce2a59a413b06c51cde1fe01e24b983f"
- },
- {
-  "source": "GenK",
-  "title": "Xử phạt kiểm duyệt viên nhóm Facebook để lọt văn bản giả mạo",
-  "link": "https://genk.vn/xu-phat-kiem-duyet-vien-nhom-facebook-de-lot-van-ban-gia-mao-165260828231739349.chn",
-  "published": "2026-08-28T19:52:26.026363+00:00",
-  "summary": "Phòng An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao - Công an thành phố Hà Nội vừa ra quyết định xử phạt vi phạm hành chính 15 triệu đồng đối với một kiểm duyệt viên nhóm Facebook do không thực hiện các biện pháp ngăn chặn thông tin sai sự thật được đăng tải, gây hoang mang dư luận.",
-  "categories": [
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "65799383ecaffbabbfa42287775ca05a765bfe8b"
- },
- {
-  "source": "GenK",
-  "title": "Đây là 3 công nghệ AI đột phá từ Dahua được trình diễn tại sự kiện Better Lab",
-  "link": "https://genk.vn/day-la-3-cong-nghe-ai-dot-pha-tu-dahua-duoc-trinh-dien-tai-su-kien-better-lab-165260828173114471.chn",
-  "published": "2026-08-28T19:52:26.026453+00:00",
-  "summary": "AI đang giúp camera vượt xa vai trò ghi hình truyền thống, với khả năng tìm kiếm dữ liệu bằng ngôn ngữ tự nhiên, tối ưu dung lượng lưu trữ và cải thiện chất lượng hình ảnh ban đêm. Tại Better Lab, Dahua mang tới 3 công nghệ nổi bật cho thấy xu hướng này.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "4d83c658100209865137c95e33298c3353796698"
- },
- {
-  "source": "GenK",
-  "title": "Gia dụng đáng mua, vừa ý cho mọi gia đình: Khi AI giải quyết những nhu cầu rất đời thường",
-  "link": "https://genk.vn/gia-dung-dang-mua-vua-y-cho-moi-gia-dinh-khi-ai-giai-quyet-nhung-nhu-cau-rat-doi-thuong-16526082817272401.chn",
-  "published": "2026-08-28T19:52:26.026475+00:00",
-  "summary": "Không phải là khái niệm công nghệ xa vời hay thiếu thân thiện với số đông, AI trên những thiết bị gia dụng như tủ lạnh, máy giặt đang trợ giúp đắc lực cho người dùng trong nhiều tình huống gần gũi và rất thực tế.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "7a780a0d7ce3894a5458ba5287c4540febce0685"
- },
- {
-  "source": "Znews Công nghệ",
-  "title": "Việt Nam hướng tới vào top 3 dẫn đầu Đông Nam Á về AI",
-  "link": "https://tech.zingnews.vn/viet-nam-huong-toi-vao-top-3-dan-dau-dong-nam-a-ve-ai-post1679936.html",
-  "published": "2026-08-28T11:16:09+00:00",
-  "summary": "Chính phủ vừa ban hành Chiến lược quốc gia về Trí tuệ nhân tạo đến năm 2030, thay thế Quyết định 127/QĐ-TTg năm 2021, hướng tới đưa kinh tế AI đóng góp khoảng 6% GDP.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "95546275bf295e192adc852af2e8f03109abe244"
- },
- {
-  "source": "Znews Công nghệ",
-  "title": "Hàng trăm KOL, nghệ sĩ đồng hành để kiến tạo môi trường mạng an toàn",
-  "link": "https://tech.zingnews.vn/hang-tram-kol-nghe-si-dong-hanh-de-kien-tao-moi-truong-mang-an-toan-post1679864.html",
-  "published": "2026-08-28T07:12:41+00:00",
-  "summary": "Khoảng 500 KOL, nghệ sĩ và nhà sáng tạo nội dung sẽ cùng bàn về AI, tin giả, bản quyền số và trách nhiệm của người có ảnh hưởng trên không gian mạng.",
-  "categories": [
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "aace55df976b173c56931e887c954c1c4b8c9c85"
- },
- {
-  "source": "VnExpress Số hóa",
-  "title": "'AI bí ẩn' Ox Alpha dùng hoàn toàn bằng chip Trung Quốc",
-  "link": "https://vnexpress.net/ai-bi-an-ox-alpha-dung-hoan-toan-bang-chip-trung-quoc-5114379.html",
-  "published": "2026-08-28T17:00:00+00:00",
-  "summary": "Công ty Z.AI cho biết mô hình GLM-5.3-Flash, hay Ox Alpha, của họ được vận hành hoàn toàn bằng chip do Trung Quốc tự sản xuất.",
-  "categories": [
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "34c40eb5d59febb1a67a5c2eec8295cddfac9f1e"
- },
- {
-  "source": "VnExpress Số hóa",
-  "title": "Chiếc áo giúp 'né' camera AI giám sát",
-  "link": "https://vnexpress.net/chiec-ao-giup-ne-camera-ai-giam-sat-5114517.html",
-  "published": "2026-08-28T08:30:06+00:00",
-  "summary": "Nhà thiết kế Đức Simon Weckert tạo ra áo sơ mi với sự kết hợp màu và họa tiết độc đáo, khiến camera giám sát sử dụng AI không thể nhận diện.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "64b034db49dcf52c47ad6fb881739d53cf9520b0"
- },
- {
-  "source": "VnExpress Số hóa",
-  "title": "Startup Trung Quốc xác nhận đứng sau mô hình AI bí ẩn",
-  "link": "https://vnexpress.net/startup-trung-quoc-xac-nhan-dung-sau-mo-hinh-ai-bi-an-5114206.html",
-  "published": "2026-08-28T00:00:00+00:00",
-  "summary": "Startup Z.ai cho biết họ là nhà phát triển Ox Alpha, mô hình trọng số mở đang gây xôn xao nhờ hiệu năng tốt và cho phép dùng miễn phí một tuần.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "91c8d9ba3300187eef6762ce5d723766ab7fadc1"
- },
- {
-  "source": "VnExpress Số hóa",
-  "title": "LG đưa AI lên màn hình gaming OLED UltraGear",
-  "link": "https://vnexpress.net/lg-dua-ai-len-man-hinh-gaming-oled-ultragear-5114311.html",
-  "published": "2026-08-28T09:33:00+00:00",
-  "summary": "Màn hình UltraGear của LG trang bị tấm nền OLED RGB Tandem thế hệ thứ tư, lần đầu sử dụng hệ điều hành webOS, tích hợp sâu AI hỗ trợ chơi game.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "5c81ddbb0179642497a6d80a6c62f0388be23361"
- },
- {
-  "source": "VnExpress Số hóa",
-  "title": "Bill Gates kêu gọi 'để dành' công việc cho con người thời AI",
-  "link": "https://vnexpress.net/bill-gates-keu-goi-de-danh-cong-viec-cho-con-nguoi-thoi-ai-5114268.html",
-  "published": "2026-08-28T02:28:02+00:00",
-  "summary": "Bill Gates cảnh báo AI có thể mang đến nhiều rủi ro, chẳng hạn tăng tình trạng thất nghiệp, đề xuất bảo tồn một số công việc cho con người.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "5f787d751d2b91033756a3fdeb00e2b149dbd749"
- },
- {
-  "source": "VnExpress Số hóa",
-  "title": "Giám đốc Honor: 'AI không chỉ dành cho smartphone cao cấp'",
-  "link": "https://vnexpress.net/giam-doc-honor-ai-khong-chi-danh-cho-smartphone-cao-cap-5113288.html",
-  "published": "2026-08-28T02:00:00+00:00",
-  "summary": "AI là tính năng nên có trên smartphone, nhưng cần đáp ứng đa dạng phân khúc thay vì chỉ trên thiết bị cao cấp, theo ông George Zheng.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "907a0ba7174cdbed101da73adc735b908247e182"
- },
- {
-  "source": "VnExpress Số hóa",
-  "title": "Galaxy S26 FE nâng cấp camera và hậu kỳ AI theo chuẩn cao cấp",
-  "link": "https://vnexpress.net/galaxy-s26-fe-nang-cap-camera-va-hau-ky-ai-theo-chuan-cao-cap-5114307.html",
-  "published": "2026-08-28T02:00:00+00:00",
-  "summary": "Galaxy S26 FE trang bị loạt tính năng trên các dòng flagship như My FanCam, khóa đường chân trời, Photo Assist, hỗ trợ sáng tạo với hình ảnh, video.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "e2fb9c30321b1f7e59cfdd9666c5991627171dd7"
- },
- {
-  "source": "Cloud Security Alliance",
-  "title": "What Zero Trust Can Teach Us About AI Watermarks",
-  "link": "https://cloudsecurityalliance.org/articles/what-zero-trust-can-teach-us-about-ai-watermarks",
-  "published": "2026-08-28T06:31:24+00:00",
-  "summary": "I recently wrote about the mess that is watermarking AI-generated text and how Anthropic's move to add watermarks (in response to the EU AI Act's transparency rules) raises more questions than it answers. If you haven't read that blog, the short version is this: telling AI content apart from human content is getting harder every day – AI is a tool that should be used much in the same way that you use a calculator to do long division, and slapping a watermark on it doesn't change that. B...",
-  "categories": [
-   "ai",
-   "cloud"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "f2137f1d2be6111eee14eb6e0aa774b5c9c4a50c"
- },
- {
-  "source": "Cloudflare Blog",
-  "title": "BotBase for Operators: A clearer path to joining Cloudflare's directory of bots and agents",
-  "link": "https://blog.cloudflare.com/botbase-for-operators/",
-  "published": "2026-08-28T12:59:44+00:00",
-  "summary": "Bot operators now have a home in the Cloudflare dashboard to manage submissions. This update adds submission status tracking, submission editing, and a behavior model so operators can accurately declare how their bots use content.",
-  "categories": [
-   "cloud"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "BotBase cho các nhà khai thác: Một con đường rõ ràng hơn để tham gia thư mục bot và tác nhân của Cloudflare",
-  "key": "27e7a02edec911d9d9cfc29687cae7e44de53630"
- },
- {
-  "source": "AWS Security Blog",
-  "title": "Extend your data perimeter to the AWS Management Console with Private Access",
-  "link": "https://aws.amazon.com/blogs/security/extend-your-data-perimeter-to-the-aws-management-console-with-private-access/",
-  "published": "2026-08-28T18:53:57+00:00",
-  "summary": "Organizations in regulated industries such as financial services, government, defense, and healthcare restrict their sensitive workloads to isolated network environments with no access to the public internet. Until now, customers could restrict AWS Management Console access to authorized AWS accounts and corporate networks, but the console itself required internet connectivity. This was creating tension between […]",
-  "categories": [
-   "cloud"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "Mở rộng phạm vi dữ liệu của bạn lên Bảng điều khiển quản lý AWS với quyền truy cập riêng tư",
-  "key": "46ab8e80542b17b9676e6e31186a3c6f9371360c"
- },
- {
-  "source": "OpenAI News",
-  "title": "Supporting Thailand’s next generation of AI startups",
-  "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-  "published": "2026-08-28T02:00:00+00:00",
-  "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-  "categories": [
-   "ai"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "b307c7124f7eaf666395ec5ea9171204ff7afe2d"
- },
- {
-  "source": "DataBreaches.net",
-  "title": "Winona County paid more than $128K following January ransomware attack",
-  "link": "https://databreaches.net/2026/08/28/winona-county-paid-more-than-128k-following-january-ransomware-attack/",
-  "published": "2026-08-28T13:59:22+00:00",
-  "summary": "WXOW in Minnesota reports: Winona County paid more than $128,000 following a January ransomware attack, according to a county news release. The county said it negotiated and paid $128,539.57 with assistance from its insurance carrier after ransomware was detected on its computer network Jan. 22, 2026. Officials said the decision was made after consultation with... Source",
-  "categories": [
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "Quận Winona đã trả hơn $ 128k sau cuộc tấn công ransomware tháng 1",
-  "key": "d3af29577820373276b5de96f4db5cd2d3d42ee1"
- },
- {
-  "source": "DataBreaches.net",
-  "title": "UK: HIV charity has ‘sensitive’ health data stolen",
-  "link": "https://databreaches.net/2026/08/28/uk-hiv-charity-has-sensitive-health-data-stolen/",
-  "published": "2026-08-28T13:53:21+00:00",
-  "summary": "Matt Trewern reports on another charity hit by the Beacon CRM data breach that affected more than 1,000 charities and non-profits: People using an HIV charity have been told their &#8220;sensitive and personal&#8221; health information may have been stolen in a data breach. In an email sent to George House Trust users and seen by... Source",
-  "categories": [
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "Vương quốc Anh: Tổ chức từ thiện HIV bị đánh cắp dữ liệu sức khỏe ‘nhạy cảm’",
-  "key": "100f9645b7a6545164ede981626601bcc3d4a670"
- },
- {
-  "source": "Schneier on Security",
-  "title": "AI Doesn’t Mean the End of Mathematics—at Least Not Yet",
-  "link": "https://www.schneier.com/blog/archives/2026/08/ai-doesnt-mean-the-end-of-mathematics-at-least-not-yet.html",
-  "published": "2026-08-28T11:02:22+00:00",
-  "summary": "This essay was written with Kasra Rafi, and originally appeared in The Guardian. Earlier this month, about 40 top mathematicians gathered at OpenAI&#8217;s offices to discuss the future of their profession. The meeting was off-the-record, but if recent articles by mathematicians are any guide, it was mostly pretty glum. People fear for their jobs, their careers and the work they love. We think the contrary view is more likely, at least in the short-term. AI models are nowhere near as capable as experienced academic mathematicians. This isn&#8217;t to say that AIs aren&#8217;t producing stunnin",
-  "categories": [
-   "ai"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "AI không có nghĩa là kết thúc của toán học - ít nhất là chưa",
-  "key": "fb1518491cf4cbc115a16c3c0b3baac38653ff96"
- },
- {
-  "source": "DarkReading",
-  "title": "Offensive Security Investments Surge as AI Threats Increase",
-  "link": "https://www.darkreading.com/cybersecurity-operations/offensive-security-investments-surge-ai-threats-increase",
-  "published": "2026-08-28T18:25:43+00:00",
-  "summary": "Omdia's Theresa Lanowitz talks with the Dark Reading News Desk about the potential — and risks — of using agentic AI for penetration testing, red teaming, and other practices.",
-  "categories": [
-   "ai"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "Đầu tư bảo mật tấn công tăng vọt khi các mối đe dọa AI tăng lên",
-  "key": "bf178b153dde12c0ea93e1f46c41cc502f1f4377"
- },
- {
-  "source": "DarkReading",
-  "title": "You Need Cyber Deception for OT",
-  "link": "https://www.darkreading.com/ics-ot-security/you-need-cyber-deception-ot",
-  "published": "2026-08-28T14:00:00+00:00",
-  "summary": "The frustrating reality after an OT cyberattack: no data, no trail, and no history.",
-  "categories": [
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "Bạn Cần Lừa Đảo Qua Mạng cho OT",
-  "key": "54c87af7ab3f4f7590ff984099515c9001bc88f5"
- },
- {
-  "source": "DarkReading",
-  "title": "Defining an AI Kill Switch Is Hard, but Necessary",
-  "link": "https://www.darkreading.com/cybersecurity-operations/defining-ai-kill-switch-hard-but-necessary",
-  "published": "2026-08-28T13:30:00+00:00",
-  "summary": "Proposed legislation could mandate that companies be able to &quot;throttle, suspend, or shut ... down&quot; AI agents, but how and when to do that remain open questions.",
-  "categories": [
-   "ai"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "Xác định công tắc tắt AI là khó, nhưng cần thiết",
-  "key": "5c61a549391224a66f01f908f6122f33972b7362"
- },
- {
-  "source": "DarkReading",
-  "title": "The Vulnpocalypse Is Repricing the Bug Bounty Economy",
-  "link": "https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy",
-  "published": "2026-08-28T13:00:00+00:00",
-  "summary": "The surge of AI-powered vulnerability reports is driving down bug bounty prices, and that could spell trouble for independent researchers.",
-  "categories": [
-   "ai"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "Vulnpocalypse đang định giá lại nền kinh tế tiền thưởng lỗi",
-  "key": "0aea6ce773a843116de31bce555033e2a1519f72"
- },
- {
-  "source": "The Record",
-  "title": "PaperCut warns of hackers using printer management software flaw in attacks",
-  "link": "https://therecord.media/papercut-warns-of-hackers-using-printer-management-vulnerabilities",
-  "published": "2026-08-28T16:30:00+00:00",
-  "summary": "PaperCut released an emergency advisory on Thursday evening saying vulnerabilities in their print management software, PaperCut NG and MF, are under active exploitation.",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "PaperCut cảnh báo tin tặc sử dụng lỗ hổng phần mềm quản lý máy in trong các cuộc tấn công",
-  "key": "a894fd74c4d7ddcb4ffc674fe553343672fffcf2"
- },
- {
-  "source": "SecurityWeek",
-  "title": "In Other News: Log4j RCE Scare, Minimus Shutdown, Iranian Hacker Sanctions",
-  "link": "https://www.securityweek.com/in-other-news-log4j-rce-scare-minimus-shutdown-iranian-hacker-sanctions/",
-  "published": "2026-08-28T15:35:34+00:00",
-  "summary": "Noteworthy stories that might have slipped under the radar: Manchester Airports Group cyberattack, Carhartt breach data was partly fake, U.S. Bank responds to ransomware gang’s claims. The post In Other News: Log4j RCE Scare, Minimus Shutdown, Iranian Hacker Sanctions appeared first on SecurityWeek .",
-  "categories": [
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "Trong các tin tức khác: Log4j RCE Scare, Minimus Shutdown, Iran Hacker Trừng phạt",
-  "key": "43267b824ccd6f2af80b8f54ebcef82394277e2b"
- },
- {
-  "source": "SecurityWeek",
-  "title": "ATF Confirms Cyber Incident After Ransomware Group Claims Attack",
-  "link": "https://www.securityweek.com/atf-confirms-cyber-incident-after-ransomware-group-claims-attack/",
-  "published": "2026-08-28T13:59:14+00:00",
-  "summary": "The Bureau of Alcohol, Tobacco, Firearms and Explosives has described it as a ‘major incident’ and it’s conducting an investigation with the DOJ. The post ATF Confirms Cyber Incident After Ransomware Group Claims Attack appeared first on SecurityWeek .",
-  "categories": [
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "ATF xác nhận sự cố mạng sau cuộc tấn công của nhóm ransomware",
-  "key": "c81d78ebadfac3a165294914f0e2c37f330d909c"
- },
- {
-  "source": "SecurityWeek",
-  "title": "OpenAI Agents Exploited Linux Kernel Flaw on Company’s Own Systems",
-  "link": "https://www.securityweek.com/openai-agents-exploited-linux-kernel-flaw-on-companys-own-systems/",
-  "published": "2026-08-28T12:36:53+00:00",
-  "summary": "CISA has added the exploited flaw, CVE-2026-53362, to its KEV catalog, alongside a JFrog vulnerability exploited by OpenAI agents. The post OpenAI Agents Exploited Linux Kernel Flaw on Company&#8217;s Own Systems appeared first on SecurityWeek .",
-  "categories": [
-   "ai"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "Các tác nhân OpenAI đã khai thác lỗ hổng nhân Linux trên các hệ thống riêng của công ty",
-  "key": "315e661477477c601739621604a114ffee1f0231"
- },
- {
-  "source": "SecurityWeek",
-  "title": "Tech, Cybersecurity Giants Unite Behind OpenAI-Led Cyber Defense Pledge",
-  "link": "https://www.securityweek.com/tech-cybersecurity-giants-unite-behind-openai-led-cyber-defense-pledge/",
-  "published": "2026-08-28T11:01:22+00:00",
-  "summary": "Nearly 130 tech and cybersecurity companies back a collective call to boost cyber defenses as AI-enabled attacks grow more sophisticated. The post Tech, Cybersecurity Giants Unite Behind OpenAI-Led Cyber Defense Pledge appeared first on SecurityWeek .",
-  "categories": [
-   "ai"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "Những gã khổng lồ công nghệ, an ninh mạng đoàn kết đằng sau OpenAI-Led Cyber Defense Pledge",
-  "key": "bc6f23082a9c02aff2281d7a8342a681333db29d"
- },
- {
-  "source": "SecurityWeek",
-  "title": "Think You’ve Eliminated Chinese AI? Check the Model’s Lineage, Cisco Says",
-  "link": "https://www.securityweek.com/think-youve-eliminated-chinese-ai-check-the-models-lineage-cisco-says/",
-  "published": "2026-08-28T10:30:00+00:00",
-  "summary": "New research shows that country-of-origin labels can obscure an AI model’s upstream dependencies, inherited behaviors and potential security risks. The post Think You’ve Eliminated Chinese AI? Check the Model’s Lineage, Cisco Says appeared first on SecurityWeek .",
-  "categories": [
-   "ai"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "Bạn nghĩ rằng bạn đã loại bỏ AI của Trung Quốc? Kiểm tra dòng dõi của mô hình, Cisco nói",
-  "key": "50d55cfcb906b91715fd0533c9767061b23a32d3"
- },
- {
-  "source": "SecurityWeek",
-  "title": "PaperCut Releases Emergency Patch for Exploited Zero-Day",
-  "link": "https://www.securityweek.com/papercut-releases-emergency-patch-for-exploited-zero-day/",
-  "published": "2026-08-28T08:40:36+00:00",
-  "summary": "A CVE identifier has not yet been assigned, but PaperCut is urging NG/MF users to install patches and implement mitigations. The post PaperCut Releases Emergency Patch for Exploited Zero-Day appeared first on SecurityWeek .",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "PaperCut phát hành bản vá khẩn cấp cho ngày không khai thác",
-  "key": "4b80812890cb14dab8255496ce74992d53896463"
- },
- {
-  "source": "The Hacker News",
-  "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
-  "link": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
-  "published": "2026-08-28T17:12:15+00:00",
-  "summary": "Malicious actors are exploiting a newly patched security flaw in PaperCut NG and MF to execute arbitrary code on susceptible instances, as the company released a fresh emergency fix with additional hardening. \"This vulnerability gives an unauthenticated attacker remote control over PaperCut's trusted configuration, which could be used to execute arbitrary Java code inside the application's",
-  "categories": [
-   "cloud"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "Kẻ tấn công xâu chuỗi hai lỗ hổng PaperCut để thực thi mã mà không cần xác thực",
-  "key": "f35148721ab5ec31991849567e0777e14d13cec9"
- },
- {
-  "source": "The Hacker News",
-  "title": "Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers",
-  "link": "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html",
-  "published": "2026-08-28T16:20:46+00:00",
-  "summary": "Google on Thursday announced new network security protections in Android 17 to bolster connection privacy, address cellular vulnerabilities, and safeguard the privacy of users' home networks. Topping the list is support for Encrypted Client Hello (ECH), a privacy standard that prevents networks from eavesdropping on which websites a user is visiting. \"This new privacy standard works in tandem",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "Android 17 Thêm ECH trên toàn hệ điều hành để ẩn lượt truy cập trang web khỏi các nhà cung cấp mạng",
-  "key": "404c7b08e7e0ed0ef481b8e0bd974b2f83a5da6e"
- },
- {
-  "source": "The Hacker News",
-  "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
-  "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
-  "published": "2026-08-28T15:56:55+00:00",
-  "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting ownCloud to its Known Exploited Vulnerabilities (KEV) catalog following reports that a Chinese-speaking threat actor weaponized the vulnerability to target a nuclear research body in the Philippines. The vulnerability, tracked as CVE-2023-49105 (CVSS score: 9.8), is a case of",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "lỗ hổng ownCloud bị lợi dụng để đánh cắp hồ sơ hạt nhân từ cơ quan nghiên cứu Philippines",
-  "key": "2a9adc2f529b1d384e618dd615bc98d8678dce43"
- },
- {
-  "source": "The Hacker News",
-  "title": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code",
-  "link": "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html",
-  "published": "2026-08-28T15:27:26+00:00",
-  "summary": "Cybersecurity researchers have discovered a cluster of 18 Google Chrome and one Microsoft Edge extensions that were published over the last six months and harbored wallet secret stealing and cryptocurrency draining capabilities. The extensions, per Socket security researcher Karlo Zanki, share similarities in code and tradecraft, with evidence indicating that the campaign may have been active",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "19 tiện ích mở rộng Chrome và Edge được tìm thấy với mã tiết kiệm ví và mã tiết kiệm tiền điện tử",
-  "key": "4d5ec016fae858399f74dfcadad5051e9f7b373f"
- },
- {
-  "source": "The Hacker News",
-  "title": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth",
-  "link": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html",
-  "published": "2026-08-28T12:07:24+00:00",
-  "summary": "Security researcher Olivier Laflamme has disclosed two independent root remote code execution (RCE) chains affecting the Unitree G1 EDU, including a Bluetooth Low Energy (BLE) path that can reach root on the robot's Locomotion PC. The flaws are tracked as&nbsp;CVE-2026-76639&nbsp;and&nbsp;CVE-2026-76640, with the first involving a network-adjacent path through chat_go and bashrunner and the",
-  "categories": [
-   "cloud"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "Hai lỗ hổng Robot hình người Unitree G1 EDU cho phép RCE gốc, một khởi động qua Bluetooth",
-  "key": "844beadbdb26a604c7bebc9d2a4266e6a13faf6f"
- },
- {
-  "source": "The Hacker News",
-  "title": "Key Reasons Why Identity Fabric Matters in 2026",
-  "link": "https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html",
-  "published": "2026-08-28T11:30:00+00:00",
-  "summary": "An Identity Fabric knits fragmented identity systems into a coherent layer that observes how identities behave across applications, APIs, and infrastructure. As enterprise access spans more cloud services and automated workloads, identity security depends less on static configuration and more on runtime visibility. This article covers the architecture, the risks of unmanaged identities, and",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "Những lý do chính tại sao vải nhận dạng lại quan trọng vào năm 2026",
-  "key": "43b975730b6f3d1c34a88701278d0bce507506fc"
- },
- {
-  "source": "The Hacker News",
-  "title": "Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL",
-  "link": "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html",
-  "published": "2026-08-28T11:20:32+00:00",
-  "summary": "ServiceNow has released patches for four security flaws impacting the ServiceNow AI Platform, three of them rated 10.0 on the CVSS scoring system and exploitable, in certain circumstances, by an unauthenticated attacker. The company said it deployed a security update to hosted instances and provided the update to its partners and self-hosted customers, which leaves organizations that run their",
-  "categories": [
-   "ai",
-   "cloud"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "Ba CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL",
-  "key": "ceba30750cee6b80c30706d6a299bc6a68756b7b"
- },
- {
-  "source": "The Hacker News",
-  "title": "China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access",
-  "link": "https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html",
-  "published": "2026-08-28T10:58:29+00:00",
-  "summary": "VulnCheck has disclosed two previously undocumented factory implants in firmware for routers built by Shenzhen Zhibotong Electronics (ZBT), each of which gives an unauthenticated remote attacker the ability to run commands as root on affected devices. The implants, named SPEAKINGSTONE and DARKLANTERN by the company's zero-day research team, are tracked as CVE-2026-74232 and CVE-2026-74233.",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "Bộ định tuyến ZBT do Trung Quốc sản xuất được vận chuyển với hai thiết bị cấy ghép cho phép kẻ tấn công không được xác thực quyền truy cập root",
-  "key": "212465e6e0a31a9c1a383f52ebe933e79cebd0d8"
- },
- {
-  "source": "The Hacker News",
-  "title": "Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server",
-  "link": "https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html",
-  "published": "2026-08-28T09:45:15+00:00",
-  "summary": "cPanel has released patches for a security flaw affecting domain parking and addon domain functionality in cPanel and WebHost Manager (WHM), which could allow code execution as the root user. The vulnerability, assigned the CVE identifier CVE-2026-65643, impacts all supported versions of cPanel &amp; WHM. cPanel described the issue as a critical security vulnerability and said that an",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "Lỗ hổng cPanel nghiêm trọng có thể cho phép một khách hàng lưu trữ kiểm soát toàn bộ máy chủ",
-  "key": "6dcf42c3b2ef27447a02450be752a151b1ba45d2"
- },
- {
-  "source": "The Hacker News",
-  "title": "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions",
-  "link": "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
-  "published": "2026-08-28T08:25:36+00:00",
-  "summary": "PaperCut has alerted customers that bad actors are actively exploiting a vulnerability impacting all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. The company has released an emergency patch for v25 and v26 to address the issue. It said it's \"aware of confirmed customer incidents and is treating this matter with the highest priority.\" An",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "PaperCut Zero-Day bị khai thác trong các cuộc tấn công, ảnh hưởng đến tất cả các phiên bản NG và MF",
-  "key": "1a49aac50fa14c8c903a29ccbdcf724636ac49af"
- },
- {
-  "source": "The Hacker News",
-  "title": "APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations",
-  "link": "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html",
-  "published": "2026-08-28T08:20:59+00:00",
-  "summary": "Cybersecurity researchers have flagged a fresh set of campaigns targeting government and diplomatic organizations in Romania, Spain, and Türkiye between late September 2025 and early April 2026. These campaigns, per Recorded Future Insikt Group, have led to the deployment of a previously undocumented backdoor dubbed HOOKEDGE, a lightweight Windows batch script that's distributed via",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "Cửa hậu HOOKEDGE liên kết với APT28 nhắm vào Chính phủ châu Âu và các tổ chức ngoại giao",
-  "key": "6b3285e71538aaae974f93af51e0f045fba54fd7"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-12513 — The Shared Files WordPress plugin before 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-12513",
-  "published": "2026-08-28T08:16:40.083",
-  "summary": "The Shared Files  WordPress plugin before 1.7.67, shared-files-pro WordPress plugin before 1.7.68 do not properly sanitize a file path taken from a frontend file submission and their single-pass traversal filter is bypassable, allowing unauthenticated users to store a path that points outside the uploads directory. When the corresponding file entry is later permanently deleted, an arbitrary file on the server (such as wp-config.php) is deleted, leading to denial of service and potential site takeover.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-12513",
-   "cvss": 6.8,
-   "ref": "https://wpscan.com/vulnerability/25c9fa21-c48b-4333-8abc-87230dc4c869/"
-  },
-  "title_vi": "CVE-2026-12513 — Plugin WordPress chia sẻ tệp trước 1",
-  "key": "ae50b4958cbe4962d90a610b1e800d2df72441c4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-12514 — The Shared Files WordPress plugin before 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-12514",
-  "published": "2026-08-28T08:16:40.230",
-  "summary": "The Shared Files  WordPress plugin before 1.7.67, shared-files-pro WordPress plugin before 1.7.70 do not perform a capability check in their file-upload handler, which is registered for unauthenticated users and protected only by a nonce that is output on public pages, so an unauthenticated visitor can upload files to a publicly accessible directory and read the server's absolute path from the response. Uploads are limited to WordPress's allowed MIME types, so executable PHP cannot be uploaded.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-12514",
-   "cvss": 5.3,
-   "ref": "https://wpscan.com/vulnerability/a3098be8-aa7a-48ef-9fcc-b67c763debba/"
-  },
-  "title_vi": "CVE-2026-12514 — Plugin WordPress chia sẻ tệp trước 1",
-  "key": "89445ec6abd230b734271bd5201926226bf910d5"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-14558 — The User Frontend WordPress plugin before 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-14558",
-  "published": "2026-08-28T08:16:40.327",
-  "summary": "The User Frontend  WordPress plugin before 4.3.10 does not properly validate field type definitions and deserialises user-controlled post metadata when rendering submitted posts, allowing users with Editor-level access and above to inject arbitrary PHP objects, which can lead to remote code execution when a suitable POP chain is present on the site.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-14558",
-   "cvss": 7.2,
-   "ref": "https://wpscan.com/vulnerability/217303f4-4363-46f6-8aee-8e0c1aedc271/"
-  },
-  "title_vi": "CVE-2026-14558 — Plugin WordPress giao diện người dùng trước 4",
-  "key": "09794598f0a20589eedf2e9eb3942af734e80bf6"
  }
 ]
