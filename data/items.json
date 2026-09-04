@@ -1,5 +1,973 @@
 [
  {
+  "source": "OpenAI News",
+  "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+  "link": "https://openai.com/index/introducing-admin-plugin",
+  "published": "2026-08-25T00:00:00+00:00",
+  "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Giới thiệu plugin Admin cho ChatGPT Work và Codex",
+  "key": "0a512c2d20f6bb47774f13008e053ff228282ab7"
+ },
+ {
+  "source": "Schneier on Security",
+  "title": "Friday Squid Blogging: Squid on a Stick at the New York State Fair",
+  "link": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-squid-on-a-stick-at-the-new-york-state-fair.html",
+  "published": "2026-09-04T21:01:35+00:00",
+  "summary": "Looks tasty . As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered. Blog moderation policy.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Viết blog mực vào thứ Sáu: Mực trên cây gậy tại Hội chợ bang New York",
+  "key": "347bd83c54deeccf88c86cde939ab36e87a51750"
+ },
+ {
+  "source": "Unit 42",
+  "title": "Spring Ring: An Inside Look at Voice Phishing Campaigns in Microsoft Teams",
+  "link": "https://unit42.paloaltonetworks.com/spring-ring-voice-phishing-campaigns/",
+  "published": "2026-08-31T10:00:36+00:00",
+  "summary": "Learn how the Spring Ring campaign abuses Microsoft Teams and voice phishing to deploy malware and target enterprise domain controllers. The post Spring Ring: An Inside Look at Voice Phishing Campaigns in Microsoft Teams appeared first on Unit 42 .",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Vòng Xuân: Cái nhìn từ bên trong về các chiến dịch lừa đảo bằng giọng nói trong Microsoft Teams",
+  "key": "ecd4fde4dbbdf85543ed9c4234885c31169da26f"
+ },
+ {
+  "source": "DarkReading",
+  "title": "Insurers Search for Answers to Rein in Rogue AI",
+  "link": "https://www.darkreading.com/cyber-risk/insurers-search-answers-rogue-ai",
+  "published": "2026-09-04T12:15:03+00:00",
+  "summary": "As incidents of unintended harm caused by rogue AI agents mount, CISOs and insurance firms are figuring out how to handle the fallout.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Các công ty bảo hiểm tìm kiếm câu trả lời để củng cố trong Rogue AI",
+  "key": "ae204bf75b93165cc7ea64f6163a2c8ce4e67de0"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2026-60004 — Gitea Code Injection Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-60004",
+  "published": "2026-08-25",
+  "summary": "Gitea contains a code injection vulnerability that allows an attacker with repository write access to send a malicious patch to the diffpatch API endpoint to plant an executable Git hook and run shell commands as the Gitea service account.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-60004",
+   "vendor": "Gitea",
+   "product": "Gitea",
+   "due_date": "2026-08-28",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "CVE-2026-60004 — Lỗ hổng Gitea Code Injection",
+  "key": "7fac35e1e28a4581becfa958f4231ad36d4a6ad5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71620 — File Upload vulnerability in Zhao-github ApiAdmin v",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71620",
+  "published": "2026-09-04T19:17:26.607",
+  "summary": "File Upload vulnerability in Zhao-github ApiAdmin v.5.0.1 allows a remote attacker to execute arbitrary code via a crafted .php file",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71620",
+   "cvss": null,
+   "ref": "https://colorful-quill-4fe.notion.site/ApiAdmin-v5-0-1-rce-37fe5670300c80e3bc07da4694b5b953?pvs=73"
+  },
+  "title_vi": "CVE-2026-71620 — Lỗ hổng Tải lên Tệp trong Zhao-github ApiAdmin v",
+  "key": "103937890f2c205d6a210eae6a19dd17a91239c5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78327 — An Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') vulnerability in the SonicWall Network Security Manager ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78327",
+  "published": "2026-09-04T19:17:27.347",
+  "summary": "An Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') vulnerability in the SonicWall Network Security Manager (NSM) On-Prem Management interface allows an authenticated attacker with SuperAdmin privileges to inject arbitrary commands that are executed on the underlying host, resulting in remote code execution.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78327",
+   "cvss": 9.1,
+   "ref": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2026-0015"
+  },
+  "title_vi": "CVE-2026-78327 — Trung hòa không đúng cách các yếu tố đặc biệt được sử dụng trong lỗ hổng của Lệnh hệ điều hành ('Tiêm lệnh hệ điều hành') trong Trình quản lý bảo mật mạng SonicWall",
+  "key": "4fce995b4398420b9761acd9268aa0f1fdf816b9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78328 — A missing authorization vulnerability in the SonicWall Network Security Manager (NSM) On-Prem Management interface allows a lower-privileged Admin use",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78328",
+  "published": "2026-09-04T19:17:27.463",
+  "summary": "A missing authorization vulnerability in the SonicWall Network Security Manager (NSM) On-Prem Management interface allows a lower-privileged Admin user to escalate privileges to SuperAdmin.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78328",
+   "cvss": 9.1,
+   "ref": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2026-0015"
+  },
+  "title_vi": "CVE-2026-78328 - Lỗ hổng bảo mật bị thiếu trong giao diện Quản lý tại chỗ của SonicWall Network Security Manager (NSM) cho phép quản trị viên có đặc quyền thấp hơn sử dụng",
+  "key": "305215b017fb511a51d10c54e521cdb0b4045fd4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78839 — An arbitrary file upload vulnerability in AppNitro MachForm v30 allows attackers to execute arbitrary code via uploading a crafted",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78839",
+  "published": "2026-09-04T19:17:27.703",
+  "summary": "An arbitrary file upload vulnerability in AppNitro MachForm v30 allows attackers to execute arbitrary code via uploading a crafted .phar file.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78839",
+   "cvss": null,
+   "ref": "https://github.com/nabeelmkhan/CVE-2026-78839"
+  },
+  "title_vi": "CVE-2026-78839 - Lỗ hổng tải lên tệp tùy ý trong AppNitro MachForm v30 cho phép kẻ tấn công thực thi mã tùy ý thông qua việc tải lên mã được tạo thủ công",
+  "key": "429b2bc512a512350e1c52156e85dcadc2a39f99"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-80112 — PassMark PerformanceTest before 11",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80112",
+  "published": "2026-09-04T19:17:27.823",
+  "summary": "PassMark PerformanceTest before 11.1 build 1012, BurnInTest before 11.1 build 1000, and OSForensics before 11.1 build 1016 contain an improper access control vulnerability in the DirectIo64.sys kernel driver that allows unprivileged local users to perform privileged hardware operations by opening a handle to the device object created without a security descriptor. Attackers can issue IOCTLs through the permissive default Windows ACL applied to the device to access restricted hardware operations regardless of privilege or integrity level.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-80112",
+   "cvss": 7.8,
+   "ref": "https://dkom.dev/posts/directio64-disclosure/"
+  },
+  "title_vi": "CVE-2026-80112 — PassMark PerformanceTest trước 11",
+  "key": "dfe87e94096565c58b12917d2d345b0209d25f2a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-80113 — PassMark PerformanceTest before 11",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80113",
+  "published": "2026-09-04T19:17:27.997",
+  "summary": "PassMark PerformanceTest before 11.1 build 1012, BurnInTest before 11.1 build 1000, and OSForensics before 11.1 build 1016 contain a privilege escalation vulnerability in DirectIo64.sys that allows local users to clear arbitrary bits at any physical memory address due to missing validation of the physical address parameter in an exposed IOCTL handler. Attackers can obtain a device handle and supply an arbitrary 64-bit physical address with a bit index to invoke MmMapIoSpace and clear bits in kernel code pages or page table entries, enabling local privilege escalation or system compromise.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-80113",
+   "cvss": 7.1,
+   "ref": "https://dkom.dev/posts/directio64-disclosure/"
+  },
+  "title_vi": "CVE-2026-80113 — PassMark PerformanceTest trước 11",
+  "key": "6f3722526990570613cda6b0d224ecaf33a115e3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-80114 — PassMark PerformanceTest before 11",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80114",
+  "published": "2026-09-04T19:17:28.140",
+  "summary": "PassMark PerformanceTest before 11.1 build 1012, BurnInTest before 11.1 build 1000, and OSForensics before 11.1 build 1016 contain a hard-coded credentials vulnerability in DirectIo64.sys that allows local attackers to perform arbitrary physical memory writes by extracting an 8-byte key embedded as a hardcoded literal in the distributed binary and computing valid MD5 authentication tags for arbitrary IOCTL write requests. Attackers can additionally bypass a secondary validation gate by using the driver's own bit-clear IOCTL to clear a single bit in the gating instruction's displacement byte, c",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-80114",
+   "cvss": 7.8,
+   "ref": "https://dkom.dev/posts/directio64-disclosure/"
+  },
+  "title_vi": "CVE-2026-80114 — PassMark PerformanceTest trước 11",
+  "key": "99541a67d91e71925dadbb846454e3760aac98ae"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-80115 — PassMark PerformanceTest before 11",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80115",
+  "published": "2026-09-04T19:17:28.280",
+  "summary": "PassMark PerformanceTest before 11.1 build 1012, BurnInTest before 11.1 build 1000, and OSForensics before 11.1 build 1016 contain a privilege escalation and denial-of-service vulnerability in DirectIo64.sys that allows local attackers to read arbitrary Model-Specific Registers or write zero to any MSR through exposed IOCTLs with insufficient blocklist enforcement. Attackers can exploit the unrestricted write IOCTL to zero out the system call handler MSR, causing an immediate unrecoverable kernel crash on the next system call, or read security-sensitive MSRs used to locate kernel data structur",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-80115",
+   "cvss": 6.1,
+   "ref": "https://dkom.dev/posts/directio64-disclosure/"
+  },
+  "title_vi": "CVE-2026-80115 — PassMark PerformanceTest trước 11",
+  "key": "8a46d4838f54d9b1d3bd0d5f5649f25719e3f598"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-80116 — PassMark PerformanceTest before 11",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80116",
+  "published": "2026-09-04T19:17:28.420",
+  "summary": "PassMark PerformanceTest before 11.1 build 1012, BurnInTest before 11.1 build 1000, and OSForensics before 11.1 build 1016 contain a privilege escalation vulnerability in DirectIo64.sys that allows local users to modify hardware configuration by exploiting exposed IOCTLs with no validation on device selection, register offset, or value. Attackers can obtain a device handle and issue arbitrary PCI configuration space read/write operations to enable Bus Master DMA on any PCI device, halt storage controller I/O by clearing command registers, or remap Base Address Registers to redirect DMA to an a",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-80116",
+   "cvss": 7.8,
+   "ref": "https://dkom.dev/posts/directio64-disclosure/"
+  },
+  "title_vi": "CVE-2026-80116 — PassMark PerformanceTest trước 11",
+  "key": "ded7178a7ea09623dc60dc0464a2a496c29f8cd2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-80117 — PassMark PerformanceTest before 11",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80117",
+  "published": "2026-09-04T19:17:28.560",
+  "summary": "PassMark PerformanceTest before 11.1 build 1012, BurnInTest before 11.1 build 1000, and OSForensics before 11.1 build 1016 contain a privilege escalation vulnerability in DirectIo64.sys that allows local users to issue arbitrary IN and OUT instructions to any x86 I/O port due to missing allowlist or port validation on exposed IOCTLs. Attackers can obtain a device handle and write to sensitive ports including the PS/2 controller port, CPU reset ports, CMOS configuration ports, and interrupt controller ports to cause an immediate system reset or other hardware-level manipulation from a standard ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-80117",
+   "cvss": 7.1,
+   "ref": "https://dkom.dev/posts/directio64-disclosure/"
+  },
+  "title_vi": "CVE-2026-80117 — PassMark PerformanceTest trước 11",
+  "key": "453068b5062da73a27fedc64dcdc393aa57ec84d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-80118 — PassMark PerformanceTest before 11",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80118",
+  "published": "2026-09-04T19:17:28.710",
+  "summary": "PassMark PerformanceTest before 11.1 build 1012, BurnInTest before 11.1 build 1000, and OSForensics before 11.1 build 1016 contain an unauthenticated physical memory disclosure in DirectIo64.sys, reachable by unprivileged local users through a single IOCTL with no caller-identity check. The handler writes a crash-dump-format (PAGEDU64) image of all physical memory to a caller-supplied file path in the SYSTEM context, allowing a standard user to create files in locations they cannot otherwise write and to recover memory belonging to processes of other users. The image is preceded by a header th",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-80118",
+   "cvss": 7.1,
+   "ref": "https://dkom.dev/posts/directio64-disclosure/"
+  },
+  "title_vi": "CVE-2026-80118 — PassMark PerformanceTest trước 11",
+  "key": "615a1e60daef7469d8a64bdd0bf907f56e4c0b25"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-80119 — PassMark PerformanceTest before 11",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80119",
+  "published": "2026-09-04T19:17:28.857",
+  "summary": "PassMark PerformanceTest before 11.1 build 1012, BurnInTest before 11.1 build 1000, and OSForensics before 11.1 build 1016 contain an information disclosure vulnerability in DirectIo64.sys that allows unauthenticated local attackers to dump complete physical memory contents by supplying a caller-controlled file path to an exposed IOCTL. Attackers can issue a single IOCTL call to trigger the driver to iterate all physical memory ranges via MmGetPhysicalMemoryRanges and map each page through ZwMapViewOfSection on the PhysicalMemory section object, writing a full RAM image to an attacker-specifie",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-80119",
+   "cvss": 7.8,
+   "ref": "https://dkom.dev/posts/directio64-disclosure/"
+  },
+  "title_vi": "CVE-2026-80119 — PassMark PerformanceTest trước 11",
+  "key": "6b247b4030798d9562afc0196c9b8bf7548ebcf2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81939 — A Zip Slip vulnerability in the SonicWall Network Security Manager (NSM) On-Prem file upload and archive processing functionality allows an attacker t",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81939",
+  "published": "2026-09-04T19:17:29.237",
+  "summary": "A Zip Slip vulnerability in the SonicWall Network Security Manager (NSM) On-Prem file upload and archive processing functionality allows an attacker to extract files outside the intended destination directory using a specially crafted archive.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81939",
+   "cvss": 9.1,
+   "ref": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2026-0015"
+  },
+  "title_vi": "CVE-2026-81939 — Lỗ hổng Zip Slip trong chức năng tải lên và lưu trữ tệp tại chỗ của SonicWall Network Security Manager (NSM) cho phép kẻ tấn công",
+  "key": "9f9c0e09720f39740b389cdd6ad3258275811338"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85637 — A security flaw has been discovered in jofpin trape 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85637",
+  "published": "2026-09-04T19:17:33.263",
+  "summary": "A security flaw has been discovered in jofpin trape 1.0.0/2.0. Affected by this issue is the function join_room of the file core/sockets.py of the component Admin Endpoint. The manipulation results in missing authentication. The attack may be launched remotely. The exploit has been released to the public and may be used for attacks. The project was informed of the problem early through an issue report but has not responded yet.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85637",
+   "cvss": 5.3,
+   "ref": "https://github.com/jofpin/trape/"
+  },
+  "title_vi": "CVE-2026-85637 — Một lỗ hổng bảo mật đã được phát hiện trong jofpin trape 1",
+  "key": "a27fe41e3576cec6dd75176be09d559016b0123d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85638 — A weakness has been identified in jofpin trape 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85638",
+  "published": "2026-09-04T19:17:33.430",
+  "summary": "A weakness has been identified in jofpin trape 2.0. This affects an unknown part of the file core/user.py. This manipulation of the argument vId/id causes authorization bypass. Remote exploitation of the attack is possible. The exploit has been made available to the public and could be used for attacks. The project was informed of the problem early through an issue report but has not responded yet.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85638",
+   "cvss": 7.3,
+   "ref": "https://github.com/jofpin/trape/"
+  },
+  "title_vi": "CVE-2026-85638 — Một điểm yếu đã được xác định trong jofpin trape 2",
+  "key": "6ca5dc61ad847745ff01e569f4a3c20f1c14f038"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85639 — A security vulnerability has been detected in jofpin trape 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85639",
+  "published": "2026-09-04T19:17:33.600",
+  "summary": "A security vulnerability has been detected in jofpin trape 2.0. This vulnerability affects unknown code of the file core/user.py of the component Telemetry Endpoint. Such manipulation of the argument vId leads to race condition. The attack can be executed remotely. Attacks of this nature are highly complex. It is stated that the exploitability is difficult. The exploit has been disclosed publicly and may be used. The project was informed of the problem early through an issue report but has not responded yet.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85639",
+   "cvss": 5.6,
+   "ref": "https://github.com/jofpin/trape/"
+  },
+  "title_vi": "CVE-2026-85639 — Một lỗ hổng bảo mật đã được phát hiện trong jofpin trape 2",
+  "key": "08c1661e1f7067650cf96bc62fc51d12197482bc"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85781 — Unverified ownership of a storage access point in the volume deletion component of the Amazon EFS CSI Driver before v3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85781",
+  "published": "2026-09-04T19:17:34.157",
+  "summary": "Unverified ownership of a storage access point in the volume deletion component of the Amazon EFS CSI Driver before v3.4.1 might allow an authenticated Kubernetes user with PersistentVolume creation privileges to cause recursive deletion of directories on an EFS filesystem they are not authorized to access, via a crafted PersistentVolume volumeHandle that pairs an access point from one filesystem with a different target filesystem.\n\n\n\nTo remediate this issue, users should upgrade to version v3.4.1.",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85781",
+   "cvss": 8.7,
+   "ref": "https://aws.amazon.com/security/security-bulletins/2026-099-aws/"
+  },
+  "title_vi": "CVE-2026-85781 — Quyền sở hữu chưa được xác minh của điểm truy cập lưu trữ trong thành phần xóa khối lượng của Trình điều khiển Amazon EFS CSI trước v3",
+  "key": "e977e9dc868ff3003a93d59393211fef9e60f024"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-53602 — nebula-mesh is a self-hosted control plane for Slack Nebula mesh VPN",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-53602",
+  "published": "2026-09-04T20:17:23.130",
+  "summary": "nebula-mesh is a self-hosted control plane for Slack Nebula mesh VPN. Prior to version 0.3.7, two related authorization gaps let a host that should no longer be trusted obtain a fresh, valid Nebula certificate, because nebula-mgmt does not re-evaluate revocation/authorization state at certificate issuance time — only at poll time. Firstly, the blocklist is not enforced at sign / re-enroll time. internal/api/enroll.go:128 calls caMgr.Sign(...) without consulting the blocklist. The blocklist is only checked in the poll path (internal/api/updates.go:57, fingerprintInBlocklist). The blocklist is k",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-53602",
+   "cvss": null,
+   "ref": "https://github.com/forgekeep/nebula-mesh/issues/178"
+  },
+  "title_vi": "CVE-2026-53602 — Nebula-mesh là một mặt phẳng điều khiển tự lưu trữ cho Slack Nebula mesh VPN",
+  "key": "97484da005612aa5036cfc8f228ec4c22ec7148c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-53603 — nebula-mesh is a self-hosted control plane for Slack Nebula mesh VPN",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-53603",
+  "published": "2026-09-04T20:17:23.287",
+  "summary": "nebula-mesh is a self-hosted control plane for Slack Nebula mesh VPN. Prior to version 0.3.8, Operator session tokens are stored in plaintext in the operator_sessions table (the token column is the PRIMARY KEY). The session token is a 32-byte random hex value sent directly in a cookie and valid for 24 hours. Anyone who can read the database (backup, snapshot, file copy, or SQL-level disclosure) obtains every active session token and can hijack operator sessions directly, with no further authentication. This issue has been patched in version 0.3.8.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-53603",
+   "cvss": null,
+   "ref": "https://github.com/forgekeep/nebula-mesh/commit/7cb01bab281ded557f8b6c81dab5f48d4c10182e"
+  },
+  "title_vi": "CVE-2026-53603 — Nebula-mesh là một mặt phẳng điều khiển tự lưu trữ cho Slack Nebula mesh VPN",
+  "key": "6a938a1f716be8725327ac6d53d7c899c56858af"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-53604 — nebula-mesh is a self-hosted control plane for Slack Nebula mesh VPN",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-53604",
+  "published": "2026-09-04T20:17:23.437",
+  "summary": "nebula-mesh is a self-hosted control plane for Slack Nebula mesh VPN. Prior to version 0.3.8, the web handler renderMobileBundle passes the real *pki.CAResolver directly into mobilebundle.Build. Inside Build, resolver.LoadByID decrypts the CA's ed25519 private key into a *pki.CAManager, but Build never calls CAManager.Wipe() on any return path. As a result, when a mobile-bundle request goes through the web UI and Build returns — especially on error (missing network, invalid prefix, DB error, signing failure) — the plaintext CA private key remains on the Go heap, unwiped, until garbage collecti",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-53604",
+   "cvss": null,
+   "ref": "https://github.com/forgekeep/nebula-mesh/commit/1f1ab9aa8472239763d967e3d50a3cd53a1a79b9"
+  },
+  "title_vi": "CVE-2026-53604 — Nebula-mesh là một mặt phẳng điều khiển tự lưu trữ cho Slack Nebula mesh VPN",
+  "key": "8115ae1a6759301ddc5afab80de5e8ac4b9a4fb1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-53932 — laravel-backup-restore restores database backups made with spatie/laravel-backup",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-53932",
+  "published": "2026-09-04T20:17:23.570",
+  "summary": "laravel-backup-restore restores database backups made with spatie/laravel-backup. Prior to version 1.9.4, a crafted backup archive can trigger OS command injection during database restore. This issue has been patched in version 1.9.4.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-53932",
+   "cvss": 8.0,
+   "ref": "https://github.com/stefanzweifel/laravel-backup-restore/commit/a73f6c3dfd57c5efbc46cce4e93ed033bedce8b0"
+  },
+  "title_vi": "CVE-2026-53932 - laravel-backup-restore khôi phục các bản sao lưu cơ sở dữ liệu được thực hiện với spatie/laravel-backup",
+  "key": "c694b41f33eb98094f6101451fd92f23eb76a54b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-55512 — nebula-mesh is a self-hosted control plane for Slack Nebula mesh VPN",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55512",
+  "published": "2026-09-04T20:17:23.717",
+  "summary": "nebula-mesh is a self-hosted control plane for Slack Nebula mesh VPN. From version 0.2.0 to before version 0.5.0, when OIDC is enabled, GET /ui/oidc/login is reachable without authentication and is registered outside the Web UI rate-limited auth routes. Every request creates a fresh random OIDC state value and stores it in an in-memory map for 10m. Expired states are swept lazily, but there is no rate limit or maximum live-state cap on the allocation path. An unauthenticated remote client can therefore grow OIDC.states for the full state TTL, bounded by request throughput rather than by config",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-55512",
+   "cvss": 5.3,
+   "ref": "https://github.com/forgekeep/nebula-mesh/commit/bc387086cc0e4b9c1654468b7391af19cacfe367"
+  },
+  "title_vi": "CVE-2026-55512 — Nebula-mesh là một mặt phẳng điều khiển tự lưu trữ cho Slack Nebula mesh VPN",
+  "key": "c72c858c717a9500311c6e8ca6723fe1afb2a370"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-55513 — nebula-mesh is a self-hosted control plane for Slack Nebula mesh VPN",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55513",
+  "published": "2026-09-04T20:17:23.857",
+  "summary": "nebula-mesh is a self-hosted control plane for Slack Nebula mesh VPN. From version 0.3.0 to before version 0.5.0, the nebula-mgmt Web UI host-creation path ignores both the server-wide enrollment_token_ttl security setting and per-network network_config.enrollment_token_ttl overrides. API host creation and token-regeneration paths use the configured TTL resolver, but POST /ui/hosts hardcodes now.Add(24 * time.Hour) for newly minted agent enrollment tokens. In deployments that intentionally reduce enrollment-token lifetime, any authenticated operator who can create a host through the Web UI can",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-55513",
+   "cvss": 5.4,
+   "ref": "https://github.com/forgekeep/nebula-mesh/commit/514006029e09f1991122b86a80e7b25970bcfa98"
+  },
+  "title_vi": "CVE-2026-55513 — Nebula-mesh là một mặt phẳng điều khiển tự lưu trữ cho Slack Nebula mesh VPN",
+  "key": "29040a43025d9791bab554feda1a04b98d70834d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-61699 — nebula-mesh is a self-hosted control plane for Slack Nebula mesh VPN",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-61699",
+  "published": "2026-09-04T20:17:24.347",
+  "summary": "nebula-mesh is a self-hosted control plane for Slack Nebula mesh VPN. Prior to version 0.7.1, revocation is the only in-band mechanism that isolates a compromised/offboarded host from a Nebula mesh. Because the blocklist never reaches any peer's config.yml, a Blocked host retains full overlay reachability to every peer under its CA (and internal services on the mesh) for up to 30d (agent) / 365d (mobile). An attacker who exfiltrates host.key+host.crt can run stock slackhq/nebula directly, ignore the agent's 403/410 poll responses, and stay connected after the operator revokes the host. Operato",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-61699",
+   "cvss": 8.1,
+   "ref": "https://github.com/forgekeep/nebula-mesh/commit/0426e2f224a9b1e2029029bf923c93ed39d21cdb"
+  },
+  "title_vi": "CVE-2026-61699 — Nebula-mesh là một mặt phẳng điều khiển tự lưu trữ cho Slack Nebula mesh VPN",
+  "key": "d8a3ad30a5dbaee280b10627ac4a69832934f4d3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-63464 — nebula-mesh is a self-hosted control plane for Slack Nebula mesh VPN",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63464",
+  "published": "2026-09-04T20:17:24.730",
+  "summary": "nebula-mesh is a self-hosted control plane for Slack Nebula mesh VPN. From version 0.6.0 to before version 0.7.2, non-admin operators (role user) can set allow_private: true on their own managed webhook subscription (POST/PATCH /api/v1/webhook-subscriptions). No admin check exists on this field. At delivery time, allow_private switches the dispatcher to an unguarded HTTP client, bypassing the private/loopback/link-local SSRF guard — letting a low-privilege operator make the server request internal addresses. This issue has been patched in version 0.7.2.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-63464",
+   "cvss": 7.7,
+   "ref": "https://github.com/forgekeep/nebula-mesh/commit/f3c54530e388dd21763e548923426e60a8e93ff0"
+  },
+  "title_vi": "CVE-2026-63464 — Nebula-mesh là một mặt phẳng điều khiển tự lưu trữ cho Slack Nebula mesh VPN",
+  "key": "ec9054cab5a5042d440e1900c8b77a8e0b351640"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71622 — SQL injection vulnerability in Zhao-github APiAdmin v",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71622",
+  "published": "2026-09-04T20:17:26.053",
+  "summary": "SQL injection vulnerability in Zhao-github APiAdmin v.5.0.1 allows a remote attacker to obtain sensitive information via the User.php component",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71622",
+   "cvss": null,
+   "ref": "https://colorful-quill-4fe.notion.site/CVE-2026-71622-ApiAdmin-v5-0-1-sql-injection-37fe5670300c809b86e1ec773b6fda4d"
+  },
+  "title_vi": "CVE-2026-71622 — Lỗ hổng SQL injection trong Zhao-github APiAdmin v",
+  "key": "37bb919c4c35f349e882210bd79b4f0bc77f2fc9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71624 — An issue in esoTalk v",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71624",
+  "published": "2026-09-04T20:17:26.183",
+  "summary": "An issue in esoTalk v.1.0.0g4 allows a remote attacker to execute arbitrary code via the core/models/ETMemberModel.class.php, core/controllers/ETMemberController.class.php, and core/lib/ET.class.php components",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71624",
+   "cvss": null,
+   "ref": "https://colorful-quill-4fe.notion.site/CVE-2026-71624-esoTalk-Configuration-Comment-Injection-Leading-to-PHP-Code-Execution-380e5670300c80b98d36f207d7aaac6e?source=copy_link"
+  },
+  "title_vi": "CVE-2026-71624 — Một vấn đề trong esoTalk v",
+  "key": "8984bb095fdea48b0292e58000060b623dc93a52"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71625 — An issue in slimkit plus ThinkSNS+ v",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71625",
+  "published": "2026-09-04T20:17:26.293",
+  "summary": "An issue in slimkit plus ThinkSNS+ v.2.4 allows a remote attacker to escalate privileges via the ResetPasswordController.php component",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71625",
+   "cvss": null,
+   "ref": "https://colorful-quill-4fe.notion.site/CVE-2026-71625-ThinkSNS-Plus-Account-Takeover-via-Expired-Verification-Code-in-Password-Reset-380e5670300c808bbf82ee8cf8ed25e3?source=copy_link"
+  },
+  "title_vi": "CVE-2026-71625 — Một vấn đề trong slimkit plus ThinkSNS+ v",
+  "key": "ccf41f87c17161acaba3927dd6872cdede1c2fd1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71626 — An issue in Invoice Ninja v5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71626",
+  "published": "2026-09-04T20:17:26.413",
+  "summary": "An issue in Invoice Ninja v5.13.24 allows a remote attacker to obtain sensitive information via the StoreWebhookRequest.php, UpdateWebhookRequest.php, and WebhookSingle.php components",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71626",
+   "cvss": null,
+   "ref": "https://colorful-quill-4fe.notion.site/CVE-2026-71626-API-Webhook-SSRF-via-Internal-and-Loopback-Targets-382e5670300c80b6b4dac4c8216b5ff8?source=copy_link"
+  },
+  "title_vi": "CVE-2026-71626 — Một vấn đề trong Invoice Ninja v5",
+  "key": "10189d5191dc74b69fbc178399389ad3e55e45e2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-79389 — Trueview T18161 S 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79389",
+  "published": "2026-09-04T20:17:28.133",
+  "summary": "Trueview T18161 S 6.0.23.4 contains an improper verification in MQTT command processing. An attacker with network access can replay or modify captured MQTT messages, including security-related nonce, timestamp, and signature fields, and the device accepts the modified messages and executes the associated commands.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-79389",
+   "cvss": null,
+   "ref": "https://github.com/EmbdCDACHyd/CVE/tree/main/CVE-2026-79389"
+  },
+  "title_vi": "CVE-2026-79389 — Trueview T18161 S 6",
+  "key": "4e05ac1cc639f37dc1f35dcd152cf8edfbf3cf9f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-79390 — Trueview TI8161 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79390",
+  "published": "2026-09-04T20:17:28.257",
+  "summary": "Trueview TI8161 6.0.23.4 is vulnerable to information disclosure due to the transmission of MQTT communications in plaintext over TCP port 1883. An unauthenticated attacker with access to the same network segment can intercept MQTT traffic and obtain sensitive device information and operational data, including device identifiers, message metadata, and control-related information.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-79390",
+   "cvss": null,
+   "ref": "https://github.com/EmbdCDACHyd/CVE/blob/main/CVE-2026-79390/README.md"
+  },
+  "title_vi": "CVE-2026-79390 — Trueview TI8161 6",
+  "key": "b680b89a51e4702549ceff8f020f8b6610031891"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-79391 — No authentication exists in the MQTT service of Trueview 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79391",
+  "published": "2026-09-04T20:17:28.363",
+  "summary": "No authentication exists in the MQTT service of Trueview 6.0.23.4. The MQTT broker accepts client connections on TCP port 1883 without requiring authentication, allowing a remote attacker with network access to establish an MQTT session and perform unauthorized publish or subscribe operations.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-79391",
+   "cvss": null,
+   "ref": "https://github.com/EmbdCDACHyd/CVE/blob/main/CVE-2026-79391/README.md"
+  },
+  "title_vi": "CVE-2026-79391 — Không có xác thực tồn tại trong dịch vụ MQTT của Trueview 6",
+  "key": "a079385de0bcaa73eaa53af81820f4aa996a2b90"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85643 — A flaw has been found in code-projects Online Shopping System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85643",
+  "published": "2026-09-04T20:17:32.853",
+  "summary": "A flaw has been found in code-projects Online Shopping System 1.0. Impacted is the function mysqli_query of the file admin/adduser.php. Executing a manipulation of the argument mobile can lead to sql injection. The attack may be performed from remote. The exploit has been published and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85643",
+   "cvss": 4.7,
+   "ref": "https://code-projects.org/"
+  },
+  "title_vi": "CVE-2026-85643 - Một lỗ hổng đã được tìm thấy trong Hệ thống mua sắm trực tuyến dự án mã 1",
+  "key": "d169e6da62df814f71d18e26dce0b0bb11890781"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85786 — Improper handling of highly compressed data in Amazon ion-java before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85786",
+  "published": "2026-09-04T20:17:33.153",
+  "summary": "Improper handling of highly compressed data in Amazon ion-java before 1.12.1 might allow remote attackers to cause a denial of service via a crafted compressed Ion document that expands to an arbitrarily large size upon decompression due to insufficient coverage of the GZIP auto-decompression opt-out introduced for CVE-2026-75936.\n\n\n\nTo remediate this issue, users should upgrade to version 1.12.1.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85786",
+   "cvss": 7.5,
+   "ref": "https://aws.amazon.com/security/security-bulletins/2026-100-aws/"
+  },
+  "title_vi": "CVE-2026-85786 — Xử lý không đúng cách dữ liệu nén cao trong Amazon ion-java trước 1",
+  "key": "49dc745a44136329a5259e7ecf85d22a543e1212"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2022-26961 — Italtel NetMatch-S 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2022-26961",
+  "published": "2026-09-04T21:17:19.887",
+  "summary": "Italtel NetMatch-S 5.0.0-20200703 allows Multiple Stored XSS under NP_IBCF-NATUP-01/NMSCI-WebGui/backup_restore.jsp and NP_IBCF-MIBER-03/NMSCI-WebGui/storage.jsp via the name parameter. A malicious user leveraging this vulnerability could inject arbitrary JavaScript. The malicious payload will then be triggered every time an authenticated user browses the page containing it.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2022-26961",
+   "cvss": null,
+   "ref": "https://www.gruppotim.it/it/footer/red-team/2022/CVE-2022-26961-Italtel-NETMATCH-S-CLOUD-INSIDE-VNF.html"
+  },
+  "title_vi": "CVE-2022-26961 — Italtel NetMatch-S 5",
+  "key": "fcb4ec666e8407c6fa3b7033b38440d973c73317"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2025-67066 — SQL Injection vulnerability in oasys sysoa version 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-67066",
+  "published": "2026-09-04T21:17:24.143",
+  "summary": "SQL Injection vulnerability in oasys sysoa version 1.0 allows a remote attacker to execute arbitrary code via the outtype parameter in the /outaddresspaging path",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2025-67066",
+   "cvss": null,
+   "ref": "https://github.com/lanpan001/OASYS-SQL-injection/blob/main/vulnerability/OASYS%20SQL%20Injection%20Vulnerability.md"
+  },
+  "title_vi": "CVE-2025-67066 — Lỗ hổng SQL Injection trong Oasys sysoa phiên bản 1",
+  "key": "200bce853616783a6d0ced58bd18f7aade0c76e6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-50894 — easyadmin v2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-50894",
+  "published": "2026-09-04T21:17:25.177",
+  "summary": "easyadmin v2.0.2.2 is vulnerable to Unrestricted Upload of File with Dangerous Type in the background management interface which allows authenticated remote attackers to execute arbitrary code and gain server privileges via a crafted file upload.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-50894",
+   "cvss": null,
+   "ref": "https://github.com/lilil3333/cve/issues/1"
+  },
+  "title_vi": "CVE-2026-50894 — easyadmin v2",
+  "key": "c7d0d0366f4102eabf3eefff8a506b759a645015"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-53769 — Avo is a framework to create admin panels for Ruby on Rails apps",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-53769",
+  "published": "2026-09-04T21:17:25.300",
+  "summary": "Avo is a framework to create admin panels for Ruby on Rails apps. From version 2.28.0 to before version 3.32.0, Avo's direct attachment upload endpoint lacks server-side upload authorization and bypasses the documented field-level upload policy methods such as upload_{FIELD_ID}?. An authenticated Avo user who can reach the Avo attachment upload endpoint can replace or add attachment content, including binary content, filename, and content-type metadata, on a resolved record even when both update? and upload_<field>? policies deny the operation. This primarily affects multi-role Avo Pro/Advance",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-53769",
+   "cvss": 6.5,
+   "ref": "https://github.com/avo-hq/avo/commit/de12070dbac0cb6a7e2bea357f9697f99e92554c"
+  },
+  "title_vi": "CVE-2026-53769 — Avo là một khuôn khổ để tạo các bảng quản trị cho các ứng dụng Ruby on Rails",
+  "key": "63bb14c7edb7d17eae509c9d2aeb39a061056eba"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75438 — Buffer Overflow vulnerability in Open5GS v2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75438",
+  "published": "2026-09-04T21:17:25.453",
+  "summary": "Buffer Overflow vulnerability in Open5GS v2.7.7 allows a remote attacker to cause a denial of service via the ogs_sbi_time_parse() function",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75438",
+   "cvss": null,
+   "ref": "https://gist.github.com/hackeryounow/c299d593b89fd6487cab4182c8aecabf"
+  },
+  "title_vi": "CVE-2026-75438 — Lỗ hổng tràn bộ đệm trong Open5GS v2",
+  "key": "8735811eefd8d511d8f22675af04f352912acb9c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75439 — An issue in Free5GC v",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75439",
+  "published": "2026-09-04T21:17:25.583",
+  "summary": "An issue in Free5GC v.4.2.2 allows a remote attacker to cause a denial of service via the UPF component",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75439",
+   "cvss": null,
+   "ref": "https://gist.github.com/hackeryounow/0f434c03008462e6eec3b43ed3cd12d8"
+  },
+  "title_vi": "CVE-2026-75439 — Một vấn đề trong Free5GC v",
+  "key": "b820ff1169870e73f29664b574a4fedd97919503"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77847 — Tycon Systems TPDIN-Monitor-WEB3 versions 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77847",
+  "published": "2026-09-04T21:17:25.710",
+  "summary": "Tycon Systems TPDIN-Monitor-WEB3 versions 2.2.9 and prior are vulnerable to a use of hard-coded credential vulnerability. This could allow an attacker to intercept sensitive information or credentials.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77847",
+   "cvss": 6.5,
+   "ref": "https://firm.tyconsystems.com/tpdin-monitor-web3-v2/TPDIN-MONITOR-WEB3-V2_v2.4.2.tfw"
+  },
+  "title_vi": "CVE-2026-77847 — Tycon Systems TPDIN-Monitor-WEB3 phiên bản 2",
+  "key": "8b50624645ebae4ef3a235b2e2d83c244fa8a163"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-79423 — An authenticated remote code execution (RCE) vulnerability in the admin_config",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79423",
+  "published": "2026-09-04T21:17:25.870",
+  "summary": "An authenticated remote code execution (RCE) vulnerability in the admin_config.php component of seacms v13.6 allows attackers to execute arbitrary code via a crafted POST request.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-79423",
+   "cvss": null,
+   "ref": "https://github.com/returnwrong/returnwrong-security-advisories/blob/main/CVE-2026-79423.md"
+  },
+  "title_vi": "CVE-2026-79423 — Lỗ hổng thực thi mã từ xa (RCE) được xác thực trong admin_config",
+  "key": "31fb89b61d6c6f797e67c8358dc2e11a46c5b312"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-79426 — An arbitrary file deletion vulnerability in the /adminapi/file/video_data_save component of CRMEB v6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79426",
+  "published": "2026-09-04T21:17:25.990",
+  "summary": "An arbitrary file deletion vulnerability in the /adminapi/file/video_data_save component of CRMEB v6.0.0 allows authenticated attackers to delete arbitrary files via crafted POST request.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-79426",
+   "cvss": null,
+   "ref": "https://github.com/crmeb/CRMEB"
+  },
+  "title_vi": "CVE-2026-79426 — Lỗ hổng xóa tệp tùy ý trong thành phần/adminapi/file/video_data_save của CRMEB v6",
+  "key": "25ddfff077123e4b2ac5154a0b968aa9345dec9f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82712 — Tycon Systems TPDIN-Monitor-WEB3 versions 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82712",
+  "published": "2026-09-04T21:17:26.100",
+  "summary": "Tycon Systems TPDIN-Monitor-WEB3 versions 2.2.9 and prior are vulnerable to a cross-site request forgery vulnerability. This could allow an attacker to perform state changing operations on the device.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82712",
+   "cvss": 8.8,
+   "ref": "https://firm.tyconsystems.com/tpdin-monitor-web3-v2/TPDIN-MONITOR-WEB3-V2_v2.4.2.tfw"
+  },
+  "title_vi": "CVE-2026-82712 — Tycon Systems TPDIN-Monitor-WEB3 phiên bản 2",
+  "key": "acd7802489e202be50a569f3fe1e6837b9bddfe3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85701 — A vulnerability has been found in ramon-victor freegpt-webui up to 098db3dfeb41555c2ca9269df0f13e10ec1c35dc",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85701",
+  "published": "2026-09-04T21:17:26.260",
+  "summary": "A vulnerability has been found in ramon-victor freegpt-webui up to 098db3dfeb41555c2ca9269df0f13e10ec1c35dc. This issue affects the function ChatCompletion.create of the file g4f/__init__.py of the component Authentication Check. Such manipulation leads to missing authentication. The attack may be performed from remote. The exploit has been disclosed to the public and may be used. This product utilizes a rolling release system for continuous delivery, and as such, version information for affected or updated releases is not disclosed. This vulnerability only affects products that are no longer ",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85701",
+   "cvss": 5.3,
+   "ref": "https://gist.github.com/Galaxync/4e91898128de8fffbaf893fb1f9d4272"
+  },
+  "title_vi": "CVE-2026-85701 — Một lỗ hổng đã được tìm thấy trong ramon-victor freegpt-webui lên đến 098db3dfeb41555c2ca9269df0f13e10ec1c35dc",
+  "key": "3cb0336472d36bf19f392ea1d5a1dd6d37ddf366"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85702 — A security vulnerability has been detected in ramon-victor freegpt-webui up to 098db3dfeb41555c2ca9269df0f13e10ec1c35dc",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85702",
+  "published": "2026-09-04T21:17:26.480",
+  "summary": "A security vulnerability has been detected in ramon-victor freegpt-webui up to 098db3dfeb41555c2ca9269df0f13e10ec1c35dc. Affected is the function _conversation of the file server/backend.py of the component Backend Conversation API. Such manipulation of the argument model leads to missing authentication. The attack may be launched remotely. The exploit has been disclosed publicly and may be used. This product operates on a rolling release basis, ensuring continuous delivery. Consequently, there are no version details for either affected or updated releases. This vulnerability only affects prod",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85702",
+   "cvss": 7.3,
+   "ref": "https://gist.github.com/Galaxync/15cb5d1bf6ab110f0cba91664ed511dd"
+  },
+  "title_vi": "CVE-2026-85702 — Một lỗ hổng bảo mật đã được phát hiện trong ramon-victor freegpt-webui lên đến 098db3dfeb41555c2ca9269df0f13e10ec1c35dc",
+  "key": "282a259ff56cfa640b585f9605877e987373d748"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85703 — A flaw has been found in ramon-victor freegpt-webui up to 098db3dfeb41555c2ca9269df0f13e10ec1c35dc",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85703",
+  "published": "2026-09-04T21:17:26.667",
+  "summary": "A flaw has been found in ramon-victor freegpt-webui up to 098db3dfeb41555c2ca9269df0f13e10ec1c35dc. Affected by this issue is the function getJailbreak of the file server/backend.py of the component Jailbreak Mode. Executing a manipulation can lead to allocation of resources. The attack can be executed remotely. The exploit has been published and may be used. This product implements a rolling release for ongoing delivery, which means version information for affected or updated releases is unavailable. This vulnerability only affects products that are no longer supported by the maintainer.",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85703",
+   "cvss": 6.5,
+   "ref": "https://gist.github.com/Galaxync/04d5b16498911c405580c735148a53be"
+  },
+  "title_vi": "CVE-2026-85703 — Một lỗ hổng đã được tìm thấy trong ramon-victor freegpt-webui lên đến 098db3dfeb41555c2ca9269df0f13e10ec1c35dc",
+  "key": "ba8d6f70fba30f10709c41a48f813909720ce98d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85704 — A security flaw has been discovered in ramon-victor freegpt-webui up to 098db3dfeb41555c2ca9269df0f13e10ec1c35dc",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85704",
+  "published": "2026-09-04T21:17:26.863",
+  "summary": "A security flaw has been discovered in ramon-victor freegpt-webui up to 098db3dfeb41555c2ca9269df0f13e10ec1c35dc. This issue affects the function getJailbreak of the file server/config.py of the component Jailbreak Mode. The manipulation results in race condition. It is possible to launch the attack remotely. The attack requires a high level of complexity. The exploitability is assessed as difficult. The exploit has been released to the public and may be used for attacks. This product takes the approach of rolling releases to provide continious delivery. Therefore, version details for affected",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85704",
+   "cvss": 3.7,
+   "ref": "https://gist.github.com/Galaxync/04108fe7068324c998f33c5713105709"
+  },
+  "title_vi": "CVE-2026-85704 — Một lỗ hổng bảo mật đã được phát hiện trong ramon-victor freegpt-webui lên đến 098db3dfeb41555c2ca9269df0f13e10ec1c35dc",
+  "key": "c7994381ba1b9a531967a7b1e825a05e9d814d4e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85787 — An incomplete list of disallowed inputs in the SQL validation component in Amazon awslabs postgres-mcp-server before version 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85787",
+  "published": "2026-09-04T21:17:27.057",
+  "summary": "An incomplete list of disallowed inputs in the SQL validation component in Amazon awslabs postgres-mcp-server before  version 1.1.7 might allow an unauthenticated actor to modify data beyond the read-only scope by placing crafted SQL into the content that is submitted when an authenticated user interacts with the MCP server.\n\n\n\nTo remediate this issue, users should upgrade to version 1.1.7 or above.",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85787",
+   "cvss": 6.5,
+   "ref": "https://aws.amazon.com/security/security-bulletins/2026-101-aws/"
+  },
+  "title_vi": "CVE-2026-85787 — Danh sách không đầy đủ các đầu vào không được phép trong thành phần xác thực SQL trong Amazon awslabs postgres-mcp-server trước phiên bản 1",
+  "key": "af00eb49af9f7e5cf9bcb0fe439fa5e323805df3"
+ },
+ {
   "source": "VietnamPlus Kinh tế số",
   "title": "Giao tranh ác liệt giữa Houthi và quân đội Yemen, ít nhất 129 người thiệt mạng",
   "link": "https://www.vietnamplus.vn/giao-tranh-ac-liet-giua-houthi-va-quan-doi-yemen-it-nhat-129-nguoi-thiet-mang-post1134317.vnp",
@@ -294,7 +1262,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "[Sự kiện ảo] Mọi doanh nghiệp nên biết gì về bảo mật tài sản đám mây trong thời đại AI",
   "key": "f3e0976a2c8b99fb8d514976f484beabbea98a48"
  },
  {
@@ -308,7 +1276,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "[Sự kiện ảo] Xây dựng chiến lược AI bảo mật cho doanh nghiệp",
   "key": "ccfacad2c59cbf15ad2a69771bd64a65492b434d"
  },
  {
@@ -5480,7 +6448,7 @@
    "cvss": 7.8,
    "ref": "https://aws.amazon.com/security/security-bulletins/2026-097-aws/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-85654 — Trung hòa không đúng cách các yếu tố đặc biệt được sử dụng trong công cụ mẫu trong trình tạo CDK trong Amazon awslabs",
   "key": "b0c510c0319d51d18760456d26845cf570934aad"
  },
  {
@@ -5498,7 +6466,7 @@
    "cvss": 7.8,
    "ref": "https://alas.aws.amazon.com/AL2/ALAS2-2026-3784.html"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-85656 — Vấn đề tiêm lệnh hệ điều hành trong gói log4j-cve-2021-44228-hotpatch trong Amazon Linux trước 1",
   "key": "676faae3c6c8430ecb420974fcbc828a66596fef"
  },
  {
@@ -5516,7 +6484,7 @@
    "cvss": 6.5,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-85769"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-85769 — Một lỗ hổng đã được tìm thấy trong libtpms, một thư viện cung cấp phần mềm TPM 2",
   "key": "65544f5acf7fc13ed2b42a27bd5b05acf35f3745"
  },
  {
@@ -5535,7 +6503,7 @@
    "cvss": 8.1,
    "ref": "https://github.com/NangoHQ/nango/commit/ed3030a9a0f8e4f3810fd10cb3a1905a2f5f87d2"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-9317 — Nango trước 0",
   "key": "e7ba762b62548fd386d4e521c700111805dfb526"
  },
  {
@@ -73000,980 +73968,5 @@
   },
   "title_vi": "CVE-2026-19616 — Thiếu lỗ hổng Ủy quyền trong TBC Technology Inc",
   "key": "723822a29aca64802e2226f7d5b6ef4d9cb8ac49"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-19702 — Improper neutralization of special elements used in an OS command ('OS command injection') vulnerability in TÜBİTAK BİLGEM Software Technologies Resea",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19702",
-  "published": "2026-08-31T14:17:14.047",
-  "summary": "Improper neutralization of special elements used in an OS command ('OS command injection') vulnerability in TÜBİTAK BİLGEM Software Technologies Research Institute Pardus Boot Repair allows OS Command Injection.\n\nThis issue affects Pardus Boot Repair: from 1.0.7 before 1.0.8.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-19702",
-   "cvss": 7.8,
-   "ref": "https://siberguvenlik.gov.tr/guvenlik-bildirimleri/detay/tr-26-0956"
-  },
-  "title_vi": "CVE-2026-19702 — Trung hòa không đúng cách các yếu tố đặc biệt được sử dụng trong lỗ hổng lệnh hệ điều hành ('tiêm lệnh hệ điều hành') trong Công nghệ phần mềm TÜBİTAK BİLGEM Resea",
-  "key": "e6773719a2900f3196d52c406b079507f1dd4738"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51668 — Incorrect access control in the setLanguageCfg function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51668",
-  "published": "2026-08-31T14:17:14.200",
-  "summary": "Incorrect access control in the setLanguageCfg function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to modify language configuration via sending a crafted POST request to /cgi-bin/cstecgi.cgi.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51668",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "CVE-2026-51668 — Kiểm soát truy cập không chính xác trong hàm setLanguageCfg của TOTOLINK T6 4",
-  "key": "70473f287edad5dfe9f78a1a92be0c69be3916d2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51669 — Incorrect access control in the getPairCfg function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51669",
-  "published": "2026-08-31T14:17:14.353",
-  "summary": "Incorrect access control in the getPairCfg function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to obtain pairing and mesh-slave configuration via sending a crafted POST request to /cgi-bin/cstecgi.cgi.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51669",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "CVE-2026-51669 — Kiểm soát truy cập không chính xác trong hàm getPairCfg của TOTOLINK T6 4",
-  "key": "8df8e5f8d968b7d84b2fe2e71481c89f9eea82ba"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51670 — Incorrect access control in the getSlaveUpdate function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51670",
-  "published": "2026-08-31T14:17:14.533",
-  "summary": "Incorrect access control in the getSlaveUpdate function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to query slave upgrade status and affect upgrade bookkeeping via sending a crafted POST request to /cgi-bin/cstecgi.cgi.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51670",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "CVE-2026-51670 — Kiểm soát truy cập không chính xác trong chức năng getSlaveUpdate của TOTOLINK T6 4",
-  "key": "c377723dcd7acf38335372519a07602dcc30ba09"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51671 — Incorrect access control in the getCloudDownloadStatus function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51671",
-  "published": "2026-08-31T14:17:14.717",
-  "summary": "Incorrect access control in the getCloudDownloadStatus function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to obtain cloud firmware download state information via sending a crafted POST request to /cgi-bin/cstecgi.cgi.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51671",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "CVE-2026-51671 — Kiểm soát truy cập không chính xác trong hàm getCloudDownloadStatus của TOTOLINK T6 4",
-  "key": "11506d862ee5c4153dbc6e2fa09373759db78127"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51672 — Incorrect access control in the getRoamingCfg function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51672",
-  "published": "2026-08-31T14:17:14.873",
-  "summary": "Incorrect access control in the getRoamingCfg function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to obtain the roaming enablement flag via sending a crafted POST request to /cgi-bin/cstecgi.cgi.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51672",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "CVE-2026-51672 — Kiểm soát truy cập không chính xác trong hàm getRoamingCfg của TOTOLINK T6 4",
-  "key": "53ea82d6dce965c79e903d1f1ccb63b54b8b4865"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51673 — Incorrect access control in the setNtpCfg function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51673",
-  "published": "2026-08-31T14:17:15.037",
-  "summary": "Incorrect access control in the setNtpCfg function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to alter time synchronization settings via sending a crafted POST request to /cgi-bin/cstecgi.cgi.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51673",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "CVE-2026-51673 — Kiểm soát truy cập không chính xác trong hàm setNtpCfg của TOTOLINK T6 4",
-  "key": "182812de5f415471dad6c8ce1202989be66fe69b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51674 — Incorrect access control in the setScheduleCfg function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51674",
-  "published": "2026-08-31T14:17:15.197",
-  "summary": "Incorrect access control in the setScheduleCfg function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to configure forced reboot tasks via sending a crafted POST request to /cgi-bin/cstecgi.cgi.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51674",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "CVE-2026-51674 — Kiểm soát truy cập không chính xác trong hàm setScheduleCfg của TOTOLINK T6 4",
-  "key": "eeefcd2cd850c4bccd77fba1a7517156b19cd778"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51675 — Incorrect access control in the setWanIeCfg function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51675",
-  "published": "2026-08-31T14:17:15.360",
-  "summary": "Incorrect access control in the setWanIeCfg function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to reconfigure uplink settings via sending a crafted POST request to /cgi-bin/cstecgi.cgi.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51675",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "CVE-2026-51675 — Kiểm soát truy cập không chính xác trong hàm setWanIeCfg của TOTOLINK T6 4",
-  "key": "e144883b804faffc37a887ae9f4d9350c4ac98df"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51676 — Incorrect access control in the setAccessDeviceCfg function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51676",
-  "published": "2026-08-31T14:17:15.527",
-  "summary": "Incorrect access control in the setAccessDeviceCfg function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to alter access-device policies via sending a crafted POST request to /cgi-bin/cstecgi.cgi.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51676",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "CVE-2026-51676 — Kiểm soát truy cập không chính xác trong hàm setAccessDeviceCfg của TOTOLINK T6 4",
-  "key": "6b9535c42fd864fa992f5ff6a5ed9a528d855b9f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51677 — Incorrect access control in the setUPnPCfg function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51677",
-  "published": "2026-08-31T14:17:15.697",
-  "summary": "Incorrect access control in the setUPnPCfg function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to change UPnP service state via sending a crafted POST request to /cgi-bin/cstecgi.cgi.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51677",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "CVE-2026-51677 — Kiểm soát truy cập không chính xác trong hàm setUPnPCfg của TOTOLINK T6 4",
-  "key": "bee687db00192ad4b4883762b65a099ddd7a3f0a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51678 — Incorrect access control in the setSyslogCfg function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51678",
-  "published": "2026-08-31T14:17:15.863",
-  "summary": "Incorrect access control in the setSyslogCfg function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to alter logging behavior via sending a crafted POST request to /cgi-bin/cstecgi.cgi.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51678",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "CVE-2026-51678 — Kiểm soát truy cập không chính xác trong hàm setSyslogCfg của TOTOLINK T6 4",
-  "key": "eae11793aa7bcda0823f4ade2088184565f9c15e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51679 — Incorrect access control in the setPasswordCfg function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51679",
-  "published": "2026-08-31T14:17:16.027",
-  "summary": "Incorrect access control in the setPasswordCfg function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to change the administrator account via sending a crafted POST request to /cgi-bin/cstecgi.cgi.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51679",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "CVE-2026-51679 — Kiểm soát truy cập không chính xác trong hàm setPasswordCfg của TOTOLINK T6 4",
-  "key": "085a401a2b002ccfc6b8e1193fe300a0ff014729"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51680 — Incorrect access control in the setLedCfg function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51680",
-  "published": "2026-08-31T14:17:16.180",
-  "summary": "Incorrect access control in the setLedCfg function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to modify LED behavior via sending a crafted POST request to /cgi-bin/cstecgi.cgi.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51680",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "CVE-2026-51680 — Kiểm soát truy cập không chính xác trong hàm setLedCfg của TOTOLINK T6 4",
-  "key": "8e6a1b50705d68328e03542d9f47f23d8998425b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51681 — Incorrect access control in the setRemoteCfg function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51681",
-  "published": "2026-08-31T14:17:16.323",
-  "summary": "Incorrect access control in the setRemoteCfg function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to expose WAN-side administration via sending a crafted POST request to /cgi-bin/cstecgi.cgi.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51681",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "CVE-2026-51681 — Kiểm soát truy cập không chính xác trong hàm setRemoteCfg của TOTOLINK T6 4",
-  "key": "866b2a0b43724d70a703d945b35f59242c32d40f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-76763 — A flaw was found in SmallRye GraphQL",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76763",
-  "published": "2026-08-31T14:17:23.050",
-  "summary": "A flaw was found in SmallRye GraphQL. The number scalar coercion for BigInteger does not properly validate the magnitude of float or string inputs. An unauthenticated remote attacker can exploit this by sending a GraphQL query containing a large exponent float literal. This can lead to the allocation of extremely large BigInteger objects, causing CPU exhaustion or an OutOfMemoryError, resulting in a denial of service.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-76763",
-   "cvss": 7.5,
-   "ref": "https://access.redhat.com/security/cve/CVE-2026-76763"
-  },
-  "title_vi": "CVE-2026-76763 — Một lỗ hổng đã được tìm thấy trong SmallRye GraphQL",
-  "key": "f26987edacf1246a033a8ccc0b75003377f97905"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-76985 — Improper neutralization of input during web page generation in Apache Wicket",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76985",
-  "published": "2026-08-31T14:17:23.310",
-  "summary": "Improper neutralization of input during web page generation in Apache Wicket.\n\norg.apache.wicket.extensions.markup.html.form.palette.component.AbstractOptions, which renders the two option lists of a Palette, escapes the id and the display value of each option according to the escape-model-strings setting, and wrote the attribute names and values returned by getAdditionalAttributes into the <option> tag as they came.\n\nAn application is affected where it overrides Palette.getAdditionalAttributesForChoices, Palette.getAdditionalAttributesForSelection or AbstractOptions.getAdditionalAttributes an",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-76985",
-   "cvss": null,
-   "ref": "https://lists.apache.org/thread/0x2x12x22ff4yq4rhqokb2fjhtsd0f0j"
-  },
-  "title_vi": "CVE-2026-76985 — Trung hòa đầu vào không đúng cách trong quá trình tạo trang web trong Apache Wicket",
-  "key": "0f931cdf794c460b421171328deb7fe3bdc5d67b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-76986 — Improper neutralization of input during web page generation in Apache Wicket",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76986",
-  "published": "2026-08-31T14:17:23.497",
-  "summary": "Improper neutralization of input during web page generation in Apache Wicket.\n\norg.apache.wicket.markup.html.form.AbstractSingleSelectChoice, the base class of DropDownChoice, writes the body of the default option — the entry shown when no choice is selected — into the markup as it is, while every other option body in the same select is escaped according to the escape-model-strings setting. The body comes from getNullValidDisplayValue() or getNullKeyDisplayValue(), both of which are protected, so what they return is not necessarily the plain text the default implementation reads from a resourc",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-76986",
-   "cvss": 6.1,
-   "ref": "https://lists.apache.org/thread/4qltg6wckqz8wbs1f4jzqlc0yccpgvll"
-  },
-  "title_vi": "CVE-2026-76986 — Trung hòa đầu vào không đúng cách trong quá trình tạo trang web trong Apache Wicket",
-  "key": "afb640234b0610c4caf2f838f7499aac829c6bcd"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-78074 — Joomla Extension - miniorgange",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78074",
-  "published": "2026-08-31T14:17:23.633",
-  "summary": "Joomla Extension - miniorgange.com - Unauthenticated arbitrary extension deinstallation via various miniOrange extensions - a missing authentication check allows unauthenticated actors to delete arbitrary installed extensions. Only the free versions of the miniOrange plugins are affected.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-78074",
-   "cvss": null,
-   "ref": "https://www.miniorange.com/"
-  },
-  "title_vi": "",
-  "key": "fc33f4a64e54216f0b0f2ff4ed0f034c0d9286d4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-78075 — Joomla Extension - joomshaper",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78075",
-  "published": "2026-08-31T14:17:23.840",
-  "summary": "Joomla Extension - joomshaper.com - Broken Object-Level Authorization in Blog Image Deletion in Helix Ultimate < 2.2.10 - `Blog::remove_image()` checked whether the user was authorized to edit the article ID passed in the request, but did not verify whether the specified image path (src) belonged to that article. On Joomla 3 builds where physical file deletion was triggered, an author could supply their own article ID alongside an arbitrary file path under the `/images/` directory to delete arbitrary files.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-78075",
-   "cvss": null,
-   "ref": "https://www.joomshaper.com/joomla-templates/helixultimate"
-  },
-  "title_vi": "",
-  "key": "177ec54e3684b08e2a42777ff7b206ccb7be1fde"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-78076 — Joomla Extension - joomshaper",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78076",
-  "published": "2026-08-31T14:17:23.987",
-  "summary": "Joomla Extension - joomshaper.com - Broken Access Control & Missing Authorization in MegaMenu Settings in Helix Ultimate < 2.2.10 - The AJAX endpoint save-megamenu-settings failed to enforce item-level and menu-level edit permissions (core.edit on com_menus.item.{id} or core.admin). An authenticated user could submit modified layout parameters for arbitrary menu items without proper authorization.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-78076",
-   "cvss": null,
-   "ref": "https://www.joomshaper.com/joomla-templates/helixultimate"
-  },
-  "title_vi": "",
-  "key": "c9ed17d042d441522ecbb6538a68ded5782431c8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-78077 — Joomla Extension - joomshaper",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78077",
-  "published": "2026-08-31T14:17:24.113",
-  "summary": "Joomla Extension - joomshaper.com -  Stored Cross-Site Scripting (XSS) in MegaMenu Layout Container & Embed Inputs in Helix Ultimate < 2.2.10 - Unsanitized column and item configuration values stored within the MegaMenu layout JSON were rendered without complete contextual escaping, allowing injection of malicious HTML/JS. Stricter sanitization and tag allowlists via `InputFilter` and `htmlspecialchars` were implemented.",
-  "categories": [
-   "cloud",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-78077",
-   "cvss": null,
-   "ref": "https://www.joomshaper.com/joomla-templates/helixultimate"
-  },
-  "title_vi": "",
-  "key": "fd7e5554792782e8f9b5b0599e24f808feed8038"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-78078 — Joomla Extension - joomshaper",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78078",
-  "published": "2026-08-31T14:17:24.257",
-  "summary": "Joomla Extension - joomshaper.com - Privileged File Upload Bypass via Content Spoofing in Helix Ultimate < 2.2.10 - Image uploads previously validated only file extension and basic size parameters. Non-image files disguised with raster extensions could be uploaded. Added strict MIME verification and GD binary raster decoding (imagecreatefromstring) to reject invalid/malformed images fail-closed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-78078",
-   "cvss": null,
-   "ref": "https://www.joomshaper.com/joomla-templates/helixultimate"
-  },
-  "title_vi": "",
-  "key": "8f1bd92765afbe3b056112035bbd108dee5e7f54"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-78079 — Joomla Extension - joomshaper",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78079",
-  "published": "2026-08-31T14:17:24.397",
-  "summary": "Joomla Extension - joomshaper.com - Open Redirect via Base64 Return Parameter in Helix Ultimate < 2.2.10 - Return redirect parameters accepted arbitrary Base64 strings without verifying whether the resolved target was an internal site URL via Uri::isInternal.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-78079",
-   "cvss": null,
-   "ref": "https://www.joomshaper.com/joomla-templates/helixultimate"
-  },
-  "title_vi": "",
-  "key": "4fc54c2ef469059512db4a039d3304b035643d5c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82217 — In Eclipse Theia versions 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82217",
-  "published": "2026-08-31T14:17:26.610",
-  "summary": "In Eclipse Theia versions 1.73.0 up to but not including 1.75.0, the AI \"Agent Mode\" file-change tools (writeFileContent, suggestFileContent, and the replacement and state helpers) resolved a model-supplied file path without a workspace-containment check. A crafted relative path such as ../.bashrc, an absolute path, or a ~-expanded path could therefore write or delete files outside the workspace with the privileges of the Theia backend OS user. Because the path argument is influenced by model output, it can be steered through indirect prompt injection, and in Agent Mode writes are applied with",
-  "categories": [
-   "ai",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82217",
-   "cvss": 8.8,
-   "ref": "https://github.com/eclipse-theia/theia/commit/28da106c254"
-  },
-  "title_vi": "CVE-2026-82217 — Trong Eclipse Theia phiên bản 1",
-  "key": "62a5c23fa22410da176e19d67235cd43f23fbfcf"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82697 — A security vulnerability has been detected in sambitraj Student-Management-System up to 56ba287f2e9031523ccb4244cb6e3fe530e4e5d5",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82697",
-  "published": "2026-08-31T14:17:26.783",
-  "summary": "A security vulnerability has been detected in sambitraj Student-Management-System up to 56ba287f2e9031523ccb4244cb6e3fe530e4e5d5. The impacted element is the function session_start. Such manipulation leads to cookie without 'httponly' flag. The attack may be launched remotely. A high complexity level is associated with this attack. The exploitability is regarded as difficult. The exploit has been disclosed publicly and may be used. This product operates on a rolling release basis, ensuring continuous delivery. Consequently, there are no version details for either affected or updated releases. ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82697",
-   "cvss": 3.7,
-   "ref": "https://github.com/sambitraj/STUDENT-MANAGEMENT-SYSTEM/"
-  },
-  "title_vi": "CVE-2026-82697 — Một lỗ hổng bảo mật đã được phát hiện trong sambitraj Student-Management-System lên đến 56ba287f2e9031523ccb4244cb6e3fe530e4e5d5",
-  "key": "a87aff531e7a3c6a06bac06d195dcb22d11e2ca9"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82698 — A vulnerability was detected in sambitraj Student-Management-System up to 56ba287f2e9031523ccb4244cb6e3fe530e4e5d5",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82698",
-  "published": "2026-08-31T14:17:26.980",
-  "summary": "A vulnerability was detected in sambitraj Student-Management-System up to 56ba287f2e9031523ccb4244cb6e3fe530e4e5d5. This affects an unknown function of the file aca.sql. Performing a manipulation results in use of default password. Remote exploitation of the attack is possible. The exploit is now public and may be used. This product follows a rolling release approach for continuous delivery, so version details for affected or updated releases are not provided. The project was informed of the problem early through an issue report but has not responded yet.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82698",
-   "cvss": 5.3,
-   "ref": "https://github.com/sambitraj/STUDENT-MANAGEMENT-SYSTEM/"
-  },
-  "title_vi": "CVE-2026-82698 — Một lỗ hổng đã được phát hiện trong sambitraj Student-Management-System lên đến 56ba287f2e9031523ccb4244cb6e3fe530e4e5d5",
-  "key": "8dc505cc0cfc873432721dc48f8a1709c0018191"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82699 — A flaw has been found in sambitraj Student Management System up to 56ba287f2e9031523ccb4244cb6e3fe530e4e5d5",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82699",
-  "published": "2026-08-31T14:17:27.170",
-  "summary": "A flaw has been found in sambitraj Student Management System up to 56ba287f2e9031523ccb4244cb6e3fe530e4e5d5. This impacts an unknown function of the file aca.sql of the component Password Handler. Executing a manipulation of the argument Password can lead to cleartext storage of sensitive information. The attack can be executed remotely. The exploit has been published and may be used. This product implements a rolling release for ongoing delivery, which means version information for affected or updated releases is unavailable.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82699",
-   "cvss": 2.7,
-   "ref": "https://github.com/sambitraj/STUDENT-MANAGEMENT-SYSTEM/issues/9"
-  },
-  "title_vi": "CVE-2026-82699 — Một lỗ hổng đã được tìm thấy trong Hệ thống quản lý sinh viên sambitraj lên đến 56ba287f2e9031523ccb4244cb6e3fe530e4e5d5",
-  "key": "2a63e1f7f7b3aa7739199bb2641525a847b7e18a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82700 — A vulnerability was found in code-projects Online Shopping System 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82700",
-  "published": "2026-08-31T14:17:27.367",
-  "summary": "A vulnerability was found in code-projects Online Shopping System 1.0. Affected by this vulnerability is an unknown functionality of the file /offersmail.php of the component Newsletter Subscription. The manipulation of the argument email results in cross site scripting. The attack may be performed from remote. The exploit has been made public and could be used.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82700",
-   "cvss": 4.3,
-   "ref": "https://code-projects.org/"
-  },
-  "title_vi": "CVE-2026-82700 - Một lỗ hổng đã được tìm thấy trong mã dự án Hệ thống mua sắm trực tuyến 1",
-  "key": "4674e6ca12ec6a47f565eac4a5e63522358899df"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51683 — Incorrect access control in the setLanCfg function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51683",
-  "published": "2026-08-31T15:17:18.677",
-  "summary": "Incorrect access control in the setLanCfg function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to alter LAN network configuration via sending a crafted POST request to /cgi-bin/cstecgi.cgi.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51683",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "CVE-2026-51683 — Kiểm soát truy cập không chính xác trong chức năng setLanCfg của TOTOLINK T6 4",
-  "key": "f75245004989ffd84291ffed4811cb221f9d81c0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51684 — Incorrect access control in the setStorageCfg function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51684",
-  "published": "2026-08-31T15:17:19.823",
-  "summary": "Incorrect access control in the setStorageCfg function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to alter the storage-related service state via sending a crafted POST request to /cgi-bin/cstecgi.cgi.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51684",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "CVE-2026-51684 — Kiểm soát truy cập không chính xác trong hàm setStorageCfg của TOTOLINK T6 4",
-  "key": "faf262e94d7f55638c49cfa5b4a93928e79316f4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51686 — Incorrect access control in the setWiFiEasyCfg function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51686",
-  "published": "2026-08-31T15:17:19.973",
-  "summary": "Incorrect access control in the setWiFiEasyCfg function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to reconfigure or disable wireless networks via sending a crafted POST request to /cgi-bin/cstecgi.cgi.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51686",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "CVE-2026-51686 — Kiểm soát truy cập không chính xác trong hàm setWiFiEasyCfg của TOTOLINK T6 4",
-  "key": "cbb9a23d8f497d5e27f5747c8811bac0ee5e164e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51687 — Incorrect access control in the setWiFiEasyGuestCf function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51687",
-  "published": "2026-08-31T15:17:20.110",
-  "summary": "Incorrect access control in the setWiFiEasyGuestCf function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to create or weaken guest wireless access via sending a crafted POST request to /cgi-bin/cstecgi.cgi.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51687",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "CVE-2026-51687 — Kiểm soát truy cập không chính xác trong hàm setWiFiEasyGuestCf của TOTOLINK T6 4",
-  "key": "277ee21321bf25eeac2b249852125d2c8e183858"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51688 — Incorrect access control in the setWiFiSignalCfg function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51688",
-  "published": "2026-08-31T15:17:20.263",
-  "summary": "Incorrect access control in the setWiFiSignalCfg function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to reduce wireless power or cause a Denial of Service (DoS) via sending a crafted POST request to /cgi-bin/cstecgi.cgi.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51688",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "CVE-2026-51688 — Kiểm soát truy cập không chính xác trong hàm setWiFiSignalCfg của TOTOLINK T6 4",
-  "key": "fc774176b5fcd2db0b30c0c4374b8474963d3ce1"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51689 — Incorrect access control in the setUpgradeFW function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51689",
-  "published": "2026-08-31T15:17:20.413",
-  "summary": "Incorrect access control in the setUpgradeFW function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to trigger firmware-upgrade workflow changes via sending a crafted POST request to /cgi-bin/cstecgi.cgi.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51689",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "",
-  "key": "4d6652ca186deef2db9dc833fbe0580fa75702d1"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51690 — Incorrect access control in the setWanCfg function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51690",
-  "published": "2026-08-31T15:17:20.550",
-  "summary": "Incorrect access control in the setWanCfg function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to alter upstream provisioning and connectivity via sending a crafted POST request to /cgi-bin/cstecgi.cgi.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51690",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "",
-  "key": "2151637702867f6ad85a63ba61623282568aa238"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51691 — Incorrect access control in the setUploadSetting function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51691",
-  "published": "2026-08-31T15:17:20.683",
-  "summary": "Incorrect access control in the setUploadSetting function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to manipulate the upload or flash workflow via sending a crafted POST request to /cgi-bin/cstecgi.cgi.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51691",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "",
-  "key": "81a318421a2504588d872d81e2880a4ea8b8f3e3"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51692 — Incorrect access control in the setWiFiGuestCfg function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51692",
-  "published": "2026-08-31T15:17:20.823",
-  "summary": "Incorrect access control in the setWiFiGuestCfg function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to establish or weaken guest wireless access via sending a crafted POST request to /cgi-bin/cstecgi.cgi.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51692",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "",
-  "key": "582e7d5caf40dc4f9e7a310775e0d9c9165efbce"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51693 — Incorrect access control in the setVpnPassCfg function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51693",
-  "published": "2026-08-31T15:17:20.963",
-  "summary": "Incorrect access control in the setVpnPassCfg function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to weaken edge filtering via sending a crafted POST request to /cgi-bin/cstecgi.cgi.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51693",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "",
-  "key": "4f4f32a21899c80cc6e1d896a6d398d07a716e59"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51694 — Incorrect access control in the setStaticDhcpRules function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51694",
-  "published": "2026-08-31T15:17:21.090",
-  "summary": "Incorrect access control in the setStaticDhcpRules function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to add or change static DHCP rules via sending a crafted POST request to /cgi-bin/cstecgi.cgi.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51694",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "",
-  "key": "78d70f1d8aefc0a40467740b9fa46d15546977ed"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51695 — Incorrect access control in the setDdnsCfg function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51695",
-  "published": "2026-08-31T15:17:21.243",
-  "summary": "Incorrect access control in the setDdnsCfg function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to alter dynamic DNS state via sending a crafted POST request to /cgi-bin/cstecgi.cgi.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51695",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "",
-  "key": "d903fd0e74210e786ac88e9865b0e2b64311d363"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51696 — Incorrect access control in the setPortForwardRules function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51696",
-  "published": "2026-08-31T15:17:21.367",
-  "summary": "Incorrect access control in the setPortForwardRules function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to expose internal services via sending a crafted POST request to /cgi-bin/cstecgi.cgi.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51696",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "",
-  "key": "79b64b50d7445f4eb02451d8f8fa83ef49e17593"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51697 — Incorrect access control in the setIptvCfg function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51697",
-  "published": "2026-08-31T15:17:21.483",
-  "summary": "Incorrect access control in the setIptvCfg function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to alter IPTV service configuration via sending a crafted POST request to /cgi-bin/cstecgi.cgi.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51697",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "",
-  "key": "4d949c6516b52603f3d86dfc3c90a383919d01c8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-59111 — Improper neutralization of special elements used in an OS command ('OS command injection') vulnerability in Digitální a informační agentura (DIA) eObč",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-59111",
-  "published": "2026-08-31T15:17:35.980",
-  "summary": "Improper neutralization of special elements used in an OS command ('OS command injection') vulnerability in Digitální a informační agentura (DIA) eObčanka-Identifikace on MacOS enables an attacker to register a custom URL scheme (czeeopauth://) for parameterized application execution. Prior to version 3.6.0, incoming URL parameters were passed to the compiled AppleScript wrapper using concatenation without sufficient sanitization.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-59111",
-   "cvss": 9.3,
-   "ref": "https://info.identita.gov.cz/eop/BezpecnostniOznameni/CVE-2026-59111.aspx"
-  },
-  "title_vi": "",
-  "key": "9ac33af86bcd62259ebd5c48b784ca93d3930f32"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-63083 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63083",
-  "published": "2026-08-31T15:17:36.610",
-  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-63083",
-   "cvss": null,
-   "ref": ""
-  },
-  "title_vi": "",
-  "key": "489d0c775fa1e1862b9631348790db5b6716e067"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-66047 — ProfilePress (wp-user-avatar) WordPress plugin before 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66047",
-  "published": "2026-08-31T15:17:37.503",
-  "summary": "ProfilePress (wp-user-avatar) WordPress plugin before 4.17.2 contains an unauthenticated remote code execution vulnerability that allows unauthenticated attackers to install and activate arbitrary plugins by brute-forcing a weak 32-bit connect token via the ppress_connect_process AJAX handler. Attackers can supply a caller-controlled URL through the file request parameter to trigger silent plugin installation and activation, achieving PHP code execution as the web-server user.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-66047",
-   "cvss": 8.1,
-   "ref": "https://profilepress.com/changelog/"
-  },
-  "title_vi": "",
-  "key": "2e8227bb51f30573d4c108d38a352867c25ac482"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-78422 — Subject::new_for_owner() in the zbus_polkit crate encodes the uid entry of a unix-process polkit subject as an unsigned 32-bit integer (D-Bus type u),",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78422",
-  "published": "2026-08-31T15:17:58.910",
-  "summary": "Subject::new_for_owner() in the zbus_polkit crate encodes the uid entry of a unix-process polkit subject as an unsigned 32-bit integer (D-Bus type u), whereas the org.freedesktop.PolicyKit1.Authority interface specifies a signed 32-bit integer (D-Bus type i). Because of this type mismatch, polkit silently discards the caller-supplied UID and instead determines the subject's owner itself by looking up the PID in /proc, a lookup that is inherently subject to a time-of-check/time-of-use race.\n\nConsequently, an application that passes a UID obtained from a trustworthy source — for example SO_PEERC",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-78422",
-   "cvss": null,
-   "ref": "https://bugzilla.suse.com/show_bug.cgi?id=1277659"
-  },
-  "title_vi": "",
-  "key": "4bd30691aed4ae865829f9e8959b3887e9859e68"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82701 — A vulnerability was determined in code-projects Online Shopping System 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82701",
-  "published": "2026-08-31T15:18:10.420",
-  "summary": "A vulnerability was determined in code-projects Online Shopping System 1.0. Affected by this issue is some unknown functionality of the file /action.php of the component Search Functionality. This manipulation of the argument keyword causes sql injection. It is possible to initiate the attack remotely. The exploit has been publicly disclosed and may be utilized.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82701",
-   "cvss": 7.3,
-   "ref": "https://code-projects.org/"
-  },
-  "title_vi": "",
-  "key": "19cf19e93d136b97f70d55ada660519e07057a4e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82702 — A vulnerability was identified in Edimax BR-6214K 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82702",
-  "published": "2026-08-31T15:18:11.063",
-  "summary": "A vulnerability was identified in Edimax BR-6214K 1.40. This affects the function system of the file www/wlanMP.asp of the component asp_WlanMP Endpoint. Such manipulation of the argument ateFunc leads to os command injection. It is possible to launch the attack remotely. The exploit is publicly available and might be used. The vendor was contacted early about this disclosure but did not respond in any way.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82702",
-   "cvss": 6.6,
-   "ref": "https://github.com/dxz0069/WAVLINK-WN530H4-Command-Injection-in-set_add_routing/blob/main/Edimax-WlanMP__Edimax__other.md"
-  },
-  "title_vi": "",
-  "key": "46fad0b67cd67e9006a314735d03d3b7a6930e60"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82703 — A security flaw has been discovered in Edimax BR-6214K 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82703",
-  "published": "2026-08-31T15:18:12.503",
-  "summary": "A security flaw has been discovered in Edimax BR-6214K 1.40. This vulnerability affects the function system of the file www/ping.asp of the component asp_setPing Endpoint. Performing a manipulation of the argument pingstr results in os command injection. The attack can be initiated remotely. The exploit has been released to the public and may be used for attacks. The vendor was contacted early about this disclosure but did not respond in any way.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82703",
-   "cvss": 6.6,
-   "ref": "https://github.com/dxz0069/WAVLINK-WN530H4-Command-Injection-in-set_add_routing/blob/main/Edimax-setPing__Edimax__other.md"
-  },
-  "title_vi": "",
-  "key": "0f3df8647ab52e177ff17166b0dddca6a27d730a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82801 — A vulnerability was detected in NASA earthdata-search 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82801",
-  "published": "2026-08-31T15:18:19.680",
-  "summary": "A vulnerability was detected in NASA earthdata-search 1.0.0. Affected by this vulnerability is the function scaleImage of the file serverless/src/scaleImage/handler.js of the component scale Endpoint. Performing a manipulation results in server-side request forgery. The attack can be initiated remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.",
-  "categories": [
-   "cloud",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82801",
-   "cvss": 7.3,
-   "ref": "https://github.com/natanmorette-thoropass/thoropass-vuln-research-program/tree/main/2026/Unauthenticated%20Scale%20Image%20SSRF"
-  },
-  "title_vi": "",
-  "key": "6a48339996f165e8dd9ae8abed5289795beb7300"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82970 — Unrestricted Upload of File with Dangerous Type vulnerability in WP Legal Pages WP Cookie Notice for GDPR, CCPA & ePrivacy Consent allows Using Malici",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82970",
-  "published": "2026-08-31T15:18:33.010",
-  "summary": "Unrestricted Upload of File with Dangerous Type vulnerability in WP Legal Pages WP Cookie Notice for GDPR, CCPA & ePrivacy Consent allows Using Malicious Files.\n\nThis issue affects WP Cookie Notice for GDPR, CCPA & ePrivacy Consent: from n/a through 4.4.1.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82970",
-   "cvss": 10.0,
-   "ref": "https://patchstack.com/database/wordpress/plugin/gdpr-cookie-consent/vulnerability/wordpress-wp-cookie-notice-for-gdpr-ccpa-eprivacy-consent-plugin-4-4-1-arbitrary-file-upload-vulnerability?_s_id=cve"
-  },
-  "title_vi": "",
-  "key": "aeb2e69b14e52b526ee8629797991cd8c5484406"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-21827 — HCL Connections is vulnerable to an information disclosure vulnerability which could allow a user to obtain sensitive information they are not entitle",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-21827",
-  "published": "2026-08-31T16:17:55.830",
-  "summary": "HCL Connections is vulnerable to an information disclosure vulnerability which could allow a user to obtain sensitive information they are not entitled to, caused by improper handling of request data they are not entitled to, caused by improper handling of request data.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-21827",
-   "cvss": 3.1,
-   "ref": "https://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0130164"
-  },
-  "title_vi": "",
-  "key": "818b23a8178c32e3ae3569ef748a6dda2d4bacfd"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51152 — Server-side request forgery (SSRF) in the /har/test endpoint in QD 20220208 through 20250803",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51152",
-  "published": "2026-08-31T16:18:34.220",
-  "summary": "Server-side request forgery (SSRF) in the /har/test endpoint in QD 20220208 through 20250803. Fetcher.build_request() in libs/fetcher.py constructs an httpclient.HTTPRequest from user-supplied JSON without validating URL scheme, host, or IP range. The /har/test handler does not require authentication, enabling unauthenticated remote attackers to force the QD server to send arbitrary HTTP requests to internal network resources and cloud metadata endpoints. validate_cert is set to False, disabling TLS verification.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51152",
-   "cvss": null,
-   "ref": "https://gist.github.com/kurokoleung/98e950e3e05205fc57d2029ad68a702e"
-  },
-  "title_vi": "",
-  "key": "0c03ab79614288e955e74179a93931a2b35b44d1"
  }
 ]
