@@ -1,6 +1,92 @@
 [
  {
   "source": "VietnamPlus Kinh tế số",
+  "title": "Quân đội Mỹ tuyên bố đã phá hủy 3 tàu chở dầu của Iran ở Vịnh Oman",
+  "link": "https://www.vietnamplus.vn/quan-doi-my-tuyen-bo-da-pha-huy-3-tau-cho-dau-cua-iran-o-vinh-oman-post1134464.vnp",
+  "published": "2026-09-05T15:37:57+00:00",
+  "summary": "Quân đội Mỹ đã tấn công và phá hủy 3 tàu Iran liên quan IRGC sau các cuộc tấn công, làm leo thang căng thẳng tại Vịnh Oman và eo biển Hormuz. Các nước vùng Vịnh tìm đường mới cho “vàng đen” Tàu chở dầu tại eo biển Hormuz trúng vật thể lạ Thông tin trái chiều về vụ 2 tàu chở dầu phát nổ tại eo biển Hormuz",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "bc9baeb6b78f23bc5ba1d4f3b1e6c09251c66cc8"
+ },
+ {
+  "source": "Báo Tin tức (TTXVN) KH-CN",
+  "title": "SMM Hamburg 2026: Công nghệ định hình tương lai ngành hàng hải",
+  "link": "https://baotintuc.vn/khoa-hoc-cong-nghe/smm-hamburg-2026-cong-nghe-dinh-hinh-tuong-lai-nganh-hang-hai-20260905222415983.htm",
+  "published": "2026-09-05T17:54:31.620545+00:00",
+  "summary": "Chuyển đổi xanh vẫn là trục chính, nhưng Hội chợ Hàng hải quốc tế - SMM 2026 cho thấy ngành hàng hải thế giới đang bước sang một giai đoạn mới, trong đó hiệu quả năng lượng, trí tuệ nhân tạo (AI), tự động hóa và an ninh hàng hải nổi lên bên cạnh cuộc đua về nhiên liệu sạch.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "8d73cfb61647406acab61648c87a1c73cbf0c2aa"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "FalconFlank Zero-Day Hits CrowdStrike Falcon Sensor",
+  "link": "https://databreaches.net/2026/09/05/falconflank-zero-day-hits-crowdstrike-falcon-sensor/",
+  "published": "2026-09-05T15:41:50+00:00",
+  "summary": "CyberKendra reports: A security researcher known as Chaotic Eclipse has released FalconFlank, a proof-of-concept zero-day that escalates privileges on fully patched Windows machines running CrowdStrike Falcon. The researcher — who also uses the aliases Nightmare-Eclipse, MSNightmare, and INFINITE NIGHTMARE — published working exploit code to GitHub on September 3, 2026, without giving CrowdStrike advance notice. No CVE ID... Source",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "FalconFlank Zero-Day Hits Cảm biến Falcon CrowdStrike",
+  "key": "705d77be5b55a72ac9e20d845e842873d8c22306"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
+  "link": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
+  "published": "2026-09-05T16:52:33+00:00",
+  "summary": "JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to breach its own environment. \"Cadence users should immediately revoke or rotate all credentials and secrets that may have been used to run their Cadence executions,\" JetBrains said.",
+  "categories": [
+   "breach",
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Những kẻ tấn công đã vi phạm JetBrains Cadence thông qua TeamCity chưa được vá, trích xuất thông tin xác thực AWS",
+  "key": "bc2a34e041c94a9683b29a188d48027095c7fe74"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
+  "link": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
+  "published": "2026-09-05T16:05:08+00:00",
+  "summary": "Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions. The vulnerability, tracked as CVE-2026-59346 (CVSS score: 9.3), is an integer-overflow vulnerability that a local attacker with elevated privileges can exploit to run arbitrary code. \"A",
+  "categories": [
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Lỗ hổng nghiêm trọng của VMware Workstation và Fusion cho phép quản trị viên VM thực thi mã máy chủ",
+  "key": "51a3ad65e6bce37d2b955ab364f3866dafcc7f80"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
+  "link": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
+  "published": "2026-09-05T14:17:02+00:00",
+  "summary": "Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk. The exposed information includes customer names, email addresses, phone numbers, shipping addresses, and order numbers between November 2019 and August 2021. The breach does not affect the security of the company's hardware wallets",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Trezor cho biết vi phạm ShipMonk đã làm lộ dữ liệu của 67.000 khách hàng Hoa Kỳ mà họ cho biết đã bị xóa",
+  "key": "90d3d401deb0105b2cb4e1b2f0d8670f0d07222c"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
   "title": "Hàn Quốc trên đà trở thành quốc gia thứ tư đạt 1.000 tỷ USD xuất khẩu",
   "link": "https://www.vietnamplus.vn/han-quoc-tren-da-tro-thanh-quoc-gia-thu-tu-dat-1000-ty-usd-xuat-khau-post1134451.vnp",
   "published": "2026-09-05T13:58:22+00:00",
@@ -4067,7 +4153,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Báo cáo OSPAR 2026 hiện có sẵn với 167 dịch vụ trong phạm vi",
   "key": "9d67c49c43a44880636fb433820af339b39b6944"
  },
  {
@@ -7225,7 +7311,7 @@
    "cvss": 5.3,
    "ref": "https://www.ibm.com/support/pages/node/7285904"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-16660 — Gương IBM Db2 cho i 7",
   "key": "653202a3afaa89d188990af61becb92ce8fb37d9"
  },
  {
@@ -7569,7 +7655,7 @@
    "cvss": 4.3,
    "ref": "https://www.ibm.com/support/pages/node/7285904"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-17483 — Gương IBM Db2 cho i 7",
   "key": "9fefbe90532b811e127a707d4e0688c98098680f"
  },
  {
@@ -7787,7 +7873,7 @@
    "cvss": 8.8,
    "ref": "https://www.ibm.com/support/pages/node/7286052"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-18486 — Cổng MCP ContextForge của IBM <= v1",
   "key": "f62338b31ba14b8b5402b4bd76b7c045e31a7da7"
  },
  {
@@ -7805,7 +7891,7 @@
    "cvss": 7.4,
    "ref": "https://www.ibm.com/support/pages/node/7286056"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-18489 — Cổng MCP ContextForge của IBM - Tiện ích dịch <= 1",
   "key": "ce92a0b1c9dedac10f0dd81fe99932c7b4bffee3"
  },
  {
@@ -7823,7 +7909,7 @@
    "cvss": 9.8,
    "ref": "http://arc53.com"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-31020 — Trong DocsGPT 0",
   "key": "70e0472e50a9daf033c87d8b890103821f6d4c09"
  },
  {
@@ -7841,7 +7927,7 @@
    "cvss": null,
    "ref": "https://docs.netgate.com/downloads/pfSense-SA-26_04.webgui.asc"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-38961 — Lỗ hổng Cross-Site Scripting (XSS) trong RSS Widget của Netgate pfSense Plus (phiên bản 26",
   "key": "f43daa39425679cddc6b051f7ea9fc8b744160a6"
  },
  {
@@ -7860,7 +7946,7 @@
    "cvss": 9.8,
    "ref": "https://gist.github.com/unpredictable21/fcb62d394db30525412c4b5b1efd0233"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-75430 — PowerJob Worker phiên bản 5",
   "key": "45d2ff7e04485892f4becb18e2c30176d6993b36"
  },
  {
@@ -7878,7 +7964,7 @@
    "cvss": null,
    "ref": "https://github.com/n0c71v3x/CVE-2026-78745"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-78745 — Một vấn đề trong HiDPT/Weyon HiDPTAndroid Hi3751V350 Hi3751V352E_DMO cho phép kẻ tấn công từ xa thực thi mã tùy ý thông qua Cầu gỡ lỗi Android (ADB)",
   "key": "900fdb59607abc0fe5144ac9fcea459fe70b6fac"
  },
  {
@@ -7896,7 +7982,7 @@
    "cvss": null,
    "ref": "https://docs.netgate.com/downloads/pfSense-SA-26_05.webgui.asc"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-78849 — Lỗ hổng Cross Site Scripting trong các phiên bản phần mềm Netgate pfSense Plus <= 26",
   "key": "5318c6ae3cf5f11b6939af810db38a4f5b4e7246"
  },
  {
@@ -7914,7 +8000,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0b6252afcd1965f77c6a6f8a802a2e1381822b98"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80865 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: bpf: Thêm cuộc gọi access_ok bị thiếu vào copy_user_syms Theo báo cáo của sashiko, chúng tôi sử dụng __",
   "key": "f72a0ced552457d09496f79d98e082756a5602be"
  },
  {
@@ -7932,7 +8018,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/522d1d950b9e3b68190a6de7534827c8dccedb73"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80866 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: tipc: tránh lặp bận trong tipc_exit_net() Cam kết bị đổ lỗi đã giới thiệu một chương trình chờ bận",
   "key": "eb0b09d142a3c2cce8760451ba895de832adc1e6"
  },
  {
@@ -7950,7 +8036,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/257b55dc3d18d7ef01f62a8ff7317871f7597e28"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80867 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: alpha/PCI: Thêm security_locked_down() kiểm tra pci_mmap_resource() Hiện tại, Alph",
   "key": "525adcf5b3e27edbf964ac34f3e6eff5c67be995"
  },
  {
@@ -7968,7 +8054,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/3cd2212012c06d2b1fd03a6bf84f6202ab70056c"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80868 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ntfs3: Phân bổ iomap inline_data bằng alloc_page Điều này sửa LỖI được báo cáo trong io",
   "key": "4c028bb0e4ddb21224c3e6d039d107c28a83d5e6"
  },
  {
@@ -7986,7 +8072,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/98634df5b1cb56c26299b7409227025ddb0167d8"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80869 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ntfs: ràng buộc mục nhập danh sách thuộc tính trong ntfs_read_inode_mount() Thuộc tính $MFT",
   "key": "f4dae97109994fd799ee022dab3db0eaee138e1c"
  },
  {
@@ -8004,7 +8090,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/085ea93bda71fee600cc12a17026598eb10dd1f9"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80870 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: drm/amdkfd: Xác thực ID được khôi phục CRIU trước idr_alloc Luồng khôi phục KFD CRIU",
   "key": "adec9a31a8d6333c03337453d88d644db10040c6"
  },
  {
@@ -8022,7 +8108,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/32b4d29280ed2a991dc196d5845b892acedc63b8"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80871 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: crypto: xilinx-trng - Remove crypto_rng interface Implementing the crypto_rng inte",
   "key": "d6678d2583216fa38fc6c4d759b0808d63858d20"
  },
  {
@@ -8040,7 +8126,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/5367e2ad14f0ae9350a7aaf2e77c87de39a43ae9"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80872 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ALSA: hda/tas2781: Hủy yêu cầu firmware không đồng bộ tại unbind TAS2781 HDA I2C và SPI",
   "key": "d53f59aeb3e20ba20bc76c5c2cad3288bfcf5ce8"
  },
  {
@@ -8058,7 +8144,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/09f35145f3a4aacea4d9b914ad895bf5af8fc4ae"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80873 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: KVM: ARM64: nv: Viết ESR_EL2 cho các ngoại lệ SError lồng nhau được tiêm vào kvm_inject_el2",
   "key": "23b5eaf393ede676d5a6e6adf41d169c40895fd5"
  },
  {
@@ -8076,7 +8162,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/6fa6ee724d8dadf392139e242ac936b5da730c4b"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80874 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: arm64: dts: renesas: ironhide: Describe inline ECC carveouts The DBSC5 DRAM contro",
   "key": "85dfa8ec324e86d58930a5c7db3f559f80c77dc3"
  },
  {
@@ -8094,7 +8180,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/2500fa3958b1ba51c2b065e39db1b04dfa7e23a2"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80875 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ipvs: use parsed transport offset in TCP state lookup TCP state handling reparses",
   "key": "e55db07627b999466d8ad6a5dff80382386cbb31"
  },
  {
@@ -8112,7 +8198,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/14057268e79654c3e8ea2c9b5204cb9644b2964d"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80876 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: ring-buffer: Sửa độ dài sự kiện với căn chỉnh 8 byte bắt buộc Khi RB_FORCE_8BYTE_ALI",
   "key": "3025f9a2086ec4cb1067e66e7780e08440477762"
  },
  {
@@ -8131,7 +8217,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/13403945c2385653e282dacda304dce2a25fdb53"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80877 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: afs: Fix vllist leak Fix a leak of the new vllist in afs_update_cell() in the even",
   "key": "0cf0ed63ab01526752cd3dbfcd732c4ff68fedd8"
  },
  {
@@ -8150,7 +8236,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/9cabf1c86948793fbad09023bd2ec58c71b9c1d4"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80878 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: afs: Fix leak of ungot volume Fix afs_lookup_volume_rcu() để nó không bị rò rỉ",
   "key": "8c1451888dfedc173d325db5d4085dc9455bae2a"
  },
  {
@@ -8168,7 +8254,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/137e8b4823a9a11928428d4ec0a0cacb2f50a769"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80879 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ocfs2: sửa lỗi phụ thuộc khóa tròn trong ocfs2_dio_end_io_write Khóa tròn",
   "key": "99b74605184b9b9dbff6ac92a11dc8f5683bf7e8"
  },
  {
@@ -8186,7 +8272,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/5d02b9a2efd11d28d2a8feac7769686b1b871d9c"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80880 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: IB/mlx5: Hỗ trợ đúng cách ODP ngầm định rereg_mr Do tất cả các key con trong",
   "key": "81b3a8490504c1113ab10575357b4e13c24c7d24"
  },
  {
@@ -8204,7 +8290,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0e389fc290c350c67591abf4c367119f4689f310"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80881 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ocfs2: sửa lỗi quản lý đầu đệm trong ocfs2_read_blocks() Trong ocfs2_read_blocks(), c",
   "key": "afbcdd44b1eb577d73f513c509aca173b4c2ccc6"
  },
  {
@@ -8222,7 +8308,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/20360e125a8dd411b0cc2660cb70f58590740818"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80882 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: crypto: tegra - Trả về ENOMEM khi phân bổ bộ đệm đầu vào không thành công cho ccm Đảm bảo thứ",
   "key": "ee1f50df9e1b9523d0dbe40ab88533565b9367d6"
  },
  {
@@ -8240,7 +8326,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/3055292b8eed69553b389a609197a241df47e68e"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80883 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: drm/tegra: gr2d/gr3d: Khởi tạo bản đồ đăng ký địa chỉ trước khi máy khách HOST1X là regi",
   "key": "295c595387f74acba0689a776a44661d0a5c42e4"
  },
  {
@@ -8258,7 +8344,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/10662aafce4acd52278c942d0a5b3993594017b9"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80884 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ntb: Lưu trữ địa chỉ DMA gốc để phát hành trong tương lai API DMA yêu cầu dma_f",
   "key": "8859f844de44c4a085fff540c763303ebc3eca29"
  },
  {
@@ -8276,7 +8362,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/231414253b648b3518b56f09710b831945d6a2fc"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80885 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: AFS: Fix uncancelled rxrpc OOB message handler Fix AFS to cancel its OOB message p",
   "key": "333ba459df2fe4f54f0a6f07d67f5ce9a55bc278"
  },
  {
@@ -8294,7 +8380,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/22dd2777e6c180e1c945b00f6d18550979436324"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80886 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: serial: msm: Vô hiệu hóa DMA cho giao diện điều khiển nhân UART Hiện tại, ghi đồng thời",
   "key": "ee192f14836a9f94bc413965ed9d8d373a6e8cf0"
  },
  {
@@ -8312,7 +8398,7 @@
    "cvss": 6.5,
    "ref": "https://cna.openjsf.org/security-advisories.html"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84933 — bộ chặn bộ nhớ cache của undici không xử lý tiêu đề phản hồi Set-Cookie ở bất kỳ đâu trong đường dẫn bộ nhớ cache của nó, vì vậy nó không từ chối lưu trữ cũng như dải",
   "key": "e992733790119e579c4dbea07bed80851ccadd70"
  },
  {
@@ -8330,7 +8416,7 @@
    "cvss": 3.7,
    "ref": "https://cna.openjsf.org/security-advisories.html"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84947 — thiết bị chặn kết xuất của undici đọc và loại bỏ phần thân phản hồi có kích thước tối đa có thể định cấu hình",
   "key": "4b064eccbec2877346f40e92985ddb650dadff49"
  },
  {
@@ -8348,7 +8434,7 @@
    "cvss": 7.4,
    "ref": "https://cna.openjsf.org/security-advisories.html"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84961 - hàm tạo BalancedPool của undici chuyển toàn bộ đối tượng tùy chọn của nó thông qua một bản sao sâu bên trong để tuần tự hóa và sửa lại giá trị dưới dạng JSON",
   "key": "ac31ecb44c7ad624dd229080a9ffc4092b78add2"
  },
  {
@@ -8366,7 +8452,7 @@
    "cvss": 3.7,
    "ref": "https://cna.openjsf.org/security-advisories.html"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-85008 - các tài liệu chặn bộ nhớ cache của undici mà chỉ các phương thức http an toàn mới được lưu vào bộ nhớ cache, nhưng logic của nó để bỏ qua bộ nhớ đệm được xây dựng bằng cách trừ meth được định cấu hình",
   "key": "4f90ca27d63a6177bd56e8ab825551efd4cc9c60"
  },
  {
@@ -8384,7 +8470,7 @@
    "cvss": 5.9,
    "ref": "https://cna.openjsf.org/security-advisories.html"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-85014 — Máy khách WebSocketStream thử nghiệm của undici làm hỏng toàn bộ Node",
   "key": "ed1ca83e820a07960c2ba65a4acca77de8836ca5"
  },
  {
@@ -8402,7 +8488,7 @@
    "cvss": 5.9,
    "ref": "https://cna.openjsf.org/security-advisories.html"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-85024 - undici đóng gói một máy khách WebSocket có quy trình dọn dẹp giới hạn kích thước cố định loại bỏ tất cả người nghe khỏi luồng thổi phồng zlib nội bộ, bao gồm i",
   "key": "2f4d6cdb7803b2508a4fe61e0846a927306caa6a"
  },
  {
@@ -8474,7 +8560,7 @@
    "cvss": 5.9,
    "ref": "https://cna.openjsf.org/security-advisories.html"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-18149 - trình xử lý thử lại của undici có thể để một cơ quan phản hồi đã bị phơi nhiễm chờ xử lý mãi mãi",
   "key": "fe1732e4a3a2102d2a2d07a2c26277e52253dde6"
  },
  {
@@ -8492,7 +8578,7 @@
    "cvss": 3.7,
    "ref": "https://cna.openjsf.org/security-advisories.html"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-18540 — thiết bị chặn thử lại của undici có thể nối thêm phần thân của phản hồi thử lại tầm xa vào các byte đã được gửi từ phản hồi một phần trước đó trong khi vẫn giữ nguyên",
   "key": "53c553f7f6c4307791fd4f92adf3c877b4c33eb6"
  },
  {
@@ -8510,7 +8596,7 @@
    "cvss": null,
    "ref": ""
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-18745 — Lý do bị từ chối: ID CVE này đã bị Cơ quan Đánh số CVE từ chối hoặc rút lại",
   "key": "5fab5abf9cdb805a3dfd0d52584ba3e13ff2516d"
  },
  {
@@ -8528,7 +8614,7 @@
    "cvss": 7.5,
    "ref": "https://cna.openjsf.org/security-advisories.html"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-19534 — Trình khách WebSocket của undici làm hỏng toàn bộ Node",
   "key": "754e5f3a9a0a892d1c16f956494c4d13a833fe39"
  },
  {
@@ -8546,7 +8632,7 @@
    "cvss": null,
    "ref": "https://github.com/enchant97/note-mark/commit/67b7de04308a858ef27ceff87b514067b6d667e5"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-50553 — Note Mark là một ứng dụng ghi chú mã nguồn mở",
   "key": "944f6fdf17817e26a3268292e31d0c4d7a1de4e0"
  },
  {
@@ -8564,7 +8650,7 @@
    "cvss": 4.9,
    "ref": "https://github.com/emlog/emlog/commit/92b6eea618891b28ed0c520564dff26e170645b4"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-53756 — Emlog là một hệ thống xây dựng trang web mã nguồn mở",
   "key": "fdc940e43289c2ba6a02a4760ea15ef9b8435045"
  },
  {
@@ -8582,7 +8668,7 @@
    "cvss": null,
    "ref": "https://github.com/emlog/emlog/security/advisories/GHSA-gjj4-37r4-mf5g"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-53757 — Emlog là một hệ thống xây dựng trang web mã nguồn mở",
   "key": "0531a43ce692196d9c44eca45b8c94730e0eba20"
  },
  {
@@ -8600,7 +8686,7 @@
    "cvss": null,
    "ref": "https://github.com/emlog/emlog/security/advisories/GHSA-35vc-2gv4-mw77"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-53758 — Emlog là một hệ thống xây dựng trang web mã nguồn mở",
   "key": "075550c64c4198042267afb2e8cc073d1656ab77"
  },
  {
@@ -8618,7 +8704,7 @@
    "cvss": 5.2,
    "ref": "https://github.com/Admidio/admidio/commit/056b1bd9f995437395e337d2c73a32e5c96ee616"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-53760 - Admidio là một giải pháp quản lý người dùng mã nguồn mở",
   "key": "ad5470d0f6c9f43eec39d54448f02fd290b51107"
  },
  {
@@ -8636,7 +8722,7 @@
    "cvss": null,
    "ref": "https://github.com/frappe/crm/releases/tag/v1.73.0"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-53761 - Frappe CRM là một công cụ quản lý quan hệ khách hàng mã nguồn mở",
   "key": "6f660044b7ef68a584f9f61d3c42d645675f87d4"
  },
  {
@@ -8654,7 +8740,7 @@
    "cvss": null,
    "ref": "https://github.com/pjsip/pjproject/commit/673b978aab1fe3ab874247be32c871acc880cbeb"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-57159 — PJSIP là một thư viện truyền thông đa phương tiện mã nguồn mở và miễn phí được viết bằng C",
   "key": "ec108b302012852b473a24f9b216f4c94ed58df3"
  },
  {
@@ -8672,7 +8758,7 @@
    "cvss": null,
    "ref": "https://github.com/pjsip/pjproject/commit/d6a0e7f76611c3a6f530ee051e3e7a622bb1748c"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-57160 — PJSIP là một thư viện truyền thông đa phương tiện mã nguồn mở và miễn phí được viết bằng C",
   "key": "fab2efa19f8fb40592f1052bd2f11e47841f43fb"
  },
  {
@@ -8690,7 +8776,7 @@
    "cvss": null,
    "ref": "https://github.com/pjsip/pjproject/commit/acc03b57cef7a7d31b8e1f5b9117437d7e87c591"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-57161 — PJSIP là một thư viện truyền thông đa phương tiện mã nguồn mở và miễn phí được viết bằng C",
   "key": "5ddb3f0d141bfe7f1a77a1160910b716c114fe4a"
  },
  {
@@ -8708,7 +8794,7 @@
    "cvss": null,
    "ref": "https://github.com/pjsip/pjproject/commit/a1b707c0c9b0506faf2a8a438b60f11ffd6a6fd9"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-57162 — PJSIP là một thư viện truyền thông đa phương tiện mã nguồn mở và miễn phí được viết bằng C",
   "key": "90e3778e1ad826a28dbe89430e3c7059808f947c"
  },
  {
@@ -8726,7 +8812,7 @@
    "cvss": null,
    "ref": "https://github.com/pjsip/pjproject/commit/c4a151af86fadd16d9480b2603eeb2abf4fb4f78"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-57163 — PJSIP là một thư viện truyền thông đa phương tiện mã nguồn mở và miễn phí được viết bằng C",
   "key": "3178dcf00ffcc400fc1b485e2412cc2eec4538a8"
  },
  {
@@ -8744,7 +8830,7 @@
    "cvss": null,
    "ref": "https://github.com/pjsip/pjproject/commit/8d5956afab2ede95ddb199078dc19a8ac0114f3d"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-57164 — PJSIP là một thư viện truyền thông đa phương tiện mã nguồn mở và miễn phí được viết bằng C",
   "key": "ccbbe7077d4a0e2e39f939fc7e78e5c6d2112ad7"
  },
  {
@@ -8762,7 +8848,7 @@
    "cvss": null,
    "ref": "https://github.com/pjsip/pjproject/commit/628b71638465bacf66e767959e6acbab822eccd6"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-57165 — PJSIP là một thư viện truyền thông đa phương tiện mã nguồn mở và miễn phí được viết bằng C",
   "key": "b57f73e0f41d3865b2c56663018188ede408fe92"
  },
  {
@@ -8780,7 +8866,7 @@
    "cvss": null,
    "ref": "https://github.com/pjsip/pjproject/commit/4472a31d77a7506ff175dad5abef490f4e31bed1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-57166 — PJSIP là một thư viện truyền thông đa phương tiện mã nguồn mở và miễn phí được viết bằng C",
   "key": "fcd02ef2fbab4d9db3df288a4a8d244e44ab9017"
  },
  {
@@ -73878,113 +73964,5 @@
   },
   "title_vi": "CVE-2023-20511 - Phát hành một con trỏ không hợp lệ trong trình điều khiển chế độ hạt nhân AMD (KMD) có thể cho phép kẻ tấn công đặc quyền tạo ra một điều kiện tự do kép có khả năng dẫn đến",
   "key": "dee74790ec317f2f6c9d4f148b6ade16740924d8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2023-31308 — A malicious virtual function can invoke the certain command handlers in the SMU, causing a denial of service due to out-of-bounds memory read",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2023-31308",
-  "published": "2026-08-31T19:16:44.890",
-  "summary": "A malicious virtual function can invoke the certain command handlers in the SMU, causing a denial of service due to out-of-bounds memory read.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2023-31308",
-   "cvss": 3.3,
-   "ref": "https://www.amd.com/en/resources/product-security/bulletin/AMD-SB-6018.html"
-  },
-  "title_vi": "CVE-2023-31308 — Một chức năng ảo độc hại có thể gọi các trình xử lý lệnh nhất định trong SMU, gây ra từ chối dịch vụ do đọc bộ nhớ ngoài giới hạn",
-  "key": "8351f69222643fdcbc883a9f16071c187d8a397b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-14367 — The I3C IBI subsystem in drivers/i3c/i3c_ibi_workq",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-14367",
-  "published": "2026-08-31T19:16:45.750",
-  "summary": "The I3C IBI subsystem in drivers/i3c/i3c_ibi_workq.c hands out statically-allocated work nodes through a free-list i3c_ibi_work_nodes_free implemented as a plain sys_slist_t, which provides no synchronization. The allocation helpers (i3c_ibi_work_enqueue, i3c_ibi_work_enqueue_target_irq, i3c_ibi_work_enqueue_hotjoin, i3c_ibi_work_enqueue_controller_request, i3c_ibi_work_enqueue_cb) called sys_slist_get() directly from ISR context, while the workqueue handler i3c_ibi_work_handler() returned nodes with sys_slist_append() from the workqueue thread, with no lock on either side.\n\nBecause sys_slist_",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-14367",
-   "cvss": 3.1,
-   "ref": "https://github.com/zephyrproject-rtos/zephyr/commit/e87e7e2ac7c5ded0af3fb5934518cc5688e458cc"
-  },
-  "title_vi": "CVE-2026-14367 — Hệ thống con IBI I3C trong trình điều khiển/i3c/i3c_ibi_workq",
-  "key": "f767c211d0031551824095bf0272e2582a8446ec"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-14368 — The LwM2M JSON content formatter's get_string() in subsys/net/lib/lwm2m/lwm2m_rw_json",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-14368",
-  "published": "2026-08-31T19:16:45.887",
-  "summary": "The LwM2M JSON content formatter's get_string() in subsys/net/lib/lwm2m/lwm2m_rw_json.c copies a parsed JSON string into a caller-supplied buffer and NUL-terminates it. The length guard used if (string_length > buflen), which accepts a string whose length is exactly buflen. After memcpy() fills the whole buffer, buf[string_length] = '\\0' then writes one byte past the end of the buffer (CWE-787).\n\nThe string value and its length are taken directly from the incoming CoAP payload during a LwM2M WRITE: do_write_op_json() parses the payload obtained from coap_packet_get_payload(), and get_string() ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-14368",
-   "cvss": 5.4,
-   "ref": "https://github.com/zephyrproject-rtos/zephyr/commit/ba38f4b94337cc2c2446277ac181bdb5fec8f2b2"
-  },
-  "title_vi": "CVE-2026-14368 — Trình định dạng nội dung JSON LwM2M get_STRING() trong subsys/net/lib/lwm2m/lwm2m_rw_json",
-  "key": "4c498086df709b1fd3174e21e00e0d73d6e4acd0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-14696 — When Ethernet bridging is enabled (CONFIG_NET_ETHERNET_BRIDGE), eth_bridge_input_process() in subsys/net/l2/ethernet/bridge/bridge_input",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-14696",
-  "published": "2026-08-31T19:16:46.140",
-  "summary": "When Ethernet bridging is enabled (CONFIG_NET_ETHERNET_BRIDGE), eth_bridge_input_process() in subsys/net/l2/ethernet/bridge/bridge_input.c decides how each frame received on a bridge member interface is handled. For frames that must also be delivered to the local stack, the code called eth_bridge_handle_locally() and returned NET_OK. That helper does not consume the packet — it only calls bridge_iface_recv() (via virtual_recv()), which returns NET_CONTINUE without taking ownership of pkt.\n\nThe NET_OK verdict then propagates through ethernet_recv() up to processing_data() in subsys/net/ip/net_c",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-14696",
-   "cvss": 6.5,
-   "ref": "https://github.com/zephyrproject-rtos/zephyr/commit/4eb007af465a1d28f2f35d93ecf139cc62c542a7"
-  },
-  "title_vi": "CVE-2026-14696 — Khi cầu nối Ethernet được bật (CONFIG_NET_ETHERNET_BRIDGE), eth_bridge_input_process() trong subsys/net/l2/ethernet/bridge/bridge_input",
-  "key": "5d8e264b722634a025e8968353659caf949f35d3"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-53507 — oasdiff-action is a GitHub Action that detects breaking changes in OpenAPI specs and post a review on every pull request",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-53507",
-  "published": "2026-08-31T19:16:49.867",
-  "summary": "oasdiff-action is a GitHub Action that detects breaking changes in OpenAPI specs and post a review on every pull request. Before version 0.0.51, the oasdiff actions resolved external $refs in the OpenAPI spec by default (allow-external-refs: true). When an action runs on a pull request whose spec is attacker-controlled — most importantly fork pull requests on public repositories — a $ref in that spec is fetched/read on the runner with no interaction required, enabling SSRF and disclosure of structured files on the runner. This issue has been patched in version 0.0.51.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-53507",
-   "cvss": null,
-   "ref": "https://github.com/oasdiff/oasdiff-action/pull/128"
-  },
-  "title_vi": "CVE-2026-53507 — oasdiff-action là một Hành động GitHub phát hiện các thay đổi trong thông số kỹ thuật OpenAPI và đăng đánh giá về mọi yêu cầu kéo",
-  "key": "5b07e24f853fbeaf2e6d79b6ebf5a6132874991b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-53508 — oasdiff is a command-line and Go package that compares and detects breaking changes in OpenAPI specs",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-53508",
-  "published": "2026-08-31T19:16:50.030",
-  "summary": "oasdiff is a command-line and Go package that compares and detects breaking changes in OpenAPI specs. From version 1.13.2 through version 1.18.0, oasdiff did not enforce --allow-external-refs=false (library: openapi3.Loader.IsExternalRefsAllowed = false) when loading a spec from a git revision (the rev:path form, e.g. main:openapi.yaml). External $refs were resolved on that load path even when external refs were explicitly disabled, so the mitigation silently did not apply there. This issue has been patched in version 1.18.1.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-53508",
-   "cvss": null,
-   "ref": "https://github.com/oasdiff/oasdiff/pull/832"
-  },
-  "title_vi": "CVE-2026-53508 — oasdiff là gói dòng lệnh và Go so sánh và phát hiện các thay đổi phá vỡ trong thông số kỹ thuật OpenAPI",
-  "key": "2fa97d4b718e6ca4ed5f14dc4e9e1fa5ad2debd8"
  }
 ]
