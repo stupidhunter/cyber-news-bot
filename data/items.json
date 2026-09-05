@@ -1,5 +1,576 @@
 [
  {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Quảng Ninh tập trung nguồn lực, tháo gỡ điểm nghẽn trong chuyển đổi số",
+  "link": "https://www.vietnamplus.vn/quang-ninh-tap-trung-nguon-luc-thao-go-diem-nghen-trong-chuyen-doi-so-post1134040.vnp",
+  "published": "2026-09-05T01:20:00+00:00",
+  "summary": "Từ hạ tầng số, dữ liệu, an toàn thông tin đến nhân lực và quy trình, từng nhiệm vụ được xác định rõ đầu việc, trách nhiệm, tạo nền tảng để chuyển đổi số thực sự là động lực phát triển của Quảng Ninh. Chính quyền số từ cơ sở: Khi chính quyền lấy kết quả phục vụ làm thước đo Tây Ninh: Xây dựng hệ sinh thái AI tự chủ phục vụ chính quyền số Đề án 06-Chìa khóa xây dựng chính quyền số sau hợp nhất tại Phú Thọ",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "9ffdaf19791a7a1bc32cc3a9ee996c61381037e3"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Lai Châu: Trường nội trú Petrovietnam - Phong Thổ đã sẵn sàng cho năm học mới",
+  "link": "https://www.vietnamplus.vn/lai-chau-truong-noi-tru-petrovietnam-phong-tho-da-san-sang-cho-nam-hoc-moi-post1134318.vnp",
+  "published": "2026-09-04T23:29:37+00:00",
+  "summary": "Trường Phổ thông Nội trú Tiểu học &amp; Trung học cơ sở Petrovietnam - Phong Thổ được xây dựng trên diện tích khoảng 6,15 ha, với tổng mức đầu tư 280 tỷ đồng, trong đó Petrovietnam tài trợ 245 tỷ đồng. Năm học 2026-2027: Không dạy trước lớp 1, đẩy mạnh STEM, AI và tiếng Anh Tăng cường giáo dục STEM: Hướng tới đổi mới thực chất trong dạy và học STEM Innovation Petrovietnam: Ươm mầm nhân lực khoa học công nghệ cho tương lai",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "d181c1d1fee9961e03f0a3567a105614368514a8"
+ },
+ {
+  "source": "GenK",
+  "title": "Đăng nội dung này lên mạng, nhóm thanh niên sinh năm 2007-2009 bị phạt tiền gần 800 triệu đồng",
+  "link": "https://genk.vn/dang-noi-dung-nay-len-mang-nhom-thanh-nien-sinh-nam-2007-2009-bi-phat-tien-gan-800-trieu-dong-165260905025324944.chn",
+  "published": "2026-09-05T02:52:41.441691+00:00",
+  "summary": "Mới đây, Công an tỉnh Tuyên Quang cho biết, Phòng An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao Công an tỉnh vừa ra quyết định xử phạt vi phạm hành chính đối với 09 trường hợp về hành vi “Vi phạm quy định về hoạt động thanh toán”, với tổng số tiền xử phạt gần 800 triệu đồng.",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "75099aa8dd5d4bd768dc1dbff13bcb5b75d539b9"
+ },
+ {
+  "source": "GenK",
+  "title": "Mô hình AI mới của OpenAI khiến chuyên gia an ninh lo ngại",
+  "link": "https://genk.vn/mo-hinh-ai-moi-cua-openai-khien-chuyen-gia-an-ninh-lo-ngai-165260905085429261.chn",
+  "published": "2026-09-05T02:52:41.441726+00:00",
+  "summary": "Astra được OpenAI giới thiệu là mô hình AI mạnh nhất của hãng, nhưng kỹ thuật suy luận mới có thể khiến quá trình hoạt động của AI khó giám sát hơn.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "f039eb64192fec1383f6c4f8e1f8e5a748a02312"
+ },
+ {
+  "source": "GenK",
+  "title": "Thế giới đang bước vào thời kỳ “lạm phát công nghệ\" mới, khi tự lắp PC cũng không còn rẻ như trước",
+  "link": "https://genk.vn/the-gioi-dang-buoc-vao-thoi-ky-lam-phat-cong-nghe-moi-khi-tu-lap-pc-cung-khong-con-re-nhu-truoc-165260905083529794.chn",
+  "published": "2026-09-05T02:52:41.441744+00:00",
+  "summary": "AI đang làm thay đổi quy luật giá của phần cứng.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "2a8b7c3726094321181918bcfde9984a913e01a8"
+ },
+ {
+  "source": "VnExpress Số hóa",
+  "title": "'Lượng tiêu thụ nước của trung tâm dữ liệu AI bị thổi phồng'",
+  "link": "https://vnexpress.net/luong-tieu-thu-nuoc-cua-trung-tam-du-lieu-ai-bi-thoi-phong-5116509.html",
+  "published": "2026-09-05T02:17:20+00:00",
+  "summary": "Sam Altman, CEO OpenAI, cho rằng trung tâm dữ liệu AI thực tế không ngốn nhiều nước, nhưng vấn đề bị lan truyền và thổi phồng quá mức.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "6a75780cb167d439f2e495048b4a6c01e0a7e1c4"
+ },
+ {
+  "source": "VnExpress Số hóa",
+  "title": "Tại sao Nvidia chi gần 13 tỷ USD mua Hugging Face?",
+  "link": "https://vnexpress.net/tai-sao-nvidia-chi-gan-13-ty-usd-mua-hugging-face-5116727.html",
+  "published": "2026-09-04T23:43:26+00:00",
+  "summary": "Thương vụ mua Hugging Face giúp Nvidia, công ty dẫn đầu thế giới về chip AI, củng cố vị thế và tầm ảnh hưởng trên thị trường AI toàn cầu.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "902ba03bdca502548bc2cb775967ca8728009022"
+ },
+ {
+  "source": "VnExpress Số hóa",
+  "title": "Laptop AI siêu nhẹ giá gần 60 triệu đồng",
+  "link": "https://vnexpress.net/laptop-ai-sieu-nhe-gia-gan-60-trieu-dong-5116280.html",
+  "published": "2026-09-04T23:31:38+00:00",
+  "summary": "Yoga Slim 7i Ultra Aura Edition của Lenovo nặng chưa đến 1 kg, dùng chip Intel, RAM 32 GB và bộ nhớ 1 TB, nhưng giá cao hơn thế hệ trước.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "e443a1f3bb0c27d44d349153c81279b9a8dc6460"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-46636 — Twig is a template language for PHP",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-46636",
+  "published": "2026-09-04T22:17:17.360",
+  "summary": "Twig is a template language for PHP. From version 1.0.0 to before version 3.27.0, SecurityPolicy::checkMethodAllowed() unconditionally whitelists all method calls on instances of Twig\\Markup. Twig\\Markup is not final, so subclasses inherit the bypass. An application that passes an object of a Markup-derived class into a sandboxed template (typically to mark a chunk of HTML as safe) inadvertently exposes every public method of that subclass to template authors, regardless of the configured allowedMethods list. This issue has been patched in version 3.27.0.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-46636",
+   "cvss": null,
+   "ref": "http://github.com/twigphp/Twig/releases/tag/v3.27.0"
+  },
+  "title_vi": "CVE-2026-46636 — Twig là ngôn ngữ mẫu cho PHP",
+  "key": "f8e3c7962f5d97481b334f2d2d1f16f5fe142cd4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75925 — Improper neutralization of CRLF sequences in IXON VPN Client before version 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75925",
+  "published": "2026-09-04T22:17:18.017",
+  "summary": "Improper neutralization of CRLF sequences in IXON VPN Client before version 1.4.7 allows an attacker to execute commands as root or SYSTEM. Configuration values accepted by the local service are written to a file later consumed by a privileged subprocess, without line-ending sequences being neutralized, which allows additional directives to be introduced into that file. The configuration interface accepts changes without authenticating or verifying the origin of the requester. The injected configuration persists on disk across restarts of the client and the operating system, and the VPN connec",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75925",
+   "cvss": 9.6,
+   "ref": "https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-246-02.json"
+  },
+  "title_vi": "CVE-2026-75925 — Trung hòa trình tự CRLF không đúng cách trong IXON VPN Client trước phiên bản 1",
+  "key": "42584ff043ee2b4737faf485b48631e8930086a2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-76925 — A flaw was found in Flatpak",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76925",
+  "published": "2026-09-04T22:17:18.190",
+  "summary": "A flaw was found in Flatpak. A Time-of-check to time-of-use (TOCTOU) race condition exists in the `org.freedesktop.Flatpak.SystemHelper` component. This vulnerability occurs because a privileged `chmod` operation executes before the OSTree repository validation within the `Deploy()` function. An attacker can exploit this timing window to redirect symlinks to arbitrary files, potentially leading to unauthorized file manipulation or information disclosure.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-76925",
+   "cvss": 5.8,
+   "ref": "https://access.redhat.com/security/cve/CVE-2026-76925"
+  },
+  "title_vi": "CVE-2026-76925 — Một lỗ hổng đã được tìm thấy ở Flatpak",
+  "key": "0b4634b4658c5e82ed7cfc31624b4cd7714387d9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77393 — In Ignition 8",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77393",
+  "published": "2026-09-04T22:17:18.333",
+  "summary": "In Ignition 8.1.53 and earlier, the Gateway \"Create Project Role(s)\" setting shipped blank, which permitted any authenticated user to create projects (if they can execute gateway scripts). Ignition 8.1.54 restricts project creation to Designer sessions and no longer relies on this setting. The 8.3 series is not affected.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77393",
+   "cvss": 8.8,
+   "ref": "https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-246-06.json"
+  },
+  "title_vi": "CVE-2026-77393 — Đánh lửa 8",
+  "key": "92d1e68b268fd8602f1cc26540f67275295881cb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82684 — Tycon Systems TPDIN-Monitor-WEB3 versions 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82684",
+  "published": "2026-09-04T22:17:18.683",
+  "summary": "Tycon Systems TPDIN-Monitor-WEB3 versions 2.2.9 and prior are vulnerable to a Missing Authorization vulnerability. This could allow an attacker to extract system credentials, configurations, or flash contents.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82684",
+   "cvss": 8.1,
+   "ref": "https://firm.tyconsystems.com/tpdin-monitor-web3-v2/TPDIN-MONITOR-WEB3-V2_v2.4.2.tfw"
+  },
+  "title_vi": "CVE-2026-82684 — Tycon Systems TPDIN-Monitor-WEB3 phiên bản 2",
+  "key": "cec3b2c750b5d97f080e04b28a14d106c2e9de72"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86090 — ntopng before 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86090",
+  "published": "2026-09-04T22:17:18.840",
+  "summary": "ntopng before 6.7.260717 fails to perform authorization checks in the delete endpoints and recipients REST v2 handlers. Authenticated non-administrator users can issue POST requests to irreversibly delete all configured notification endpoints and recipients, silencing all alerts.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86090",
+   "cvss": 7.1,
+   "ref": "https://github.com/ntop/ntopng"
+  },
+  "title_vi": "CVE-2026-86090 — ntopng trước 6",
+  "key": "0bedab67464d16d7a4b54d07e14325d7b1ed81bd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86091 — ntopng before 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86091",
+  "published": "2026-09-04T22:17:18.990",
+  "summary": "ntopng before 6.7.260717 fails to check user privileges in the pools bulk-delete endpoint, allowing authenticated non-administrators to delete all host pools and member bindings. Attackers can issue POST requests to the delete pools endpoint to irreversibly destroy every host pool, removing traffic policy bindings and visibility restrictions that may bypass security policies.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86091",
+   "cvss": 7.1,
+   "ref": "https://github.com/ntop/ntopng"
+  },
+  "title_vi": "CVE-2026-86091 — ntopng trước 6",
+  "key": "e6c0ff8fc83d9b4e4714bbf453be228c1125cd6a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-48019 — Laravel is a web application framework",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-48019",
+  "published": "2026-09-04T23:17:09.143",
+  "summary": "Laravel is a web application framework. Prior to versions 12.60.0 and 13.10.0, a CRLF injection vulnerability in Laravel's email validation, in combination with how Symfony Mailer and Symfony Mime handle certain character sequences, may allow an unauthenticated attacker to interfere with outbound email processing in applications that send mail to user-supplied addresses. This issue has been patched in versions 12.60.0 and 13.10.0.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-48019",
+   "cvss": 8.9,
+   "ref": "https://github.com/laravel/framework/commit/96e9a663db657cf37ef26cd794fda8ff60eaa451"
+  },
+  "title_vi": "CVE-2026-48019 — Laravel là một khung ứng dụng web",
+  "key": "40a82d1952516c8be6b323eacd57c1ed778606c0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86095 — Unidata netcdf-c through 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86095",
+  "published": "2026-09-04T23:18:03.220",
+  "summary": "Unidata netcdf-c through 4.10.1 contains an out-of-bounds write vulnerability in NC4_HDF5_inq_attname() that copies HDF5 attribute names into a fixed 256-byte buffer without length validation. Attackers can craft HDF5 files with oversized attribute names to overflow the destination buffer, causing memory corruption and crashes when applications enumerate attribute names.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86095",
+   "cvss": 7.8,
+   "ref": "https://github.com/Unidata/netcdf-c"
+  },
+  "title_vi": "CVE-2026-86095 — Unidata netcdf-c đến 4",
+  "key": "7a2ec9704215c0065d3620b3320bebf43be774c9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86096 — PX4 Autopilot through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86096",
+  "published": "2026-09-04T23:18:03.377",
+  "summary": "PX4 Autopilot through 1.17.0 contains a use-after-free vulnerability in TemperatureCalibration::start() due to a race condition between task spawning and object deletion. Attackers can trigger the calibration process via shell commands to write to freed heap memory, corrupting unrelated objects or allocator metadata and destabilizing heap operations.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86096",
+   "cvss": 5.9,
+   "ref": "https://github.com/PX4/PX4-Autopilot"
+  },
+  "title_vi": "CVE-2026-86096 - Hệ thống lái tự động PX4 thông qua 1",
+  "key": "df4cccabc1602f8b570db2f3729d5dcac3f6c194"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86097 — PX4 Autopilot through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86097",
+  "published": "2026-09-04T23:18:03.547",
+  "summary": "PX4 Autopilot through 1.17.0 contains a null pointer dereference vulnerability in param_set_default_file() and param_set_backup_file() functions that allows attackers to crash the autopilot process. Attackers can invoke 'param select' or 'param select-backup' commands with no path argument from any PX4 shell to trigger the crash.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86097",
+   "cvss": 6.5,
+   "ref": "https://github.com/PX4/PX4-Autopilot"
+  },
+  "title_vi": "CVE-2026-86097 — Lái tự động PX4 qua 1",
+  "key": "9545b5806748136e1477f8e17bd3990700c75e75"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86098 — ntop nDPI versions before 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86098",
+  "published": "2026-09-04T23:18:03.687",
+  "summary": "ntop nDPI versions before 6.0 contain a heap buffer overflow vulnerability in the ndpi_json_string_escape function that writes beyond caller-supplied buffer boundaries. Attackers can trigger the overflow by supplying crafted network packet data including TLS SNI, HTTP headers, or DNS names that reach the vulnerable function, causing heap corruption.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86098",
+   "cvss": 7.4,
+   "ref": "https://github.com/ntop/nDPI"
+  },
+  "title_vi": "CVE-2026-86098 — phiên bản nDPI ntop trước 6",
+  "key": "4118da546af1b127af2ff51a82edd6b3e332b341"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-52762 — YesWiki is a wiki system written in PHP",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-52762",
+  "published": "2026-09-05T00:17:18.607",
+  "summary": "YesWiki is a wiki system written in PHP. Prior to version 4.6.6, YesWiki Bazar contains a stored Server-Side Template Injection (SSTI) vulnerability in the semantic template feature that can be escalated to confirmed Remote Code Execution (RCE). An authenticated administrator can place arbitrary Twig expressions into the Semantic template (Twig) field (bn_sem_template), and that content is later executed server-side when public semantic endpoints are requested. This issue has been patched in version 4.6.6.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-52762",
+   "cvss": null,
+   "ref": "https://github.com/YesWiki/yeswiki/commit/89462f1577a8a1fe7fcff75e77b5058a74d8047b"
+  },
+  "title_vi": "CVE-2026-52762 — YesWiki là một hệ thống wiki được viết bằng PHP",
+  "key": "a8badfbf0547e7029549697083de0c55701e792c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-52763 — YesWiki is a wiki system written in PHP",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-52763",
+  "published": "2026-09-05T00:17:19.257",
+  "summary": "YesWiki is a wiki system written in PHP. Prior to version 4.6.6, the recentchanges action (actions/recentchanges.php) accepts a period argument from two disjoint parameter spaces. A whitelist validates only the URL form against ['day','week','month']. The action-argument form takes the else branch with no validation, and the value flows into PageManager::getRecentlyChanged(), where it is interpolated into a WHERE time >= '...' ORDER BY time DESC clause without escaping or parameterization. UNION-based injection succeeds, the leaked rows render into the response page, so any visitor of the trig",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-52763",
+   "cvss": 6.5,
+   "ref": "https://github.com/YesWiki/yeswiki/releases/tag/v4.6.6"
+  },
+  "title_vi": "CVE-2026-52763 — YesWiki là một hệ thống wiki được viết bằng PHP",
+  "key": "1967b063e4ade7fdd9a55137be67b6d17d4c28d7"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-52766 — YesWiki is a wiki system written in PHP",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-52766",
+  "published": "2026-09-05T00:17:19.393",
+  "summary": "YesWiki is a wiki system written in PHP. Prior to version 4.6.6, the {{erasespamedcomments}} wiki action (actions/EraseSpamedCommentsAction.php) accepts a suppr[] array from POST and deletes every wiki page whose tag appears in that array, with no authorization check anywhere in the action body or in the page-deletion path it invokes. Combined with YesWiki's allow-by-default action ACL model, any user who has page write access, which is the default for everyone (default_write_acl='*') on a fresh install can permanently delete arbitrary wiki pages, including the front page, admin pages, and pag",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-52766",
+   "cvss": 9.1,
+   "ref": "https://github.com/YesWiki/yeswiki/commit/ed5b548a705c8091ba0282aaaba73ddda976abef"
+  },
+  "title_vi": "CVE-2026-52766 — YesWiki là một hệ thống wiki được viết bằng PHP",
+  "key": "59ac7b5fb3f624b8df12f7344e98e41f5b65be51"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-52767 — YesWiki is a wiki system written in PHP",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-52767",
+  "published": "2026-09-05T00:17:19.540",
+  "summary": "YesWiki is a wiki system written in PHP. From version 4.6.2 to before version 4.6.6, HttpSignatureService::verifySignature() checks the result of PHP's openssl_verify() with a loose boolean negation - if (!openssl_verify(...)) { throw ... }. PHP's openssl_verify has four possible return values: 1, 0, -1, and \"false\". The -1 row is the bypass: PHP's truthiness rules make -1 a truthy value, so !(-1) === false, the throw is skipped, and the controller proceeds to processActivity(). Any condition that makes OpenSSL's EVP_VerifyFinal() return -1 triggers the bypass. The reachable consequence is the",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-52767",
+   "cvss": 8.2,
+   "ref": "https://github.com/YesWiki/yeswiki/commit/d1795e0301e1a1078f17b4b98f56fff70de2029e"
+  },
+  "title_vi": "CVE-2026-52767 — YesWiki là một hệ thống wiki được viết bằng PHP",
+  "key": "864135f68ff9caad8e3a423745f5f7c398b9567d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-52769 — YesWiki is a wiki system written in PHP",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-52769",
+  "published": "2026-09-05T00:17:19.683",
+  "summary": "YesWiki is a wiki system written in PHP. From version 4.6.2 to before version 4.6.6, the POST /api/forms/{formId}/actor/inbox route - exposed publicly with acl:\"public\" - accepts an HTTP Signature header whose keyId parameter is a URL. HttpSignatureService::verifySignature() parses the header and immediately makes a server-side HTTP GET to that URL, before any cryptographic verification or URL validation. An unauthenticated remote attacker can therefore make YesWiki issue arbitrary outbound HTTP requests to any host the server can reach - internal services, cloud-metadata endpoints (169.254.16",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-52769",
+   "cvss": 8.3,
+   "ref": "http://github.com/YesWiki/yeswiki/commit/87e627f33e79879827a3669fee2aa1244612c487"
+  },
+  "title_vi": "CVE-2026-52769 — YesWiki là một hệ thống wiki được viết bằng PHP",
+  "key": "58f13f639b1b5e09d430c1129c4df2910d784d17"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-52770 — YesWiki is a wiki system written in PHP",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-52770",
+  "published": "2026-09-05T00:17:19.827",
+  "summary": "YesWiki is a wiki system written in PHP. Prior to version 4.6.6, YesWiki’s public Bazar entry-listing APIs are vulnerable to unauthenticated SQL injection in numeric query / queries filters. For Bazar fields whose value structure is numeric, YesWiki escapes the attacker-controlled filter value but inserts it into SQL without quotes or numeric validation. An unauthenticated attacker can inject boolean SQL expressions and infer database contents from whether entries are returned. This issue has been patched in version 4.6.6.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-52770",
+   "cvss": 7.5,
+   "ref": "https://github.com/YesWiki/yeswiki/commit/f3b0dd093a7ace47dc29a515faeb02635baceae2"
+  },
+  "title_vi": "CVE-2026-52770 — YesWiki là một hệ thống wiki được viết bằng PHP",
+  "key": "7f386b9e42d21f9d209eb409794e24897f69185d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-52771 — YesWiki is a wiki system written in PHP",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-52771",
+  "published": "2026-09-05T00:17:19.963",
+  "summary": "YesWiki is a wiki system written in PHP. From version 4.2.0 to before version 4.6.6, ApiController::deletePage() interpolates a page tag retrieved from the database into a DELETE FROM …_links WHERE to_tag = '$tag' query without escaping. The page tag is attacker-controlled — the POST /api/pages/{tag} API accepts arbitrary URL-encoded values, including single quotes, and stores them. A low-privilege authenticated user can therefore create a page whose tag is a SQL fragment, make the page non-orphaned via the standard {{include page=\"…\"}} link mechanism, and then invoke the delete endpoint to ex",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-52771",
+   "cvss": 8.3,
+   "ref": "https://github.com/YesWiki/yeswiki/commit/23d3cc124613b9428ab963b31807c08879a9c631"
+  },
+  "title_vi": "CVE-2026-52771 — YesWiki là một hệ thống wiki được viết bằng PHP",
+  "key": "9eb720ce7d27684f065b4a74840bd01394dcb808"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-52772 — YesWiki is a wiki system written in PHP",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-52772",
+  "published": "2026-09-05T00:17:20.110",
+  "summary": "YesWiki is a wiki system written in PHP. Prior to version 4.6.6, Bazar form-field templates still apply |raw('html') to field.label / field.hint in attribute and label-body contexts, resulting stored XSS in form renders. This issue has been patched in version 4.6.6.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-52772",
+   "cvss": 5.5,
+   "ref": "https://github.com/YesWiki/yeswiki/commit/5d1a4d07fecb0706f33e5dfbbe6ff5ef1892b2a7"
+  },
+  "title_vi": "CVE-2026-52772 — YesWiki là một hệ thống wiki được viết bằng PHP",
+  "key": "8007b334b92123807fd0bea8544952e5e5b75611"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-52773 — YesWiki is a wiki system written in PHP",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-52773",
+  "published": "2026-09-05T00:17:20.243",
+  "summary": "YesWiki is a wiki system written in PHP. From version 4.1.0 to before version 4.6.6, YesWiki's archived-revision view reflects the time GET parameter into a hidden HTML input in handlers/page/show.php without escaping. Because MySQL coerces malformed DATETIME strings, an attacker can append HTML or JavaScript to a valid archived revision timestamp, still load that archived revision, and execute arbitrary JavaScript in the victim's browser. The vulnerable form is only rendered when the victim can both read and edit the target page. In restricted deployments this requires a victim with read and ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-52773",
+   "cvss": 6.1,
+   "ref": "https://github.com/YesWiki/yeswiki/commit/35ad9c2bb6cd338198b37c1f745e24bc302a3560"
+  },
+  "title_vi": "CVE-2026-52773 — YesWiki là một hệ thống wiki được viết bằng PHP",
+  "key": "0d4be61de48dceb6464575ecb04f72af73daa17a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-52774 — YesWiki is a wiki system written in PHP",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-52774",
+  "published": "2026-09-05T00:17:20.380",
+  "summary": "YesWiki is a wiki system written in PHP. Prior to version 4.6.6, YesWiki's Bazar widget handler reflects the id GET parameter into HTML attributes using strip_tags() only. Because strip_tags() does not escape double quotes, an attacker can break out of the attribute value, inject an event handler such as onmouseover, and execute arbitrary JavaScript in the victim's browser. This issue is reachable without authentication. During validation, the vulnerable widget route returned the injected HTML for both /HomePage/widget?id=... and /NoSuchPage/widget?id=..., which shows that no login, no page ow",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-52774",
+   "cvss": 6.1,
+   "ref": "https://github.com/YesWiki/yeswiki/commit/1aa2710c7505630b858f2142a65f9441bfaba2b2"
+  },
+  "title_vi": "CVE-2026-52774 — YesWiki là một hệ thống wiki được viết bằng PHP",
+  "key": "4c71a91510f481e8a9ccbbee9baa37903689b6a9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-52775 — YesWiki is a wiki system written in PHP",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-52775",
+  "published": "2026-09-05T00:17:20.520",
+  "summary": "YesWiki is a wiki system written in PHP. Prior to version 4.6.6, YesWiki through the latest development branch contains a SQL injection vulnerability in ReactionManager::deleteUserReaction() that allows any authenticated user to inject arbitrary SQL via the {idreaction} and {id} URL path parameters. The parameters are concatenated directly into a SQL LIKE clause without escaping or parameterization. This issue has been patched in version 4.6.6.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-52775",
+   "cvss": 8.8,
+   "ref": "https://github.com/YesWiki/yeswiki/commit/90ca54fb518e1c43a1ead6e4f5bf9f0389789841"
+  },
+  "title_vi": "CVE-2026-52775 — YesWiki là một hệ thống wiki được viết bằng PHP",
+  "key": "1b225ffd11410d764058126726c0eb101aca79c7"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-52777 — YesWiki is a wiki system written in PHP",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-52777",
+  "published": "2026-09-05T00:17:20.663",
+  "summary": "YesWiki is a wiki system written in PHP. Prior to version 4.6.6, there is an authenticated PHP object injection vulnerability in BazarImportAction via unserialize. This issue has been patched in version 4.6.6.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-52777",
+   "cvss": null,
+   "ref": "https://github.com/YesWiki/yeswiki/commit/8f70a8d6b8befa0e644d03c785701dbbc55b8fd0"
+  },
+  "title_vi": "CVE-2026-52777 — YesWiki là một hệ thống wiki được viết bằng PHP",
+  "key": "0fbdb7e40ac3a1024751a9540186a70d970b5f6c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86100 — Camaleon CMS versions 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86100",
+  "published": "2026-09-05T00:17:20.810",
+  "summary": "Camaleon CMS versions 2.7.5 through 2.9.1 fail to validate redirect targets when fetching remote files in the Upload from URL media feature. Authenticated attackers can supply URLs that pass initial validation but redirect to internal network addresses, allowing server-side request forgery to internal services.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86100",
+   "cvss": 6.4,
+   "ref": "https://github.com/owen2345/camaleon-cms"
+  },
+  "title_vi": "CVE-2026-86100 — Camaleon CMS phiên bản 2",
+  "key": "9782bef9e24f78329df11feaed677bb2fcf8ba32"
+ },
+ {
   "source": "OpenAI News",
   "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
   "link": "https://openai.com/index/introducing-admin-plugin",
@@ -5812,7 +6383,7 @@
    "cvss": 6.8,
    "ref": "https://github.com/SolidInvoice/SolidInvoice/releases/tag/3.0.1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-61608 — SolidInvoice là một nền tảng lập hóa đơn nguồn mở",
   "key": "aa73377c22812cfde02afdabf6ee9937e99ab6f0"
  },
  {
@@ -5831,7 +6402,7 @@
    "cvss": 5.9,
    "ref": "https://github.com/SolidInvoice/SolidInvoice/releases/tag/3.0.1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-61614 — SolidInvoice là một nền tảng lập hóa đơn nguồn mở",
   "key": "62d9b35c2f3809b56ca5a3492f26150db616d035"
  },
  {
@@ -5849,7 +6420,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/SolidInvoice/SolidInvoice/releases/tag/3.0.1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-61686 — SolidInvoice là một nền tảng lập hóa đơn nguồn mở",
   "key": "545dc8845325fbe0dad27dab99f805b427c92e61"
  },
  {
@@ -5867,7 +6438,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/SolidInvoice/SolidInvoice/releases/tag/3.0.1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-61688 — SolidInvoice là một nền tảng lập hóa đơn nguồn mở",
   "key": "d8aa7962cbf96b72ebea2a0ed02fcb73a32150b4"
  },
  {
@@ -5885,7 +6456,7 @@
    "cvss": null,
    "ref": "https://github.com/emlog/emlog/security/advisories/GHSA-fv6h-wr92-v4pj"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-73848 — Emlog là một hệ thống xây dựng trang web mã nguồn mở",
   "key": "b1334f3277df870b7256d6cf81352b99b8ab3fbc"
  },
  {
@@ -5903,7 +6474,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/1bbe7751f5ebac383405ef29a66622d65bd505d3"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80887 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: drm/vmwgfx: use check_add_overflow for shader size+offset bound vmw_shader_define(",
   "key": "a8c201b6a1c7cdae999f593a0c9de8c98108727e"
  },
  {
@@ -5922,7 +6493,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/4df39eb99bb47d1f24d1952c23b21b10988356bf"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80888 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: drm/vmwgfx: drop dma_buf reference on foreign-fd prime import ttm_prime_fd_to_hand",
   "key": "5f2a8c0152385f584f0d81052fa3406d40a62f83"
  },
  {
@@ -5940,7 +6511,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/050f010f920da17c1044a4f174766ad553e770b6"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80889 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: can: isotp: fix timer drain order, wakeup handling và tx_gen ordering Bản vá này",
   "key": "7c9cceac099b30dc5ab5f61bf5ccc88dec63090a"
  },
  {
@@ -5958,7 +6529,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/35c279113498d19a8734e2aae67b951b9b20f634"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80890 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: sctp: từ chối cookie cũ có thẻ xác minh không khớp sctp_unpack_cookie()",
   "key": "f1b0079d1c2c6d8cca33db548017991cb5c93e41"
  },
  {
@@ -5976,7 +6547,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/15df7700dd99f8a37f5c6ed2dcf1e33009cdba47"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80891 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: KVM: s390: pci: Xác thực AIBV và AISB trước khi ghim trang khách AIBV giữ o",
   "key": "d7496ed16b9d0639d8da1a1bd658f5d1c5a73294"
  },
  {
@@ -5994,7 +6565,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0c676903cb2a61992ded8e7907609cc6b0f11744"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80892 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: erofs: cap LZMA stream pool size fs/erofs/decompressor_lzma",
   "key": "b53e76f723487661e83e317bdb4750b97b67a4ed"
  },
  {
@@ -6012,7 +6583,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/2b9a07002c2f296aa6a9c591213933d3492e3089"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80893 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: mm/hugetlb: fix tham nhũng mục nhập hoán đổi khi xóa uffd-wp tại ngã ba() copy_hugetlb",
   "key": "a59d7e01d2f85d4d741c059149808a88ae018e71"
  },
  {
@@ -6030,7 +6601,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/564ac339c0f8bada4e77a57a92bab9d3df635e07"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80894 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: iommufd: Khắc phục lỗi hwpt được chuyển đến iommufd_auto_response_fault khi thay thế iommufd_",
   "key": "4c62e1de6db242cd43a9de7a8bc5bd78e3e7d911"
  },
  {
@@ -6048,7 +6619,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/062aa5dcc49a9ad96726a80c2a0ab0a1233bc2b9"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80895 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: mshv: Đặt hàng pt_vp_array xuất bản chống lại đường dẫn xác nhận irqfd mshv_partition_ioctl_",
   "key": "d5efb67af16dea76ad834ceb22e508dfbc51e35f"
  },
  {
@@ -6066,7 +6637,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0762262ac3e70f65b3bb843fe892f8bac1562d08"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80896 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: mshv: Fix race trong mshv_irqfd_deassign mshv_irqfd_deactivate() và hlist traver",
   "key": "c7bf6eb05e5dc0649b64c75a6663e47123096890"
  },
  {
@@ -6084,7 +6655,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/2c148a31ca01fc160aceec777bbc0041b0d0b8bd"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80897 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: netfs: release readahead folios on iterator preparation failure netfs_prepare_read",
   "key": "60c207c044734197627a881a8c115b6fea5f817f"
  },
  {
@@ -6102,7 +6673,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/614b7f4bfcf665a751ae89ff9ae336a1b2d5af4e"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80898 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: netfs: clear PG_private_2 on copy-to-cache append failure netfs_pgpriv2_copy_to_ca",
   "key": "63ddcfbe37940f2a4338280c14a92ecf39e11a24"
  },
  {
@@ -6120,7 +6691,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/c37460cd9b2fcb61ec66b7eb4fde737e65ec2a56"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80899 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: erofs: remove fscache backend completely EROFS over fscache được giới thiệu cho provid",
   "key": "eca1d51db5541ad9df2f98ab34e7d81a9c5b4e19"
  },
  {
@@ -6138,7 +6709,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/556d872e7c2a0b570c5b0974813847ef0d0cd637"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80900 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ASoC: SDCA: Kiểm tra kích thước tin nhắn UMP mạnh mẽ hơn Nếu độ lệch tin nhắn lớn hơn",
   "key": "6968d58ae476ba0da7ee313819474ff47c06f690"
  },
  {
@@ -6156,7 +6727,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/00eb23829fd08df1b5e057cb6b625996a70e7e65"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80901 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ipvs: sửa lỗi xác thực tổng kiểm tra ip_vs_in_icmp_v6() bị thiếu xác thực tổng kiểm tra",
   "key": "1c3a3e534beb6ef3b7c849d67a8d541dfaa933b0"
  },
  {
@@ -6175,7 +6746,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/004a7a02982bed0a727a4ac7be400f00f353e7a2"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80902 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: dmaengine: sun6i-dma: Fix reclaim descriptors while terminating DMA When terminati",
   "key": "efc5f8b9b5aa631e5a38d0714befc9fc6a44fb68"
  },
  {
@@ -6194,7 +6765,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/027150e24e173a5dffe7f5ab3a6600618f634da2"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80903 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: drm/xe/oa: Fix sync entry leak on OA config emit failure xe_oa_emit_oa_config() re",
   "key": "accdc64b7e28fd16aac772b4591fabb5de02bced"
  },
  {
@@ -6212,7 +6783,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/06c2a53604fa1dc4820063828d7dadb3675b7af8"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80904 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: net/tls: Fail tls_sw_splice_read() sau khi giải mã không đồng bộ thất bại Khi giải mã không đồng bộ",
   "key": "4b04584af610310245ae44994fc24816f073e960"
  },
  {
@@ -6230,7 +6801,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/5ffaa5d7f56ab24a8e23cf131eadfef31a3bbc4b"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80905 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net: tap: fix wrong transport_header when sending VLAN-tagged frame In tap_get_use",
   "key": "ef4ab2a7bf705a3f70d994ab420012a451bc7a64"
  },
  {
@@ -6248,7 +6819,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/01fdecc0480d916c799dbee584833a4a37e94d06"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80906 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net: packet: fix wrong transport_header khi gửi khung có gắn thẻ VLAN trong packet_p",
   "key": "05baefaa141a5c5225a0920f020da7a9aca58b06"
  },
  {
@@ -6266,7 +6837,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/21a8084cd76223a13493237e04d45f5226d7cee6"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80907 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: drm/amdgpu: Khắc phục tính toán kích thước tối thiểu dpb UVD cho H264 Điều này nên sử dụng numbe thực tế",
   "key": "4d6d4aaead2e9b24086892efb29f5d107d61b1e6"
  },
  {
@@ -6284,7 +6855,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/17fbb996c05f2190e0fa20927ca0b9804d481b02"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80908 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: drm/amdgpu: Từ chối thông báo UVD có kích thước trên 4096 Sửa lỗi tràn tiềm ẩn",
   "key": "d1ed9ee97e03495579aa8206cfafe511a4744439"
  },
  {
@@ -6302,7 +6873,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0acdf1a575f59bd46717d5c487d84575af5bee8f"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80909 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: drm/amdgpu: Từ chối thông báo UVD với số lượng h265 refs không hợp lệ Thay đổi tương tự như đối với",
   "key": "d8384e2ff78511ad3c9c9e7bbb75cee9a02eec51"
  },
  {
@@ -6320,7 +6891,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/2fe7a89b2b5b73be35c1e493d0246314ba54e427"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80910 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ASoC: codecs: lpass-wsa-macro: Fix enum kcontrol accesses EAR SPKR PA Gain\" và th",
   "key": "bca54e545f4f309cc18eccbaa0dade05ea9cbff6"
  },
  {
@@ -6338,7 +6909,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/8cba53b862e1437257ec206d303ff942684284f1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80911 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ASoC: sof: sof-audio: Sửa đường dẫn lỗi trong sof_widget_setup_unlocked() Nếu một trong hai tplg",
   "key": "3e2e3eaf433dfb09c97fd06cabd1010ddf590df7"
  },
  {
@@ -6356,7 +6927,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/099869e9343a5f8c22b58497f074b34f63cbf856"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80912 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: selinux: từ chối một giá trị lớp không có người nhận trong security_get_classes() security_get_cl",
   "key": "fa01eb645b245a2663695f80fbbcbb1f4d2879bc"
  },
  {
@@ -6374,7 +6945,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/3161daa3f1e3ca68f8b2b8fa01720b5a8dcc6b40"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80913 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: selinux: yêu cầu mọi giá trị boolean phải được xác định p_bools",
   "key": "a278d0a266254f4c717e1bfc97bd4edcb9dfe8a7"
  },
  {
@@ -6393,7 +6964,7 @@
    "cvss": 8.8,
    "ref": "https://docu.ilias.de/ilias.php?baseClass=illmpresentationgui&obj_id=225630&ref_id=35"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82538 — ILIAS trước phiên bản 9",
   "key": "1386cb38e0d316d4f9cd638d424247e5e8c58bd2"
  },
  {
@@ -6411,7 +6982,7 @@
    "cvss": 5.9,
    "ref": "https://cna.openjsf.org/security-advisories.html"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84890 - Bộ giải nén của undici giải nén các cơ quan phản ứng theo tiêu đề Mã hóa nội dung không đáng tin cậy",
   "key": "929c82a1b30b9e298bc8a7061d546fe54471795f"
  },
  {
@@ -6429,7 +7000,7 @@
    "cvss": 5.3,
    "ref": "https://github.com/jofpin/trape/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-85636 — Một lỗ hổng đã được xác định trong jofpin trape 1",
   "key": "1e6b5c06ab433f40be8318cf74c6385620c4b71f"
  },
  {
@@ -73370,603 +73941,5 @@
   },
   "title_vi": "",
   "key": "2ebe0ff97eed022d860e29b08bcc080ea3e44651"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2026-81578 — PaperCut NG/MF Missing Authentication for Critical Function Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81578",
-  "published": "2026-08-31",
-  "summary": "PaperCut NG/MF contains a missing authentication for critical function vulnerability which allows an unauthenticated remote attacker to modify certain system configurations. This vulnerability can be chained with CVE-2026-82078.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-81578",
-   "vendor": "PaperCut",
-   "product": "NG/MF",
-   "due_date": "2026-09-14",
-   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
-  },
-  "title_vi": "",
-  "key": "13dce1fe4abc9af2d9b7d2c55075bc2a4b37326f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82678 — A vulnerability was identified in diem-project diem up to 5",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82678",
-  "published": "2026-08-31T11:16:39.807",
-  "summary": "A vulnerability was identified in diem-project diem up to 5.1.3. The affected element is the function executeCommand of the file dmAdminPlugin/modules/dmConsole/actions/actions.class.php of the component Administrative Console. Such manipulation of the argument dm_command leads to os command injection. The attack can be launched remotely. The exploit is publicly available and might be used. The project was informed of the problem early through an issue report but has not responded yet.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82678",
-   "cvss": 4.7,
-   "ref": "https://github.com/diem-project/diem/"
-  },
-  "title_vi": "CVE-2026-82678 — Một lỗ hổng đã được xác định trong diem dự án diem lên đến 5",
-  "key": "c24fd122533bff94850f893a33bce93259c6724e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82679 — A security flaw has been discovered in diem-project diem up to 5",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82679",
-  "published": "2026-08-31T11:16:40.000",
-  "summary": "A security flaw has been discovered in diem-project diem up to 5.1.3. The impacted element is an unknown function of the file dmFrontPlugin/lib/dmWidget/media/dmWidgetContentBaseMediaForm.php of the component Widget Editor. Performing a manipulation results in unrestricted upload. The attack may be initiated remotely. The exploit has been released to the public and may be used for attacks. The project was informed of the problem early through an issue report but has not responded yet.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82679",
-   "cvss": 6.3,
-   "ref": "https://github.com/diem-project/diem/"
-  },
-  "title_vi": "CVE-2026-82679 — Một lỗ hổng bảo mật đã được phát hiện trong diem-project diem up to 5",
-  "key": "281deccbd40e6feb925796fa2e59861dc0e0dc94"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82680 — A weakness has been identified in D-Link DSM-G600 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82680",
-  "published": "2026-08-31T11:16:40.177",
-  "summary": "A weakness has been identified in D-Link DSM-G600 1.01. This affects an unknown function of the file /load_file.cgi of the component Multipart Handler. Executing a manipulation can lead to out-of-bounds write. The attack may be launched remotely. The exploit has been made available to the public and could be used for attacks.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82680",
-   "cvss": 8.8,
-   "ref": "https://github.com/dxz0069/WAVLINK-WN530H4-Command-Injection-in-set_add_routing/blob/main/DLINK-BOF-001-vulndb.md"
-  },
-  "title_vi": "CVE-2026-82680 — Một điểm yếu đã được xác định trong D-Link DSM-G600 1",
-  "key": "af33b8eb292c167a0fb2d02dc1fbf141ccf0e6ed"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82688 — A security vulnerability has been detected in D-Link DNS-340L and DNS-345 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82688",
-  "published": "2026-08-31T11:16:40.353",
-  "summary": "A security vulnerability has been detected in D-Link DNS-340L and DNS-345 1.01B04/1.03B06/1.04.B02/1.05b04. This impacts an unknown function of the file /cgi-bin/virtual_vol.cgi of the component Virtual Volume Handler. The manipulation of the argument f_sharename/f_target/f_name leads to os command injection. Remote exploitation of the attack is possible. The exploit has been disclosed publicly and may be used.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82688",
-   "cvss": 9.1,
-   "ref": "https://github.com/dxz0069/WAVLINK-WN530H4-Command-Injection-in-set_add_routing/blob/main/DLINK-CMD-001-vulndb.md"
-  },
-  "title_vi": "CVE-2026-82688 — Một lỗ hổng bảo mật đã được phát hiện trong D-Link DNS-340L và DNS-345 1",
-  "key": "900d194e04a8810bef27302d909c6e91d9fb513f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82876 — Phison PS3111-S11 controller firmware verifies RSA signatures using a public modulus embedded within the firmware image itself rather than anchored in",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82876",
-  "published": "2026-08-31T11:16:41.190",
-  "summary": "Phison PS3111-S11 controller firmware verifies RSA signatures using a public modulus embedded within the firmware image itself rather than anchored in immutable storage. Attackers can generate arbitrary RSA key pairs, sign modified firmware with the private key, embed the matching modulus in the signature segment, and the controller accepts the tampered firmware as valid.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82876",
-   "cvss": 8.2,
-   "ref": "https://github.com/trulycrisp/psychite"
-  },
-  "title_vi": "CVE-2026-82876 — Phison PS3111-S11 firmware điều khiển xác minh chữ ký RSA bằng cách sử dụng mô-đun công khai được nhúng trong chính hình ảnh firmware thay vì neo trong",
-  "key": "a9bbd65f3f6850ffa358ba66eb0858f90da08930"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82877 — ILIAS versions before 9",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82877",
-  "published": "2026-08-31T11:16:41.330",
-  "summary": "ILIAS versions before 9.22, 10.0 through 10.9, and 11.0 through 11.2 contain an arbitrary file read vulnerability in the SOAP addFile method that allows authenticated users to read server files by supplying crafted XML with COPY-mode imports. Attackers can construct absolute file paths through an unsandboxed import directory and retrieve sensitive files including configuration files containing database credentials and setup passwords.",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82877",
-   "cvss": 6.5,
-   "ref": "https://github.com/ILIAS-eLearning/ILIAS"
-  },
-  "title_vi": "CVE-2026-82877 — Phiên bản ILIAS trước 9",
-  "key": "c24fccb310a49c56deb33a3e4f07b35d8378dffc"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82878 — DataEase versions before 2",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82878",
-  "published": "2026-08-31T11:16:41.467",
-  "summary": "DataEase versions before 2.10.26 omit object-level authorization checks on geographic information, dashboard linkage, and chart detail REST endpoints, allowing authenticated users to access resources belonging to other users. Attackers can overwrite or delete map geometry, modify dashboard linkages, and retrieve chart metadata and configuration for resources they do not own by supplying arbitrary identifiers in requests.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82878",
-   "cvss": 6.3,
-   "ref": "https://github.com/dataease/dataease"
-  },
-  "title_vi": "CVE-2026-82878 — Phiên bản DataEase trước 2",
-  "key": "a8e6933ca5b4d9739039cfdf86995c9d928e4642"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82879 — DataEase before 2",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82879",
-  "published": "2026-08-31T11:16:41.603",
-  "summary": "DataEase before 2.10.26 contains multiple access control defects in the sharing link module. Tickets are not bound to the target share UUID, so a valid ticket issued for one share can be reused against another (ShareTicketManage.validateTicket / POST /de2api/share/proxyInfo). The POST /de2api/share/validate endpoint issues a LinkToken after password verification without requiring a ticket, bypassing the 'ticket mandatory' policy. Additionally, the ticket create and delete endpoints (POST /de2api/ticket/saveTicket, POST /de2api/ticket/delTicket) lack share-ownership checks, allowing an authenti",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82879",
-   "cvss": 6.3,
-   "ref": "https://github.com/dataease/dataease"
-  },
-  "title_vi": "CVE-2026-82879 — DataEase trước 2",
-  "key": "6d2a24633dc2876222f949aa537f168defa7dfd6"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82880 — YaCy Search Server through 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82880",
-  "published": "2026-08-31T11:16:41.793",
-  "summary": "YaCy Search Server through 1.941 contains an XML external entity injection vulnerability in SVG, FreeMind, and OpenSearch parsers that fail to disable external entity resolution. Attackers can publish malicious documents with DOCTYPE declarations containing SYSTEM entities pointing to local files, causing the crawler to exfiltrate file contents into the searchable index.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82880",
-   "cvss": 7.5,
-   "ref": "https://github.com/yacy/yacy_search_server"
-  },
-  "title_vi": "CVE-2026-82880 — YaCy Search Server thông qua 1",
-  "key": "dc7f2143ca5ccd8a149b19de775aeee504907ab8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82881 — Aix-DB through 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82881",
-  "published": "2026-08-31T11:16:43.247",
-  "summary": "Aix-DB through 1.2.4 renders markdown with raw HTML enabled into v-html bindings without sanitization, allowing stored cross-site scripting attacks. Attackers can inject malicious HTML and JavaScript through markdown content in chat responses, skill descriptions, or knowledge messages that execute in users' browsers when viewed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82881",
-   "cvss": 5.4,
-   "ref": "https://github.com/apconw/Aix-DB"
-  },
-  "title_vi": "CVE-2026-82881 — Aix-DB đến 1",
-  "key": "871f82c28b30df315987325730abdc75989a1e21"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-70449 — Improper validation of resource URL attributes in Apache Wicket allows an unauthenticated remote attacker to read files from the web application, incl",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-70449",
-  "published": "2026-08-31T12:17:56.493",
-  "summary": "Improper validation of resource URL attributes in Apache Wicket allows an unauthenticated remote attacker to read files from the web application, including files under WEB-INF that the servlet container would not otherwise serve.\n\nThe locale, style and variation attributes decoded from a package resource URL are spliced into the resource lookup path without being checked for path separators. The IPackageResourceGuard — whose rejection of .. is one of the two intended controls — is applied to the resource name before those attributes are appended, and WebApplicationPath rejects only paths liter",
-  "categories": [
-   "cloud",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-70449",
-   "cvss": null,
-   "ref": "https://lists.apache.org/thread/f4pb2q2ksdsfv1o315slp36dx66bf5vg"
-  },
-  "title_vi": "CVE-2026-70449 — Xác thực không đúng các thuộc tính URL tài nguyên trong Apache Wicket cho phép kẻ tấn công từ xa chưa được xác thực đọc các tệp từ ứng dụng web, bao gồm",
-  "key": "0331bf959df3815768574b51719d011e636a43ad"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-71257 — Apache Wicket enforces the upload limits configured on a form or upload field while parsing a multipart request with Apache Commons FileUpload",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71257",
-  "published": "2026-08-31T12:17:56.643",
-  "summary": "Apache Wicket enforces the upload limits configured on a form or upload field while parsing a multipart request with Apache Commons FileUpload. If the request body has already been consumed by another component, Commons FileUpload returns no items and Wicket falls back to reading the upload through HttpServletRequest#getParts(). The per-file size limit (for example Form#setFileMaxSize) and the file count limit (Form#setFileCountMax) are not applied to the parts obtained that way, and no exception is raised, so the upload is processed as though those limits had been satisfied. A remote uploader",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-71257",
-   "cvss": null,
-   "ref": "https://lists.apache.org/thread/o59f8jz1m09kqdwm73pyyn6hdsxt190q"
-  },
-  "title_vi": "CVE-2026-71257 - Apache Wicket thực thi các giới hạn tải lên được định cấu hình trên một biểu mẫu hoặc trường tải lên trong khi phân tích cú pháp một yêu cầu nhiều phần với Apache Commons FileUpload",
-  "key": "9084eab7e60e614e295c26ec9d83a421b0e8967c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-71378 — ResourceIsolationRequestCycleListener protects a Wicket application against cross-site request forgery by rejecting requests that a resource isolation",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71378",
-  "published": "2026-08-31T12:17:56.803",
-  "summary": "ResourceIsolationRequestCycleListener protects a Wicket application against cross-site request forgery by rejecting requests that a resource isolation policy judges to come from another origin. Its default policy, FetchMetadataResourceIsolationPolicy, was derived from a reference implementation written to guard static resources, and it inherited two allowances that are unsafe when the thing being guarded is an action on a page:\n  *  Every \"simple top-level navigation\" was allowed. Any GET request carrying Sec-Fetch-Mode: navigate whose Sec-Fetch-Dest was neither object nor embed was allowed, w",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-71378",
-   "cvss": null,
-   "ref": "https://lists.apache.org/thread/42d22kyz38td5zkqybw9fwdrvyfd5y62"
-  },
-  "title_vi": "CVE-2026-71378 — ResourceIsolationRequestCycleListener bảo vệ một ứng dụng Wicket chống lại giả mạo yêu cầu cross-site bằng cách từ chối các yêu cầu cách ly tài nguyên",
-  "key": "1bea92d1c7cc3cfd67bfa0b416b28746171cc6b4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75802 — AjaxEditableChoiceLabel in wicket-extensions, when constructed with a non-null IChoiceRenderer, writes the display value obtained from that renderer i",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75802",
-  "published": "2026-08-31T12:17:56.967",
-  "summary": "AjaxEditableChoiceLabel in wicket-extensions, when constructed with a non-null IChoiceRenderer, writes the display value obtained from that renderer into the label's markup without applying the HTML escaping Wicket performs by default for component model values. An attacker who can influence the choice or model data rendered by such a label can inject HTML or script that executes in the browser of any user who views the page. The same value is correctly escaped when the component's dropdown editor renders it as an option, so only the label rendering is affected.\n\nAjaxEditableLabel, AjaxEditabl",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75802",
-   "cvss": null,
-   "ref": "https://lists.apache.org/thread/lrmo7mddb4v4ffl36g5b9x8s40tbmw68"
-  },
-  "title_vi": "CVE-2026-75802 — AjaxEditableChoiceLabel trong phần mở rộng wicket, khi được xây dựng với IChoiceRenderer không rỗng, ghi giá trị hiển thị thu được từ trình kết xuất đó i",
-  "key": "378ad7cced62ca0456c204b90689c08c53e06cf3"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-76982 — Improper neutralization of input during web page generation in Apache Wicket",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76982",
-  "published": "2026-08-31T12:17:57.140",
-  "summary": "Improper neutralization of input during web page generation in Apache Wicket.\n\norg.apache.wicket.markup.html.form.Button clears the escape-model-strings flag in its constructor, so that the value attribute it writes is not encoded twice — ComponentTag already encodes attribute values when it writes the tag. That reasoning holds only for the attribute. When the component is attached to a <button> element rather than an <input>, it writes its model object into the element body instead, and nothing encodes an element body, so markup in the model is rendered as markup.\n\nAn application is affected ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-76982",
-   "cvss": null,
-   "ref": "https://lists.apache.org/thread/bhcfrz61o4bv0olktybvgqft8km9wfrd"
-  },
-  "title_vi": "CVE-2026-76982 — Trung hòa đầu vào không đúng cách trong quá trình tạo trang web trong Apache Wicket",
-  "key": "dd5cf10416c55c89ec08f9173926e86c3036da8a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-76983 — Improper neutralization of input during web page generation in Apache Wicket",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76983",
-  "published": "2026-08-31T12:17:57.297",
-  "summary": "Improper neutralization of input during web page generation in Apache Wicket.\n\nThe <wicket:label> tag is provided by org.apache.wicket.markup.html.form.AutoLabelTextResolver, which is registered by default in every WebApplication. The resolver writes the label it finds into the markup as it is, and reads no escaping setting at all, so markup in a label is rendered as markup.\n\nWhen the label comes from the labelled component's label model, set through FormComponent#setLabel(IModel), it is written to the markup unescaped. An application is affected where the label of a form component holds data ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-76983",
-   "cvss": null,
-   "ref": "https://lists.apache.org/thread/lfc9s9qkgxhm8ffscp9b7gjfgj47g25h"
-  },
-  "title_vi": "CVE-2026-76983 — Trung hòa đầu vào không đúng cách trong quá trình tạo trang web trong Apache Wicket",
-  "key": "85873a64f2586b8389db6b87e6e8cd7d4b67f37c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-76984 — Improper neutralization of input during web page generation in Apache Wicket",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76984",
-  "published": "2026-08-31T12:17:57.440",
-  "summary": "Improper neutralization of input during web page generation in Apache Wicket.\n\norg.apache.wicket.markup.head.MetaDataHeaderItem generates <meta> and <link> header tags. It escaped the attribute names it wrote, but ran the attribute values through a replacement of \" with \\\". A backslash before a double quote means nothing in HTML, so a value containing a double quote ends its own attribute and what follows is parsed as further attributes of the generated tag.\n\nAn application is affected where it supplies an attribute value holding data an attacker can influence, through addTagAttribute or the f",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-76984",
-   "cvss": null,
-   "ref": "https://lists.apache.org/thread/jt8yxntfjcxnnntth1qjtdo19gzx5n6v"
-  },
-  "title_vi": "CVE-2026-76984 — Trung hòa đầu vào không đúng cách trong quá trình tạo trang web trong Apache Wicket",
-  "key": "5fe2f030be5486bfe20cc41903c96b63d4b2bb69"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82689 — A vulnerability was detected in D-Link DNS-320L, DNS-327L, DNS-340L and DNS-345 up to 20260717",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82689",
-  "published": "2026-08-31T12:17:57.763",
-  "summary": "A vulnerability was detected in D-Link DNS-320L, DNS-327L, DNS-340L and DNS-345 up to 20260717. Affected is an unknown function of the file /cgi-bin/isomount_mgr.cgi of the component ISO Image Handler. The manipulation of the argument upIsoRootPath results in os command injection. The attack can be executed remotely. The exploit is now public and may be used.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82689",
-   "cvss": 9.9,
-   "ref": "https://github.com/dxz0069/WAVLINK-WN530H4-Command-Injection-in-set_add_routing/blob/main/DLINK-CMD-003-vulndb.md"
-  },
-  "title_vi": "CVE-2026-82689 — Một lỗ hổng đã được phát hiện trong D-Link DNS-320L, DNS-327L, DNS-340L và DNS-345 lên đến 20260717",
-  "key": "d10e4475ac39c90a4628f688fd5690727724e1c0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82690 — A flaw has been found in D-Link DNS-327L and DNS-340L up to 20260717",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82690",
-  "published": "2026-08-31T12:17:57.977",
-  "summary": "A flaw has been found in D-Link DNS-327L and DNS-340L up to 20260717. Affected by this vulnerability is an unknown functionality of the file /cgi-bin/ve_mgr.cgi. This manipulation of the argument f_dev causes os command injection. The attack is possible to be carried out remotely. The exploit has been published and may be used.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82690",
-   "cvss": 9.1,
-   "ref": "https://github.com/dxz0069/WAVLINK-WN530H4-Command-Injection-in-set_add_routing/blob/main/DLINK-CMD-004-vulndb.md"
-  },
-  "title_vi": "CVE-2026-82690 — Một lỗ hổng đã được tìm thấy trong D-Link DNS-327L và DNS-340L lên đến 20260717",
-  "key": "15d9947935730079c32e3fb56bdbd94a507452f2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82691 — A vulnerability has been found in D-Link DNS-320L, DNS-327L, DNS-340L and DNS-345 up to 20260717",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82691",
-  "published": "2026-08-31T12:17:58.163",
-  "summary": "A vulnerability has been found in D-Link DNS-320L, DNS-327L, DNS-340L and DNS-345 up to 20260717. Affected by this issue is some unknown functionality of the file /cgi-bin/usb_device.cgi of the component CGI Handler. Such manipulation of the argument f_ups_ip leads to os command injection. The attack may be performed from remote. The exploit has been disclosed to the public and may be used.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82691",
-   "cvss": 9.1,
-   "ref": "https://github.com/dxz0069/WAVLINK-WN530H4-Command-Injection-in-set_add_routing/blob/main/DLINK-CMD-005-vulndb.md"
-  },
-  "title_vi": "CVE-2026-82691 — Một lỗ hổng đã được tìm thấy trong D-Link DNS-320L, DNS-327L, DNS-340L và DNS-345 lên đến 20260717",
-  "key": "63908d8b381e1d242b4ef04607b68b9fe84ae85f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82797 — Uncontrolled Recursion vulnerability in Samsung Open Source rlottie allows Serialized Data with Nested Payloads",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82797",
-  "published": "2026-08-31T12:17:58.350",
-  "summary": "Uncontrolled Recursion vulnerability in Samsung Open Source rlottie allows Serialized Data with Nested Payloads.\n\nThis issue affects rlottie: before 8de0d9e6ca80ffef654965505981727b9fa06a51.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82797",
-   "cvss": 5.5,
-   "ref": "https://github.com/Samsung/rlottie/pull/603"
-  },
-  "title_vi": "CVE-2026-82797 - Lỗ hổng đệ quy không được kiểm soát trong rlottie nguồn mở Samsung cho phép dữ liệu tuần tự hóa với tải trọng lồng nhau",
-  "key": "2fc74bc4606cdd1392d32cfa2973e9256939e34a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-12894 — A flaw was found in the Qute template engine, which is used by Quarkus to generate dynamic content like HTML pages or emails",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-12894",
-  "published": "2026-08-31T13:17:20.753",
-  "summary": "A flaw was found in the Qute template engine, which is used by Quarkus to generate dynamic content like HTML pages or emails. The issue exists in the component responsible for looking up data values (ReflectionValueResolver), which fails to properly block access to sensitive Java internal functions when processing certain data types like Enums. An attacker who can provide or influence the template text can exploit this bypass to take control of the server by executing unauthorized commands.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-12894",
-   "cvss": 8.8,
-   "ref": "https://access.redhat.com/security/cve/CVE-2026-12894"
-  },
-  "title_vi": "CVE-2026-12894 — Một lỗ hổng đã được tìm thấy trong công cụ mẫu Qute, được Quarkus sử dụng để tạo nội dung động như các trang HTML hoặc email",
-  "key": "8b3c30876a575b8a721b0636c4efa7723b0db972"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51666 — Incorrect access control in the setWizardCfg function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51666",
-  "published": "2026-08-31T13:18:21.807",
-  "summary": "Incorrect access control in the setWizardCfg function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to reconfigure WAN, Wi-Fi, and device initialization state via sending a crafted POST request to /cgi-bin/cstecgi.cgi.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51666",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "CVE-2026-51666 — Kiểm soát truy cập không chính xác trong hàm setWizardCfg của TOTOLINK T6 4",
-  "key": "925a2cb7b562bfab23634448efe81a3c8e5db74d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51667 — Incorrect access control in the getWiFiIpMacTable function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51667",
-  "published": "2026-08-31T13:18:21.970",
-  "summary": "Incorrect access control in the getWiFiIpMacTable function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to obtain Wi-Fi client MAC-to-IP mappings via sending a crafted POST request to /cgi-bin/cstecgi.cgi.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51667",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "CVE-2026-51667 — Kiểm soát truy cập không chính xác trong chức năng getWiFiIpMacTable của TOTOLINK T6 4",
-  "key": "b72432f7f4cc99b80296ed96ecef7936d19b9dd9"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-5956 — Improper neutralization of special elements used in an SQL command ('SQL injection') vulnerability in Ankara Hosting Site Management Panel allows SQL ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-5956",
-  "published": "2026-08-31T13:18:22.740",
-  "summary": "Improper neutralization of special elements used in an SQL command ('SQL injection') vulnerability in Ankara Hosting Site Management Panel allows SQL Injection.\n\nThis issue affects Site Management Panel: through 15062026.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-5956",
-   "cvss": 8.8,
-   "ref": "https://siberguvenlik.gov.tr/guvenlik-bildirimleri/detay/tr-26-0955"
-  },
-  "title_vi": "CVE-2026-5956 — Trung hòa không đúng cách các yếu tố đặc biệt được sử dụng trong một lệnh SQL ('SQL injection') lỗ hổng trong Ankara Hosting Site Management Panel cho phép SQL",
-  "key": "11a898249b5569b5a5679dd14d187cdd8c954bd2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-74010 — Missing Authorization vulnerability in John James Jacoby bbPress allows Exploiting Incorrectly Configured Access Control Security Levels",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-74010",
-  "published": "2026-08-31T13:18:25.243",
-  "summary": "Missing Authorization vulnerability in John James Jacoby bbPress allows Exploiting Incorrectly Configured Access Control Security Levels.\n\nThis issue affects bbPress: from n/a through 2.6.14.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-74010",
-   "cvss": 5.3,
-   "ref": "https://patchstack.com/database/wordpress/plugin/bbpress/vulnerability/wordpress-bbpress-plugin-2-6-14-broken-access-control-vulnerability?_s_id=cve"
-  },
-  "title_vi": "CVE-2026-74010 - Thiếu lỗ hổng ủy quyền trong John James Jacoby bbPress cho phép khai thác các cấp độ bảo mật kiểm soát truy cập được cấu hình không chính xác",
-  "key": "16448ed942b6d37a7c301b1ca734fe81dc055e34"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82692 — A vulnerability was found in D-Link DNS-340L and DNS-345 up to 20260717",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82692",
-  "published": "2026-08-31T13:18:29.387",
-  "summary": "A vulnerability was found in D-Link DNS-340L and DNS-345 up to 20260717. This affects an unknown part of the file /cgi-bin/iscsi_mgr.cgi. Performing a manipulation of the argument alias/username/password/volume_location results in os command injection. It is possible to initiate the attack remotely. The exploit has been made public and could be used.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82692",
-   "cvss": 9.9,
-   "ref": "https://github.com/dxz0069/WAVLINK-WN530H4-Command-Injection-in-set_add_routing/blob/main/DLINK-CMD-006-vulndb.md"
-  },
-  "title_vi": "CVE-2026-82692 — Một lỗ hổng đã được tìm thấy trong D-Link DNS-340L và DNS-345 lên đến 20260717",
-  "key": "db3a0c7f815d204f14b44063e45ebd8d656d4188"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82693 — A vulnerability was determined in Tenda AC1206 15",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82693",
-  "published": "2026-08-31T13:18:29.580",
-  "summary": "A vulnerability was determined in Tenda AC1206 15.03.06.23. This vulnerability affects the function TendaTelnet of the file /goform/telnet of the component Web UI. Executing a manipulation can lead to missing authentication. It is possible to launch the attack remotely. The exploit has been publicly disclosed and may be utilized.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82693",
-   "cvss": 10.0,
-   "ref": "https://github.com/dxz0069/WAVLINK-WN530H4-Command-Injection-in-set_add_routing/blob/main/TENDA-AC1206-TELNET-DEFAULT-UNAUTH-001-vulndb.md"
-  },
-  "title_vi": "CVE-2026-82693 — Một lỗ hổng đã được xác định trong Tenda AC1206 15",
-  "key": "cb67c54bedaf32ae52a955b94c1f048dbd80c9b0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82694 — A vulnerability was identified in Tenda AC1206 15",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82694",
-  "published": "2026-08-31T13:18:29.773",
-  "summary": "A vulnerability was identified in Tenda AC1206 15.03.06.23. This issue affects the function R7WebsSecurityHandler of the file /goform/ate of the component Web UI. The manipulation leads to missing authentication. The attack can be initiated remotely. The exploit is publicly available and might be used.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82694",
-   "cvss": 10.0,
-   "ref": "https://github.com/dxz0069/WAVLINK-WN530H4-Command-Injection-in-set_add_routing/blob/main/TENDA-AC1206-ATE-DEFAULT-UNAUTH-002-vulndb.md"
-  },
-  "title_vi": "CVE-2026-82694 — Một lỗ hổng đã được xác định trong Tenda AC1206 15",
-  "key": "60ee7adfda4bc9710bd7f0b810329bb0b2641423"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82695 — A security flaw has been discovered in Tenda AC18 15",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82695",
-  "published": "2026-08-31T13:18:29.953",
-  "summary": "A security flaw has been discovered in Tenda AC18 15.03.05.19. Impacted is an unknown function of the file /goform/telnet of the component Telnet Handler. The manipulation results in missing authentication. The attack can be launched remotely. The exploit has been released to the public and may be used for attacks.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82695",
-   "cvss": 10.0,
-   "ref": "https://github.com/dxz0069/WAVLINK-WN530H4-Command-Injection-in-set_add_routing/blob/main/TENDA-AC18-TELNET-DEFAULT-UNAUTH-001-vulndb.md"
-  },
-  "title_vi": "CVE-2026-82695 — Một lỗ hổng bảo mật đã được phát hiện trong Tenda AC18 15",
-  "key": "2b51218c32ce6b5920597c92d937f140dcaafd91"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82696 — A weakness has been identified in itsourcecode Sales and Inventory System 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82696",
-  "published": "2026-08-31T13:18:30.140",
-  "summary": "A weakness has been identified in itsourcecode Sales and Inventory System 1.0. The affected element is an unknown function of the file /pages/inv_searchfrm.php. This manipulation of the argument ID causes sql injection. The attack may be initiated remotely. The exploit has been made available to the public and could be used for attacks.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82696",
-   "cvss": 6.3,
-   "ref": "https://github.com/ltranquility/submit_repository/issues/2"
-  },
-  "title_vi": "CVE-2026-82696 — Một điểm yếu đã được xác định trong Hệ thống bán hàng và kiểm kê mã nguồn 1",
-  "key": "1bdf9ed26ae58a591a2ddbfc9436977e19149353"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-19616 — Missing Authorization vulnerability in TBC Technology Inc",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19616",
-  "published": "2026-08-31T14:17:13.857",
-  "summary": "Missing Authorization vulnerability in TBC Technology Inc. KitLogistic allows Accessing Functionality Not Properly Constrained by ACLs.\n\nThis issue affects KitLogistic: before v2.2.2.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-19616",
-   "cvss": 7.5,
-   "ref": "https://siberguvenlik.gov.tr/guvenlik-bildirimleri/detay/tr-26-0957"
-  },
-  "title_vi": "CVE-2026-19616 — Thiếu lỗ hổng Ủy quyền trong TBC Technology Inc",
-  "key": "723822a29aca64802e2226f7d5b6ef4d9cb8ac49"
  }
 ]
