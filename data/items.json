@@ -1,5 +1,325 @@
 [
  {
+  "source": "DataBreaches.net",
+  "title": "French Police Arrest Suspected ZeroBytes Hacker Over Tax Data Theft",
+  "link": "https://databreaches.net/2026/09/05/french-police-arrest-suspected-zerobytes-hacker-over-tax-data-theft/",
+  "published": "2026-09-05T18:10:06+00:00",
+  "summary": "Waqas reports: French authorities have detained an 18-year-old man suspected of belonging to ZeroBytes, a hacking group that claimed responsibility for several attacks targeting French government services and companies. The Paris prosecutor’s office disclosed the case on September 4, according to reports from French media. However, the suspect was arrested on August 18, formally placed... Source",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Cảnh sát Pháp bắt giữ hacker ZeroBytes bị nghi ngờ đánh cắp dữ liệu thuế",
+  "key": "4b77c3f2db9a2388d482bcf6aa39ed05809ea314"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
+  "link": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
+  "published": "2026-09-05T20:14:47+00:00",
+  "summary": "Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce security company Sansec said in an&nbsp;advisory published on September 5. Sansec, which discovered the flaw and named it StyleSmuggler, said attacks started on September 4. \"Sansec is publishing early",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Magento chưa được vá và Adobe Commerce Zero-Day bị khai thác trên các cửa hàng trực tuyến có cửa hậu",
+  "key": "121cc8198756949dea6b11de329d9f37d17547f6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82752 — Improper Validation of Specified Quantity in Input vulnerability in ash-project ash allows an attacker to store a value of arbitrary size in an attrib",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82752",
+  "published": "2026-09-05T18:17:29.170",
+  "summary": "Improper Validation of Specified Quantity in Input vulnerability in ash-project ash allows an attacker to store a value of arbitrary size in an attribute whose length constraint should bound it.\n\nAsh measures string length with Elixir's String.length/1, which counts Unicode graphemes, in the max_length and min_length constraints of Ash.Type.String (apply_constraints/2 in lib/ash/type/string.ex), in Ash.Resource.Validation.StringLength, and in the string_length expression function. A grapheme carries an unbounded number of combining marks, so a base character followed by a million combining acu",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82752",
+   "cvss": null,
+   "ref": "https://cna.erlef.org/cves/CVE-2026-82752.html"
+  },
+  "title_vi": "CVE-2026-82752 — Xác thực không đúng số lượng được chỉ định trong lỗ hổng đầu vào trong tro dự án tro cho phép kẻ tấn công lưu trữ một giá trị có kích thước tùy ý trong attrib",
+  "key": "2447fc33226ed6ee20e03f2919e243fc76289c55"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-0799 — In BPF instructions that load/store a value from/to a scratch memory register the register index is an unsigned 32-bit integer and must not exceed 15,",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-0799",
+  "published": "2026-09-05T19:16:55.320",
+  "summary": "In BPF instructions that load/store a value from/to a scratch memory register the register index is an unsigned 32-bit integer and must not exceed 15, but libpcap BPF interpreter does not validate the value.  In particular uncommon use cases a crafted filter program can cause the interpreter to try reading and writing the OS process memory in the 16GiB starting at the current stack frame on 64-bit architectures and in the entire address space on 32-bit architectures.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-0799",
+   "cvss": 8.7,
+   "ref": "https://github.com/the-tcpdump-group/libpcap/commit/48e8960a7108e9e828f9d7bdc7e97bdab841aec7"
+  },
+  "title_vi": "CVE-2026-0799 — Trong các lệnh BPF tải/lưu trữ một giá trị từ/đến thanh ghi bộ nhớ đầu, chỉ mục thanh ghi là số nguyên 32 bit không dấu và không được vượt quá 15,",
+  "key": "6e45f84f92229ec75b6797f89b5fd65095115dc5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18238 — The rpcap client code that processes a RPCAP_MSG_PACKET message received from the server incorrectly validates its headers",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18238",
+  "published": "2026-09-05T19:16:55.477",
+  "summary": "The rpcap client code that processes a RPCAP_MSG_PACKET message received from the server incorrectly validates its headers.  A malicious server can send a crafted message and cause the client to treat up to 20 bytes of the client process memory beyond the end of the buffer as if it was a part of the captured packet.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18238",
+   "cvss": 5.0,
+   "ref": "https://github.com/the-tcpdump-group/libpcap/commit/b9590d482986d64673712460aae1d48d11fa0473"
+  },
+  "title_vi": "CVE-2026-18238 — Mã máy khách rpcap xử lý tin nhắn RPCAP_MSG_PACKET nhận được từ máy chủ xác thực tiêu đề của nó không chính xác",
+  "key": "b8a7be435b9c1f3641e9ee2b035175bf75320104"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18313 — rpcapd can allocate up to 65536 bytes per each RPCAP_MSG_UPDATEFILTER_REQ or RPCAP_MSG_STARTCAP_REQ message received from the client, but it never fre",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18313",
+  "published": "2026-09-05T19:16:55.590",
+  "summary": "rpcapd can allocate up to 65536 bytes per each RPCAP_MSG_UPDATEFILTER_REQ or RPCAP_MSG_STARTCAP_REQ message received from the client, but it never frees the memory, so it leaks memory even under normal use.  A malicious client can cause the server to leak memory substantially faster.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18313",
+   "cvss": 4.3,
+   "ref": "https://github.com/the-tcpdump-group/libpcap/commit/f9775af1a0ec76db60c7213241e6b48f1be10ac7"
+  },
+  "title_vi": "CVE-2026-18313 — rpcapd có thể phân bổ tối đa 65536 byte cho mỗi tin nhắn RPCAP_MSG_UPDATEFILTER_REQ hoặc RPCAP_MSG_STARTCAP_REQ nhận được từ máy khách, nhưng nó không bao giờ phổ biến",
+  "key": "72b50f9d43cfae48c8f64bcc55125beae5afa6f8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-31911 — libpcap BPF interpreter calls abort() if it encounters a BPF instruction that has an invalid opcode",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-31911",
+  "published": "2026-09-05T19:16:55.707",
+  "summary": "libpcap BPF interpreter calls abort() if it encounters a BPF instruction that has an invalid opcode.  In particular uncommon use cases a crafted filter program can terminate the OS process.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-31911",
+   "cvss": 5.5,
+   "ref": "https://github.com/the-tcpdump-group/libpcap/commit/a715bcdde830299cba4171514385cb17ec19b6e9"
+  },
+  "title_vi": "CVE-2026-31911 - trình thông dịch libpcap BPF gọi abort() nếu nó gặp lệnh BPF có mã opcode không hợp lệ",
+  "key": "27d3076da4aa3bf37e566448cc85c46ca63e69d8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-31912 — libpcap BPF interpreter detects neither reaching the end of the filter program buffer due to lack of a return instruction nor executing a jump instruc",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-31912",
+  "published": "2026-09-05T19:16:55.823",
+  "summary": "libpcap BPF interpreter detects neither reaching the end of the filter program buffer due to lack of a return instruction nor executing a jump instruction with an offset that translates to a pointer outside of the buffer.  In particular uncommon use cases a crafted filter program can cause the interpreter to try reading the OS process memory in the 32GiB around the buffer on 64-bit architectures and in the entire address space on 32-bit architectures.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-31912",
+   "cvss": 5.5,
+   "ref": "https://github.com/the-tcpdump-group/libpcap/commit/d3f358d3cffbe1ecb94d5284b3e81f052a0adcb9"
+  },
+  "title_vi": "CVE-2026-31912 — trình thông dịch libpcap BPF phát hiện không đạt đến cuối bộ đệm chương trình lọc do thiếu lệnh quay lại cũng như không thực hiện lệnh nhảy",
+  "key": "f08dc2e0bb0fea55a747d8ad293ad953423e9b7d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-6244 — libpcap BPF interpreter for the 'div #k' and 'mod #k' ALU instructions does not check whether the immediate value is zero",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-6244",
+  "published": "2026-09-05T19:16:55.950",
+  "summary": "libpcap BPF interpreter for the 'div #k' and 'mod #k' ALU instructions does not check whether the immediate value is zero.  In particular uncommon use cases a crafted filter program can cause a division by zero.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-6244",
+   "cvss": 5.5,
+   "ref": "https://github.com/the-tcpdump-group/libpcap/commit/98bb921b141aa642faedbf2ac510541c76499a19"
+  },
+  "title_vi": "CVE-2026-6244 — trình thông dịch libpcap BPF cho lệnh ALU 'div #k' và 'mod #k' không kiểm tra xem giá trị tức thời có bằng 0 hay không",
+  "key": "7d5ccec2199a05e5dd130071c1413a711184e790"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-6554 — libpcap BPF interpreter treats the offset in the 'ja L' BPF instruction as a signed integer to implement looping via backward jumps, but it does not l",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-6554",
+  "published": "2026-09-05T19:16:56.067",
+  "summary": "libpcap BPF interpreter treats the offset in the 'ja L' BPF instruction as a signed integer to implement looping via backward jumps, but it does not limit the number of loop iterations.  In particular uncommon use cases a crafted filter program can cause the interpreter to loop infinitely.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-6554",
+   "cvss": 5.5,
+   "ref": "https://github.com/the-tcpdump-group/libpcap/commit/ff3c83475ac303c6b681c52ad0b6e14795a8e0ce"
+  },
+  "title_vi": "CVE-2026-6554 — trình thông dịch libpcap BPF xử lý phần bù trong lệnh 'ja L' BPF như một số nguyên có dấu để thực hiện vòng lặp thông qua các bước nhảy lùi, nhưng không phải như vậy",
+  "key": "4b6837ff15d3db7321b9178f7f4f4f61581cc175"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86207 — An authentication bypass in N-central < 2026",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86207",
+  "published": "2026-09-05T19:16:56.190",
+  "summary": "An authentication bypass in N-central < 2026.3 HF 3 leads to authentication bypass in internal only APIs",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86207",
+   "cvss": null,
+   "ref": "https://documentation.n-able.com/N-central/Release_Notes/GA/Content/N-central_2026.3_HF3_Release_Notes.htm"
+  },
+  "title_vi": "CVE-2026-86207 — Bỏ qua xác thực ở trung tâm N < 2026",
+  "key": "86fe63c3bf0ad73a664ac7a642c24876c66ce25f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-67276 — RouterOS does not compare the complete RSA public key when matching an SSH authentication request to an authorized user key, checking the key type and",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-67276",
+  "published": "2026-09-05T20:17:17.977",
+  "summary": "RouterOS does not compare the complete RSA public key when matching an SSH authentication request to an authorized user key, checking the key type and modulus but omitting the exponent. Because signature verification uses the client-supplied key, an attacker knowing an authorized RSA modulus can supply a key with exponent one, forge a valid signature, and open an SSH command channel as the target user without the private key.This issue was fixed in versions: 6.49.21 (Long-term), 7.23.4 (Long-term) and 7.24.2 (Stable)",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-67276",
+   "cvss": null,
+   "ref": "https://cert.pl/en/posts/2026/09/mikrotik-routeros-cve"
+  },
+  "title_vi": "CVE-2026-67276 — RouterOS không so sánh khóa chung RSA hoàn chỉnh khi khớp yêu cầu xác thực SSH với khóa người dùng được ủy quyền, kiểm tra loại khóa và",
+  "key": "d1dc91d2c03563f151e7fdae2baf3436f17c340f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-67277 — RouterOS accepts a \"related\" btest connection before the corresponding primary session has completed authentication",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-67277",
+  "published": "2026-09-05T20:17:18.120",
+  "summary": "RouterOS accepts a \"related\" btest connection before the corresponding primary session has completed authentication. An unauthenticated client can use this state to start an IPv4 UDP test. With \"random-data=false\", the sender transmits an uninitialized tail from a kernel packet buffer. A separate unchecked, inverted packet-size interval causes unsigned integer underflow, anomalously large fragmented output, and can restart the RouterOS kernel.\n\n\n\nThis issue was fixed in versions: 6.49.21 (Long-term), 7.23.4 (Long-term) and 7.24.2 (Stable)",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-67277",
+   "cvss": null,
+   "ref": "https://cert.pl/en/posts/2026/09/mikrotik-routeros-cve"
+  },
+  "title_vi": "CVE-2026-67277 — RouterOS chấp nhận kết nối btest \"có liên quan\" trước khi phiên chính tương ứng hoàn tất xác thực",
+  "key": "e3c2e2a40d75d84baea8695e13e1a802dc9657f6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-67278 — MikroTik RouterOS accepts malformed RSA/PKCS#1 v1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-67278",
+  "published": "2026-09-05T20:17:18.257",
+  "summary": "MikroTik RouterOS accepts malformed RSA/PKCS#1 v1.5 signatures during X.509 validation. Because its trust store includes an e=3 root CA, an attacker controlling or redirecting an outbound RouterOS TLS connection can use the root’s public certificate - without its private key - to forge a trusted intermediate and issue certificates for arbitrary hostnames, enabling TLS server impersonation.\n\nThis issue was fixed in versions: 6.49.21 (Long-term), 7.23.4 (Long-term) and 7.24.2 (Stable)",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-67278",
+   "cvss": null,
+   "ref": "https://cert.pl/en/posts/2026/09/mikrotik-routeros-cve"
+  },
+  "title_vi": "CVE-2026-67278 — MikroTik RouterOS chấp nhận RSA/PKCS#1 v1 không đúng định dạng",
+  "key": "9ed71465872e5da60ac27715e3483da92cfe6d69"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-67279 — RouterOS SSH enters the connection protocol after a client-requested rekey even though user authentication was never attempted, allowing an unauthenti",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-67279",
+  "published": "2026-09-05T20:17:18.390",
+  "summary": "RouterOS SSH enters the connection protocol after a client-requested rekey even though user authentication was never attempted, allowing an unauthenticated client to open a session channel and send an exec request. On affected builds the server dispatches the command, enabling unauthenticated creation, overwrite, and reconstruction of files in the RouterOS managed file namespace, including support files containing configuration and diagnostic data.This issue was fixed in versions: 6.49.21 (Long-term), 7.23.4 (Long-term) and 7.24.2 (Stable)",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-67279",
+   "cvss": null,
+   "ref": "https://cert.pl/en/posts/2026/09/mikrotik-routeros-cve"
+  },
+  "title_vi": "CVE-2026-67279 — RouterOS SSH truy cập giao thức kết nối sau khi khách hàng yêu cầu khóa lại ngay cả khi chưa bao giờ thử xác thực người dùng, cho phép xác thực không xác thực.",
+  "key": "33834d10ca8c1486cae50a65fad0140b87d7c152"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-67281 — RouterOS WebFig contains an unauthenticated file-read vulnerability in the /jsproxy path where a newly allocated session retains a stale uninitialized",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-67281",
+  "published": "2026-09-05T20:17:18.547",
+  "summary": "RouterOS WebFig contains an unauthenticated file-read vulnerability in the /jsproxy path where a newly allocated session retains a stale uninitialized principal pointer used for file authorization. An unauthenticated attacker can prepare the allocator so that the file-serving path dereferences this pointer with sufficient rights, then supply parent-directory components in an encrypted URI to escape the WebFig file namespace and disclose root-owned files, including configuration stores containing credentials.This issue was fixed in versions: 6.49.21 (Long-term), 7.23.4 (Long-term) and 7.24.2 (S",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-67281",
+   "cvss": null,
+   "ref": "https://cert.pl/en/posts/2026/09/mikrotik-routeros-cve"
+  },
+  "title_vi": "CVE-2026-67281 — RouterOS WebFig chứa lỗ hổng đọc tệp không được xác thực trong đường dẫn /jsproxy nơi phiên mới được phân bổ vẫn giữ phiên bản cũ chưa được khởi tạo",
+  "key": "483c528804ebc6434d88582d8c3ec26f874c0aff"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86060 — RouterOS contains an argument-handling flaw in the SSH login path involving usernames that begin with a prohibited character, allowing for the trusted",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86060",
+  "published": "2026-09-05T20:17:18.703",
+  "summary": "RouterOS contains an argument-handling flaw in the SSH login\npath involving usernames that begin with a prohibited character, allowing for the trusted RouterOS policy mask to be changed, leading to privilege escalation. Exploitation requires an unauthenticated SSH session to reach the RouterOS login helper.This issue was fixed in versions: 6.49.21 (Long-term), 7.23.4 (Long-term) and 7.24.2 (Stable)",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86060",
+   "cvss": null,
+   "ref": "https://cert.pl/en/posts/2026/09/mikrotik-routeros-cve"
+  },
+  "title_vi": "CVE-2026-86060 — RouterOS chứa lỗ hổng xử lý đối số trong đường dẫn đăng nhập SSH liên quan đến tên người dùng bắt đầu bằng ký tự bị cấm, cho phép người dùng đáng tin cậy",
+  "key": "a60aeb669642529c12927c43066062fe75286bb3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86206 — A vulnerability in the N-central internal API access control filter allows unauthorised access to internal APIs",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86206",
+  "published": "2026-09-05T20:17:18.833",
+  "summary": "A vulnerability in the N-central internal API access control filter allows unauthorised access to internal APIs. This is fixed in N-central 2026.3 HF3 and 2026.4",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86206",
+   "cvss": null,
+   "ref": "https://documentation.n-able.com/N-central/Release_Notes/GA/Content/N-central_2026.3_HF3_Release_Notes.htm"
+  },
+  "title_vi": "CVE-2026-86206 — Một lỗ hổng trong bộ lọc kiểm soát truy cập API nội bộ trung tâm N cho phép truy cập trái phép vào các API nội bộ",
+  "key": "dd9bc2efbe040fa23f6ea0603fae9ab54141dfbf"
+ },
+ {
   "source": "VietnamPlus Kinh tế số",
   "title": "Quân đội Mỹ tuyên bố đã phá hủy 3 tàu chở dầu của Iran ở Vịnh Oman",
   "link": "https://www.vietnamplus.vn/quan-doi-my-tuyen-bo-da-pha-huy-3-tau-cho-dau-cua-iran-o-vinh-oman-post1134464.vnp",
@@ -4237,7 +4557,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Sử dụng VM để chứa tác nhân AI",
   "key": "3ae79bc451b166071d225e70349f404899bb01ac"
  },
  {
@@ -4391,7 +4711,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Trong các tin tức khác: Bản vá đám mây của Microsoft, Tài khoản Dropbox bị hack, Định giá 1,1 tỷ USD của Guardio",
   "key": "4d7dc464e0707839072fbe25d2cffe8cd4f3f3cb"
  },
  {
@@ -7149,7 +7469,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0a9750263ffacbbd2048a391fd4bd22e2146c57d"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80862 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: nvme-tcp: sửa lỗi sử dụng page_frag_cache nvme sử dụng page_frag_cache để phân bổ trước PD",
   "key": "9bec118d0df7a12918b517e38b5170c78dba9063"
  },
  {
@@ -7167,7 +7487,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/142c8165b7974b40fa62c393653edb5c00b8b5fe"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80863 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: RDMA/rxe: Sửa OOB trong free_rd_atomic_resources() free_rd_atomic_resources() iterate",
   "key": "33c21a624beb1cef8b116280ffdd7ad92deef8d2"
  },
  {
@@ -7185,7 +7505,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0136b528b753c5a56e4d997ef20b86bb6750b8fb"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80864 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: RDMA/rxe: Sửa lỗi phản hồi UAF trên IB_QP_MAX_DEST_RD_ATOMIC Modify_qp rxe_qp_from_attr",
   "key": "12f7d823e31fdd30447f849a47f8b276ba8ae31e"
  },
  {
@@ -7203,7 +7523,7 @@
    "cvss": null,
    "ref": "https://github.com/Roskus/prospero-flow-crm/commit/a90c0c8c"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82911 — Giả mạo yêu cầu chéo trang web (CSRF) trong OrderConfirmController tại GET /order/confirm/{order_number} trong Roskus Prospero Flow CRM trước 5",
   "key": "c5a06bea2b383735c9701fe52a4d5b5536d309eb"
  },
  {
@@ -7221,7 +7541,7 @@
    "cvss": null,
    "ref": "https://github.com/squirrelchat/smol-toml/commit/30f5c367d946b695f379b5d4f0946b2f0a0a8c2f"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-85730 — smol-toml là trình tuần tự hóa và phân tích cú pháp TOML nhỏ, nhanh và chính xác",
   "key": "99aaad8699dc90c8e7901ea6330f94eb0e2d96f3"
  },
  {
@@ -7239,7 +7559,7 @@
    "cvss": null,
    "ref": "https://www.ibm.com/support/pages/node/7286188"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-13297 — IBM Verify Identity Access Advanced Access Control có thể dễ bị tấn công tiết lộ thông tin",
   "key": "fda6096797a1e65688963fd0883873385f4f2248"
  },
  {
@@ -7257,7 +7577,7 @@
    "cvss": 5.3,
    "ref": "https://www.ibm.com/support/pages/node/7286036"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-14350 — IBM Cloud Pak cho Hệ thống dữ liệu 11",
   "key": "1f1471996bc8bf0cc0a89f70ed9ed3412975b76b"
  },
  {
@@ -7293,7 +7613,7 @@
    "cvss": 5.7,
    "ref": "https://www.ibm.com/support/pages/node/7286372"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-16180 — Doanh nghiệp kết nối ứng dụng IBM 13",
   "key": "7807d0fdd1449eb8d93874ab05febdf390ab2322"
  },
  {
@@ -7330,7 +7650,7 @@
    "cvss": 6.2,
    "ref": "https://www.ibm.com/support/pages/node/7286372"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-16689 — IBM App Connect Enterprise 13",
   "key": "a35205549b7bd639571f68458c329873bebb6c19"
  },
  {
@@ -7348,7 +7668,7 @@
    "cvss": 4.4,
    "ref": "https://www.ibm.com/support/pages/node/7285846"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-16693 — IBM i 7",
   "key": "407b7469d73dfc742924eca94274ca40176be185"
  },
  {
@@ -7366,7 +7686,7 @@
    "cvss": 5.3,
    "ref": "https://www.ibm.com/support/pages/node/7285844"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-16826 — IBM i 7",
   "key": "d30aa29a7e43b6d9056f60d71215bf95b6fdb39a"
  },
  {
@@ -7384,7 +7704,7 @@
    "cvss": 5.4,
    "ref": "https://www.ibm.com/support/pages/node/7285843"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-16892 — IBM i 7",
   "key": "dfc79c0ef2aae1e3b560033e63f35ab3072a8f8a"
  },
  {
@@ -7402,7 +7722,7 @@
    "cvss": 4.3,
    "ref": "https://www.ibm.com/support/pages/node/7285848"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-16941 — IBM i 7",
   "key": "167a65d4dd9a8b04d977223b6181e25427f440f0"
  },
  {
@@ -7420,7 +7740,7 @@
    "cvss": 6.5,
    "ref": "https://www.ibm.com/support/pages/node/7285847"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-17057 — IBM i 7",
   "key": "ab41c42195184090074b757a96c9c9d60f40b19e"
  },
  {
@@ -7438,7 +7758,7 @@
    "cvss": 6.5,
    "ref": "https://www.ibm.com/support/pages/node/7285847"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-17207 — IBM i 7",
   "key": "0404285713944cd6aae93f8f1f568328ae482a6b"
  },
  {
@@ -7456,7 +7776,7 @@
    "cvss": 4.3,
    "ref": "https://www.ibm.com/support/pages/node/7286093"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-17255 — IBM i 7",
   "key": "4cc6a9fe3ec6e3152b8f263636c036dc92f02491"
  },
  {
@@ -7474,7 +7794,7 @@
    "cvss": 4.3,
    "ref": "https://www.ibm.com/support/pages/node/7285844"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-17259 — IBM i 7",
   "key": "ab8c1ea83a3ed5caa455e1d4dc73ea9af9af4100"
  },
  {
@@ -7492,7 +7812,7 @@
    "cvss": 4.3,
    "ref": "https://www.ibm.com/support/pages/node/7285844"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-17270 — IBM i 7",
   "key": "ce7a48eee50389e1b769b5ee2775923ffd58ba32"
  },
  {
@@ -7510,7 +7830,7 @@
    "cvss": 6.5,
    "ref": "https://www.ibm.com/support/pages/node/7285844"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-17273 — IBM i 7",
   "key": "a2b85762e24d5a4e4d473bf63b72081e3dde3120"
  },
  {
@@ -7528,7 +7848,7 @@
    "cvss": 5.4,
    "ref": "https://www.ibm.com/support/pages/node/7285844"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-17274 — IBM i 7",
   "key": "422d4cf2b87497fa191c2a53b7d69bcb8d2f152a"
  },
  {
@@ -7546,7 +7866,7 @@
    "cvss": 5.5,
    "ref": "https://www.ibm.com/support/pages/node/7286372"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-17440 — IBM App Connect Enterprise 13",
   "key": "4a6045317bf9bf3ecbce9b7410b607d5aa68c5e1"
  },
  {
@@ -7565,7 +7885,7 @@
    "cvss": 5.1,
    "ref": "https://www.ibm.com/support/pages/node/7286372"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-17442 — IBM App Connect Enterprise 13",
   "key": "886fcd91ffc5c5dd9ab25d0cb6aed5cb5a8f522c"
  },
  {
@@ -7583,7 +7903,7 @@
    "cvss": 5.3,
    "ref": "https://www.ibm.com/support/pages/node/7286372"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-17443 — IBM App Connect Enterprise 13",
   "key": "882e120bfad7e83b7aef4c17d5218a7f8a190111"
  },
  {
@@ -7601,7 +7921,7 @@
    "cvss": 5.3,
    "ref": "https://www.ibm.com/support/pages/node/7286372"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-17444 — IBM App Connect Enterprise 13",
   "key": "8229079b14b69ed86d7b00407387775aef48b41e"
  },
  {
@@ -7619,7 +7939,7 @@
    "cvss": 5.3,
    "ref": "https://www.ibm.com/support/pages/node/7285939"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-17469 — IBM i 7",
   "key": "9bbc588be3808b8c0e9dc39f96ba5b81083a38d0"
  },
  {
@@ -7637,7 +7957,7 @@
    "cvss": 5.3,
    "ref": "https://www.ibm.com/support/pages/node/7285939"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-17470 — IBM i 7",
   "key": "183d66fc8c2fb2152a43bffa936111b593974245"
  },
  {
@@ -7673,7 +7993,7 @@
    "cvss": 4.4,
    "ref": "https://www.ibm.com/support/pages/node/7285844"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-17499 — IBM i 7",
   "key": "564d3fd63d40116941994e6f233a4a0b58b74c3e"
  },
  {
@@ -7691,7 +8011,7 @@
    "cvss": 5.4,
    "ref": "https://www.ibm.com/support/pages/node/7286293"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-17621 — IBM Langflow OSS 1",
   "key": "fe5e2f1f5f116c4565905431f6606db3bed709e1"
  },
  {
@@ -7709,7 +8029,7 @@
    "cvss": 6.5,
    "ref": "https://www.ibm.com/support/pages/node/7286293"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-17622 — IBM Langflow OSS 1",
   "key": "25378f630c2800c9ee58fc2db86fac6ddbc9f8e8"
  },
  {
@@ -7727,7 +8047,7 @@
    "cvss": 4.9,
    "ref": "https://www.ibm.com/support/pages/node/7286294"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-17627 — IBM Langflow OSS 1",
   "key": "961657ea3c395119b6095c695b50159a166385b8"
  },
  {
@@ -7745,7 +8065,7 @@
    "cvss": 5.0,
    "ref": "https://www.ibm.com/support/pages/node/7285644"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-17631 — IBM Langflow OSS 1",
   "key": "b22c385184f4e836ba6753c875fa5b31f25c5527"
  },
  {
@@ -7763,7 +8083,7 @@
    "cvss": 4.4,
    "ref": "https://www.ibm.com/support/pages/node/7285844"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-18073 — IBM i 7",
   "key": "4a758736ae570fa8bd3d2a7b2a2c8111bbbb5941"
  },
  {
@@ -7782,7 +8102,7 @@
    "cvss": 4.3,
    "ref": "https://www.ibm.com/support/pages/node/7285844"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-18076 — IBM i 7",
   "key": "7dac266cf339eed5285291e6a1cecd64049363db"
  },
  {
@@ -7800,7 +8120,7 @@
    "cvss": 4.3,
    "ref": "https://www.ibm.com/support/pages/node/7285937"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-18078 — IBM i 7",
   "key": "43417f1edac755d91eb8d67ee63c926848b9cb2c"
  },
  {
@@ -7818,7 +8138,7 @@
    "cvss": 8.1,
    "ref": "https://www.ibm.com/support/pages/node/7286186"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-18175 — IBM i 7",
   "key": "7dde870b8dd5492f32c363019823db5a5cb7bc24"
  },
  {
@@ -7836,7 +8156,7 @@
    "cvss": 8.1,
    "ref": "https://www.ibm.com/support/pages/node/7286186"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-18221 — IBM i 7",
   "key": "e3c0fd52707d44a158079cac37cc3d791152b098"
  },
  {
@@ -7854,7 +8174,7 @@
    "cvss": 6.3,
    "ref": "https://www.ibm.com/support/pages/node/7286094"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-18341 — IBM i 7",
   "key": "27c8bdf6ef166c189627034e7f5ced1d7986f4f7"
  },
  {
@@ -8506,7 +8826,7 @@
    "cvss": 7.4,
    "ref": "https://cna.openjsf.org/security-advisories.html"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-85152 — undici 8",
   "key": "633ae47ea355670ec284166e33b2e47d8d2b921c"
  },
  {
@@ -8524,7 +8844,7 @@
    "cvss": null,
    "ref": "http://bertoli.tech/geral/parrot-ar-drone-denial-of-service-dos-attack/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2021-44319 — Parrot AR",
   "key": "746422c465f1a29fb356a11f34ce05a3f336ff98"
  },
  {
@@ -8542,7 +8862,7 @@
    "cvss": null,
    "ref": "https://github.com/gubertoli/cve/tree/main/CVE-2021-44320"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2021-44320 — Parrot AR",
   "key": "ac5f67e2f7f39091b75ddd4f0b2271fd062bcbfa"
  },
  {
@@ -73675,294 +73995,5 @@
   },
   "title_vi": "CVE-2026-74837 — Phân bổ tài nguyên không giới hạn hoặc lỗ hổng điều tiết trong ash-project ash_typescript cho phép kẻ tấn công không được xác thực làm cạn kiệt BEA",
   "key": "ff39694f8c7a693cff70be95d9cdeef69eaaa405"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75865 — The WPLP Cookie Consent – Cookie Banner & Consent Management for GDPR, CCPA & Google Consent Mode plugin for WordPress is vulnerable to arbitrary file",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75865",
-  "published": "2026-09-01T03:16:51.370",
-  "summary": "The WPLP Cookie Consent – Cookie Banner & Consent Management for GDPR, CCPA & Google Consent Mode plugin for WordPress is vulnerable to arbitrary file upload due to missing file type validation in the saas_upload_logo() function combined with an authorization bypass on the WPLP connector REST endpoints in all versions up to, and including, 4.4.1. This makes it possible for unauthenticated attackers to upload arbitrary files on the affected site's server which may make remote code execution possible.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75865",
-   "cvss": 9.8,
-   "ref": "https://plugins.trac.wordpress.org/changeset/3674117/gdpr-cookie-consent"
-  },
-  "title_vi": "CVE-2026-75865 — The WPLP Cookie Consent – Cookie Banner & Consent Management for GDPR, CCPA & Google Consent Mode plugin for WordPress dễ bị tấn công bởi tệp tùy ý",
-  "key": "dc3d5dbcd0c3b56de7a58634fb503d085ed4569b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-77856 — Allocation of Resources Without Limits or Throttling vulnerability in ash-project ash_typescript allows an unauthenticated attacker to exhaust the BEA",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77856",
-  "published": "2026-09-01T03:16:51.500",
-  "summary": "Allocation of Resources Without Limits or Throttling vulnerability in ash-project ash_typescript allows an unauthenticated attacker to exhaust the BEAM atom table and abort the node via client-supplied typed struct field names.\n\nresolve_typed_struct_field/2 in lib/ash_typescript/rpc/field_processing/field_selector.ex looks a client-supplied field name up in the typed struct's reverse map and, when it finds no match, falls back to String.to_atom/1. Because this runs before any field-existence check, an unresolvable name mints a permanent atom rather than being rejected as unknown. Atoms are nev",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-77856",
-   "cvss": null,
-   "ref": "https://cna.erlef.org/cves/CVE-2026-77856.html"
-  },
-  "title_vi": "CVE-2026-77856 — Phân bổ tài nguyên không giới hạn hoặc lỗ hổng điều tiết trong ash-project ash_typescript cho phép kẻ tấn công không được xác thực làm cạn kiệt BEA",
-  "key": "369f0178de149b1ede2a6f1f9ea6aedbd742b0a1"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-77950 — Generation of Error Message Containing Sensitive Information vulnerability in ash-project ash_typescript allows an unauthenticated attacker to receive",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77950",
-  "published": "2026-09-01T03:16:51.660",
-  "summary": "Generation of Error Message Containing Sensitive Information vulnerability in ash-project ash_typescript allows an unauthenticated attacker to receive unredacted internal error data by provoking an error shape the configured error handler does not match.\n\napply_error_handler/3 in lib/ash_typescript/rpc/errors.ex is the only hook an application has for redacting or suppressing errors before they reach the client, with a nil return dropping the error entirely. Its rescue clause logs a warning and then returns the original, pre-handler error map. Error handlers are conventionally written as patte",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-77950",
-   "cvss": null,
-   "ref": "https://cna.erlef.org/cves/CVE-2026-77950.html"
-  },
-  "title_vi": "CVE-2026-77950 — Tạo thông báo lỗi chứa lỗ hổng Thông tin nhạy cảm trong ash-project ash_typescript cho phép kẻ tấn công không được xác thực nhận được",
-  "key": "4f59aed141881b1594a28f28f440727cb4eb5e02"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82730 — Incorrect Authorization vulnerability in ash-project ash_typescript allows an unauthorized RPC caller to read attribute values that Ash field policies",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82730",
-  "published": "2026-09-01T03:16:52.787",
-  "summary": "Incorrect Authorization vulnerability in ash-project ash_typescript allows an unauthorized RPC caller to read attribute values that Ash field policies denied.\n\nWhen a field policy denies an attribute, Ash substitutes %Ash.ForbiddenField{}, which retains the real value in original_value because embedded resources must remain writable, and hides it from Inspect rather than removing it. AshTypescript.Rpc.ResultProcessor strips these markers to nil on its template-driven paths, but normalize_primitive/1 in lib/ash_typescript/rpc/result_processor.ex had no such clause, so a marker fell through to t",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82730",
-   "cvss": null,
-   "ref": "https://cna.erlef.org/cves/CVE-2026-82730.html"
-  },
-  "title_vi": "CVE-2026-82730 — Lỗ hổng Cấp phép không chính xác trong Ash Project Ash_typescript cho phép người gọi RPC trái phép đọc các giá trị thuộc tính mà chính sách trường của Ash",
-  "key": "59161dcb6cce33784692a2f3329b72f70a87cb61"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82731 — URL Redirection to Untrusted Site ('Open Redirect') vulnerability in ash-project ash_typescript allows an attacker who controls a path-parameter value",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82731",
-  "published": "2026-09-01T03:16:52.993",
-  "summary": "URL Redirection to Untrusted Site ('Open Redirect') vulnerability in ash-project ash_typescript allows an attacker who controls a path-parameter value to redirect a generated client's request, and the credentials attached to it, to an unintended route or an external origin.\n\nThe URL builders in lib/ash_typescript/typed_controller/codegen/route_renderer.ex replace each :param placeholder with a bare template interpolation and never call encodeURIComponent, so the value reaches executeTypedControllerRequest raw. A value containing ../ is normalised away by the fetch URL resolver and reaches a di",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82731",
-   "cvss": null,
-   "ref": "https://cna.erlef.org/cves/CVE-2026-82731.html"
-  },
-  "title_vi": "CVE-2026-82731 — Lỗ hổng URL Redirection to Untrusted Site ('Open Redirect') trong ash-project ash_typescript cho phép kẻ tấn công kiểm soát giá trị tham số đường dẫn",
-  "key": "5641b2da5b2fcba555bbd04bd2587f2cac1034b0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82732 — Improper Input Validation vulnerability in ash-project ash_typescript allows a remote attacker to submit argument values outside a declared allowlist ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82732",
-  "published": "2026-09-01T03:16:53.193",
-  "summary": "Improper Input Validation vulnerability in ash-project ash_typescript allows a remote attacker to submit argument values outside a declared allowlist or bound on typed-controller routes.\n\nAshTypescript.TypedController.RequestHandler in lib/ash_typescript/typed_controller/request_handler.ex calls Ash.Type.cast_input/3 and treats an {:ok, cast} result as fully validated. In Ash these are separate steps: cast_input/3 only coerces the term, while every constraint declared on the argument is applied by Ash.Type.apply_constraints/3, which this path never calls. Constraints such as one_of, max_length",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82732",
-   "cvss": null,
-   "ref": "https://cna.erlef.org/cves/CVE-2026-82732.html"
-  },
-  "title_vi": "CVE-2026-82732 - Lỗ hổng xác thực đầu vào không phù hợp trong ash-project ash_typescript cho phép kẻ tấn công từ xa gửi các giá trị đối số bên ngoài danh sách cho phép được khai báo",
-  "key": "5249e6e03a44e7a9910aa37535876683a4c72b17"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82733 — Generation of Error Message Containing Sensitive Information vulnerability in ash-project ash_typescript allows an unauthenticated attacker to read in",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82733",
-  "published": "2026-09-01T03:16:53.373",
-  "summary": "Generation of Error Message Containing Sensitive Information vulnerability in ash-project ash_typescript allows an unauthenticated attacker to read internal application data from an HTTP 500 response body.\n\nWhen a typed-controller route handler returns anything other than a %Plug.Conn{}, dispatch/3 in lib/ash_typescript/typed_controller/request_handler.ex passes the value to unexpected_return/2, which interpolates inspect(value, limit: 50) directly into the response message. The limit option bounds elements per collection rather than the term as a whole, so a handler falling through with a ter",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82733",
-   "cvss": null,
-   "ref": "https://cna.erlef.org/cves/CVE-2026-82733.html"
-  },
-  "title_vi": "CVE-2026-82733 — Tạo thông báo lỗi chứa lỗ hổng Thông tin nhạy cảm trong ash-project ash_typescript cho phép kẻ tấn công chưa được xác thực đọc",
-  "key": "3b2ac86b3691e3f28d08e884c20909dec05b76c3"
- },
- {
-  "source": "VietnamPlus Kinh tế số",
-  "title": "Phó Chủ tịch nước tiếp xúc song phương, gặp gỡ cộng đồng người Việt ở Bishkek",
-  "link": "https://www.vietnamplus.vn/pho-chu-tich-nuoc-tiep-xuc-song-phuong-gap-go-cong-dong-nguoi-viet-o-bishkek-post1133585.vnp",
-  "published": "2026-08-31T22:41:55+00:00",
-  "summary": "Tại Bishkek, Phó Chủ tịch nước Võ Thị Ánh Xuân có các cuộc tiếp xúc song phương, thúc đẩy hợp tác kinh tế, thương mại, đầu tư với EAEU, Ai Cập và&nbsp;dành thời gian thăm hỏi cộng đồng người Việt. ​ Phó Chủ tịch nước Võ Thị Ánh Xuân tiếp Tổng Thư ký SCO và gặp Tổng thống Kyrgyzstan Điện mừng kỷ niệm ngày Quốc khánh Cộng hòa Kyrgyzstan Việt Nam-Kyrgyzstan củng cố hữu nghị, đề cao chủ nghĩa đa phương",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "c36fe14897bb9381ec26af389dd85b9ae5ac1048"
- },
- {
-  "source": "VietnamPlus Kinh tế số",
-  "title": "Cuộc chiến giành chủ quyền kỹ thuật số của châu Âu trước \"gã khổng lồ\" Mỹ",
-  "link": "https://www.vietnamplus.vn/cuoc-chien-gianh-chu-quyen-ky-thuat-so-cua-chau-au-truoc-ga-khong-lo-my-post1131995.vnp",
-  "published": "2026-08-31T22:00:00+00:00",
-  "summary": "Theo tờ The Economist, các quốc gia châu Âu đang nỗ lực thoát khỏi sự lệ thuộc vào các gã khổng lồ công nghệ Mỹ, và đây là một nhiệm vụ vô cùng gian nan. Robot hình người đua tốc độ, cử tạ tại cuộc thi thế giới ở Bắc Kinh Hàn Quốc và những thách thức để bước vào top 3 AI thế giới \"Chuyển đổi số chỉ tạo ra giá trị khi đi cùng an ninh, an toàn và niềm tin số\"",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "e8fc81a9d7e01c579302908f73ee3853a76a1822"
- },
- {
-  "source": "GenK",
-  "title": "Thái Lan phát AI miễn phí cho 5 triệu dân, ngân sách 1.300 tỷ đồng",
-  "link": "https://genk.vn/thai-lan-phat-ai-mien-phi-cho-5-trieu-dan-ngan-sach-1300-ty-dong-165260901014721393.chn",
-  "published": "2026-08-31T23:36:19.583040+00:00",
-  "summary": "Chưa đầy nửa ngày mở cửa, nền tảng AI miễn phí của chính phủ Thái Lan đã thu hút hơn 300.000 lượt đăng ký, giữa lúc phe đối lập tại Quốc hội đòi điều tra dự án.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "32344f7b549a22cd98ecaf4d40e9575cf2cb66e7"
- },
- {
-  "source": "VnExpress Số hóa",
-  "title": "Săn và giữ chân nhân tài công nghệ tại Trung Quốc",
-  "link": "https://vnexpress.net/san-va-giu-chan-nhan-tai-cong-nghe-tai-trung-quoc-5112652.html",
-  "published": "2026-08-31T22:00:00+00:00",
-  "summary": "Nhiều công ty AI và bán dẫn Trung Quốc tìm cách thu hút nhân tài bằng lương, cổ phần, cả tuyển mới lẫn giữ chân nhân sự chủ chốt.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "bedc0871d1c3dc05c7ede900ab5f888cacc0397f"
- },
- {
-  "source": "AWS Security Blog",
-  "title": "We invited a direct competitor into Security Hub Extended. Here’s why.",
-  "link": "https://aws.amazon.com/blogs/security/we-invited-a-direct-competitor-into-security-hub-extended-heres-why/",
-  "published": "2026-08-31T19:00:07+00:00",
-  "summary": "When customers keep pointing you to a solution that overlaps with parts of your own offering, you have a choice to make. This post is about the choice we made with Upwind, and why we’d make it again. AWS Security Hub Extended exists because customers told us what was working for them in enterprise security […]",
-  "categories": [
-   "cloud"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "c57b60ceb6d29cf4aebd4f8e26082154488c4c74"
- },
- {
-  "source": "OpenAI News",
-  "title": "Polimill builds Japan's next-generation public AI infrastructure",
-  "link": "https://openai.com/index/polimill",
-  "published": "2026-08-31T07:00:00+00:00",
-  "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-  "categories": [
-   "ai"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "42c3c3a7718e7cacb85d5863f8b9b9a14bdc3c28"
- },
- {
-  "source": "DarkReading",
-  "title": "Anthropic Users Hit by Infostealer Attacks, Session Thefts",
-  "link": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-users-infostealer-attacks-session-thefts",
-  "published": "2026-08-31T21:08:46+00:00",
-  "summary": "A threat actor used a variety of infostealers to collect session information and access Claude accounts belonging to an unknown number of users.",
-  "categories": [
-   "ai"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "901c2fa6b266842d211bbaf242b53ea7949fd3bc"
- },
- {
-  "source": "DarkReading",
-  "title": "'TerminalFix' Campaign Weaponizes PowerShell for Enterprise Attacks",
-  "link": "https://www.darkreading.com/threat-intelligence/terminalfix-campaign-weaponizes-powershell-enterprise-attacks",
-  "published": "2026-08-31T20:25:36+00:00",
-  "summary": "The ClickFix-style campaign features a sophisticated, multistage attack chain that includes reverse tunnels into victim organizations' networks.",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "f195b6fd8b132828f74a9004e127f00826729d1e"
- },
- {
-  "source": "The Record",
-  "title": "Five plead guilty in latest federal ATM jackpotting case",
-  "link": "https://therecord.media/kansas-atm-jackpotting-guilty-pleas",
-  "published": "2026-08-31T20:31:00+00:00",
-  "summary": "Federal law enforcement continued to warn about ATM jackpotting gangs as it announced guilty pleas from five Venezuelan nationals.",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "21d87c254c857bcf237c46a4c747119094549506"
- },
- {
-  "source": "The Record",
-  "title": "Fraudsters steal $6 million from Tectonic crypto platform after inflating token price",
-  "link": "https://therecord.media/crypto-tectonic-hack-cronos",
-  "published": "2026-08-31T19:45:00+00:00",
-  "summary": "At least $6 million was stolen from crypto platform Tectonic after an attacker manipulated the price of the Tonic coin over the weekend.",
-  "categories": [
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "7b0e4c7cb531371ef218e34ed80c9fddb3fbf50e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2023-20511 — Release of an invalid pointer in the AMD kernel mode driver (KMD) could allow a privileged attacker to create a double free condition potentially lead",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2023-20511",
-  "published": "2026-08-31T19:16:44.380",
-  "summary": "Release of an invalid pointer in the AMD kernel mode driver (KMD) could allow a privileged attacker to create a double free condition potentially leading to arbitrary code execution.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2023-20511",
-   "cvss": 6.4,
-   "ref": "https://www.amd.com/en/resources/product-security/bulletin/AMD-SB-6018.html"
-  },
-  "title_vi": "CVE-2023-20511 - Phát hành một con trỏ không hợp lệ trong trình điều khiển chế độ hạt nhân AMD (KMD) có thể cho phép kẻ tấn công đặc quyền tạo ra một điều kiện tự do kép có khả năng dẫn đến",
-  "key": "dee74790ec317f2f6c9d4f148b6ade16740924d8"
  }
 ]
