@@ -1,6 +1,1106 @@
 [
  {
   "source": "Tuổi Trẻ Công nghệ",
+  "title": "Những vụ mất dữ liệu 'vô lý' nhất lịch sử công nghệ: Tưởng có backup là an toàn, ai ngờ backup cũng cháy",
+  "link": "https://tuoitre.vn/nhung-vu-mat-du-lieu-vo-ly-nhat-lich-su-cong-nghe-tuong-co-backup-la-an-toan-ai-ngo-backup-cung-chay-100260831153426819.htm",
+  "published": "2026-09-06T21:57:03.882162+00:00",
+  "summary": "Điều đáng sợ là khi máy chủ cháy, backup cũng cháy theo. Hai vụ hỏa hoạn ở Hàn Quốc và Pháp cho thấy dữ liệu có thể biến mất nhanh đến mức nào.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "1f621d0e297ac36dda61cc31cc6ad649f8c8d646"
+ },
+ {
+  "source": "OpenAI News",
+  "title": "OpenAI supports California’s bill to advance youth AI safety",
+  "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+  "published": "2026-08-31T07:00:00+00:00",
+  "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "OpenAI hỗ trợ dự luật của California để thúc đẩy an toàn AI cho thanh thiếu niên",
+  "key": "151e922c15d070fded88ef3dda74c549dd0c6eab"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2016-7255 — Microsoft Win32k Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2016-7255",
+  "published": "2021-11-03",
+  "summary": "Microsoft Win32k kernel-mode driver fails to properly handle objects in memory which allows for privilege escalation. Successful exploitation allows an attacker to run code in kernel mode.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2016-7255",
+   "vendor": "Microsoft",
+   "product": "Win32k",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2016-7255 — Lỗ hổng leo thang đặc quyền Microsoft Win32k",
+  "key": "572e59dc7e575d480dea13a76abb5a102d214941"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-0708 — Microsoft Remote Desktop Services Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-0708",
+  "published": "2021-11-03",
+  "summary": "Microsoft Remote Desktop Services, formerly known as Terminal Service, contains an unspecified vulnerability that allows an unauthenticated attacker to connect to the target system using RDP and send specially crafted requests. Successful exploitation allows for remote code execution. The vulnerability is also known under the moniker of BlueKeep.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-0708",
+   "vendor": "Microsoft",
+   "product": "Remote Desktop Services",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2019-0708 — Lỗ hổng thực thi mã từ xa của Microsoft Remote Desktop Services",
+  "key": "8f4bd48b0fcbfcca5f4c9a23e04abf3276199fd3"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-34473 — Microsoft Exchange Server Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34473",
+  "published": "2021-11-03",
+  "summary": "Microsoft Exchange Server contains an unspecified vulnerability that allows for remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-34473",
+   "vendor": "Microsoft",
+   "product": "Exchange Server",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-34473 — Lỗ hổng thực thi mã từ xa của Microsoft Exchange Server",
+  "key": "521571059e6f3fd530f5376561f24027ee3e0dbf"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-1464 — Microsoft Windows Spoofing Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-1464",
+  "published": "2021-11-03",
+  "summary": "Microsoft Windows contains a spoofing vulnerability when Windows incorrectly validates file signatures, allowing an attacker to bypass security features and load improperly signed files.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-1464",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2020-1464 — Lỗ hổng Microsoft Windows Spoofing",
+  "key": "4ab175ab692479367f0578ef7263b1864dbde4ef"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-1732 — Microsoft Win32k Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-1732",
+  "published": "2021-11-03",
+  "summary": "Microsoft Win32k contains an unspecified vulnerability that allows for privilege escalation.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-1732",
+   "vendor": "Microsoft",
+   "product": "Win32k",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-1732 — Lỗ hổng leo thang đặc quyền Microsoft Win32k",
+  "key": "666d02af0548084603f0fe304e2c5b102d0a7fbb"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-34527 — Microsoft Windows Print Spooler Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34527",
+  "published": "2021-11-03",
+  "summary": "Microsoft Windows Print Spooler contains an unspecified vulnerability due to the Windows Print Spooler service improperly performing privileged file operations. Successful exploitation allows an attacker to perform remote code execution with SYSTEM privileges. The vulnerability is also known under the moniker of PrintNightmare.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-34527",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-34527 — Lỗ hổng thực thi mã từ xa của Microsoft Windows Print Spooler",
+  "key": "a86667bec619adfb245f1fbd85a7fa1897c3c509"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-31207 — Microsoft Exchange Server Security Feature Bypass Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-31207",
+  "published": "2021-11-03",
+  "summary": "Microsoft Exchange Server contains an unspecified vulnerability that allows for security feature bypass.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-31207",
+   "vendor": "Microsoft",
+   "product": "Exchange Server",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-31207 - Lỗ hổng Bỏ qua Tính năng Bảo mật của Microsoft Exchange Server",
+  "key": "50e15d8c16e756a3dc6f957704205b11f4ada831"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-0803 — Microsoft Win32k Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-0803",
+  "published": "2021-11-03",
+  "summary": "Microsoft Win32k contains an unspecified vulnerability due to it failing to properly handle objects in memory causing privilege escalation. Successful exploitation allows an attacker to run code in kernel mode.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-0803",
+   "vendor": "Microsoft",
+   "product": "Win32k",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2019-0803 — Lỗ hổng leo thang đặc quyền Microsoft Win32k",
+  "key": "88254232e794bbd301338fe8090843095636b267"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-1040 — Microsoft Hyper-V RemoteFX vGPU Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-1040",
+  "published": "2021-11-03",
+  "summary": "Microsoft Hyper-V RemoteFX vGPU contains an improper input validation vulnerability due to the host server failing to properly validate input from an authenticated user on a guest operating system. Successful exploitation allows for remote code execution on the host operating system.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-1040",
+   "vendor": "Microsoft",
+   "product": "Hyper-V RemoteFX",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2020-1040 — Lỗ hổng thực thi mã từ xa Microsoft Hyper-V RemoteFX vGPU",
+  "key": "5ecacd2f8ffeea521746f3f5f542587b0b77fab1"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-28310 — Microsoft Win32k Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-28310",
+  "published": "2021-11-03",
+  "summary": "Microsoft Windows Win32k contains an unspecified vulnerability that allows for privilege escalation.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-28310",
+   "vendor": "Microsoft",
+   "product": "Win32k",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-28310 — Lỗ hổng leo thang đặc quyền Microsoft Win32k",
+  "key": "3173f114d9c815607ce591183a869e669fb33153"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-1350 — Microsoft Windows DNS Server Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-1350",
+  "published": "2021-11-03",
+  "summary": "Microsoft Windows DNS Servers fail to properly handle requests, allowing an attacker to perform remote code execution in the context of the Local System Account. The vulnerability is also known under the moniker of SIGRed.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-1350",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2020-1350 — Lỗ hổng thực thi mã từ xa của máy chủ DNS Microsoft Windows",
+  "key": "7c6a4a5e3eac1c50a6e19dda248647b1c9e44425"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-26411 — Microsoft Internet Explorer Memory Corruption Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-26411",
+  "published": "2021-11-03",
+  "summary": "Microsoft Internet Explorer contains an unspecified vulnerability that allows for memory corruption.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-26411",
+   "vendor": "Microsoft",
+   "product": "Internet Explorer",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-26411 — Lỗ hổng tham nhũng bộ nhớ Microsoft Internet Explorer",
+  "key": "75144c22216afbb38e0ac38a63ba464a60a33d21"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-0859 — Microsoft Win32k Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-0859",
+  "published": "2021-11-03",
+  "summary": "Microsoft Win32k fails to properly handle objects in memory causing privilege escalation. Successful exploitation allows an attacker to run code in kernel mode.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-0859",
+   "vendor": "Microsoft",
+   "product": "Win32k",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2019-0859 — Lỗ hổng leo thang đặc quyền Microsoft Win32k",
+  "key": "4de1f2cc20af67824f184328d9a5f2df37edc918"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-40444 — Microsoft MSHTML Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-40444",
+  "published": "2021-11-03",
+  "summary": "Microsoft MSHTML contains a unspecified vulnerability that allows for remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-40444",
+   "vendor": "Microsoft",
+   "product": "MSHTML",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-40444 — Lỗ hổng thực thi mã từ xa Microsoft MSHTML",
+  "key": "c532e6b0980e31de678f95b949c69770adfa551b"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2017-8759 — Microsoft .NET Framework Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-8759",
+  "published": "2021-11-03",
+  "summary": "Microsoft .NET Framework contains a remote code execution vulnerability when processing untrusted input that could allow an attacker to take control of an affected system.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2017-8759",
+   "vendor": "Microsoft",
+   "product": ".NET Framework",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2017-8759 — Lỗ hổng thực thi mã từ xa Microsoft .NET Framework",
+  "key": "2e490cedf96af636d16b5a4ffab3004b5b7e44c7"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2018-8653 — Microsoft Internet Explorer Scripting Engine Memory Corruption Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-8653",
+  "published": "2021-11-03",
+  "summary": "Microsoft Internet Explorer contains a memory corruption vulnerability due to how the Scripting Engine handles objects in memory, leading to remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2018-8653",
+   "vendor": "Microsoft",
+   "product": "Internet Explorer",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2018-8653 — Lỗ hổng làm hỏng bộ nhớ của công cụ kịch bản Microsoft Internet Explorer",
+  "key": "ccbb7eccbeaeb35e9801bda902faf42a4f737a3a"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-0797 — Microsoft Win32k Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-0797",
+  "published": "2021-11-03",
+  "summary": "Microsoft Win32k contains a privilege escalation vulnerability when the Win32k component fails to properly handle objects in memory. Successful exploitation allows an attacker to execute code in kernel mode.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-0797",
+   "vendor": "Microsoft",
+   "product": "Win32k",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2019-0797 — Lỗ hổng leo thang đặc quyền Microsoft Win32k",
+  "key": "0bc3bde757f83531e42fead9327d58ef1e3e9e98"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-36942 — Microsoft Windows Local Security Authority (LSA) Spoofing Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-36942",
+  "published": "2021-11-03",
+  "summary": "Microsoft Windows Local Security Authority (LSA) contains a spoofing vulnerability allowing an unauthenticated attacker to call a method on the LSARPC interface and coerce the domain controller to authenticate against another server using NTLM.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-36942",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-36942 — Lỗ hổng giả mạo của Microsoft Windows Local Security Authority (LSA)",
+  "key": "3c5217b6e6ccb30d1fe5c97abcc09f73c8e51706"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-1215 — Microsoft Windows Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-1215",
+  "published": "2021-11-03",
+  "summary": "Microsoft Windows contains an unspecified vulnerability due to the way ws2ifsl.sys (Winsock) handles objects in memory, allowing for privilege escalation. Successful exploitation allows an attacker to execute code with elevated privileges.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-1215",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2019-1215 - Lỗ hổng leo thang đặc quyền của Microsoft Windows",
+  "key": "6ad4ad20abb827dc3165bda53f54c1c27e2cb585"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2018-0798 — Microsoft Office Memory Corruption Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-0798",
+  "published": "2021-11-03",
+  "summary": "Microsoft Office contains a memory corruption vulnerability due to the way objects are handled in memory. Successful exploitation allows for remote code execution in the context of the current user. This vulnerability is known to be chained with CVE-2018-0802.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2018-0798",
+   "vendor": "Microsoft",
+   "product": "Office",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2018-0798 — Lỗ hổng Microsoft Office Memory Corruption",
+  "key": "e38c055a11f3c49aa96e26ff3a40b8005245abe9"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2018-0802 — Microsoft Office Memory Corruption Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-0802",
+  "published": "2021-11-03",
+  "summary": "Microsoft Office contains a memory corruption vulnerability due to the way objects are handled in memory. Successful exploitation allows for remote code execution in the context of the current user. This vulnerability is known to be chained with CVE-2018-0798.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2018-0802",
+   "vendor": "Microsoft",
+   "product": "Office",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2018-0802 — Lỗ hổng tham nhũng bộ nhớ Microsoft Office",
+  "key": "58568496fd468fcbc7ed6e10700280c7f0fb3975"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2012-0158 — Microsoft MSCOMCTL.OCX Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2012-0158",
+  "published": "2021-11-03",
+  "summary": "Microsoft MSCOMCTL.OCX contains an unspecified vulnerability that allows for remote code execution, allowing an attacker to take complete control of an affected system under the context of the current user.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2012-0158",
+   "vendor": "Microsoft",
+   "product": "MSCOMCTL.OCX",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2012-0158 — Lỗ hổng thực thi mã từ xa Microsoft MSCOMCTL.OCX",
+  "key": "e8f82284aa6870eb89e2d69ddbbd33b9084f0625"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2015-1641 — Microsoft Office Memory Corruption Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2015-1641",
+  "published": "2021-11-03",
+  "summary": "Microsoft Office contains a memory corruption vulnerability due to failure to properly handle rich text format files in memory. Successful exploitation allows for remote code execution in the context of the current user.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2015-1641",
+   "vendor": "Microsoft",
+   "product": "Office",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2015-1641 — Lỗ hổng tham nhũng bộ nhớ Microsoft Office",
+  "key": "dc0c4672d3c147228bfd6d7fd1f009314a8f0a5d"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-27085 — Microsoft Internet Explorer Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-27085",
+  "published": "2021-11-03",
+  "summary": "Microsoft Internet Explorer contains an unspecified vulnerability that allows for remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-27085",
+   "vendor": "Microsoft",
+   "product": "Internet Explorer",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-27085 — Lỗ hổng thực thi mã từ xa của Microsoft Internet Explorer",
+  "key": "89854c10d81f3c5cb060c182da712524f242dfb4"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-0541 — Microsoft MSHTML Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-0541",
+  "published": "2021-11-03",
+  "summary": "Microsoft MSHTML engine contains an improper input validation vulnerability that allows for remote code execution vulnerability.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-0541",
+   "vendor": "Microsoft",
+   "product": "MSHTML",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2019-0541 — Lỗ hổng thực thi mã từ xa Microsoft MSHTML",
+  "key": "e9c8f0cff34d73a37879eeaa96331e4062fc8c83"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2017-11882 — Microsoft Office Memory Corruption Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-11882",
+  "published": "2021-11-03",
+  "summary": "Microsoft Office contains a memory corruption vulnerability that allows remote code execution in the context of the current user.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2017-11882",
+   "vendor": "Microsoft",
+   "product": "Office",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2017-11882 — Lỗ hổng tham nhũng bộ nhớ Microsoft Office",
+  "key": "f6603be8d25c4ab020d69df77d8c1c948f8959b3"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-0674 — Microsoft Internet Explorer Scripting Engine Memory Corruption Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-0674",
+  "published": "2021-11-03",
+  "summary": "Microsoft Internet Explorer contains a memory corruption vulnerability due to the way the Scripting Engine handles objects in memory. Successful exploitation could allow remote code execution in the context of the current user.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-0674",
+   "vendor": "Microsoft",
+   "product": "Internet Explorer",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2020-0674 — Lỗ hổng Microsoft Internet Explorer Scripting Engine Memory Corruption",
+  "key": "cbea6c0d7c509321fa688f7abca5448ab2bc5d40"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-27059 — Microsoft Office Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-27059",
+  "published": "2021-11-03",
+  "summary": "Microsoft Office contains an unspecified vulnerability that allows for remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-27059",
+   "vendor": "Microsoft",
+   "product": "Office",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-27059 — Lỗ hổng thực thi mã từ xa Microsoft Office",
+  "key": "3062b350ab4f5b9343a46469bbe94691ea3c5f89"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-1367 — Microsoft Internet Explorer Scripting Engine Memory Corruption Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-1367",
+  "published": "2021-11-03",
+  "summary": "Microsoft Internet Explorer contains a memory corruption vulnerability in how the scripting engine handles objects in memory. Successful exploitation allows for remote code execution in the context of the current user.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-1367",
+   "vendor": "Microsoft",
+   "product": "Internet Explorer",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2019-1367 — Lỗ hổng Microsoft Internet Explorer Scripting Engine Memory Corruption",
+  "key": "d28ee9e848f57b44183ab5459d78b8567bdcb696"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2017-0199 — Microsoft Office and WordPad Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-0199",
+  "published": "2021-11-03",
+  "summary": "Microsoft Office and WordPad contain an unspecified vulnerability due to the way the applications parse specially crafted files. Successful exploitation allows for remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2017-0199",
+   "vendor": "Microsoft",
+   "product": "Office and WordPad",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2017-0199 — Lỗ hổng thực thi mã từ xa Microsoft Office và WordPad",
+  "key": "2bce249d1c88d69d99b82ee6892229986ba380f5"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-1380 — Microsoft Internet Explorer Scripting Engine Memory Corruption Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-1380",
+  "published": "2021-11-03",
+  "summary": "Microsoft Internet Explorer contains a memory corruption vulnerability which can allow for remote code execution in the context of the current user.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-1380",
+   "vendor": "Microsoft",
+   "product": "Internet Explorer",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2020-1380 — Lỗ hổng Microsoft Internet Explorer Scripting Engine Memory Corruption",
+  "key": "06e73f217b09d75f2d22dc429fd909eaa4262441"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-1429 — Microsoft Internet Explorer Scripting Engine Memory Corruption Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-1429",
+  "published": "2021-11-03",
+  "summary": "Microsoft Internet Explorer contains a memory corruption vulnerability which can allow for remote code execution in the context of the current user.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-1429",
+   "vendor": "Microsoft",
+   "product": "Internet Explorer",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2019-1429 — Lỗ hổng Microsoft Internet Explorer Scripting Engine Memory Corruption",
+  "key": "5a40268904eebf2289e5fbdbb74a654570220d45"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2017-11774 — Microsoft Office Outlook Security Feature Bypass Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-11774",
+  "published": "2021-11-03",
+  "summary": "Microsoft Office Outlook contains a security feature bypass vulnerability due to improperly handling objects in memory. Successful exploitation allows an attacker to execute commands.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2017-11774",
+   "vendor": "Microsoft",
+   "product": "Office",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2017-11774 — Lỗ hổng bỏ qua tính năng bảo mật Microsoft Office Outlook",
+  "key": "3e2bfe6293946ab88875734368f4b37809b59094"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-0968 — Microsoft Internet Explorer Scripting Engine Memory Corruption Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-0968",
+  "published": "2021-11-03",
+  "summary": "Microsoft Internet Explorer contains a memory corruption vulnerability due to how the Scripting Engine handles objects in memory, leading to remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-0968",
+   "vendor": "Microsoft",
+   "product": "Internet Explorer",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2020-0968 — Lỗ hổng Microsoft Internet Explorer Scripting Engine Memory Corruption",
+  "key": "e571b44201ad5bf0ba580b3735031b558445a38d"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-1472 — Microsoft Netlogon Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-1472",
+  "published": "2021-11-03",
+  "summary": "Microsoft's Netlogon Remote Protocol (MS-NRPC) contains a privilege escalation vulnerability when an attacker establishes a vulnerable Netlogon secure channel connection to a domain controller. An attacker who successfully exploits the vulnerability could run a specially crafted application on a device on the network. The vulnerability is also known under the moniker of Zerologon.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-1472",
+   "vendor": "Microsoft",
+   "product": "Netlogon",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2020-1472 - Lỗ hổng leo thang đặc quyền của Microsoft Netlogon",
+  "key": "50a2f9f42e0c3a9d94f239cfef318eb9cf8e0d4a"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-26855 — Microsoft Exchange Server Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-26855",
+  "published": "2021-11-03",
+  "summary": "Microsoft Exchange Server contains an unspecified vulnerability that allows for remote code execution. This vulnerability is part of the ProxyLogon exploit chain.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-26855",
+   "vendor": "Microsoft",
+   "product": "Exchange Server",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-26855 — Lỗ hổng thực thi mã từ xa của Microsoft Exchange Server",
+  "key": "c732cb61e5051d35a57393acae47b3e5fd8c0eb1"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-26858 — Microsoft Exchange Server Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-26858",
+  "published": "2021-11-03",
+  "summary": "Microsoft Exchange Server contains an unspecified vulnerability that allows for remote code execution. This vulnerability is part of the ProxyLogon exploit chain.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-26858",
+   "vendor": "Microsoft",
+   "product": "Exchange Server",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-26858 — Lỗ hổng thực thi mã từ xa của Microsoft Exchange Server",
+  "key": "0cd7e8f4d8c1791c327c2d2857186709f45cdead"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-27065 — Microsoft Exchange Server Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-27065",
+  "published": "2021-11-03",
+  "summary": "Microsoft Exchange Server contains an unspecified vulnerability that allows for remote code execution. This vulnerability is part of the ProxyLogon exploit chain.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-27065",
+   "vendor": "Microsoft",
+   "product": "Exchange Server",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-27065 — Lỗ hổng thực thi mã từ xa của Microsoft Exchange Server",
+  "key": "9111f697dbb4ef9dce877c8039318c6957b80fe0"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-1054 — Microsoft Win32k Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-1054",
+  "published": "2021-11-03",
+  "summary": "Microsoft Win32k contains a privilege escalation vulnerability when the Windows kernel-mode driver fails to properly handle objects in memory. Successful exploitation allows an attacker to execute code in kernel mode.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-1054",
+   "vendor": "Microsoft",
+   "product": "Win32k",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2020-1054 — Lỗ hổng leo thang đặc quyền Microsoft Win32k",
+  "key": "5d577acf8b10b4cd7be7ae73dafda86c5d9932f5"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-1675 — Microsoft Windows Print Spooler Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-1675",
+  "published": "2021-11-03",
+  "summary": "Microsoft Windows Print Spooler contains an unspecified vulnerability that allows for remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-1675",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-1675 — Lỗ hổng thực thi mã từ xa của Microsoft Windows Print Spooler",
+  "key": "4ea227860b4a0f85a52cc42a60211ae5242e789b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-13608 — A flaw in the libcurl SASL negotiation for LDAP authentication allows an incomplete handshake sequence to be misinterpreted as a successful cryptograp",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-13608",
+  "published": "2026-09-06T18:17:19.810",
+  "summary": "A flaw in the libcurl SASL negotiation for LDAP authentication allows an\nincomplete handshake sequence to be misinterpreted as a successful\ncryptographic verification. An attacker executing a Man-in-the-Middle (MITM)\nattack can inject a premature or shortcut response that bypasses complete peer\nvalidation.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-13608",
+   "cvss": null,
+   "ref": "https://curl.se/docs/CVE-2026-13608.html"
+  },
+  "title_vi": "CVE-2026-13608 — Một lỗ hổng trong đàm phán libcurl SASL để xác thực LDAP cho phép trình tự bắt tay không đầy đủ bị hiểu sai là một bản đồ mật mã thành công",
+  "key": "cbcd94f9290b1dcaacbbc48655eabde55eec09ce"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18924 — A flaw in libcurl's handling of HTTP/2 Server Push streams, when the parent handle is set to share connections with other handles, can lead to use-aft",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18924",
+  "published": "2026-09-06T18:17:20.553",
+  "summary": "A flaw in libcurl's handling of HTTP/2 Server Push streams, when the parent\nhandle is set to share connections with other handles, can lead to\nuse-after-free in the cleanup process.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18924",
+   "cvss": null,
+   "ref": "https://curl.se/docs/CVE-2026-18924.html"
+  },
+  "title_vi": "CVE-2026-18924 — Một lỗ hổng trong việc xử lý các luồng http/2 Server Push của libcurl, khi tay cầm cha được đặt để chia sẻ kết nối với các tay cầm khác, có thể dẫn đến việc sử dụng",
+  "key": "bb2466f80a802af99b10060b8bb590146ceece37"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-19931 — A flaw in libcurl makes it wrongly reuse an HTTP connection setup for a given hostname using Negotiate authentication, when the initial request is don",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19931",
+  "published": "2026-09-06T18:17:20.733",
+  "summary": "A flaw in libcurl makes it wrongly reuse an HTTP connection setup for a given\nhostname using Negotiate authentication, when the initial request is done\nusing empty credentials. This can make user B's request get sent over user A's\npreviously authenticated connection.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-19931",
+   "cvss": null,
+   "ref": "https://curl.se/docs/CVE-2026-19931.html"
+  },
+  "title_vi": "CVE-2026-19931 — Một lỗ hổng trong libcurl khiến nó sử dụng sai thiết lập kết nối http cho một tên máy chủ nhất định bằng cách sử dụng xác thực Negotiate, khi yêu cầu ban đầu là don",
+  "key": "cacf06ece12abadd89e5da4a51710ce27fb57e68"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-80229 — When performing transfers via libcurl’s multi interface, pooled TLS connections can outlive their originating easy handles",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80229",
+  "published": "2026-09-06T18:17:22.217",
+  "summary": "When performing transfers via libcurl’s multi interface, pooled TLS\nconnections can outlive their originating easy handles. In OpenSSL 3 provider\nconfigurations, libcurl attaches an allocated library context to the easy\nhandle's state and passes it to OpenSSL without acquiring an ownership\nreference; destroying the easy handle prematurely frees this context while the\nactive connection retains a dangling pointer, leading to a heap-use-after-free\nupon subsequent I/O or post-handshake operations.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-80229",
+   "cvss": null,
+   "ref": "https://curl.se/docs/CVE-2026-80229.html"
+  },
+  "title_vi": "CVE-2026-80229 - Khi thực hiện chuyển tiền qua đa giao diện của libcurl, các kết nối TLS gộp có thể tồn tại lâu hơn các tay cầm dễ dàng ban đầu của chúng",
+  "key": "2122abaa89ec136388dee1eef1d8bf2b48f19d60"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-80230 — When `CURLOPT_PINNEDPUBLICKEY` is configured alongside options that disable standard peer verification (`CURLOPT_SSL_VERIFYPEER = 0` and `CURLOPT_SSL_",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80230",
+  "published": "2026-09-06T18:17:22.327",
+  "summary": "When `CURLOPT_PINNEDPUBLICKEY` is configured alongside options that disable\nstandard peer verification (`CURLOPT_SSL_VERIFYPEER = 0` and\n`CURLOPT_SSL_VERIFYHOST = 0`), libcurl fails to enforce public key pinning on\nconnections established without a presented server certificate. Bypassing the\npinning check under these disabled-verification conditions allows\nunauthenticated connections to succeed when they should be rejected.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-80230",
+   "cvss": null,
+   "ref": "https://curl.se/docs/CVE-2026-80230.html"
+  },
+  "title_vi": "CVE-2026-80230 — Khi `CURLOPT_PINNEDPUBLICKEY' được định cấu hình cùng với các tùy chọn tắt xác minh ngang hàng tiêu chuẩn (`CURLOPT_SSL_VERIFYPEER = 0` và `CURLOPT_SSL_",
+  "key": "76efdf888ca949df4ce1132af2bf73c096d2df3b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-80231 — A flaw in libcurl makes it wrongly reuse an existing HTTPS connection setup for a given hostname even when using a different Native CA Store setting (",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80231",
+  "published": "2026-09-06T18:17:22.500",
+  "summary": "A flaw in libcurl makes it wrongly reuse an existing HTTPS connection setup\nfor a given hostname even when using a different Native CA Store setting\n(`CURLSSLOPT_NATIVE_CA`) than when the connection was created.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-80231",
+   "cvss": null,
+   "ref": "https://curl.se/docs/CVE-2026-80231.html"
+  },
+  "title_vi": "CVE-2026-80231 — Một lỗ hổng trong libcurl khiến nó sử dụng lại sai thiết lập kết nối https hiện có cho một tên máy chủ nhất định ngay cả khi sử dụng cài đặt Cửa hàng CA gốc khác (",
+  "key": "7d0f79f835cbab4be89e94f0e7334f863ebf9409"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-80255 — A `Set-Cookie:` header using tab (horizontal tab, ASCII code 9) instead of space (ascii code 32) immediately before the `Secure` attribute causes curl",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80255",
+  "published": "2026-09-06T18:17:22.623",
+  "summary": "A `Set-Cookie:` header using tab (horizontal tab, ASCII code 9) instead of\nspace (ascii code 32) immediately before the `Secure` attribute causes curl to\nstore the cookie without its Secure flag. The cookie might then wrongfully be\nsent over plaintext HTTP on subsequent requests to the same host.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-80255",
+   "cvss": null,
+   "ref": "https://curl.se/docs/CVE-2026-80255.html"
+  },
+  "title_vi": "CVE-2026-80255 — Tiêu đề `Set-Cookie:` sử dụng tab (tab ngang, mã ASCII 9) thay vì dấu cách (mã ascii 32) ngay trước khi thuộc tính `Secure` gây cong",
+  "key": "a45942b6149e17e8748148ed52b8e72b4d03da48"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82208 — With the wolfSSL backend, when CA caching is enabled and an `CURLOPT_SSL_CTX_FUNCTION` callback replaces the trust store, libcurl can silently reinsta",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82208",
+  "published": "2026-09-06T18:17:22.733",
+  "summary": "With the wolfSSL backend, when CA caching is enabled and an\n`CURLOPT_SSL_CTX_FUNCTION` callback replaces the trust store, libcurl can\nsilently reinstall the cached store after the callback returns. A certificate\ntrusted by the cached store but rejected by the callback-selected store is\nthen incorrectly accepted.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82208",
+   "cvss": null,
+   "ref": "https://curl.se/docs/CVE-2026-82208.html"
+  },
+  "title_vi": "CVE-2026-82208 — Với phụ trợ wolfSSL, khi bộ nhớ đệm CA được bật và gọi lại `CURLOPT_SSL_CTX_FUNCTION` thay thế cửa hàng ủy thác, libcurl có thể âm thầm khôi phục",
+  "key": "8b4f217ef814b31f6600329257e0129968e0351e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82209 — When libpsl support is enabled, libcurl fails to enforce the Public Suffix List boundary check when processing a `Set-Cookie` header where the `Domain",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82209",
+  "published": "2026-09-06T18:17:22.847",
+  "summary": "When libpsl support is enabled, libcurl fails to enforce the Public Suffix\nList boundary check when processing a `Set-Cookie` header where the `Domain`\nattribute explicitly matches an origin host that is itself a public suffix\n(e.g., `Domain=co.uk` set by `co.uk`).\n\nInstead of coercing it into a strict host-only cookie, libcurl saves the\ncookie with wildcard domain scope (`.co.uk`). Consequently, the cookie is\ninappropriately included in subsequent outbound requests or HTTP redirects to\narbitrary sibling subdomains under the same public suffix (e.g.,\n`attacker.co.uk`).",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82209",
+   "cvss": null,
+   "ref": "https://curl.se/docs/CVE-2026-82209.html"
+  },
+  "title_vi": "CVE-2026-82209 — Khi hỗ trợ libpsl được bật, libcurl không thực thi kiểm tra ranh giới Danh sách Hậu tố Công khai khi xử lý tiêu đề `Set-Cookie` trong đó `Miền",
+  "key": "58a409f9082eeee60e6608f3deb5187f15d40f48"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86219 — Authen::SASL::Perl::DIGEST_MD5 versions before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86219",
+  "published": "2026-09-06T18:17:23.027",
+  "summary": "Authen::SASL::Perl::DIGEST_MD5 versions before 2.2100 for Perl accept replayed authentication responses via unverified nonce in server_step.\n\nserver_start generates a fresh nonce and sends it in the challenge, and nothing later compares that value against the nonce the client returns. server_step derives the expected digest from the client's own parameters, so a response verifies whenever its digest matches the nonce it carries. The count table it also checks is keyed on the client-supplied nonce and starts empty in each new server object, so a captured first response, carrying `nc=00000001`, ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86219",
+   "cvss": null,
+   "ref": "https://datatracker.ietf.org/doc/html/rfc2831#section-2.1.2"
+  },
+  "title_vi": "CVE-2026-86219 — Tác giả::SASL::Perl::DIGEST_MD5 phiên bản trước 2",
+  "key": "6500979ee109dbcbb1ebcaf645f3072c8b574b6c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86220 — A vulnerability was detected in SourceCodester Class and Exam Timetabling System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86220",
+  "published": "2026-09-06T18:17:23.150",
+  "summary": "A vulnerability was detected in SourceCodester Class and Exam Timetabling System 1.0. The affected element is the function mysqli_query of the file /admin/modal_add_course.php. The manipulation of the argument course results in sql injection. The attack can be launched remotely. The exploit is now public and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86220",
+   "cvss": 7.3,
+   "ref": "https://github.com/justconter/_CVE/issues/1"
+  },
+  "title_vi": "CVE-2026-86220 — Một lỗ hổng đã được phát hiện trong Lớp SourceCodester và Hệ thống thời gian biểu thi 1",
+  "key": "6b7369d032de68e13be8110083842aa599d19ff4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86221 — A flaw has been found in SourceCodester Class and Exam Timetabling System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86221",
+  "published": "2026-09-06T19:17:27.943",
+  "summary": "A flaw has been found in SourceCodester Class and Exam Timetabling System 1.0. The impacted element is the function mysqli_query of the file /admin/modal_add_course1.php. This manipulation of the argument course causes sql injection. The attack may be initiated remotely. The exploit has been published and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86221",
+   "cvss": 7.3,
+   "ref": "https://github.com/justconter/_CVE/issues/2"
+  },
+  "title_vi": "CVE-2026-86221 — Một lỗ hổng đã được tìm thấy trong Lớp SourceCodester và Hệ thống thời gian biểu thi 1",
+  "key": "c888fd7a706060e0c8340c7656c683a287897138"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86222 — A vulnerability has been found in SourceCodester Class and Exam Timetabling System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86222",
+  "published": "2026-09-06T20:17:28.117",
+  "summary": "A vulnerability has been found in SourceCodester Class and Exam Timetabling System 1.0. This affects the function mysqli_query of the file /admin/modal_add_course2.php. Such manipulation of the argument course leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86222",
+   "cvss": 7.3,
+   "ref": "https://github.com/justconter/_CVE/issues/3"
+  },
+  "title_vi": "CVE-2026-86222 — Một lỗ hổng đã được tìm thấy trong Lớp SourceCodester và Hệ thống thời gian biểu thi 1",
+  "key": "bff242260d2a234709448ef5e5a5a7bbad6317c6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86223 — A vulnerability was found in SourceCodester Class and Exam Timetabling System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86223",
+  "published": "2026-09-06T20:17:28.280",
+  "summary": "A vulnerability was found in SourceCodester Class and Exam Timetabling System 1.0. This impacts the function mysqli_query of the file /admin/modal_add_coursea.php. Performing a manipulation of the argument course results in sql injection. Remote exploitation of the attack is possible. The exploit has been made public and could be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86223",
+   "cvss": 7.3,
+   "ref": "https://github.com/justconter/_CVE/issues/4"
+  },
+  "title_vi": "CVE-2026-86223 — Một lỗ hổng đã được tìm thấy trong Lớp SourceCodester và Hệ thống thời gian biểu thi 1",
+  "key": "7329acbc8286a852188b435a816bb9db9907f3be"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86224 — A vulnerability was determined in SourceCodester Class and Exam Timetabling System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86224",
+  "published": "2026-09-06T21:17:22.567",
+  "summary": "A vulnerability was determined in SourceCodester Class and Exam Timetabling System 1.0. Affected is the function mysqli_query of the file /admin/modal_add_product.php. Executing a manipulation of the argument fname can lead to sql injection. The attack can be executed remotely. The exploit has been publicly disclosed and may be utilized.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86224",
+   "cvss": 7.3,
+   "ref": "https://github.com/justconter/_CVE/issues/5"
+  },
+  "title_vi": "CVE-2026-86224 — Một lỗ hổng đã được xác định trong Lớp SourceCodester và Hệ thống thời gian biểu thi 1",
+  "key": "cee62ea7a4c1e447a1ce1cc8e494a6fdeb1e652e"
+ },
+ {
+  "source": "Tuổi Trẻ Công nghệ",
   "title": "Những vụ mất dữ liệu 'vô lý' nhất lịch sử công nghệ: Một cú gõ phím, cả hệ thống đi tong",
   "link": "https://tuoitre.vn/nhung-vu-mat-du-lieu-vo-ly-nhat-lich-su-cong-nghe-mot-cu-go-phim-ca-he-thong-di-tong-100260831151728788.htm",
   "published": "2026-09-06T17:59:46.504943+00:00",
@@ -8974,7 +10074,7 @@
    "cvss": 6.5,
    "ref": "https://www.ibm.com/support/pages/node/7285394"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-19645 — IBM MQ Agent CD: v1",
   "key": "54c0c9ce52f4e7fa1f4de73ab2721284bb867031"
  },
  {
@@ -8993,7 +10093,7 @@
    "cvss": 6.2,
    "ref": "https://www.ibm.com/support/pages/node/7286372"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-19649 — IBM App Connect Enterprise 13",
   "key": "e51720fac75af8188edf73aad8008ecdc047ebe4"
  },
  {
@@ -9012,7 +10112,7 @@
    "cvss": 9.8,
    "ref": "https://github.com/Virgula0/CVE-2026-44402"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-44402 — Voltronic Power SNMP Web Pro 1",
   "key": "87b2fd42ab9112d4c0b3fa22991c2676bceec713"
  },
  {
@@ -9031,7 +10131,7 @@
    "cvss": 6.7,
    "ref": "https://www.ibm.com/support/pages/node/7285277"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-5522 — IBM QRadar 7",
   "key": "69ef7db7fff545be708b202cc611870664acf348"
  },
  {
@@ -72842,1031 +73942,5 @@
   },
   "title_vi": "",
   "key": "64fa1fe3b496e726c8ef7e32fa663c943c91dc06"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79684 — Dell PowerStore contains a Protection Mechanism Failure vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79684",
-  "published": "2026-09-01T14:17:41.797",
-  "summary": "Dell PowerStore contains a Protection Mechanism Failure vulnerability. An authenticated user with limited privileges could potentially exploit this vulnerability to bypass access restrictions and gain escalated privileges.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79684",
-   "cvss": 8.8,
-   "ref": "https://www.dell.com/support/kbdoc/en-us/000497829/dsa-2026-330-dell-powerstore-t-security-update-for-multiple-vulnerabilities"
-  },
-  "title_vi": "",
-  "key": "33a91dc11cae23780a46cb23b746f03d1b590131"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80047 — A vulnerability in Hugging Face Transformers (versions 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80047",
-  "published": "2026-09-01T14:17:41.943",
-  "summary": "A vulnerability in Hugging Face Transformers (versions 4.49.0, <= 5.8.1) allows remote Python files to be written to local disk without user consent when using GenerativePreTrainedModel.load_custom_generate(). The function fetches and caches a remote module file before performing the required trust_remote_code consent check, inverting the security model enforced by other code-loading paths (such as AutoConfig, AutoModel, and AutoTokenizer). As a result, attacker‑controlled Python code from custom_generate/generate.py is copied into the user’s ~/.cache/huggingface/modules directory even if the ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80047",
-   "cvss": null,
-   "ref": "https://github.com/huggingface/transformers"
-  },
-  "title_vi": "",
-  "key": "6a3163e98dfd2278efafe1d086a15ee7b9c85010"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84109 — A weakness has been identified in Xinhu Rainrock RockOA up to 2",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84109",
-  "published": "2026-09-01T14:17:47.923",
-  "summary": "A weakness has been identified in Xinhu Rainrock RockOA up to 2.7.6. Affected by this issue is the function getOrder of the file webmain/webmainAction.php. Executing a manipulation of the argument highorder can lead to sql injection. The attack can be launched remotely. The exploit has been made available to the public and could be used for attacks. The vendor was contacted early about this disclosure but did not respond in any way.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84109",
-   "cvss": 6.3,
-   "ref": "https://github.com/Bu7terf1y/cve/issues/1"
-  },
-  "title_vi": "",
-  "key": "c4d7e7cc53f8978d8f7a1f31c9cc264692f45be2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84218 — A flaw was found in Jolokia's JSR-160 proxy functionality where insufficient validation of client-controlled JMX service URLs allows a bypass of the d",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84218",
-  "published": "2026-09-01T14:17:49.233",
-  "summary": "A flaw was found in Jolokia's JSR-160 proxy functionality where insufficient validation of client-controlled JMX service URLs allows a bypass of the denylist introduced to mitigate CVE-2018-1000130. The proxy accepts a `target.url` value from a Jolokia POST request and passes it to `JMXServiceURL` and `JMXConnectorFactory` for establishing the remote JMX connection. The existing denylist only rejects URLs matching `service:jmx:rmi:///jndi/ldap:.*`, which can be bypassed using alternative valid JMX service URL forms, including `ldaps://` schemes or LDAP URLs with a non-empty JMX host component.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84218",
-   "cvss": 8.1,
-   "ref": "https://access.redhat.com/security/cve/CVE-2026-84218"
-  },
-  "title_vi": "",
-  "key": "0a744dbab5d6363be1bfd191c28877fb0bcb163e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-9621 — A denial-of-service security issue exists within RSLinx® Classic",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-9621",
-  "published": "2026-09-01T14:17:49.377",
-  "summary": "A denial-of-service security issue exists within RSLinx® Classic. The security issue stems from improper handling of a malformed packet. A crafted CIP packet can cause the RSLinx® Classic service to crash, requiring a restart of the service to recover",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-9621",
-   "cvss": null,
-   "ref": "https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1794.html"
-  },
-  "title_vi": "",
-  "key": "0cabeee984f0fcc2b98dc242e0142092e84a1515"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-9622 — A denial-of-service security issue exists within RSLinx® Classic",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-9622",
-  "published": "2026-09-01T14:17:49.510",
-  "summary": "A denial-of-service security issue exists within RSLinx® Classic. A crafted CIP packet targeting the Forward Close service can cause the RSLinx® Classic service to crash, requiring a restart of the service to recover.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-9622",
-   "cvss": null,
-   "ref": "https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1794.html"
-  },
-  "title_vi": "",
-  "key": "e27f713ac170c1dc6496db38a5939c9184c639ee"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-9624 — A denial-of-service security issue exists within RSLinx® Classic",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-9624",
-  "published": "2026-09-01T14:17:49.633",
-  "summary": "A denial-of-service security issue exists within RSLinx® Classic. A crafted CIP packet can cause the RSLinx® Classic service to crash due to insufficient data length validation, requiring a  restart of the service to recover.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-9624",
-   "cvss": null,
-   "ref": "https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1794.html"
-  },
-  "title_vi": "",
-  "key": "dd2e0ec9e55032b487a73a14525d24455f2a6114"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-9625 — A denial-of-service security issue exists within RSLinx® Classic",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-9625",
-  "published": "2026-09-01T14:17:49.767",
-  "summary": "A denial-of-service security issue exists within RSLinx® Classic. A crafted CIP packet with an oversized embedded message request can cause the RSLinx® Classic service to crash, requiring a restart of the service to recover.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-9625",
-   "cvss": null,
-   "ref": "https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1794.html"
-  },
-  "title_vi": "",
-  "key": "ff4c2071598d4c9e526fb42b3da3a1962c79d801"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-9633 — A security issue exists within the Redundancy Module Configuration Tool",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-9633",
-  "published": "2026-09-01T14:17:49.893",
-  "summary": "A security issue exists within the Redundancy Module Configuration Tool. The RM3ConfigTool.exe binary searches directories in the system path for a required DLL, and one or more of these directories may be writable by standard (non-administrator) users due to incorrect default permissions. If a local attacker places a malicious DLL in such a directory and an administrator subsequently runs the tool, the malicious DLL is loaded into the elevated process and executes with Administrator/SYSTEM privileges.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-9633",
-   "cvss": null,
-   "ref": "https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1800.html"
-  },
-  "title_vi": "",
-  "key": "70d7ff4f412b6eb1e78a6cd50b1dca592bbe4e5b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-9634 — A security issue exists within the Redundancy Module Configuration Tool",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-9634",
-  "published": "2026-09-01T14:17:50.017",
-  "summary": "A security issue exists within the Redundancy Module Configuration Tool. The RMConfigTool.exe binary searches directories in the system path for a required DLL, and one or more of these directories may be writable by standard (non-administrator) users due to incorrect default permissions. If a local attacker places a malicious DLL in such a directory and an administrator subsequently runs the tool, the malicious DLL is loaded into the elevated process and executes with Administrator/SYSTEM privileges.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-9634",
-   "cvss": null,
-   "ref": "https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1800.html"
-  },
-  "title_vi": "",
-  "key": "6cb251fd749f7096d4180ba41f2e6bbb9fa7fc59"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-9637 — A denial-of-service security issue exists in the affected Logix platforms listed in the table above",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-9637",
-  "published": "2026-09-01T14:17:50.157",
-  "summary": "A denial-of-service security issue exists in the affected Logix platforms listed in the table above. The security issue stems from improper validation of input length during CIP message processing. This can result in a major nonrecoverable fault (MNRF), requiring a power cycle to recover",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-9637",
-   "cvss": null,
-   "ref": "https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1792.html"
-  },
-  "title_vi": "",
-  "key": "77b847aa9b34c808c7931c9f74310d846b8f04ae"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-18630 — Improper neutralization of special elements used in an SQL command ('SQL injection') vulnerability in TMT Machine Industry and Trade Ltd",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18630",
-  "published": "2026-09-01T15:17:12.753",
-  "summary": "Improper neutralization of special elements used in an SQL command ('SQL injection') vulnerability in TMT Machine Industry and Trade Ltd. Co. Talassoft Industrial Management Software allows SQL Injection.\n\nThis issue affects Talassoft Industrial Management Software: from V.4 before V.16.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-18630",
-   "cvss": 8.8,
-   "ref": "https://siberguvenlik.gov.tr/guvenlik-bildirimleri/detay/tr-26-0965"
-  },
-  "title_vi": "",
-  "key": "1f036a3304533ebc0356aeec2763997ccfa77755"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-18771 — Missing authentication for critical function vulnerability in TMT Machine Industry and Trade Ltd",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18771",
-  "published": "2026-09-01T15:17:13.060",
-  "summary": "Missing authentication for critical function vulnerability in TMT Machine Industry and Trade Ltd. Co. Talassoft Industrial Management Software allows Authentication Bypass.\n\nThis issue affects Talassoft Industrial Management Software: from V4 before V.16.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-18771",
-   "cvss": 7.5,
-   "ref": "https://siberguvenlik.gov.tr/guvenlik-bildirimleri/detay/tr-26-0965"
-  },
-  "title_vi": "",
-  "key": "643456933680c4ec0606a47a0b5d12009becea9c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-18780 — Cross-Site request forgery (CSRF) vulnerability in TMT Machine Industry and Trade Ltd",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18780",
-  "published": "2026-09-01T15:17:13.200",
-  "summary": "Cross-Site request forgery (CSRF) vulnerability in TMT Machine Industry and Trade Ltd. Co. Talassoft Industrial Management Software allows Cross Site Request Forgery.\n\nThis issue affects Talassoft Industrial Management Software: from V.4 before V.16.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-18780",
-   "cvss": 7.1,
-   "ref": "https://siberguvenlik.gov.tr/guvenlik-bildirimleri/detay/tr-26-0965"
-  },
-  "title_vi": "",
-  "key": "41aed5e76d48fb30ae378fb4eb42e680120c4b79"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55951 — The Erlang/OTP httpc HTTP client does not enforce a limit on the total size of response headers received from a server",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55951",
-  "published": "2026-09-01T15:17:20.780",
-  "summary": "The Erlang/OTP httpc HTTP client does not enforce a limit on the total size of response headers received from a server. The max_header_size option defaults to nolimit, and httpc_response:parse_headers/6 accumulates every header into a list before the length check runs (which only fires after the terminating CRLF CRLF is received).\n\nA malicious or compromised HTTP server can send an arbitrarily large number of headers, or headers with very large values, causing the client process to allocate unbounded memory until the system runs out of memory or the BEAM VM crashes. A proof-of-concept server s",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55951",
-   "cvss": null,
-   "ref": "https://cna.erlef.org/cves/CVE-2026-55951.html"
-  },
-  "title_vi": "",
-  "key": "7684b4495c5d861f116c2b8055cfa24904ae9db1"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-58569 — Dell PowerStore contains an Inclusion of Functionality from Untrusted Control Sphere vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-58569",
-  "published": "2026-09-01T15:17:21.187",
-  "summary": "Dell PowerStore contains an Inclusion of Functionality from Untrusted Control Sphere vulnerability. An authenticated user with limited privileges could potentially exploit this vulnerability to execute arbitrary code with root privileges..",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-58569",
-   "cvss": 8.8,
-   "ref": "https://www.dell.com/support/kbdoc/en-us/000497829/dsa-2026-330-dell-powerstore-t-security-update-for-multiple-vulnerabilities"
-  },
-  "title_vi": "",
-  "key": "29aa4df102c460b29e913c14cb0ff717fc648616"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-59696 — Improper Validation of Specified Quantity in Input vulnerability in Erlang/OTP stdlib allows a remote attacker to degrade availability by supplying a ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-59696",
-  "published": "2026-09-01T15:17:22.250",
-  "summary": "Improper Validation of Specified Quantity in Input vulnerability in Erlang/OTP stdlib allows a remote attacker to degrade availability by supplying a URI whose port component is a very long run of digits.\n\nuri_string:get_port/1 passes the port substring to binary_to_integer/1 with no length bound, catching only error:badarg, so a syntactically valid port of up to roughly 1.26 million digits converts successfully and costs the calling process hundreds of milliseconds of arbitrary-precision arithmetic. The conversion is reached from every authority-parsing path in uri_string:parse/1, including t",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-59696",
-   "cvss": null,
-   "ref": "https://cna.erlef.org/cves/CVE-2026-59696.html"
-  },
-  "title_vi": "",
-  "key": "4659d8c1d98540e96a93cd2686094d9837686b02"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-5480 — Rejected reason: ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-5480",
-  "published": "2026-09-01T15:17:22.467",
-  "summary": "Rejected reason: ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. Reason: This candidate was issued in error. Notes: All references and descriptions in this candidate have been removed to prevent accidental usage.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-5480",
-   "cvss": null,
-   "ref": ""
-  },
-  "title_vi": "",
-  "key": "20ab172af489d5fae71b0b8c75a29dcd5466c6f8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-66357 — httpd has never implemented obs-fold (RFC 2616 §2",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66357",
-  "published": "2026-09-01T15:17:23.047",
-  "summary": "httpd has never implemented obs-fold (RFC 2616 §2.2 / RFC 7230 §3.2.4 header continuation lines). Every CRLF followed by a non-CRLF octet unconditionally starts a new header. This missing feature became a security concern as the understanding of HTTP request smuggling attacks evolved.\n\nThis issue affects OTP from OTP 17.0 before OTP 27.3.4.17, from OTP 28.0 before OTP 28.5.0.6, and from OTP 29.0 before OTP 29.0.6, corresponding to inets from 5.10 before 9.3.2.7, from 9.4 before 9.6.2.3, and from 9.7 before 9.7.2. Whether OTP before OTP 17.0, corresponding to inets before 5.10, is affected is u",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-66357",
-   "cvss": null,
-   "ref": "https://cna.erlef.org/cves/CVE-2026-66357.html"
-  },
-  "title_vi": "",
-  "key": "5e4f08e2d7dbf2336b261e0a6bbe9c586c065f36"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-66835 — Path Equivalence vulnerability in Erlang/OTP inets httpd allows a remote unauthenticated attacker to read files inside a mod_auth protected directory ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66835",
-  "published": "2026-09-01T15:17:23.433",
-  "summary": "Path Equivalence vulnerability in Erlang/OTP inets httpd allows a remote unauthenticated attacker to read files inside a mod_auth protected directory by prefixing the request path with an extra slash.\n\nhttpd_request:validate_uri/1 normalises the request URI with uri_string:normalize/1, which performs RFC 3986 dot-segment removal but does not collapse empty path segments, so a doubled slash survives. mod_alias:real_name/3 concatenates the document root with that URI, and mod_auth:secret_path/3 then decides whether the result lies inside a protected directory block by running the configured dire",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-66835",
-   "cvss": null,
-   "ref": "https://cna.erlef.org/cves/CVE-2026-66835.html"
-  },
-  "title_vi": "",
-  "key": "bfe572d43c032bbcbe6908891e897cd671005313"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69664 — Missing Release of Resource after Effective Lifetime vulnerability in Erlang/OTP inets httpd allows an unauthenticated remote attacker to cause denial",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69664",
-  "published": "2026-09-01T15:17:23.677",
-  "summary": "Missing Release of Resource after Effective Lifetime vulnerability in Erlang/OTP inets httpd allows an unauthenticated remote attacker to cause denial of service by sending a request with a chunked body whose chunk-size line is not a hexadecimal number. The worker serving the connection is never released and no timeout reclaims it, so repeating the request across connections occupies every available worker and denies service to legitimate clients. No authentication is required and the default configuration is affected.\n\nThe chunk-size line must arrive in a write separate from the headers. When",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69664",
-   "cvss": null,
-   "ref": "https://cna.erlef.org/cves/CVE-2026-69664.html"
-  },
-  "title_vi": "",
-  "key": "b664ee3c3cf93da57fe40e7459a99c88f7afe6aa"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-70399 — Allocation of Resources Without Limits or Throttling vulnerability in Erlang/OTP inets httpd allows an unauthenticated remote attacker to cause denial",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-70399",
-  "published": "2026-09-01T15:17:23.947",
-  "summary": "Allocation of Resources Without Limits or Throttling vulnerability in Erlang/OTP inets httpd allows an unauthenticated remote attacker to cause denial of service by opening and holding open a large number of connections. The max_clients option is documented to default to 150, and the inets hardening guide presents that limit as the first layer of denial-of-service defence, but a server that does not set it explicitly accepts an unlimited number of simultaneous connections. Establishing the connections is sufficient; no valid request and no authentication are required.\n\nThe accept gate in httpd",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-70399",
-   "cvss": null,
-   "ref": "https://cna.erlef.org/cves/CVE-2026-70399.html"
-  },
-  "title_vi": "",
-  "key": "ebf358e076eec0bbfb59241752e23a4c005a3184"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-70405 — Improper Validation of Specified Quantity in Input vulnerability in Erlang/OTP snmp allows a remote attacker to degrade availability by sending an SNM",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-70405",
-  "published": "2026-09-01T15:17:24.193",
-  "summary": "Improper Validation of Specified Quantity in Input vulnerability in Erlang/OTP snmp allows a remote attacker to degrade availability by sending an SNMP message containing a BER INTEGER whose length field is arbitrarily large.\n\nsnmp_pdus:dec_integer_notag/1 defaults its size limit to infinity, and do_dec_integer_notag/2 then accumulates the value across every declared byte with a recursive shift and bitwise or. Work grows superlinearly in the declared length because each operation acts on a progressively larger bignum. The size-limited variant dec_integer_notag/2 exists but is reached from only",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-70405",
-   "cvss": null,
-   "ref": "https://cna.erlef.org/cves/CVE-2026-70405.html"
-  },
-  "title_vi": "",
-  "key": "9a7bf5f8a32593be07ad6c0ebb54bb594b8508ef"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-70409 — Improper Validation of Specified Quantity in Input vulnerability in Erlang/OTP eldap allows a malicious or compromised LDAP server to degrade availabi",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-70409",
-  "published": "2026-09-01T15:17:24.427",
-  "summary": "Improper Validation of Specified Quantity in Input vulnerability in Erlang/OTP eldap allows a malicious or compromised LDAP server to degrade availability by returning a referral URL whose port component is a very long run of digits.\n\neldap:parse_port/2 passes the port substring straight to list_to_integer/1 with no length bound. The surrounding try ... catch only rejects a value that fails to parse, so a syntactically valid port of up to roughly 1.26 million digits converts successfully and costs the caller hundreds of milliseconds of arbitrary-precision arithmetic per referral. The conversio",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-70409",
-   "cvss": null,
-   "ref": "https://cna.erlef.org/cves/CVE-2026-70409.html"
-  },
-  "title_vi": "",
-  "key": "610e41151e8f82794761211387d79b7b0e74dc2a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-71380 — Missing Release of Resource after Effective Lifetime vulnerability in Erlang/OTP inets httpd allows an unauthenticated remote attacker to cause denial",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71380",
-  "published": "2026-09-01T15:17:24.637",
-  "summary": "Missing Release of Resource after Effective Lifetime vulnerability in Erlang/OTP inets httpd allows an unauthenticated remote attacker to cause denial of service by sending valid request headers with a large Content-Length and then stalling before the body is complete.\n\nhttpd_request_handler:handle_info/2 cancels the request timeout as soon as a parse step succeeds, which includes the headers, and the clause that handles a decoder asking for more data re-arms the socket with {active, once} without setting any further timer. httpd_request:whole_body/2 returns such a continuation whenever the by",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-71380",
-   "cvss": null,
-   "ref": "https://cna.erlef.org/cves/CVE-2026-71380.html"
-  },
-  "title_vi": "",
-  "key": "47f4ec0ffed229ebda06914aee67ea8ddea99afe"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-71562 — Improper Validation of Specified Quantity in Input vulnerability in Erlang/OTP inets httpc allows a malicious or compromised HTTP server to degrade av",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71562",
-  "published": "2026-09-01T15:17:24.883",
-  "summary": "Improper Validation of Specified Quantity in Input vulnerability in Erlang/OTP inets httpc allows a malicious or compromised HTTP server to degrade availability by returning a numeric header whose value is a very long run of digits.\n\nhttpc_handler.erl converts the server-supplied Content-Length with list_to_integer/1 before comparing it against max_body_size, so the size check cannot protect the conversion, and the option defaults to nolimit in any case. The same unbounded conversion appears in httpc_response:format_response/1 for Content-Length and in httpc_response:get_ms_from_retry_after/1 ",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-71562",
-   "cvss": null,
-   "ref": "https://cna.erlef.org/cves/CVE-2026-71562.html"
-  },
-  "title_vi": "",
-  "key": "71ec706ab8ecf78e0e89c8e0fd61b11cc542d947"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-73270 — Improper Handling of Case Sensitivity vulnerability in Erlang/OTP inets httpd allows a remote unauthenticated attacker to read files inside a mod_auth",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73270",
-  "published": "2026-09-01T15:17:25.103",
-  "summary": "Improper Handling of Case Sensitivity vulnerability in Erlang/OTP inets httpd allows a remote unauthenticated attacker to read files inside a mod_auth protected directory by requesting them with different casing, on deployments whose filesystem is case-insensitive.\n\nmod_auth:secret_path/3 decides whether a resolved filesystem path lies inside a protected directory block by running the configured directory path through re:run/3 without the caseless option. A request for /secret/file against a directory configured as /Secret therefore does not match, so the request is treated as unprotected and ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-73270",
-   "cvss": null,
-   "ref": "https://cna.erlef.org/cves/CVE-2026-73270.html"
-  },
-  "title_vi": "",
-  "key": "28e3e21c0bb730b5ce29920ca1cdd5d780f50d10"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-73276 — Gracefulness code ignored cases that should be rejected, resulting in possible HTTP Request Smuggling opportunities",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73276",
-  "published": "2026-09-01T15:17:25.367",
-  "summary": "Gracefulness code ignored cases that should be rejected, resulting in possible HTTP Request Smuggling opportunities.\n\nThis issue affects OTP from OTP 22.2 before OTP 27.3.4.17, from OTP 28.0 before OTP 28.5.0.6, and from OTP 29.0 before OTP 29.0.6, corresponding to inets from 7.1.2 before 9.3.2.7, from 9.4 before 9.6.2.3, and from 9.7 before 9.7.2.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-73276",
-   "cvss": null,
-   "ref": "https://cna.erlef.org/cves/CVE-2026-73276.html"
-  },
-  "title_vi": "",
-  "key": "a47ec9b240ef49511d7c54b0d3830bf96ca44624"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-73812 — httpd function check_header/3 rejects duplicate Content-Length (per CVE-2026-23941) but never checks for the TE+CL co-presence that RFC 9112 §6",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73812",
-  "published": "2026-09-01T15:17:25.540",
-  "summary": "httpd function check_header/3 rejects duplicate Content-Length (per CVE-2026-23941) but never checks for the TE+CL co-presence that RFC 9112 §6.3 identifies as a probable smuggling attempt. handle_body/3 frames by chunked and silently discards Content-Length. A CL-preferring front-end paired with chunked-preferring inets creates a classic CL.TE front-end/back-end desync.\n\nThis issue affects OTP from OTP 17.0 before OTP 27.3.4.17, from OTP 28.0 before OTP 28.5.0.6, and from OTP 29.0 before OTP 29.0.6, corresponding to inets from 5.10 before 9.3.2.7, from 9.4 before 9.6.2.3, and from 9.7 before ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-73812",
-   "cvss": null,
-   "ref": "https://cna.erlef.org/cves/CVE-2026-73812.html"
-  },
-  "title_vi": "",
-  "key": "59e8e31c5f0327ea6326ba4b2d25aaf381aadf50"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-74835 — The inets application HTTP server httpd fails to enforce a configured body-size limit on chunked request",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-74835",
-  "published": "2026-09-01T15:17:25.730",
-  "summary": "The inets application HTTP server httpd fails to enforce a configured body-size limit on chunked request.\n\nThis issue affects OTP from OTP 17.0 before OTP 27.3.4.17, from OTP 28.0 before OTP 28.5.0.6, and from OTP 29.0 before OTP 29.0.6, corresponding to inets from 5.10 before 9.3.2.7, from 9.4 before 9.6.2.3, and from 9.7 before 9.7.2. Whether OTP before OTP 17.0, corresponding to inets before 5.10, is affected is unknown.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-74835",
-   "cvss": null,
-   "ref": "https://cna.erlef.org/cves/CVE-2026-74835.html"
-  },
-  "title_vi": "",
-  "key": "f25d3622db2128ed8657958153f5fe22a6257601"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-74994 — The mod_auth module in OTP's inets httpd server, when configured with dets or mnesia authentication backends and multiple directory configuration bloc",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-74994",
-  "published": "2026-09-01T15:17:25.927",
-  "summary": "The mod_auth module in OTP's inets httpd server, when configured with dets or mnesia authentication backends and multiple directory configuration blocks, collapses all directory blocks into a single shared user/group namespace. A user added to one protected directory is accepted as valid for all other protected directories on the same server instance.\n\nThis issue affects OTP from OTP 17.0 before OTP 27.3.4.17, from OTP 28.0 before OTP 28.5.0.6, and from OTP 29.0 before OTP 29.0.6, corresponding to inets from 5.10 before 9.3.2.7, from 9.4 before 9.6.2.3, and from 9.7 before 9.7.2. Whether OTP b",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-74994",
-   "cvss": null,
-   "ref": "https://cna.erlef.org/cves/CVE-2026-74994.html"
-  },
-  "title_vi": "",
-  "key": "f7590123ba34bb38c481d0d6ceaa5caa61c3d4bc"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75538 — An attacker that connects to an open Erlang TCP port that uses the inet driver with {packet,4} mode can use a signed overflow in an incorrect packet l",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75538",
-  "published": "2026-09-01T15:17:26.853",
-  "summary": "An attacker that connects to an open Erlang TCP port that uses the inet driver with {packet,4} mode can use a signed overflow in an incorrect packet length calculation to overflow the receive buffer into the VM allocator area and beyond up to about 2 GB.\n\nThis would easily trash the allocated block's allocator metadata footer, and the next block, if any, and most likely cause the BEAM VM to crash. Utilizing this with precision enough to achieve Remote Code Execution would be extremely unfeasible.\n\nThis issue affects OTP from OTP 17.0 before OTP 27.3.4.17, from OTP 28.0 before OTP 28.5.0.6, and",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75538",
-   "cvss": null,
-   "ref": "https://cna.erlef.org/cves/CVE-2026-75538.html"
-  },
-  "title_vi": "",
-  "key": "a77ea63c4b5d42c0f03f6075712852d21d87d382"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-78012 — An issue in the NetStaX EtherNet/IP Stack prior to v5",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78012",
-  "published": "2026-09-01T15:17:28.013",
-  "summary": "An issue in the NetStaX EtherNet/IP Stack prior to v5.6.1 could allow a large Class 3 explicit-message request to exceed the application-side receive buffer without generating an error or warning. The result could be memory corruption, a device crash, or a potential remote attack vector without the originating device receiving a CIP error indicating that the request could not be processed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-78012",
-   "cvss": 9.8,
-   "ref": "https://pyramidsolutions.com/netstax-v-5-6-1-protecting-against-silent-buffer-overflow-in-ethernet-ip-stack-explicit-messages/"
-  },
-  "title_vi": "",
-  "key": "c28a8463ef40789d56f89479d9361a9c8d5cf5eb"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79685 — Dell PowerStore contains an Argument Injection vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79685",
-  "published": "2026-09-01T15:17:29.390",
-  "summary": "Dell PowerStore contains an Argument Injection vulnerability. An authenticated user with limited privileges could potentially exploit this vulnerability to gain unauthorized access to sensitive sensitive system information.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79685",
-   "cvss": 6.5,
-   "ref": "https://www.dell.com/support/kbdoc/en-us/000497829/dsa-2026-330-dell-powerstore-t-security-update-for-multiple-vulnerabilities"
-  },
-  "title_vi": "",
-  "key": "1fd86731ebbad62874d209bf98f480449eb96856"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79686 — Dell PowerStore contains a Protection Mechanism Failure vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79686",
-  "published": "2026-09-01T15:17:29.567",
-  "summary": "Dell PowerStore contains a Protection Mechanism Failure vulnerability. An authenticated user with limited privileges could potentially exploit this vulnerability to bypass access restrictions and gain escalated privileges.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79686",
-   "cvss": 8.8,
-   "ref": "https://www.dell.com/support/kbdoc/en-us/000497829/dsa-2026-330-dell-powerstore-t-security-update-for-multiple-vulnerabilities"
-  },
-  "title_vi": "",
-  "key": "1485ca0dd968bee0490df18116f7867da6bb3e30"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-83557 — DefaultBaseTypeLimitingValidator is the PolymorphicTypeValidator applied automatically whenever @JsonTypeInfo is used without an explicitly configured",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-83557",
-  "published": "2026-09-01T15:17:37.987",
-  "summary": "DefaultBaseTypeLimitingValidator is the PolymorphicTypeValidator applied automatically whenever @JsonTypeInfo is used without an explicitly configured custom validator. It denies polymorphic resolution only for a fixed set of \"unsafe base types\", and its isSafeSubType method returns true unconditionally for every base type outside that set. java.lang.Comparable was absent from the list despite being implemented by a very large fraction of JDK and application classes, comparable in breadth to java.io.Serializable, which is on the list for that reason. An application declaring an @JsonTypeInfo-a",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-83557",
-   "cvss": 5.6,
-   "ref": "https://github.com/FasterXML/jackson-databind/commit/eb3b7fc0f9c0d27f471550ac3316b17d1987388f"
-  },
-  "title_vi": "",
-  "key": "3a376d9b7f613e9592b8c83a0cd4a1553a604411"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-83605 — xmldom is a pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-83605",
-  "published": "2026-09-01T15:17:38.317",
-  "summary": "xmldom is a pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module. Prior to @xmldom/xmldom versions 0.8.14 and 0.9.11, and in xmldom version 0.6.0 and earlier, Element.setAttribute() calls the private _createAttribute(name) path without validating the attribute name, while Document.createAttribute(name) validates against QName. XMLSerializer.serializeToString() emits attribute names verbatim, and requireWellFormed: true did not validate them, so a crafted name can terminate the intended attribute and inject additional attributes, including event handlers,",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-83605",
-   "cvss": null,
-   "ref": "https://github.com/xmldom/xmldom/commit/cba1321218b069182695813fa7565653708e172e"
-  },
-  "title_vi": "",
-  "key": "e0598916e58bf4c9d3c6ee1c71c04b4f01c14250"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-83606 — xmldom is a pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-83606",
-  "published": "2026-09-01T15:17:38.490",
-  "summary": "xmldom is a pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module. From 0.9.0-beta.9 until 0.9.11, the processing-instruction production in lib/grammar.js lets the greedy S+ separator and lazy Char*? data group repeatedly repartition a long whitespace tail when the required closing ?> is absent. Both parsePI and parseProcessingInstruction apply the expression to the entire remaining source, causing quadratic backtracking during DOMParser.parseFromString() under default options and allowing a small unauthenticated XML input to stall the Node.js event loop.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-83606",
-   "cvss": null,
-   "ref": "https://github.com/xmldom/xmldom/commit/73df6b8bdbd86f904b9e8c3ab9c49aa54ef2802e"
-  },
-  "title_vi": "",
-  "key": "c44b4785a9cf271efccd13a4786fcd8584816d82"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-83607 — xmldom is a pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-83607",
-  "published": "2026-09-01T15:17:38.650",
-  "summary": "xmldom is a pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module. Prior to @xmldom/xmldom versions 0.8.14 and 0.9.11, and in xmldom version 0.6.0 and earlier, Document.createElement(tagName) stores an unvalidated element name and XMLSerializer.serializeToString() emits that name verbatim. The requireWellFormed: true path did not validate the element qualified name or synthesized xmlns:PREFIX declaration, so attacker-controlled tag names could inject attributes, elements, or processing instructions into serialized XML or HTML and could cause cross-site sc",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-83607",
-   "cvss": null,
-   "ref": "https://github.com/xmldom/xmldom/commit/cba1321218b069182695813fa7565653708e172e"
-  },
-  "title_vi": "",
-  "key": "ef9ad0d4d732dca73f35d9a65277abcad4ef2db3"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-83608 — xmldom is a pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-83608",
-  "published": "2026-09-01T15:17:38.800",
-  "summary": "xmldom is a pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module. Prior to @xmldom/xmldom versions 0.8.15 and 0.9.12, and in xmldom version 0.6.0 and earlier, the DOCUMENT_TYPE_NODE branch in lib/dom.js validates publicId, systemId, and internalSubset under requireWellFormed: true but emits DocumentType.name verbatim. A name containing > or whitespace can terminate the <!DOCTYPE ...> declaration and inject sibling markup; the value can be supplied through createDocumentType() on the 0.8.x and unscoped lines or through a direct DocumentType.name property ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-83608",
-   "cvss": null,
-   "ref": "https://github.com/xmldom/xmldom/commit/57aec90ac57b4408ae7c5d1746bf2a693b5ed90e"
-  },
-  "title_vi": "",
-  "key": "140c5c617fefb150ee217410eba4f636db2ca82d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-83609 — xmldom is a pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-83609",
-  "published": "2026-09-01T15:17:38.953",
-  "summary": "xmldom is a pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module. From 0.9.0 until 0.9.12, the shared reg() builder in lib/grammar.js compiles the anchored QName_exact validator with the multiline flag, so ^ and $ validate only one line instead of the complete name. createElementNS, createAttributeNS, createDocumentType, and createAttribute consequently accept a malformed XML name whose first line is valid and whose later text injects markup when serialized through either the default path or requireWellFormed: true. The triggering ECMAScript line termina",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-83609",
-   "cvss": null,
-   "ref": "https://github.com/xmldom/xmldom/commit/7b2ec67e1750daadd0bb06c92e875e726544a362"
-  },
-  "title_vi": "",
-  "key": "70ba4d80945fb25e5fdd4462d4b2c70c8ac221e7"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-83610 — xmldom is a pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-83610",
-  "published": "2026-09-01T15:17:39.107",
-  "summary": "xmldom is a pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module. Prior to @xmldom/xmldom versions 0.8.15 and 0.9.12, and in xmldom version 0.6.0 and earlier, Document.createEntityReference(name) accepts an invalid name and the ENTITY_REFERENCE_NODE serializer emits the resulting nodeName directly in &name; form. Directly serializing the node or fragment with XMLSerializer.serializeToString() and requireWellFormed: true can therefore break the entity-reference boundary and produce attacker-controlled XML markup when reparsed. The parser does not ordinari",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-83610",
-   "cvss": null,
-   "ref": "https://github.com/xmldom/xmldom/commit/4664386e4f4d99d17b416a151dbe8323e245284b"
-  },
-  "title_vi": "",
-  "key": "a3d2de6043017ec5ea771a79d3ecd420d8c7515d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-83611 — xmldom is a pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-83611",
-  "published": "2026-09-01T15:17:39.263",
-  "summary": "xmldom is a pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module. Prior to @xmldom/xmldom versions 0.8.15 and 0.9.12, and in xmldom version 0.6.0 and earlier, DOMParser.parseFromString() can silently accept an end tag such as </a\\njunk>, close the element, and discard the trailing content. On 0.9.x, the lib/sax.js end-tag validator inherits the multiline flag from reg(), allowing the first line to satisfy the anchored XML ETag production; older lines have no equivalent residue validation. This parser differential can bypass a parse-before-trust well-form",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-83611",
-   "cvss": null,
-   "ref": "https://github.com/xmldom/xmldom/commit/4430189660b0d380ee9c9ee7550a1358688e8828"
-  },
-  "title_vi": "",
-  "key": "e4775215115b621fd1e575f7ac37aa0f851dabf0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-83612 — xmldom is a pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-83612",
-  "published": "2026-09-01T15:17:39.430",
-  "summary": "xmldom is a pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module. From 0.9.0-beta.1 until 0.9.12, HTML-mode parsing through DOMParser.parseFromString() mishandles a mixed-case closing tag for the script, style, textarea, or title raw-text elements. parseHtmlSpecialContent, selected by isHTMLRawTextElement or isHTMLEscapableRawTextElement, uses a case-sensitive indexOf() and then calls substring() with a missing-close result of negative one, causing unstable parser progression and quadratic output amplification. A small untrusted text/html document can co",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-83612",
-   "cvss": null,
-   "ref": "https://github.com/xmldom/xmldom/commit/7ced40c06c28d151e996a97045018c3559ae4707"
-  },
-  "title_vi": "",
-  "key": "3fdf61465d17c6ecbc99108bc03c16d44ce42a4a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-83613 — xmldom is a pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-83613",
-  "published": "2026-09-01T15:17:39.583",
-  "summary": "xmldom is a pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module. Prior to @xmldom/xmldom versions 0.8.15 and 0.9.12, and in xmldom version 0.6.0 and earlier, DOMHandler.startElement in lib/dom-parser.js inserts every parsed attribute through setAttributeNode, while NamedNodeMap.setNamedItem in lib/dom.js calls the linear getNamedItem or getNamedItemNS lookup for each insertion. A well-formed element with many distinct attributes therefore requires quadratic comparisons during DOMParser.parseFromString() and can stall a Node.js event loop before applicat",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-83613",
-   "cvss": null,
-   "ref": "https://github.com/xmldom/xmldom/commit/2c548f200cfec991cd5846627ef8f03542309213"
-  },
-  "title_vi": "",
-  "key": "f1d129d3d4386e1f16e7a988ddc4963ab20f8c05"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-83614 — xmldom is a pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-83614",
-  "published": "2026-09-01T15:17:39.733",
-  "summary": "xmldom is a pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module. Prior to @xmldom/xmldom versions 0.8.15 and 0.9.12, and in xmldom versions 0.3.0 through 0.6.0, two independent quadratic paths can cause denial of service. In lib/sax.js, parseElementStartPart repeatedly rescans a malformed tag name to the next > during single-character recovery; in lib/dom.js, normalize() repeatedly removes and appends adjacent text nodes, causing quadratic reindexing and string rebuilding. The first path is reachable through default DOMParser.parseFromString() processin",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-83614",
-   "cvss": null,
-   "ref": "https://github.com/xmldom/xmldom/commit/0748720b620555f8c222782dcab575cf0cf403b4"
-  },
-  "title_vi": "",
-  "key": "5b25f5c0c60415e720a95b24a21623b36ad5166a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-83615 — xmldom is a pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-83615",
-  "published": "2026-09-01T15:17:39.887",
-  "summary": "xmldom is a pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module. Prior to @xmldom/xmldom versions 0.8.15 and 0.9.12, and in xmldom versions 0.1.5 through 0.6.0, appendElement in lib/sax.js uses _copy to clone the complete currentNSMap for each nested element that declares a new namespace prefix. Keeping every ancestor map live on the parse stack creates quadratic peak namespace-map storage, so a small highly compressible XML document can exhaust the process heap before application validation. This issue is fixed in @xmldom/xmldom versions 0.8.15 and 0.9",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-83615",
-   "cvss": null,
-   "ref": "https://github.com/xmldom/xmldom/commit/954370f58c046223faf95ba77efcbc8ce014409d"
-  },
-  "title_vi": "",
-  "key": "6b8dfef37cf0b1ccf8478ec38292ad73018e0f7a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-83616 — xmldom is a pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-83616",
-  "published": "2026-09-01T15:17:40.040",
-  "summary": "xmldom is a pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module. Prior to @xmldom/xmldom versions 0.8.15 and 0.9.12, and in xmldom version 0.6.0 and earlier, Document.createProcessingInstruction(target, data) in lib/dom.js accepts an unvalidated target, while the requireWellFormed: true serializer checks only for a colon and the reserved case-insensitive xml name on 0.9.x and performs no target check on 0.8.x. Because serialization emits <?target data?>, a target containing >, ?, whitespace, or another invalid XML-name character can break the processing",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-83616",
-   "cvss": null,
-   "ref": "https://github.com/xmldom/xmldom/commit/1cde3e31a07c41c87cfd368d6946aa477f16b4f9"
-  },
-  "title_vi": "",
-  "key": "d7fb4963936e5d4368c455f5185e776f4162005d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-83617 — xmldom is a pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-83617",
-  "published": "2026-09-01T15:17:40.273",
-  "summary": "xmldom is a pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module. From 0.9.11 until 0.9.12, the requireWellFormed: true element and attribute name checks use the anchored QName_exact expression produced by reg() in lib/grammar.js, which inherits the multiline flag. A name with a valid first line followed by U+000A, U+000D, U+2028, or U+2029 and breakout markup therefore passes validation and is emitted verbatim in element start and end tags or attribute names. This bypasses the strict-serialization checks introduced for the earlier element-name and attri",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-83617",
-   "cvss": null,
-   "ref": "https://github.com/xmldom/xmldom/commit/7b2ec67e1750daadd0bb06c92e875e726544a362"
-  },
-  "title_vi": "",
-  "key": "b02979902ddada37e5e8747011ce3952398aa821"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-83618 — xmldom is a pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-83618",
-  "published": "2026-09-01T15:17:40.480",
-  "summary": "xmldom is a pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module. From 0.9.10 until 0.9.12, the requireWellFormed: true serializer validates DocumentType.publicId and DocumentType.systemId with PubidLiteral_match and SystemLiteral_match expressions produced by reg() in lib/grammar.js, which inherit the multiline flag. A complete valid literal on the first line can therefore satisfy the matcher while U+000A, U+000D, U+2028, or U+2029 and breakout markup remain in the emitted <!DOCTYPE ...> declaration. This bypasses the strict-serialization mitigation for",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-83618",
-   "cvss": null,
-   "ref": "https://github.com/xmldom/xmldom/commit/7b2ec67e1750daadd0bb06c92e875e726544a362"
-  },
-  "title_vi": "",
-  "key": "1398f7f9343369798bc04f6a76e8343380d8720e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-83619 — xmldom is a pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-83619",
-  "published": "2026-09-01T15:17:40.657",
-  "summary": "xmldom is a pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module. From 0.7.0 until 0.8.15, the release-0.8.x parser in lib/sax.js trims captured end-tag names with the unanchored global expression /[ \\t\\n\\r]+$/g. For an end tag containing a long whitespace run followed by a non-whitespace character, the expression retries from each possible starting position and backtracks quadratically before failing its end anchor. DOMParser.parseFromString() reaches the path under default options, allowing a small unauthenticated XML input to stall the Node.js event l",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-83619",
-   "cvss": null,
-   "ref": "https://github.com/xmldom/xmldom/commit/3abb0934f5a8a84d83a1f9cde0f2bd04c08b2a09"
-  },
-  "title_vi": "",
-  "key": "d7f905a7db7400f8512156762fbe2de04dddf8f6"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84110 — A vulnerability was detected in Releasit Releasit COD Form & Upsells v1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84110",
-  "published": "2026-09-01T15:17:40.983",
-  "summary": "A vulnerability was detected in Releasit Releasit COD Form & Upsells v1. This vulnerability affects unknown code of the component OTP Validation. The manipulation results in client-side enforcement of server-side security. The attack may be launched remotely. The exploit is now public and may be used. Upgrading to version v2 is able to resolve this issue. The affected component should be upgraded.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84110",
-   "cvss": 5.3,
-   "ref": "https://github.com/chetansaini53/releasit-cod-otp-bypass-advisory"
-  },
-  "title_vi": "",
-  "key": "dd14cda8e20b60f503cbbf115a0a6b680933688b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84111 — A flaw has been found in Chanjet CRM up to 20260707",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84111",
-  "published": "2026-09-01T15:17:41.200",
-  "summary": "A flaw has been found in Chanjet CRM up to 20260707. This issue affects some unknown processing of the file jxf_dump_table.php. This manipulation of the argument gblOrgID causes sql injection. Remote exploitation of the attack is possible. The exploit has been published and may be used. The vendor was contacted early about this disclosure but did not respond in any way.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84111",
-   "cvss": 7.3,
-   "ref": "https://github.com/LittleRedBean/CVE/issues/1"
-  },
-  "title_vi": "",
-  "key": "9f48e9a9cfcfce1b604d3aad27eda54e2cc57712"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84114 — A vulnerability has been found in Cleo Harmony up to 5",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84114",
-  "published": "2026-09-01T15:17:41.407",
-  "summary": "A vulnerability has been found in Cleo Harmony up to 5.8.1.10. Impacted is the function LocalUserUtil.getNativeUserByAssertions of the component SAML Authentication. Such manipulation of the argument Email leads to improper authentication. The attack can be executed remotely. The exploit has been disclosed to the public and may be used. Upgrading to version 5.8.1.11 is recommended to address this issue. Upgrading the affected component is recommended.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84114",
-   "cvss": 6.3,
-   "ref": "https://support.cleo.com/hc/en-us/articles/30258468834583-Cleo-Harmony-5-8-1-Release-Notes#Version58111"
-  },
-  "title_vi": "",
-  "key": "7e779f18a669c1e0a97fa9b83190d57534e5071d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84115 — A vulnerability was found in Cleo Harmony up to 5",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84115",
-  "published": "2026-09-01T15:17:41.613",
-  "summary": "A vulnerability was found in Cleo Harmony up to 5.8.1.10. The affected element is an unknown function of the file /api/connections of the component JWT Refresh Token Handler. Performing a manipulation of the argument Bearer results in improper privilege management. The attack is possible to be carried out remotely. The exploit has been made public and could be used. Upgrading to version 5.8.1.11 is sufficient to fix this issue. It is recommended to upgrade the affected component.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84115",
-   "cvss": 8.3,
-   "ref": "https://support.cleo.com/hc/en-us/articles/30258468834583-Cleo-Harmony-5-8-1-Release-Notes#Version58111"
-  },
-  "title_vi": "",
-  "key": "002f3f19c0be10a959ce3d98e38d712f6c4fc299"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84233 — A flaw was found in rpm",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84233",
-  "published": "2026-09-01T15:17:43.853",
-  "summary": "A flaw was found in rpm. A local attacker could supply a specially crafted `.gem` filename containing RPM macro syntax. When a user or automated workflow invokes `rpmuncompress -x` on this file, the macro expansion occurs during command construction. This allows the attacker to execute arbitrary commands with the privileges of the invoking account, leading to a compromise of confidentiality, integrity, and availability.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84233",
-   "cvss": 7.0,
-   "ref": "https://access.redhat.com/security/cve/CVE-2026-84233"
-  },
-  "title_vi": "",
-  "key": "38ef16ce88b8d45959ac4786b26154ac4f0d9f2b"
- },
- {
-  "source": "VietnamPlus Kinh tế số",
-  "title": "Kết nối trí tuệ người Việt Nam toàn cầu tạo năng lực Trí tuệ Nhân tạo quốc gia",
-  "link": "https://www.vietnamplus.vn/ket-noi-tri-tue-nguoi-viet-nam-toan-cau-tao-nang-luc-tri-tue-nhan-tao-quoc-gia-post1133688.vnp",
-  "published": "2026-09-01T09:05:58+00:00",
-  "summary": "Việc tạo điều kiện để chuyên gia trở về, cần có cơ chế linh hoạt để trí thức người Việt toàn cầu tham gia thường xuyên vào khoa học-công nghệ của đất nước, để cùng xây dựng năng lực trí tuệ quốc gia. Khai mạc Diễn đàn Trí tuệ nhân tạo Quốc gia WAN-IFRA Việt Nam 2026 Phê duyệt Chương trình quốc gia phát triển nhân lực trí tuệ nhân tạo đến 2030 Thiết lập cổng dữ liệu quốc gia về AI, tăng giám sát hệ thống trí tuệ nhân tạo",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "626073723391a24bc98c4ced1a6ba9aa1537a30b"
  }
 ]
