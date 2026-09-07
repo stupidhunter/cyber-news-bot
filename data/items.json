@@ -1,6 +1,793 @@
 [
  {
   "source": "Tuổi Trẻ Công nghệ",
+  "title": "OpenAI đối mặt 30 vụ kiện mới: ChatGPT biết kẻ xả súng nguy hiểm, vì sao không cảnh báo?",
+  "link": "https://tuoitre.vn/openai-doi-mat-30-vu-kien-moi-chatgpt-biet-ke-xa-sung-nguy-hiem-vi-sao-khong-canh-bao-100260907082743837.htm",
+  "published": "2026-09-07T02:48:45.124043+00:00",
+  "summary": "Các nạn nhân cáo buộc OpenAI không cảnh báo nhà chức trách dù kẻ xả súng từng thể hiện xu hướng bạo lực khi trò chuyện với ChatGPT.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "cbcfa6a5bc0c37f646321b4f796720802f7a811a"
+ },
+ {
+  "source": "Thanh Niên Công nghệ",
+  "title": "H&agrave;ng ngh&igrave;n AI agent bị ph&aacute;t hiện thảo luận c&aacute;ch vượt qua giới hạn hệ thống",
+  "link": "https://thanhnien.vn/hang-nghin-ai-agent-bi-phat-hien-thao-luan-cach-vuot-qua-gioi-han-he-thong-185260906234410739.htm",
+  "published": "2026-09-07T01:01:00+00:00",
+  "summary": "Một trang wiki tiếng Đức bất ngờ xuất hiện h&agrave;ng ngh&igrave;n AI agent trao đổi với nhau, thậm ch&iacute; chia sẻ c&aacute;ch vượt qua những giới hạn được đặt ra.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "54dcc39da2dca4a1e0fc6543136b74c773df2e21"
+ },
+ {
+  "source": "GenK",
+  "title": "Tính năng gây hao pin trên Google Maps mà những ai chạy xe nên biết",
+  "link": "https://genk.vn/tinh-nang-gay-hao-pin-tren-google-maps-ma-nhung-ai-chay-xe-nen-biet-165260907024355017.chn",
+  "published": "2026-09-07T02:48:39.263934+00:00",
+  "summary": "Với những ai chạy xe thường xuyên dùng Google Maps để dẫn đường, một thiết lập tưởng như vô hại có thể âm thầm khiến pin điện thoại tụt nhanh hơn.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "ec751d11b74e1db3c5d870df885128cfc8f0d5c9"
+ },
+ {
+  "source": "GenK",
+  "title": "AI lần đầu hỗ trợ mổ não trực tiếp trên người: Cuộc thử nghiệm có thể thay đổi cách bác sĩ phẫu thuật",
+  "link": "https://genk.vn/ai-lan-dau-ho-tro-mo-nao-truc-tiep-tren-nguoi-cuoc-thu-nghiem-co-the-thay-doi-cach-bac-si-phau-thuat-165260907070302828.chn",
+  "published": "2026-09-07T02:48:39.263957+00:00",
+  "summary": "Công nghệ mới khi cho AI tham gia mổ não đang được thử nghiệm ra sao?",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "b4bb94cfb88c8de69da6e8fc7a1946d104456a0d"
+ },
+ {
+  "source": "GenK",
+  "title": "68.000 chủ xe lên tiếng: Công nghệ ô tô “xịn” nhất lại là thứ ít ai để ý",
+  "link": "https://genk.vn/68000-chu-xe-len-tieng-cong-nghe-o-to-xin-nhat-lai-la-thu-it-ai-de-y-165260907070131063.chn",
+  "published": "2026-09-07T02:48:39.263967+00:00",
+  "summary": "Càng nhiều màn hình, càng nhiều tính năng: Vì sao nhiều chủ xe ô tô vẫn chưa hài lòng?",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "309b9987a58d5d49fac0e792daaf271c24bbee2e"
+ },
+ {
+  "source": "GenK",
+  "title": "OpenAI chi 1 tỷ USD hỗ trợ các hạ tầng thiết yếu củng cố an ninh mạng",
+  "link": "https://genk.vn/openai-chi-1-ty-usd-ho-tro-cac-ha-tang-thiet-yeu-cung-co-an-ninh-mang-165260907070021859.chn",
+  "published": "2026-09-07T02:48:39.263979+00:00",
+  "summary": "VTV.vn - Động thái chi mạnh tay cho an ninh mạng diễn ra trong bối cảnh OpenAI đang chịu sự giám sát khắt khe từ giới chức và dư luận.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "1d97919e251ef7d4f4ca2df6353ce99f1ba4adb0"
+ },
+ {
+  "source": "VnExpress Số hóa",
+  "title": "Đảo nổi bị nhầm là ảnh AI vì 'thoắt ẩn thoắt hiện'",
+  "link": "https://vnexpress.net/dao-noi-bi-nham-la-anh-ai-vi-thoat-an-thoat-hien-5116261.html",
+  "published": "2026-09-06T22:00:00+00:00",
+  "summary": "Hòn đảo rộng khoảng 9.800 m2 trên hồ nhân tạo Williston, phủ đầy cây lớn với nhiều động vật sinh sống, liên tục biến mất rồi xuất hiện trở lại.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "6ba189e163727ba03dbca228c870af1b475ed5fe"
+ },
+ {
+  "source": "VnExpress Số hóa",
+  "title": "'Mỗi kiểu dáng smartphone mở ra trải nghiệm AI khác nhau'",
+  "link": "https://vnexpress.net/moi-kieu-dang-smartphone-mo-ra-trai-nghiem-ai-khac-nhau-5116924.html",
+  "published": "2026-09-06T16:00:00+00:00",
+  "summary": "Theo Phó chủ tịch Carl Nordenberg của Samsung, kiểu dáng smartphone đang ngày càng đa dạng, giúp người dùng trải nghiệm AI theo cách khác biệt.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "b6f026a7567dfe600b6517c10c0ba8a8cf504517"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86225 — A vulnerability was identified in SourceCodester Class and Exam Timetabling System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86225",
+  "published": "2026-09-06T22:17:20.507",
+  "summary": "A vulnerability was identified in SourceCodester Class and Exam Timetabling System 1.0. Affected by this vulnerability is the function mysqli_query of the file /admin/modal_add_room.php. The manipulation of the argument room_name leads to sql injection. The attack is possible to be carried out remotely. The exploit is publicly available and might be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86225",
+   "cvss": 7.3,
+   "ref": "https://github.com/justconter/_CVE/issues/6"
+  },
+  "title_vi": "CVE-2026-86225 — Một lỗ hổng đã được xác định trong Lớp SourceCodester và Hệ thống thời gian biểu thi 1",
+  "key": "1a3be23d8eaccfca595bce021f94cbb05f6f0ff4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86226 — A security flaw has been discovered in Projectwolds Online Attendance System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86226",
+  "published": "2026-09-06T22:17:20.673",
+  "summary": "A security flaw has been discovered in Projectwolds Online Attendance System 1.0. Affected by this issue is some unknown functionality of the file profile.php. The manipulation of the argument email results in cross site scripting. The attack may be performed from remote. The exploit has been released to the public and may be used for attacks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86226",
+   "cvss": 3.5,
+   "ref": "https://github.com/CyberShailendra1/Online-Attendance-System-Projectworlds"
+  },
+  "title_vi": "CVE-2026-86226 — Một lỗ hổng bảo mật đã được phát hiện trong Hệ thống chấm công trực tuyến Projectwolds 1",
+  "key": "f3ef89549fa96512d0106bc3945479dbf283db57"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86227 — A weakness has been identified in valkey-io valkey up to 9",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86227",
+  "published": "2026-09-06T23:17:38.150",
+  "summary": "A weakness has been identified in valkey-io valkey up to 9.0.5/9.1.1. This affects the function kvstoreGetHashtable of the file src/kvstore.c. This manipulation of the argument didx causes out-of-bounds read. It is possible to initiate the attack remotely. The attack is considered to have high complexity. It is indicated that the exploitability is difficult. The exploit has been made available to the public and could be used for attacks. Patch name: 4691888e7fab3df128f0bde5750c9fde2ae552fa. To fix this issue, it is recommended to deploy a patch. Exploitation requires cluster mode plus attacker",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86227",
+   "cvss": 3.1,
+   "ref": "https://github.com/user-attachments/files/30195539/RDB.zip"
+  },
+  "title_vi": "CVE-2026-86227 — Một điểm yếu đã được xác định trong valkey-io valkey lên đến 9",
+  "key": "7e70b25617b84044dbf4a29909553bfb005ca424"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86228 — A security vulnerability has been detected in JeecgBoot up to 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86228",
+  "published": "2026-09-06T23:17:38.990",
+  "summary": "A security vulnerability has been detected in JeecgBoot up to 3.9.3. This vulnerability affects the function exportXls of the file jeecg-boot/jeecg-boot-module/jeecg-boot-module-airag/src/main/java/org/jeecg/modules/airag/llm/controller/AiragModelController.java. Such manipulation of the argument credential leads to improper access controls. It is possible to launch the attack remotely. The exploit has been disclosed publicly and may be used. Upgrading to version 3.9.5 is able to resolve this issue. The name of the patch is a2be896f753936956ee6863b632b8e5a0231345c. You should upgrade the affec",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86228",
+   "cvss": 4.3,
+   "ref": "https://github.com/jeecgboot/JeecgBoot/"
+  },
+  "title_vi": "CVE-2026-86228 — Một lỗ hổng bảo mật đã được phát hiện trong JeecgBoot lên đến 3",
+  "key": "27272d635223a5d7ee723e65b831774727a8a40a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86231 — A security flaw has been discovered in mwiede jsch up to 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86231",
+  "published": "2026-09-06T23:17:39.157",
+  "summary": "A security flaw has been discovered in mwiede jsch up to 2.28.5. Affected is the function getRevokedKeys of the file src/main/java/com/jcraft/jsch/KnownHosts.java. Performing a manipulation of the argument known_hosts results in improper check for certificate revocation. The attack is possible to be carried out remotely. The attack is considered to have high complexity. The exploitability is told to be difficult. The exploit has been released to the public and may be used for attacks. Upgrading to version 2.28.6 is able to address this issue. The patch is named 194a2f76a5c0f1c3f778565be3fd66bc",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86231",
+   "cvss": 3.7,
+   "ref": "https://github.com/mwiede/jsch/"
+  },
+  "title_vi": "CVE-2026-86231 — Một lỗ hổng bảo mật đã được phát hiện trong mwiede jsch lên đến 2",
+  "key": "ea20e4c77b7a9935a2536a03b7335e1f6ae6fe87"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86232 — A weakness has been identified in itsourcecode Sales and Inventory System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86232",
+  "published": "2026-09-06T23:17:39.323",
+  "summary": "A weakness has been identified in itsourcecode Sales and Inventory System 1.0. Affected by this vulnerability is an unknown functionality of the file /pages/sup_del.php?type=supplier. Executing a manipulation of the argument ID can lead to sql injection. The attack may be performed from remote. The exploit has been made available to the public and could be used for attacks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86232",
+   "cvss": 6.3,
+   "ref": "https://github.com/v89269561-web/CyberseReasearch/issues/1"
+  },
+  "title_vi": "CVE-2026-86232 — Một điểm yếu đã được xác định trong Hệ thống bán hàng và kiểm kê mã nguồn 1",
+  "key": "2c6edac4fb264d219bbdf3485dc917900604d6bf"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86304 — MojoX::Authentication versions before 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86304",
+  "published": "2026-09-06T23:17:39.483",
+  "summary": "MojoX::Authentication versions before 0.006 for Perl allow SAML authentication bypass because parse_assertion builds Net::SAML2::Binding::POST without a trust anchor.\n\nparse_assertion in MojoX::Authentication::Model::SAML2 calls Net::SAML2::Binding::POST->new with no cacert, cert_text or anchors argument, then passes the returned XML to Net::SAML2::Protocol::Assertion->new_from_xml with the IdP signing certificate as cacert. In Net::SAML2 before 0.86 that certificate guards only encrypted assertions, so the signature on an unencrypted assertion is checked against the certificate the response i",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86304",
+   "cvss": null,
+   "ref": "https://metacpan.org/release/POLETTIX/MojoX-Authentication-0.004/source/lib/MojoX/Authentication/Model/SAML2.pm#L188"
+  },
+  "title_vi": "CVE-2026-86304 — MojoX:: Phiên bản xác thực trước 0",
+  "key": "99a4a9afd3ec629b5b0ee4dee799d7d4d4db3cb3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86233 — A security vulnerability has been detected in itsourcecode Sales and Inventory System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86233",
+  "published": "2026-09-07T00:17:46.683",
+  "summary": "A security vulnerability has been detected in itsourcecode Sales and Inventory System 1.0. Affected by this issue is some unknown functionality of the file /pages/us_del.php?type=user. The manipulation of the argument ID leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed publicly and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86233",
+   "cvss": 6.3,
+   "ref": "https://github.com/v89269561-web/CyberseReasearch/issues/2"
+  },
+  "title_vi": "CVE-2026-86233 — Một lỗ hổng bảo mật đã được phát hiện trong Hệ thống bán hàng và kiểm kê mã nguồn 1",
+  "key": "b8e848982d95ce3d7ba2a39ac5c6eb6aeddbb5a8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86234 — A vulnerability was detected in itsourcecode Sales and Inventory System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86234",
+  "published": "2026-09-07T00:17:46.867",
+  "summary": "A vulnerability was detected in itsourcecode Sales and Inventory System 1.0. This affects an unknown part of the file /pages/cust_transac.php?action=add. The manipulation of the argument firstname results in sql injection. It is possible to launch the attack remotely. The exploit is now public and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86234",
+   "cvss": 6.3,
+   "ref": "https://github.com/v89269561-web/CyberseReasearch/issues/3"
+  },
+  "title_vi": "CVE-2026-86234 - Một lỗ hổng đã được phát hiện trong Hệ thống bán hàng và kiểm kê mã nguồn 1",
+  "key": "055f45c0d923d40deee81e5d3e0bbd4c21537dcc"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86235 — A flaw has been found in itsourcecode Sales and Inventory System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86235",
+  "published": "2026-09-07T00:17:47.030",
+  "summary": "A flaw has been found in itsourcecode Sales and Inventory System 1.0. This vulnerability affects unknown code of the file /pages/pos_transac.php?action=add. This manipulation of the argument Customer causes sql injection. The attack can be initiated remotely. The exploit has been published and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86235",
+   "cvss": 6.3,
+   "ref": "https://github.com/ltranquility/submit_repository/issues/5"
+  },
+  "title_vi": "CVE-2026-86235 — Một lỗ hổng đã được tìm thấy trong Hệ thống bán hàng và kiểm kê mã nguồn 1",
+  "key": "25df56b6246215ae758008db8830874c96b88536"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86236 — A vulnerability has been found in itsourcecode Sales and Inventory System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86236",
+  "published": "2026-09-07T01:16:55.863",
+  "summary": "A vulnerability has been found in itsourcecode Sales and Inventory System 1.0. This issue affects some unknown processing of the file /pages/pro_transac.php?action=add. Such manipulation of the argument Name leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86236",
+   "cvss": 6.3,
+   "ref": "https://github.com/ltranquility/submit_repository/issues/6"
+  },
+  "title_vi": "CVE-2026-86236 — Một lỗ hổng đã được tìm thấy trong Hệ thống bán hàng và kiểm kê mã nguồn 1",
+  "key": "f9d3f5fa5960d6e6d366962fb5216f028596671a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86237 — A vulnerability was found in openagents-org openagents up to 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86237",
+  "published": "2026-09-07T01:16:56.040",
+  "summary": "A vulnerability was found in openagents-org openagents up to 0.8.19/0.9.3.post20. Impacted is the function test_default_model of the file sdk/src/openagents/sdk/transports/http.py. Performing a manipulation of the argument base_url results in server-side request forgery. The attack may be initiated remotely. The exploit has been made public and could be used. Endpoint and both sinks unchanged since filing; only the file moved (e277dd1a). Maintainer closed as inapplicable yet the identical unguarded code still ships in 0.9.3.post20. Sibling admin endpoints do call the shipped-but-unused-by-this",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86237",
+   "cvss": 5.3,
+   "ref": "https://github.com/openagents-org/openagents/"
+  },
+  "title_vi": "CVE-2026-86237 — Một lỗ hổng đã được tìm thấy trong các openagents-org openagents lên đến 0",
+  "key": "b7d02291fd75046d2f2b74403fce7ddc04d8c77b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86238 — A vulnerability was determined in projectworlds Online Examination System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86238",
+  "published": "2026-09-07T01:16:56.223",
+  "summary": "A vulnerability was determined in projectworlds Online Examination System 1.0. The affected element is an unknown function of the file feedback.php of the component Feedback Form. Executing a manipulation of the argument Name/Subject can lead to cross site scripting. The attack may be launched remotely. The exploit has been publicly disclosed and may be utilized.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86238",
+   "cvss": 4.3,
+   "ref": "https://github.com/CyberShailendra1/Online-Examination-System-Project"
+  },
+  "title_vi": "CVE-2026-86238 — Một lỗ hổng đã được xác định trong Hệ thống kiểm tra trực tuyến Projectworlds 1",
+  "key": "be599a8792353643fc422367a833a5818340f536"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-16876 — An authentication bypass vulnerability exists in the WebGUI of Series UNIVERGE IX-R/IX-V",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-16876",
+  "published": "2026-09-07T02:17:17.630",
+  "summary": "An authentication bypass vulnerability exists in the WebGUI of Series UNIVERGE IX-R/IX-V. A user could bypass authentication and execute arbitrary CLI commands by tampering with WebGUI messages and sending them to the device via internet.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-16876",
+   "cvss": null,
+   "ref": "https://jpn.nec.com/security-info/secinfo/nv26-005_en.html"
+  },
+  "title_vi": "CVE-2026-16876 — Lỗ hổng bỏ qua xác thực tồn tại trong WebGUI của Series UNIVERGE IX-R/IX-V",
+  "key": "fe1f15886ba25e809690a72aea2666403ae1cb76"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-20500 — In Modem, there is a possible system crash due to improper input validation",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20500",
+  "published": "2026-09-07T02:17:18.673",
+  "summary": "In Modem, there is a possible system crash due to improper input validation. This could lead to local denial of service with User execution privileges needed. User interaction is needed for exploitation. Patch ID: MOLY01810811; Issue ID: MSV-9232.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-20500",
+   "cvss": null,
+   "ref": "https://www.mediatek.com/product-security-bulletin/September-2026"
+  },
+  "title_vi": "CVE-2026-20500 — Trong Modem, có thể xảy ra sự cố hệ thống do xác thực đầu vào không đúng cách",
+  "key": "89422d8e39a872512bf80430d2ef033cbab12016"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-20501 — In vdec, there is a possible out of bounds write due to a heap buffer overflow",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20501",
+  "published": "2026-09-07T02:17:18.800",
+  "summary": "In vdec, there is a possible out of bounds write due to a heap buffer overflow. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS11262030; Issue ID: MSV-9197.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-20501",
+   "cvss": null,
+   "ref": "https://www.mediatek.com/product-security-bulletin/September-2026"
+  },
+  "title_vi": "CVE-2026-20501 — Trong vdec, có thể ghi vượt quá giới hạn do tràn bộ đệm heap",
+  "key": "876d8ff60f905f1ebea04e02b2664ce61c7c26f0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-20502 — In vdec, there is a possible out of bounds write due to a missing bounds check",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20502",
+  "published": "2026-09-07T02:17:18.917",
+  "summary": "In vdec, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS11262030; Issue ID: MSV-9196.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-20502",
+   "cvss": null,
+   "ref": "https://www.mediatek.com/product-security-bulletin/September-2026"
+  },
+  "title_vi": "CVE-2026-20502 — Trong vdec, có thể ghi ngoài giới hạn do thiếu kiểm tra giới hạn",
+  "key": "f6712cafcd18d8d938929b464d5eca486f65c8e4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-20503 — In Modem, there is a possible system crash due to a missing bounds check",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20503",
+  "published": "2026-09-07T02:17:19.030",
+  "summary": "In Modem, there is a possible system crash due to a missing bounds check. This could lead to remote denial of service, if a UE has connected to a rogue base station controlled by the attacker, with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: MOLY01371002; Issue ID: MSV-9020.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-20503",
+   "cvss": null,
+   "ref": "https://www.mediatek.com/product-security-bulletin/September-2026"
+  },
+  "title_vi": "CVE-2026-20503 — Trong Modem, có thể xảy ra sự cố hệ thống do thiếu kiểm tra giới hạn",
+  "key": "97225501dfd2beecf14d22c97b64ad71fc316460"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-20504 — In Modem, there is a possible system crash due to a missing bounds check",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20504",
+  "published": "2026-09-07T02:17:19.143",
+  "summary": "In Modem, there is a possible system crash due to a missing bounds check. This could lead to remote denial of service, if a UE has connected to a rogue base station controlled by the attacker, with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: MOLY00755024; Issue ID: MSV-7865.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-20504",
+   "cvss": null,
+   "ref": "https://www.mediatek.com/product-security-bulletin/September-2026"
+  },
+  "title_vi": "CVE-2026-20504 — Trong Modem, có thể xảy ra sự cố hệ thống do thiếu kiểm tra giới hạn",
+  "key": "d2a958b507b5ccfc6e43b091d25dde0ce115f22a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-20506 — In Audio HAL, there is a possible escalation of privilege due to use after free",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20506",
+  "published": "2026-09-07T02:17:19.250",
+  "summary": "In Audio HAL, there is a possible escalation of privilege due to use after free. This could lead to local escalation of privilege if a malicious actor has already obtained the System privilege. User interaction is not needed for exploitation. Patch ID: ALPS11191981; Issue ID: MSV-9126.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-20506",
+   "cvss": null,
+   "ref": "https://www.mediatek.com/product-security-bulletin/September-2026"
+  },
+  "title_vi": "CVE-2026-20506 — Trong Audio HAL, có thể có sự leo thang đặc quyền do sử dụng sau khi miễn phí",
+  "key": "f6f5e3da06be96b4b0acdac408477a78409e82ac"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-20507 — In Audio HAL, there is a possible escalation of privilege due to use after free",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20507",
+  "published": "2026-09-07T02:17:19.360",
+  "summary": "In Audio HAL, there is a possible escalation of privilege due to use after free. This could lead to local escalation of privilege if a malicious actor has already obtained the System privilege. User interaction is not needed for exploitation. Patch ID: ALPS11191981; Issue ID: MSV-9125.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-20507",
+   "cvss": null,
+   "ref": "https://www.mediatek.com/product-security-bulletin/September-2026"
+  },
+  "title_vi": "CVE-2026-20507 — Trong Audio HAL, có thể có sự leo thang đặc quyền do sử dụng sau khi miễn phí",
+  "key": "9fd20afe480bc01e1a77b16e5e24e2d6aa3e763e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-20508 — In Power HAL, there is a possible escalation of privilege due to type confusion",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20508",
+  "published": "2026-09-07T02:17:19.470",
+  "summary": "In Power HAL, there is a possible escalation of privilege due to type confusion. This could lead to local escalation of privilege if a malicious actor has already obtained the System privilege. User interaction is not needed for exploitation. Patch ID: ALPS11165543; Issue ID: MSV-9012.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-20508",
+   "cvss": null,
+   "ref": "https://www.mediatek.com/product-security-bulletin/September-2026"
+  },
+  "title_vi": "CVE-2026-20508 — Trong Power HAL, có thể có sự leo thang đặc quyền do nhầm lẫn loại",
+  "key": "49cd6996ff6399cce5aba6ff87d8fa2f7d539df1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-20509 — In Power HAL, there is a possible out of bounds write due to a missing bounds check",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20509",
+  "published": "2026-09-07T02:17:19.587",
+  "summary": "In Power HAL, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege if a malicious actor has already obtained the System privilege. User interaction is not needed for exploitation. Patch ID: ALPS11165543; Issue ID: MSV-9011.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-20509",
+   "cvss": null,
+   "ref": "https://www.mediatek.com/product-security-bulletin/September-2026"
+  },
+  "title_vi": "CVE-2026-20509 — Trong Power HAL, có thể ghi ngoài giới hạn do thiếu kiểm tra giới hạn",
+  "key": "048c80688d75c2c3c1f3f4b33b0fdca5c74b0241"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-20510 — In camera middleware, there is a possible escalation of privilege due to double free",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20510",
+  "published": "2026-09-07T02:17:19.697",
+  "summary": "In camera middleware, there is a possible escalation of privilege due to double free. This could lead to local escalation of privilege if a malicious actor has already obtained the System privilege. User interaction is not needed for exploitation. Patch ID: ALPS11134622; Issue ID: MSV-8894.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-20510",
+   "cvss": null,
+   "ref": "https://www.mediatek.com/product-security-bulletin/September-2026"
+  },
+  "title_vi": "CVE-2026-20510 — Trong phần mềm trung gian của máy ảnh, có thể có sự leo thang đặc quyền do miễn phí gấp đôi",
+  "key": "a3bc499d9b4dde0e309c76adfb17d1ea6cf74580"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-20511 — In SurfaceFlinger, there is a possible memory corruption due to use after free",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20511",
+  "published": "2026-09-07T02:17:19.810",
+  "summary": "In SurfaceFlinger, there is a possible memory corruption due to use after free. This could lead to local escalation of privilege if a malicious actor has already obtained the System privilege. User interaction is not needed for exploitation. Patch ID: ALPS11123860; Issue ID: MSV-8890.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-20511",
+   "cvss": null,
+   "ref": "https://www.mediatek.com/product-security-bulletin/September-2026"
+  },
+  "title_vi": "CVE-2026-20511 — Trong SurfaceFlinger, có thể bị hỏng bộ nhớ do sử dụng sau khi miễn phí",
+  "key": "b1c85c2eed7ca4384078064e355a01a907bc16a3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-20512 — In Audio HAL, there is a possible escalation of privilege due to improper input validation",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20512",
+  "published": "2026-09-07T02:17:19.923",
+  "summary": "In Audio HAL, there is a possible escalation of privilege due to improper input validation. This could lead to local escalation of privilege if a malicious actor has already obtained the System privilege. User interaction is not needed for exploitation. Patch ID: ALPS11087540; Issue ID: MSV-8246.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-20512",
+   "cvss": null,
+   "ref": "https://www.mediatek.com/product-security-bulletin/September-2026"
+  },
+  "title_vi": "CVE-2026-20512 — Trong Audio HAL, có thể có sự leo thang đặc quyền do xác thực đầu vào không đúng cách",
+  "key": "319a11bc9f0927bae3c33255a4da9fb61450ac1a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-20513 — In Audio HAL, there is a possible information disclosure due to improper input validation",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20513",
+  "published": "2026-09-07T02:17:20.040",
+  "summary": "In Audio HAL, there is a possible information disclosure due to improper input validation. This could lead to local information disclosure if a malicious actor has already obtained the System privilege. User interaction is not needed for exploitation. Patch ID: ALPS11087533; Issue ID: MSV-8245.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-20513",
+   "cvss": null,
+   "ref": "https://www.mediatek.com/product-security-bulletin/September-2026"
+  },
+  "title_vi": "CVE-2026-20513 — Trong Audio HAL, việc tiết lộ thông tin có thể xảy ra do xác thực đầu vào không đúng cách",
+  "key": "84b0593c3b13be5db8ce06b80a5359fbf3ef30a8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-20514 — In Audio HAL, there is a possible information disclosure due to a missing permission check",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20514",
+  "published": "2026-09-07T02:17:20.150",
+  "summary": "In Audio HAL, there is a possible information disclosure due to a missing permission check. This could lead to local information disclosure if a malicious actor has already obtained the System privilege. User interaction is not needed for exploitation. Patch ID: ALPS11087632; Issue ID: MSV-8244.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-20514",
+   "cvss": null,
+   "ref": "https://www.mediatek.com/product-security-bulletin/September-2026"
+  },
+  "title_vi": "CVE-2026-20514 — Trong Audio HAL, có thể tiết lộ thông tin do thiếu kiểm tra quyền",
+  "key": "8ce248113930d710d2f5049428f169f8eae12478"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-20515 — In gpu, there is a possible system crash due to use after free",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20515",
+  "published": "2026-09-07T02:17:20.257",
+  "summary": "In gpu, there is a possible system crash due to use after free. This could lead to local information disclosure with User execution privileges needed. User interaction is needed for exploitation. Patch ID: ALPS11122991; Issue ID: MSV-8132.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-20515",
+   "cvss": null,
+   "ref": "https://www.mediatek.com/product-security-bulletin/September-2026"
+  },
+  "title_vi": "CVE-2026-20515 — Trong gpu, có thể xảy ra sự cố hệ thống do sử dụng sau khi miễn phí",
+  "key": "bee2f0a10cb406f0279aa9a106210dfa16350692"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-20516 — In MiracastService, there is a possible escalation of privilege due to a confused deputy",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20516",
+  "published": "2026-09-07T02:17:20.360",
+  "summary": "In MiracastService, there is a possible escalation of privilege due to a confused deputy. This could lead to local denial of service with User execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS11060069 / DTV04881615; Issue ID: MSV-7882.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-20516",
+   "cvss": null,
+   "ref": "https://www.mediatek.com/product-security-bulletin/September-2026"
+  },
+  "title_vi": "CVE-2026-20516 — Trong MiracastService, có thể có sự leo thang đặc quyền do một phó giám đốc bối rối",
+  "key": "8dfe8d30be352abdd26382bcbbddd4e2fe6192e5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-20517 — In geniezone, there is a possible escalation of privilege due to use after free",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20517",
+  "published": "2026-09-07T02:17:20.470",
+  "summary": "In geniezone, there is a possible escalation of privilege due to use after free. This could lead to local escalation of privilege if a malicious actor has already obtained the System privilege. User interaction is not needed for exploitation. Patch ID: ALPS10900510; Issue ID: MSV-6781.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-20517",
+   "cvss": null,
+   "ref": "https://www.mediatek.com/product-security-bulletin/September-2026"
+  },
+  "title_vi": "CVE-2026-20517 — Trong geniezone, có thể có sự leo thang đặc quyền do sử dụng sau khi miễn phí",
+  "key": "cb1062d286a5d34ef21f209c6d4d69da1fb7ffa4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-20518 — In geniezone, there is a possible information disclosure due to a missing bounds check",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20518",
+  "published": "2026-09-07T02:17:20.583",
+  "summary": "In geniezone, there is a possible information disclosure due to a missing bounds check. This could lead to local information disclosure if a malicious actor has already obtained the System privilege. User interaction is needed for exploitation. Patch ID: ALPS10867524 / ALPS10876355; Issue ID: MSV-6674.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-20518",
+   "cvss": null,
+   "ref": "https://www.mediatek.com/product-security-bulletin/September-2026"
+  },
+  "title_vi": "CVE-2026-20518 — Trong geniezone, có thể tiết lộ thông tin do thiếu kiểm tra giới hạn",
+  "key": "fbf519cf2bfe949931a38a574b2f369072fdc953"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86239 — A vulnerability was identified in liufee FeehiCMS up to 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86239",
+  "published": "2026-09-07T02:17:20.710",
+  "summary": "A vulnerability was identified in liufee FeehiCMS up to 2.1.1. The impacted element is the function UeditorAction::init of the file backend/widgets/ueditor/UeditorAction.php of the component UEditor Widget. The manipulation leads to unrestricted upload. Remote exploitation of the attack is possible. The exploit is publicly available and might be used. The project was informed of the problem early through an issue report but has not responded yet.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86239",
+   "cvss": 5.3,
+   "ref": "https://github.com/liufee/cms/issues/94"
+  },
+  "title_vi": "CVE-2026-86239 — Một lỗ hổng đã được xác định trong liufee FeehiCMS lên đến 2",
+  "key": "9b0f9b6e11cf7a2c2df116c541989425b4c28e66"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86240 — A security flaw has been discovered in liufee FeehiCMS up to 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86240",
+  "published": "2026-09-07T02:17:20.890",
+  "summary": "A security flaw has been discovered in liufee FeehiCMS up to 2.1.1. This affects the function catchImage of the file backend/widgets/ueditor/Uploader.php of the component UEditor. The manipulation of the argument source[] results in server-side request forgery. The attack can be executed remotely. The exploit has been released to the public and may be used for attacks. The project was informed of the problem early through an issue report but has not responded yet.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86240",
+   "cvss": 4.7,
+   "ref": "https://github.com/liufee/cms/issues/95"
+  },
+  "title_vi": "CVE-2026-86240 — Một lỗ hổng bảo mật đã được phát hiện trong liufee FeehiCMS lên đến 2",
+  "key": "783ae57397f397d94f68b9d40f22454c539fc63f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86241 — A weakness has been identified in liufee FeehiCMS up to 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86241",
+  "published": "2026-09-07T02:17:21.067",
+  "summary": "A weakness has been identified in liufee FeehiCMS up to 2.1.1. This impacts an unknown function of the file environments/prod/backend/config/main-local.php of the component Cookie Validation. This manipulation of the argument cookieValidationKey causes use of hard-coded cryptographic key\r . The attack is possible to be carried out remotely. The exploit has been made available to the public and could be used for attacks. The project was informed of the problem early through an issue report but has not responded yet.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86241",
+   "cvss": 4.3,
+   "ref": "https://github.com/liufee/cms/issues/96"
+  },
+  "title_vi": "CVE-2026-86241 — Một điểm yếu đã được xác định trong liufee FeehiCMS lên đến 2",
+  "key": "88de3042dcd848b211953d327b1de886dd41a1bb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86244 — A security vulnerability has been detected in FastAdmin up to 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86244",
+  "published": "2026-09-07T02:17:21.247",
+  "summary": "A security vulnerability has been detected in FastAdmin up to 1.2.0.20210401_beta. Affected is the function register/login of the file application/index/controller/User.php of the component User Controller. Such manipulation of the argument url leads to cross site scripting. The attack may be performed from remote. The exploit has been disclosed publicly and may be used. Upgrading to version 1.2.1.20210731_beta is able to address this issue. The name of the patch is b3d32e2bf3637488cfe2fc58a27a9d2475b2b51b. It is recommended to upgrade the affected component.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86244",
+   "cvss": 4.3,
+   "ref": "https://github.com/fastadminnet/fastadmin/commit/b3d32e2bf3637488cfe2fc58a27a9d2475b2b51b"
+  },
+  "title_vi": "CVE-2026-86244 — Một lỗ hổng bảo mật đã được phát hiện trong FastAdmin lên đến 1",
+  "key": "b2ffb69cb52a4513d4ee7b27c2f0091368744977"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86245 — A vulnerability was detected in itsourcecode Sales and Inventory System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86245",
+  "published": "2026-09-07T02:17:21.427",
+  "summary": "A vulnerability was detected in itsourcecode Sales and Inventory System 1.0. Affected by this vulnerability is an unknown functionality of the file /pages/sup_transac.php. Performing a manipulation of the argument companyname results in sql injection. It is possible to initiate the attack remotely. The exploit is now public and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86245",
+   "cvss": 6.3,
+   "ref": "https://github.com/9ue33/cve/issues/1"
+  },
+  "title_vi": "CVE-2026-86245 - Một lỗ hổng đã được phát hiện trong Hệ thống bán hàng và kiểm kê mã nguồn 1",
+  "key": "2745147997f3841af47c38c93d867a698a8d3d59"
+ },
+ {
+  "source": "Tuổi Trẻ Công nghệ",
   "title": "Những vụ mất dữ liệu 'vô lý' nhất lịch sử công nghệ: Tưởng có backup là an toàn, ai ngờ backup cũng cháy",
   "link": "https://tuoitre.vn/nhung-vu-mat-du-lieu-vo-ly-nhat-lich-su-cong-nghe-tuong-co-backup-la-an-toan-ai-ngo-backup-cung-chay-100260831153426819.htm",
   "published": "2026-09-06T21:57:03.882162+00:00",
@@ -9534,7 +10321,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Các công ty có 6 tháng để chuẩn bị cho các cuộc tấn công tự động",
   "key": "b8764c1c68d6bafef34f6327195554d8226bd760"
  },
  {
@@ -9604,7 +10391,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Mỹ, Anh phối hợp gỡ xuống trung tâm lừa đảo",
   "key": "8aae3fbb20bb5c9e81a4af9db3aa9ea1426c62dd"
  },
  {
@@ -9646,7 +10433,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "HPE vá các lỗ hổng RCE nghiêm trọng trong AOS-CX",
   "key": "c08c61adef08181d0321ee2c50a94b44f56d899f"
  },
  {
@@ -9660,7 +10447,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "OpenAI cam kết chi 1 tỷ $ để đưa Frontier AI đến với các nhà bảo vệ cơ sở hạ tầng quan trọng",
   "key": "3e6655e5a1d191f241a921920e792a79a8612547"
  },
  {
@@ -9674,7 +10461,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Chiến dịch lừa đảo trực tuyến gửi hàng triệu email sử dụng mã Unicode vô hình để tránh các bộ lọc",
   "key": "775ddbc538d9e79bb7f2f9144c8abb7bbba6dfc1"
  },
  {
@@ -9688,7 +10475,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "PostgreSQL khắc phục lỗ hổng giải mã logic 12 năm tuổi cho phép thực thi mã cực đại",
   "key": "43e572ea2345e4657262c4e68af05e31d2320331"
  },
  {
@@ -9818,7 +10605,7 @@
    "cvss": 3.3,
    "ref": "https://www.ibm.com/support/pages/node/7285938"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-18858 — IBM i 7",
   "key": "26fd24074c43f98fb4b3f75c39a5c4ee8a0f789f"
  },
  {
@@ -9836,7 +10623,7 @@
    "cvss": 6.5,
    "ref": "https://www.ibm.com/support/pages/node/7285940"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-18887 — IBM i 7",
   "key": "66d6e14a441491a22b48c04e451478d932eac26e"
  },
  {
@@ -9910,7 +10697,7 @@
    "cvss": 8.8,
    "ref": "https://www.ibm.com/support/pages/node/7285640"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-19298 — IBM Langflow OSS 1",
   "key": "a037340e75defb7ded045f00a81c87cff5686337"
  },
  {
@@ -9928,7 +10715,7 @@
    "cvss": 6.5,
    "ref": "https://www.ibm.com/support/pages/node/7285641"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-19299 — IBM Langflow OSS 1",
   "key": "ba7937a0d3ddb953a7a0312c320454e328e521c8"
  },
  {
@@ -9946,7 +10733,7 @@
    "cvss": 7.5,
    "ref": "https://www.ibm.com/support/pages/node/7285642"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-19300 — IBM Langflow OSS 1",
   "key": "efe24b0387a295e7c6d53c0f312bae67ab098706"
  },
  {
@@ -9964,7 +10751,7 @@
    "cvss": 5.0,
    "ref": "https://www.ibm.com/support/pages/node/7285639"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-19301 — IBM Langflow OSS 1",
   "key": "3250dcbce54357b2ee6e153a2d9380a10d7be3fa"
  },
  {
@@ -9982,7 +10769,7 @@
    "cvss": 6.5,
    "ref": "https://www.ibm.com/support/pages/node/7285641"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-19302 — IBM Langflow OSS 1",
   "key": "69ca37161186f6c142f704811a4ffbfabde2c924"
  },
  {
@@ -10000,7 +10787,7 @@
    "cvss": 8.1,
    "ref": "https://www.ibm.com/support/pages/node/7285643"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-19303 — IBM Langflow OSS 1",
   "key": "50bf7609eb0a27f8e247735aad52da2d1eb0fc03"
  },
  {
@@ -10018,7 +10805,7 @@
    "cvss": 7.7,
    "ref": "https://www.ibm.com/support/pages/node/7285639"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-19304 — IBM Langflow OSS 1",
   "key": "7f8be32249f2d836df6a0851f5f91750e2da0ebb"
  },
  {
@@ -10036,7 +10823,7 @@
    "cvss": 8.6,
    "ref": "https://www.ibm.com/support/pages/node/7285639"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-19305 — IBM Langflow OSS 1",
   "key": "af40b352f19904666a2ccd63406e62ccc409c2cb"
  },
  {
@@ -10055,7 +10842,7 @@
    "cvss": 7.7,
    "ref": "https://www.ibm.com/support/pages/node/7285641"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-19306 — IBM Langflow OSS 1",
   "key": "d85b0553bad76d4cab4b65dfa4804cea6f3359a2"
  },
  {
@@ -17724,7 +18511,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/ccfos/nightingale"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-85692 — Nightingale (n9e), kể từ cam kết 8362cbe (chi nhánh chính, được xác nhận 2026-08-27), chứa lỗ hổng giả mạo yêu cầu phía máy chủ trong isPublicIP fu",
   "key": "73a82ad252b8e1b4aa625b816bda0864b0b7ffc5"
  },
  {
@@ -17742,7 +18529,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/mckaywrigley/chatbot-ui"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-85693 - Giao diện người dùng Chatbot chứa lỗ hổng bỏ qua ủy quyền trong điểm cuối truy xuất cho phép kẻ tấn công được xác thực truy cập nội dung tệp riêng tư",
   "key": "d5920ec13992aa1e055119948c0382ac95fcca20"
  },
  {
@@ -17779,7 +18566,7 @@
    "cvss": 9.4,
    "ref": "https://github.com/lm-sys/FastChat"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-85695 — FastChat chứa lỗ hổng bỏ qua xác thực trong điểm cuối /register_worker cho phép những kẻ tấn công chưa được xác thực đăng ký tùy ý",
   "key": "dc445293cc3aa4c05bef846da1fbf46087109715"
  },
  {
@@ -17797,7 +18584,7 @@
    "cvss": 9.8,
    "ref": "https://github.com/OpenTalker/SadTalker"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-85696 — SadTalker chứa lỗ hổng chèn lệnh hệ điều hành trong quá trình chuyển đổi video, trong đó tên tệp âm thanh được tải lên được nội suy thành dấu phẩy ffmpeg",
   "key": "90ec0edbfa7e91fdddcfcd1f65c1491412e1e6ba"
  },
  {
@@ -17833,7 +18620,7 @@
    "cvss": 5.5,
    "ref": "https://github.com/tursodatabase/turso"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-85698 — Turso đến 0",
   "key": "0c18e96a7124dbd54f54f9bde7c5b22db788f0fa"
  },
  {
@@ -17851,7 +18638,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/jina-ai/reader"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-85699 — đầu đọc jina-ai chứa lỗ hổng giả mạo yêu cầu phía máy chủ trong đó xác thực URL chỉ được thực hiện trên yêu cầu ban đầu nhưng không được áp dụng lại",
   "key": "199422f52adeae18eb6298462cdd4d0b63b1bc23"
  },
  {
@@ -73131,816 +73918,5 @@
   },
   "title_vi": "",
   "key": "adf792793c4c83d1d39e43d36da9735dab05bc53"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84133 — Site isolation issue in the DOM: Push Subscriptions component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84133",
-  "published": "2026-09-01T13:20:07.330",
-  "summary": "Site isolation issue in the DOM: Push Subscriptions component. This vulnerability was fixed in Firefox 155 and Firefox ESR 153.2.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84133",
-   "cvss": null,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2032388"
-  },
-  "title_vi": "",
-  "key": "2c0b3ee9b5306cabbd2f608294516c2b2dc10030"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84134 — Other issue in the Profile Backup component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84134",
-  "published": "2026-09-01T13:20:07.450",
-  "summary": "Other issue in the Profile Backup component. This vulnerability was fixed in Firefox 155 and Firefox ESR 153.2.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84134",
-   "cvss": null,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2044882"
-  },
-  "title_vi": "",
-  "key": "88473308bf70838a3afba91d634375bea2c99606"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84135 — Other issue in Firefox Focus for Android",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84135",
-  "published": "2026-09-01T13:20:07.573",
-  "summary": "Other issue in Firefox Focus for Android. This vulnerability was fixed in Firefox 155.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84135",
-   "cvss": null,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2046661"
-  },
-  "title_vi": "",
-  "key": "3e25ddcf6589fa5127821f77d0d71485c3d7e682"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84136 — Other issue in the DOM: Navigation component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84136",
-  "published": "2026-09-01T13:20:07.700",
-  "summary": "Other issue in the DOM: Navigation component. This vulnerability was fixed in Firefox 155 and Firefox ESR 153.2.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84136",
-   "cvss": null,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2048699"
-  },
-  "title_vi": "",
-  "key": "12fb7665cb46fc8711a8a20de024f3e2d324d8c3"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84137 — Spoofing issue in the DOM: Core & HTML component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84137",
-  "published": "2026-09-01T13:20:07.810",
-  "summary": "Spoofing issue in the DOM: Core & HTML component. This vulnerability was fixed in Firefox 155 and Firefox ESR 153.2.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84137",
-   "cvss": null,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2051146"
-  },
-  "title_vi": "",
-  "key": "2cc9636ca5e57987df1a35ea4a868091c75cb134"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84138 — Denial-of-service in the PDF Viewer component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84138",
-  "published": "2026-09-01T13:20:07.920",
-  "summary": "Denial-of-service in the PDF Viewer component. This vulnerability was fixed in Firefox 155.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84138",
-   "cvss": null,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2056164"
-  },
-  "title_vi": "",
-  "key": "9fdeddfb8b481efe1fc92a186552959603202135"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84139 — Clickjacking issue in the DOM: Events component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84139",
-  "published": "2026-09-01T13:20:08.023",
-  "summary": "Clickjacking issue in the DOM: Events component. This vulnerability was fixed in Firefox 155 and Firefox ESR 153.2.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84139",
-   "cvss": null,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2060153"
-  },
-  "title_vi": "",
-  "key": "98eb23b84c49ee822c16cb7c9bdd18935cda3652"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84140 — Site isolation issue in the DOM: Navigation component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84140",
-  "published": "2026-09-01T13:20:08.127",
-  "summary": "Site isolation issue in the DOM: Navigation component. This vulnerability was fixed in Firefox 155 and Firefox ESR 153.2.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84140",
-   "cvss": null,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2063780"
-  },
-  "title_vi": "",
-  "key": "1ffafa6efd2bbb44651ed9558bfdde08ead7f0e3"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84141 — Integer overflow in the Graphics: ImageLib component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84141",
-  "published": "2026-09-01T13:20:08.230",
-  "summary": "Integer overflow in the Graphics: ImageLib component. This vulnerability was fixed in Firefox 155 and Firefox ESR 153.2.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84141",
-   "cvss": null,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2063994"
-  },
-  "title_vi": "",
-  "key": "60f3a5e8fa704bb4ecfa75119268dbf1382f3ed1"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84142 — Internally found bugs present in Firefox 154",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84142",
-  "published": "2026-09-01T13:20:08.337",
-  "summary": "Internally found bugs present in Firefox 154. Some of these bugs showed evidence of memory corruption or another security-relevant defect and we presume that with enough effort some of these could have been exploited. This vulnerability was fixed in Firefox 155.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84142",
-   "cvss": null,
-   "ref": "https://bugzilla.mozilla.org/buglist.cgi?bug_id=2029421%2C2040889%2C2045313%2C2045435%2C2053578%2C2058621%2C2058626"
-  },
-  "title_vi": "",
-  "key": "8b6ed3a726f41d2c4800681dec3770742a196a4f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84143 — Internally found bugs present in Firefox 154, Firefox ESR 153",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84143",
-  "published": "2026-09-01T13:20:08.457",
-  "summary": "Internally found bugs present in Firefox 154, Firefox ESR 153.1 and Firefox ESR 140.14. Some of these bugs showed evidence of memory corruption or another security-relevant defect and we presume that with enough effort some of these could have been exploited. This vulnerability was fixed in Firefox 155, Firefox ESR 140.15, and Firefox ESR 153.2.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84143",
-   "cvss": null,
-   "ref": "https://bugzilla.mozilla.org/buglist.cgi?bug_id=2048793%2C2054645%2C2057114%2C2059109%2C2061287"
-  },
-  "title_vi": "",
-  "key": "cefe2a9a6860975dc807a83a2092cdd55ec47d17"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84144 — Internally found bugs present in Firefox 154 and Firefox ESR 153",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84144",
-  "published": "2026-09-01T13:20:08.563",
-  "summary": "Internally found bugs present in Firefox 154 and Firefox ESR 153.1. Some of these bugs showed evidence of memory corruption or another security-relevant defect and we presume that with enough effort some of these could have been exploited. This vulnerability was fixed in Firefox 155 and Firefox ESR 153.2.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84144",
-   "cvss": null,
-   "ref": "https://bugzilla.mozilla.org/buglist.cgi?bug_id=2054619%2C2054620%2C2054624%2C2054702%2C2054726%2C2054775%2C2055703%2C2058006%2C2058013%2C2058098%2C2058627%2C2058661%2C2059127%2C2059128%2C2059180%2C2059199%2C2059205%2C2061320%2C2061430%2C2061495%2C2061505%2C2061532%2C2061799"
-  },
-  "title_vi": "",
-  "key": "2c7fed54bd6ada7544de0cb8a61222a74d5bd52c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84145 — Internally found bugs present in Firefox 154, Firefox ESR 153",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84145",
-  "published": "2026-09-01T13:20:08.673",
-  "summary": "Internally found bugs present in Firefox 154, Firefox ESR 153.1, Firefox ESR 140.14 and Firefox ESR 115.39. Some of these bugs showed evidence of memory corruption or another security-relevant defect and we presume that with enough effort some of these could have been exploited. This vulnerability was fixed in Firefox 155, Firefox ESR 115.40, Firefox ESR 140.15, and Firefox ESR 153.2.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84145",
-   "cvss": 7.5,
-   "ref": "https://bugzilla.mozilla.org/buglist.cgi?bug_id=2054640%2C2054650%2C2054652%2C2055693%2C2055705%2C2058051%2C2058652%2C2058660%2C2059027%2C2061220%2C2061242%2C2061285%2C2061300%2C2061316%2C2061397"
-  },
-  "title_vi": "",
-  "key": "a7be69bd511ca4bf9edefb27086f700e4517cb62"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84147 — This vulnerability exists in the ERP system due to improper authentication controls and inadequate file type validation at the API endpoint",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84147",
-  "published": "2026-09-01T13:20:08.780",
-  "summary": "This vulnerability exists in the ERP system due to improper authentication controls and inadequate file type validation at the API endpoint. An unauthenticated remote attacker could exploit this vulnerability by uploading arbitrary files to a web accessible directory on the targeted system\n\nSuccessful exploitation of this vulnerability could allow the attacker to execute arbitrary code and compromise the targeted system.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84147",
-   "cvss": null,
-   "ref": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0430"
-  },
-  "title_vi": "",
-  "key": "4137df650ff04b5788f8b8985183e176eebf5522"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84148 — This vulnerability exists in the ERP system due to improper authentication and authorization controls in the API endpoint",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84148",
-  "published": "2026-09-01T13:20:08.923",
-  "summary": "This vulnerability exists in the ERP system due to improper authentication and authorization controls in the API endpoint. An unauthenticated remote attacker could exploit this vulnerability by manipulating parameter which could lead to exposure of sensitive information belonging to other users on the targeted system.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84148",
-   "cvss": null,
-   "ref": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0430"
-  },
-  "title_vi": "",
-  "key": "c31198d295bf90cf7b3ce5256a253f9da2c8e233"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84149 — This vulnerability exists in the ERP system due to exposure of repository information through a publicly accessible",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84149",
-  "published": "2026-09-01T13:20:09.053",
-  "summary": "This vulnerability exists in the ERP system due to exposure of repository information through a publicly accessible .git directory. An unauthenticated remote attacker could exploit this vulnerability by accessing the exposed .git directory and retrieving repository metadata and associated files, which could allow reconstruction of the application's source code.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84149",
-   "cvss": null,
-   "ref": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0430"
-  },
-  "title_vi": "",
-  "key": "dbac9d9ee7e6b070538dce7c5b4f28f2e5e77b95"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84235 — A denial-of-service security issue exists in the affected product",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84235",
-  "published": "2026-09-01T13:20:09.563",
-  "summary": "A denial-of-service security issue exists in the affected product. The security issue stems from a crafted CIP packet being sent crashing the module. The device requires a restart to recover.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84235",
-   "cvss": null,
-   "ref": "https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1798.html"
-  },
-  "title_vi": "",
-  "key": "0e64d10e147343876535d8e63df6219dc61b2471"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2024-10085 — CWE-770: Allocation of Resources Without Limits or Throttling vulnerability exists that could cause denial of service of the OPC UA communication plat",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-10085",
-  "published": "2026-09-01T14:17:22.620",
-  "summary": "CWE-770: Allocation of Resources Without Limits or Throttling vulnerability exists that could cause denial of service of the OPC UA communication platform when a large number of OPC UA requests are sent to the platform.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2024-10085",
-   "cvss": null,
-   "ref": "https://download.se.com/files?p_Doc_Ref=SEVD-2025-287-01&p_enDocType=Security+and+Safety+Notice&p_File_Name=SEVD-2025-287-01.pdf"
-  },
-  "title_vi": "",
-  "key": "33ba73f5bc45f993ee6c16c99502f7fcd60512cd"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2024-14047 — A local vulnerability in the Winlogbeat Windows installer caused runtime files to be placed in a directory writable by unprivileged users",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-14047",
-  "published": "2026-09-01T14:17:23.827",
-  "summary": "A local vulnerability in the Winlogbeat Windows installer caused runtime files to be placed in a directory writable by unprivileged users. A low-privileged attacker with existing access to the system could pre-position malicious filesystem links, causing a subsequent elevated Winlogbeat operation to write to or delete arbitrary files. Successful exploitation could result in a denial of service.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2024-14047",
-   "cvss": 7.2,
-   "ref": "https://discuss.elastic.co/t/winlogbeat-8-13-0-security-update-esa-2024-49/390044"
-  },
-  "title_vi": "",
-  "key": "1b4a63335cb0eabce4100b05474119d66f81e38f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2025-12768 — A security issue exists within FactoryTalk® Historian Machine Edition",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-12768",
-  "published": "2026-09-01T14:17:23.980",
-  "summary": "A security issue exists within FactoryTalk® Historian Machine Edition. An attacker with low-level authentication could exploit this vulnerability to achieve remote code execution on the affected device.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2025-12768",
-   "cvss": null,
-   "ref": "https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1796.html"
-  },
-  "title_vi": "",
-  "key": "2b958671a352804e8757e6780dd80552fccc5459"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-12661 — A denial-of-service security issue exists within FactoryTalk® Historian Machine Edition",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-12661",
-  "published": "2026-09-01T14:17:24.133",
-  "summary": "A denial-of-service security issue exists within FactoryTalk® Historian Machine Edition.  A network adjacent attacker who is authenticated could send crafted requests to the web interface, resulting in buffer overflow conditions that may cause the device to crash and become unresponsive.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-12661",
-   "cvss": null,
-   "ref": "https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1796.html"
-  },
-  "title_vi": "",
-  "key": "c9aca8e2cb04ee6999365ea683739e4f9cdd5fca"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-12663 — A security issue exists within ControlFLASH™, where the installer grants write permissions to the \"Everyone\" group on a product installation directory",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-12663",
-  "published": "2026-09-01T14:17:24.290",
-  "summary": "A security issue exists within ControlFLASH™, where the installer grants write permissions to the \"Everyone\" group on a product installation directory. This could allow arbitrary code execution, resulting in an attacker being given the ability to run any commands or code of the attacker's choice on a target machine at the logged-in user's permission level.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-12663",
-   "cvss": null,
-   "ref": "https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1793.html"
-  },
-  "title_vi": "",
-  "key": "b99127baf28287e878cd38a98be72c9d63515c76"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-13336 — CWE-78: Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') vulnerability exists that could cause execution of ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-13336",
-  "published": "2026-09-01T14:17:24.430",
-  "summary": "CWE-78: Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') vulnerability exists that could cause execution of Linux Operating system commands when a system back up is restored that has been maliciously modified.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-13336",
-   "cvss": null,
-   "ref": "https://download.se.com/files?p_Doc_Ref=SEVD-2026-223-02&p_enDocType=Security+and+Safety+Notice&p_File_Name=SEVD-2026-223-02.pdf"
-  },
-  "title_vi": "",
-  "key": "f96b80d063757ec90364e1ac30f748b279ebbec3"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-13337 — CWE-564: SQL Injection: Hibernate vulnerability exists that could allow the injection of a malicious HQL query in the NetBotz database when a maliciou",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-13337",
-  "published": "2026-09-01T14:17:24.563",
-  "summary": "CWE-564: SQL Injection: Hibernate vulnerability exists that could allow the injection of a malicious HQL query in the NetBotz database when a malicious user is logged into the NetBotz via the web-service interface or webui.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-13337",
-   "cvss": null,
-   "ref": "https://download.se.com/files?p_Doc_Ref=SEVD-2026-223-02&p_enDocType=Security+and+Safety+Notice&p_File_Name=SEVD-2026-223-02.pdf"
-  },
-  "title_vi": "",
-  "key": "1ad13605bfb6e162e4abc35357fcabc88623afa7"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-13348 — CWE-307: Improper Restriction of Excessive Authentication Attempts vulnerability exists that could allow an attacker to gain unauthorized access to a ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-13348",
-  "published": "2026-09-01T14:17:24.703",
-  "summary": "CWE-307: Improper Restriction of Excessive Authentication Attempts vulnerability exists that could allow an attacker to gain unauthorized access to a user account by performing an arbitrary number of authentication attempts when redirect handling is disabled.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-13348",
-   "cvss": null,
-   "ref": "https://download.se.com/files?p_Doc_Ref=SEVD-2026-223-01&p_enDocType=Security+and+Safety+Notice&p_File_Name=SEVD-2026-223-01.pdf"
-  },
-  "title_vi": "",
-  "key": "fa2b4b1d75238cbd55fc8ddb55d5551be13c46c3"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-16675 — A privilege escalation security issue exists within FactoryTalk® Activation Manager",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-16675",
-  "published": "2026-09-01T14:17:25.437",
-  "summary": "A privilege escalation security issue exists within FactoryTalk® Activation Manager. The security issue stems from custom actions in the installer that spawn visible console windows running with SYSTEM privileges during installation or repair operations. An authenticated attacker with Windows credentials could hijack these console windows to obtain a SYSTEM-level command prompt, allowing full access to all files, processes, and system resources.",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-16675",
-   "cvss": null,
-   "ref": "https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1799.html"
-  },
-  "title_vi": "",
-  "key": "9138e9e476f08fc93e6e7b48d2cadec2c5e8f9b8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-18210 — Improper neutralization of special elements used in an SQL command ('SQL injection') vulnerability in TRtek Technological Products Computer Software H",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18210",
-  "published": "2026-09-01T14:17:25.590",
-  "summary": "Improper neutralization of special elements used in an SQL command ('SQL injection') vulnerability in TRtek Technological Products Computer Software Hardware Industry and Trade Limited Company Products's Store allows SQL Injection.\n\nThis issue affects Products's Store: before 030631b2.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-18210",
-   "cvss": 9.8,
-   "ref": "https://siberguvenlik.gov.tr/guvenlik-bildirimleri/detay/tr-26-0964"
-  },
-  "title_vi": "",
-  "key": "f6e8f7afffede7cde214691fc72c114cf6e70fb9"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-18808 — Improper Control of Generation of Code ('Code Injection') vulnerability in Klemsan Electrical Electronics Inc",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18808",
-  "published": "2026-09-01T14:17:26.297",
-  "summary": "Improper Control of Generation of Code ('Code Injection') vulnerability in Klemsan Electrical Electronics Inc. KIO (Klemsan Internet Objects) allows Code Injection.\n\nThis issue affects KIO (Klemsan Internet Objects): before v1.9.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-18808",
-   "cvss": 9.8,
-   "ref": "https://siberguvenlik.gov.tr/guvenlik-bildirimleri/detay/tr-26-0963"
-  },
-  "title_vi": "",
-  "key": "02a4390e2567dbdba750efbdc5ff62b1bc80d3a4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-19513 — The Gravity Forms plugin for WordPress is vulnerable to Arbitrary File Upload in all versions up to, and including, 3",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19513",
-  "published": "2026-09-01T14:17:27.187",
-  "summary": "The Gravity Forms plugin for WordPress is vulnerable to Arbitrary File Upload in all versions up to, and including, 3.0.2. This is due to insufficient validation of multi-file upload chunk state in the `GFAsyncUpload::upload()` function, where public form state URL hashes can be reused as chunk continuation hashes and attacker-controlled temporary filenames are accepted before sanitization. This makes it possible for unauthenticated attackers, when a public form contains a File Upload field with Multiple Files enabled, to upload a valid PNG/PDF polyglot to an attacker-selected public `.php` or",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-19513",
-   "cvss": 8.1,
-   "ref": "https://docs.gravityforms.com/gravityforms-change-log/"
-  },
-  "title_vi": "",
-  "key": "f292aa596a6c92f760ed229922ece3d8419d8544"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51748 — Incorrect access control in the sendStaticInfoToMaster function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51748",
-  "published": "2026-09-01T14:17:35.290",
-  "summary": "Incorrect access control in the sendStaticInfoToMaster function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to update stored slave inventory records via sending a crafted MQTT message to the cs_broker component.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51748",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "",
-  "key": "4e7e6d629561cd82df630a7301d2cff0b084e00e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51750 — Incorrect access control in the updatePriChannel function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51750",
-  "published": "2026-09-01T14:17:35.430",
-  "summary": "Incorrect access control in the updatePriChannel function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to rescan and switch the primary mesh channel via sending a crafted MQTT message to the cs_broker component.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51750",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "",
-  "key": "e4304d4f7c0fabcfffc977764f5b580dc2bb6b6e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51751 — Incorrect access control in the delSlaveDevice function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51751",
-  "published": "2026-09-01T14:17:35.667",
-  "summary": "Incorrect access control in the delSlaveDevice function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to remove a specified slave device from local mesh management data and reboot the system via sending a crafted MQTT message to the cs_broker component.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51751",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "",
-  "key": "8301937c38c8d9f8cd0acd5c7064bc86dfff2631"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51752 — Incorrect access control in the staticInfoSend function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51752",
-  "published": "2026-09-01T14:17:35.877",
-  "summary": "Incorrect access control in the staticInfoSend function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to trigger static information reporting to the configured master via sending a crafted MQTT message to the cs_broker component.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51752",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "",
-  "key": "0e803eeb04f2f481547696c0b68543c141ae21ac"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51754 — Incorrect access control in the updateSlaveIpList function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51754",
-  "published": "2026-09-01T14:17:36.017",
-  "summary": "Incorrect access control in the updateSlaveIpList function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to overwrite the slave IP inventory state via sending a crafted MQTT message to the cs_broker component.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51754",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "",
-  "key": "29f347f43d378dec6a0bc8e03d6ba0ceff9d539d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51756 — Incorrect access control in the meshSlaveUpgfw function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51756",
-  "published": "2026-09-01T14:17:36.150",
-  "summary": "Incorrect access control in the meshSlaveUpgfw function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to start firmware flashing using existing upgrade files via sending a crafted MQTT message to the cs_broker component.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51756",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "",
-  "key": "c640fd2de521d46229d58b5c43c250446ff0b667"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51757 — Incorrect access control in the meshSlaveUpdate function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51757",
-  "published": "2026-09-01T14:17:36.273",
-  "summary": "Incorrect access control in the meshSlaveUpdate function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to start a firmware download or flash workflow on the slave device via sending a crafted MQTT message to the cs_broker component.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51757",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "",
-  "key": "efb5f52c6dffdb9265a21f0679d79f15931f9feb"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51760 — Incorrect access control in the informSyncUpgfw function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51760",
-  "published": "2026-09-01T14:17:36.407",
-  "summary": "Incorrect access control in the informSyncUpgfw function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to mass-trigger firmware update activity across mesh slaves via sending a crafted MQTT message to the cs_broker component.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51760",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "",
-  "key": "1869ad9f6d4dec3d801d0bf7d09e1c1d4cf645dc"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51761 — Incorrect access control in the updateLanIp function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51761",
-  "published": "2026-09-01T14:17:36.520",
-  "summary": "Incorrect access control in the updateLanIp function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to refresh the LAN address state via sending a crafted MQTT message to the cs_broker component.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51761",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "",
-  "key": "76fbb968d9431637971cdc5c0ed71f8cc034c78e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51762 — Incorrect access control in the meshInfoKick function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51762",
-  "published": "2026-09-01T14:17:36.640",
-  "summary": "Incorrect access control in the meshInfoKick function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to kick or clean stale mesh information/state and trigger regeneration of mesh metadata via sending a crafted MQTT message to the cs_broker component.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51762",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "",
-  "key": "b530338b964d8863f0114eac7eba36b14d85ec4a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51763 — Incorrect access control in the freeStaClient function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51763",
-  "published": "2026-09-01T14:17:36.757",
-  "summary": "Incorrect access control in the freeStaClient function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to forcibly disconnect wireless clients via sending a crafted MQTT message to the cs_broker component.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51763",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "",
-  "key": "051e7986ef82a1812df6e73828722eea1e3d4cbe"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51764 — Incorrect access control in the recvSlaveCloudCheckStatus function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51764",
-  "published": "2026-09-01T14:17:36.873",
-  "summary": "Incorrect access control in the recvSlaveCloudCheckStatus function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to overwrite cloud-result tracking files via sending a crafted MQTT message to the cs_broker component.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51764",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "",
-  "key": "18f1d42771f030f27f57535840397c440f9b8bea"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51765 — Incorrect access control in the recvIndirectMeshInfo function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51765",
-  "published": "2026-09-01T14:17:36.997",
-  "summary": "Incorrect access control in the recvIndirectMeshInfo function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to insert or replace mesh neighbor records via sending a crafted MQTT message to the cs_broker component.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51765",
-   "cvss": null,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "",
-  "key": "530cda2402c025a3a7d42ac8f6a1a43e08e69782"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-51766 — Incorrect access control in the setDevReboot function of TOTOLINK T6 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-51766",
-  "published": "2026-09-01T14:17:37.143",
-  "summary": "Incorrect access control in the setDevReboot function of TOTOLINK T6 4.1.5cu.748_B20211015 allows unauthenticated attackers to reboot the local device and, on a master, fan out reboot commands to mesh slaves via sending a crafted MQTT message to the cs_broker component.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-51766",
-   "cvss": 7.5,
-   "ref": "https://github.com/DarkBoulder/CVE-Vendor-Coordination/blob/main/TOTOLINK/README.md"
-  },
-  "title_vi": "",
-  "key": "43e281389796b71f8df9a300f1d9ade78a81e1c3"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-58571 — Dell PowerStore contains an OS Command Injection vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-58571",
-  "published": "2026-09-01T14:17:37.297",
-  "summary": "Dell PowerStore contains an OS Command Injection vulnerability. An authenticated user with limited privileges could potentially exploit this vulnerability to execute arbitrary commands with root privileges.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-58571",
-   "cvss": 8.8,
-   "ref": "https://www.dell.com/support/kbdoc/en-us/000497829/dsa-2026-330-dell-powerstore-t-security-update-for-multiple-vulnerabilities"
-  },
-  "title_vi": "",
-  "key": "8308534ac084ac72206b4675d0cf6ae1dad414a5"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-58572 — Dell PowerStore contains a Code Injection vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-58572",
-  "published": "2026-09-01T14:17:37.470",
-  "summary": "Dell PowerStore contains a Code Injection vulnerability. An authenticated user with limited privileges could potentially exploit this vulnerability to execute arbitrary code with root privileges.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-58572",
-   "cvss": 8.8,
-   "ref": "https://www.dell.com/support/kbdoc/en-us/000497829/dsa-2026-330-dell-powerstore-t-security-update-for-multiple-vulnerabilities"
-  },
-  "title_vi": "",
-  "key": "64fa1fe3b496e726c8ef7e32fa663c943c91dc06"
  }
 ]
