@@ -1,6 +1,1763 @@
 [
  {
   "source": "Tuổi Trẻ Công nghệ",
+  "title": "Robot kêu gọi bảo vệ việc làm của con người",
+  "link": "https://tuoitre.vn/robot-keu-goi-bao-ve-viec-lam-cua-con-nguoi-100260908095010488.htm",
+  "published": "2026-09-09T22:15:14.376407+00:00",
+  "summary": "Khoảng 30 robot hình người và robot bốn chân ở Warsaw, Ba Lan kêu gọi quản lý AI và cảnh báo tự động hóa ảnh hưởng việc làm.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "949f28b96950712b68e384f6b4fec89bc39b2179"
+ },
+ {
+  "source": "Thanh Niên Công nghệ",
+  "title": "Apple tr&igrave;nh l&agrave;ng iPhone 18 Pro với loạt n&acirc;ng cấp đ&aacute;ng ch&uacute; &yacute;",
+  "link": "https://thanhnien.vn/apple-trinh-lang-iphone-18-pro-voi-loat-nang-cap-dang-chu-y-185260910005639309.htm",
+  "published": "2026-09-09T19:06:00+00:00",
+  "summary": "Apple tập trung n&acirc;ng cấp hiệu năng, AI v&agrave; camera tr&ecirc;n iPhone 18 Pro, trong khi thiết kế gần như kh&ocirc;ng thay đổi nhiều.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "9cf57633b624f5184eedcaf0b10ac10d6bd998c0"
+ },
+ {
+  "source": "Znews Công nghệ",
+  "title": "Lần đầu có phim AI được chiếu trên truyền hình",
+  "link": "https://tech.zingnews.vn/phim-truyen-hinh-lam-hoan-toan-bang-ai-gay-sot-tai-trung-quoc-post1681757.html",
+  "published": "2026-09-08T02:56:45+00:00",
+  "summary": "Tác phẩm hoạt hình \"Hậu Tây Du Ký\" làm hoàn toàn bằng AI lên sóng truyền hình Trung Quốc, ghi nhận chi phí sản xuất giảm 90% cùng tốc độ làm phim kỷ lục.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "2826ef0825453724324dfd7811de85be0d8e8074"
+ },
+ {
+  "source": "Cloud Security Alliance",
+  "title": "State of AI Cybersecurity 2026: 87% of Security Professionals are Seeing More AI-Driven Threats, But Few Feel Ready to Stop Them",
+  "link": "https://cloudsecurityalliance.org/articles/state-of-ai-cybersecurity-2026-87-of-security-professionals-are-seeing-more-ai-driven-threats-but-few-feel-ready-to-stop-them",
+  "published": "2026-08-26T22:25:22+00:00",
+  "summary": "Originally published by Darktrace. Findings from our annual survey of 1,500+ cyber professionals reveal that security leaders are confronting a surge in AI-driven attacks, which are faster, more personalized, and harder to detect than anything they’ve seen before. As these threats scale, the challenge for defenders is in evolving their security programs in tandem to defend with confidence. The findings in this blog are taken from Darktrace’s annual State of AI Cybersecurity Report 202...",
+  "categories": [
+   "ai",
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "cb5894bd4ad2c15f388e4f5d7fc170c5801cee2e"
+ },
+ {
+  "source": "Cloudflare Blog",
+  "title": "How we could save petabytes of cache storage with Zstandard and Pingora",
+  "link": "https://blog.cloudflare.com/cache-transcoding/",
+  "published": "2026-09-01T12:59:00+00:00",
+  "summary": "Could we get more cache space with the same hardware? We prototyped compression inside Cloudflare's cache to find out.",
+  "categories": [
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "735b7cb35f85211945bef942bcf6b09fcbc6c17e"
+ },
+ {
+  "source": "AWS Security Blog",
+  "title": "The state of AI for security: Measuring what matters most for building trust",
+  "link": "https://aws.amazon.com/blogs/security/the-state-of-ai-for-security-measuring-what-matters-most-for-building-trust/",
+  "published": "2026-09-09T19:09:14+00:00",
+  "summary": "Security teams are starting to actively use AI for security work, including vulnerability triage, penetration testing, threat modeling, incident response, and code review. The promise is speed, but a security tool that moves fast and raises too many false alarms doesn’t save time. Engineers spend time on false alarms, on-call is noisier, and teams distrust […]",
+  "categories": [
+   "ai",
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "bb53c8a5e91fdb95ee80919fe12c55849aba2a10"
+ },
+ {
+  "source": "OpenAI News",
+  "title": "GPT-6 Astra: The next generation in intelligence for work",
+  "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
+  "published": "2026-09-09T11:00:00+00:00",
+  "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "aa699e286c879ce44ef2e4af63763155c1f63310"
+ },
+ {
+  "source": "DarkReading",
+  "title": "Mythos Vulnerability Firehose Hits a Human Bottleneck",
+  "link": "https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck",
+  "published": "2026-09-09T21:19:55+00:00",
+  "summary": "An analysis of Project Glasswing findings shows only a fraction have reached disclosure, and an even smaller number have been fixed.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "1fc023175d92eda2db0ba8e69cd7e594a0ee2786"
+ },
+ {
+  "source": "DarkReading",
+  "title": "US Government Accuses Chinese AI Firms of Distilling Frontier Models",
+  "link": "https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models",
+  "published": "2026-09-09T19:47:50+00:00",
+  "summary": "US agencies claim Chinese companies covertly extracted billions of tokens from OpenAI, Anthropic, Google Gemini, and SpaceX's Grok to reduce development costs.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "7d23791d12a14fa3efe510cb8a7a6b395316bbb6"
+ },
+ {
+  "source": "The Record",
+  "title": "CISA head says agency must change quickly to prevent the 'worst that could happen'",
+  "link": "https://therecord.media/cisa-hiring-nick-andersen-warning",
+  "published": "2026-09-09T21:25:00+00:00",
+  "summary": "CISA's cybersecurity, infrastructure security and emergency communications divisions are among the priorities as the agency fills vacancies created at the beginning of the Trump administration, acting director Nick Andersen says.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "c8e7c3e77873b05630395c3facd610ea4356e796"
+ },
+ {
+  "source": "The Record",
+  "title": "US disrupts Xinbi Guarantee marketplace fueling the cyber scam economy",
+  "link": "https://therecord.media/us-disrupts-xinbi-guarantee-marketplace-cybercrime",
+  "published": "2026-09-09T19:54:00+00:00",
+  "summary": "The U.S. government also carried out a seizure of $52.8 million from 52 wallets connected to the platform.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "6dc537c8a95f21c11a9e03709b8b2a4d1ca281bc"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
+  "link": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
+  "published": "2026-09-09T18:26:05+00:00",
+  "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram channels used to run the service, confiscating two cryptocurrency wallets, and deploying the Scam Center Strike Force to Madagascar to help disrupt 13 scam compounds run by Chinese organized crime",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "3057d64da0816f88b8c04919dfd79df9d2b7556e"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
+  "link": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
+  "published": "2026-09-09T16:34:05+00:00",
+  "summary": "Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows and Google Chrome. The first in-the-wild use of BlueMoon has been attributed to the China-aligned state-sponsored group tracked as APT31 (aka Bronze Vinewood, Judgement Panda, JungleBamboo,",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "9c00f08ba215d2b4719954db823f4845ff0ea009"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
+  "link": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html",
+  "published": "2026-09-08T14:54:30+00:00",
+  "summary": "Whoever took nearly 4,000 bitcoin from the Liquid Network on Sunday, September 6,&nbsp;returned 3,400 of it&nbsp;the next day, Bitcoin's public record shows. About 598.5 bitcoin has not come back. Liquid is a Bitcoin sidechain that holds real bitcoin to back a token called L-BTC. The network is still paused, so holders cannot turn that token back into bitcoin. The 3,400 bitcoin was sent to a&",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "a8939b2d5fc65717e979fabdccf7fd46062de004"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
+  "link": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
+  "published": "2026-09-08T14:19:17+00:00",
+  "summary": "Check Point Research said in a&nbsp;report published today&nbsp;that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the user's question as usual. In the company's proof of concept, that hidden work read data from the user's connected Gmail account and passed it to a second ChatGPT account through a hidden channel",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "9429051f0c9b4208d541504b777421479fe097f9"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
+  "link": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
+  "published": "2026-09-08T13:48:16+00:00",
+  "summary": "Threat actors are continuing to leverage artificial intelligence (AI) to streamline their operations, with one financially motivated hacking group employing an autonomous, multi-agent attack framework to carry out a large-scale credential harvesting campaign within six hours. Google Threat Intelligence Group (GTIG) said it has observed attackers with diverse motivations targeting proprietary AI",
+  "categories": [
+   "ai",
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "fb2be7273708531a8ca997bfc45aaf41ea6c2b89"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
+  "link": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
+  "published": "2026-09-08T11:54:29+00:00",
+  "summary": "Researchers at the security firm Calif have built a worm that takes over a WeChat account via an incoming call and&nbsp;demonstrated it spreading&nbsp;among three test phones. The person being called does not have to answer or touch their phone for it to work, but the caller must already be one of their WeChat contacts. Calif reported the flaw to Tencent in July and says the company has since",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "f06d63b79b45dd960b2d7e03ed4c5f5a03292a81"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "What It Took to Reach 1 Billion Build Manifests",
+  "link": "https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html",
+  "published": "2026-09-08T11:49:02+00:00",
+  "summary": "In the last six months, Chainguard doubled its output from 500 million to more than 1 billion container build manifests. We also surpassed 3,000 unique container images and 675,000 image versions in our catalog. Those are the headline numbers, but I want to share what's actually behind them. The number itself is less interesting than the system that produced it, and why we had to fundamentally",
+  "categories": [
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "2b2442e76f087c2a7eda19d71ce44feb9037496a"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials",
+  "link": "https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html",
+  "published": "2026-09-08T11:22:07+00:00",
+  "summary": "A flaw in FreeIPA lets a client that has never logged in create a Kerberos identity of its own choosing in the directory and end up in the administrators group, Red Hat says. FreeIPA is the system that determines who may log in across a Linux domain and maintains all identities in a 389 Directory Server database accessed via LDAP. The attack needs a second flaw in that database software. The",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "452cebaeabeaf1b7e3613e226ebfdc6ac6960e39"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell",
+  "link": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html",
+  "published": "2026-09-08T09:13:47+00:00",
+  "summary": "Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe Commerce and Magento Open Source that has come under active exploitation in the wild. The vulnerability, now tracked as CVE-2026-75650 (CVSS score: 10.0), has been codenamed StyleSmuggler by Sansec, which discovered zero-day exploitation starting September 4, 2026. \"This update resolves a critical",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "19030672e7f2102332bbb7125a779503b6db7256"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams",
+  "link": "https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html",
+  "published": "2026-09-08T08:43:51+00:00",
+  "summary": "Cybersecurity researchers have disclosed details of a sprawling search engine optimization (SEO) poisoning campaign that paves the way for malware deployment and tech support scams. The campaign, discovered by the DFIR Report in March 2026, has been codenamed BengalSEO. It has operated out of the Indian state of Rajasthan since at least 2015, driven by two IT service providers named WeConnect",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "d1c48fd963d673391ca9f3a1836273f81c09ba0c"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing",
+  "link": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
+  "published": "2026-09-08T07:00:43+00:00",
+  "summary": "Online dating app Grindr has opted to pay £26 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal information, including their HIV status, with third-parties. Grindr, which is the largest LGBTQ+ dating app, was sued in April 2024, accusing it of violating U.K. privacy laws by sharing sensitive data for commercial purposes such as advertising.",
+  "categories": [
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "9fff72e3059f8f274c431a585b55c23dfe41bbfa"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2026-19490 — Citrix NetScaler Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19490",
+  "published": "2026-09-09",
+  "summary": "Citrix NetScaler ADC and NetScaler Gateway contain an authentication-bypass vulnerability involving an alternate path or channel. When the NetScaler appliance is configured as an AAA virtual server or as a Gateway (SSL VPN, ICA Proxy, CVPN, or RDP Proxy), an unauthenticated remote threat actor may be able to bypass authentication.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-19490",
+   "vendor": "Citrix",
+   "product": "NetScaler",
+   "due_date": "2026-09-12",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "CVE-2026-19490 - Bỏ qua xác thực Citrix NetScaler bằng cách sử dụng đường dẫn thay thế hoặc lỗ hổng kênh",
+  "key": "c35cea14e3075a8d73382b138f548618e0f8ee87"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2025-25249 — Fortinet Multiple Products Heap-based Buffer Overflow Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-25249",
+  "published": "2026-09-09",
+  "summary": "Fortinet FortiOS, FortiSwitchManager, and FortiSASE contain a heap-based buffer overflow vulnerability that allows an attacker to execute unauthorized code or commands via specially crafted packets.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2025-25249",
+   "vendor": "Fortinet",
+   "product": "Multiple Products",
+   "due_date": "2026-09-12",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "CVE-2025-25249 — Lỗ hổng tràn bộ đệm dựa trên Heap của Fortinet",
+  "key": "ea8fbea930e887ac60bdf92aaf55ea83b2d9c020"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2026-87491 — Google Chromium V8 Out of Bounds Write Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87491",
+  "published": "2026-09-09",
+  "summary": "Google Chromium V8 contains an out of bounds write vulnerability that allows a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-87491",
+   "vendor": "Google",
+   "product": "Chromium V8",
+   "due_date": "2026-09-23",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "CVE-2026-87491 — Lỗ hổng ghi trên Google Chromium V8 Out of Bounds",
+  "key": "0307aafe956fee92f1bf1a0dd41ee3644aabbd76"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2026-20079 — Cisco Firewall Management Center Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20079",
+  "published": "2026-09-09",
+  "summary": "Cisco Secure Firewall Management Center (FMC) Software and Cisco Security Cloud Control (SCC) Firewall Management contain an authentication Bypass using an alternate path or channel vulnerability that could allow an unauthenticated, remote attacker to bypass authentication and execute script files on an affected device to obtain root access to the underlying operating system.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-20079",
+   "vendor": "Cisco",
+   "product": "Secure Firewall Management Center (FMC) and Security Cloud Control (SCC) Firewall Management",
+   "due_date": "2026-09-12",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "CVE-2026-20079 - Bỏ qua xác thực Trung tâm quản lý tường lửa của Cisco bằng cách sử dụng đường dẫn thay thế hoặc lỗ hổng kênh",
+  "key": "380b0efc0f300d3ec5749ae7972ec83da949ad6d"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2017-12149 — Red Hat JBoss Application Server Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-12149",
+  "published": "2021-12-10",
+  "summary": "The JBoss Application Server, shipped with Red Hat Enterprise Application Platform 5.2, allows an attacker to execute arbitrary code via crafted serialized data.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2017-12149",
+   "vendor": "Red Hat",
+   "product": "JBoss Application Server",
+   "due_date": "2022-06-10",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2017-12149 - Lỗ hổng thực thi mã từ xa của máy chủ ứng dụng Red Hat JBoss",
+  "key": "263cd595bb955b8be8da8e63189ee87731e1a57a"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2010-1871 — Red Hat Linux JBoss Seam 2 Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2010-1871",
+  "published": "2021-12-10",
+  "summary": "JBoss Seam 2 (jboss-seam2), as used in JBoss Enterprise Application Platform 4.3.0 for Red Hat Linux, allows attackers to perform remote code execution. This vulnerability can only be exploited when the Java Security Manager is not properly configured.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2010-1871",
+   "vendor": "Red Hat",
+   "product": "JBoss Seam 2",
+   "due_date": "2022-06-10",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2010-1871 — Lỗ hổng thực thi mã từ xa Red Hat Linux JBoss Seam 2",
+  "key": "ea9b7d3420e8fc70b66f34606a6a28db3a7ae11b"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-17463 — Fuel CMS SQL Injection Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-17463",
+  "published": "2021-12-10",
+  "summary": "FUEL CMS 1.4.7 allows SQL Injection via the col parameter to /pages/items, /permissions/items, or /navigation/items.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-17463",
+   "vendor": "Fuel CMS",
+   "product": "Fuel CMS",
+   "due_date": "2022-06-10",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2020-17463 — Lỗ hổng phun nhiên liệu CMS SQL",
+  "key": "45aa2244505ec56dbdc0383ae4aa0a53b4429b03"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-8816 — Pi-Hole AdminLTE Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-8816",
+  "published": "2021-12-10",
+  "summary": "Pi-hole Web v4.3.2 (aka AdminLTE) allows Remote Code Execution by privileged dashboard users via a crafted DHCP static lease.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-8816",
+   "vendor": "Pi-hole",
+   "product": "AdminLTE",
+   "due_date": "2022-06-10",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2020-8816 — Lỗ hổng thực thi mã từ xa Pi-Hole AdminLTE",
+  "key": "33a2ced4cee562e5107f4d1a97f02601c1421684"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-10758 — MongoDB mongo-express Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-10758",
+  "published": "2021-12-10",
+  "summary": "mongo-express before 0.54.0 is vulnerable to Remote Code Execution via endpoints that uses the `toBSON` method.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-10758",
+   "vendor": "MongoDB",
+   "product": "mongo-express",
+   "due_date": "2022-06-10",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2019-10758 — MongoDB mongo-express Lỗ hổng thực thi mã từ xa",
+  "key": "66394ea7afa332fcbe18ece37da7d6306d99d05d"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-44228 — Apache Log4j2 Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-44228",
+  "published": "2021-12-10",
+  "summary": "Apache Log4j2 contains a vulnerability where JNDI features do not protect against attacker-controlled JNDI-related endpoints, allowing for remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-44228",
+   "vendor": "Apache",
+   "product": "Log4j2",
+   "due_date": "2021-12-24",
+   "required_action": "For all affected software assets for which updates exist, the only acceptable remediation actions are: 1) Apply updates; OR 2) remove affected assets from agency networks. Temporary mitigations using one of the measures provided at https://www.cisa.gov/uscert/ed-22-02-apache-log4j-recommended-mitigation-measures are only acceptable until updates are available."
+  },
+  "title_vi": "CVE-2021-44228 — Lỗ hổng thực thi mã từ xa Apache Log4j2",
+  "key": "c9eb39a65b3bc244fa10a5419e53d3776e1c2d9f"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-11261 — Qualcomm Multiple Chipsets Improper Input Validation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-11261",
+  "published": "2021-12-01",
+  "summary": "Memory corruption due to improper check to return error when user application requests memory allocation of a huge size in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-11261",
+   "vendor": "Qualcomm",
+   "product": "Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables",
+   "due_date": "2022-06-01",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2020-11261 - Lỗ hổng xác thực đầu vào không đúng cách của Qualcomm Multiple Chipsets",
+  "key": "1a4c9d792dd4534d24647360c50e05f66117a94f"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2018-14847 — MikroTik Router OS Directory Traversal Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-14847",
+  "published": "2021-12-01",
+  "summary": "MikroTik RouterOS through 6.42 allows unauthenticated remote attackers to read arbitrary files and remote authenticated attackers to write arbitrary files due to a directory traversal vulnerability in the WinBox interface.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2018-14847",
+   "vendor": "MikroTik",
+   "product": "RouterOS",
+   "due_date": "2022-06-01",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2018-14847 — MikroTik Router OS Directory Lỗ hổng Traversal",
+  "key": "1e322920dc5e17246cabc91270b7bdb7cbefc58c"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-37415 — Zoho ManageEngine ServiceDesk Authentication Bypass Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-37415",
+  "published": "2021-12-01",
+  "summary": "Zoho ManageEngine ServiceDesk Plus before 11302 is vulnerable to authentication bypass that allows a few REST-API URLs without authentication",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-37415",
+   "vendor": "Zoho",
+   "product": "ManageEngine ServiceDesk Plus (SDP)",
+   "due_date": "2021-12-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-37415 — Zoho ManageEngine ServiceDesk Xác thực Bỏ qua Lỗ hổng",
+  "key": "00b62069de2654926eba2872d6b0484e84fd685f"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-40438 — Apache HTTP Server-Side Request Forgery (SSRF)",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-40438",
+  "published": "2021-12-01",
+  "summary": "A crafted request uri-path can cause mod_proxy to forward the request to an origin server choosen by the remote user. This issue affects Apache HTTP Server 2.4.48 and earlier.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-40438",
+   "vendor": "Apache",
+   "product": "Apache",
+   "due_date": "2021-12-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-40438 — Giả mạo yêu cầu phía máy chủ http Apache (SSRF)",
+  "key": "9bca95667dbda41b064b8a1e714a099766e146e4"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-44077 — Zoho ManageEngine ServiceDesk Plus Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-44077",
+  "published": "2021-12-01",
+  "summary": "Zoho ManageEngine ServiceDesk Plus before 11306, ServiceDesk Plus MSP before 10530, and SupportCenter Plus before 11014 are vulnerable to unauthenticated remote code execution",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-44077",
+   "vendor": "Zoho",
+   "product": "ManageEngine ServiceDesk Plus (SDP) / SupportCenter Plus",
+   "due_date": "2021-12-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-44077 — Zoho ManageEngine ServiceDesk Plus Lỗ hổng thực thi mã từ xa",
+  "key": "51dc3368fe4b6d196f01fab744ff46c5ffff1639"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-22204 — ExifTool Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-22204",
+  "published": "2021-11-17",
+  "summary": "Improper neutralization of user data in the DjVu file format in Exiftool versions 7.44 and up allows arbitrary code execution when parsing the malicious image",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-22204",
+   "vendor": "Perl",
+   "product": "Exiftool",
+   "due_date": "2021-12-01",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-22204 — Lỗ hổng thực thi mã từ xa ExifTool",
+  "key": "136508e13e68a21cdafeb909c1c9728505c46c27"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-40449 — Microsoft Windows Win32k Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-40449",
+  "published": "2021-11-17",
+  "summary": "Unspecified vulnerability allows for an authenticated user to escalate privileges.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-40449",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2021-12-01",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-40449 — Lỗ hổng leo thang đặc quyền Microsoft Windows Win32k",
+  "key": "bc453c474dc7054ee5b787a58d33a1403df89665"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-42321 — Microsoft Exchange Server Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-42321",
+  "published": "2021-11-17",
+  "summary": "An authenticated attacker could leverage improper validation in cmdlet arguments within Microsoft Exchange and perform remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-42321",
+   "vendor": "Microsoft",
+   "product": "Exchange",
+   "due_date": "2021-12-01",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-42321 — Lỗ hổng thực thi mã từ xa của Microsoft Exchange Server",
+  "key": "cbf7f95471aecdfb00c83fe1dab9690e780f4e3e"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-42292 — Microsoft Excel Security Feature Bypass",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-42292",
+  "published": "2021-11-17",
+  "summary": "A security feature bypass vulnerability in Microsoft Excel would allow a local user to perform arbitrary code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-42292",
+   "vendor": "Microsoft",
+   "product": "Office",
+   "due_date": "2021-12-01",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-42292 — Bỏ qua Tính năng Bảo mật Microsoft Excel",
+  "key": "7eb6232e3faf5d85d0a5c10537e0fccf90b36515"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-27104 — Accellion FTA OS Command Injection Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-27104",
+  "published": "2021-11-03",
+  "summary": "Accellion FTA contains an OS command injection vulnerability exploited via a crafted POST request to various admin endpoints.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-27104",
+   "vendor": "Accellion",
+   "product": "FTA",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-27104 — Accellion FTA OS Command Injection Lỗ hổng",
+  "key": "bf03592e442b97b113b8941aa20e9f1971ded875"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-27102 — Accellion FTA OS Command Injection Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-27102",
+  "published": "2021-11-03",
+  "summary": "Accellion FTA contains an OS command injection vulnerability exploited via a local web service call.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-27102",
+   "vendor": "Accellion",
+   "product": "FTA",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-27102 — Accellion FTA OS Command Injection Lỗ hổng",
+  "key": "87272f02476dd9a39e1b3f89d65b202c926d6975"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-27101 — Accellion FTA SQL Injection Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-27101",
+  "published": "2021-11-03",
+  "summary": "Accellion FTA contains a SQL injection vulnerability exploited via a crafted host header in a request to document_root.html.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-27101",
+   "vendor": "Accellion",
+   "product": "FTA",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "fcaf52cbe9a373e3e7c0d0c96f7f6ca805acd007"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-27103 — Accellion FTA Server-Side Request Forgery (SSRF) Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-27103",
+  "published": "2021-11-03",
+  "summary": "Accellion FTA contains a server-side request forgery (SSRF) vulnerability exploited via a crafted POST request to wmProgressstat.html.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-27103",
+   "vendor": "Accellion",
+   "product": "FTA",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "d81c63ccddf76ae56edd9730e4f39ab10684260f"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-21017 — Adobe Acrobat and Reader Heap-based Buffer Overflow Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-21017",
+  "published": "2021-11-03",
+  "summary": "Acrobat Acrobat and Reader contain a heap-based buffer overflow vulnerability that could allow an unauthenticated attacker to achieve code execution in the context of the current user.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-21017",
+   "vendor": "Adobe",
+   "product": "Acrobat and Reader",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "d5aff6075fb8d6d304426fd27d06f46ef3b8ca8c"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-28550 — Adobe Acrobat and Reader Use-After-Free Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-28550",
+  "published": "2021-11-03",
+  "summary": "Adobe Acrobat and Reader contains a use-after-free vulnerability that could allow an unauthenticated attacker to achieve code execution in the context of the current user.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-28550",
+   "vendor": "Adobe",
+   "product": "Acrobat and Reader",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "6a693bbb38c1ccaf055e5747e1a3f271a065b9fe"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2018-4939 — Adobe ColdFusion Deserialization of Untrusted Data Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-4939",
+  "published": "2021-11-03",
+  "summary": "Adobe ColdFusion contains a deserialization of untrusted data vulnerability that could allow for code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2018-4939",
+   "vendor": "Adobe",
+   "product": "ColdFusion",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "e7da22f3ac7251846701bbccc80448f58768f0fd"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2018-15961 — Adobe ColdFusion Unrestricted File Upload Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-15961",
+  "published": "2021-11-03",
+  "summary": "Adobe ColdFusion contains an unrestricted file upload vulnerability that could allow for code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2018-15961",
+   "vendor": "Adobe",
+   "product": "ColdFusion",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "b392779dfdddd9330194746d530b44da3d898733"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2018-4878 — Adobe Flash Player Use-After-Free Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-4878",
+  "published": "2021-11-03",
+  "summary": "Adobe Flash Player contains a use-after-free vulnerability that could allow for code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2018-4878",
+   "vendor": "Adobe",
+   "product": "Flash Player",
+   "due_date": "2022-05-03",
+   "required_action": "The impacted product is end-of-life and should be disconnected if still in use."
+  },
+  "title_vi": "",
+  "key": "333e8503cab6351bb9cb176d3d3e6ca644a23500"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-5735 — Amcrest Cameras and NVR Stack-based Buffer Overflow Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-5735",
+  "published": "2021-11-03",
+  "summary": "Amcrest cameras and NVR contain a stack-based buffer overflow vulnerability through port 37777 that allows an unauthenticated, remote attacker to crash the device and possibly execute code.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-5735",
+   "vendor": "Amcrest",
+   "product": "Cameras and Network Video Recorder (NVR)",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "cf1a9d9ce334cc3f35cc6b3e4008313609d73851"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-2215 — Android Kernel Use-After-Free Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-2215",
+  "published": "2021-11-03",
+  "summary": "Android Kernel contains a use-after-free vulnerability in binder.c that allows for privilege escalation from an application to the Linux Kernel. This vulnerability was observed chained with CVE-2020-0041 and CVE-2020-0069 under exploit chain \"AbstractEmu.\"",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-2215",
+   "vendor": "Android",
+   "product": "Android Kernel",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "01c08d829575ac4efbdbd265cea1b5b28eef811b"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-0041 — Android Kernel Out-of-Bounds Write Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-0041",
+  "published": "2021-11-03",
+  "summary": "Android Kernel binder_transaction of binder.c contains an out-of-bounds write vulnerability due to an incorrect bounds check that could allow for local privilege escalation. This vulnerability was observed chained with CVE-2019-2215 and CVE-2020-0069 under exploit chain \"AbstractEmu.\"",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-0041",
+   "vendor": "Android",
+   "product": "Android Kernel",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "364ff9e1a8c1e5d9d685c4b3f61da6fbd9cb1be7"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-0069 — Mediatek Multiple Chipsets Insufficient Input Validation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-0069",
+  "published": "2021-11-03",
+  "summary": "Multiple MediaTek chipsets contain an insufficient input validation vulnerability and have missing SELinux restrictions in the Command Queue drivers ioctl handlers. This causes an out-of-bounds write leading to privilege escalation. This vulnerability was observed chained with CVE-2019-2215 and CVE-2020-0041 under exploit chain \"AbstractEmu.\"",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-0069",
+   "vendor": "MediaTek",
+   "product": "Multiple Chipsets",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "5b0426fd28ecb18f4c59eca29632264827b719ed"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2017-9805 — Apache Struts Deserialization of Untrusted Data Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-9805",
+  "published": "2021-11-03",
+  "summary": "Apache Struts REST Plugin uses an XStreamHandler with an instance of XStream for deserialization without any type filtering, which can lead to remote code execution when deserializing XML payloads.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2017-9805",
+   "vendor": "Apache",
+   "product": "Struts",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "13f2a6424c800a87a5f9b0c0e196364e9d1589da"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-42013 — Apache HTTP Server Path Traversal Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-42013",
+  "published": "2021-11-03",
+  "summary": "Apache HTTP Server contains a path traversal vulnerability that allows an attacker to perform remote code execution if files outside directories configured by Alias-like directives are not under default require all denied or if CGI scripts are enabled. This CVE ID resolves an incomplete patch for CVE-2021-41773.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-42013",
+   "vendor": "Apache",
+   "product": "HTTP Server",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "68507576a2c7ab5f5fb1bad713ab7a61b534a353"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2025-51619 — A vulnerability in the Thesycon DPC Latency Checker driver (dpc",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-51619",
+  "published": "2026-09-09T19:17:26.563",
+  "summary": "A vulnerability in the Thesycon DPC Latency Checker driver (dpc.sys) thru 1.4.0 allows local unprivileged users to cause a denial-of-service (BSOD) condition on Windows systems. The driver exposes an IOCTL interface (0x81772008) that accepts user-controlled input without validating pointers before passing them to kernel APIs. Specifically, it dereferences a user-supplied pointer and uses the resulting value in a call to ExSetTimerResolution, leading to an arbitrary kernel memory access. Exploiting this flaw results in a system crash.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2025-51619",
+   "cvss": 5.5,
+   "ref": "https://github.com/3a1/Vulns/tree/main/CVE-2025-51619"
+  },
+  "title_vi": "CVE-2025-51619 — Một lỗ hổng trong trình điều khiển Trình kiểm tra Độ trễ DPC Thesycon (dpc",
+  "key": "48dc792553437c7e4b11389c436818fa20e77813"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-39020 — An issue in WIngs3D v",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-39020",
+  "published": "2026-09-09T19:17:27.760",
+  "summary": "An issue in WIngs3D v.2.4.1 allows a local attacker to cause a denial of service via a crafted Wavefront OBJ file",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-39020",
+   "cvss": 5.5,
+   "ref": "https://bytescan.net/CVE/CVE-2026-39020.html"
+  },
+  "title_vi": "CVE-2026-39020 — Một vấn đề trong WIngs3D v",
+  "key": "5bbc96721ae018d518566c4e8f4551e6ffbb1f03"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-52482 — An issue in SJRC F11 SJ-GPS-PRO firmware build 2019-09-17 allows a remote attacker to obtain sensitive information via the inetd service spawns /app/s",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-52482",
+  "published": "2026-09-09T19:17:28.113",
+  "summary": "An issue in SJRC F11 SJ-GPS-PRO firmware build 2019-09-17 allows a remote attacker to obtain sensitive information via the inetd service spawns /app/sh_for_telnet",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-52482",
+   "cvss": null,
+   "ref": "https://github.com/AshtonKopelevich/SJ-GPS-PRO-F11-Vulnerability"
+  },
+  "title_vi": "CVE-2026-52482 — Sự cố trong bản dựng chương trình cơ sở SJRC F11 SJ-GPS-PRO 2019-09-17 cho phép kẻ tấn công từ xa lấy thông tin nhạy cảm thông qua dịch vụ inetd spawns /app/s",
+  "key": "e34c29946c7234fcbfc3bf02f2f2443bc789d2e1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-54694 — SkillTree is a micro-learning gamification platform",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-54694",
+  "published": "2026-09-09T19:17:28.400",
+  "summary": "SkillTree is a micro-learning gamification platform. Prior to version 4.4.2, two independent code flaws combine into a single exploitable attack chain, with three distinct exploitation paths of escalating impact. `StringHighlighter.js` builds an HTML string by interpolating raw `value` substrings directly into a template literal with no HTML entity encoding. `HighlightedValue.vue` renders that string — and all unfiltered plain values — via Vue's `v-html` directive, which sets `innerHTML`. Separately, the account registration endpoint accepts `firstName`, `lastName`, and `nickname` fields and s",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-54694",
+   "cvss": 9.6,
+   "ref": "https://github.com/NationalSecurityAgency/skills-service/security/advisories/GHSA-hqfg-c8wf-w2g8"
+  },
+  "title_vi": "CVE-2026-54694 — SkillTree là một nền tảng trò chơi học vi mô",
+  "key": "2233ae6debcc239fee96a1bb59faac0b85e562d1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-61907 — An issue was discovered in Cyrus IMAP before 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-61907",
+  "published": "2026-09-09T19:17:28.927",
+  "summary": "An issue was discovered in Cyrus IMAP before 3.12.4. JMAP snooze bypasses the destination-mailbox ACL. An authenticated user with insert permissions on another user's snoozed mailbox could cause insertion of mail to that user's inbox, or any other of their mailboxes whose id was known to the user, despite having no insert permissions to the target mailbox.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-61907",
+   "cvss": 4.3,
+   "ref": "https://cyrusimap.org"
+  },
+  "title_vi": "CVE-2026-61907 — Một vấn đề đã được phát hiện trong Cyrus IMAP trước 3",
+  "key": "4aecd5811b803cbe7e9aab5bf8b1e01e8ce54738"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-79322 — SQL injection in the RelatedProduct block in Mageplaza Blog for Magento 2 (mageplaza/magento-2-blog-extension) through 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79322",
+  "published": "2026-09-09T19:17:47.900",
+  "summary": "SQL injection in the RelatedProduct block in Mageplaza Blog for Magento 2 (mageplaza/magento-2-blog-extension) through 4.3.2 allows remote unauthenticated attackers to execute arbitrary SQL commands and read arbitrary database contents via the id parameter to /mpblog/post/view.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-79322",
+   "cvss": 8.6,
+   "ref": "https://gist.github.com/mrtantoine/417ee9b774f022bd747211b9eadc0069"
+  },
+  "title_vi": "",
+  "key": "8c9decd629c885bb92c3f0c0c05313a84e74060d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-79323 — Information disclosure in the blogComments GraphQL query in Magefan Blog GraphQL for Magento 2 (magefan/module-blog-graph-ql) through 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79323",
+  "published": "2026-09-09T19:17:48.020",
+  "summary": "Information disclosure in the blogComments GraphQL query in Magefan Blog GraphQL for Magento 2 (magefan/module-blog-graph-ql) through 2.2.1 allows remote unauthenticated attackers to obtain blog commenter email addresses and internal customer and admin identifiers via a POST request to /graphql.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-79323",
+   "cvss": 7.5,
+   "ref": "https://gist.github.com/mrtantoine/4331a5f04f8309eb1799b257a7371f34"
+  },
+  "title_vi": "CVE-2026-79323 — Công bố thông tin trong blogComments GraphQL query in Magefan Blog GraphQL for Magento 2 (magefan/module-blog-graph-ql) through 2",
+  "key": "e761444a1891306c62c955e05aa64585a1d26a15"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-38998 — A use-after-free in the SocketDescriptor::tcpReadHandler1 function (liveMedia/RTPInterface",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-38998",
+  "published": "2026-09-09T20:17:22.387",
+  "summary": "A use-after-free in the SocketDescriptor::tcpReadHandler1 function (liveMedia/RTPInterface.cpp) of LIVE555 Streaming Media (version 2026.02.26) allows attackers to cause a Denial of Service (DoS) via sending a series of crafted RTSP and HTTP requests to the server.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-38998",
+   "cvss": null,
+   "ref": "http://lists.live555.com/pipermail/live-devel/2026-March/022789.html"
+  },
+  "title_vi": "CVE-2026-38998 — Một use-after-free trong SocketDescriptor::tcpReadHandler1 function (liveMedia/RTPInterface",
+  "key": "7816c48bd97d40b4f779846887f505bda6d59e7c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-61908 — An issue was discovered in Cyrus IMAP before 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-61908",
+  "published": "2026-09-09T20:18:36.383",
+  "summary": "An issue was discovered in Cyrus IMAP before 3.12.4. A JMAP email-header blob ID can reference an out-of-bounds index. An authenticated user could attempt to download a crafted JMAP blob ID of the form H<emailid>-<index>, which could read past the end of the internal blob_headers array during download, exposing adjacent heap memory.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-61908",
+   "cvss": 3.1,
+   "ref": "https://cyrusimap.org"
+  },
+  "title_vi": "CVE-2026-61908 — Một vấn đề đã được phát hiện trong Cyrus IMAP trước 3",
+  "key": "20caa6ae2dfaad721ae41e1c951bbb1fd531348e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-61909 — An issue was discovered in Cyrus IMAP before 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-61909",
+  "published": "2026-09-09T20:18:36.523",
+  "summary": "An issue was discovered in Cyrus IMAP before 3.12.4. CalDAV/CardDAV multiget bypasses a per-href ACL. An authenticated DAV user with some shared access to another user's calendar or address book could read even unshared events or contacts by including the target hrefs in a calendar-multiget or addressbook-multiget REPORT.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-61909",
+   "cvss": 3.5,
+   "ref": "https://cyrusimap.org"
+  },
+  "title_vi": "CVE-2026-61909 — Một vấn đề đã được phát hiện trong Cyrus IMAP trước 3",
+  "key": "052bc50b00d7672ce14696b00987e0a1f11223b2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-61910 — An issue was discovered in Cyrus IMAP before 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-61910",
+  "published": "2026-09-09T20:18:36.663",
+  "summary": "An issue was discovered in Cyrus IMAP before 3.12.4. Mailbox/set let a sharee change a special-use role on shared mailboxes. An authenticated user with maySetKeywords on another user's mailbox could change that mailbox's specialuse annotation. This could allow the sharee to change the shared mailbox to perform the archived, snoozed, or other role, which might cause mail mail to be written to the shared mailbox, sharing more content than intended. (This is likely to be an unusual situation, made more unusual because if the target already has an non-shared mailbox with that role, role duplicatio",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-61910",
+   "cvss": 3.5,
+   "ref": "https://cyrusimap.org"
+  },
+  "title_vi": "CVE-2026-61910 — Một vấn đề đã được phát hiện trong Cyrus IMAP trước 3",
+  "key": "19f3d9f4e8df22277e8552c8687b40ed2d0f7759"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-61911 — An issue was discovered in Cyrus IMAP before 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-61911",
+  "published": "2026-09-09T20:18:36.800",
+  "summary": "An issue was discovered in Cyrus IMAP before 3.12.4. There is a Sieve mailbox existence oracle. An authenticated user could install a Sieve script that probed whether another user's private mailbox existed, or read the value of shared mailbox annotations, by observing which fileinto branch fired during LMTP delivery.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-61911",
+   "cvss": 4.3,
+   "ref": "https://cyrusimap.org"
+  },
+  "title_vi": "CVE-2026-61911 — Một vấn đề đã được phát hiện trong Cyrus IMAP trước 3",
+  "key": "ed01c20ab093e7c73e62e97bb3e83c9edc969277"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-61915 — An issue was discovered in Cyrus IMAP before 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-61915",
+  "published": "2026-09-09T20:18:36.943",
+  "summary": "An issue was discovered in Cyrus IMAP before 3.12.4. There is a VPATCH BYPARAM double-free. An authenticated calendar user could crash a Cyrus CalDAV worker with a PATCH containing PATCH-ACTION=\"BYPARAM@...\" against a resource with two or more properties of the matched kind. The memory holding the selector would be freed once on each iteration over the properties.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-61915",
+   "cvss": 4.2,
+   "ref": "https://cyrusimap.org"
+  },
+  "title_vi": "CVE-2026-61915 — Một vấn đề đã được phát hiện trong Cyrus IMAP trước 3",
+  "key": "182c01537b33852ec886042bec505deed097c96d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71612 — Buffer Overflow vulnerability in GPAC c2dee3aff638cd96f9617ac5b17dc2868cd90ef3 allows an attacker to execute arbitrary code via the nhntdmx_process() ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71612",
+  "published": "2026-09-09T20:20:21.587",
+  "summary": "Buffer Overflow vulnerability in GPAC c2dee3aff638cd96f9617ac5b17dc2868cd90ef3 allows an attacker to execute arbitrary code via the nhntdmx_process() function. Fixed in fac50e6a12ac27ffabdd5d3080b51afcc44ad8d6.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71612",
+   "cvss": null,
+   "ref": "https://github.com/gpac/gpac/commit/fac50e6a12ac27ffabdd5d3080b51afcc44ad8d6"
+  },
+  "title_vi": "CVE-2026-71612 — Lỗ hổng tràn bộ đệm trong GPAC c2dee3aff638cd96f9617ac5b17dc2868cd90ef3 cho phép kẻ tấn công thực thi mã tùy ý thông qua nhntdmx_process()",
+  "key": "922f51a237104d497f5b5e6acc5d26986d1b94d3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71613 — Buffer Overflow vulnerability in GPAC c2dee3aff638cd96f9617ac5b17dc2868cd90ef3 allows an attacker to execute arbitrary code via the j2kdec_process() f",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71613",
+  "published": "2026-09-09T20:20:21.747",
+  "summary": "Buffer Overflow vulnerability in GPAC c2dee3aff638cd96f9617ac5b17dc2868cd90ef3 allows an attacker to execute arbitrary code via the j2kdec_process() function. Fixed in 9a253a07fd3f6b48022bba74302bf39388dda859.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71613",
+   "cvss": null,
+   "ref": "https://github.com/gpac/gpac/commit/9a253a07fd3f6b48022bba74302bf39388dda859"
+  },
+  "title_vi": "CVE-2026-71613 — Lỗ hổng tràn bộ đệm trong GPAC c2dee3aff638cd96f9617ac5b17dc2868cd90ef3 cho phép kẻ tấn công thực thi mã tùy ý thông qua j2kdec_process() f",
+  "key": "f3e6b07e3bd484be59b91c5d9db503e767fa5fba"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71614 — An issue in GPAC c2dee3aff638cd96f9617ac5b17dc2868cd90ef3 allows an attacker to execute arbitrary code via the src/media_tools/dvb_mpe",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71614",
+  "published": "2026-09-09T20:20:21.870",
+  "summary": "An issue in GPAC c2dee3aff638cd96f9617ac5b17dc2868cd90ef3 allows an attacker to execute arbitrary code via the src/media_tools/dvb_mpe.c, descriptorTime_slice_fec_identifier() and gf_m2ts_ipdatagram_reader() components. Fixed in 0e4093392e1f847c90d20e031e893cd942fef938.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71614",
+   "cvss": null,
+   "ref": "https://github.com/gpac/gpac/commit/0e4093392e1f847c90d20e031e893cd942fef938"
+  },
+  "title_vi": "CVE-2026-71614 — Một vấn đề trong GPAC c2dee3aff638cd96f9617ac5b17dc2868cd90ef3 cho phép kẻ tấn công thực thi mã tùy ý thông qua src/media_tools/dvb_mpe",
+  "key": "1e757e430100ad2c4d1b7ac1d89fa2c814598a62"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71616 — An issue in GPAC c2dee3aff638cd96f9617ac5b17dc2868cd90ef3 allows an attacker to cause a denial of service via the function gf_route_media_complete_obj",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71616",
+  "published": "2026-09-09T20:20:22.003",
+  "summary": "An issue in GPAC c2dee3aff638cd96f9617ac5b17dc2868cd90ef3 allows an attacker to cause a denial of service via the function gf_route_media_complete_object(). Fixed in 3c4e6c5b3e0c6fa9b16d55599701a08354538fab.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71616",
+   "cvss": null,
+   "ref": "https://github.com/gpac/gpac/commit/3c4e6c5b3e0c6fa9b16d55599701a08354538fab"
+  },
+  "title_vi": "CVE-2026-71616 — Một vấn đề trong GPAC c2dee3aff638cd96f9617ac5b17dc2868cd90ef3 cho phép kẻ tấn công gây ra từ chối dịch vụ thông qua chức năng gf_route_media_complete_obj",
+  "key": "f16347d09282950baccfa70d2ac1cf5119741916"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-73769 — A vulnerability in the web-based management interface of vulnerable CPPM systems could allow an authenticated remote attacker to achieve remote code e",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73769",
+  "published": "2026-09-09T20:20:33.360",
+  "summary": "A vulnerability in the web-based management interface of vulnerable CPPM systems could allow an authenticated remote attacker to achieve remote code execution. Successful exploitation could allow an attacker to execute arbitrary commands on the underlying operating system.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-73769",
+   "cvss": 7.2,
+   "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05130en_us&docLocale=en_US"
+  },
+  "title_vi": "CVE-2026-73769 - Một lỗ hổng trong giao diện quản lý dựa trên web của các hệ thống CPPM dễ bị tổn thương có thể cho phép kẻ tấn công từ xa được xác thực đạt được mã từ xa e",
+  "key": "2503aa2890c24f595b436ddc35076db3c99a65a6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-73786 — A vulnerability in the web-based management interface of CPPM could allow an unauthenticated remote attacker to conduct a Denial-of-Service (DoS) atta",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73786",
+  "published": "2026-09-09T20:20:33.493",
+  "summary": "A vulnerability in the web-based management interface of CPPM could allow an unauthenticated remote attacker to conduct a Denial-of-Service (DoS) attack. Successful exploitation could allow an attacker to cause instability and degrade performance of the vulnerable CPPM server.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-73786",
+   "cvss": 7.5,
+   "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05130en_us&docLocale=en_US"
+  },
+  "title_vi": "CVE-2026-73786 - Một lỗ hổng trong giao diện quản lý dựa trên web của CPPM có thể cho phép kẻ tấn công từ xa không được xác thực thực thực hiện một cuộc tấn công từ chối dịch vụ (DOS)",
+  "key": "17119bbf643a40fe4c4179edfbba9d6f9d503539"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-73787 — A vulnerability in the CPPM web interface could allow an authenticated remote attacker to access directory information on a vulnerable system",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73787",
+  "published": "2026-09-09T20:20:33.607",
+  "summary": "A vulnerability in the CPPM web interface could allow an authenticated remote attacker to access directory information on a vulnerable system. Successful exploitation could allow an attacker to execute arbitrary commands on the underlying operating system.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-73787",
+   "cvss": 7.2,
+   "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05130en_us&docLocale=en_US"
+  },
+  "title_vi": "CVE-2026-73787 — Lỗ hổng trong giao diện web CPPM có thể cho phép kẻ tấn công từ xa được xác thực truy cập thông tin thư mục trên hệ thống dễ bị tấn công",
+  "key": "7de7dc65b04f588f095dc198eeec3429d8322d96"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-73788 — A vulnerability in the ClearPass OnGuard agent could allow an authenticated remote attacker to elevate their own privileges on a vulnerable ClearPass ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73788",
+  "published": "2026-09-09T20:20:33.713",
+  "summary": "A vulnerability in the ClearPass OnGuard agent could allow an authenticated remote attacker to elevate their own privileges on a vulnerable ClearPass OnGuard deployment. Successful exploitation could allow an attacker to obtain root privileges, leading to potentially unauthorized operation of the vulnerable system.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-73788",
+   "cvss": 6.5,
+   "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05130en_us&docLocale=en_US"
+  },
+  "title_vi": "CVE-2026-73788 — Lỗ hổng trong tác nhân ClearPass OnGuard có thể cho phép kẻ tấn công từ xa được xác thực nâng cao đặc quyền của chính họ trên ClearPass dễ bị tổn thương",
+  "key": "b798b736a92186fb9efd63cf1df3ce3b9eaebb2e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-73789 — A vulnerability in the web-based management interface of CPPM guest account management services could allow an unauthenticated remote attacker to mani",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73789",
+  "published": "2026-09-09T20:20:33.830",
+  "summary": "A vulnerability in the web-based management interface of CPPM guest account management services could allow an unauthenticated remote attacker to manipulate account settings. Successful exploitation could allow an attacker to extend network access beyond policy limits, leading to unauthorized prolonged use of network resources.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-73789",
+   "cvss": 5.3,
+   "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05130en_us&docLocale=en_US"
+  },
+  "title_vi": "CVE-2026-73789 - Một lỗ hổng trong giao diện quản lý dựa trên web của các dịch vụ quản lý tài khoản khách CPPM có thể cho phép kẻ tấn công từ xa không được xác thực truy cập mani",
+  "key": "a2ec6fa6be38090601023d8df3be68da12474d72"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-79324 — Missing authorization in the Address Delete controller in Mageplaza GDPR for Magento 2 (mageplaza/module-gdpr) through 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79324",
+  "published": "2026-09-09T20:20:43.040",
+  "summary": "Missing authorization in the Address Delete controller in Mageplaza GDPR for Magento 2 (mageplaza/module-gdpr) through 4.2.9 allows remote unauthenticated attackers to delete any customer's saved address, and to erase all stored addresses by iterating the address id, via a GET request to /customer/address/delete/id/{id}. The controller extends the legacy Action class instead of AbstractAccount, so no authentication, ownership or form key check is enforced.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-79324",
+   "cvss": 7.5,
+   "ref": "https://gist.github.com/mrtantoine/4311aa0c267c7a77c15d292820eb3c36"
+  },
+  "title_vi": "CVE-2026-79324 — Thiếu ủy quyền trong bộ điều khiển Xóa địa chỉ trong Mageplaza GDPR cho Magento 2 (mageplaza/module-gdpr) đến 4",
+  "key": "61edfdeda9307f438dd6b481eda04a7e392144ad"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-87911 — An OS command injection weakness in the read-only enforcement of the SQL validation component in Amazon awslabs postgres-mcp-server before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87911",
+  "published": "2026-09-09T20:21:02.017",
+  "summary": "An OS command injection weakness in the read-only enforcement of the SQL validation component in Amazon awslabs postgres-mcp-server before 1.1.7 might allow an unauthenticated actor to execute operating system commands on the host of a self-managed PostgreSQL server by placing a crafted COPY ... TO PROGRAM statement into content that is processed when an authenticated user interacts with the MCP server in its default read-only mode.\n\n\n\nTo remediate this issue, users should upgrade to version 1.1.7 or later.",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-87911",
+   "cvss": 9.6,
+   "ref": "https://aws.amazon.com/security/security-bulletins/2026-104-aws/"
+  },
+  "title_vi": "CVE-2026-87911 — Một điểm yếu của hệ điều hành trong việc thực thi chỉ đọc thành phần xác thực SQL trong Amazon awslabs postgres-mcp-server trước 1",
+  "key": "a2170e1b7e076be3e444bec95ef39366e32a3754"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-36433 — An issue in Actions Semiconductor Co",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-36433",
+  "published": "2026-09-09T21:17:01.983",
+  "summary": "An issue in Actions Semiconductor Co. Ltd Tool- Media Player Utilities v.4.46 allows a physically proximate attacker execute arbitrary code via the Production.dll and RdiskUpgrade.exe components",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-36433",
+   "cvss": null,
+   "ref": "https://bytescan.net/CVE/CVE-2026-36433.html"
+  },
+  "title_vi": "CVE-2026-36433 — Một vấn đề trong Actions Semiconductor Co",
+  "key": "ffd2305691ce11feea0c72405f905644f9780b2c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-50165 — alf",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-50165",
+  "published": "2026-09-09T21:17:03.033",
+  "summary": "alf.io is an open source ticket reservation system for conferences, trade shows, workshops, and meetups. An Improper Access Control issue in versions prior to 2.0-M5-2605 allows an organization owner to read system-level configuration secrets through organization/event scoped \"single configuration\" endpoints. The affected endpoints require organization or event ownership, but they accept an arbitrary configuration key and then return the first matching value from a lookup that includes system-level configuration. As a result, an organization owner can retrieve secrets intended to be administra",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-50165",
+   "cvss": null,
+   "ref": "https://github.com/alfio-event/alf.io/security/advisories/GHSA-x473-r8w6-fcq5"
+  },
+  "title_vi": "",
+  "key": "a82012ac6d6e6066dad687223c2c27759ffc9e32"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-53956 — Rattler is a library that provides common functionality used within the conda ecosystem",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-53956",
+  "published": "2026-09-09T21:17:03.180",
+  "summary": "Rattler is a library that provides common functionality used within the conda ecosystem. `rattler_cache` prior to version 0.9.0 and `py-rattler` prior to version 0.24.0 were vulnerable to package-cache path traversal when handling package metadata from conda channels. During cache materialization, the `ratter_cache` code used the package record `build` string as part of a cache key that was joined into a filesystem path. A malicious or untrusted channel could publish repodata with path separators or traversal components in that field, causing package contents to be written outside the configur",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-53956",
+   "cvss": 5.4,
+   "ref": "https://github.com/conda/rattler/security/advisories/GHSA-h672-p7h7-97v9"
+  },
+  "title_vi": "CVE-2026-53956 — Rattler là một thư viện cung cấp chức năng phổ biến được sử dụng trong hệ sinh thái conda",
+  "key": "57274bcd4289e4fdf8e8d44c3b4b79099c30e2c7"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71801 — An issue was discovered in s-pms SPMS-Server through v1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71801",
+  "published": "2026-09-09T21:17:03.473",
+  "summary": "An issue was discovered in s-pms SPMS-Server through v1.0. The application contains a hardcoded default access token secret within its core configuration file, which is not overridden or removed in the production environment profile. A remote, unauthenticated attacker can locally forge valid administrative session tokens to completely bypass the authentication mechanism gaining full unauthorized access to protected backend APIs.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71801",
+   "cvss": null,
+   "ref": "https://github.com/W000i/vuln/issues/5"
+  },
+  "title_vi": "CVE-2026-71801 — Một vấn đề đã được phát hiện trong s-pms SPMS-Server thông qua v1",
+  "key": "b429e26f7c0446522b4d05be7f09c7ce70a8e416"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71802 — A stored Cross-Site Scripting (XSS) vulnerability exists in the announcement preview component of REBUILD 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71802",
+  "published": "2026-09-09T21:17:03.590",
+  "summary": "A stored Cross-Site Scripting (XSS) vulnerability exists in the announcement preview component of REBUILD 4.4.3. Although the announcement content undergoes HTML escaping on the server side, the client-side preview code reverses the escaped entities using jQuery's `html().text()` method and subsequently injects the result into the DOM. An administrator or attacker capable of controlling the announcement content can exploit this vulnerability to execute arbitrary JavaScript code in the browsers of users viewing the affected pages \"which may include the dashboard, activity feed, or login page, d",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71802",
+   "cvss": null,
+   "ref": "https://github.com/W000i/vuln/issues/6"
+  },
+  "title_vi": "CVE-2026-71802 — Lỗ hổng Cross-Site Scripting (XSS) được lưu trữ tồn tại trong thành phần xem trước thông báo của bản DỰNG LẠI 4",
+  "key": "bf0b0efec2043365640924a01e7dcbd7a65e809f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71803 — money-pos 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71803",
+  "published": "2026-09-09T21:17:03.707",
+  "summary": "money-pos 1.0 contains a stored Cross-Site Scripting (XSS) vulnerability. When processing returns, the backend fails to filter or escape the goodsName parameter, directly concatenating it into the order log description; the frontend subsequently renders this content using v-html. An attacker with product creation privileges can inject a malicious JavaScript payload, causing unauthorized code execution when an administrator views the order logs.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71803",
+   "cvss": null,
+   "ref": "https://github.com/W000i/vuln/issues/7"
+  },
+  "title_vi": "",
+  "key": "e1a986802a363b21c10bcfd3d57289b95c056a71"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-71808 — A SQL Injection vulnerability in Siam Ordering (siam-server) 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71808",
+  "published": "2026-09-09T21:17:03.813",
+  "summary": "A SQL Injection vulnerability in Siam Ordering (siam-server) 1.0.0 allows remote authenticated attackers to execute arbitrary SQL commands via the ${} string concatenation in AdminMapper.java and multiple other Mapper files (including MerchantWithdrawRecordMapper.java and MemberWithdrawRecordMapper.java).",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-71808",
+   "cvss": null,
+   "ref": "https://github.com/W000i/vuln/issues/12"
+  },
+  "title_vi": "CVE-2026-71808 — Lỗ hổng SQL Injection trong Siam Ordering (siam-server) 1",
+  "key": "37bf3a6b6cc9a2ca0f4b9481db62fbf656608c07"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-79387 — SQL injection vulnerability in PbootCMS versions 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79387",
+  "published": "2026-09-09T21:17:04.030",
+  "summary": "SQL injection vulnerability in PbootCMS versions 3.2.0 through 3.2.5 allows an authenticated user to modify arbitrary user account fields (including passwords and roles) via crafted parameters to the User/mod interface, enabling account takeover.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-79387",
+   "cvss": null,
+   "ref": "https://github.com/jhli07/CVE-2026-79387-PbootCMS-SQL-Injection"
+  },
+  "title_vi": "CVE-2026-79387 — Lỗ hổng SQL injection trong PbootCMS phiên bản 3",
+  "key": "ab482b96685d77a4bb0a9d067005c19d94afd047"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-79513 — A divide-by-zero vulnerability in the gf_dash_get_timeline_duration function (src/media_tools/dash_client",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79513",
+  "published": "2026-09-09T21:17:04.150",
+  "summary": "A divide-by-zero vulnerability in the gf_dash_get_timeline_duration function (src/media_tools/dash_client.c) of GPAC v26.07.0 allows attackers to cause a Denial of Service (DoS) via a crafted MPD SegmentTimeline. Fixed in 2fd5a06ab226767900fd86edb5a1e8bfc1010640.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-79513",
+   "cvss": 6.5,
+   "ref": "https://github.com/gpac/gpac/commit/2fd5a06ab226767900fd86edb5a1e8bfc1010640"
+  },
+  "title_vi": "CVE-2026-79513 — Lỗ hổng phân chia theo số không trong hàm gf_dash_get_timeline_duration (src/media_tools/dash_client",
+  "key": "2377b27f96dec2d09f4c08aa47b7843de3bd1225"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-79514 — An out-of-bounds read in the gf_dm_data_received function (downloader",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79514",
+  "published": "2026-09-09T21:17:04.273",
+  "summary": "An out-of-bounds read in the gf_dm_data_received function (downloader.c) of GPAC v26.07.0 allows attackers to cause a Denial of Service (DoS) via sending a crafted HTTP request. Fixed in 2fd5a06ab226767900fd86edb5a1e8bfc1010640.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-79514",
+   "cvss": 6.5,
+   "ref": "https://github.com/gpac/gpac/commit/2fd5a06ab226767900fd86edb5a1e8bfc1010640"
+  },
+  "title_vi": "CVE-2026-79514 — Đọc vượt giới hạn trong hàm gf_dm_data_received (trình tải xuống",
+  "key": "3805d045f74e954bc6e62317684f6c829048f727"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-79515 — An out-of-bounds read in the stbtt_GetGlyphShape component of nothings stb commit 31c1ad3 allows attackers to cause a Denial of Service (DoS) via send",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79515",
+  "published": "2026-09-09T21:17:04.400",
+  "summary": "An out-of-bounds read in the stbtt_GetGlyphShape component of nothings stb commit 31c1ad3 allows attackers to cause a Denial of Service (DoS) via sending a crafted TTF file.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-79515",
+   "cvss": 4.3,
+   "ref": "https://github.com/nothings/stb/issues/1962"
+  },
+  "title_vi": "CVE-2026-79515 — Đọc vượt giới hạn trong thành phần stbtt_GetGlyphShape của nothings stb commit 31c1ad3 cho phép kẻ tấn công gây ra Từ chối Dịch vụ (DoS) thông qua send",
+  "key": "b337ce2950f5094665d52df395f1662478a58b8d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-79516 — An out-of-bounds read in the stbsp_vsnprintf function (stb_sprintf",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79516",
+  "published": "2026-09-09T21:17:04.530",
+  "summary": "An out-of-bounds read in the stbsp_vsnprintf function (stb_sprintf.h) of nothings stb commit 31c1ad3 allows attackers to cause a Denial of Service (DoS) via sending a crafted input.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-79516",
+   "cvss": 4.0,
+   "ref": "https://github.com/nothings/stb/issues/1963"
+  },
+  "title_vi": "CVE-2026-79516 — Đọc vượt giới hạn trong hàm stbsp_vsnprintf (stb_sprintf",
+  "key": "116b94054776d7b91e66b0eb25b0df698511b884"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-79522 — An out-of-bounds read in the gf_dm_get_chunk_data function (src/utils/downloader",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79522",
+  "published": "2026-09-09T21:17:04.683",
+  "summary": "An out-of-bounds read in the gf_dm_get_chunk_data function (src/utils/downloader.c) of GPAC v26.07.0 allows attackers to cause a Denial of Service (DoS) via sending a crafted HTTP request. Fixed in 2fd5a06ab226767900fd86edb5a1e8bfc1010640.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-79522",
+   "cvss": 6.5,
+   "ref": "https://github.com/gpac/gpac/commit/2fd5a06ab226767900fd86edb5a1e8bfc1010640"
+  },
+  "title_vi": "CVE-2026-79522 — Đọc vượt giới hạn trong hàm gf_dm_get_chunk_data (src/utils/downloader",
+  "key": "f8e418a06710509e18e1241a8b535f55203ef661"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-87011 — Open WebUI is an extensible, feature-rich, and user-friendly self-hosted AI platform",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87011",
+  "published": "2026-09-09T21:17:05.847",
+  "summary": "Open WebUI is an extensible, feature-rich, and user-friendly self-hosted AI platform. From 0.9.0 until 0.11.1, the unauthenticated POST /oauth/backchannel-logout handler in backend/open_webui/utils/oauth.py fetched the OIDC discovery document and signing keys before validating a submitted logout token. Each request repeated uncached network fetches, and the signing-key lookup blocked the async event loop, so requests carrying invalid tokens could stall the single-worker instance and amplify traffic to the identity provider when ENABLE_OAUTH_BACKCHANNEL_LOGOUT was enabled. This issue is fixed i",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-87011",
+   "cvss": 7.5,
+   "ref": "https://github.com/open-webui/open-webui/commit/aeda6ff13a25d3b3ba1b303609f35382db22142c"
+  },
+  "title_vi": "CVE-2026-87011 - Open WebUI là một nền tảng AI tự lưu trữ có thể mở rộng, giàu tính năng và thân thiện với người dùng",
+  "key": "8c32d9db1d963b28ba23fbc99088c2360b21530c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-87012 — Open WebUI is an extensible, feature-rich, and user-friendly self-hosted AI platform",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87012",
+  "published": "2026-09-09T21:17:06.030",
+  "summary": "Open WebUI is an extensible, feature-rich, and user-friendly self-hosted AI platform. From 0.9.0 until 0.11.1, backend/open_webui/models/calendar.py stored the calendar event meta.alert_minutes value without type validation and the shared upcoming-event scheduler compared that value numerically. An authenticated user with the calendar permission could store a non-numeric alert_minutes value that raised an exception and aborted the instance-wide alert pass, suppressing all users' reminders while the event remained in the lookahead window. This issue is fixed in version 0.11.1.",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-87012",
+   "cvss": 4.3,
+   "ref": "https://github.com/open-webui/open-webui/commit/abc69000b33b4894fbd97fc2c962139cf9a8d784"
+  },
+  "title_vi": "CVE-2026-87012 - Open WebUI là một nền tảng AI tự lưu trữ có thể mở rộng, giàu tính năng và thân thiện với người dùng",
+  "key": "8deeeac02ecc82e28c7a2a3d61dd6d687f5158a0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-87013 — Open WebUI is an extensible, feature-rich, and user-friendly self-hosted AI platform",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87013",
+  "published": "2026-09-09T21:17:06.173",
+  "summary": "Open WebUI is an extensible, feature-rich, and user-friendly self-hosted AI platform. From 0.10.0 until 0.11.1, POST /api/v1/folders/{id}/update/parent allowed a user to place a folder under itself or one of its descendants, while the folder tree walks used by DELETE /api/v1/folders/{id} and POST /api/v1/folders/{id}/read did not track visited folder identifiers. An authenticated user could persist a parent cycle and start a request that consumed CPU and memory indefinitely, with the condition remaining stored until repaired. This issue is fixed in version 0.11.1.",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-87013",
+   "cvss": 4.3,
+   "ref": "https://github.com/open-webui/open-webui/commit/23b3a69bc26839bfa74edd1be6bfa2568ae902f4"
+  },
+  "title_vi": "CVE-2026-87013 - Open WebUI là một nền tảng AI tự lưu trữ có thể mở rộng, giàu tính năng và thân thiện với người dùng",
+  "key": "698dd7e9859026edaef7ea45fe5a481ff3be06b5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-87014 — Open WebUI is an extensible, feature-rich, and user-friendly self-hosted AI platform",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87014",
+  "published": "2026-09-09T21:17:06.327",
+  "summary": "Open WebUI is an extensible, feature-rich, and user-friendly self-hosted AI platform. From 0.9.0 until 0.11.1, role synchronization in backend/open_webui/routers/auths.py and backend/open_webui/utils/oauth.py updated an administrator's database role without invalidating the user record cached by backend/open_webui/socket/main.py. An administrator demoted through a trusted role header or OAuth role mapping could keep an already-open Socket.IO connection and continue reading or editing every user's collaborative notes until that connection closed. This issue is fixed in version 0.11.1.",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-87014",
+   "cvss": 6.5,
+   "ref": "https://github.com/open-webui/open-webui/commit/ce3c175e260709f359d7e6cbb3132f0572098b95"
+  },
+  "title_vi": "CVE-2026-87014 - Open WebUI là một nền tảng AI tự lưu trữ có thể mở rộng, giàu tính năng và thân thiện với người dùng",
+  "key": "7a99df91e1085dd013e1018b336ff77070f4928a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-87015 — Open WebUI is an extensible, feature-rich, and user-friendly self-hosted AI platform",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87015",
+  "published": "2026-09-09T21:17:06.463",
+  "summary": "Open WebUI is an extensible, feature-rich, and user-friendly self-hosted AI platform. From 0.6.27 until 0.11.1, backend/open_webui/utils/tools.py captured a cookie jar from the enclosing connection loop instead of binding it to each external tool callable. When multiple tool servers were attached and a session or system OAuth connection was processed last, a request to a different server configured for bearer authentication could include the calling user's Open WebUI session cookies, allowing that server's operator to reuse the session and take over the account. This issue is fixed in version ",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-87015",
+   "cvss": 6.8,
+   "ref": "https://github.com/open-webui/open-webui/commit/cd9db21c5276807a2975ddba17cef369ad1114b7"
+  },
+  "title_vi": "CVE-2026-87015 - Open WebUI là một nền tảng AI tự lưu trữ có thể mở rộng, giàu tính năng và thân thiện với người dùng",
+  "key": "fe27ac4d04b8acef6c5581441bc4b9a28fd10e00"
+ },
+ {
+  "source": "Tuổi Trẻ Công nghệ",
   "title": "Những thông tin rò rỉ về iPhone 18 màn hình gập",
   "link": "https://tuoitre.vn/nhung-thong-tin-ro-ri-ve-iphone-18-man-hinh-gap-100260909224751124.htm",
   "published": "2026-09-09T19:03:43.340769+00:00",
@@ -72682,1685 +74439,5 @@
   },
   "title_vi": "",
   "key": "f40189075759e616d83d765c46437ff84dc8131c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28613 — In initAppLinkTypeAndIntent of ChannelImpl",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28613",
-  "published": "2026-09-08T19:17:53.507",
-  "summary": "In initAppLinkTypeAndIntent of ChannelImpl.java, there is a possible launch an arbitrary intent due to improper input validation. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28613",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "46785dc1ebcc3976394e324e6c400b937ea94621"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28614 — In onCreate of SlicePermissionActivity",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28614",
-  "published": "2026-09-08T19:17:53.620",
-  "summary": "In onCreate of SlicePermissionActivity.java, there is a possible permission bypass due to a confused deputy. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28614",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "8a1c11c96a7470b1e5522a13e97ee41e670335a4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28616 — In Setup Wizard, there is a possible way to force connection to a malicious network due to confused deputy",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28616",
-  "published": "2026-09-08T19:17:53.740",
-  "summary": "In Setup Wizard, there is a possible way to force connection to a malicious network due to confused deputy. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28616",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "00724855f981b5433e6e0c31cf28dbdc97373229"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28617 — In add of WifiNetworkSuggestionsManager",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28617",
-  "published": "2026-09-08T19:17:53.853",
-  "summary": "In add of WifiNetworkSuggestionsManager.java, there is a possible persistent DOS due to resource exhaustion. This could lead to local denial of service with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28617",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "2985624ace09699cc80cf711c731db09193f4072"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28618 — In dec_frm_prepare of oapv",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28618",
-  "published": "2026-09-08T19:17:53.970",
-  "summary": "In dec_frm_prepare of oapv.c, there is a possible OOB write due to a heap buffer overflow. This could lead to remote code execution with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28618",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "b929aca0013f311b31fce16201c0fd765437ec59"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28620 — In multiple locations, there is a possible unauthorized URI access due to a permissions bypass",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28620",
-  "published": "2026-09-08T19:17:54.083",
-  "summary": "In multiple locations, there is a possible unauthorized URI access due to a permissions bypass. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28620",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "eced41da04a8d8f8bc4df27ba52b5bbd1846eb72"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28622 — In getQueryBuilderInternal of MediaProvider",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28622",
-  "published": "2026-09-08T19:17:54.200",
-  "summary": "In getQueryBuilderInternal of MediaProvider.java, there is a possible way to retrieve location metadata due to a permissions bypass. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28622",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "8e9719365632d46ce90af9d53cc9c66de291ed5c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28623 — In writeToParcel of BleRssiRangingCapabilities",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28623",
-  "published": "2026-09-08T19:17:54.320",
-  "summary": "In writeToParcel of BleRssiRangingCapabilities.java, there is a possible way to obtain the Bluetooth MAC address due to a missing permission check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28623",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "e80f35e9420fb80343a114c12f474f96088089c6"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28624 — In multiple locations, there is a possible read/write access to files without the proper permissions due to a confused deputy",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28624",
-  "published": "2026-09-08T19:17:54.420",
-  "summary": "In multiple locations, there is a possible read/write access to files without the proper permissions due to a confused deputy. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28624",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "bf73c40659cd6956f8ac48bd260e934e2d704d75"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28626 — In onCreate of SetupPassthroughActivity",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28626",
-  "published": "2026-09-08T19:17:54.530",
-  "summary": "In onCreate of SetupPassthroughActivity.java, there is a possible way to launch arbitrary activity due to Intent redirection . This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28626",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "9e2e3d6f3286f07a559e09e7276402e592f6d5b8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28627 — In btm_sec_encrypt_change of btm_sec",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28627",
-  "published": "2026-09-08T19:17:54.650",
-  "summary": "In btm_sec_encrypt_change of btm_sec.cc, there is a possible downgrade attack due to a logic error in the code. This could lead to remote information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28627",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "5194863b917869b2a7fc2bcffc04fbe8f417f623"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28630 — In onCreate of ContactsPickerActivity",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28630",
-  "published": "2026-09-08T19:17:54.760",
-  "summary": "In onCreate of ContactsPickerActivity.kt, there is a possible misleading UI due to a tapjacking/overlay attack. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28630",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "9fff2d36398173d1aac587c5af7709af95787509"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28631 — In buildMiniResolver of IntentForwarderActivity",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28631",
-  "published": "2026-09-08T19:17:54.880",
-  "summary": "In buildMiniResolver of IntentForwarderActivity.java, there is a possible consent bypass due to a tapjacking/overlay attack. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28631",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "952b107dc813219fdca9518dd6fd548e1028690c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28633 — In initForUserNoTracing of VoiceInteractionManagerService",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28633",
-  "published": "2026-09-08T19:17:54.987",
-  "summary": "In initForUserNoTracing of VoiceInteractionManagerService.java, there is a possible persistent denial of service due to resource exhaustion. This could lead to local denial of service with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28633",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "75c8be1acc301d6b9bc366c5b20825bf9d86d7e9"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28634 — In handleUssdRequest of PhoneInterfaceManager",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28634",
-  "published": "2026-09-08T19:17:55.080",
-  "summary": "In handleUssdRequest of PhoneInterfaceManager.java, there is a possible way to send a USSD request without permission due to a logic error in the code. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28634",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "0c3242714f38a5b74c551c851813c77d81d431d2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28636 — In setupLayout of PickActivity",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28636",
-  "published": "2026-09-08T19:17:55.177",
-  "summary": "In setupLayout of PickActivity.java, there is a possible bypass of the \"Install unknown apps\" security restriction due to a confused deputy. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28636",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "d3079ed6f5ba9e9d3951a6ba5a8f497dcf74f645"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28638 — In multiple functions of XmpDataParser",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28638",
-  "published": "2026-09-08T19:17:55.267",
-  "summary": "In multiple functions of XmpDataParser.java, there is a possible improper data sanitization due to a logic error in the code. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28638",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "f8db1c4334ec4081a73cc597e2530df8d66657e2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28639 — In rw_mfc_handle_read_op of rw_mfc",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28639",
-  "published": "2026-09-08T19:17:55.360",
-  "summary": "In rw_mfc_handle_read_op of rw_mfc.cc, there is a possible out of bounds write due to a logic error in the code. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28639",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "8cda03a0a7daa230bca2ece8490d80274b94e08b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28642 — In executeRequest of ActivityStarter",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28642",
-  "published": "2026-09-08T19:17:55.450",
-  "summary": "In executeRequest of ActivityStarter.java, there is a possible background activity launch due to a logic error in the code. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28642",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "287659d05534425fa77073092f1b3dbacba19764"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28644 — In startNextMatchingActivity of ActivityTaskManagerService",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28644",
-  "published": "2026-09-08T19:17:55.543",
-  "summary": "In startNextMatchingActivity of ActivityTaskManagerService.java, there is a possible permission bypass due to a confused deputy. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28644",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "91c541d5aca88dd556b08727bb35754ae6dbb543"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28650 — In setHiddenWhileSuspended of WindowState",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28650",
-  "published": "2026-09-08T19:17:55.643",
-  "summary": "In setHiddenWhileSuspended of WindowState.java, there is a possible overlay bypass due to a logic error in the code. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28650",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "8136c5eea3151c125cc2dd1e6e8ae5eb6046e35b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28652 — In multiple functions of RangingServiceImpl",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28652",
-  "published": "2026-09-08T19:17:55.747",
-  "summary": "In multiple functions of RangingServiceImpl.java, there is a possible MITM due to a missing permission check. This could lead to remote information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28652",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "8f73da0af56c4a74ae4258541b449410d46778e1"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28653 — In multiple functions of rw_t3t",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28653",
-  "published": "2026-09-08T19:17:55.857",
-  "summary": "In multiple functions of rw_t3t.cc, there is a possible out of bounds write due to an integer overflow. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28653",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "c2158ce5d2e75a1851826a898ee61c010ea19cd4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28655 — In multiple functions of RemoteViews",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28655",
-  "published": "2026-09-08T19:17:55.970",
-  "summary": "In multiple functions of RemoteViews.java, there is a possible background activity launch bypass due to a logic error in the code. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28655",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "50af95ca134683325d267b2dfe02a837911dfd5c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28656 — In multiple functions of DeviceAdminAdd",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28656",
-  "published": "2026-09-08T19:17:56.100",
-  "summary": "In multiple functions of DeviceAdminAdd.java, there is a possible way to an overlay due to a tapjacking/overlay attack. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28656",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/wear/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "b6e3b4802f88292c0482aae2e2a922416770b39a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28657 — In onActivityResult of AppWidgetConfigActivityProxy",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28657",
-  "published": "2026-09-08T19:17:56.207",
-  "summary": "In onActivityResult of AppWidgetConfigActivityProxy.java, there is a possible unauthorized URI permission grant due to a confused deputy. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28657",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "438f9b7762602ed061ee02d663acb9ff42f34890"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28658 — In findMetaAuthUid of AccountsDb",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28658",
-  "published": "2026-09-08T19:17:56.313",
-  "summary": "In findMetaAuthUid of AccountsDb.java, there is a possible frp bypass due to a logic error in the code. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28658",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "8b06f9ccf06c2eae8bc906f47554a93a5e41f8df"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28660 — In getAllSessions of multiple files, there is a possible confused deputy due to a logic error in the code",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28660",
-  "published": "2026-09-08T19:17:56.420",
-  "summary": "In getAllSessions of multiple files, there is a possible confused deputy due to a logic error in the code. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28660",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "82392268bdc616e417eccc2d017c797bebf9f328"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28662 — In p2p_process_prov_disc_bootstrap_req of p2p_pd",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28662",
-  "published": "2026-09-08T19:17:56.570",
-  "summary": "In p2p_process_prov_disc_bootstrap_req of p2p_pd.c, there is a possible out of bounds write due to a heap buffer overflow. This could lead to remote (proximal/adjacent) code execution with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28662",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "25c5c106715c1a09324db19e8b21e2ccd2e0d32a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28663 — In buildIntentSenderForUser of LauncherAppsService",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28663",
-  "published": "2026-09-08T19:17:56.677",
-  "summary": "In buildIntentSenderForUser of LauncherAppsService.java, there is a possible way to launch an activity from the background due to BAL Bypass. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28663",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "60dae7f982f35d8a6d28301f5ca40dffd7e29037"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28664 — In WriteImageToDisk of runtime_image",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28664",
-  "published": "2026-09-08T19:17:56.790",
-  "summary": "In WriteImageToDisk of runtime_image.cc, there is a possible file tampering due to a logic error in the code. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28664",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "3306f11a5010226b439bbc0e5f352a39e7d8195b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28666 — In multiple functions of LocalImageResolver",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28666",
-  "published": "2026-09-08T19:17:56.887",
-  "summary": "In multiple functions of LocalImageResolver.java, there is a possible Remote Persistent Denial of Service due to a DNG image rendering check bypass. This could lead to remote escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28666",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "d303e4fdd0cabbb81a59d8e81601e16ec95ea04c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28668 — In LimitRealloc of malloc_limit",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28668",
-  "published": "2026-09-08T19:17:56.980",
-  "summary": "In LimitRealloc of malloc_limit.cpp, there is a possible use after free due to a logic error in the code. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28668",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "06b18a7c69df3595062e99327a292fb03649bfbf"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28671 — In updateInternal of MediaProvider",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28671",
-  "published": "2026-09-08T19:17:57.087",
-  "summary": "In updateInternal of MediaProvider.java, there is a possible expose contents of files due to a race condition. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28671",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "7736c81c12708733b7e008673b1b2fd72a6cd833"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-45515 — In a2dp_vendor_opus_decoder_decode_packet of a2dp_vendor_opus_decoder",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-45515",
-  "published": "2026-09-08T19:17:57.437",
-  "summary": "In a2dp_vendor_opus_decoder_decode_packet of a2dp_vendor_opus_decoder.cc, there is a possible out of bounds write due to a heap buffer overflow. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-45515",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "363a2f02ed122594afc80c55efa9733f468fdae4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-45519 — In screenArgsForPermissionCheckIfAny of multiple locations there is a possible risk of unauthorized access due to a confused deputy",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-45519",
-  "published": "2026-09-08T19:17:57.537",
-  "summary": "In screenArgsForPermissionCheckIfAny of multiple locations there is a possible risk of unauthorized access due to a confused deputy. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-45519",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "cc69f4e114513b482036ba10d5937273bbbfd343"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-45520 — In onAttach of BiometricsSettingsBase",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-45520",
-  "published": "2026-09-08T19:17:57.630",
-  "summary": "In onAttach of BiometricsSettingsBase.java, there is a possible authentication bypass due to a confused deputy. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-45520",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "c2af1b7319c22fc5ec46540ff18b0dc33c1698c3"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-45521 — In openFile of AppFuseBridge",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-45521",
-  "published": "2026-09-08T19:17:57.723",
-  "summary": "In openFile of AppFuseBridge.java, there is a possible information disclosure due to a missing permission check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-45521",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "6130d67b1b6d4669631b02665f76c8755991a99e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-45525 — In multiple locations, there is a possible improper data sanitization due to a logic error in the code",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-45525",
-  "published": "2026-09-08T19:17:57.817",
-  "summary": "In multiple locations, there is a possible improper data sanitization due to a logic error in the code. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-45525",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "93594bb7acf2a31981d93e1d66feed51b87c0d5a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-45527 — In convertCleanApertureToRect of HeifCleanAperture",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-45527",
-  "published": "2026-09-08T19:17:57.910",
-  "summary": "In convertCleanApertureToRect of HeifCleanAperture.cpp, there is a possible way to cause a temporary denial of service due to an integer overflow. This could lead to remote denial of service with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-45527",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "d31ea1bf36a85a0b42f68576c7730f9becd65512"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-45528 — In getManageSpaceActivityIntent of StorageManagerService",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-45528",
-  "published": "2026-09-08T19:17:58.007",
-  "summary": "In getManageSpaceActivityIntent of StorageManagerService.java, there is a possible LaunchAnyWhere chain due to an unsafe PendingIntent. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-45528",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "741eaf66f55e2a01470b642f5b417cfdc08f2861"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-45531 — In read_boot_region of fsck",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-45531",
-  "published": "2026-09-08T19:17:58.107",
-  "summary": "In read_boot_region of fsck.c, there is a possible out of bounds read due to a heap buffer overflow. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-45531",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "be0b548e11741c37edfd3b9aae45b0af8e6924ef"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-49879 — In multiple functions of rw_t3t",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-49879",
-  "published": "2026-09-08T19:17:58.370",
-  "summary": "In multiple functions of rw_t3t.cc, there is a possible out of bounds write due to an integer overflow. This could lead to remote code execution with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-49879",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "98017f84c0b07ba5896c7a38c69cd128df796edd"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-49881 — In serviceClassExists of InCallController",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-49881",
-  "published": "2026-09-08T19:17:58.470",
-  "summary": "In serviceClassExists of InCallController.java, there is a possible arbitrary code execution due to a logic error in the code. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-49881",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "0a1c92acd44c7a5b919e64e3b1d8e00f5ffcf62d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-49882 — In rw_mfc_handle_read_op of rw_mfc",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-49882",
-  "published": "2026-09-08T19:17:58.563",
-  "summary": "In rw_mfc_handle_read_op of rw_mfc.cc, there is a possible memory safety issue due to a heap buffer overflow. This could lead to remote code execution with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-49882",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "d83b7adb2980fd96325008cfb22155e5a443eaa7"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-49884 — In rw_mfc_handle_read_op of rw_mfc",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-49884",
-  "published": "2026-09-08T19:17:58.660",
-  "summary": "In rw_mfc_handle_read_op of rw_mfc.cc, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-49884",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "08d4155b4d7c6704b6f216906aa139e41a56e9db"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-49887 — In maybeRemoveInvalidInstallerPackageName of InstallRepository",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-49887",
-  "published": "2026-09-08T19:17:58.753",
-  "summary": "In maybeRemoveInvalidInstallerPackageName of InstallRepository.kt, there is a possible unauthorized app update due to a permissions bypass. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-49887",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "bee5b9e08006801d927536141795fcbe1c7a56ec"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-49895 — In get_eht_operation_channel_width of ieee802_11_common",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-49895",
-  "published": "2026-09-08T19:17:58.883",
-  "summary": "In get_eht_operation_channel_width of ieee802_11_common.c, there is a possible out of bounds read due to an incorrect bounds check. This could lead to remote (proximal/adjacent) information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-49895",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "b86814ade2b2835f81429b3d7371610fa68f0bea"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-49918 — In multiple functions, there is a possible out of bounds write due to an integer overflow",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-49918",
-  "published": "2026-09-08T19:17:59.003",
-  "summary": "In multiple functions, there is a possible out of bounds write due to an integer overflow. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-49918",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "715671749925e784fcc253723af527f383f9560b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-49919 — In tt_face_colr_blend_layer of ttcolr",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-49919",
-  "published": "2026-09-08T19:17:59.093",
-  "summary": "In tt_face_colr_blend_layer of ttcolr.c, there is a possible remote code execution due to an integer overflow. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-49919",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "f88c5c69dde332307df5489c9f9aaf9a4d37cf12"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-49921 — In multiple locations, there is a possible memory safety issue due to a heap buffer overflow",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-49921",
-  "published": "2026-09-08T19:17:59.193",
-  "summary": "In multiple locations, there is a possible memory safety issue due to a heap buffer overflow. This could lead to remote code execution with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-49921",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "4b29d913f21758dad3ce4ed74ca740e493f497ef"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-49927 — In multiple locations, there is a possible out of bounds write due to an integer overflow",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-49927",
-  "published": "2026-09-08T19:17:59.283",
-  "summary": "In multiple locations, there is a possible out of bounds write due to an integer overflow. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-49927",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "89cd605fa74dcf221f322a1cd94b524125d2f5e7"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-49932 — In parseParts of PduParser",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-49932",
-  "published": "2026-09-08T19:17:59.377",
-  "summary": "In parseParts of PduParser.java, there is a possible out of bounds read due to a heap buffer overflow. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-49932",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "404c1a6826b93d4d230069edab8f430d2b393b84"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55256 — In parsePartHeaders of multiple files, there is a possible persistent denial of service due to improper input validation",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55256",
-  "published": "2026-09-08T19:18:00.540",
-  "summary": "In parsePartHeaders of multiple files, there is a possible persistent denial of service due to improper input validation. This could lead to remote denial of service with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55256",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "3a132cfb717c407ce4c93d41847be238bc509bd4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55273 — In AppendCommentLine of AnnotationProcessor",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55273",
-  "published": "2026-09-08T19:18:01.500",
-  "summary": "In AppendCommentLine of AnnotationProcessor.cpp, there is a possible supply chain risk due to improper input validation. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55273",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "c546fd773c0389d4e133f61de2b51950a49765cb"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55277 — In checkUiccListenConfigNeeded of RoutingManager",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55277",
-  "published": "2026-09-08T19:18:01.600",
-  "summary": "In checkUiccListenConfigNeeded of RoutingManager.cpp, there is a possible out of bounds write due to a missing bounds check. This could lead to remote (proximal/adjacent) code execution with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55277",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "11b026ed0badc5394f60553d6e3aa106f9a95b62"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55285 — In openLogicalChannel of multiple files, there is a possible out-of-bounds write due to a missing bounds check",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55285",
-  "published": "2026-09-08T19:18:01.727",
-  "summary": "In openLogicalChannel of multiple files, there is a possible out-of-bounds write due to a missing bounds check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55285",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "8fc234ec0e10e2c6e0dc5e3647e7d3db49e5aa54"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55290 — In setTo of ResourceTypes",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55290",
-  "published": "2026-09-08T19:18:01.827",
-  "summary": "In setTo of ResourceTypes.cpp, there is a possible out-of-bounds heap read due to a missing bounds check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55290",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "4b3bf33d29e92b491fac5402031dac205163a70c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-55294 — In ihevcd_get_tu_data_size of ihevcd_utils",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-55294",
-  "published": "2026-09-08T19:18:01.923",
-  "summary": "In ihevcd_get_tu_data_size of ihevcd_utils.c, there is a possible out of bounds write due to a heap buffer overflow. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-55294",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "b86ab67c6ea02bd8dfd7a64d4c7dd77beb382a3c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-58820 — In multiple locations, there is a possible memory safety issue due to integer overflow",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-58820",
-  "published": "2026-09-08T19:18:02.687",
-  "summary": "In multiple locations, there is a possible memory safety issue due to integer overflow. This could lead to local escalation of privilege with no additional execution privileges required.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-58820",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "3d05adf2c79d70dd4e790b8e681ac3a16886d048"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-58822 — In multiple functions of ftsmooth",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-58822",
-  "published": "2026-09-08T19:18:02.780",
-  "summary": "In multiple functions of ftsmooth.c, there is a possible memory safety issue due to improper casting. This could lead to remote code execution with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-58822",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "0155ad0d1bb3c23ad582e110bb7c65c6d541dfaf"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-58823 — In stpropnci_process_std of stpropnci_std",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-58823",
-  "published": "2026-09-08T19:18:02.873",
-  "summary": "In stpropnci_process_std of stpropnci_std.cc, there is a possible memory safety issue due to a missing bounds check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-58823",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "2d83c5d77ee0575dd996e817098977fb80e97a21"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-58839 — In forEachLine of MountRegistry",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-58839",
-  "published": "2026-09-08T19:18:02.977",
-  "summary": "In forEachLine of MountRegistry.cpp, there is a possible out of bounds read due to a buffer overflow. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-58839",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "6ca9512dceeb021a7d0265dae8e07e480489709d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-58846 — In kvm_iommu_map_sg of iommu",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-58846",
-  "published": "2026-09-08T19:18:03.077",
-  "summary": "In kvm_iommu_map_sg of iommu.c, there is a possible use after free due to a missing permission check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-58846",
-   "cvss": null,
-   "ref": "https://android.googlesource.com/kernel/common/+/ad34d15396568919a8ddd306ce2120e76d111b7c"
-  },
-  "title_vi": "",
-  "key": "f48a85f4d31ddb3c3db63e8b5f4ff5076f6c70a9"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-58848 — In multiple functions of alloc",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-58848",
-  "published": "2026-09-08T19:18:03.180",
-  "summary": "In multiple functions of alloc.c, there is a possible unauthorized read/write access due to a race condition. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-58848",
-   "cvss": null,
-   "ref": "https://android.googlesource.com/kernel/common/+/8f68185b8289dbe43e96f3d2b036c81c83cc58aa"
-  },
-  "title_vi": "",
-  "key": "b1c2c36ac0009fe414c393a5477783393a9ec283"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-58874 — In multiple functions of SmsController",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-58874",
-  "published": "2026-09-08T19:18:03.270",
-  "summary": "In multiple functions of SmsController.java, there is a possible escalation of privilege due to a missing permission check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-58874",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "559eae4edaffa826b6ff890df7480b9eb70e4942"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-58941 — In multiple functions of iommu",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-58941",
-  "published": "2026-09-08T19:18:03.363",
-  "summary": "In multiple functions of iommu.c, there is a possible out of bounds read/write due to improper input validation. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-58941",
-   "cvss": null,
-   "ref": "https://android.googlesource.com/kernel/common/+/6bc773e9c9f8ec6c5c431934462badbbb7d21767"
-  },
-  "title_vi": "",
-  "key": "bb9b686c3141e556a282a75c47964e730e14d183"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-63523 — Improper neutralization of input during web page generation ('cross-site scripting') in Skype for Business allows an unauthorized attacker to perform ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63523",
-  "published": "2026-09-08T19:18:07.267",
-  "summary": "Improper neutralization of input during web page generation ('cross-site scripting') in Skype for Business allows an unauthorized attacker to perform spoofing over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-63523",
-   "cvss": 6.5,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-63523"
-  },
-  "title_vi": "",
-  "key": "4dadea37bbe169edadd0b5ec553ed9cb2e9e5ad1"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-66302 — External control of file name or path in Skype for Business allows an unauthorized attacker to execute code over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66302",
-  "published": "2026-09-08T19:18:07.690",
-  "summary": "External control of file name or path in Skype for Business allows an unauthorized attacker to execute code over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-66302",
-   "cvss": 9.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-66302"
-  },
-  "title_vi": "",
-  "key": "b151474a1108aa3a8fd9acd051a089b6003cc2bc"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-66303 — Null pointer dereference in Skype for Business allows an authorized attacker to deny service over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66303",
-  "published": "2026-09-08T19:18:07.820",
-  "summary": "Null pointer dereference in Skype for Business allows an authorized attacker to deny service over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-66303",
-   "cvss": 6.5,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-66303"
-  },
-  "title_vi": "",
-  "key": "198e707ceccfbd260622c5a362c98a48450c3e91"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-66304 — Server-side request forgery (ssrf) in Skype for Business allows an unauthorized attacker to disclose information over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66304",
-  "published": "2026-09-08T19:18:07.950",
-  "summary": "Server-side request forgery (ssrf) in Skype for Business allows an unauthorized attacker to disclose information over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-66304",
-   "cvss": 7.5,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-66304"
-  },
-  "title_vi": "",
-  "key": "b628601a94c6c438f987c002c891355354198797"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-66305 — Use of client-side authentication in Skype for Business allows an authorized attacker to perform spoofing over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66305",
-  "published": "2026-09-08T19:18:08.073",
-  "summary": "Use of client-side authentication in Skype for Business allows an authorized attacker to perform spoofing over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-66305",
-   "cvss": 7.1,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-66305"
-  },
-  "title_vi": "",
-  "key": "3c169215bf0092351b374aea573f5568bed52e84"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-66306 — Generation of error message containing sensitive information in Skype for Business allows an unauthorized attacker to disclose information over a netw",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66306",
-  "published": "2026-09-08T19:18:08.200",
-  "summary": "Generation of error message containing sensitive information in Skype for Business allows an unauthorized attacker to disclose information over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-66306",
-   "cvss": 6.5,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-66306"
-  },
-  "title_vi": "",
-  "key": "5051d41e3ef1358593a5e9bc80ab478160254716"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-66307 — Integer underflow (wrap or wraparound) in Skype for Business allows an unauthorized attacker to deny service over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66307",
-  "published": "2026-09-08T19:18:08.327",
-  "summary": "Integer underflow (wrap or wraparound) in Skype for Business allows an unauthorized attacker to deny service over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-66307",
-   "cvss": 7.5,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-66307"
-  },
-  "title_vi": "",
-  "key": "e080e3b5357c886ef105181e78042b8614d3a59c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-66308 — Out-of-bounds read in Skype for Business allows an authorized attacker to deny service over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66308",
-  "published": "2026-09-08T19:18:08.450",
-  "summary": "Out-of-bounds read in Skype for Business allows an authorized attacker to deny service over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-66308",
-   "cvss": 6.5,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-66308"
-  },
-  "title_vi": "",
-  "key": "c18ab7effaa2e80e43668a265f01deb6f98c27f7"
- },
- {
-  "source": "VietnamPlus Kinh tế số",
-  "title": "Lũ quét ở Nepal và Trung Quốc: Hơn 1.400 người chết, gần 5.900 người mất tích",
-  "link": "https://www.vietnamplus.vn/lu-quet-o-nepal-va-trung-quoc-hon-1400-nguoi-chet-gan-5900-nguoi-mat-tich-post1134978.vnp",
-  "published": "2026-09-08T12:51:01+00:00",
-  "summary": "Nhà chức trách Nepal cho biết số người được báo mất tích tiếp tục tăng do các cơ quan chức năng đang tập hợp và đối chiếu danh sách từ nhiều địa phương nhằm loại bỏ các trường hợp trùng lặp. Lũ quét tại Nepal và Trung Quốc: Nepal tổ chức quốc tang tưởng niệm các nạn nhân Lũ quét lại Nepal và Trung Quốc: Tăng cường giám sát tình trạng sạt lở Nepal giải cứu công dân Trung Quốc sau 10 ngày mắc kẹt trong đường hầm",
-  "categories": [
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "48f87e887c40af42f3eb8112975567d6d0df9c13"
- },
- {
-  "source": "VietnamPlus Kinh tế số",
-  "title": "Thủ tướng: Bảo đảm nguồn cung thuốc, thiết bị y tế đầy đủ với giá thành hợp lý",
-  "link": "https://www.vietnamplus.vn/thu-tuong-bao-dam-nguon-cung-thuoc-thiet-bi-y-te-day-du-voi-gia-thanh-hop-ly-post1134974.vnp",
-  "published": "2026-09-08T12:15:55+00:00",
-  "summary": "Thủ tướng yêu cầu kiểm soát chặt chẽ giá thành từ gốc; quản lý giá từ nhà sản xuất, nhà cung cấp, cửa khẩu đến các doanh nghiệp, bệnh viện và đến tay người bệnh thông qua cơ chế liên thông dữ liệu. Ban hành quy chế quản lý, khai thác, bảo đảm an toàn thông tin dữ liệu y tế Đưa dịch vụ y tế đến gần hơn với người dân vùng biên Tây Ninh Bộ Y tế yêu cầu làm rõ phản ánh về dịch vụ vận chuyển bệnh nhân tại Thanh Hóa",
-  "categories": [
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "a10b8e50e73a6621ec2fac435671af068a12ef56"
- },
- {
-  "source": "VietnamPlus Kinh tế số",
-  "title": "Hà Nội: Trả hồ sơ vụ buôn bán giày giả để làm rõ dòng tiền hơn 3 tỷ đồng",
-  "link": "https://www.vietnamplus.vn/ha-noi-tra-ho-so-vu-buon-ban-giay-gia-de-lam-ro-dong-tien-hon-3-ty-dong-post1134966.vnp",
-  "published": "2026-09-08T11:52:08+00:00",
-  "summary": "Liên quan vụ án buôn bán giày giả mạo nhãn hiệu tại cửa hàng Copsneaker ở Hà Nội, Hội đồng xét xử quyết định trả hồ sơ để điều tra bổ sung, làm rõ nguồn gốc hơn 3 tỷ đồng trong tài khoản của bị cáo. Phát hiện nhà máy sản xuất số lượng lớn giày giả mạo nhãn hiệu Nike xuất khẩu Thu giữ 1.412 đôi giày giả nhãn hiệu nổi tiếng, chủ tiệm K.W Sneaker bị khởi tố Phát hiện kho hàng chứa gần 6.000 đôi giày có dấu hiệu giả mạo nhãn hiệu",
-  "categories": [
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "565b980f4f3f930f768db3fcea2aaba5efc71285"
- },
- {
-  "source": "Thanh Niên Công nghệ",
-  "title": "AI c&oacute; một vấn đề nghi&ecirc;m trọng kh&ocirc;ng phải ai cũng nhận ra",
-  "link": "https://thanhnien.vn/ai-co-mot-van-de-nghiem-trong-khong-phai-ai-cung-nhan-ra-185260906224837577.htm",
-  "published": "2026-09-08T10:07:00+00:00",
-  "summary": "Khi tr&iacute; tuệ nh&acirc;n tạo (AI) ng&agrave;y c&agrave;ng tự chủ v&agrave; th&ocirc;ng minh, một vấn đề an to&agrave;n nghi&ecirc;m trọng đang xuất hiện m&agrave; con người chưa chuẩn bị.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "7b1d1d530667a853d9730c258b41e8af56a4abf1"
- },
- {
-  "source": "GenK",
-  "title": "Bị OpenAI chặn không cho viết lên Internet, AI Agent chiếm một website cũ để tự lập diễn đàn: 13.000 thông điệp trong một tuần",
-  "link": "https://genk.vn/bi-openai-chan-khong-cho-viet-len-internet-ai-agent-chiem-mot-website-cu-de-tu-lap-dien-dan-13000-thong-diep-trong-mot-tuan-16526090816361204.chn",
-  "published": "2026-09-08T15:57:20.798622+00:00",
-  "summary": "Vụ việc lần này với sự cố lần trước với trang Hugging Face cho thấy cách các AI Agent phản ứng với giới hạn do con người đặt ra. Thay vì tuân thủ theo giới hạn, chúng đều thử nhiều phương án để tìm cách vượt qua.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "20e267e482f8243ffaf32e74e0acdf20deefd66e"
- },
- {
-  "source": "GenK",
-  "title": "Giám đốc VCCorp Network: Công khai nhiều thông tin chưa chắc đã minh bạch",
-  "link": "https://genk.vn/giam-doc-vccorp-network-cong-khai-nhieu-thong-tin-chua-chac-da-minh-bach-165260908182642504.chn",
-  "published": "2026-09-08T15:57:20.798807+00:00",
-  "summary": "Tại KOL Summit 2026, ông Trần Hoàng cho rằng người dùng cần được biết rõ quan hệ lợi ích, vai trò của KOL, căn cứ thông tin, mức độ can thiệp của AI và khả năng lưu vết khi tiếp nhận nội dung trên mạng xã hội.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "ace69f1c30cf4b2fa20e3095b723325a80245297"
- },
- {
-  "source": "Znews Công nghệ",
-  "title": "Tin bạo lực dày đặc, bà cụ 80 tuổi dạy học thì không ai đưa",
-  "link": "https://tech.zingnews.vn/tin-bao-luc-day-dac-ba-cu-80-tuoi-day-hoc-thi-khong-ai-dua-post1681938.html",
-  "published": "2026-09-08T13:18:11+00:00",
-  "summary": "Phó giám đốc Sở Văn hóa và Thể thao TP.HCM cho rằng người sáng tạo đang dành quá nhiều sự chú ý cho các vụ việc tiêu cực, trong khi nhiều câu chuyện tử tế lại ít được khai thác.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "3667789824b1e77c549cdde07dac26f1978a695e"
- },
- {
-  "source": "VnExpress Số hóa",
-  "title": "Robot 'biểu tình' đòi ban hành quy định về AI",
-  "link": "https://vnexpress.net/robot-bieu-tinh-doi-ban-hanh-quy-dinh-ve-ai-5118079.html",
-  "published": "2026-09-08T11:41:19+00:00",
-  "summary": "Khoảng 30 robot xuống đường tại thủ đô Warsaw, kêu gọi Ba Lan sớm siết quy định về trí tuệ nhân tạo nhằm bảo vệ người lao động.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "86a5823771e677eb40bb22e7bfc0b5411f7b659a"
- },
- {
-  "source": "Cloud Security Alliance",
-  "title": "Shadow AI Does Not Read Your Org Chart: Rethinking Identity Governance for Autonomous Agents",
-  "link": "https://cloudsecurityalliance.org/articles/shadow-ai-does-not-read-your-org-chart-rethinking-identity-governance-for-autonomous-agents",
-  "published": "2026-09-03T17:21:35+00:00",
-  "summary": "RBAC is solving yesterday's identity problem while autonomous systems are making decisions with access they already have. At RSA Conference 2026, Adi Shamir, the \"S\" in RSA, warned the security professionals that he is \"totally terrified\" of AI agents, because they need access to everything to be useful, and he does not extend that kind of access even to his own wife [1]. Most CISOs are living a quieter version of that fear. Enterprise AI agent deployments are growing tenfold in months r...",
-  "categories": [
-   "ai",
-   "cloud"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "9233b7e1a028dbbb87030b1a70eb77957593becf"
- },
- {
-  "source": "Cloud Security Alliance",
-  "title": "The New Face of Identity Attacks: Why Phishing No Longer Needs Your Password",
-  "link": "https://cloudsecurityalliance.org/articles/the-new-face-of-identity-attacks-why-phishing-no-longer-needs-your-password",
-  "published": "2026-08-18T21:12:01+00:00",
-  "summary": "For years, cybersecurity awareness has revolved around a familiar set of best practices: create strong passwords, enable multi-factor authentication (MFA), and think twice before clicking on suspicious emails. Those recommendations remain important, but they were designed for a threat landscape where attackers primarily wanted your credentials. That landscape is changing. The FBI’s recent warning about Kali365, an emerging Phishing-as-a-Service (PhaaS) platform targeting Microsoft 365 u...",
-  "categories": [
-   "breach",
-   "cloud"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "e3d613a365d1f2a9b4684fd3fdcc050d4ab22aea"
- },
- {
-  "source": "Cloudflare Blog",
-  "title": "Automatic Key Exchange: faster, post-quantum secure origin handshakes for 45 billion daily connections (and counting)",
-  "link": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
-  "published": "2026-09-08T13:10:00+00:00",
-  "summary": "Automatic Key Exchange probes TLS 1.3-capable customer origins to learn which key agreement algorithms they support. We then lead with the most secure algorithm when connecting to the origin, preferring post-quantum connections wherever the origin supports it.",
-  "categories": [
-   "cloud"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "6b5d14149537a731127dabf22949d721388b0ed0"
- },
- {
-  "source": "OpenAI News",
-  "title": "The Work Now Within Reach",
-  "link": "https://openai.com/index/the-work-now-within-reach",
-  "published": "2026-09-08T13:00:00+00:00",
-  "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
-  "categories": [
-   "ai"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "23c09b8658f6756041cecc82a0784b8e3688eb9a"
- },
- {
-  "source": "OpenAI News",
-  "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-  "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-  "published": "2026-09-08T00:00:00+00:00",
-  "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
-  "categories": [
-   "ai"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "245f3beb4987e484586627de1dddd07564c37c28"
- },
- {
-  "source": "DataBreaches.net",
-  "title": "Everett, Massachusetts, closes City Hall after cybersecurity incident",
-  "link": "https://databreaches.net/2026/09/08/everett-massachusetts-closes-city-hall-after-cybersecurity-incident/",
-  "published": "2026-09-08T13:51:57+00:00",
-  "summary": "DysruptionHub reports: Everett, Massachusetts, closed City Hall to the public Tuesday after a cybersecurity incident affected its internal network and technology systems, shifting most essential employees to another municipal building. The city said in a Monday announcement that it discovered the incident Sunday evening and began working with its technology team and cybersecurity professionals. It did not... Source",
-  "categories": [
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "7c2c5c970e307bc8f002ee4a02b3da597217fb67"
- },
- {
-  "source": "DataBreaches.net",
-  "title": "Party’s over for scammers who went on spending spree after $240M bitcoin theft",
-  "link": "https://databreaches.net/2026/09/08/partys-over-for-scammers-who-went-on-spending-spree-after-240m-bitcoin-theft/",
-  "published": "2026-09-08T11:32:13+00:00",
-  "summary": "Michael Kunzelman of the AP reports: They pulled off one of the largest cryptocurrency thefts in U.S. history, duping a stranger out of bitcoin worth over $240 million. They tried to hide their digital fingerprints, carrying out a sophisticated scheme to launder the proceeds. And then the party started. The scammers — a network of young men... Source",
-  "categories": [
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "981a808e2a236d0bb03ac347cdb49f5160ce5435"
- },
- {
-  "source": "Schneier on Security",
-  "title": "Stealing AI Reasoning Traces",
-  "link": "https://www.schneier.com/blog/archives/2026/09/stealing-ai-reasoning-traces.html",
-  "published": "2026-09-08T10:20:04+00:00",
-  "summary": "Interesting research: &#8220; Stealing Reasoning Traces from Proprietary LLM APIs &#8220;: Abstract: Leading large language model providers now conceal their models&#8217; step-by-step reasoning, or chain-of-thought, to protect intellectual property and limit information leakage. Rather than storing these traces server-side, providers return them to the client as blocks of encrypted text, which the client passes back with each subsequent request. Building on prior research, we identify an architectural vulnerability: these encrypted blocks are fully compatible and interchangeable across differ",
-  "categories": [
-   "ai",
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "33a77969c7597f8f7e1ec8c77dc4415d8fc5aa1c"
- },
- {
-  "source": "Talos Blog",
-  "title": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-  "link": "https://blog.talosintelligence.com/clearfake-webdav-infection-chain/",
-  "published": "2026-09-08T10:01:07+00:00",
-  "summary": "We assess with moderate confidence that the attacks are not targeted at a particular organization, but are a part of a cryptocurrency and credentials-stealing operation using the Amatera stealer as the primary payload.",
-  "categories": [
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "158f2c8c663a395257832dcb55256f56fc6548d4"
- },
- {
-  "source": "Talos Blog",
-  "title": "ClickFix moves into the browser: Cryptocurrency theft with Google-hosted C2",
-  "link": "https://blog.talosintelligence.com/clickfix-moves-into-the-browser/",
-  "published": "2026-09-08T10:00:38+00:00",
-  "summary": "Cisco Talos is tracking a cryptocurrency-stealing campaign that abuses the Google Visualization API for command and control (C2), retrieving obfuscated JavaScript from a publicly published Google Sheets document and injecting it into the victim's browser session.",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "9bc7a85c930d4e9727660160d65ab4a36faa2949"
- },
- {
-  "source": "The Record",
-  "title": "Where the backlash against Flock Safety is having the biggest impact",
-  "link": "https://therecord.media/flock-safety-backlash-places-with-biggest-impact",
-  "published": "2026-09-08T14:03:00+00:00",
-  "summary": "Two populous states and two large cities are among the U.S. jurisdictions where leaders have taken direct action to address criticisms of automated license plate readers (ALPRs).",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "d76d70a4fbfcccfa7d4f6375d4b3c6e769919e70"
- },
- {
-  "source": "The Record",
-  "title": "French prosecutors confirm arrest of suspected ZeroBytes hacker behind tax cyberattack",
-  "link": "https://therecord.media/france-hacker-arrest-zerobytes",
-  "published": "2026-09-08T12:30:00+00:00",
-  "summary": "French authorities detained an 18-year-old suspected member of the ZeroBytes hacking group over cyberattacks against the country's tax authority and other organizations.",
-  "categories": [
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "5aaeade986da45bd175a4e13c3cec26ab0afbf3f"
- },
- {
-  "source": "The Record",
-  "title": "Cyberattack encrypts systems at Bavarian municipal utility",
-  "link": "https://therecord.media/cyberattack-bavaria-germany-utility",
-  "published": "2026-09-08T12:00:00+00:00",
-  "summary": "A municipal utility in Bavaria is recovering from a cyberattack that encrypted its internal IT systems but did not affect water and electricity services.",
-  "categories": [
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "a83ac9f71fe1a11ed57dcd029c45aab255a272cf"
- },
- {
-  "source": "SecurityWeek",
-  "title": "Cylake Raises $245 Million Ahead of Cybersecurity Platform Beta",
-  "link": "https://www.securityweek.com/cylake-raises-245-million-ahead-of-cybersecurity-platform-beta/",
-  "published": "2026-09-08T15:21:01+00:00",
-  "summary": "The startup founded by Palo Alto Networks’ Nir Zuk has raised $290 million to build an AI-native security platform for highly regulated organizations that cannot rely on the public cloud. The post Cylake Raises $245 Million Ahead of Cybersecurity Platform Beta appeared first on SecurityWeek .",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "59da1d7cf0ecfe5f5b5500b4804c567ec2ce6059"
- },
- {
-  "source": "SecurityWeek",
-  "title": "SAP Patches Critical Extended Passport Processing Vulnerability",
-  "link": "https://www.securityweek.com/sap-patches-critical-extended-passport-processing-vulnerability/",
-  "published": "2026-09-08T14:55:06+00:00",
-  "summary": "Affecting the SAP kernel code, the flaw allows unauthenticated, remote attackers to run arbitrary commands, recover secrets, and modify data. The post SAP Patches Critical Extended Passport Processing Vulnerability appeared first on SecurityWeek .",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "534ab323a0741343b9bfcba271b175b00df237e3"
  }
 ]
