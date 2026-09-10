@@ -1,5 +1,1384 @@
 [
  {
+  "source": "VnExpress Số hóa",
+  "title": "Việt Nam - Nga trao bảy văn kiện hợp tác khoa học, công nghệ",
+  "link": "https://vnexpress.net/viet-nam-nga-trao-bay-van-kien-hop-tac-khoa-hoc-cong-nghe-5118973.html",
+  "published": "2026-09-10T14:37:00+00:00",
+  "summary": "Việt Nam - Liên bang Nga trao, công bố nhiều văn kiện hợp tác trong nghiên cứu khoa học, công nghệ nhà máy hạt nhân, an toàn thông tin và đào tạo nhân lực.",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "99addc1e1df0b2df241b6e92a69bbb8f5d06b872"
+ },
+ {
+  "source": "OpenAI News",
+  "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+  "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+  "published": "2026-09-10T16:00:00+00:00",
+  "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "07190cbd74bbafc56fd82a56cf6523a6eaccd9fc"
+ },
+ {
+  "source": "OpenAI News",
+  "title": "Introducing ChatGPT for Financial Services",
+  "link": "https://openai.com/index/introducing-chatgpt-financial-services",
+  "published": "2026-09-10T07:00:00+00:00",
+  "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "983073b1bf0772c843c1f6c9aa71be4c89945b88"
+ },
+ {
+  "source": "OpenAI News",
+  "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+  "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+  "published": "2026-09-10T00:00:00+00:00",
+  "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "056fc53bb9b41b4fede2527247f3fa06e1775572"
+ },
+ {
+  "source": "Talos Blog",
+  "title": "We've got one word for it, and it's usually the wrong one",
+  "link": "https://blog.talosintelligence.com/weve-got-one-word-for-it-and-its-usually-the-wrong-one/",
+  "published": "2026-09-10T18:00:15+00:00",
+  "summary": "In this week's Threat Source newsletter, Joe explores why the word \"burnout\" often fails to capture the true toll of working in the cybersecurity industry and why we need better language to address it.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "b484bca2b2d73e2e06b0594093ea071f458542f5"
+ },
+ {
+  "source": "The Record",
+  "title": "Cyber Command turns to veteran of intelligence agencies for top AI role",
+  "link": "https://therecord.media/cyber-command-ai-leader-ronzelle-green",
+  "published": "2026-09-10T18:25:00+00:00",
+  "summary": "Ronzelle Green, most recently a senior official at the National Geospatial-Intelligence Agency, will be U.S. Cyber Command's chief AI officer.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "1722adbf4cbe071f090b23cca9c13b4946abbd4d"
+ },
+ {
+  "source": "The Record",
+  "title": "Multiple crypto companies warn customers of phishing emails after alleged provider breach",
+  "link": "https://therecord.media/trezor-bitbox-cointracking-phishing-crypto-holders",
+  "published": "2026-09-10T04:00:00+00:00",
+  "summary": "Subscribers to newsletters from Trezor, CoinTracking and BitBox received corrupted messages through an email provider that all three companies use.",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "809be20cc18be7d26145063c510302c8897fd0e7"
+ },
+ {
+  "source": "SecurityWeek",
+  "title": "Cybersecurity M&A Roundup: 33 Deals Announced in August 2026",
+  "link": "https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-august-2026/",
+  "published": "2026-09-10T16:14:58+00:00",
+  "summary": "Significant cybersecurity M&#038;A deals announced by Brinqa, Cribl, Echo, Fortinet, Kiteworks, Palo Alto Networks, and Visa. The post Cybersecurity M&#038;A Roundup: 33 Deals Announced in August 2026 appeared first on SecurityWeek .",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "a26823baded367c10b641a7a48864af47657b4ed"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
+  "link": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
+  "published": "2026-09-10T17:47:38+00:00",
+  "summary": "A lot of this week’s security news has the same awkward answer to one question: “Why was that allowed to work?” An extension asks for access and takes too much. A trusted service becomes part of a phishing chain. An old bug still gets results. An exposed system stays exposed. A package looks useful right up until it isn’t. Different stories, same basic problem: the path in was often already",
+  "categories": [
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "7e9db969213473f47cc2836159723f778ba026df"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-4129 — There is an improper access control vulnerability in NI SystemLink that may allow an authenticated user with limited privileges to access host operati",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-4129",
+  "published": "2026-09-10T16:17:14.080",
+  "summary": "There is an improper access control vulnerability in NI SystemLink that may allow an authenticated user with limited privileges to access host operating system files and directories that should be restricted. This vulnerability affects NI SystemLink and NI SystemLink Server 2026 Q3 and prior versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-4129",
+   "cvss": 8.1,
+   "ref": "https://www.ni.com/en/support/security/available-critical-and-security-updates-for-ni-software/2026/improper-access-controls-in-ni-systemlink.html"
+  },
+  "title_vi": "CVE-2026-4129 - Có một lỗ hổng kiểm soát truy cập không đúng cách trong NI SystemLink có thể cho phép người dùng được xác thực với các đặc quyền hạn chế truy cập vào hoạt động của máy chủ",
+  "key": "491cb2d3eeaac768c098c3ab070193363bc08e43"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-4130 — There is a storage of sensitive information in cleartext vulnerability in NI SystemLink",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-4130",
+  "published": "2026-09-10T16:17:14.227",
+  "summary": "There is a storage of sensitive information in cleartext vulnerability in NI SystemLink. This vulnerability may allow an attacker with local access to obtain sensitive information stored by the system in the clear.  This vulnerability affects NI SystemLink and NI SystemLink Server 2026 Q3 and prior versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-4130",
+   "cvss": 7.1,
+   "ref": "https://www.ni.com/en/support/security/available-critical-and-security-updates-for-ni-software/2026/storage-of-sensitive-information-in-cleartext-in-ni-systemlink.html"
+  },
+  "title_vi": "CVE-2026-4130 — Có một kho lưu trữ thông tin nhạy cảm trong lỗ hổng cleartext trong NI SystemLink",
+  "key": "48e71e85c85ce7a8bba833e53a20eefbab96b8bd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-79987 — A remote, authenticated, non-admin Craft CMS Control Panel user with only the accessCp permission can execute operating system commands as the PHP web",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79987",
+  "published": "2026-09-10T16:17:56.543",
+  "summary": "A remote, authenticated, non-admin Craft CMS Control Panel user with only the accessCp permission can execute operating system commands as the PHP web worker.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-79987",
+   "cvss": 8.8,
+   "ref": "https://github.com/craftcms/cms"
+  },
+  "title_vi": "CVE-2026-79987 — Người dùng Bảng điều khiển CMS Craft từ xa, được xác thực, không phải quản trị viên chỉ có quyền accessCp có thể thực thi các lệnh hệ điều hành như PHP web",
+  "key": "91d13641ea99b6ab1081ea3552911b7fe72eaf39"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81046 — Dell ThinOS 10, versions prior to 2605_10",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81046",
+  "published": "2026-09-10T16:17:57.417",
+  "summary": "Dell ThinOS 10, versions prior to 2605_10.2616, contain a Protection Mechanism Failure vulnerability. An unauthenticated attacker with remote access could potentially exploit this vulnerability, leading to Arbitrary Code Execution within the application context.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81046",
+   "cvss": 9.4,
+   "ref": "https://www.dell.com/support/kbdoc/en-us/000502746/dsa-2026-389-security-update-for-dell-thinos-10-for-multiple-vulnerabilities"
+  },
+  "title_vi": "CVE-2026-81046 — Dell ThinOS 10, các phiên bản trước 2605_10",
+  "key": "7586c091e3cf2641013427e252bdc671c1491722"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81048 — Dell ThinOS 10, versions prior to 2605_10",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81048",
+  "published": "2026-09-10T16:17:57.543",
+  "summary": "Dell ThinOS 10, versions prior to 2605_10.2616, contain an Improper Neutralization of Special Elements used in a Command ('Command Injection') vulnerability. An unauthenticated attacker with adjacent network access could potentially exploit this vulnerability, leading to Remote Code execution",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81048",
+   "cvss": 9.6,
+   "ref": "https://www.dell.com/support/kbdoc/en-us/000502746/dsa-2026-389-security-update-for-dell-thinos-10-for-multiple-vulnerabilities"
+  },
+  "title_vi": "CVE-2026-81048 — Dell ThinOS 10, các phiên bản trước 2605_10",
+  "key": "40c177121f07604b8dd397e91235ec49f6c52cda"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81049 — Dell ThinOS 10, versions prior to 2605_10",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81049",
+  "published": "2026-09-10T16:17:57.670",
+  "summary": "Dell ThinOS 10, versions prior to 2605_10.2616, contain a Missing Support for Integrity Check vulnerability. A high privileged attacker with local access could potentially exploit this vulnerability, leading to arbitrary code execution.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81049",
+   "cvss": 4.4,
+   "ref": "https://www.dell.com/support/kbdoc/en-us/000502746/dsa-2026-389-security-update-for-dell-thinos-10-for-multiple-vulnerabilities"
+  },
+  "title_vi": "CVE-2026-81049 — Dell ThinOS 10, các phiên bản trước 2605_10",
+  "key": "7661b27f488ffb34f8980b4c62635d4ad84ab664"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81051 — Dell ThinOS 10, versions prior to 2605_10",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81051",
+  "published": "2026-09-10T16:17:57.800",
+  "summary": "Dell ThinOS 10, versions prior to 2605_10.2616, contain a Security Version Number Mutable to Older Versions vulnerability. A low privileged attacker with physical access could potentially exploit this vulnerability, leading to Protection mechanism bypass.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81051",
+   "cvss": 6.6,
+   "ref": "https://www.dell.com/support/kbdoc/en-us/000502746/dsa-2026-389-security-update-for-dell-thinos-10-for-multiple-vulnerabilities"
+  },
+  "title_vi": "CVE-2026-81051 — Dell ThinOS 10, các phiên bản trước 2605_10",
+  "key": "fef211d1ce4d30e269be9867dcff05b154dfb5a9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81052 — Dell ThinOS 10, versions prior to 2605_10",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81052",
+  "published": "2026-09-10T16:17:57.920",
+  "summary": "Dell ThinOS 10, versions prior to 2605_10.2616, contain a Download of Code Without Integrity Check vulnerability. An unauthenticated attacker with physical access could potentially exploit this vulnerability, leading to arbitrary code execution.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81052",
+   "cvss": 6.8,
+   "ref": "https://www.dell.com/support/kbdoc/en-us/000502746/dsa-2026-389-security-update-for-dell-thinos-10-for-multiple-vulnerabilities"
+  },
+  "title_vi": "CVE-2026-81052 — Dell ThinOS 10, các phiên bản trước 2605_10",
+  "key": "bd0c88f88f95a90c4eaf1828d1a4f4c5f748613c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81467 — Dell ThinOS 10, versions prior to 2605_10",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81467",
+  "published": "2026-09-10T16:17:58.040",
+  "summary": "Dell ThinOS 10, versions prior to 2605_10. 2616, contains an Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') vulnerability. An unauthenticated attacker with remote access could potentially exploit this vulnerability, leading to Command execution.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81467",
+   "cvss": 9.8,
+   "ref": "https://www.dell.com/support/kbdoc/en-us/000502746/dsa-2026-389-security-update-for-dell-thinos-10-for-multiple-vulnerabilities"
+  },
+  "title_vi": "CVE-2026-81467 — Dell ThinOS 10, các phiên bản trước 2605_10",
+  "key": "691e0df719d697afc95a5c8c2fc15fa4069f07f8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81468 — Dell ThinOS 10, versions prior to 2605_10",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81468",
+  "published": "2026-09-10T16:17:58.157",
+  "summary": "Dell ThinOS 10, versions prior to 2605_10. 2616, contains an Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') vulnerability. A high privileged attacker with remote access could potentially exploit this vulnerability, leading to Command execution.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81468",
+   "cvss": 9.1,
+   "ref": "https://www.dell.com/support/kbdoc/en-us/000502746/dsa-2026-389-security-update-for-dell-thinos-10-for-multiple-vulnerabilities"
+  },
+  "title_vi": "CVE-2026-81468 — Dell ThinOS 10, các phiên bản trước 2605_10",
+  "key": "f40df0831d6e845333aa3d47b426e3515774b6cf"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-87912 — A missing S3 bucket ownership verification in the AWS Security Agent plugin in Amazon aws-agents-for-devsecops before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87912",
+  "published": "2026-09-10T16:18:07.037",
+  "summary": "A missing S3 bucket ownership verification in the AWS Security Agent plugin in Amazon aws-agents-for-devsecops before 1.1.0 might allow remote attackers to obtain the private source archive of a scanned workspace, including credentials and infrastructure state contained in that archive, via a pre-registered storage bucket whose name is derived from a publicly known account identifier.\n\n\n\nTo remediate this issue, users should upgrade to version 1.1.0. Users should also verify that the scan output bucket in their account is owned by their own account, because upgrading does not release a bucket ",
+  "categories": [
+   "breach",
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-87912",
+   "cvss": 5.9,
+   "ref": "https://aws.amazon.com/security/security-bulletins/2026-105-aws/"
+  },
+  "title_vi": "CVE-2026-87912 — Thiếu xác minh quyền sở hữu nhóm S3 trong plugin AWS Security Agent trong Amazon aws-agents-for-devsecops trước 1",
+  "key": "217a53f7d7102d7b2cffad35166d5953a24fd312"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-87913 — A missing S3 bucket ownership verification in the AWS Security Agent MCP server before 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87913",
+  "published": "2026-09-10T16:18:07.187",
+  "summary": "A missing S3 bucket ownership verification in the AWS Security Agent MCP server before 0.2.0 version might allow remote attackers to obtain the private source archive of a scanned workspace, including credentials and infrastructure state contained in that archive, via a pre-registered storage bucket whose name is derived from a publicly known account identifier.\n\n\n\nTo remediate this issue, users should upgrade to version 0.2.0. Users should also verify that the scan output bucket in their account is owned by their own account, because upgrading does not release a bucket name that a third party",
+  "categories": [
+   "breach",
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-87913",
+   "cvss": 5.9,
+   "ref": "https://aws.amazon.com/security/security-bulletins/2026-105-aws/"
+  },
+  "title_vi": "CVE-2026-87913 — Thiếu xác minh quyền sở hữu nhóm S3 trong máy chủ MCP của Đại lý bảo mật AWS trước 0",
+  "key": "53c23e6a4cf1af0b2578580bb88ca6538dc64bb0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88009 — Traefik is an open source HTTP reverse proxy and load balancer",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88009",
+  "published": "2026-09-10T16:18:07.780",
+  "summary": "Traefik is an open source HTTP reverse proxy and load balancer. Prior to 2.11.57, and 3.7.13, Traefik accepts a rootless HTTP/1 request target that Go stores in URL.Opaque while leaving URL.Path empty. The rewriteRequestBuilder path evaluates routing, path sanitization, forwardAuth, encodedCharacters, and access logging against a path normalized to / but forwards URL.Opaque verbatim to the backend, allowing cross-vhost routing bypass, path-scoped authorization bypass, and access-log evasion when the backend interprets the opaque target as a path. This issue is fixed in 2.11.57 and 3.7.13.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88009",
+   "cvss": null,
+   "ref": "https://github.com/traefik/traefik/commit/58d1e9ca204526823211e30fd4634101c59d58e9"
+  },
+  "title_vi": "CVE-2026-88009 — Traefik là một mã nguồn mở http reverse proxy và cân bằng tải",
+  "key": "23ca0165fd6e134e2fddcd916fb43aad85589d2a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88011 — Traefik is an open source HTTP reverse proxy and load balancer",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88011",
+  "published": "2026-09-10T16:18:07.933",
+  "summary": "Traefik is an open source HTTP reverse proxy and load balancer. Prior to 2.11.56, and from 3.0.0 until 3.7.12, a client-supplied dot-form header such as X.Authenticated.User survives ForwardAuth replacement and underscoreHeadersStrategy because Go treats it as distinct from X-Authenticated-User while normalization-prone CGI, WSGI, PHP, and NGINX backends collapse both names. A backend can consequently consume the client value instead of the identity Traefik asserted, allowing identity spoofing for any header managed by Traefik. The aliasHeadersStrategy protection is disabled by default and mus",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88011",
+   "cvss": null,
+   "ref": "https://github.com/traefik/traefik/commit/0331801c72329e0eaeb850e53ccce87c57fbecf8"
+  },
+  "title_vi": "CVE-2026-88011 — Traefik là một mã nguồn mở http reverse proxy và cân bằng tải",
+  "key": "c0e14bd2fe9adca3ad9ccce6b9817c6be140d35e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88012 — Traefik is an open source HTTP reverse proxy and load balancer",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88012",
+  "published": "2026-09-10T16:18:08.067",
+  "summary": "Traefik is an open source HTTP reverse proxy and load balancer. From 2.8.2 until 2.11.56 and 3.7.12, HTTP/3 entrypoints do not apply entryPoints..transport.respondingTimeouts.readTimeout because the timeout is enforced on a TCP connection and the HTTP/3 server has no corresponding QUIC stream deadline. An unauthenticated client can use a slow request body, trickling data indefinitely while holding a request and an upstream connection open and exhausting backends with bounded connection pools. This issue is fixed in 2.11.56 and 3.7.12.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88012",
+   "cvss": 5.3,
+   "ref": "https://github.com/traefik/traefik/commit/a8d0bc425859dde7481a6c9a324e610b81d754d0"
+  },
+  "title_vi": "CVE-2026-88012 — Traefik là một mã nguồn mở http reverse proxy và cân bằng tải",
+  "key": "a6d282edd5283a10033b51ddff6304aa75a5bf98"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88013 — rclone is a command-line program to sync files and directories to and from different cloud storage providers",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88013",
+  "published": "2026-09-10T16:18:08.203",
+  "summary": "rclone is a command-line program to sync files and directories to and from different cloud storage providers. From 1.49.0 until 1.75.1, the HTTP backend attaches headers configured through --http-headers or headers= to requests in backend/http/http.go, while its fshttp.NewClient client follows redirects without a backend-specific http.Client.CheckRedirect policy. A configured remote that redirects to another host can therefore cause custom secrets such as X-Api-Key to be resent to that untrusted destination, and a same-host HTTPS-to-HTTP redirect can expose Authorization or Cookie headers in c",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88013",
+   "cvss": 3.7,
+   "ref": "https://github.com/rclone/rclone/commit/22859b7e696cea3c563c6ba04c6b7f91f74456b4"
+  },
+  "title_vi": "CVE-2026-88013 - rclone là một chương trình dòng lệnh để đồng bộ hóa các tập tin và thư mục đến và đi từ các nhà cung cấp lưu trữ đám mây khác nhau",
+  "key": "25cdb9a5e29d628d17c98f0dc68bb5f1a371b32a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88014 — rclone is a command-line program to sync files and directories to and from different cloud storage providers",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88014",
+  "published": "2026-09-10T16:18:08.350",
+  "summary": "rclone is a command-line program to sync files and directories to and from different cloud storage providers. From 1.72.0 until 1.75.1, the archive ZIP backend method (*Fs).readZip in backend/archive/zip/zip.go accepts archive/zip.File.Name values from an untrusted central directory and exposes cleaned entry names without ensuring that they remain inside the archive namespace. Entries such as ../../etc/cron.d/evil can survive path.Clean and become Object.Remote() values that fs/sync and fs/operations use as destination-relative paths, allowing rclone copy or sync to write outside the selected ",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88014",
+   "cvss": 6.3,
+   "ref": "https://github.com/rclone/rclone/commit/5dae3adbf571a6cd9ba501eb47397a7e871e1ae0"
+  },
+  "title_vi": "CVE-2026-88014 - rclone là một chương trình dòng lệnh để đồng bộ hóa các tập tin và thư mục đến và đi từ các nhà cung cấp lưu trữ đám mây khác nhau",
+  "key": "166057f3a11957f71391870ed62d459e5d3ee6a3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88015 — rclone is a command-line program to sync files and directories to and from different cloud storage providers",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88015",
+  "published": "2026-09-10T16:18:08.490",
+  "summary": "rclone is a command-line program to sync files and directories to and from different cloud storage providers. Prior to 1.75.1, backend/local with --links or links=true exposes symlink targets as .rclonelink objects, and fs.RangeOption.Decode can pass an unchecked positive Range start through Object.Open and openTranslatedLink. The function slices the target string as linkdst[offset:], so a Range start larger than the target length causes a deterministic slice-bounds panic when lib/http/serve exposes the object through HTTP or WebDAV. Go net/http normally recovers the panic per connection, caus",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88015",
+   "cvss": 5.3,
+   "ref": "https://github.com/rclone/rclone/commit/28bf49d66f94acc3f4f7f318504a706686281af9"
+  },
+  "title_vi": "CVE-2026-88015 - rclone là một chương trình dòng lệnh để đồng bộ hóa các tập tin và thư mục đến và đi từ các nhà cung cấp lưu trữ đám mây khác nhau",
+  "key": "a09324a6b3603510fb05408b1577a76f11f1573b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88016 — rclone is a command-line program to sync files and directories to and from different cloud storage providers",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88016",
+  "published": "2026-09-10T16:18:08.637",
+  "summary": "rclone is a command-line program to sync files and directories to and from different cloud storage providers. Prior to 1.75.1, when backend/local runs with --links, a source .rclonelink object can plant a symlink in the destination and later directory metadata is applied through that path. MkdirMetadata, writeMetadataToFile, and setTimes operate when Directory.translatedLink=false, so os.Chown, os.Chmod, os.Chtimes, and birth-time handling can bypass os.Root confinement and follow the symlink. An attacker controlling source contents can therefore apply selected ownership, permissions, modifica",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88016",
+   "cvss": 7.1,
+   "ref": "https://github.com/rclone/rclone/commit/17b0c03338a857bcb0a68d2d4c82ddbdec3f7893"
+  },
+  "title_vi": "CVE-2026-88016 - rclone là một chương trình dòng lệnh để đồng bộ hóa các tập tin và thư mục đến và đi từ các nhà cung cấp lưu trữ đám mây khác nhau",
+  "key": "bf1d6c5191f912236346e5bc0bd1c55287a5a4d9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88017 — rclone is a command-line program to sync files and directories to and from different cloud storage providers",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88017",
+  "published": "2026-09-10T16:18:08.773",
+  "summary": "rclone is a command-line program to sync files and directories to and from different cloud storage providers. From 1.64.0 until 1.75.1, the FTP auth-proxy driver in cmd/serve/ftp/ftp.go stores one obscured password per username in the server-wide userPass map[string]string instead of binding the credential or VFS to the authenticated session. If two accepted credentials use the same username but resolve to different proxy backends, a later CheckPasswd login overwrites userPass[user], and subsequent getVFS operations on the first session are reauthorized with the later password. The first sessi",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88017",
+   "cvss": 7.3,
+   "ref": "https://github.com/rclone/rclone/commit/c6af0b57c2b4af848bc968c2b407354476184b99"
+  },
+  "title_vi": "CVE-2026-88017 - rclone là một chương trình dòng lệnh để đồng bộ hóa các tập tin và thư mục đến và đi từ các nhà cung cấp lưu trữ đám mây khác nhau",
+  "key": "b3a8c51e04e9b44961379abe8379be3ebd7775e4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88018 — rclone is a command-line program to sync files and directories to and from different cloud storage providers",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88018",
+  "published": "2026-09-10T16:18:08.913",
+  "summary": "rclone is a command-line program to sync files and directories to and from different cloud storage providers. Prior to 1.75.1, rclone serve s3 configured with --auth-proxy but without --auth-key allows authPairMiddleware to register any client-chosen accessKeyID with an empty ws.s3Secret. gofakes3 then verifies the request’s SigV4 signature against that same empty secret, while Server.auth passes the access key identifier as both the user and authentication value to the proxy without an independent per-identity secret. An unauthenticated network attacker can therefore choose an arbitrary acces",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88018",
+   "cvss": 9.8,
+   "ref": "https://github.com/rclone/rclone/commit/90595f34f27f569be6b27c57fe5ab65057d323bd"
+  },
+  "title_vi": "CVE-2026-88018 - rclone là một chương trình dòng lệnh để đồng bộ hóa các tập tin và thư mục đến và đi từ các nhà cung cấp lưu trữ đám mây khác nhau",
+  "key": "800201e1a9ddf8f224dd302882d15425928b76a8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88899 — knowns versions before 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88899",
+  "published": "2026-09-10T16:18:12.120",
+  "summary": "knowns versions before 0.31.0 fail to properly validate the x-opencode-directory request header in the /api/opencode proxy endpoint. Remote attackers can supply arbitrary directory paths to execute file operations outside the project root on the host system.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88899",
+   "cvss": 9.8,
+   "ref": "https://github.com/knowns-dev/knowns/blob/v0.30.0/internal/server/server.go#L1283-L1296"
+  },
+  "title_vi": "CVE-2026-88899 — phiên bản đã biết trước 0",
+  "key": "7d8f8d6b8343c2fda01bac6683efa15b7c11f7ff"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88937 — knowns through 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88937",
+  "published": "2026-09-10T16:18:12.273",
+  "summary": "knowns through 0.33.0 fails to properly validate template destination paths in the code generation template engine, allowing attackers to read and write arbitrary files outside the project root. Attackers can supply malicious templates that traverse directories to overwrite shell profiles, steal credentials, or achieve persistent code execution on victim systems.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88937",
+   "cvss": 8.8,
+   "ref": "https://github.com/knowns-dev/knowns/blob/v0.33.0/internal/codegen/template_engine.go#L318-L344"
+  },
+  "title_vi": "CVE-2026-88937 - được biết đến thông qua 0",
+  "key": "a9d8b89da1c0329405c6ff0ef3f508df1ab8e891"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88938 — knowns through 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88938",
+  "published": "2026-09-10T16:18:12.430",
+  "summary": "knowns through 0.33.0 fails to confine the path argument of the code.find MCP tool to the project root, allowing AI agent sessions to read source files anywhere on the host. Attackers can supply absolute paths or relative traversal sequences to the path argument and retrieve full file contents from outside the intended project directory.",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88938",
+   "cvss": 6.5,
+   "ref": "https://github.com/knowns-dev/knowns/blob/v0.33.0/internal/mcp/handlers/code.go#L1293-L1354"
+  },
+  "title_vi": "CVE-2026-88938 - được biết đến thông qua 0",
+  "key": "cd946b43d903a43c33e0d450743b2e8b417d9307"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88939 — knowns through 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88939",
+  "published": "2026-09-10T16:18:12.577",
+  "summary": "knowns through 0.33.0 exempts the project.set action from permission guard checks unconditionally, allowing read-only agent sessions to bypass restrictions. Attackers can invoke project.set to repoint the server at another project directory and obtain write access capabilities.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88939",
+   "cvss": 8.3,
+   "ref": "https://github.com/knowns-dev/knowns/blob/v0.33.0/internal/permissions/guard.go#L104-L113"
+  },
+  "title_vi": "CVE-2026-88939 - được biết đến thông qua 0",
+  "key": "2706d4a08423b8161d61439161dee33ab1b4a24b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88940 — knowns through 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88940",
+  "published": "2026-09-10T16:18:12.710",
+  "summary": "knowns through 0.33.0 fails to validate the path query parameter in the workspace browse endpoint, allowing remote attackers to enumerate arbitrary directories on the host filesystem. Attackers can traverse the directory structure to locate project directories and identify targets for further exploitation.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88940",
+   "cvss": 5.3,
+   "ref": "https://github.com/knowns-dev/knowns/blob/v0.33.0/internal/server/routes/workspace.go#L42-L110"
+  },
+  "title_vi": "CVE-2026-88940 - được biết đến thông qua 0",
+  "key": "28b87b14ea958c2992ad3efcd84ad55c041fc58e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88959 — Anchor CMS through 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88959",
+  "published": "2026-09-10T16:18:12.843",
+  "summary": "Anchor CMS through 0.12.7 fails to enforce role-based access control in admin user-management endpoints, allowing any authenticated low-privilege user to create administrator accounts or modify existing ones. Attackers with editor or user roles can POST directly to admin/users/add or admin/users/edit endpoints to create new administrator accounts or change the existing administrator's password, gaining full administrative access.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88959",
+   "cvss": 8.8,
+   "ref": "https://gist.github.com/bozorovab2009-spec/57931237f774b78333f8fe47e84ec4aa"
+  },
+  "title_vi": "CVE-2026-88959 — Neo CMS đến 0",
+  "key": "48ce8ff196ec862de81cea0895a1859763674f83"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-52097 — An issue in AppFlowy 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-52097",
+  "published": "2026-09-10T17:17:04.820",
+  "summary": "An issue in AppFlowy 0.11.8 allows a remote attacker to execute arbitrary code via the afLaunchUri, _afLaunchLocalUri (url_launcher.dart), OpenFilex.open, localPathRegex (common_patterns.dart) components",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-52097",
+   "cvss": 6.8,
+   "ref": "https://github.com/AppFlowy-IO/AppFlowy"
+  },
+  "title_vi": "CVE-2026-52097 — Một vấn đề trong AppFlowy 0",
+  "key": "9fbb9971bbc13ef1bc536751ba506348c3fa0108"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-52098 — An issue in Flowise 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-52098",
+  "published": "2026-09-10T17:17:04.940",
+  "summary": "An issue in Flowise 3.1.2 allows a remote attacker to execute arbitrary code via the /api/v1/prediction/<flowId> endpoint",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-52098",
+   "cvss": null,
+   "ref": "https://github.com/FlowiseAI/Flowise"
+  },
+  "title_vi": "CVE-2026-52098 — Một vấn đề trong Flowise 3",
+  "key": "beb0923c1a86153a9e4edfd015387a75834fd5f4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-65638 — Improper escaping of a request URL in ConfigServer Security & Firewall allows an unauthenticated remote attacker to execute arbitrary commands as the ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-65638",
+  "published": "2026-09-10T17:17:05.063",
+  "summary": "Improper escaping of a request URL in  ConfigServer Security & Firewall allows an unauthenticated remote attacker to execute arbitrary commands as the CSF service account via shell command injection.\n\nThe vulnerability affects versions of the software originally distributed by ConfigServer, as well as versions of the WebPros-maintained fork that contain the vulnerable code. WebPros has addressed the vulnerability in version 16.30. Other forks or independently maintained versions of ConfigServer Security & Firewall (CSF) may also be affected and should be evaluated independently.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-65638",
+   "cvss": null,
+   "ref": "https://support.cpanel.net/hc/en-us/articles/43387915588375-Security-CVE-2026-65638-CSF-Security-Release"
+  },
+  "title_vi": "CVE-2026-65638 — Thoát URL yêu cầu không đúng cách trong ConfigServer Security & Firewall cho phép kẻ tấn công từ xa không được xác thực thực thực hiện các lệnh tùy ý như",
+  "key": "9b4f274d02374634b3851b1654d8d0cc7eccfcef"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-65639 — OS command injection in the advanced-rule parser of ConfigServer Security & Firewall allows a remote attacker who controls a configured allow/deny fee",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-65639",
+  "published": "2026-09-10T17:17:05.190",
+  "summary": "OS command injection in the advanced-rule parser of ConfigServer Security & Firewall allows a remote attacker who controls a configured allow/deny feed to execute arbitrary commands as root, due to insufficient validation of feed-supplied rule data.\n\nThe vulnerability affects versions of the software originally distributed by ConfigServer, as well as versions of the WebPros-maintained fork that contain the vulnerable code. WebPros has addressed the vulnerability in version 16.30. Other forks or independently maintained versions of ConfigServer Security & Firewall (CSF) may also be affected and",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-65639",
+   "cvss": null,
+   "ref": "https://support.cpanel.net/hc/en-us/articles/43387923160343-Security-CVE-2026-65639-CSF-Security-Release"
+  },
+  "title_vi": "CVE-2026-65639 — Tiêm lệnh HĐH trong trình phân tích cú pháp quy tắc nâng cao của ConfigServer Security & Firewall cho phép kẻ tấn công từ xa kiểm soát phí cho phép/từ chối được định cấu hình",
+  "key": "e54a23263d6b24415fd959181a02b27caaac8d00"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-68487 — Path traversal in Plesk's Backup Manager causes arbitrary file write as root by an authenticated customer",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-68487",
+  "published": "2026-09-10T17:17:05.310",
+  "summary": "Path traversal in Plesk's Backup Manager causes arbitrary file write as root by an authenticated customer.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-68487",
+   "cvss": 9.9,
+   "ref": "https://support.plesk.com/hc/en-us/articles/43248841638551-Vulnerability-in-Plesk-s-Backup-Manager-unsigned-backup-header-allows-path-traversal"
+  },
+  "title_vi": "CVE-2026-68487 - Đường dẫn trong Trình quản lý sao lưu của Plesk gây ra việc ghi tệp tùy ý dưới dạng root bởi một khách hàng được xác thực",
+  "key": "32ee8177dd108f359751726514e5bfc166db44e9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-68488 — A Time-of-check Time-of-use (TOCTOU) race condition leading to insecure symlink following in Plesk causes local privilege escalation to root via arbit",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-68488",
+  "published": "2026-09-10T17:17:05.437",
+  "summary": "A Time-of-check Time-of-use (TOCTOU) race condition leading to insecure symlink following in Plesk causes local privilege escalation to root via arbitrary file/directory ownership takeover.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-68488",
+   "cvss": 9.9,
+   "ref": "https://support.plesk.com/hc/en-us/articles/43248932867351-Vulnerability-in-Plesk-s-Backup-Manager-symlink-race-during-restore-allows-root-privilege-escalation"
+  },
+  "title_vi": "CVE-2026-68488 — Điều kiện chủng tộc Time-of-check Time-of-use (TOCTOU) dẫn đến symlink không an toàn sau trong Plesk gây ra sự leo thang đặc quyền địa phương để root thông qua trọng tài",
+  "key": "6a6b128531d22680513802aea0070d1201088bff"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-73693 — FileRun before 2026",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73693",
+  "published": "2026-09-10T17:17:05.667",
+  "summary": "FileRun before 2026.3.0 contains an OS command injection vulnerability in the PhotoProofSheet handler that allows authenticated users with upload permission to execute arbitrary commands by uploading files with shell metacharacters in their names. Attackers can upload a file containing command substitution syntax such as backticks, semicolons, or $() sequences in the filename, then trigger the PhotoProofSheet endpoint to execute arbitrary commands as the web-server user due to missing escapeshellarg() sanitization in the ImageMagick montage command construction.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-73693",
+   "cvss": 8.8,
+   "ref": "https://filerun.com/index.php/changelog?v=2026.3.0"
+  },
+  "title_vi": "CVE-2026-73693 — FileRun trước năm 2026",
+  "key": "8271568bea4718199b1f8e94d2fda87268abbef4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-73694 — FileRun before 2026",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73694",
+  "published": "2026-09-10T17:17:05.813",
+  "summary": "FileRun before 2026.3.0 contains an OS command injection vulnerability caused by a no-op redefinition of escapeshellcmd() in CLI.php that strips shell-metacharacter escaping, allowing attacker-controlled input to reach an exec() sink unsanitized. Attackers can exploit this through an interactive path via image_preview.php with a crafted args parameter requiring superuser authentication, or through a persistent path by storing malicious payloads in thumbnails_ffmpeg_args or thumbnails_ffmpeg_ss that execute when any user triggers video thumbnail generation.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-73694",
+   "cvss": 7.2,
+   "ref": "https://filerun.com/index.php/changelog?v=2026.3.0"
+  },
+  "title_vi": "CVE-2026-73694 — FileRun trước năm 2026",
+  "key": "7df34a1dc213ffdc6fcb98482cda739c2a4c4a81"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-73698 — FileRun before 2026",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73698",
+  "published": "2026-09-10T17:17:05.950",
+  "summary": "FileRun before 2026.3.0 contains a SQL injection vulnerability that allows delegated or simple administrators to execute arbitrary SQL by submitting the description parameter as an array, causing the getValuesString() method in DB/DP.php to interpolate raw array values directly into an INSERT statement without parameterization. Because the underlying PDO connection uses emulated prepared statements enabling stacked queries, attackers can manipulate the df_users_permissions table to escalate a delegated administrator account to superuser privileges, and may additionally achieve code execution v",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-73698",
+   "cvss": 7.2,
+   "ref": "https://filerun.com/index.php/changelog?v=2026.3.0"
+  },
+  "title_vi": "CVE-2026-73698 — FileRun trước năm 2026",
+  "key": "321a20bb39c12764c0618ee64223f7f3948af1fd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-73699 — FileRun before 2026",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73699",
+  "published": "2026-09-10T17:17:06.083",
+  "summary": "FileRun before 2026.3.0 contains a PHP object injection vulnerability that allows authenticated attackers to execute arbitrary code by exploiting incorrect options passed to unserialize() in the Perms::getPerms() method, where a positional array is used instead of the required named-key array to disable class instantiation. Attackers with database write access can inject a serialized gadget chain into the permissions table columns processed on every authenticated page load to write arbitrary files, such as PHP webshells, to web-accessible paths.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-73699",
+   "cvss": 7.2,
+   "ref": "https://filerun.com/index.php/changelog?v=2026.3.0"
+  },
+  "title_vi": "CVE-2026-73699 — FileRun trước năm 2026",
+  "key": "fa8f2b074cc5ae779b379b1764a21c8e25e8e122"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85228 — An integer overflow in the tensor buffer validation component in Amazon Deep Java Library (DJL) from 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85228",
+  "published": "2026-09-10T17:17:06.437",
+  "summary": "An integer overflow in the tensor buffer validation component in Amazon Deep Java Library (DJL) from 0.13.0 through 0.36.0 on all platforms might allow a remote unauthenticated actor to obtain information from adjacent process memory or cause a denial of service via a crafted tensor payload.\n\n\n\nTo remediate this issue, users should upgrade to version 0.37.0 or above.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85228",
+   "cvss": 9.1,
+   "ref": "https://aws.amazon.com/security/security-bulletins/2026-106-aws/"
+  },
+  "title_vi": "CVE-2026-85228 — Sự tràn số nguyên trong thành phần xác thực bộ đệm tensor trong Thư viện Deep Java của Amazon (DJL) từ 0",
+  "key": "e5a795d5041e0860915e536c26832d5b765e74bb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88044 — rclone is a command-line program to sync files and directories to and from different cloud storage providers",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88044",
+  "published": "2026-09-10T17:17:08.387",
+  "summary": "rclone is a command-line program to sync files and directories to and from different cloud storage providers. From 1.70.0 until 1.75.1, the serve/start RC interface accepts per-server proxyOpt.AuthProxy settings, and the FTP and S3 constructors in cmd/serve/ftp/ftp.go and cmd/serve/s3/server.go incorrectly check the process-global proxy.Opt.AuthProxy value instead. When the global value is empty, the request-local authentication proxy is ignored: FTP falls back to the fixed filesystem with username anonymous and any password, while S3 with AuthKey serves the fixed RC fs rather than the backend",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88044",
+   "cvss": 9.1,
+   "ref": "https://github.com/rclone/rclone/commit/739403963abf6f58003c2becd5f7c4ad0d644153"
+  },
+  "title_vi": "CVE-2026-88044 - rclone là một chương trình dòng lệnh để đồng bộ hóa các tập tin và thư mục đến và đi từ các nhà cung cấp lưu trữ đám mây khác nhau",
+  "key": "06777a6919ac0ebca71e9fa6bac6c2179c56ab08"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88045 — rclone is a command-line program to sync files and directories to and from different cloud storage providers",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88045",
+  "published": "2026-09-10T17:17:08.530",
+  "summary": "rclone is a command-line program to sync files and directories to and from different cloud storage providers. From 1.75.0 until 1.75.1, the serve S3 streamed multipart path in cmd/serve/s3/multipart.go passes attacker-controlled contentLength to multipart.NewRW().Reserve before reading request-body bytes. waitForTurn admits the current part and one oversized part when the buffer is empty despite --multipart-streaming-buffer-limit, and lib/pool allocates 1 MiB pages according to Content-Length or X-Amz-Decoded-Content-Length. A network client can retain or multiply these reservations without se",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88045",
+   "cvss": 7.5,
+   "ref": "https://github.com/rclone/rclone/commit/7c1dfd99f3e6a22fcefd8686cc478226a15e63a1"
+  },
+  "title_vi": "CVE-2026-88045 - rclone là một chương trình dòng lệnh để đồng bộ hóa các tập tin và thư mục đến và đi từ các nhà cung cấp lưu trữ đám mây khác nhau",
+  "key": "c41386e65316f0fec5b6fe45699811de92f115be"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88046 — rclone is a command-line program to sync files and directories to and from different cloud storage providers",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88046",
+  "published": "2026-09-10T17:17:08.677",
+  "summary": "rclone is a command-line program to sync files and directories to and from different cloud storage providers. Prior to 1.75.1, rclone core does not reject parent-directory segments in source Object.Remote() values before fs/list, fs/walk, fs/sync, and fs/operations pass those values to destination backends. A flat-keyspace source object store populated with native non-rclone tooling can contain a raw .. key segment, and affected b2, swift, qingstor, oracleobjectstorage, internetarchive, smb, storj, sftp, webdav, ftp, filelu, shade, and sia destinations use path.Join(root, remote) before Encode",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88046",
+   "cvss": 5.3,
+   "ref": "https://github.com/rclone/rclone/commit/57842c5ee4e1407eda06a414a36510cce2db4252"
+  },
+  "title_vi": "CVE-2026-88046 - rclone là một chương trình dòng lệnh để đồng bộ hóa các tập tin và thư mục đến và đi từ các nhà cung cấp lưu trữ đám mây khác nhau",
+  "key": "d65d82387d0a40ca7d3bdd6ce2c552d952b2bf66"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88047 — Tesseract is an open source OCR engine",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88047",
+  "published": "2026-09-10T17:17:08.817",
+  "summary": "Tesseract is an open source OCR engine. In version 5.5.3 and earlier, Classify::ReadNormProtos in src/classify/normmatch.cpp parses the NORMPROTO component of a .traineddata file and uses std::istream::operator>>(char*) to extract a whitespace-delimited token into a fixed 61-byte stack buffer without setting a stream width. The 100-byte line buffer can carry a token of up to 99 characters, so a token longer than 60 characters writes up to 39 attacker-controlled bytes past the buffer during TessBaseAPI::Init of the legacy engine, causing stack corruption, denial of service, and potentially cont",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88047",
+   "cvss": null,
+   "ref": "https://github.com/tesseract-ocr/tesseract/commit/1bda5079b1c8a7e25f523486837426903d29ce84"
+  },
+  "title_vi": "CVE-2026-88047 — Tesseract là một công cụ OCR mã nguồn mở",
+  "key": "38e7a1fad4e77543479fbe3cc4c453f0dba9d5f9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88048 — Tesseract is an open source OCR engine",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88048",
+  "published": "2026-09-10T17:17:08.953",
+  "summary": "Tesseract is an open source OCR engine. In version 5.5.3 and earlier, FullyConnected::DeSerialize in src/lstm/fullyconnected.cpp does not validate the deserialized layer scalars ni_ and no_ against the weight-matrix dimensions. During FullyConnected::Forward, MatrixDotVector in src/lstm/weightmatrix.cpp writes w.dim1() results into temp_line, which is sized from no_, and reads w.dim2() minus one inputs from curr_input, which is sized from ni_. A crafted .traineddata NT_SOFTMAX layer can therefore use inconsistent dimensions to cause a heap out-of-bounds write and read on the default LSTM engin",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88048",
+   "cvss": null,
+   "ref": "https://github.com/tesseract-ocr/tesseract/commit/103dc134eb36411ddc6833ec20aa2c76795bd0ff"
+  },
+  "title_vi": "CVE-2026-88048 — Tesseract là một công cụ OCR mã nguồn mở",
+  "key": "0db080686af3fc8ea867e7a868cca1f13fe7f3cd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88049 — Tesseract is an open source OCR engine",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88049",
+  "published": "2026-09-10T17:17:09.087",
+  "summary": "Tesseract is an open source OCR engine. In version 5.5.3 and earlier, prior .traineddata hardening added bounds checks to NetworkIO::CopyTimeStepGeneral and NetworkIO::Randomize in src/lstm/networkio.cpp but left NetworkIO::WriteTimeStepPart and NetworkIO::AddTimeStepPart unchecked. In LSTM::Forward in src/lstm/lstm.cpp, source_ is sized from the independently deserialized na_ field while the WriteTimeStepPart count is ns_, which comes from the CI gate WeightMatrix dim1() value. A crafted NT_LSTM layer can make ns_ much larger than na_, causing a heap out-of-bounds write during the first recog",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88049",
+   "cvss": null,
+   "ref": "https://github.com/tesseract-ocr/tesseract/commit/b494ac18925f9d9aff9ef5815475de9943ab19bf"
+  },
+  "title_vi": "CVE-2026-88049 — Tesseract là một công cụ OCR mã nguồn mở",
+  "key": "4086b95a46c2ef66509fc3f3b4837171559f73e1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88050 — Tesseract is an open source OCR engine",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88050",
+  "published": "2026-09-10T17:17:09.223",
+  "summary": "Tesseract is an open source OCR engine. In version 5.5.3 and earlier, RecodedCharID::DeSerialize in src/ccutil/unicharcompress.h validates length_ but accepts negative code_ values from a crafted .traineddata recoder component. UnicharCompress::ComputeCodeRange in src/ccutil/unicharcompress.cpp can consequently produce code_range_ equal to zero, after which SetupDecoder indexes is_valid_start_ with the negative code on a size-zero vector. The resulting out-of-bounds bit write uses a large wrapped index and reliably causes a wild-address crash or allocation failure on the default LSTM engine. N",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88050",
+   "cvss": null,
+   "ref": "https://github.com/tesseract-ocr/tesseract/commit/c94a5532ee04db5a4919542832fd94caee5ea58f"
+  },
+  "title_vi": "CVE-2026-88050 — Tesseract là một công cụ OCR mã nguồn mở",
+  "key": "614c41178cef1a0b84a715ea26d171524b0723d3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-15417 — In the silabser",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-15417",
+  "published": "2026-09-10T18:17:55.313",
+  "summary": "In the silabser.sys Windows 8 driver for CP210x devices, a local unprivileged user can use incorrect driver settings to cause a kernel crash.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-15417",
+   "cvss": null,
+   "ref": "https://siliconlabs.lightning.force.com/sfc/servlet.shepherd/document/download/069Vm0000100HA6IAM?operationContext=S1"
+  },
+  "title_vi": "CVE-2026-15417 — Trong silaber",
+  "key": "189d174676e2bda337eea84677820dd68bddb08f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-15418 — In the silabser",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-15418",
+  "published": "2026-09-10T18:17:55.450",
+  "summary": "In the silabser.sys driver for CP210x devices v11.5.0 and earlier, a local unprivileged user with a malicious device can use malformed packets to leak up to 145 bytes of uninitialized kernel pool memory. This vulnerability affects Windows 10 and earlier.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-15418",
+   "cvss": null,
+   "ref": "https://siliconlabs.lightning.force.com/sfc/servlet.shepherd/document/download/069Vm0000100HA6IAM?operationContext=S1"
+  },
+  "title_vi": "CVE-2026-15418 — Trong silaber",
+  "key": "95cac255188d23320fdd834d5ef482a17da31eef"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-15419 — In the silabser",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-15419",
+  "published": "2026-09-10T18:17:55.590",
+  "summary": "In the silabser.sys driver for CP210x devices v11.5.0 and earlier, a local unprivileged user with a malicious device can use malformed packets to corrupt kernel pool memory, resulting in arbitrary code execution with escalated privileges.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-15419",
+   "cvss": null,
+   "ref": "https://siliconlabs.lightning.force.com/sfc/servlet.shepherd/document/download/069Vm0000100HA6IAM?operationContext=S1"
+  },
+  "title_vi": "CVE-2026-15419 — Trong silaber",
+  "key": "841a6574d2cd40e3e69847b673fb6bcd301fabb1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-68006 — An issue in Puma v",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-68006",
+  "published": "2026-09-10T18:18:04.960",
+  "summary": "An issue in Puma v.5.0.0 and before v.8.0.3 allows an attacker to execute arbitrary code via the ext/puma_http11/http11_parser.rl file",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-68006",
+   "cvss": null,
+   "ref": "https://github.com/czx1111/cve/issues/1"
+  },
+  "title_vi": "CVE-2026-68006 — Một vấn đề trong Puma v",
+  "key": "e4f377c5039eb716ff617a55637ea12d93d49199"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88022 — Improper neutralization of special elements in data query logic in the MongoDB integration for Laravel can cause an array supplied to an explicit equa",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88022",
+  "published": "2026-09-10T18:18:12.310",
+  "summary": "Improper neutralization of special elements in data query logic in the MongoDB integration for Laravel can cause an array supplied to an explicit equality filter to be interpreted as a query condition rather than as a literal value. This affects the three-argument `where` method when the operator is `=` or `eq`, as well as the `find` and `delete` methods that use that code path. An attacker who can cause an affected application to supply an operator-shaped array to one of these APIs may obtain a document other than the intended target or delete documents beyond the intended target.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88022",
+   "cvss": 7.7,
+   "ref": "https://jira.mongodb.org/browse/PHPLARA-260"
+  },
+  "title_vi": "CVE-2026-88022 — Việc trung hòa không đúng các yếu tố đặc biệt trong logic truy vấn dữ liệu trong tích hợp MongoDB cho Laravel có thể gây ra một mảng được cung cấp cho một equa rõ ràng",
+  "key": "b5383a7dd40ff2adf9824f819e2cd2e8ddf97631"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88023 — Improper neutralization of special elements in data query logic in the GridFS component of the MongoDB PHP Library can cause a caller-supplied structu",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88023",
+  "published": "2026-09-10T18:18:12.457",
+  "summary": "Improper neutralization of special elements in data query logic in the GridFS component of the MongoDB PHP Library can cause a caller-supplied structured file identifier to be interpreted as a query condition rather than as a literal identifier. An authenticated user who can influence the identifier passed by an affected application may obtain stored file content beyond the intended target or cause all GridFS file chunks in the affected bucket to be removed, rendering stored file content unreadable. The affected rename operation may also rename a stored file other than the intended target.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88023",
+   "cvss": 8.3,
+   "ref": "https://jira.mongodb.org/browse/PHPLIB-1929"
+  },
+  "title_vi": "CVE-2026-88023 - Việc trung hòa không đúng các yếu tố đặc biệt trong logic truy vấn dữ liệu trong thành phần GridFS của Thư viện PHP MongoDB có thể gây ra cấu trúc do người gọi cung cấp",
+  "key": "497ee326e4d451750b3acb50ee6a2a2520f609f1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88024 — Improper neutralization of special elements in data query logic in the GridFS component of the MongoDB Rust Driver can cause a caller-supplied structu",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88024",
+  "published": "2026-09-10T18:18:12.607",
+  "summary": "Improper neutralization of special elements in data query logic in the GridFS component of the MongoDB Rust Driver can cause a caller-supplied structured file identifier to be interpreted as a query condition rather than as a literal identifier. An authenticated user who can influence the identifier passed by an affected application may obtain stored file content beyond the intended target or cause all GridFS file chunks in the affected bucket to be removed, rendering stored file content unreadable.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88024",
+   "cvss": 8.3,
+   "ref": "https://jira.mongodb.org/browse/RUST-2469"
+  },
+  "title_vi": "CVE-2026-88024 — Việc trung hòa không đúng các yếu tố đặc biệt trong logic truy vấn dữ liệu trong thành phần GridFS của MongoDB Rust Driver có thể gây ra cấu trúc do người gọi cung cấp",
+  "key": "78aaeeda42efcfa04ce0f6a3e12917adb4de21aa"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88025 — Improper neutralization of special elements in data query logic in the GridFS component of the MongoDB C# Driver can cause a caller-supplied structure",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88025",
+  "published": "2026-09-10T18:18:12.747",
+  "summary": "Improper neutralization of special elements in data query logic in the GridFS component of the MongoDB C# Driver can cause a caller-supplied structured file identifier to be interpreted as a query condition rather than as a literal identifier. An authenticated user who can influence the identifier passed by an affected application may obtain stored file content beyond the intended target or cause all GridFS file chunks in the affected bucket to be removed, rendering stored file content unreadable. The affected rename operation may also rename a stored file other than the intended target.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88025",
+   "cvss": 8.3,
+   "ref": "https://jira.mongodb.org/browse/CSHARP-6190"
+  },
+  "title_vi": "CVE-2026-88025 - Việc trung hòa không đúng các yếu tố đặc biệt trong logic truy vấn dữ liệu trong thành phần GridFS của Trình điều khiển MongoDB C# có thể gây ra cấu trúc do người gọi cung cấp",
+  "key": "31775e13e83fa858d292dbca6438f1b547622ded"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88026 — Improper neutralization of regular-expression metacharacters in the LINQ query translation component of the MongoDB C# Driver can cause a caller-suppl",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88026",
+  "published": "2026-09-10T18:18:12.887",
+  "summary": "Improper neutralization of regular-expression metacharacters in the LINQ query translation component of the MongoDB C# Driver can cause a caller-supplied character sequence to alter a regular-expression predicate generated by an affected application. An authenticated user who can influence such a value may cause the application to return records beyond those intended by the original filter.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88026",
+   "cvss": 6.5,
+   "ref": "https://jira.mongodb.org/browse/CSHARP-6177"
+  },
+  "title_vi": "CVE-2026-88026 - Việc trung hòa không đúng các siêu ký tự biểu thức thông thường trong thành phần dịch truy vấn LINQ của Trình điều khiển MongoDB C# có thể khiến người gọi cung cấp",
+  "key": "d1786e0120f9dc896a127d389de867f941821f02"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88027 — Improper neutralization of special elements in data query logic in the embedded-document relation handling of the MongoDB integration for Laravel can ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88027",
+  "published": "2026-09-10T18:18:13.030",
+  "summary": "Improper neutralization of special elements in data query logic in the embedded-document relation handling of the MongoDB integration for Laravel can cause a caller-supplied embedded record identifier to be interpreted as a query condition rather than as a literal identifier. An authenticated user who can influence such an identifier may delete all embedded documents in a targeted record or overwrite an embedded document other than the intended target.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88027",
+   "cvss": 7.1,
+   "ref": "https://jira.mongodb.org/browse/PHPLARA-265"
+  },
+  "title_vi": "CVE-2026-88027 — Trung hòa không đúng các yếu tố đặc biệt trong logic truy vấn dữ liệu trong xử lý quan hệ tài liệu nhúng của tích hợp MongoDB cho Laravel can",
+  "key": "352e8095d587d11757be88cc6bae5a42598c4959"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88028 — Improper neutralization of special elements in data query logic in the polymorphic relation handling of the MongoDB integration for Laravel can cause ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88028",
+  "published": "2026-09-10T18:18:13.170",
+  "summary": "Improper neutralization of special elements in data query logic in the polymorphic relation handling of the MongoDB integration for Laravel can cause a caller-supplied relation identifier to be interpreted as a query condition rather than as a literal identifier. An authenticated user who can influence a stored relation identifier may cause an affected application to return a document other than the intended relation target.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88028",
+   "cvss": 6.5,
+   "ref": "https://jira.mongodb.org/browse/PHPLARA-265"
+  },
+  "title_vi": "CVE-2026-88028 — Việc trung hòa không đúng các yếu tố đặc biệt trong logic truy vấn dữ liệu trong xử lý quan hệ đa hình của tích hợp MongoDB cho Laravel có thể gây ra",
+  "key": "55b206e3f82adb89c69178c3f89e8f230cb1b9ea"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88029 — Improper neutralization of special elements in data query logic in the GridFS component of the MongoDB Python Driver can cause a caller-supplied struc",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88029",
+  "published": "2026-09-10T18:18:13.327",
+  "summary": "Improper neutralization of special elements in data query logic in the GridFS component of the MongoDB Python Driver can cause a caller-supplied structured file identifier to be interpreted as a query condition rather than as a literal identifier. An authenticated user who can influence the identifier passed by an affected application may obtain stored file content beyond the intended target or cause all GridFS file chunks in the affected bucket to be removed, rendering stored file content unreadable. The affected rename operation may also rename a stored file other than the intended target.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88029",
+   "cvss": 8.3,
+   "ref": "https://jira.mongodb.org/browse/PYTHON-5994"
+  },
+  "title_vi": "CVE-2026-88029 - Việc trung hòa không đúng các yếu tố đặc biệt trong logic truy vấn dữ liệu trong thành phần GridFS của Trình điều khiển Python MongoDB có thể gây ra struc do người gọi cung cấp",
+  "key": "bbc5536d2c877dbed3962b21d6e0277b9367d545"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88030 — Improper neutralization of special elements in data query logic in the GridFS component of the MongoDB Ruby Driver can cause a caller-supplied structu",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88030",
+  "published": "2026-09-10T18:18:13.463",
+  "summary": "Improper neutralization of special elements in data query logic in the GridFS component of the MongoDB Ruby Driver can cause a caller-supplied structured file identifier to be interpreted as a query condition rather than as a literal identifier. An authenticated user who can influence the identifier passed by an affected application may obtain stored file content beyond the intended target or cause all GridFS file chunks in the affected bucket to be removed, rendering stored file content unreadable.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88030",
+   "cvss": 8.3,
+   "ref": "https://jira.mongodb.org/browse/RUBY-3941"
+  },
+  "title_vi": "CVE-2026-88030 - Việc trung hòa không đúng các yếu tố đặc biệt trong logic truy vấn dữ liệu trong thành phần GridFS của Trình điều khiển Ruby MongoDB có thể gây ra cấu trúc do người gọi cung cấp",
+  "key": "b2d1f5901bd607d02342494250862c4c85a29ea5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88031 — Improper neutralization of special elements in data query logic in the GridFS component of the MongoDB Go Driver can cause a caller-supplied structure",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88031",
+  "published": "2026-09-10T18:18:13.600",
+  "summary": "Improper neutralization of special elements in data query logic in the GridFS component of the MongoDB Go Driver can cause a caller-supplied structured file identifier to be interpreted as a query condition rather than as a literal identifier. An authenticated user who can influence the identifier passed by an affected application may cause all GridFS file chunks in the affected bucket to be removed, rendering stored file content unreadable.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88031",
+   "cvss": 8.1,
+   "ref": "https://jira.mongodb.org/browse/GODRIVER-4081"
+  },
+  "title_vi": "CVE-2026-88031 — Việc trung hòa không đúng các yếu tố đặc biệt trong logic truy vấn dữ liệu trong thành phần GridFS của MongoDB Go Driver có thể gây ra cấu trúc do người gọi cung cấp",
+  "key": "e0e8e3c8fdd5425b357f7aef5fce43b2a52188f8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88051 — Tesseract is an open source OCR engine",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88051",
+  "published": "2026-09-10T18:18:14.177",
+  "summary": "Tesseract is an open source OCR engine. In version 5.5.3 and earlier, the callback form of GenericVector::read in src/ccutil/genericvector.h reads the independent int32 fields reserved and size_used_ from a .traineddata model without a cap or an invariant check. reserve(reserved) allocates the backing array, but the callback loop writes size_used_ elements. A crafted TESSDATA_INTTEMP component with version_id 4 or later can therefore set reserved to a small value and size_used_ to a large value when fontinfo_table_.read(fp, read_info) is called from src/classify/intproto.cpp, causing a heap ou",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88051",
+   "cvss": null,
+   "ref": "https://github.com/tesseract-ocr/tesseract/commit/56e09ca12e751623fe796ce1554ce704bffd2ef0"
+  },
+  "title_vi": "CVE-2026-88051 — Tesseract là một công cụ OCR mã nguồn mở",
+  "key": "96f7a3d3ef7b89e85853e5e73ffe0f027f49a1bb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88052 — Tesseract is an open source OCR engine",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88052",
+  "published": "2026-09-10T18:18:14.317",
+  "summary": "Tesseract is an open source OCR engine. In version 5.5.3 and earlier, UNICHARSET::load_via_fgets in src/ccutil/unicharset.cpp trusts the declared unichar count as a loop bound and uses id as an unchecked index into the unichars vector. unichar_insert_backwards_compatible can leave the vector unchanged for an empty, duplicate, or already-encodable representation, causing id to become larger than unichars.size(). Subsequent set_* calls and the write to unichars[id].properties.enabled then write UNICHAR_PROPERTIES beyond the vector during initialization in both the default LSTM and legacy engines",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88052",
+   "cvss": 7.8,
+   "ref": "https://github.com/tesseract-ocr/tesseract/commit/2d04d640db2e8c7e3bab2369d599343b5a8b8443"
+  },
+  "title_vi": "",
+  "key": "8b9bc21ff70cceef6b28c7a33cddd7acbf05fd05"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88053 — Tesseract is an open source OCR engine",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88053",
+  "published": "2026-09-10T18:18:14.460",
+  "summary": "Tesseract is an open source OCR engine. In version 5.5.3 and earlier, Classify::ReadIntTemplates in src/classify/intproto.cpp reads NumClassPruners, NumClasses, and NumProtoSets from the TESSDATA_INTTEMP component of a crafted .traineddata file and uses those values as loop bounds without validating them against MAX_NUM_CLASS_PRUNERS, MAX_NUM_CLASSES, and MAX_NUM_PROTO_SETS. The loops store heap pointers into fixed-capacity ClassPruners and ProtoSets arrays in INT_TEMPLATES_STRUCT and INT_CLASS_STRUCT, so an oversized count causes heap out-of-bounds pointer writes during legacy-classifier init",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88053",
+   "cvss": null,
+   "ref": "https://github.com/tesseract-ocr/tesseract/commit/8b0574680f3b22f246ade6a4c8e3029104255c63"
+  },
+  "title_vi": "",
+  "key": "bcc4608758ac22918fb99774e097cffcf5f8d867"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88054 — Tesseract is an open source OCR engine",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88054",
+  "published": "2026-09-10T18:18:14.600",
+  "summary": "Tesseract is an open source OCR engine. In version 5.5.3 and earlier, Plumbing::DeSerialize in src/lstm/plumbing.cpp rejects excessively large network stacks but accepts a zero-length stack for NT_SERIES, NT_PARALLEL, or NT_REVERSED layers in a crafted .traineddata model. During LSTMRecognizer initialization in src/lstm/lstmrecognizer.cpp, CacheXScaleFactor(XScaleFactor()) reaches Series::CacheXScaleFactor in src/lstm/series.cpp, which dereferences stack_[0] on the empty vector and invokes a virtual method through an invalid Network pointer. This causes a deterministic crash and denial of serv",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88054",
+   "cvss": null,
+   "ref": "https://github.com/tesseract-ocr/tesseract/commit/552771236b0d80cbdb0c7dd856120fa21a4672e5"
+  },
+  "title_vi": "",
+  "key": "82797035d71bb6498975a63bbf626138dc56a125"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88055 — AnythingLLM is an application that turns pieces of content into context that any LLM can use as references during chatting",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88055",
+  "published": "2026-09-10T18:18:14.743",
+  "summary": "AnythingLLM is an application that turns pieces of content into context that any LLM can use as references during chatting. In 1.16.1 and earlier, the manager role can store meta_page_title or meta_page_favicon through /api/admin/system-preferences, and MetaGenerator inserts those values into production homepage HTML without escaping attribute values or text content. The values pass unchanged through server/models/systemSettings.js and reach MetaGenerator.generate() in server/index.js. #assembleMeta() in server/utils/boot/MetaGenerator.js concatenates the stored values into HTML. When an admin",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88055",
+   "cvss": 5.5,
+   "ref": "https://github.com/Mintplex-Labs/anything-llm/commit/6dff9d71ab585e87a3145a48abc63c2b60151149"
+  },
+  "title_vi": "",
+  "key": "cc71641ca70cbedf4b0badac50d14de0b15b240f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-89042 — passport-saml-encrypted through 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89042",
+  "published": "2026-09-10T18:18:15.910",
+  "summary": "passport-saml-encrypted through 0.1.13 makes SAML signature verification conditional on an optional cert option, allowing attackers to bypass authentication by submitting unsigned SAML responses. Attackers can post forged SAML responses with arbitrary NameID and attributes to the assertion consumer service endpoint to receive authenticated profiles without valid signatures.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-89042",
+   "cvss": 9.1,
+   "ref": "https://github.com/krakenjs/passport-saml-encrypted"
+  },
+  "title_vi": "",
+  "key": "bc675565d599a1b995e22391607c218898cccc47"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-89043 — passport-saml-encrypted through 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89043",
+  "published": "2026-09-10T18:18:16.073",
+  "summary": "passport-saml-encrypted through 0.1.13 contains an XML signature wrapping vulnerability where signature verification and assertion extraction use independent XPath lookups with no cross-validation. Attackers holding any validly signed SAML message can prepend a forged unsigned assertion that gets accepted as the verified identity while the genuine signature validates against the original assertion.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-89043",
+   "cvss": 7.4,
+   "ref": "https://github.com/krakenjs/passport-saml-encrypted"
+  },
+  "title_vi": "",
+  "key": "ea6b24985ae73e1fdb44d81237c2db401d0c2cb8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-89044 — Netty versions 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89044",
+  "published": "2026-09-10T18:18:16.243",
+  "summary": "Netty versions 4.1.133.Final through 4.1.137.Final and 4.2.13.Final through 4.2.17.Final fail to properly validate the final transfer coding in the Transfer-Encoding header, allowing attackers to smuggle requests by using malformed encoding declarations. Attackers can split Transfer-Encoding headers across multiple lines or use values like 'chunked, xchunked' to bypass validation and decode messages as chunked when the final coding is not chunked, enabling request smuggling attacks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-89044",
+   "cvss": 6.5,
+   "ref": "https://github.com/netty/netty"
+  },
+  "title_vi": "",
+  "key": "49932c307db53acc15558dbbe7b04b6742ac0c9c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-89045 — zstd-jni versions 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89045",
+  "published": "2026-09-10T18:18:16.410",
+  "summary": "zstd-jni versions 1.4.8-4 through 1.5.7-13 fail to validate negative length parameters in ZstdInputStreamNoFinalizer.read(), allowing attackers to trigger infinite loops. Attackers can pass negative length values to cause the read method to spin indefinitely while holding the stream monitor, blocking all other threads from accessing the stream.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-89045",
+   "cvss": 4.0,
+   "ref": "https://github.com/luben/zstd-jni"
+  },
+  "title_vi": "",
+  "key": "e8d6df52b30bed9440e01a2224c84dffbe5c918d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-89046 — zstd-jni versions 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89046",
+  "published": "2026-09-10T18:18:16.560",
+  "summary": "zstd-jni versions 1.5.5-6 through 1.5.7-13 contain an out-of-bounds read vulnerability in Zstd.getFrameContentSize that fails to validate negative srcPosition arguments. Attackers can supply negative offset values that bypass bounds checks and reach the native frame-header parser, causing out-of-bounds memory reads that lead to information disclosure or JVM crashes.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-89046",
+   "cvss": 8.2,
+   "ref": "https://github.com/luben/zstd-jni"
+  },
+  "title_vi": "",
+  "key": "02abc79dbde9dba90696e84ab6ae3a79956c2287"
+ },
+ {
   "source": "Báo Tin tức (TTXVN) KH-CN",
   "title": "Tranh cãi nổ ra sau khi OpenAI tuyên bố AI giải bài toán học lừng danh",
   "link": "https://baotintuc.vn/khoa-hoc-cong-nghe/tranh-cai-no-ra-sau-khi-openai-tuyen-bo-ai-giai-bai-toan-hoc-lung-danh-20260910161401629.htm",
@@ -72857,1409 +74236,5 @@
   },
   "title_vi": "",
   "key": "3707c66235e36af2490b5f2c469b037938787c63"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-70586 — Heap-based buffer overflow in Windows Paint allows an unauthorized attacker to execute code over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-70586",
-  "published": "2026-09-08T18:20:11.797",
-  "summary": "Heap-based buffer overflow in Windows Paint allows an unauthorized attacker to execute code over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-70586",
-   "cvss": 8.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70586"
-  },
-  "title_vi": "",
-  "key": "db4c82cfbf5efa40346ebde311f3d9bbf5ae8c99"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-70587 — Improper null termination in Windows Remote Desktop Protocol allows an unauthorized attacker to disclose information over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-70587",
-  "published": "2026-09-08T18:20:11.980",
-  "summary": "Improper null termination in Windows Remote Desktop Protocol allows an unauthorized attacker to disclose information over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-70587",
-   "cvss": 7.5,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70587"
-  },
-  "title_vi": "",
-  "key": "6c945ef1d0ad9e7bfec552794946ec01e443a4d2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-71328 — Heap-based buffer overflow in Visual Studio allows an unauthorized attacker to execute code over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71328",
-  "published": "2026-09-08T18:20:12.160",
-  "summary": "Heap-based buffer overflow in Visual Studio allows an unauthorized attacker to execute code over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-71328",
-   "cvss": 8.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-71328"
-  },
-  "title_vi": "",
-  "key": "d2e436ce5e247e6589839d0571e6b6126fcb31b4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-71329 — Heap-based buffer overflow in Windows NTFS allows an unauthorized attacker to execute code with a physical attack",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71329",
-  "published": "2026-09-08T18:20:12.307",
-  "summary": "Heap-based buffer overflow in Windows NTFS allows an unauthorized attacker to execute code with a physical attack.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-71329",
-   "cvss": 6.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-71329"
-  },
-  "title_vi": "",
-  "key": "a5ca19882add888ad3c3e34415660a25d444aab6"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-71330 — Exposure of sensitive system information to an unauthorized control sphere in Windows Services for NFS ONCRPC XDR Driver allows an unauthorized attack",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71330",
-  "published": "2026-09-08T18:20:12.500",
-  "summary": "Exposure of sensitive system information to an unauthorized control sphere in Windows Services for NFS ONCRPC XDR Driver allows an unauthorized attacker to disclose information over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-71330",
-   "cvss": 7.5,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-71330"
-  },
-  "title_vi": "",
-  "key": "a4951b6d3a61b95c60672a034c3ae8786299976b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-71332 — Use after free in Windows Secure Socket Tunneling Protocol (SSTP) allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71332",
-  "published": "2026-09-08T18:20:12.757",
-  "summary": "Use after free in Windows Secure Socket Tunneling Protocol (SSTP) allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-71332",
-   "cvss": 7.0,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-71332"
-  },
-  "title_vi": "",
-  "key": "7b5bae775a7307693c486c78793453260e794317"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-71333 — Use after free in Windows Remote Access Connection Manager allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71333",
-  "published": "2026-09-08T18:20:12.920",
-  "summary": "Use after free in Windows Remote Access Connection Manager allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-71333",
-   "cvss": 7.0,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-71333"
-  },
-  "title_vi": "",
-  "key": "237671cec315ab86cb0b11828d529b6ba9be30ac"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-71334 — Heap-based buffer overflow in Windows NFS Portmapper allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71334",
-  "published": "2026-09-08T18:20:13.110",
-  "summary": "Heap-based buffer overflow in Windows NFS Portmapper allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-71334",
-   "cvss": 7.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-71334"
-  },
-  "title_vi": "",
-  "key": "b5c76d5afd660603dec335a73d4c0fbbdcbbe0c5"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-71336 — Integer overflow or wraparound in Windows Work Folder Service allows an authorized attacker to execute code over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71336",
-  "published": "2026-09-08T18:20:13.287",
-  "summary": "Integer overflow or wraparound in Windows Work Folder Service allows an authorized attacker to execute code over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-71336",
-   "cvss": 8.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-71336"
-  },
-  "title_vi": "",
-  "key": "8ae17a49d236ad62c39e1be9107eeb72ba401db6"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-71337 — Stack-based buffer overflow in Windows Storage Management Provider allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71337",
-  "published": "2026-09-08T18:20:13.430",
-  "summary": "Stack-based buffer overflow in Windows Storage Management Provider allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-71337",
-   "cvss": 7.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-71337"
-  },
-  "title_vi": "",
-  "key": "fec23afd5bf691ce77f8885af7fe1a0858e7fdd9"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-71338 — Double free in Windows Failover Cluster allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71338",
-  "published": "2026-09-08T18:20:13.573",
-  "summary": "Double free in Windows Failover Cluster allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-71338",
-   "cvss": 6.4,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-71338"
-  },
-  "title_vi": "",
-  "key": "a4991662ab165e17c052b8f388938db817ef52ac"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-71339 — Heap-based buffer overflow in Windows Installer allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71339",
-  "published": "2026-09-08T18:20:13.720",
-  "summary": "Heap-based buffer overflow in Windows Installer allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-71339",
-   "cvss": 6.7,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-71339"
-  },
-  "title_vi": "",
-  "key": "d29242082118276c4ce1bfe000f7f6df87457a6d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-71340 — Use after free in Windows File History Service allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71340",
-  "published": "2026-09-08T18:20:13.897",
-  "summary": "Use after free in Windows File History Service allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-71340",
-   "cvss": 7.0,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-71340"
-  },
-  "title_vi": "",
-  "key": "94bb52d8b01702d7cc51b80caad08f085e46e92e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-71341 — Out-of-bounds read in Windows Partition Management Driver allows an authorized attacker to disclose information locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71341",
-  "published": "2026-09-08T18:20:14.057",
-  "summary": "Out-of-bounds read in Windows Partition Management Driver allows an authorized attacker to disclose information locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-71341",
-   "cvss": 5.5,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-71341"
-  },
-  "title_vi": "",
-  "key": "061bd2313bec4676e3c3fee5447e7db51f0c978d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-71342 — Use after free in Windows Remote Access Connection Manager allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71342",
-  "published": "2026-09-08T18:20:14.230",
-  "summary": "Use after free in Windows Remote Access Connection Manager allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-71342",
-   "cvss": 7.0,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-71342"
-  },
-  "title_vi": "",
-  "key": "7fa41b5dfaf4917074ac498b66957b8f5ccbd690"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-71343 — Heap-based buffer overflow in Windows Remote Access Connection Manager allows an authorized attacker to execute code locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71343",
-  "published": "2026-09-08T18:20:14.397",
-  "summary": "Heap-based buffer overflow in Windows Remote Access Connection Manager allows an authorized attacker to execute code locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-71343",
-   "cvss": 7.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-71343"
-  },
-  "title_vi": "",
-  "key": "a48f76ce92da12edf1171c0e44269a1dbae6f530"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-71345 — Out-of-bounds write in Windows Spaceport",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71345",
-  "published": "2026-09-08T18:20:14.583",
-  "summary": "Out-of-bounds write in Windows Spaceport.sys allows an authorized attacker to execute code locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-71345",
-   "cvss": 7.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-71345"
-  },
-  "title_vi": "",
-  "key": "8f6c89694269145c8718579a985174ba545f7de4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-71348 — Heap-based buffer overflow in Windows Spaceport",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71348",
-  "published": "2026-09-08T18:20:14.780",
-  "summary": "Heap-based buffer overflow in Windows Spaceport.sys allows an unauthorized attacker to execute code with a physical attack.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-71348",
-   "cvss": 6.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-71348"
-  },
-  "title_vi": "",
-  "key": "27ce5e6f56c2f68bcd0fe001524ee5202e617b1a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-71349 — Heap-based buffer overflow in Windows Spaceport",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71349",
-  "published": "2026-09-08T18:20:14.977",
-  "summary": "Heap-based buffer overflow in Windows Spaceport.sys allows an unauthorized attacker to execute code with a physical attack.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-71349",
-   "cvss": 6.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-71349"
-  },
-  "title_vi": "",
-  "key": "4cec90eb4598ee5f77b2fb44b69efec9843ed6f4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-71350 — Heap-based buffer overflow in Windows Spaceport",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71350",
-  "published": "2026-09-08T18:20:15.180",
-  "summary": "Heap-based buffer overflow in Windows Spaceport.sys allows an unauthorized attacker to execute code with a physical attack.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-71350",
-   "cvss": 6.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-71350"
-  },
-  "title_vi": "",
-  "key": "7c7915ab7d1ad8aaaeae4bc27daa5cb50edaf076"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-71351 — Double free in Windows Routing and Remote Access Service (RRAS) allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71351",
-  "published": "2026-09-08T18:20:15.477",
-  "summary": "Double free in Windows Routing and Remote Access Service (RRAS) allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-71351",
-   "cvss": 7.0,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-71351"
-  },
-  "title_vi": "",
-  "key": "1d9842a2c7bd5443e199a674398cec6aae5af6b2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-71352 — Integer underflow (wrap or wraparound) in Windows Remote Access Connection Manager allows an authorized attacker to execute code over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71352",
-  "published": "2026-09-08T18:20:15.690",
-  "summary": "Integer underflow (wrap or wraparound) in Windows Remote Access Connection Manager allows an authorized attacker to execute code over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-71352",
-   "cvss": 8.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-71352"
-  },
-  "title_vi": "",
-  "key": "23146f7860f7dfd9a1e2301dc87dceb4d1aca2ee"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-71353 — Double free in Windows Routing and Remote Access Service (RRAS) allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71353",
-  "published": "2026-09-08T18:20:16.093",
-  "summary": "Double free in Windows Routing and Remote Access Service (RRAS) allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-71353",
-   "cvss": 7.0,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-71353"
-  },
-  "title_vi": "",
-  "key": "77e8f53401ab859d05ccec789173d06265a7daae"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72923 — In Microsoft",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72923",
-  "published": "2026-09-08T18:20:16.310",
-  "summary": "In Microsoft.OpenApi.YamlReader from 2.0.0-preview.11 until 2.12.0 and from 3.0.0 until 3.10.0, and in Microsoft.OpenApi.Readers prior to 1.6.30, a small YAML OpenAPI document containing nested anchors and aliases can cause uncontrolled resource consumption when parsed through the public YAML reader APIs. YAML is parsed through SharpYaml, which represents aliases as shared nodes in a directed acyclic graph, so the parsed YAML graph stays small, but converting that graph to System.Text.Json.Nodes.JsonNode requires every alias to be materialized as an independent node because a JsonNode cannot b",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72923",
-   "cvss": 7.5,
-   "ref": "https://github.com/microsoft/OpenAPI.NET/security/advisories/GHSA-7pxr-59rr-hqj2"
-  },
-  "title_vi": "",
-  "key": "7ffbcddcf2c608aad30c1b8c060e8c31fcf9f656"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72926 — Use after free in Windows Internet Connection Sharing (ICS) allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72926",
-  "published": "2026-09-08T18:20:16.640",
-  "summary": "Use after free in Windows Internet Connection Sharing (ICS) allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72926",
-   "cvss": 7.0,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72926"
-  },
-  "title_vi": "",
-  "key": "c2cc43a8ae34df3c63488fcd9c6192cb1075a234"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72927 — Heap-based buffer overflow in Winsock allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72927",
-  "published": "2026-09-08T18:20:16.913",
-  "summary": "Heap-based buffer overflow in Winsock allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72927",
-   "cvss": 6.7,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72927"
-  },
-  "title_vi": "",
-  "key": "89183f3ad881b7ef16e2a21cdf581cd7c2e53e7a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72928 — Use after free in Windows DNS allows an authorized attacker to execute code over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72928",
-  "published": "2026-09-08T18:20:17.103",
-  "summary": "Use after free in Windows DNS allows an authorized attacker to execute code over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72928",
-   "cvss": 7.5,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72928"
-  },
-  "title_vi": "",
-  "key": "b94dbcd846be8d2385f4d0832f0f327430185e50"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72929 — Improper validation of integrity check value in Windows Installer allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72929",
-  "published": "2026-09-08T18:20:17.257",
-  "summary": "Improper validation of integrity check value in Windows Installer allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72929",
-   "cvss": 7.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72929"
-  },
-  "title_vi": "",
-  "key": "9b05839c42305703a618164afbc8fe2d07508600"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72930 — Use after free in Windows Secure Socket Tunneling Protocol (SSTP) allows an authorized attacker to execute code locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72930",
-  "published": "2026-09-08T18:20:17.423",
-  "summary": "Use after free in Windows Secure Socket Tunneling Protocol (SSTP) allows an authorized attacker to execute code locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72930",
-   "cvss": 7.0,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72930"
-  },
-  "title_vi": "",
-  "key": "c09ffd3f839aa640109207fb8fd24748413d27fe"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72931 — Missing release of resource after effective lifetime in Windows Secure Socket Tunneling Protocol (SSTP) allows an authorized attacker to deny service ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72931",
-  "published": "2026-09-08T18:20:17.613",
-  "summary": "Missing release of resource after effective lifetime in Windows Secure Socket Tunneling Protocol (SSTP) allows an authorized attacker to deny service locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72931",
-   "cvss": 4.7,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72931"
-  },
-  "title_vi": "",
-  "key": "6b429d7f942fdc84a67a616dd8ffd356baf3c4d9"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72932 — Buffer over-read in Windows Message Queuing Queue Manager allows an unauthorized attacker to disclose information over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72932",
-  "published": "2026-09-08T18:20:17.803",
-  "summary": "Buffer over-read in Windows Message Queuing Queue Manager allows an unauthorized attacker to disclose information over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72932",
-   "cvss": 7.5,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72932"
-  },
-  "title_vi": "",
-  "key": "bbfa5c422ff9c1a753e10281b1f0779a30798860"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72933 — Heap-based buffer overflow in Microsoft WDAC OLE DB provider for SQL allows an unauthorized attacker to execute code over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72933",
-  "published": "2026-09-08T18:20:17.983",
-  "summary": "Heap-based buffer overflow in Microsoft WDAC OLE DB provider for SQL allows an unauthorized attacker to execute code over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72933",
-   "cvss": 8.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72933"
-  },
-  "title_vi": "",
-  "key": "0d85a05851f67c984b97d5d5d62dcc0d0b7648f8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72935 — Out-of-bounds read in Windows NTFS allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72935",
-  "published": "2026-09-08T18:20:18.167",
-  "summary": "Out-of-bounds read in Windows NTFS allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72935",
-   "cvss": 6.7,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72935"
-  },
-  "title_vi": "",
-  "key": "3cc92d9b6f6c08a2b4237070244dbe70599f0c9d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72936 — Use after free in Windows SMB Client allows an unauthorized attacker to execute code over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72936",
-  "published": "2026-09-08T18:20:18.347",
-  "summary": "Use after free in Windows SMB Client allows an unauthorized attacker to execute code over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72936",
-   "cvss": 8.1,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72936"
-  },
-  "title_vi": "",
-  "key": "3299ed25eee7bc11296d3a0476cbe39281a3ad03"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72937 — Out-of-bounds read in Storage Port Driver allows an authorized attacker to disclose information locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72937",
-  "published": "2026-09-08T18:20:18.477",
-  "summary": "Out-of-bounds read in Storage Port Driver allows an authorized attacker to disclose information locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72937",
-   "cvss": 5.5,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72937"
-  },
-  "title_vi": "",
-  "key": "075046607bd61a014ce980a6895ae844e113d0d3"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72938 — Access of resource using incompatible type ('type confusion') in Microsoft Office PowerPoint allows an unauthorized attacker to disclose information o",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72938",
-  "published": "2026-09-08T18:20:18.650",
-  "summary": "Access of resource using incompatible type ('type confusion') in Microsoft Office PowerPoint allows an unauthorized attacker to disclose information over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72938",
-   "cvss": 6.5,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72938"
-  },
-  "title_vi": "",
-  "key": "25446ab73ffbe455228f0f276784aee0232be9d4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72939 — Null pointer dereference in Windows Routing and Remote Access Service (RRAS) allows an authorized attacker to deny service over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72939",
-  "published": "2026-09-08T18:20:18.780",
-  "summary": "Null pointer dereference in Windows Routing and Remote Access Service (RRAS) allows an authorized attacker to deny service over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72939",
-   "cvss": 6.5,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72939"
-  },
-  "title_vi": "",
-  "key": "7372bd2fc23ec9fb606a28dbbbc7517dc57ffb4b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72940 — Heap-based buffer overflow in Windows Schannel allows an unauthorized attacker to execute code over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72940",
-  "published": "2026-09-08T18:20:18.960",
-  "summary": "Heap-based buffer overflow in Windows Schannel allows an unauthorized attacker to execute code over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72940",
-   "cvss": 8.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72940"
-  },
-  "title_vi": "",
-  "key": "f621ffd5094c1db24dc5ed4450427cf45647ec08"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72941 — Heap-based buffer overflow in Windows Biometric Service allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72941",
-  "published": "2026-09-08T18:20:19.093",
-  "summary": "Heap-based buffer overflow in Windows Biometric Service allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72941",
-   "cvss": 7.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72941"
-  },
-  "title_vi": "",
-  "key": "07ac9aab581e561a7d467ac9ab069fd918e15599"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72942 — Out-of-bounds read in Windows Spaceport",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72942",
-  "published": "2026-09-08T18:20:19.253",
-  "summary": "Out-of-bounds read in Windows Spaceport.sys allows an unauthorized attacker to disclose information over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72942",
-   "cvss": 6.5,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72942"
-  },
-  "title_vi": "",
-  "key": "3530c66735f1ef0c467ee253bcfcb30aa4c1b005"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72943 — Use after free in Windows Deployment Services allows an authorized attacker to execute code over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72943",
-  "published": "2026-09-08T18:20:19.427",
-  "summary": "Use after free in Windows Deployment Services allows an authorized attacker to execute code over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72943",
-   "cvss": 7.5,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72943"
-  },
-  "title_vi": "",
-  "key": "559359f9020629c83f9344bd9d7293377b82f7fd"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72944 — Heap-based buffer overflow in Windows Fax Service allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72944",
-  "published": "2026-09-08T18:20:19.573",
-  "summary": "Heap-based buffer overflow in Windows Fax Service allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72944",
-   "cvss": 7.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72944"
-  },
-  "title_vi": "",
-  "key": "ef146b52abe516f7beb13fd9ed6e3888d88c5212"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72945 — Use of uninitialized resource in Windows Task Scheduler allows an authorized attacker to disclose information locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72945",
-  "published": "2026-09-08T18:20:19.750",
-  "summary": "Use of uninitialized resource in Windows Task Scheduler allows an authorized attacker to disclose information locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72945",
-   "cvss": 5.5,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72945"
-  },
-  "title_vi": "",
-  "key": "9123c5592cd2cc91e5f15160973afa54d5df1c8e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72946 — Heap-based buffer overflow in Storage Port Driver allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72946",
-  "published": "2026-09-08T18:20:19.893",
-  "summary": "Heap-based buffer overflow in Storage Port Driver allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72946",
-   "cvss": 7.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72946"
-  },
-  "title_vi": "",
-  "key": "fc83b66210a73c5740f75815bde3214a6aafe389"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72947 — Integer underflow (wrap or wraparound) in Windows File History Service allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72947",
-  "published": "2026-09-08T18:20:20.040",
-  "summary": "Integer underflow (wrap or wraparound) in Windows File History Service allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72947",
-   "cvss": 6.4,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72947"
-  },
-  "title_vi": "",
-  "key": "ee1b14711dfeddc47ada0e7ef1ebe758d0b9677d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72948 — Relative path traversal in Windows DNS allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72948",
-  "published": "2026-09-08T18:20:20.190",
-  "summary": "Relative path traversal in Windows DNS allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72948",
-   "cvss": 6.7,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72948"
-  },
-  "title_vi": "",
-  "key": "d82634e214d0cee70b44499525b97ae1dacd0693"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72949 — Null pointer dereference in Windows SMB Server Network Transport Driver (srvnet",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72949",
-  "published": "2026-09-08T18:20:20.370",
-  "summary": "Null pointer dereference in Windows SMB Server Network Transport Driver (srvnet.sys) allows an unauthorized attacker to deny service over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72949",
-   "cvss": 7.5,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72949"
-  },
-  "title_vi": "",
-  "key": "c3d535192b5ae19a0fcd9d1fc6c355f00ad2f0ee"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72950 — Remote Code Execution in Windows Routing and Remote Access Service (RRAS) allows attacker to gain an unauthorized access to victim's machine",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72950",
-  "published": "2026-09-08T18:20:20.520",
-  "summary": "Remote Code Execution in Windows Routing and Remote Access Service (RRAS) allows attacker to gain an unauthorized access to victim's machine",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72950",
-   "cvss": 8.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72950"
-  },
-  "title_vi": "",
-  "key": "3caa686f2371b0e91b5835d5f23ddfdb24999ed8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72952 — Out-of-bounds read in Windows Spaceport",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72952",
-  "published": "2026-09-08T18:20:20.700",
-  "summary": "Out-of-bounds read in Windows Spaceport.sys allows an authorized attacker to execute code locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72952",
-   "cvss": 7.0,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72952"
-  },
-  "title_vi": "",
-  "key": "c1c082bd0e864a0e4d81a2e3ab51aef6cca57bf5"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72953 — Heap-based buffer overflow in Windows USB Driver allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72953",
-  "published": "2026-09-08T18:20:20.857",
-  "summary": "Heap-based buffer overflow in Windows USB Driver allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72953",
-   "cvss": 7.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72953"
-  },
-  "title_vi": "",
-  "key": "ca0c73e2b9585e4222b91f7e4d916bbebb5af8f8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72954 — Use after free in Windows Deployment Services allows an authorized attacker to execute code over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72954",
-  "published": "2026-09-08T18:20:20.990",
-  "summary": "Use after free in Windows Deployment Services allows an authorized attacker to execute code over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72954",
-   "cvss": 7.5,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72954"
-  },
-  "title_vi": "",
-  "key": "9f237fdcb562f95aa35da732318f2e271be91c4e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72956 — Untrusted pointer dereference in Microsoft Office PowerPoint allows an unauthorized attacker to disclose information over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72956",
-  "published": "2026-09-08T18:20:21.147",
-  "summary": "Untrusted pointer dereference in Microsoft Office PowerPoint allows an unauthorized attacker to disclose information over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72956",
-   "cvss": 6.5,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72956"
-  },
-  "title_vi": "",
-  "key": "6f79f1fc9785563fad23bfe6a3836df454d56e2f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72957 — Heap-based buffer overflow in Windows Deployment Services allows an authorized attacker to execute code locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72957",
-  "published": "2026-09-08T18:20:21.280",
-  "summary": "Heap-based buffer overflow in Windows Deployment Services allows an authorized attacker to execute code locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72957",
-   "cvss": 7.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72957"
-  },
-  "title_vi": "",
-  "key": "5706ea61aa045c62f3b3d173b6bfc1d8e1d567c0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72958 — Double free in Windows Credential Guard allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72958",
-  "published": "2026-09-08T18:20:21.440",
-  "summary": "Double free in Windows Credential Guard allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72958",
-   "cvss": 8.2,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72958"
-  },
-  "title_vi": "",
-  "key": "19cec2ab20b476692ae83ba32abee5b01c803a80"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72959 — Remote Code Execution in Windows Routing and Remote Access Service (RRAS) allows attacker to gain an unauthorized access to victim's machine",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72959",
-  "published": "2026-09-08T18:20:21.563",
-  "summary": "Remote Code Execution in Windows Routing and Remote Access Service (RRAS) allows attacker to gain an unauthorized access to victim's machine",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72959",
-   "cvss": 8.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72959"
-  },
-  "title_vi": "",
-  "key": "fb5f41d27e3bf350a520f1fc3cdc6b93aed51622"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72960 — Heap-based buffer overflow in Windows Media Player allows an unauthorized attacker to execute code over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72960",
-  "published": "2026-09-08T18:20:21.743",
-  "summary": "Heap-based buffer overflow in Windows Media Player allows an unauthorized attacker to execute code over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72960",
-   "cvss": 8.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72960"
-  },
-  "title_vi": "",
-  "key": "f5262081d5b4405286e4ad1c96a9b9c6a413c791"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72961 — Out-of-bounds read in Windows Hyper-V allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72961",
-  "published": "2026-09-08T18:20:21.907",
-  "summary": "Out-of-bounds read in Windows Hyper-V allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72961",
-   "cvss": 8.2,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72961"
-  },
-  "title_vi": "",
-  "key": "30207babb43446f615de95560adc94d747b389e1"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72962 — Heap-based buffer overflow in Windows USB Video Driver allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72962",
-  "published": "2026-09-08T18:20:22.070",
-  "summary": "Heap-based buffer overflow in Windows USB Video Driver allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72962",
-   "cvss": 8.2,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72962"
-  },
-  "title_vi": "",
-  "key": "47a1b2ff14d986c99f70ae7e7d5329befaa6c504"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72963 — Use after free in Windows Modern Execution Server allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72963",
-  "published": "2026-09-08T18:20:22.223",
-  "summary": "Use after free in Windows Modern Execution Server allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72963",
-   "cvss": 7.0,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72963"
-  },
-  "title_vi": "",
-  "key": "d0cb35c13a534144b406cc18ed3c1ce2bcc87b0d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72964 — Missing authentication for critical function in Windows Internet Connection Sharing (ICS) allows an authorized attacker to perform tampering locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72964",
-  "published": "2026-09-08T18:20:22.387",
-  "summary": "Missing authentication for critical function in Windows Internet Connection Sharing (ICS) allows an authorized attacker to perform tampering locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72964",
-   "cvss": 5.5,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72964"
-  },
-  "title_vi": "",
-  "key": "10263f411d09e45d6caa163b2202a42573f1da45"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72965 — Use after free in Windows WebClient Service allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72965",
-  "published": "2026-09-08T18:20:22.577",
-  "summary": "Use after free in Windows WebClient Service allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72965",
-   "cvss": 7.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72965"
-  },
-  "title_vi": "",
-  "key": "cf53ba443b0dcb2b4473b820a1e633f808b132d6"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72966 — Missing authorization in Windows Remote Access Connection Manager allows an authorized attacker to perform tampering locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72966",
-  "published": "2026-09-08T18:20:22.780",
-  "summary": "Missing authorization in Windows Remote Access Connection Manager allows an authorized attacker to perform tampering locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72966",
-   "cvss": 5.5,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72966"
-  },
-  "title_vi": "",
-  "key": "9e279a9722f5da46df133e35bf083b3f575cea57"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72967 — Heap-based buffer overflow in Windows Network Connection Broker allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72967",
-  "published": "2026-09-08T18:20:22.950",
-  "summary": "Heap-based buffer overflow in Windows Network Connection Broker allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72967",
-   "cvss": 7.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72967"
-  },
-  "title_vi": "",
-  "key": "075be1184a87d7dc7a0f78c4341fbd95de1b42b9"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72972 — Heap-based buffer overflow in Microsoft Office Word allows an unauthorized attacker to execute code over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72972",
-  "published": "2026-09-08T18:20:23.260",
-  "summary": "Heap-based buffer overflow in Microsoft Office Word allows an unauthorized attacker to execute code over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72972",
-   "cvss": 8.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72972"
-  },
-  "title_vi": "",
-  "key": "f5ea19ab4b5c0249575a87f417b3ea9ea17a48dc"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72973 — Heap-based buffer overflow in Microsoft Office Word allows an unauthorized attacker to execute code over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72973",
-  "published": "2026-09-08T18:20:23.387",
-  "summary": "Heap-based buffer overflow in Microsoft Office Word allows an unauthorized attacker to execute code over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72973",
-   "cvss": 8.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72973"
-  },
-  "title_vi": "",
-  "key": "b946ec7efe7043c544f7856944cc4cfb8714f22a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72974 — Buffer over-read in Microsoft Office Excel allows an unauthorized attacker to disclose information over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72974",
-  "published": "2026-09-08T18:20:23.620",
-  "summary": "Buffer over-read in Microsoft Office Excel allows an unauthorized attacker to disclose information over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72974",
-   "cvss": 6.5,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72974"
-  },
-  "title_vi": "",
-  "key": "b1661cac8e91a9ff8e455b7ab697887f4f09192b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72975 — Out-of-bounds read in Microsoft Office PowerPoint allows an unauthorized attacker to disclose information over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72975",
-  "published": "2026-09-08T18:20:23.750",
-  "summary": "Out-of-bounds read in Microsoft Office PowerPoint allows an unauthorized attacker to disclose information over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72975",
-   "cvss": 6.5,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72975"
-  },
-  "title_vi": "",
-  "key": "a50eecfacd5a3bf78b90757d648a2b2c098c873e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72976 — Out-of-bounds read in Microsoft Office Word allows an authorized attacker to disclose information locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72976",
-  "published": "2026-09-08T18:20:23.877",
-  "summary": "Out-of-bounds read in Microsoft Office Word allows an authorized attacker to disclose information locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72976",
-   "cvss": 5.0,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72976"
-  },
-  "title_vi": "",
-  "key": "871323c195bf295b53f549dd65689e263e6beb53"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72977 — Out-of-bounds read in Microsoft Office PowerPoint allows an unauthorized attacker to disclose information over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72977",
-  "published": "2026-09-08T18:20:24.003",
-  "summary": "Out-of-bounds read in Microsoft Office PowerPoint allows an unauthorized attacker to disclose information over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72977",
-   "cvss": 6.5,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72977"
-  },
-  "title_vi": "",
-  "key": "09a99348c30b62e08c10d02729506fe743ab61d1"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72978 — Allocation of resources without limits or throttling in Active Directory Federation Services (AD FS) allows an unauthorized attacker to deny service o",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72978",
-  "published": "2026-09-08T18:20:24.130",
-  "summary": "Allocation of resources without limits or throttling in Active Directory Federation Services (AD FS) allows an unauthorized attacker to deny service over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72978",
-   "cvss": 5.9,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72978"
-  },
-  "title_vi": "",
-  "key": "dc131cc674fce4a1138cad960bb246a2610073db"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72979 — Use after free in Windows DHCP Server allows an unauthorized attacker to execute code over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72979",
-  "published": "2026-09-08T18:20:24.310",
-  "summary": "Use after free in Windows DHCP Server allows an unauthorized attacker to execute code over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72979",
-   "cvss": 9.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72979"
-  },
-  "title_vi": "",
-  "key": "e54efcd33454eff21f0eb7e35c679dd0e762551b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72980 — Uncontrolled search path element in Windows Hello allows an authorized attacker to bypass a security feature locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72980",
-  "published": "2026-09-08T18:20:24.480",
-  "summary": "Uncontrolled search path element in Windows Hello allows an authorized attacker to bypass a security feature locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72980",
-   "cvss": 4.4,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72980"
-  },
-  "title_vi": "",
-  "key": "707e2d8841d1277230635186c7cf65978eef8ba5"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72981 — Use after free in IP Helper allows an unauthorized attacker to execute code over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72981",
-  "published": "2026-09-08T18:20:24.670",
-  "summary": "Use after free in IP Helper allows an unauthorized attacker to execute code over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72981",
-   "cvss": 8.1,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72981"
-  },
-  "title_vi": "",
-  "key": "cfdcc54364301731259eda51e0e0b9dd3923eb38"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72982 — Stack-based buffer overflow in Windows Netlogon allows an unauthorized attacker to execute code over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72982",
-  "published": "2026-09-08T18:20:24.863",
-  "summary": "Stack-based buffer overflow in Windows Netlogon allows an unauthorized attacker to execute code over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72982",
-   "cvss": 9.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72982"
-  },
-  "title_vi": "",
-  "key": "087c822b302d399752f14bb4d4a677a32bf82a15"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72983 — Use after free in Windows Internet Connection Sharing (ICS) allows an unauthorized attacker to execute code over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72983",
-  "published": "2026-09-08T18:20:25.073",
-  "summary": "Use after free in Windows Internet Connection Sharing (ICS) allows an unauthorized attacker to execute code over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72983",
-   "cvss": 9.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72983"
-  },
-  "title_vi": "",
-  "key": "3aee13cb8b72e0db06736019a9afa983a41de886"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72985 — Heap-based buffer overflow in Windows Volume Shadow Copy allows an unauthorized attacker to elevate privileges with a physical attack",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72985",
-  "published": "2026-09-08T18:20:25.290",
-  "summary": "Heap-based buffer overflow in Windows Volume Shadow Copy allows an unauthorized attacker to elevate privileges with a physical attack.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72985",
-   "cvss": 6.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72985"
-  },
-  "title_vi": "",
-  "key": "1eb74d5a6264dec2c2f21a158f2b54e10fc279d7"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72986 — Heap-based buffer overflow in Graphic Fonts allows an unauthorized attacker to execute code over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72986",
-  "published": "2026-09-08T18:20:25.500",
-  "summary": "Heap-based buffer overflow in Graphic Fonts allows an unauthorized attacker to execute code over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72986",
-   "cvss": 8.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72986"
-  },
-  "title_vi": "",
-  "key": "9008aad5fe152048d7fbb79b6b87c04ebc48efe2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72987 — Use after free in Windows DNS allows an unauthorized attacker to execute code over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72987",
-  "published": "2026-09-08T18:20:25.697",
-  "summary": "Use after free in Windows DNS allows an unauthorized attacker to execute code over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72987",
-   "cvss": 8.1,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-72987"
-  },
-  "title_vi": "",
-  "key": "476f3fa900ab3717503f71700871fba3d9e892d2"
  }
 ]
