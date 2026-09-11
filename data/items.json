@@ -1,5 +1,920 @@
 [
  {
+  "source": "OpenAI News",
+  "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+  "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+  "published": "2026-09-11T10:00:00+00:00",
+  "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Mở rộng nhanh chóng bộ nhớ trực tuyến để phục vụ hơn 1 tỷ người dùng ChatGPT",
+  "key": "7da2e469a82d680c0b0b9d2bfb9d08aa37c1279e"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "Ukrainian National Sentenced to Four Years in Prison for Wire Fraud Conspiracy in Connection with Conti Ransomware",
+  "link": "https://databreaches.net/2026/09/11/ukrainian-national-sentenced-to-four-years-in-prison-for-wire-fraud-conspiracy-in-connection-with-conti-ransomware/",
+  "published": "2026-09-11T16:07:27+00:00",
+  "summary": "There&#8217;s an update to a previously reported case. From the Department of Justice, this press release: Oleksii Oleksiyovych Lytvynenko, 44, a Ukrainian national, was sentenced today to four years in prison for conspiracy to commit wire fraud in connection with a conspiracy to deploy Conti, a ransomware variant that infected the computers of more than 1,000... Source",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Công dân Ukraine bị kết án bốn năm tù vì âm mưu lừa đảo qua mạng liên quan đến Conti Ransomware",
+  "key": "92adb454af70357847122e9bb035c8f69cb06730"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "Personal Info Possibly Compromised at Japan’s Digital Agency",
+  "link": "https://databreaches.net/2026/09/11/personal-info-possibly-compromised-at-japans-digital-agency/",
+  "published": "2026-09-11T16:06:58+00:00",
+  "summary": "JiJi Press reports: Japan&#8217;s Digital Agency said Friday that about 246,000 sets of personal information, including the names and email addresses of government employees, may have been compromised through the unauthorized access of a network system operated by the agency. So far, no secondary damage such as the misuse of the possibly breached personal information... Source",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Thông tin cá nhân có thể bị xâm phạm tại Cơ quan kỹ thuật số Nhật Bản",
+  "key": "fd75a3983365c429db4f6d142c55809825260b82"
+ },
+ {
+  "source": "Schneier on Security",
+  "title": "My Talk at DEF CON",
+  "link": "https://www.schneier.com/blog/archives/2026/09/my-talk-at-def-con.html",
+  "published": "2026-09-11T18:06:24+00:00",
+  "summary": "Last month, I gave a talk at DEF CON on AI hacking: what happens when AIs become hackers. It&#8217;s a combination of the potentialities I raised in my 2022 book A Hacker&#8217;s Mind and the lessons we&#8217;re learning from current AI models engaging in hacking behavior. I&#8217;m really proud of the talk, and the fact that it gained over 100K views on YouTube in just a few days. Also online is an interview with me in the AI Village.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Buổi nói chuyện của tôi tại DEF CON",
+  "key": "b71e501c1403cb90cca2fac3b6ba5fac4eabe0b6"
+ },
+ {
+  "source": "DarkReading",
+  "title": "CISA Calls for More Guidance, Less Spin, as Cyber Outages Escalate",
+  "link": "https://www.darkreading.com/cyber-risk/cisa-calls-for-more-guidance-less-spin-as-cyber-outages-escalate",
+  "published": "2026-09-11T18:44:03+00:00",
+  "summary": "A new joint government advisory signals a regulatory shift, pressing organizations to adopt more transparent breach notification and incident response protocols.",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "CISA kêu gọi thêm hướng dẫn, ít quay vòng hơn khi tình trạng mất điện trên mạng ngày càng gia tăng",
+  "key": "80f0e59f8611148de909ef5d75d427a19d93f36c"
+ },
+ {
+  "source": "DarkReading",
+  "title": "Why AI Is So Good at Scamming Humans",
+  "link": "https://www.darkreading.com/cyber-risk/ai-scamming-humans",
+  "published": "2026-09-11T18:14:06+00:00",
+  "summary": "Fred Heiding of Menlo Park Intelligence talks with the Dark Reading News Desk about his research on frontier models, and their ability to influence human behavior and create emotional dependency.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Tại sao AI lại giỏi lừa đảo con người đến vậy",
+  "key": "1873260e5d694d2e4d3bcc5be7e1626cc175be77"
+ },
+ {
+  "source": "DarkReading",
+  "title": "AI Governance Can't Wait",
+  "link": "https://www.darkreading.com/cyber-risk/ai-governance-cannot-wait",
+  "published": "2026-09-11T17:10:56+00:00",
+  "summary": "Adversaries can manipulate AI defensive reasoning to silently compromise target networks.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Quản trị AI nóng lòng chờ đợi",
+  "key": "3cc7b5bc5d5f9edb3e483acf267c7ccdacc7d9d6"
+ },
+ {
+  "source": "DarkReading",
+  "title": "Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain",
+  "link": "https://www.darkreading.com/cyberattacks-data-breaches/papercut-ai-swarm-attack-cyber-kill-chain",
+  "published": "2026-09-11T15:48:27+00:00",
+  "summary": "From creating lab environments for staging and testing agentic attacks to reconnaissance to lateral movement and exfiltration, the most innovative attackers are widely incorporating AI.",
+  "categories": [
+   "ai",
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Papercut AI Swarm Attack báo trước những thay đổi cho chuỗi tiêu diệt mạng",
+  "key": "3b5651340f662f03f5318ce9b79028b9ce0e867f"
+ },
+ {
+  "source": "The Record",
+  "title": "Microsoft sees some new wrinkles in invoice-scam emails",
+  "link": "https://therecord.media/invoice-scam-emails-new-features-microsoft-researchers",
+  "published": "2026-09-11T18:40:00+00:00",
+  "summary": "Researchers analyzed a flood of fraudulent business emails and found that the threat actors had doubled-up on tactics to make them appear legitimate, including help from AI.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Microsoft nhận thấy một số nếp nhăn mới trong email lừa đảo hóa đơn",
+  "key": "4cf9f5d91778ae79c058f5bd23e314d925ea88e4"
+ },
+ {
+  "source": "SecurityWeek",
+  "title": "Phishing Research Challenges Conventional Security Awareness Testing",
+  "link": "https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/",
+  "published": "2026-09-11T17:23:36+00:00",
+  "summary": "Analysis of 2.47 million simulated attacks shows why organizations should measure credential leaks and reporting, not just clicks. The post Phishing Research Challenges Conventional Security Awareness Testing appeared first on SecurityWeek .",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Những thách thức nghiên cứu lừa đảo Kiểm tra nhận thức bảo mật thông thường",
+  "key": "eb74cad745ca05121d00722d5bd93432001963e0"
+ },
+ {
+  "source": "SecurityWeek",
+  "title": "GitLab Vulnerability Exploited One Day After Disclosure",
+  "link": "https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/",
+  "published": "2026-09-11T16:11:08+00:00",
+  "summary": "The critical-severity path traversal flaw allows unauthenticated attackers to read arbitrary files from the GitLab server. The post GitLab Vulnerability Exploited One Day After Disclosure appeared first on SecurityWeek .",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Lỗ hổng GitLab bị khai thác một ngày sau khi được tiết lộ",
+  "key": "a8438bf5403c1a3a4ce42e1dfaa7577b0b4ab218"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
+  "link": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
+  "published": "2026-09-11T16:30:18+00:00",
+  "summary": "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure. The vulnerability in question is CVE-2026-85706 (CVSS score: 10.0), a path traversal issue in the repository commits API that could allow an unauthenticated user to read arbitrary files from the GitLab server under",
+  "categories": [
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "GitLab CVSS 10 Lỗ hổng đọc tệp thu hút các đầu dò thực tế sau khi được tiết lộ",
+  "key": "2bca9cace0245f8d7c9b70e0f325361d9c157148"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
+  "link": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
+  "published": "2026-09-11T16:15:29+00:00",
+  "summary": "Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhipu), and MiniMax. Knowledge distillation by itself is a legitimate training method. It refers to a machine learning technique where a large, powerful AI model assumes the role of a \"teacher\" to",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Anthropic cho biết bảy phòng thí nghiệm AI có trụ sở tại Trung Quốc đã thực hiện các cuộc tấn công chưng cất Claude quy mô công nghiệp",
+  "key": "fa821a7d333d68a94acf2f2c9590eaddbf78537d"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2026-84869 — ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84869",
+  "published": "2026-09-11",
+  "summary": "ConnectWise ScreenConnect contains both an improper privilege management and missing authorization vulnerability that may allow an attacker to file transfer and execution through an active remote sessions without authorization or host confirmation.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84869",
+   "vendor": "ConnectWise",
+   "product": "ScreenConnect",
+   "due_date": "2026-09-14",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "CVE-2026-84869 — ConnectWise ScreenConnect Quản lý đặc quyền không đúng cách và lỗ hổng ủy quyền bị thiếu",
+  "key": "375a19ad397e1444a6b774bde9540c74c923f9cc"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2026-42016 — JFrog Artifactory Incorrect Authorization Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-42016",
+  "published": "2026-09-11",
+  "summary": "JFrog Artifactory contains an incorrect authorization vulnerability that allows leads to privilege escalation attack due to a validation check of the token signature/issuer and not the token’s scope.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-42016",
+   "vendor": "JFrog",
+   "product": "Artifactory",
+   "due_date": "2026-09-25",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "CVE-2026-42016 — Lỗ hổng ủy quyền không chính xác của JFrog Artifactory",
+  "key": "89b63be5c4b1f494c22ef16de16dace2fe0761c8"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2026-42018 — JFrog Artifactory Improper Authentication Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-42018",
+  "published": "2026-09-11",
+  "summary": "JFrog Artifactory contains an improper authentication vulnerability that could return an internal anonymous-user token to an unauthenticated caller when anonymous access is disabled, potentially exposing sensitive resources.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-42018",
+   "vendor": "JFrog",
+   "product": "Artifactory",
+   "due_date": "2026-09-25",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "CVE-2026-42018 — Lỗ hổng xác thực không đúng cách của JFrog Artifactory",
+  "key": "5d0a722c9d533acbfdccf077a34ef7e0791928ce"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-15439 — The GamiPress plugin for WordPress is vulnerable to authenticated (Subscriber+) SQL Injection via the 'q' parameter of the wpForo integration AJAX sel",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-15439",
+  "published": "2026-09-11T16:17:05.597",
+  "summary": "The GamiPress plugin for WordPress is vulnerable to authenticated (Subscriber+) SQL Injection via the 'q' parameter of the wpForo integration AJAX selector (action gamipress_wpforo_get_posts) in versions up to, and including, 7.9.7. The value is passed only through $wpdb->esc_like() and interpolated directly into a single-quoted LIKE clause with no %s placeholder. Because esc_like() runs after WordPress core magic quotes, it doubles the injected backslash (\\' -> \\\\'), which MySQL reads as one literal backslash followed by a live closing quote, allowing the attacker to break out of the string a",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-15439",
+   "cvss": 6.5,
+   "ref": "https://plugins.trac.wordpress.org/browser/gamipress/tags/7.9.3/integrations/wpforo/includes/functions.php#L24"
+  },
+  "title_vi": "CVE-2026-15439 — Plugin GamiPress dành cho WordPress dễ bị tấn công bởi SQL SQL được xác thực (Subscriber+) thông qua tham số 'q' của tích hợp wpForo AJAX sel",
+  "key": "89ac0901263bc9f3c2f29de66df898abe5c40734"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-3869 — CWE-303 : Incorrect Implementation of Authentication Algorithm vulnerability exists that could cause loss of confidentiality, integrity and availabili",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-3869",
+  "published": "2026-09-11T16:17:06.200",
+  "summary": "CWE-303 : Incorrect Implementation of Authentication Algorithm vulnerability exists that could cause loss of confidentiality, integrity and availability of the PLC provided an application project with a lower application level is running on the PLC.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-3869",
+   "cvss": null,
+   "ref": "https://download.se.com/files?p_Doc_Ref=SEVD-2026-251-04&p_enDocType=Security+and+Safety+Notice&p_File_Name=SEVD-2026-251-04.pdf"
+  },
+  "title_vi": "CVE-2026-3869 — CWE-303 : Tồn tại lỗ hổng thuật toán xác thực triển khai không chính xác có thể gây mất tính bảo mật, tính toàn vẹn và tính khả dụng",
+  "key": "6bc0fa3724997a1b5d043a193df2030b220dc68a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-68497 — jackson-databind binds a JSON string to a javax",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-68497",
+  "published": "2026-09-11T16:17:39.610",
+  "summary": "jackson-databind binds a JSON string to a javax.xml.datatype.Duration or javax.xml.datatype.XMLGregorianCalendar field by passing the raw string verbatim to DatatypeFactory.newDuration(value) or newXMLGregorianCalendar(value) in CoreXMLDeserializers.Std._deserialize. These deserializers are registered by default with no opt-in, so a plain ObjectMapper or JsonMapper with no polymorphic typing and no special configuration reaches this path. The XML Schema lexical grammar permits numeric components of arbitrary length, which the JDK materializes through the native BigInteger(String) and BigDecima",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-68497",
+   "cvss": 7.5,
+   "ref": "https://github.com/FasterXML/jackson-databind/commit/a99b7e74c8928f43f6975773a8c862c8316178bd"
+  },
+  "title_vi": "CVE-2026-68497 — jackson-databind liên kết chuỗi JSON với javax",
+  "key": "f43c742fc297bf86eb43d83ea9148e6ae633ccb9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-70341 — Use after free in Microsoft Edge (Chromium-based) allows an authorized attacker to execute code over a network",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-70341",
+  "published": "2026-09-11T16:17:46.080",
+  "summary": "Use after free in Microsoft Edge (Chromium-based) allows an authorized attacker to execute code over a network.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-70341",
+   "cvss": 8.5,
+   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70341"
+  },
+  "title_vi": "CVE-2026-70341 — Sử dụng miễn phí trong Microsoft Edge (dựa trên Chrome) cho phép kẻ tấn công được ủy quyền thực thi mã qua mạng",
+  "key": "205e46e330eb105c3eb3aed022037db07120aa7d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-7863 — Improper neutralization of special elements used in an OS command ('OS command injection') vulnerability in TUBITAK BILGEM Software Technologies Resea",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-7863",
+  "published": "2026-09-11T16:17:47.490",
+  "summary": "Improper neutralization of special elements used in an OS command ('OS command injection') vulnerability in TUBITAK BILGEM Software Technologies Research Institute Pardus Software allows OS Command Injection.\n\nThis issue affects Pardus Software: before 1.0.5.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-7863",
+   "cvss": 8.4,
+   "ref": "https://siberguvenlik.gov.tr/guvenlik-bildirimleri/detay/tr-26-1080"
+  },
+  "title_vi": "CVE-2026-7863 — Việc vô hiệu hóa không đúng cách các thành phần đặc biệt được sử dụng trong lỗ hổng lệnh hệ điều hành ('chèn lệnh hệ điều hành') trong TUBITAK BILGEM Software Technologies Resea",
+  "key": "4d04fbcc1dbb49c3ed17ab3761d5c77ebeffbf04"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81861 — CWE-522: Insufficiently Protected Credentials vulnerability that could result in exposure of authentication information and unauthorized access to RTU",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81861",
+  "published": "2026-09-11T16:17:47.613",
+  "summary": "CWE-522: Insufficiently Protected Credentials vulnerability that could result in exposure of authentication information and unauthorized access to RTU functionality.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81861",
+   "cvss": null,
+   "ref": "https://download.se.com/files?p_Doc_Ref=SEVD-2026-251-03&p_enDocType=Security+and+Safety+Notice&p_File_Name=SEVD-2026-251-03.pdf"
+  },
+  "title_vi": "CVE-2026-81861 — CWE-522: Lỗ hổng Thông tin xác thực được bảo vệ không đầy đủ có thể dẫn đến lộ thông tin xác thực và truy cập trái phép vào RTU",
+  "key": "05226920b11628521c57474b7c6a086f33fb52ed"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-87122 — Rejected reason: ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87122",
+  "published": "2026-09-11T16:17:47.857",
+  "summary": "Rejected reason: ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2026-85984. Reason: This candidate is a reservation duplicate of CVE-2026-85984. Notes: All CVE users should reference CVE-2026-85984 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-87122",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2026-87122 — Lý do bị từ chối: ** TỪ CHỐI ** KHÔNG SỬ DỤNG SỐ THÍ SINH NÀY",
+  "key": "4e62711685ccf796d370cf725df77867a884b653"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-89012 — Dolibarr 24",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89012",
+  "published": "2026-09-11T16:17:48.680",
+  "summary": "Dolibarr 24.0.0 before 24.0.1 contains a case-sensitive denylist bypass vulnerability in the sqlfilters API query parameter that allows authenticated attackers to recover protected database fields by supplying uppercase variants of denylist-protected field names. Attackers can exploit the case-insensitive database column resolution against the case-sensitive denylist check in the core library to use prefix-matching predicates as a boolean oracle and extract full password hashes for any user account, including administrators.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-89012",
+   "cvss": 6.5,
+   "ref": "https://github.com/Dolibarr/dolibarr/commit/7a04d9c970e45e15d29c91e6f5a34a262c6c51c8"
+  },
+  "title_vi": "CVE-2026-89012 — Dolibarr 24",
+  "key": "76e018b0446780731ca9d25cd5a4fc57f705e867"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-89013 — Dolibarr 23",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89013",
+  "published": "2026-09-11T16:17:48.853",
+  "summary": "Dolibarr 23.0.4 before 24.0.1 ontains an authorization bypass vulnerability that allows unauthenticated attackers to read arbitrary files through the document storage endpoints by supplying a crafted hashp parameter value. Attackers can send a request with hashp=shared to skip token validation while satisfying the authorization condition in htdocs/document.php and htdocs/viewimage.php, gaining access to application logs, uploaded business documents, database backups containing password hashes, and files belonging to other multicompany entities.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-89013",
+   "cvss": 7.5,
+   "ref": "https://github.com/Dolibarr/dolibarr/commit/cd05688dbed8a4af6eef32faf4fc1e823a37bce9"
+  },
+  "title_vi": "CVE-2026-89013 — Dolibarr 23",
+  "key": "047937a1d8f12c5b3564e158fbf9703f070ce4e2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-89065 — Relative path traversal in the generated file manifest cleanup component in projen before 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89065",
+  "published": "2026-09-11T16:17:49.253",
+  "summary": "Relative path traversal in the generated file manifest cleanup component in projen before 0.101.37 might allow context-dependent attackers to recursively delete files and directories outside the project directory that are writable by the environment running projen, via crafted entries in the version-controlled generated file manifest that is consumed during project synthesis.\n\n\n\nTo remediate this issue, users should upgrade to version 0.101.37. The corrected containment check is automatically applied by the projen runtime next time you run it.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-89065",
+   "cvss": 7.1,
+   "ref": "https://aws.amazon.com/security/security-bulletins/2026-108-aws/"
+  },
+  "title_vi": "CVE-2026-89065 — Truyền tải đường dẫn tương đối trong thành phần dọn dẹp tệp kê khai tệp đã tạo trong projen trước 0",
+  "key": "b90885bbfee2901e92de24490e21344eb01d1286"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-89066 — Improper neutralization of special elements used in an OS command in the task synthesis component in projen before 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89066",
+  "published": "2026-09-11T16:17:49.400",
+  "summary": "Improper neutralization of special elements used in an OS command in the task synthesis component in projen before 0.103.0 might allow context-dependent attackers to execute arbitrary commands on a developer workstation or continuous integration runner via shell metacharacters in project configuration values and repository file names that are interpolated into generated task definitions.\n\n\n\nTo remediate this issue, users should upgrade to version 0.103.0 and then re-synthesize the project so that .projen/tasks.json is regenerated with the corrected task definitions. Upgrading alone is not suff",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-89066",
+   "cvss": 7.8,
+   "ref": "https://aws.amazon.com/security/security-bulletins/2026-108-aws/"
+  },
+  "title_vi": "CVE-2026-89066 — Việc vô hiệu hóa không đúng cách các phần tử đặc biệt được sử dụng trong lệnh OS trong thành phần tổng hợp tác vụ trong projen trước 0",
+  "key": "f19e568dbed74225ce00b4eb0e620c2a91bd346c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-89260 — MoguBlog through 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89260",
+  "published": "2026-09-11T16:17:50.560",
+  "summary": "MoguBlog through 6.2 contains an XML external entity injection vulnerability in the WeChat callback handler at POST /wechat/wechatCheck. The WechatRestApi.index() method passes the raw request body to SignUtil.xmlToMap(), which uses an unhardened dom4j SAXReader without DTD or external-entity restrictions. Unauthenticated remote attackers can submit DOCTYPE declarations with external parameter entities to read arbitrary local files or trigger outbound HTTP requests, with resolved entities reflected in error responses.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-89260",
+   "cvss": 7.5,
+   "ref": "https://gitee.com/moxi159753/mogu_blog_v2/releases"
+  },
+  "title_vi": "CVE-2026-89260 — MoguBlog đến 6",
+  "key": "9de7af8121b3a5f625e3c49302b4bffd3745ea54"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-89261 — MoguBlog through 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89261",
+  "published": "2026-09-11T16:17:50.740",
+  "summary": "MoguBlog through 6.2 exposes Elasticsearch index management endpoints in the mogu_search service without authentication, allowing remote attackers to delete, recreate, or alter the blog search index. Attackers can invoke POST endpoints to wipe the entire search index, delete specific documents, or inject malicious index entries, causing search functionality to return incorrect or no results.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-89261",
+   "cvss": 6.5,
+   "ref": "https://gitee.com/moxi159753/mogu_blog_v2/releases"
+  },
+  "title_vi": "CVE-2026-89261 — MoguBlog đến 6",
+  "key": "9f0aefbabbadf130617eadd405de3a0c473ec90e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-89262 — MoguBlog through 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89262",
+  "published": "2026-09-11T16:17:50.907",
+  "summary": "MoguBlog through 6.2 contains an authorization bypass vulnerability in the comment deletion endpoint that performs ownership checks against request-body fields instead of the authenticated principal. Attackers can delete arbitrary comments and their replies by supplying comment UIDs and author UIDs obtained from unauthenticated listing endpoints.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-89262",
+   "cvss": 7.5,
+   "ref": "https://gitee.com/moxi159753/mogu_blog_v2/releases"
+  },
+  "title_vi": "CVE-2026-89262 — MoguBlog đến 6",
+  "key": "4604ba00094c41bf82b654402ef9a03be2863580"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-89263 — MoguBlog through 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89263",
+  "published": "2026-09-11T16:17:51.053",
+  "summary": "MoguBlog through 6.2 fails to authenticate requests to the /web/comment/closeEmailNotification endpoint, allowing unauthenticated attackers to disable email notifications for arbitrary users. Remote callers can modify the startEmailNotification flag in Redis cache for any user identifier to suppress reply notifications without authorization.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-89263",
+   "cvss": 5.3,
+   "ref": "https://gitee.com/moxi159753/mogu_blog_v2/releases"
+  },
+  "title_vi": "CVE-2026-89263 — MoguBlog đến 6",
+  "key": "7128461b02677b50b9a43f1ec545495db4631c11"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-89264 — MoguBlog through 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89264",
+  "published": "2026-09-11T16:17:51.193",
+  "summary": "MoguBlog through 6.2 fails to validate the comment author identity in the POST /web/comment/add endpoint, allowing authenticated users to post comments attributed to any other user. Attackers can supply arbitrary userUid values in the request body to impersonate other accounts including administrators.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-89264",
+   "cvss": 4.3,
+   "ref": "https://gitee.com/moxi159753/mogu_blog_v2/releases"
+  },
+  "title_vi": "CVE-2026-89264 — MoguBlog đến 6",
+  "key": "f72e3ac273d499575a8c8008b348e017c6b636c9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-89265 — MoguBlog through 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89265",
+  "published": "2026-09-11T16:17:51.337",
+  "summary": "MoguBlog through 6.2 contains an authorization bypass vulnerability in the POST /pictureSort/getPictureSortByUid endpoint, which omits the @AuthorityVerify annotation required to enforce role-based permissions. Authenticated back-office users without image-category permissions can supply a category uid to retrieve restricted image-category records including metadata such as name, cover file uid, sort order and timestamps.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-89265",
+   "cvss": 4.3,
+   "ref": "https://gitee.com/moxi159753/mogu_blog_v2/releases"
+  },
+  "title_vi": "CVE-2026-89265 — MoguBlog đến 6",
+  "key": "61da0b6b7ddfe513e22d3532936ef82395ae6d45"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-8304 — Missing Authorization vulnerability in TUBITAK BILGEM Software Technologies Research Institute Pardus About allows Exploiting Incorrectly Configured A",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-8304",
+  "published": "2026-09-11T16:17:51.710",
+  "summary": "Missing Authorization vulnerability in TUBITAK BILGEM Software Technologies Research Institute Pardus About allows Exploiting Incorrectly Configured Access Control Security Levels.\n\nThis issue affects Pardus About: from 1.2.1 before 1.2.5.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-8304",
+   "cvss": 5.5,
+   "ref": "https://siberguvenlik.gov.tr/guvenlik-bildirimleri/detay/tr-26-1082"
+  },
+  "title_vi": "CVE-2026-8304 — Lỗ hổng ủy quyền bị thiếu trong Viện nghiên cứu công nghệ phần mềm TUBITAK BILGEM Pardus About cho phép khai thác cấu hình A không chính xác",
+  "key": "b793352d4a9c726d3d4259446e6d4b29681542bf"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18061 — Improper restriction of XML external entity references in the RemoteQueryCachePlugin in AWS Advanced JDBC Wrapper 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18061",
+  "published": "2026-09-11T17:17:08.927",
+  "summary": "Improper restriction of XML external entity references in the RemoteQueryCachePlugin in AWS Advanced JDBC Wrapper 3.3.0 through 4.2.0 might allow an actor with write access to the shared cache infrastructure to disclose sensitive files from application hosts that read cached query results, including stored database and IAM role credentials, via crafted XML data in a cached column value.\n\n\n\nTo remediate this issue, users should upgrade to version 4.3.0 or later.",
+  "categories": [
+   "breach",
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18061",
+   "cvss": 5.9,
+   "ref": "https://aws.amazon.com/security/security-bulletins/2026-109-aws/"
+  },
+  "title_vi": "CVE-2026-18061 — Hạn chế không đúng cách các tham chiếu thực thể bên ngoài XML trong RemoteQueryCachePlugin trong AWS Advanced JDBC Wrapper 3",
+  "key": "5dceea08a1484abac1e09810ee5659f5f3519836"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-54047 — Laci Synchroni is a decentralized mod and appearance sync server and plugin for Dalamud",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-54047",
+  "published": "2026-09-11T17:17:10.477",
+  "summary": "Laci Synchroni is a decentralized mod and appearance sync server and plugin for Dalamud. Versions of the backend prior to 1.2.3 have an improper authentication vulnerability in the application's OAuth2 login flow. The application relies on client-side state by trusting the `UID` field inside the `Authentications` object of a user's local `config.json` file. By manually editing this local file on their PC prior to logging in, a user can supply an arbitrary UID. Because the server fails to validate that the authenticated OAuth2 identity matches the requested UID, an attacker can fully impersonat",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-54047",
+   "cvss": null,
+   "ref": "https://github.com/LaciSynchroni/server/commit/5bc3efd68b738328b8faeff089dd18a826ec9ca4"
+  },
+  "title_vi": "CVE-2026-54047 — Laci Synchroni là một plugin và máy chủ đồng bộ hóa giao diện và mod phi tập trung cho Dalamud",
+  "key": "0ee32250009e681ee50a02954c6b84d47536dee8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-72708 — SPIP before 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72708",
+  "published": "2026-09-11T17:18:57.197",
+  "summary": "SPIP before 4.4.18 contains an unauthenticated blind SQL injection vulnerability in the public sitemap endpoint where the MySQL escaper spip_mysql_cite() in ecrire/req/mysql.php returns values unescaped when the target column is a date type and the supplied value matches the pattern of a word character followed by an open parenthesis. Attackers can supply a crafted value such as a time-based payload through the annee parameter in squelettes-dist/sitemap.xml.html to embed arbitrary SQL directly into the generated query, enabling time-based and boolean-based blind SQL injection that can expose a",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-72708",
+   "cvss": 7.5,
+   "ref": "https://blog.lexfo.fr/casse-spip-sqli-to-rce.html"
+  },
+  "title_vi": "CVE-2026-72708 — SPIP trước 4",
+  "key": "5958a50682b81835d0e7746e0dd3e27e18fb4ff8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-72709 — SPIP before 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72709",
+  "published": "2026-09-11T17:18:58.760",
+  "summary": "SPIP before 4.4.18 contains a missing authorization vulnerability in the administrative action endpoints under ecrire/action/ that allows unauthenticated attackers to perform privileged actions by supplying a valid HMAC-SHA256 nonce without any server-side permission check via autoriser(). Attackers can obtain a valid nonce, compute it for any action as the anonymous user, and invoke the editer_auteur action directly over HTTP to reset the password of any user account, including the administrator.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-72709",
+   "cvss": 9.8,
+   "ref": "https://blog.lexfo.fr/casse-spip-sqli-to-rce.html"
+  },
+  "title_vi": "CVE-2026-72709 — SPIP trước 4",
+  "key": "53948970f7094e1755276d8c02760cb54a401c85"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-72710 — SPIP before 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72710",
+  "published": "2026-09-11T17:18:58.907",
+  "summary": "SPIP before 4.4.18 contains a remote code execution vulnerability in the editer_objet action where the arg parameter resolves SQL table names without enforcing an editable columns allowlist, allowing attackers with a valid nonce to inject attacker-controlled rows into the spip_jobs table. Attackers can supply arg=job/0 with crafted fonction and args values, which are later unserialized and executed when the cron job queue is drained, resulting in arbitrary PHP function execution on the underlying system.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-72710",
+   "cvss": 9.8,
+   "ref": "https://blog.lexfo.fr/casse-spip-sqli-to-rce.html"
+  },
+  "title_vi": "CVE-2026-72710 — SPIP trước 4",
+  "key": "70d9e6321c08672cb63528ef6a9ae96b62699193"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18122 — Concrete CMS 9",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18122",
+  "published": "2026-09-11T18:16:56.567",
+  "summary": "Concrete CMS 9.2.0 to 9.5.2 Express REST API list endpoint exposes restricted Express entries via Missing Authorization; the Concrete CMS REST API's Express entry collection endpoint disabled the per-entry view permission check. An OAuth token with read scope for an Express entity could enumerate entries that its user context lacked permission to view, disclosing each entry's public identifier, URL, label, dates, and any attribute or associated-entry data requested via the includes parameter. The Concrete CMS security team gave this vulnerability a CVSS v4.0 score of 6.0 with vector CVSS:4.0/A",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18122",
+   "cvss": null,
+   "ref": "https://documentation.concretecms.org/developers/introduction/version-history/953-release-notes"
+  },
+  "title_vi": "CVE-2026-18122 — Bê tông CMS 9",
+  "key": "eefa538e8ca01c559f60686f4d63e5a7e69dd6c9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18495 — A flaw was found in libtiff",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18495",
+  "published": "2026-09-11T18:16:56.690",
+  "summary": "A flaw was found in libtiff. A heap-buffer overflow vulnerability exists in the `tiff2pdf` utility due to an integer truncation error when processing crafted BigTIFF files. An attacker can provide a specially crafted BigTIFF file, causing a 64-bit `StripByteCounts` value to be truncated to a 32-bit integer. This leads to an undersized memory allocation and a subsequent out-of-bounds memory copy, resulting in a crash and severe memory corruption.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18495",
+   "cvss": 6.1,
+   "ref": "https://access.redhat.com/errata/RHSA-2026:53467"
+  },
+  "title_vi": "CVE-2026-18495 — Một lỗ hổng được tìm thấy trong libtiff",
+  "key": "b70ce5bfbebb588238d405ca3c53ed5fe58b37a7"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-67211 — OOM Denial of Service via Unbounded Map Pre-Sizing in Apache OpenNLP SymSpellModelSerializer Versions Affected: - 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-67211",
+  "published": "2026-09-11T18:16:57.470",
+  "summary": "OOM Denial of Service via Unbounded Map Pre-Sizing in Apache OpenNLP SymSpellModelSerializer\n\nVersions Affected: \n\n- 3.0.0-M4\n- 3.0.0-M5\n\n(The opennlp-spellcheck extension was introduced in 3.0.0-M4. Releases 1.x and 2.x do not contain the affected code.)\n\nDescription:\n\nThe SymSpellModelSerializer.create() method reads two 32-bit signed integer count fields (unigramCount and bigramCount) from a binary SymSpell model stream and passes each value directly to LinkedHashMap.newLinkedHashMap() after validating only that it is non-negative. No upper bound is applied, so the count is fully attacker-c",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-67211",
+   "cvss": null,
+   "ref": "https://lists.apache.org/thread/gnobdsj640c60xl76q8g9o73c7jsybjm"
+  },
+  "title_vi": "CVE-2026-67211 — Từ chối dịch vụ OOM thông qua việc định cỡ trước bản đồ không giới hạn trong các phiên bản Apache OpenNLP SymSpellModelSerializer bị ảnh hưởng: - 3",
+  "key": "d134b533c35de59d44b7dd4752f2b72044fd17b1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-68528 — Concrete CMS RSS Displayer block below version 9",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-68528",
+  "published": "2026-09-11T18:16:57.643",
+  "summary": "Concrete CMS RSS Displayer block below version 9.5.3  rendered remote feed item titles without HTML escaping, resulting in stored cross-site scripting. An attacker able to control a title in a syndicated feed could execute script in the site origin for any visitor to the affected page, including administrators, without holding an account on that site. The Concrete CMS security team gave this vulnerability a CVSS v4.0 score of 6.0 with vector CVSS:4.0/AV:N/AC:H/AT:P/PR:N/UI:P/VC:H/VI:L/VA:N/SC:N/SI:N/SA:N. Thanks riodrwn for reporting.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-68528",
+   "cvss": null,
+   "ref": "https://documentation.concretecms.org/developers/introduction/version-history/953-release-notes"
+  },
+  "title_vi": "CVE-2026-68528 — Khối hiển thị RSS CMS cụ thể bên dưới phiên bản 9",
+  "key": "ec13b95b6b427ea49238efc87736b14465f445fd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78807 — An issue in wpa_supplicant all versions before v",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78807",
+  "published": "2026-09-11T18:16:58.120",
+  "summary": "An issue in wpa_supplicant all versions before v.2.12 allows a local attacker to bypass proper network context and AKMP matching for PMKSA caching via missing validation in the driver based PMKSA selection path in wpa.c",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78807",
+   "cvss": null,
+   "ref": "https://w1.fi/security/2026-2/missing-network-context-validation-for-pmksa-caching.txt"
+  },
+  "title_vi": "CVE-2026-78807 — Sự cố trong wpa_supplicant tất cả các phiên bản trước v",
+  "key": "ffb41f8ec4bf5fb409ffea138693a4573ee048c9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-7298 — Improper neutralization of input during web page generation ('cross-site scripting') vulnerability in IdeaSoft Software Industry and Trade Inc",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-7298",
+  "published": "2026-09-11T18:16:58.340",
+  "summary": "Improper neutralization of input during web page generation ('cross-site scripting') vulnerability in IdeaSoft Software Industry and Trade Inc. Smart E-Commerce allows Reflected XSS.\n\nThis issue affects Smart E-Commerce: through 11092026. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-7298",
+   "cvss": 6.1,
+   "ref": "https://siberguvenlik.gov.tr/guvenlik-bildirimleri/detay/tr-26-1084"
+  },
+  "title_vi": "CVE-2026-7298 — Lỗ hổng trung hòa đầu vào không đúng cách trong quá trình tạo trang web ('tập lệnh chéo trang') trong IdeaSoft Software Industry and Trade Inc",
+  "key": "3333629624970388fa3e1b18ba89be5b6e5cca09"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81908 — Concrete CMS 9",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81908",
+  "published": "2026-09-11T18:16:58.810",
+  "summary": "Concrete CMS 9.2.0 to 9.5.2 contain a missing authorization vulnerability in the REST API Groups list endpoint. The listGroups() method in concrete/src/Api/Controller/Groups.php registers a permissions checker callback that unconditionally returns true, so no per-object (tree node) authorization is enforced when the group collection is returned. An authenticated user whose API token carries the groups:read scope can call GET /ccm/api/1.0/groups and receive every group on the site regardless of the view permissions on those groups, disclosing the organization's group structure, roles, and acces",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81908",
+   "cvss": null,
+   "ref": "https://documentation.concretecms.org/developers/introduction/version-history/953-release-notes"
+  },
+  "title_vi": "CVE-2026-81908 — Bê tông CMS 9",
+  "key": "af3567edf91e33fbba0ece1ce6822e46cfa56241"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81909 — Concrete CMS 9 through 9",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81909",
+  "published": "2026-09-11T18:16:58.930",
+  "summary": "Concrete CMS 9 through 9.5.2 is vulnerable to Missing Authorization in the block alias route (Process::alias() in concrete/controllers/backend/block/process.php).It does not verify that the referenced block is genuinely orphaned on the target page, nor that the caller holds any permission over the source block. A user granted only an area-scoped add_block_to_area delegation on their own page can therefore pass any block ID on the site: the source block's content is duplicated into an area the rogue editor controls, disclosing that content, and the original block is then force-deleted in the sa",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81909",
+   "cvss": null,
+   "ref": "https://documentation.concretecms.org/developers/introduction/version-history/953-release-notes"
+  },
+  "title_vi": "CVE-2026-81909 — CMS bê tông 9 đến 9",
+  "key": "e7b2deeda0409820ff1e34f3307b3fa48c61b94b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82535 — Chamilo LMS before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82535",
+  "published": "2026-09-11T18:16:59.290",
+  "summary": "Chamilo LMS before 1.11.42 and 3.0.0 contains a stored cross-site scripting vulnerability that allows unauthenticated attackers to inject malicious script payloads into survey answers by computing deterministic invitation codes and bypassing authorization checks in the survey submission endpoint. Attackers can submit crafted answers containing unescaped HTML rendered in reporting views to execute arbitrary scripts in the browser sessions of teachers or administrators, enabling persistent backdoor account creation by exploiting the victim's authenticated session.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82535",
+   "cvss": 6.1,
+   "ref": "https://github.com/chamilo/chamilo-lms/commit/be45f2f2a29319afbbf9ce27d094698911799d10"
+  },
+  "title_vi": "CVE-2026-82535 — Chamilo LMS trước 1",
+  "key": "e1eb1faaff5b51b1c1f232bffb4917bd35508f98"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82617 — The two built-in name-finder patterns exposed by opennlp",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82617",
+  "published": "2026-09-11T18:16:59.443",
+  "summary": "The two built-in name-finder patterns exposed by\nopennlp.tools.namefind.RegexNameFinderFactory - DEFAULT_REGEX_NAME_FINDER.EMAIL\nand DEFAULT_REGEX_NAME_FINDER.URL - contain ambiguous nested quantifiers. An\napplication that obtains these finders through\nRegexNameFinderFactory.getDefaultRegexNameFinders(...) and then applies them to\nuntrusted text through RegexNameFinder.find(String[]) or RegexNameFinder.find(String)\ncan be driven into super-linear backtracking or into unbounded matcher recursion by a\nsmall crafted input.\n\n\n\n\n\nFor the EMAIL pattern, a long run of local-part characters that is ne",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82617",
+   "cvss": null,
+   "ref": "https://lists.apache.org/thread/spzhcxxszqdpppg70m1zz2l3mv29mhl3"
+  },
+  "title_vi": "CVE-2026-82617 — Hai mẫu công cụ tìm tên tích hợp được opennlp hiển thị",
+  "key": "0ce8b6100b61210b8035f2624e12e7edaf29b53d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-87910 — When tarfile extracts a link on a system that doesn't support links, it falls back to extracting a member from the archive",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87910",
+  "published": "2026-09-11T18:16:59.800",
+  "summary": "When tarfile extracts a link on a system that doesn't support links, it falls back to extracting a member from the archive. In this case, the filter function is run twice: once for the extracted member, and once with name set to the location of the link. For one of the calls, the return value was ignored. Instead, the member should be skipped if either call returns None.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-87910",
+   "cvss": null,
+   "ref": "https://github.com/python/cpython/issues/157265"
+  },
+  "title_vi": "CVE-2026-87910 — Khi tarfile trích xuất một liên kết trên hệ thống không hỗ trợ liên kết, nó sẽ quay lại trích xuất một thành viên từ kho lưu trữ",
+  "key": "a13064ed8671566988bddadcca15068ec2236e23"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-89090 — An unrecovered panic in the event stream header decoder in Amazon AWS SDK for Go v2 before release-2026-03-23 might allow an unauthenticated remote ac",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89090",
+  "published": "2026-09-11T18:17:00.097",
+  "summary": "An unrecovered panic in the event stream header decoder in Amazon AWS SDK for Go v2 before release-2026-03-23 might allow an unauthenticated remote actor to terminate the consuming application process via a crafted event stream response frame containing a header value type outside the valid range.\n\n\n\nTo remediate this issue, users should upgrade to release-2026-03-23 or later, and patch any forked or derivative code.",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-89090",
+   "cvss": 5.9,
+   "ref": "https://aws.amazon.com/security/security-bulletins/2026-110-aws/"
+  },
+  "title_vi": "CVE-2026-89090 — Lỗi chưa được khắc phục trong bộ giải mã tiêu đề luồng sự kiện trong Amazon AWS SDK dành cho Go v2 trước khi phát hành-2026-03-23 ​​có thể cho phép điều khiển từ xa không được xác thực",
+  "key": "7b0ffb5a73dc98242d73de15ce2f46f76cdcab1c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-89099 — A race condition in the document value layer of MongoDB Server can allow concurrent server threads to operate on the same internal memory without sync",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89099",
+  "published": "2026-09-11T18:17:00.360",
+  "summary": "A race condition in the document value layer of MongoDB Server can allow concurrent server threads to operate on the same internal memory without synchronization, leading to memory corruption. An authenticated user holding ordinary read-write privileges on a database may be able to trigger this condition over the normal client protocol, resulting in server termination and potential corruption of process memory with user-influenced content. Successful use of this issue may impact the confidentiality, integrity, and availability of the affected server process.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-89099",
+   "cvss": 7.5,
+   "ref": "https://jira.mongodb.org/browse/SERVER-134063"
+  },
+  "title_vi": "CVE-2026-89099 — Một điều kiện dồn đuổi trong lớp giá trị tài liệu của Máy chủ MongoDB có thể cho phép các luồng máy chủ đồng thời hoạt động trên cùng một bộ nhớ trong mà không cần đồng bộ hóa",
+  "key": "67705c00257c6e28091ae222b21532d32d345492"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-9160 — Improper neutralization of special elements used in a template engine vulnerability in Arma Digital Media Inc",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-9160",
+  "published": "2026-09-11T18:17:00.497",
+  "summary": "Improper neutralization of special elements used in a template engine vulnerability in Arma Digital Media Inc. Website Template allows Code Injection.\n\nThis issue affects Website Template: through 11092026. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-9160",
+   "cvss": 4.3,
+   "ref": "https://siberguvenlik.gov.tr/guvenlik-bildirimleri/detay/tr-26-1083"
+  },
+  "title_vi": "CVE-2026-9160 — Việc vô hiệu hóa không đúng cách các thành phần đặc biệt được sử dụng trong lỗ hổng công cụ mẫu trong Arma Digital Media Inc",
+  "key": "037ca50cf6ead523c43fbf446d107ecc1d36f051"
+ },
+ {
   "source": "VietnamPlus Kinh tế số",
   "title": "Lực lượng Houthi áp sát tuyến hàng hải chiến lược",
   "link": "https://www.vietnamplus.vn/luc-luong-houthi-ap-sat-tuyen-hang-hai-chien-luoc-post1135654.vnp",
@@ -1489,7 +2404,7 @@
    "cvss": null,
    "ref": "https://www.hiddenlayer.com/sai-security-advisory/2026-09-mistral-vibe4"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-87986 — Lỗ hổng thực thi mã tùy ý trong Mistral Vibe cho phép kẻ tấn công bỏ qua việc kiểm tra quyền lệnh bằng cách sử dụng cấu trúc shell, đó là trình phân tích cú pháp ca",
   "key": "366bc7de31ebc7ba091f98abbad2a7bd1a71d802"
  },
  {
@@ -1507,7 +2422,7 @@
    "cvss": null,
    "ref": "https://www.hiddenlayer.com/sai-security-advisory/2026-09-mistral-vibe5"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-87987 — Lỗ hổng thực thi mã tùy ý trong Mistral Vibe cho phép kẻ tấn công bỏ qua việc kiểm tra quyền lệnh bằng cách gán biến môi trường",
   "key": "4ab41a69117a188cf0d84ed09083b9a204d8d889"
  },
  {
@@ -1525,7 +2440,7 @@
    "cvss": null,
    "ref": "https://www.hiddenlayer.com/sai-security-advisory/2026-09-mistral-vibe6"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-87988 — Lỗ hổng truy cập tệp tùy ý trong Mistral Vibe cho phép kẻ tấn công vượt qua các hạn chế về không gian làm việc thông qua các lệnh được phân loại là vô điều kiện",
   "key": "5006d1381399d8b763465751ba31d9a45f093b90"
  },
  {
@@ -1543,7 +2458,7 @@
    "cvss": 9.1,
    "ref": "https://docs.wavlink.xyz/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-89009 — Bộ định tuyến WAVLINK WN535M1 và WN535M3 chạy chương trình cơ sở trước M35M1_V250922 chứa lỗ hổng ghi tệp tùy ý không được xác thực cho phép",
   "key": "e36105b39f94dbd6310d736e46dd55a21b1d038b"
  },
  {
@@ -1561,7 +2476,7 @@
    "cvss": 9.8,
    "ref": "https://docs.wavlink.xyz/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-89010 — Bộ định tuyến WAVLINK WN535M1 và WN535M3 chạy chương trình cơ sở trước M35M1_V250922 chứa lỗ hổng chèn lệnh hệ điều hành không được xác thực cho phép",
   "key": "82e2711ada57f164ef5c4751f563e944c3003544"
  },
  {
@@ -1579,7 +2494,7 @@
    "cvss": 7.8,
    "ref": "https://siberguvenlik.gov.tr/guvenlik-bildirimleri/detay/tr-26-1081"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-8301 — Việc vô hiệu hóa không đúng cách các thành phần đặc biệt được sử dụng trong lỗ hổng lệnh hệ điều hành ('chèn lệnh hệ điều hành') trong TUBITAK BILGEM Software Technologies Resea",
   "key": "dfbc5a1ab68337572f6b5e51f2178a3da39238b2"
  },
  {
@@ -1597,7 +2512,7 @@
    "cvss": 7.8,
    "ref": "https://siberguvenlik.gov.tr/guvenlik-bildirimleri/detay/tr-26-1080"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-8303 — Lỗ hổng phân bổ đặc quyền không chính xác trong Viện nghiên cứu công nghệ phần mềm TUBITAK BILGEM Phần mềm Pardus cho phép nâng cao đặc quyền",
   "key": "2ae0e381b7a2e720d8a6e35fb513b991ce2ae58e"
  },
  {
@@ -73152,959 +74067,5 @@
   },
   "title_vi": "",
   "key": "662c333d07019fd5c57822804733cf678d49ff41"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69421 — Integer underflow (wrap or wraparound) in Windows Kernel Mode Driver allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69421",
-  "published": "2026-09-08T18:19:05.250",
-  "summary": "Integer underflow (wrap or wraparound) in Windows Kernel Mode Driver allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69421",
-   "cvss": 7.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69421"
-  },
-  "title_vi": "",
-  "key": "b416c82ce19c09d2e2c3fc802303036f40e0cb79"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69422 — Use after free in Windows USB Video Driver allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69422",
-  "published": "2026-09-08T18:19:05.433",
-  "summary": "Use after free in Windows USB Video Driver allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69422",
-   "cvss": 7.0,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69422"
-  },
-  "title_vi": "",
-  "key": "3fc4d1651f06d66195c5f46b57abffb4508b46ee"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69423 — Heap-based buffer overflow in Windows USB Video Driver allows an authorized attacker to elevate privileges over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69423",
-  "published": "2026-09-08T18:19:05.563",
-  "summary": "Heap-based buffer overflow in Windows USB Video Driver allows an authorized attacker to elevate privileges over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69423",
-   "cvss": 8.0,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69423"
-  },
-  "title_vi": "",
-  "key": "c3383394a1d452053541b0155bb6406962707d7b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69424 — Heap-based buffer overflow in Windows Distributed File System (DFS) allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69424",
-  "published": "2026-09-08T18:19:05.743",
-  "summary": "Heap-based buffer overflow in Windows Distributed File System (DFS) allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69424",
-   "cvss": 7.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69424"
-  },
-  "title_vi": "",
-  "key": "204acdd8d814a4ff18d4e45882a819706bd254ac"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69425 — Improper link resolution before file access ('link following') in Windows NTFS allows an authorized attacker to perform tampering locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69425",
-  "published": "2026-09-08T18:19:05.923",
-  "summary": "Improper link resolution before file access ('link following') in Windows NTFS allows an authorized attacker to perform tampering locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69425",
-   "cvss": 4.7,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69425"
-  },
-  "title_vi": "",
-  "key": "ac042e1e742289d41c9cdde8d59daae20de32167"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69426 — Heap-based buffer overflow in Windows VOLSNAP",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69426",
-  "published": "2026-09-08T18:19:06.050",
-  "summary": "Heap-based buffer overflow in Windows VOLSNAP.SYS allows an authorized attacker to execute code locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69426",
-   "cvss": 7.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69426"
-  },
-  "title_vi": "",
-  "key": "4612bbe3abbe53327b9f0ca4bc2a69720385d22e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69427 — Out-of-bounds read in Windows VOLSNAP",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69427",
-  "published": "2026-09-08T18:19:06.227",
-  "summary": "Out-of-bounds read in Windows VOLSNAP.SYS allows an authorized attacker to elevate privileges over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69427",
-   "cvss": 8.0,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69427"
-  },
-  "title_vi": "",
-  "key": "da47704af92e741e7e1955dd7a09a876280473a8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69428 — Out-of-bounds read in Windows LDAP - Lightweight Directory Access Protocol allows an unauthorized attacker to deny service over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69428",
-  "published": "2026-09-08T18:19:06.407",
-  "summary": "Out-of-bounds read in Windows LDAP - Lightweight Directory Access Protocol allows an unauthorized attacker to deny service over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69428",
-   "cvss": 7.5,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69428"
-  },
-  "title_vi": "",
-  "key": "fc1de7f283d6394efbacb734c1d261b34c359a1f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69429 — Heap-based buffer overflow in Windows IKE Extension allows an authorized attacker to execute code over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69429",
-  "published": "2026-09-08T18:19:06.587",
-  "summary": "Heap-based buffer overflow in Windows IKE Extension allows an authorized attacker to execute code over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69429",
-   "cvss": 7.5,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69429"
-  },
-  "title_vi": "",
-  "key": "57c60d81a95b73b47a881d451c1ae40173de4728"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69430 — Use after free in Windows Embedded Mode Service allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69430",
-  "published": "2026-09-08T18:19:06.750",
-  "summary": "Use after free in Windows Embedded Mode Service allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69430",
-   "cvss": 7.0,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69430"
-  },
-  "title_vi": "",
-  "key": "3b16555b0b88e17a34318f38bd44ecf0ae7fc44a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69431 — Heap-based buffer overflow in Telnet Client allows an unauthorized attacker to execute code over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69431",
-  "published": "2026-09-08T18:19:06.903",
-  "summary": "Heap-based buffer overflow in Telnet Client allows an unauthorized attacker to execute code over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69431",
-   "cvss": 9.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69431"
-  },
-  "title_vi": "",
-  "key": "2f10e56285ac1b01ac3307235db06332d2a18d9d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69432 — Heap-based buffer overflow in Volume Manager Driver allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69432",
-  "published": "2026-09-08T18:19:07.090",
-  "summary": "Heap-based buffer overflow in Volume Manager Driver allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69432",
-   "cvss": 7.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69432"
-  },
-  "title_vi": "",
-  "key": "9b22e0b4eb5a4418fcd26aeb9f6ba5d87e141efe"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69433 — Heap-based buffer overflow in Windows Error Reporting allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69433",
-  "published": "2026-09-08T18:19:07.270",
-  "summary": "Heap-based buffer overflow in Windows Error Reporting allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69433",
-   "cvss": 7.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69433"
-  },
-  "title_vi": "",
-  "key": "438638cb8cdd3387f4b85f79891f9659d1979295"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69434 — Heap-based buffer overflow in Windows URL Moniker allows an unauthorized attacker to execute code over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69434",
-  "published": "2026-09-08T18:19:07.440",
-  "summary": "Heap-based buffer overflow in Windows URL Moniker allows an unauthorized attacker to execute code over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69434",
-   "cvss": 8.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69434"
-  },
-  "title_vi": "",
-  "key": "5a77572a7c1937e37f79fe5a3e59c75dcf26fc8d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69436 — Heap-based buffer overflow in Windows Error Reporting allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69436",
-  "published": "2026-09-08T18:19:07.617",
-  "summary": "Heap-based buffer overflow in Windows Error Reporting allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69436",
-   "cvss": 7.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69436"
-  },
-  "title_vi": "",
-  "key": "7d93d781d4f50a52cdc3dacf427d1e42c65be56f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69438 — Incorrect conversion between numeric types in Microsoft JScript allows an unauthorized attacker to execute code over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69438",
-  "published": "2026-09-08T18:19:07.777",
-  "summary": "Incorrect conversion between numeric types in Microsoft JScript allows an unauthorized attacker to execute code over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69438",
-   "cvss": 8.1,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69438"
-  },
-  "title_vi": "",
-  "key": "06ef3d0272bd02d0f13bbe441ac6e2c1e3084873"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69439 — Heap-based buffer overflow in",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69439",
-  "published": "2026-09-08T18:19:07.960",
-  "summary": "Heap-based buffer overflow in .NET and Visual Studio allows an unauthorized attacker to elevate privileges over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69439",
-   "cvss": 8.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69439"
-  },
-  "title_vi": "",
-  "key": "e0e953e2830f270f3b36d7a39838cbe4e7ec3ee9"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69440 — Time-of-check time-of-use (toctou) race condition in Windows MIDI Service Module allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69440",
-  "published": "2026-09-08T18:19:08.087",
-  "summary": "Time-of-check time-of-use (toctou) race condition in Windows MIDI Service Module allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69440",
-   "cvss": 7.0,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69440"
-  },
-  "title_vi": "",
-  "key": "c7163c9202cf6c39cb2d67b249ca0676c7bb54e3"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69441 — Concurrent execution using shared resource with improper synchronization ('race condition') in Windows Installer allows an authorized attacker to elev",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69441",
-  "published": "2026-09-08T18:19:08.213",
-  "summary": "Concurrent execution using shared resource with improper synchronization ('race condition') in Windows Installer allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69441",
-   "cvss": 7.0,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69441"
-  },
-  "title_vi": "",
-  "key": "fc3ba46e8fc962bf83227efbcf9b6dbb89c8703d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69442 — Heap-based buffer overflow in Microsoft Office allows an unauthorized attacker to execute code over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69442",
-  "published": "2026-09-08T18:19:08.413",
-  "summary": "Heap-based buffer overflow in Microsoft Office allows an unauthorized attacker to execute code over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69442",
-   "cvss": 8.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69442"
-  },
-  "title_vi": "",
-  "key": "e523eb628e991c9036589c1848a143ff48b1bd83"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69443 — Out-of-bounds read in Windows Device Health Attestation (DHA) allows an unauthorized attacker to disclose information over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69443",
-  "published": "2026-09-08T18:19:08.540",
-  "summary": "Out-of-bounds read in Windows Device Health Attestation (DHA) allows an unauthorized attacker to disclose information over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69443",
-   "cvss": 7.5,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69443"
-  },
-  "title_vi": "",
-  "key": "62cecd599b7c0d47b26cc565225926db975aab50"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69444 — Heap-based buffer overflow in Microsoft Windows Speech allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69444",
-  "published": "2026-09-08T18:19:08.667",
-  "summary": "Heap-based buffer overflow in Microsoft Windows Speech allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69444",
-   "cvss": 7.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69444"
-  },
-  "title_vi": "",
-  "key": "f056ac9ce3dd3621ebdee255dcaad527b36ea83b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69445 — Improper limitation of a pathname to a restricted directory ('path traversal') in Windows Compressed Folder allows an authorized attacker to elevate p",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69445",
-  "published": "2026-09-08T18:19:08.830",
-  "summary": "Improper limitation of a pathname to a restricted directory ('path traversal') in Windows Compressed Folder allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69445",
-   "cvss": 7.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69445"
-  },
-  "title_vi": "",
-  "key": "204b99ee2861de1c687e3148db616dfb30cc1975"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69447 — Heap-based buffer overflow in Windows Audio Service allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69447",
-  "published": "2026-09-08T18:19:09.017",
-  "summary": "Heap-based buffer overflow in Windows Audio Service allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69447",
-   "cvss": 7.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69447"
-  },
-  "title_vi": "",
-  "key": "4f0f568068516c60d041e56162e4b01f8ccfb0fc"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69448 — Concurrent execution using shared resource with improper synchronization ('race condition') in Windows Bluetooth Service allows an authorized attacker",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69448",
-  "published": "2026-09-08T18:19:09.140",
-  "summary": "Concurrent execution using shared resource with improper synchronization ('race condition') in Windows Bluetooth Service allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69448",
-   "cvss": 7.0,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69448"
-  },
-  "title_vi": "",
-  "key": "bd3f8b36ea2846d079f19ca0dd0a4792c7f7fe8a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69449 — Heap-based buffer overflow in Windows BitLocker allows an authorized attacker to execute code locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69449",
-  "published": "2026-09-08T18:19:09.280",
-  "summary": "Heap-based buffer overflow in Windows BitLocker allows an authorized attacker to execute code locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69449",
-   "cvss": 6.7,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69449"
-  },
-  "title_vi": "",
-  "key": "9d522afe4124158edc6d0c32c7fac314f0a9896b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69450 — Out-of-bounds read in Windows Error Reporting allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69450",
-  "published": "2026-09-08T18:19:09.457",
-  "summary": "Out-of-bounds read in Windows Error Reporting allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69450",
-   "cvss": 7.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69450"
-  },
-  "title_vi": "",
-  "key": "1ceb691d918bda8b08462bcf3cf88fc2b58f8d31"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69451 — Use after free in Windows Management Instrumentation allows an authorized attacker to elevate privileges over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69451",
-  "published": "2026-09-08T18:19:09.640",
-  "summary": "Use after free in Windows Management Instrumentation allows an authorized attacker to elevate privileges over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69451",
-   "cvss": 7.1,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69451"
-  },
-  "title_vi": "",
-  "key": "b1b5ce956c28410b4e8bd9ee9f31fcf4764e51fa"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69453 — Missing authorization in Microsoft Windows Search Component allows an authorized attacker to perform tampering locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69453",
-  "published": "2026-09-08T18:19:09.820",
-  "summary": "Missing authorization in Microsoft Windows Search Component allows an authorized attacker to perform tampering locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69453",
-   "cvss": 5.5,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69453"
-  },
-  "title_vi": "",
-  "key": "701ef45ab73674f01b071c63898d3ec1f6b857f9"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69455 — Heap-based buffer overflow in Windows Remote Access Connection Manager allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69455",
-  "published": "2026-09-08T18:19:10.000",
-  "summary": "Heap-based buffer overflow in Windows Remote Access Connection Manager allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69455",
-   "cvss": 7.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69455"
-  },
-  "title_vi": "",
-  "key": "33d24862b814acad4916d4f37491b825f74f4e04"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69456 — Heap-based buffer overflow in Microsoft Windows Speech allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69456",
-  "published": "2026-09-08T18:19:10.177",
-  "summary": "Heap-based buffer overflow in Microsoft Windows Speech allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69456",
-   "cvss": 7.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69456"
-  },
-  "title_vi": "",
-  "key": "5aa7b679882b9761c6ce16e2fd15bb9d4661d767"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69457 — Out-of-bounds read in Windows USB Driver allows an authorized attacker to disclose information locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69457",
-  "published": "2026-09-08T18:19:10.340",
-  "summary": "Out-of-bounds read in Windows USB Driver allows an authorized attacker to disclose information locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69457",
-   "cvss": 5.5,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69457"
-  },
-  "title_vi": "",
-  "key": "68d7878d41e8a768352ba539ca998c8d287d3a90"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69458 — Out-of-bounds read in Windows BitLocker allows an authorized attacker to elevate privileges over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69458",
-  "published": "2026-09-08T18:19:10.513",
-  "summary": "Out-of-bounds read in Windows BitLocker allows an authorized attacker to elevate privileges over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69458",
-   "cvss": 8.0,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69458"
-  },
-  "title_vi": "",
-  "key": "222d781f7eacfec35be1b7983764ae26d8e37976"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69459 — Heap-based buffer overflow in Windows Power Dependency Coordinator allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69459",
-  "published": "2026-09-08T18:19:10.693",
-  "summary": "Heap-based buffer overflow in Windows Power Dependency Coordinator allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69459",
-   "cvss": 7.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69459"
-  },
-  "title_vi": "",
-  "key": "7d559168e7ac6d1ce8425cb6d670d72999d0b296"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69460 — Use after free in Windows Modern Device Management (MDM) allows an authorized attacker to elevate privileges over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69460",
-  "published": "2026-09-08T18:19:10.870",
-  "summary": "Use after free in Windows Modern Device Management (MDM) allows an authorized attacker to elevate privileges over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69460",
-   "cvss": 7.1,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69460"
-  },
-  "title_vi": "",
-  "key": "11b9cf9960dcf99c7fd3f1e4dc830a38ae44b808"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69461 — Stack-based buffer overflow in Windows NTFS allows an unauthorized attacker to execute code over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69461",
-  "published": "2026-09-08T18:19:11.027",
-  "summary": "Stack-based buffer overflow in Windows NTFS allows an unauthorized attacker to execute code over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69461",
-   "cvss": 8.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69461"
-  },
-  "title_vi": "",
-  "key": "7b40f0d5d15108863e60e2b5be728d7b47183a62"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69462 — Heap-based buffer overflow in Windows Error Reporting allows an authorized attacker to elevate privileges over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69462",
-  "published": "2026-09-08T18:19:11.200",
-  "summary": "Heap-based buffer overflow in Windows Error Reporting allows an authorized attacker to elevate privileges over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69462",
-   "cvss": 8.0,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69462"
-  },
-  "title_vi": "",
-  "key": "2db72c5e1731ebaac0049576dc0c64bc4cc48f0d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69463 — Heap-based buffer overflow in Windows NTFS allows an unauthorized attacker to execute code over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69463",
-  "published": "2026-09-08T18:19:11.387",
-  "summary": "Heap-based buffer overflow in Windows NTFS allows an unauthorized attacker to execute code over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69463",
-   "cvss": 9.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69463"
-  },
-  "title_vi": "",
-  "key": "eeac296bc19dddc61c991c05372bf9d56b187cae"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69464 — Execution with unnecessary privileges in Microsoft Office SharePoint allows an authorized attacker to elevate privileges over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69464",
-  "published": "2026-09-08T18:19:11.560",
-  "summary": "Execution with unnecessary privileges in Microsoft Office SharePoint allows an authorized attacker to elevate privileges over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69464",
-   "cvss": 8.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69464"
-  },
-  "title_vi": "",
-  "key": "7eedbb03122fd1d38e4fb5a62b81eb747086a3cc"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69465 — Missing authorization in Microsoft Office SharePoint allows an authorized attacker to execute code over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69465",
-  "published": "2026-09-08T18:19:11.693",
-  "summary": "Missing authorization in Microsoft Office SharePoint allows an authorized attacker to execute code over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69465",
-   "cvss": 8.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69465"
-  },
-  "title_vi": "",
-  "key": "6f20b866efff8092fefb225ab4d4da78f45b63a8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69466 — Time-of-check time-of-use (toctou) race condition in Windows Kernel allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69466",
-  "published": "2026-09-08T18:19:11.817",
-  "summary": "Time-of-check time-of-use (toctou) race condition in Windows Kernel allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69466",
-   "cvss": 7.0,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69466"
-  },
-  "title_vi": "",
-  "key": "1add4a5e2a61a91168710a6245bdd17a9ce9faaa"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69467 — Stack-based buffer overflow in Microsoft Graphics Component allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69467",
-  "published": "2026-09-08T18:19:11.997",
-  "summary": "Stack-based buffer overflow in Microsoft Graphics Component allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69467",
-   "cvss": 7.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69467"
-  },
-  "title_vi": "",
-  "key": "f41607bac8e53d65df18b8a5a2cbe33408a13dce"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69468 — Heap-based buffer overflow in Windows Volume Manager Extension Driver allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69468",
-  "published": "2026-09-08T18:19:12.123",
-  "summary": "Heap-based buffer overflow in Windows Volume Manager Extension Driver allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69468",
-   "cvss": 7.0,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69468"
-  },
-  "title_vi": "",
-  "key": "fbe2d595715db5df9166166c8e3cbcdd2f9b595d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69469 — Integer overflow or wraparound in Windows USB Audio Class driver (usbaudio",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69469",
-  "published": "2026-09-08T18:19:12.300",
-  "summary": "Integer overflow or wraparound in Windows USB Audio Class driver (usbaudio.sys) allows an unauthorized attacker to elevate privileges with a physical attack.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69469",
-   "cvss": 6.6,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69469"
-  },
-  "title_vi": "",
-  "key": "82c0fcd7eee75733368642967f9580bf0caeb223"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69470 — Use after free in Windows Connected User Experiences and Telemetry allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69470",
-  "published": "2026-09-08T18:19:12.457",
-  "summary": "Use after free in Windows Connected User Experiences and Telemetry allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69470",
-   "cvss": 7.0,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69470"
-  },
-  "title_vi": "",
-  "key": "5e9b81f2c1572e1d6190d6f8730bd6f8fcb96b36"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69472 — Use after free in Windows Devices Human Interface allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69472",
-  "published": "2026-09-08T18:19:12.610",
-  "summary": "Use after free in Windows Devices Human Interface allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69472",
-   "cvss": 7.0,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69472"
-  },
-  "title_vi": "",
-  "key": "de3a7a552df44265a813d269f6641e40536f1336"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69473 — Use after free in Windows Kernel allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69473",
-  "published": "2026-09-08T18:19:12.777",
-  "summary": "Use after free in Windows Kernel allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69473",
-   "cvss": 7.0,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69473"
-  },
-  "title_vi": "",
-  "key": "0ed420e3a46379a53548e1b2d33a7d47c73bae68"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69474 — Use after free in Windows Overlay Filter allows an authorized attacker to disclose information over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69474",
-  "published": "2026-09-08T18:19:12.960",
-  "summary": "Use after free in Windows Overlay Filter allows an authorized attacker to disclose information over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69474",
-   "cvss": 4.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69474"
-  },
-  "title_vi": "",
-  "key": "2bedcb51930b03c0f522c88ab29fe795c2a3e236"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69475 — Untrusted pointer dereference in Windows Remote Desktop Services allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69475",
-  "published": "2026-09-08T18:19:13.140",
-  "summary": "Untrusted pointer dereference in Windows Remote Desktop Services allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69475",
-   "cvss": 7.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69475"
-  },
-  "title_vi": "",
-  "key": "3100c919924d2e57a0517b485345dffdcb22b601"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69476 — Heap-based buffer overflow in Windows Biometric Service allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69476",
-  "published": "2026-09-08T18:19:13.323",
-  "summary": "Heap-based buffer overflow in Windows Biometric Service allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69476",
-   "cvss": 7.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69476"
-  },
-  "title_vi": "",
-  "key": "dae4fb1ea5613c334c7bf8ed69d651babebfd65d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69477 — Heap-based buffer overflow in Microsoft Office Access allows an authorized attacker to execute code locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69477",
-  "published": "2026-09-08T18:19:13.513",
-  "summary": "Heap-based buffer overflow in Microsoft Office Access allows an authorized attacker to execute code locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69477",
-   "cvss": 7.3,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69477"
-  },
-  "title_vi": "",
-  "key": "ddc41e8c77b9ab88adcf3cfec767d0c00fbf237c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69478 — Heap-based buffer overflow in Windows Device Association Service allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69478",
-  "published": "2026-09-08T18:19:13.650",
-  "summary": "Heap-based buffer overflow in Windows Device Association Service allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69478",
-   "cvss": 7.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69478"
-  },
-  "title_vi": "",
-  "key": "b25a93f4f90ddbed92c8c1d81bce94c72d8df74c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69479 — Heap-based buffer overflow in Windows NTFS allows an unauthorized attacker to execute code locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69479",
-  "published": "2026-09-08T18:19:13.810",
-  "summary": "Heap-based buffer overflow in Windows NTFS allows an unauthorized attacker to execute code locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69479",
-   "cvss": 8.4,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69479"
-  },
-  "title_vi": "",
-  "key": "2430774f08927223fa8e7c167cb73ef7232627df"
  }
 ]
