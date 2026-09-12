@@ -1,5 +1,853 @@
 [
  {
+  "source": "CISA KEV",
+  "title": "CVE-2019-15107 — Webmin Command Injection Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-15107",
+  "published": "2022-03-25",
+  "summary": "An issue was discovered in Webmin. The parameter old in password_change.cgi contains a command injection vulnerability.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-15107",
+   "vendor": "Webmin",
+   "product": "Webmin",
+   "due_date": "2022-04-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2019-15107 — Lỗ hổng Webmin Command Injection",
+  "key": "8ca020992f58cf8a0a94d03756092856241afe53"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-12991 — Citrix SD-WAN and NetScaler Command Injection Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-12991",
+  "published": "2022-03-25",
+  "summary": "Authenticated Command Injection in Citrix SD-WAN Appliance and NetScaler SD-WAN Appliance.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-12991",
+   "vendor": "Citrix",
+   "product": "SD-WAN and NetScaler",
+   "due_date": "2022-04-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2019-12991 — Lỗ hổng Citrix SD-WAN và NetScaler Command Injection",
+  "key": "052da1bb2a45b57fdb3a50fcc347bb1a5da80a13"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-12989 — Citrix SD-WAN and NetScaler SQL Injection Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-12989",
+  "published": "2022-03-25",
+  "summary": "Citrix SD-WAN and NetScaler SD-WAN allow SQL Injection.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-12989",
+   "vendor": "Citrix",
+   "product": "SD-WAN and NetScaler",
+   "due_date": "2022-04-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2019-12989 — Lỗ hổng Citrix SD-WAN và NetScaler SQL Injection",
+  "key": "0baf6ed6c0cd9edc209c62531870c4ba69a3ca06"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-11043 — PHP FastCGI Process Manager (FPM) Buffer Overflow Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-11043",
+  "published": "2022-03-25",
+  "summary": "In some versions of PHP in certain configurations of FPM setup, it is possible to cause FPM module to write past allocated buffers allowing the possibility of remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-11043",
+   "vendor": "PHP",
+   "product": "FastCGI Process Manager (FPM)",
+   "due_date": "2022-04-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2019-11043 — Lỗ hổng tràn bộ đệm PHP FastCGI Process Manager (FPM)",
+  "key": "d0a54fd367dd8d79c36ecfd610f3276bdb67d1eb"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-10068 — Kentico Xperience Deserialization of Untrusted Data Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-10068",
+  "published": "2022-03-25",
+  "summary": "Kentico contains a failure to validate security headers. This deserialization can led to unauthenticated remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-10068",
+   "vendor": "Kentico",
+   "product": "Xperience",
+   "due_date": "2022-04-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2019-10068 - Kentico Xperience Deserialization về lỗ hổng dữ liệu không đáng tin cậy",
+  "key": "c7045b3a60cd34ad14a1791f2306ce8e51a9ac86"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-1003030 — Jenkins Matrix Project Plugin Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-1003030",
+  "published": "2022-03-25",
+  "summary": "Jenkins Matrix Project plugin contains a vulnerability which can allow users to escape the sandbox, opening opportunity to perform remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-1003030",
+   "vendor": "Jenkins",
+   "product": "Matrix Project Plugin",
+   "due_date": "2022-04-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2019-1003030 — Lỗ hổng thực thi mã từ xa của dự án ma trận Jenkins",
+  "key": "a6d18514b7ded0b2c0a9aea656f47a49ac87d9f7"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-0903 — Microsoft GDI Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-0903",
+  "published": "2022-03-25",
+  "summary": "A remote code execution vulnerability exists in the way that the Windows Graphics Device Interface (GDI) handles objects in the memory. An attacker who successfully exploited this vulnerability could take control of the affected system.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-0903",
+   "vendor": "Microsoft",
+   "product": "Graphics Device Interface (GDI)",
+   "due_date": "2022-04-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2019-0903 — Lỗ hổng thực thi mã từ xa Microsoft GDI",
+  "key": "2bf86fd1091e0c62423a32cb7d3aa88b6f6c23dc"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2018-8414 — Microsoft Windows Shell Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-8414",
+  "published": "2022-03-25",
+  "summary": "A remote code execution vulnerability exists when the Windows Shell does not properly validate file paths.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2018-8414",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2022-04-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2018-8414 — Lỗ hổng thực thi mã từ xa Microsoft Windows Shell",
+  "key": "e2dd5f958927dc47ab5b3f7406b4bbfa533593c7"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2018-8373 — Microsoft Scripting Engine Memory Corruption Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-8373",
+  "published": "2022-03-25",
+  "summary": "A remote code execution vulnerability exists in the way that the scripting engine handles objects in memory in Internet Explorer.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2018-8373",
+   "vendor": "Microsoft",
+   "product": "Internet Explorer Scripting Engine",
+   "due_date": "2022-04-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2018-8373 — Lỗ hổng bộ nhớ Microsoft Scripting Engine Corruption",
+  "key": "bfbd92dffdb7abf32262663119b2a0892ecf184c"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2018-6961 — VMware SD-WAN Edge by VeloCloud Command Injection Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-6961",
+  "published": "2022-03-25",
+  "summary": "VMware SD-WAN Edge by VeloCloud contains a command injection vulnerability in the local web UI component. Successful exploitation of this issue could result in remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2018-6961",
+   "vendor": "VMware",
+   "product": "SD-WAN Edge",
+   "due_date": "2022-04-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2018-6961 — VMware SD-WAN Edge by VeloCloud Command Injection Lỗ hổng bảo mật",
+  "key": "c844fe0ae22ca30b5b3d6f83ae16e3132ff02412"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2018-14839 — LG N1A1 NAS Remote Command Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-14839",
+  "published": "2022-03-25",
+  "summary": "LG N1A1 NAS 3718.510 is affected by a remote code execution vulnerability.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2018-14839",
+   "vendor": "LG",
+   "product": "N1A1 NAS",
+   "due_date": "2022-04-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2018-14839 — Lỗ hổng thực thi lệnh từ xa NAS của LG N1A1",
+  "key": "f029d0704f80d28ca9fb66aa3486001940f2fbe4"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2018-1273 — VMware Tanzu Spring Data Commons Property Binder Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-1273",
+  "published": "2022-03-25",
+  "summary": "Spring Data Commons contains a property binder vulnerability which can allow an attacker to perform remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2018-1273",
+   "vendor": "VMware Tanzu",
+   "product": "Spring Data Commons",
+   "due_date": "2022-04-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2018-1273 — Lỗ hổng VMware Tanzu Spring Data Commons Property Binder",
+  "key": "5f862ad89e727b0d699f158d343a36c24ce9785a"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2018-11138 — Quest KACE System Management Appliance Remote Command Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-11138",
+  "published": "2022-03-25",
+  "summary": "The '/common/download_agent_installer.php' script in the Quest KACE System Management Appliance is accessible by anonymous users and can be abused to perform remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2018-11138",
+   "vendor": "Quest",
+   "product": "KACE System Management Appliance",
+   "due_date": "2022-04-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2018-11138 - Lỗ hổng thực thi lệnh từ xa trong thiết bị quản lý hệ thống Quest KACE",
+  "key": "de39a06e2b977a45436ce568e0fe30054c36c274"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2018-0147 — Cisco Secure Access Control System Java Deserialization Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-0147",
+  "published": "2022-03-25",
+  "summary": "A vulnerability in Java deserialization used by Cisco Secure Access Control System (ACS) could allow an unauthenticated, remote attacker to execute arbitrary commands on an affected device. The vulnerability is due to insecure deserialization of user-supplied content by the affected software.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2018-0147",
+   "vendor": "Cisco",
+   "product": "Secure Access Control System (ACS)",
+   "due_date": "2022-04-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2018-0147 - Lỗ hổng hệ thống kiểm soát truy cập an toàn của Cisco Java Deserialization",
+  "key": "fe7b8b96a543493360486f59125295c8d21cda15"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2018-0125 — Cisco VPN Routers Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-0125",
+  "published": "2022-03-25",
+  "summary": "A vulnerability in the web interface of the Cisco VPN Routers could allow an unauthenticated, remote attacker to execute arbitrary code as root and gain full control of an affected system.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2018-0125",
+   "vendor": "Cisco",
+   "product": "VPN Routers",
+   "due_date": "2022-04-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2018-0125 — Lỗ hổng thực thi mã từ xa của Cisco VPN Router",
+  "key": "f71ce1c39eb906be48d2fb33dc9db740ae6da01c"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2017-6334 — NETGEAR DGN2200 Devices OS Command Injection Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-6334",
+  "published": "2022-03-25",
+  "summary": "dnslookup.cgi on NETGEAR DGN2200 devices with firmware through 10.0.0.50 allows remote authenticated users to execute arbitrary OS commands",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2017-6334",
+   "vendor": "NETGEAR",
+   "product": "DGN2200 Devices",
+   "due_date": "2022-04-15",
+   "required_action": "The impacted product is end-of-life and should be disconnected if still in use."
+  },
+  "title_vi": "CVE-2017-6334 — Lỗ hổng NETGEAR DGN2200 Devices OS Command Injection",
+  "key": "9e18fd866d63bf78cd6971ff65f02304f5199092"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2017-6316 — Citrix Multiple Products Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-6316",
+  "published": "2022-03-25",
+  "summary": "A vulnerability has been identified in the management interface of Citrix NetScaler SD-WAN Enterprise and Standard Edition and Citrix CloudBridge Virtual WAN Edition that could result in an unauthenticated, remote attacker being able to execute arbitrary code as a root user. This vulnerability also affects XenMobile Server.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2017-6316",
+   "vendor": "Citrix",
+   "product": "NetScaler SD-WAN Enterprise, CloudBridge Virtual WAN, and XenMobile Server",
+   "due_date": "2022-04-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2017-6316 — Lỗ hổng thực thi mã từ xa nhiều sản phẩm Citrix",
+  "key": "934b92d7148bc8b8b4e0f11999d2a5917d126fd8"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2017-3881 — Cisco IOS and IOS XE Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-3881",
+  "published": "2022-03-25",
+  "summary": "A vulnerability in the Cisco Cluster Management Protocol (CMP) processing code in Cisco IOS and Cisco IOS XE Software could allow an unauthenticated, remote attacker to cause a reload of an affected device or remotely execute code with elevated privileges.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2017-3881",
+   "vendor": "Cisco",
+   "product": "IOS and IOS XE",
+   "due_date": "2022-04-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2017-3881 — Lỗ hổng thực thi mã từ xa Cisco IOS VÀ IOS XE",
+  "key": "7b8f3f8a68cd724f6f16af6d051d412f70f00837"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2017-12617 — Apache Tomcat Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-12617",
+  "published": "2022-03-25",
+  "summary": "When running Apache Tomcat, it is possible to upload a JSP file to the server via a specially crafted request. This JSP could then be requested and any code it contained would be executed by the server.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2017-12617",
+   "vendor": "Apache",
+   "product": "Tomcat",
+   "due_date": "2022-04-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2017-12617 — Lỗ hổng thực thi mã từ xa Apache Tomcat",
+  "key": "55ef142f05a55b43cf0cbb101d51f910c1649e8a"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2017-12615 — Apache Tomcat on Windows Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-12615",
+  "published": "2022-03-25",
+  "summary": "When running Apache Tomcat on Windows with HTTP PUTs enabled, it is possible to upload a JSP file to the server via a specially crafted request. This JSP could then be requested and any code it contained would be executed by the server.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2017-12615",
+   "vendor": "Apache",
+   "product": "Tomcat",
+   "due_date": "2022-04-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2017-12615 — Apache Tomcat về Lỗ hổng Thực thi Mã Từ xa của Windows",
+  "key": "b0d8c556eb66e83c98001a977f92378edb32b13a"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2017-0146 — Microsoft Windows SMB Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-0146",
+  "published": "2022-03-25",
+  "summary": "The SMBv1 server in Microsoft Windows allows remote attackers to perform remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2017-0146",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2022-04-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2017-0146 — Lỗ hổng thực thi mã từ xa Microsoft Windows SMB",
+  "key": "1b4fe98f9bcb12e44d262a8d3e3001d25fc3b1da"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2016-7892 — Adobe Flash Player Use-After-Free Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2016-7892",
+  "published": "2022-03-25",
+  "summary": "Adobe Flash Player has an exploitable use-after-free vulnerability in the TextField class.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2016-7892",
+   "vendor": "Adobe",
+   "product": "Flash Player",
+   "due_date": "2022-04-15",
+   "required_action": "The impacted product is end-of-life and should be disconnected if still in use."
+  },
+  "title_vi": "CVE-2016-7892 - Lỗ hổng sử dụng Adobe Flash Player sau khi miễn phí",
+  "key": "98fcd26e0d67a3d990c63d6b7193ac0ed48b4ff2"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2016-4171 — Adobe Flash Player Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2016-4171",
+  "published": "2022-03-25",
+  "summary": "Unspecified vulnerability in Adobe Flash Player allows for remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2016-4171",
+   "vendor": "Adobe",
+   "product": "Flash Player",
+   "due_date": "2022-04-15",
+   "required_action": "The impacted product is end-of-life and should be disconnected if still in use."
+  },
+  "title_vi": "CVE-2016-4171 — Lỗ hổng thực thi mã từ xa Adobe Flash Player",
+  "key": "cff40dd0c1b9f2baba2c39c1dbe4bc3dcf8feaeb"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2016-1555 — NETGEAR Multiple WAP Devices Command Injection Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2016-1555",
+  "published": "2022-03-25",
+  "summary": "Multiple NETGEAR Wireless Access Point devices allows unauthenticated web pages to pass form input directly to the command-line interface. Exploitation allows for arbitrary code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2016-1555",
+   "vendor": "NETGEAR",
+   "product": "Wireless Access Point (WAP) Devices",
+   "due_date": "2022-04-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2016-1555 — Lỗ hổng NETGEAR Multiple WAP Devices Command Injection",
+  "key": "2862cade2aeee406d9e33234297476a307dc1e1b"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2016-11021 — D-Link DCS-930L Devices OS Command Injection Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2016-11021",
+  "published": "2022-03-25",
+  "summary": "setSystemCommand on D-Link DCS-930L devices allows a remote attacker to execute code via an OS command.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2016-11021",
+   "vendor": "D-Link",
+   "product": "DCS-930L Devices",
+   "due_date": "2022-04-15",
+   "required_action": "The impacted product is end-of-life and should be disconnected if still in use."
+  },
+  "title_vi": "CVE-2016-11021 — Lỗ hổng D-Link DCS-930L Devices OS Command Injection",
+  "key": "12d353b594bfe26eefd456ddcaea73e13b2fdf1d"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2016-10174 — NETGEAR WNR2000v5 Router Buffer Overflow Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2016-10174",
+  "published": "2022-03-25",
+  "summary": "The NETGEAR WNR2000v5 router contains a buffer overflow which can be exploited to achieve remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2016-10174",
+   "vendor": "NETGEAR",
+   "product": "WNR2000v5 Router",
+   "due_date": "2022-04-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2016-10174 — Lỗ hổng tràn bộ đệm bộ định tuyến NETGEAR WNR2000V5",
+  "key": "9189b9432a89fbb9395c56b11b833e7f7acbef5c"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2016-0752 — Ruby on Rails Directory Traversal Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2016-0752",
+  "published": "2022-03-25",
+  "summary": "Directory traversal vulnerability in Action View in Ruby on Rails allows remote attackers to read arbitrary files.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2016-0752",
+   "vendor": "Rails",
+   "product": "Ruby on Rails",
+   "due_date": "2022-04-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2016-0752 - Lỗ hổng bảo mật truy cập thư mục Ruby on Rails",
+  "key": "87ec2bbf025d803823242d147c3b9f6153f00a3f"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2015-4068 — Arcserve Unified Data Protection (UDP) Directory Traversal Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2015-4068",
+  "published": "2022-03-25",
+  "summary": "Directory traversal vulnerability in Arcserve UDP allows remote attackers to obtain sensitive information or cause a denial of service.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2015-4068",
+   "vendor": "Arcserve",
+   "product": "Unified Data Protection (UDP)",
+   "due_date": "2022-04-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2015-4068 — Arcserve Unified Data Protection (UDP) Directory Lỗ hổng bảo mật đường truyền",
+  "key": "54fb30a8e992b43e6ca831ba6382b2e3389ab940"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2015-3035 — TP-Link Multiple Archer Devices Directory Traversal Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2015-3035",
+  "published": "2022-03-25",
+  "summary": "Directory traversal vulnerability in multiple TP-Link Archer devices allows remote attackers to read arbitrary files via a .. (dot dot) in the PATH_INFO to login/.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2015-3035",
+   "vendor": "TP-Link",
+   "product": "Multiple Archer Devices",
+   "due_date": "2022-04-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2015-3035 — TP-Link Multiple Archer Devices Directory Lỗ hổng Traversal",
+  "key": "b0c267e221b646ce3c3fb52f6ac658ab9cfb9842"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2015-1427 — Elasticsearch Groovy Scripting Engine Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2015-1427",
+  "published": "2022-03-25",
+  "summary": "The Groovy scripting engine in Elasticsearch allows remote attackers to bypass the sandbox protection mechanism and execute arbitrary shell commands.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2015-1427",
+   "vendor": "Elastic",
+   "product": "Elasticsearch",
+   "due_date": "2022-04-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2015-1427 — Lỗ hổng thực thi mã từ xa của Elasticsearch Groovy Scripting Engine",
+  "key": "1fad63fd45569125f78d883938aceadfca1b4db6"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2015-1187 — D-Link and TRENDnet Multiple Devices Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2015-1187",
+  "published": "2022-03-25",
+  "summary": "The ping tool in multiple D-Link and TRENDnet devices allow remote attackers to perform remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2015-1187",
+   "vendor": "D-Link and TRENDnet",
+   "product": "Multiple Devices",
+   "due_date": "2022-04-15",
+   "required_action": "The impacted product is end-of-life and should be disconnected if still in use."
+  },
+  "title_vi": "CVE-2015-1187 — Lỗ hổng thực thi mã từ xa trên nhiều thiết bị D-Link và TRENDnet",
+  "key": "e6ac283b3d5eaa225fb86a5c02fe47a7179037b3"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2015-0666 — Cisco Prime Data Center Network Manager (DCNM) Directory Traversal Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2015-0666",
+  "published": "2022-03-25",
+  "summary": "Directory traversal vulnerability in the fmserver servlet in Cisco Prime Data Center Network Manager (DCNM) allows remote attackers to read arbitrary files.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2015-0666",
+   "vendor": "Cisco",
+   "product": "Prime Data Center Network Manager (DCNM)",
+   "due_date": "2022-04-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2015-0666 - Cisco Prime Data Center Network Manager (DCNM) Directory Traversal Vulnerability (CVE-2015-0666 - Lỗ hổng di chuyển thư mục của Cisco Prime Data Center Network Manager (DCNM))",
+  "key": "9c8c428e58de838b2c024e7927d2d443422df0b9"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2014-6332 — Microsoft Windows Object Linking & Embedding (OLE) Automation Array Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2014-6332",
+  "published": "2022-03-25",
+  "summary": "OleAut32.dll in OLE in Microsoft Windows allows remote attackers to remotely execute code via a crafted web site.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2014-6332",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2022-04-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2014-6332 — Lỗ hổng thực thi mã từ xa của mảng tự động hóa Microsoft Windows Object Linking & Embedding (OLE)",
+  "key": "ea1147fd9b136bd6ca201201fa64c07882333c79"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2014-6324 — Microsoft Kerberos Key Distribution Center (KDC) Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2014-6324",
+  "published": "2022-03-25",
+  "summary": "The Kerberos Key Distribution Center (KDC) in Microsoft allows remote authenticated domain users to obtain domain administrator privileges.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2014-6324",
+   "vendor": "Microsoft",
+   "product": "Kerberos Key Distribution Center (KDC)",
+   "due_date": "2022-04-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2014-6324 — Lỗ hổng leo thang đặc quyền của Trung tâm phân phối chính Microsoft Kerberos (KDC)",
+  "key": "d2d180f8f5be4484fccaad867a1d6115a41dcdb1"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2014-6287 — Rejetto HTTP File Server (HFS) Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2014-6287",
+  "published": "2022-03-25",
+  "summary": "The findMacroMarker function in parserLib.pas in Rejetto HTTP File Server (HFS or HttpFileServer) allows remote attackers to execute arbitrary programs.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2014-6287",
+   "vendor": "Rejetto",
+   "product": "HTTP File Server (HFS)",
+   "due_date": "2022-04-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2014-6287 — Lỗ hổng thực thi mã từ xa Rejetto http File Server (HFS)",
+  "key": "f80a11f6e4750d55a5d72a3a514bc7b30723b18c"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2014-3120 — Elasticsearch Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2014-3120",
+  "published": "2022-03-25",
+  "summary": "Elasticsearch enables dynamic scripting, which allows remote attackers to execute arbitrary MVEL expressions and Java code.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2014-3120",
+   "vendor": "Elastic",
+   "product": "Elasticsearch",
+   "due_date": "2022-04-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2014-3120 — Lỗ hổng thực thi mã từ xa Elasticsearch",
+  "key": "934f3aeb871edde00b1a07a257ed08cf131fd632"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2014-0130 — Ruby on Rails Directory Traversal Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2014-0130",
+  "published": "2022-03-25",
+  "summary": "Directory traversal vulnerability in actionpack/lib/abstract_controller/base.rb in the implicit-render implementation in Ruby on Rails allows remote attackers to read arbitrary files via a crafted request.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2014-0130",
+   "vendor": "Rails",
+   "product": "Ruby on Rails",
+   "due_date": "2022-04-15",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2014-0130 — Lỗ hổng Traversal trong thư mục Ruby on Rails",
+  "key": "8e92986ed0cb66a7dbd660a9640831da632227e8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-90556 — Freeciv versions before 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90556",
+  "published": "2026-09-12T18:16:44.193",
+  "summary": "Freeciv versions before 3.2.6 contain a heap buffer overflow in worklist_load() when processing savegame files with declared worklist lengths exceeding the fixed array bound of 64 elements. Attackers can craft malicious savegame files that write past the entries array into adjacent heap-allocated struct fields, potentially corrupting memory when a user or server operator loads the file.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-90556",
+   "cvss": 7.8,
+   "ref": "https://github.com/freeciv/freeciv"
+  },
+  "title_vi": "CVE-2026-90556 — Phiên bản Freeciv trước 3",
+  "key": "36af63b965fcc6cb125bbed79a872e015daf574f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-90557 — Freeciv versions 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90557",
+  "published": "2026-09-12T18:16:44.343",
+  "summary": "Freeciv versions 3.1.0 through 3.2.5 contain an out-of-bounds read vulnerability in sg_load_player_unit() when processing savegame files with invalid unit activity indices. An attacker can craft a malicious savegame file with an out-of-range activity index that bypasses bounds checking and causes a crash or limited heap memory exposure when loaded.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-90557",
+   "cvss": 6.1,
+   "ref": "https://github.com/freeciv/freeciv"
+  },
+  "title_vi": "CVE-2026-90557 — Freeciv phiên bản 3",
+  "key": "90360a77cf1ad2b9cb01ab13b594a382d6e92753"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-90558 — sngrep through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90558",
+  "published": "2026-09-12T18:16:44.587",
+  "summary": "sngrep through 1.8.4 contains stack buffer overflow vulnerabilities in SIP attribute formatting routines when header values exceed the 255-byte buffer limit. Attackers can craft malicious SIP packets with oversized Call-ID, X-Call-ID, or other header fields to overflow stack buffers and cause crashes or execute arbitrary code during packet parsing and rendering.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-90558",
+   "cvss": 9.8,
+   "ref": "https://github.com/irontec/sngrep"
+  },
+  "title_vi": "CVE-2026-90558 — sngrep thông qua 1",
+  "key": "43d5ee0c848a645e1b883487ef73a99af6fce975"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-90559 — snappy-java through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90559",
+  "published": "2026-09-12T18:16:44.743",
+  "summary": "snappy-java through 1.1.10.8 contains an out-of-bounds write vulnerability in Snappy.uncompress(ByteBuffer, ByteBuffer) because destination buffer capacity is never validated against decompressed size. Attackers can supply valid compressed data that decompresses larger than the destination buffer, causing writes past buffer boundaries and JVM termination.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-90559",
+   "cvss": 7.5,
+   "ref": "https://github.com/xerial/snappy-java"
+  },
+  "title_vi": "CVE-2026-90559 — snappy-java đến 1",
+  "key": "6bab1933eaaa5a51624a54671ca229c84b23a111"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-90560 — zstd-jni versions 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90560",
+  "published": "2026-09-12T18:16:44.890",
+  "summary": "zstd-jni versions 1.2.0 through 1.5.7-13 contain an out-of-bounds read vulnerability in the ZstdDictDecompress constructor because offset and length arguments are never validated against the dictionary array bounds. Attackers can supply arbitrary offset or length values to read memory past the end of the supplied array, potentially causing JVM termination.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-90560",
+   "cvss": 8.2,
+   "ref": "https://github.com/luben/zstd-jni"
+  },
+  "title_vi": "CVE-2026-90560 — zstd-jni phiên bản 1",
+  "key": "fc2590908627b8a667079cc4c8199debe25431d8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-90616 — In Flatpak before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90616",
+  "published": "2026-09-12T20:16:30.957",
+  "summary": "In Flatpak before 1.18.1, a malicious sandboxed app can obtain arbitrary read and write access to files on the host, which can be escalated to arbitrary code execution on the host, a different vulnerability than CVE-2026-76925. Flatpak creates a few app data directories (e.g., /var/cache, /var/data, /var/config, and /var/tmp) in every sandbox on every app launch where, in some cases, components of the path are attacker-controlled. Missing symlink protection can redirect the directories. Some of these directories are bind-mounted by Flatpak by passing the path (e.g., /home/user/.var/app/APP_ID/",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-90616",
+   "cvss": 7.4,
+   "ref": "https://github.com/flatpak/flatpak/security/advisories/GHSA-8688-9x26-hhxj"
+  },
+  "title_vi": "CVE-2026-90616 — Trong Flatpak trước 1",
+  "key": "87373679d23d67b697a32c76c3c0c933954d4e64"
+ },
+ {
   "source": "Tuổi Trẻ Công nghệ",
   "title": "CEO Anthropic kêu gọi phát triển AI chậm lại, ưu tiên phòng ngừa rủi ro",
   "link": "https://tuoitre.vn/ceo-anthropic-keu-goi-phat-trien-ai-cham-lai-uu-tien-phong-ngua-rui-ro-10026091221583951.htm",
@@ -14742,7 +15590,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/78b95c571d021391153a5ac7981e9e4d5cc856a3"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-89727 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: KVM: ARM64: GICv2: Không CẢNH BÁO trên GICV_DIR INTID vgic_v2_deactivate ngoài phạm vi ()",
   "key": "58ba342236246e94ec96291ce3dfc27c0aaec131"
  },
  {
@@ -14760,7 +15608,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/50dec95c9d1f1f82819bc898ef2b60fa83fd4ccd"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-89728 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: i3c: renesas: Khắc phục truy cập ngoài giới hạn cho mặt nạ newdevs Khi phần mềm khởi tạo DA",
   "key": "5296dd8e806a96364b81c968af48e72fa634d910"
  },
  {
@@ -14778,7 +15626,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/9f43499ce6458a572b781f6bb46c464ab59fa825"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-89729 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: HID: sensor-hub: Fix out-of-bounds write in sensor_hub_get_feature sensor_hub_get_",
   "key": "0d4e3d4997775bcad00f38eb01f85b1b7258cf36"
  },
  {
@@ -14796,7 +15644,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/4dc1051939e499c838229af035464a5fc7671198"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-89730 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: fpga: altera-cvp: Tránh đọc vượt quá giới hạn trong ghi byte theo sau Byt theo sau",
   "key": "eb030819a81d47f94c51c9cae6534e54d7e4bf83"
  },
  {
@@ -14814,7 +15662,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/29458e62d0829cbc99435f3e44fd560f9bbf1da7"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-89731 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: cxl/ras: Fix cxl_rch_get_aer_info() out-of-bounds AER register read cxl_rch_get_ae",
   "key": "2868bf32b8c9cc22820dba6493f4c1262c52eb51"
  },
  {
@@ -14832,7 +15680,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/34e88f53614640b59039a46717fb6142e9871022"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-89732 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: usb: gadget: f_fs: Ngăn chặn bế tắc trong vòng lặp đọc ep0 Hiện tại, ffs_ep0_read()",
   "key": "d3817eba5bb18c5310fe0af34f31487a1deb9ef8"
  },
  {
@@ -14850,7 +15698,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/38f822ddce9355893d734279a26ddec45182197e"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-89733 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: usb: gadget: uvc: sửa các con trỏ treo lủng lẳng trong uvc_function_bind() và uvc_function_un",
   "key": "f35caa1d234433c902d9cbddf5975798c297fb81"
  },
  {
@@ -14868,7 +15716,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/5b1da38592efdc1a263d4c0353298cba19e9d6fc"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-89734 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: usb: gadget: uvc: Fix null pointer dereference in uvcg_video_init() Trong uvcg_video_",
   "key": "f72f3d2b64ce7de44988ef40ebbc8743cc08c3a2"
  },
  {
@@ -14887,7 +15735,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0f6bffb5008f0cba9cad5ded2caccc64466a6e54"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-89735 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: usb: gadget: midi2: remove default configfs groups on teardown f_midi2_alloc_inst(",
   "key": "fd5d68a8e0f98fb68da13f8043d8741f9782f986"
  },
  {
@@ -14905,7 +15753,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/4e747c864a88537e18b1ffc19a1954c9686bb8e1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-89736 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: usb: gadget: u_audio: Fix use-after-free on sound card disconnect g_audio_cleanup(",
   "key": "10b62e54508dc1962acac7f5c35699cc259f1ffd"
  },
  {
@@ -14923,7 +15771,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0a25484fe22f621e151367a59a82330a22ac80bc"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-89737 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: usb: typec: thunderbolt: Vô hiệu hóa công việc trước khi giải phóng tbt khi xóa tbt_altmode_rem",
   "key": "7c2c85bd2f52396ae42ff32c245a17fae5933d7c"
  },
  {
@@ -14942,7 +15790,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/51a311eb97e91ce1aed3005cb71ccb2e30f8cce8"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-89738 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: usb: gadget: at91_udc: drain polled-VBUS timer/work before udc is freed In polled-",
   "key": "e10e548a9aa37c6d80801d25f0ec2095950ea6ea"
  },
  {
@@ -14960,7 +15808,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/448e95c0f3eaa8d99f16ccae92ab94545f14413b"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-89739 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: usb: dwc3: gadget: Fix use-after-free in dwc3_gadget_free_endpoints due to race co",
   "key": "04019377945f4ff88af007e7e2a391c29adb4825"
  },
  {
@@ -14978,7 +15826,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/28b932202fcdbeb2ef58d89ce4363f480433c234"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-89740 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: serial: imx: serialize imx_uart_ports[] lifetime imx_uart_probe() publishes its de",
   "key": "d37840f7db9543dc4516cce00073d3df892e67df"
  },
  {
@@ -14996,7 +15844,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/712ca1cf756de2557a116e0df55791bac0c9f99e"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-89741 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: Hoàn nguyên \"media: v4l2-dev: fix error handling in __video_register_device()\" Phiên bản này",
   "key": "68180a82ed706d5385fdc3fce711e4f58716cd65"
  },
  {
@@ -15014,7 +15862,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/211c68d817a3d9dc14c0026a59da7cac30f8147e"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-89742 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: rapidio: mport_cdev: fix use-after-free in dma_req_free() dma_req_free() acquires",
   "key": "e39097f5301061556acec9ee179eaa3e329308ca"
  },
  {
@@ -15032,7 +15880,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/29e634a18957acda11383a15ab98a91c4ae9e294"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-89743 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: misc: nsm: ràng buộc độ dài phản hồi được báo cáo trên thiết bị nsm_sendrecv_msg_locked() sto",
   "key": "5464caf6a526c9245b911e8194e06970b2cdd3e0"
  },
  {
@@ -73085,866 +73933,5 @@
   },
   "title_vi": "",
   "key": "5a140ae6c5290ff6aeefee27514839f32abd4ee5"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2019-7483 — SonicWall SMA100 Directory Traversal Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-7483",
-  "published": "2022-03-28",
-  "summary": "In SonicWall SMA100, an unauthenticated Directory Traversal vulnerability in the handleWAFRedirect CGI allows the user to test for the presence of a file on the server.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2019-7483",
-   "vendor": "SonicWall",
-   "product": "SMA100",
-   "due_date": "2022-04-18",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "9ed688a8277f896a48654f206643bd1a7a03d61e"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2018-8440 — Microsoft Windows Privilege Escalation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-8440",
-  "published": "2022-03-28",
-  "summary": "An elevation of privilege vulnerability exists when Windows improperly handles calls to Advanced Local Procedure Call (ALPC).",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2018-8440",
-   "vendor": "Microsoft",
-   "product": "Windows",
-   "due_date": "2022-04-18",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "d9317e3a808e593991d89d5b155b8668cd6dbe26"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2018-8406 — Microsoft DirectX Graphics Kernel Privilege Escalation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-8406",
-  "published": "2022-03-28",
-  "summary": "An elevation of privilege vulnerability exists when the DirectX Graphics Kernel (DXGKRNL) driver improperly handles objects in memory.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2018-8406",
-   "vendor": "Microsoft",
-   "product": "DirectX Graphics Kernel (DXGKRNL)",
-   "due_date": "2022-04-18",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "8119b09674f952f8d1a38a795d0584c9d496f900"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2018-8405 — Microsoft DirectX Graphics Kernel Privilege Escalation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-8405",
-  "published": "2022-03-28",
-  "summary": "An elevation of privilege vulnerability exists when the DirectX Graphics Kernel (DXGKRNL) driver improperly handles objects in memory.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2018-8405",
-   "vendor": "Microsoft",
-   "product": "DirectX Graphics Kernel (DXGKRNL)",
-   "due_date": "2022-04-18",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "15e1f3a7b1df8e2212d4b5fe97eb715460f35d9b"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2017-0213 — Microsoft Windows Privilege Escalation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-0213",
-  "published": "2022-03-28",
-  "summary": "Microsoft Windows COM Aggregate Marshaler allows for privilege escalation when an attacker runs a specially crafted application.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2017-0213",
-   "vendor": "Microsoft",
-   "product": "Windows",
-   "due_date": "2022-04-18",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "585da86e697ce22b0795029e2a620d55cbd8e3a9"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2017-0059 — Microsoft Internet Explorer Information Disclosure Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-0059",
-  "published": "2022-03-28",
-  "summary": "Microsoft Internet Explorer allow remote attackers to obtain sensitive information from process memory via a crafted web site.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2017-0059",
-   "vendor": "Microsoft",
-   "product": "Internet Explorer",
-   "due_date": "2022-04-18",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "4f3e09e770f02e6e32f5f90d3ff8db0346a3c751"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2017-0037 — Microsoft Edge and Internet Explorer Type Confusion Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-0037",
-  "published": "2022-03-28",
-  "summary": "Microsoft Edge and Internet Explorer have a type confusion vulnerability in mshtml.dll, which allows remote code execution.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2017-0037",
-   "vendor": "Microsoft",
-   "product": "Edge and Internet Explorer",
-   "due_date": "2022-04-18",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "1f97524ba36c18fba75380503e9195ec229e129f"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2016-7201 — Microsoft Edge Memory Corruption Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2016-7201",
-  "published": "2022-03-28",
-  "summary": "The Chakra JavaScript scripting engine in Microsoft Edge allows remote attackers to execute remote code or cause a denial of service (memory corruption) via a crafted web site.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2016-7201",
-   "vendor": "Microsoft",
-   "product": "Edge",
-   "due_date": "2022-04-18",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "f578ad654403fd86b7be390806e82de59747cfaa"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2016-7200 — Microsoft Edge Memory Corruption Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2016-7200",
-  "published": "2022-03-28",
-  "summary": "The Chakra JavaScript scripting engine in Microsoft Edge allows remote attackers to execute remote code or cause a denial of service (memory corruption) via a crafted web site.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2016-7200",
-   "vendor": "Microsoft",
-   "product": "Edge",
-   "due_date": "2022-04-18",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "d14475b61b272725d560344995dde01029128714"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2016-0189 — Microsoft Internet Explorer Memory Corruption Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2016-0189",
-  "published": "2022-03-28",
-  "summary": "The Microsoft JScript nd VBScript engines, as used in Internet Explorer and other products, allow attackers to execute remote code or cause a denial of service (memory corruption) via a crafted web site.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2016-0189",
-   "vendor": "Microsoft",
-   "product": "Internet Explorer",
-   "due_date": "2022-04-18",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "e8f84c81baf206e390c8b5da94ce2ac4eb0d474a"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2016-0151 — Microsoft Windows CSRSS Security Feature Bypass Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2016-0151",
-  "published": "2022-03-28",
-  "summary": "The Client-Server Run-time Subsystem (CSRSS) in Microsoft mismanages process tokens, which allows local users to gain privileges via a crafted application.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2016-0151",
-   "vendor": "Microsoft",
-   "product": "Client-Server Run-time Subsystem (CSRSS)",
-   "due_date": "2022-04-18",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "b74dbcad64cc4d05c2bf87ee8ff2f9edc6b8804f"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2016-0040 — Microsoft Windows Kernel Privilege Escalation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2016-0040",
-  "published": "2022-03-28",
-  "summary": "The kernel in Microsoft Windows allows local users to gain privileges via a crafted application.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2016-0040",
-   "vendor": "Microsoft",
-   "product": "Windows",
-   "due_date": "2022-04-18",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "51ff7bc0931f4f77ec1e1b938ff43b8256bdee87"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2015-2426 — Microsoft Windows Adobe Type Manager Library Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2015-2426",
-  "published": "2022-03-28",
-  "summary": "A remote code execution vulnerability exists in Microsoft Windows when the Windows Adobe Type Manager Library improperly handles specially crafted OpenType fonts.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2015-2426",
-   "vendor": "Microsoft",
-   "product": "Windows",
-   "due_date": "2022-04-18",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "4ea32654cf217503cd6b2ecbdab48325d7ea0195"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2015-2419 — Microsoft Internet Explorer Memory Corruption Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2015-2419",
-  "published": "2022-03-28",
-  "summary": "JScript in Microsoft Internet Explorer allows remote attackers to execute remote code or cause a denial of service (memory corruption) via a crafted web site.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2015-2419",
-   "vendor": "Microsoft",
-   "product": "Internet Explorer",
-   "due_date": "2022-04-18",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "ee48f3cd2d100d807fc98462e263b065ad213704"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2015-1770 — Microsoft Office Uninitialized Memory Use Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2015-1770",
-  "published": "2022-03-28",
-  "summary": "Microsoft Office allows remote attackers to execute arbitrary code via a crafted Office document.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2015-1770",
-   "vendor": "Microsoft",
-   "product": "Office",
-   "due_date": "2022-04-18",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "2832e2c0147c877b13bcb36d5e0c6e9f432d0ffe"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2013-3660 — Microsoft Win32k Privilege Escalation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2013-3660",
-  "published": "2022-03-28",
-  "summary": "The EPATHOBJ::pprFlattenRec function in win32k.sys in the kernel-mode drivers in Microsoft does not properly initialize a pointer for the next object in a certain list, which allows local users to gain privileges.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2013-3660",
-   "vendor": "Microsoft",
-   "product": "Win32k",
-   "due_date": "2022-04-18",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "c38855bf9f2b930093bf213383da2c55ef4cc7d3"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2013-2729 — Adobe Reader and Acrobat Arbitrary Integer Overflow Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2013-2729",
-  "published": "2022-03-28",
-  "summary": "Integer overflow vulnerability in Adobe Reader and Acrobat allows attackers to execute remote code.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2013-2729",
-   "vendor": "Adobe",
-   "product": "Reader and Acrobat",
-   "due_date": "2022-04-18",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "3fe9eea3cb457f71bd2129e15202c6703010524e"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2013-2551 — Microsoft Internet Explorer Use-After-Free Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2013-2551",
-  "published": "2022-03-28",
-  "summary": "Use-after-free vulnerability in Microsoft Internet Explorer allows remote attackers to execute remote code via a crafted web site that triggers access to a deleted object.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2013-2551",
-   "vendor": "Microsoft",
-   "product": "Internet Explorer",
-   "due_date": "2022-04-18",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "b3575597d74391a208a3f69083ac0cad91e8be49"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2013-2465 — Oracle Java SE Unspecified Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2013-2465",
-  "published": "2022-03-28",
-  "summary": "Unspecified vulnerability in the Java Runtime Environment (JRE) component in Oracle Java SE allows remote attackers to affect confidentiality, integrity, and availability via Unknown vectors related to 2D",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2013-2465",
-   "vendor": "Oracle",
-   "product": "Java SE",
-   "due_date": "2022-04-18",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "5988e15158cef5b9db1cf6c1da1ac2f6664e6150"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2013-1690 — Mozilla Firefox and Thunderbird Denial-of-Service Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2013-1690",
-  "published": "2022-03-28",
-  "summary": "Mozilla Firefox and Thunderbird do not properly handle onreadystatechange events in conjunction with page reloading, which allows remote attackers to cause a denial-of-service (DoS) or possibly execute malicious code via a crafted web site.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2013-1690",
-   "vendor": "Mozilla",
-   "product": "Firefox and Thunderbird",
-   "due_date": "2022-04-18",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "7ae66bc240a8813590e7e42807c61dccd27f18df"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2012-5076 — Oracle Java SE Sandbox Bypass Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2012-5076",
-  "published": "2022-03-28",
-  "summary": "The default Java security properties configuration did not restrict access to the com.sun.org.glassfish.external and com.sun.org.glassfish.gmbal packages. An untrusted Java application or applet could use these flaws to bypass Java sandbox restrictions.",
-  "categories": [
-   "cloud",
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2012-5076",
-   "vendor": "Oracle",
-   "product": "Java SE",
-   "due_date": "2022-04-18",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "12d08448753d10fee577cb4f9c0f3e22fbd4c1e7"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2012-2539 — Microsoft Word Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2012-2539",
-  "published": "2022-03-28",
-  "summary": "Microsoft Word allows attackers to execute remote code or cause a denial-of-service (DoS) via crafted RTF data.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2012-2539",
-   "vendor": "Microsoft",
-   "product": "Word",
-   "due_date": "2022-04-18",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "fc5b9e8e9e82461330ca13032a8259fe59b53b10"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2012-2034 — Adobe Flash Player Memory Corruption Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2012-2034",
-  "published": "2022-03-28",
-  "summary": "Adobe Flash Player contains a memory corruption vulnerability that allows for remote code execution or denial-of-service (DoS).",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2012-2034",
-   "vendor": "Adobe",
-   "product": "Flash Player",
-   "due_date": "2022-04-18",
-   "required_action": "The impacted product is end-of-life and should be disconnected if still in use."
-  },
-  "title_vi": "",
-  "key": "1e9ba2e1feed3b4eea8ca1acb494fc158eedff44"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2012-0518 — Oracle Fusion Middleware Unspecified Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2012-0518",
-  "published": "2022-03-28",
-  "summary": "Unspecified vulnerability in the Oracle Application Server Single Sign-On component in Oracle Fusion Middleware allows remote attackers to affect integrity via Unknown vectors",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2012-0518",
-   "vendor": "Oracle",
-   "product": "Fusion Middleware",
-   "due_date": "2022-04-18",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "0dde50e11110a8dc35a2027125cc08b38f77405f"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2011-2005 — Microsoft Ancillary Function Driver (afd.sys) Improper Input Validation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2011-2005",
-  "published": "2022-03-28",
-  "summary": "afd.sys in the Ancillary Function Driver in Microsoft Windows does not properly validate user-mode input passed to kernel mode, which allows local users to gain privileges via a crafted application.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2011-2005",
-   "vendor": "Microsoft",
-   "product": "Ancillary Function Driver (afd.sys)",
-   "due_date": "2022-04-18",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "57756db067f3d7c24cb2f1d04b77a12061b4eedb"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2010-4398 — Microsoft Windows Kernel Stack-Based Buffer Overflow Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2010-4398",
-  "published": "2022-03-28",
-  "summary": "Stack-based buffer overflow in the RtlQueryRegistryValues function in win32k.sys in Microsoft Windows allows local users to gain privileges, and bypass the User Account Control (UAC) feature.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2010-4398",
-   "vendor": "Microsoft",
-   "product": "Windows",
-   "due_date": "2022-04-21",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "3982c07a6d3eb2ba77c3c069a2e2f78434536790"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2022-26318 — WatchGuard Firebox and XTM Appliances Arbitrary Code Execution",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2022-26318",
-  "published": "2022-03-25",
-  "summary": "On WatchGuard Firebox and XTM appliances, an unauthenticated user can execute arbitrary code.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2022-26318",
-   "vendor": "WatchGuard",
-   "product": "Firebox and XTM Appliances",
-   "due_date": "2022-04-15",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "503b622bd537a34644fd6f98dea11126838933fa"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2022-26143 — MiCollab, MiVoice Business Express Access Control Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2022-26143",
-  "published": "2022-03-25",
-  "summary": "A vulnerability has been identified in MiCollab and MiVoice Business Express that may allow a malicious actor to gain unauthorized access to sensitive information and services, cause performance degradations or a denial of service condition on the affected system.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2022-26143",
-   "vendor": "Mitel",
-   "product": "MiCollab, MiVoice Business Express",
-   "due_date": "2022-04-15",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "3f2d0439c27ea870b27f52097be3c0efa9ff52f6"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2022-21999 — Microsoft Windows Print Spooler Privilege Escalation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2022-21999",
-  "published": "2022-03-25",
-  "summary": "Microsoft Windows Print Spooler contains an unspecified vulnerability which can allow for privilege escalation.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2022-21999",
-   "vendor": "Microsoft",
-   "product": "Windows",
-   "due_date": "2022-04-15",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "7b5bd5eab2723300f5636835d004ead35a5a8eab"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-42237 — Sitecore XP Remote Command Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-42237",
-  "published": "2022-03-25",
-  "summary": "Sitcore XP contains an insecure deserialization vulnerability which can allow for remote code execution.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-42237",
-   "vendor": "Sitecore",
-   "product": "XP",
-   "due_date": "2022-04-15",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "00d990d236bbc4da2515d660fd0db29d2cfe9a20"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-22941 — Citrix ShareFile Improper Access Control Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-22941",
-  "published": "2022-03-25",
-  "summary": "Improper Access Control in Citrix ShareFile storage zones controller may allow an unauthenticated attacker to remotely compromise the storage zones controller.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-22941",
-   "vendor": "Citrix",
-   "product": "ShareFile",
-   "due_date": "2022-04-15",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "d9eb150db1d7e1bd9ce4380dab80612bff75e671"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-9377 — D-Link DIR-610 Devices Remote Command Execution",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-9377",
-  "published": "2022-03-25",
-  "summary": "D-Link DIR-610 devices allow remote code execution via the cmd parameter to command.php.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-9377",
-   "vendor": "D-Link",
-   "product": "DIR-610 Devices",
-   "due_date": "2022-04-15",
-   "required_action": "The impacted product is end-of-life and should be disconnected if still in use."
-  },
-  "title_vi": "",
-  "key": "6a0e5f7e58530dd74cbbdcd932cfe2e52b489f21"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-9054 — Zyxel Multiple NAS Devices OS Command Injection Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-9054",
-  "published": "2022-03-25",
-  "summary": "Multiple Zyxel network-attached storage (NAS) devices contain a pre-authentication command injection vulnerability, which may allow a remote, unauthenticated attacker to execute arbitrary code.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-9054",
-   "vendor": "Zyxel",
-   "product": "Multiple Network-Attached Storage (NAS) Devices",
-   "due_date": "2022-04-15",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "c2d95063cdce0f3bc7c12d69c74e9be40054d2de"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-7247 — OpenSMTPD Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-7247",
-  "published": "2022-03-25",
-  "summary": "smtp_mailaddr in smtp_session.c in OpenSMTPD, as used in OpenBSD and other products, allows remote attackers to execute arbitrary commands as root via a crafted SMTP session.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-7247",
-   "vendor": "OpenBSD",
-   "product": "OpenSMTPD",
-   "due_date": "2022-04-15",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "fa006648979abd9fabc009221c929e25778b241d"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-5410 — VMware Tanzu Spring Cloud Config Directory Traversal Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-5410",
-  "published": "2022-03-25",
-  "summary": "Spring, by VMware Tanzu, Cloud Config contains a path traversal vulnerability that allows applications to serve arbitrary configuration files.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-5410",
-   "vendor": "VMware Tanzu",
-   "product": "Spring Cloud Configuration (Config) Server",
-   "due_date": "2022-04-15",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "4b2fcaabba8dfdb76ad16111dd866a808ddd6e80"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-25223 — Sophos SG UTM Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-25223",
-  "published": "2022-03-25",
-  "summary": "A remote code execution vulnerability exists in the WebAdmin of Sophos SG UTM.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-25223",
-   "vendor": "Sophos",
-   "product": "SG UTM",
-   "due_date": "2022-04-15",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "d019dab7dc7769f5e365e468f5bab5abeb445a9b"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-2506 — QNAP Helpdesk Improper Access Control Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-2506",
-  "published": "2022-03-25",
-  "summary": "QNAP Helpdesk contains an improper access control vulnerability which could allow an attacker to gain privileges or to read sensitive information.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-2506",
-   "vendor": "QNAP Systems",
-   "product": "Helpdesk",
-   "due_date": "2022-04-15",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "eb50237efdae57b2a99af2ae56ba4680f578968b"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-2021 — Palo Alto Networks PAN-OS Authentication Bypass Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-2021",
-  "published": "2022-03-25",
-  "summary": "Palo Alto Networks PAN-OS contains a vulnerability in SAML which allows an attacker to bypass authentication.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-2021",
-   "vendor": "Palo Alto Networks",
-   "product": "PAN-OS",
-   "due_date": "2022-04-15",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "c1af8a77cd06acfeeb59186dda7d3c2c941f3823"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-1956 — Apache Kylin OS Command Injection Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-1956",
-  "published": "2022-03-25",
-  "summary": "Apache Kylin contains an OS command injection vulnerability which could permit an attacker to perform remote code execution.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-1956",
-   "vendor": "Apache",
-   "product": "Kylin",
-   "due_date": "2022-04-15",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "6d168c39d6406b47f1e7d83ea781d703d6dd823f"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-1631 — Juniper Junos OS Path Traversal Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-1631",
-  "published": "2022-03-25",
-  "summary": "A path traversal vulnerability in the HTTP/HTTPS service used by J-Web, Web Authentication, Dynamic-VPN (DVPN), Firewall Authentication Pass-Through with Web-Redirect, and Zero Touch Provisioning (ZTP) allows an unauthenticated attacker to perform remote code execution.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-1631",
-   "vendor": "Juniper",
-   "product": "Junos OS",
-   "due_date": "2022-04-15",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "98c7f9c3cf6f860bda8bddf9bd123ae6a4307691"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2019-6340 — Drupal Core Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-6340",
-  "published": "2022-03-25",
-  "summary": "In Drupal Core, some field types do not properly sanitize data from non-form sources. This can lead to arbitrary PHP code execution in some cases.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2019-6340",
-   "vendor": "Drupal",
-   "product": "Core",
-   "due_date": "2022-04-15",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "6b7e0c2b571f54fa072a566e2f420bf98a7e1232"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2019-2616 — Oracle BI Publisher Unauthorized Access Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-2616",
-  "published": "2022-03-25",
-  "summary": "Oracle BI Publisher, formerly XML Publisher, contains an unspecified vulnerability that allows for various unauthorized actions. Open-source reporting attributes this vulnerability to allowing for authentication bypass.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2019-2616",
-   "vendor": "Oracle",
-   "product": "BI Publisher (Formerly XML Publisher)",
-   "due_date": "2022-04-15",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "23c600b563baa1e44aa8d3a1aa145db7cbb3b43a"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2019-16920 — D-Link Multiple Routers Command Injection Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-16920",
-  "published": "2022-03-25",
-  "summary": "Multiple D-Link routers contain a command injection vulnerability which can allow attackers to achieve full system compromise.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2019-16920",
-   "vendor": "D-Link",
-   "product": "Multiple Routers",
-   "due_date": "2022-04-15",
-   "required_action": "The impacted product is end-of-life and should be disconnected if still in use."
-  },
-  "title_vi": "",
-  "key": "6307f0f0ac9f0abef59dbeefda7105c21e613318"
  }
 ]
