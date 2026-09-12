@@ -1,5 +1,1615 @@
 [
  {
+  "source": "Thanh Niên Công nghệ",
+  "title": "Xuất hiện m&atilde; độc Android mới đ&aacute;nh cắp dữ liệu, tống tiền",
+  "link": "https://thanhnien.vn/xuat-hien-ma-doc-android-moi-danh-cap-du-lieu-tong-tien-185260912134058631.htm",
+  "published": "2026-09-12T07:01:00+00:00",
+  "summary": "C&aacute;c chuy&ecirc;n gia an ninh mạng vừa ph&aacute;t hiện m&atilde; độc Mantax Otax tr&ecirc;n Android, t&iacute;ch hợp đồng thời t&iacute;nh năng gi&aacute;n điệp, điều khiển từ xa v&agrave; m&atilde; h&oacute;a tống tiền.",
+  "categories": [
+   "breach",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "036d02a76bbad5ac2c28f1d112903b8eb1233695"
+ },
+ {
+  "source": "GenK",
+  "title": "Công an Hà Nội cảnh báo bẫy lừa đảo từ những lời mời “học bổng toàn phần”",
+  "link": "https://genk.vn/cong-an-ha-noi-canh-bao-bay-lua-dao-tu-nhung-loi-moi-hoc-bong-toan-phan-165260912122558877.chn",
+  "published": "2026-09-12T08:20:58.005405+00:00",
+  "summary": "VTV.vn - Những lời mời “học bổng toàn phần”, “không cần thi”, “chi phí thấp” có thể là cái bẫy để tội phạm chiếm đoạt tiền và thu thập dữ liệu cá nhân.",
+  "categories": [
+   "breach",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "11c237de667f2ca8a5f524dafa1f44f7e17a5d8d"
+ },
+ {
+  "source": "GenK",
+  "title": "Liệu AI có tạo ra một xã hội \"tân phong kiến\"?",
+  "link": "https://genk.vn/lieu-ai-co-tao-ra-mot-xa-hoi-tan-phong-kien-165260912100336536.chn",
+  "published": "2026-09-12T08:20:58.005543+00:00",
+  "summary": "Sự trỗi dậy của trí tuệ nhân tạo không chỉ đe dọa việc làm mà đang âm thầm xóa bỏ sự dịch chuyển giai tầng.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "a40167a084c9227bfbe50b1a09b438058786a818"
+ },
+ {
+  "source": "VnExpress Số hóa",
+  "title": "Tác nhân AI 'lập kênh' trên hơn 10 trang web để tự ý liên lạc",
+  "link": "https://vnexpress.net/tac-nhan-ai-lap-kenh-tren-hon-10-trang-web-de-tu-y-lien-lac-5119268.html",
+  "published": "2026-09-12T05:00:00+00:00",
+  "summary": "Các nhà điều tra phát hiện các tác nhân AI của OpenAI đã lén chia sẻ thông tin và giúp nhau vượt qua nhiệm vụ nghiên cứu được giao.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "3541d22744e85ce11df76a504c318b99eea8aae4"
+ },
+ {
+  "source": "OpenAI News",
+  "title": "Introducing ChatGPT Images 2.5",
+  "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
+  "published": "2026-09-08T11:30:00+00:00",
+  "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "78afd3ddb884dee647dcba62155285e9e52fe0b1"
+ },
+ {
+  "source": "OpenAI News",
+  "title": "On the Navier–Stokes Millennium Prize Problem",
+  "link": "https://openai.com/index/navier-stokes-solution",
+  "published": "2026-09-08T10:00:00+00:00",
+  "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "58986497c76a0d770c4ff0b40436d3262e5d0c63"
+ },
+ {
+  "source": "OpenAI News",
+  "title": "Funding grants for new research into AI and teen development",
+  "link": "https://openai.com/index/teen-development-research-grants",
+  "published": "2026-09-08T09:00:00+00:00",
+  "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "627494373a90d301fc5f00965149d65742cd5f26"
+ },
+ {
+  "source": "OpenAI News",
+  "title": "1Password increases engineering productivity 21% with Codex",
+  "link": "https://openai.com/index/1password",
+  "published": "2026-09-08T00:00:00+00:00",
+  "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "50debf9dad0738fc49004b015196e7092e1fe1a5"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "Singaporean Ringleader of $245 Million Cryptocurrency Racketeering Enterprise Pleads Guilty in Washington D.C.",
+  "link": "https://databreaches.net/2026/09/08/singaporean-ringleader-of-245-million-cryptocurrency-racketeering-enterprise-pleads-guilty-in-washington-d-c/",
+  "published": "2026-09-08T18:04:09+00:00",
+  "summary": "WASHINGTON – Malone Lam, 22, a citizen of Singapore and recent resident of Miami, pleaded guilty today in U.S. District Court in Washington D.C. in connection with his role as ringleader of an international cybercrime conspiracy that used social engineering to steal and launder cryptocurrency valued at more than $245 million, announced U.S. Attorney Jeanine... Source",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "c6fbc00b25cb4ce4966ec6401b3f41ae4f94eccc"
+ },
+ {
+  "source": "Schneier on Security",
+  "title": "AIs as Modern Genies",
+  "link": "https://www.schneier.com/blog/archives/2026/09/ais-as-modern-genies.html",
+  "published": "2026-09-08T17:12:42+00:00",
+  "summary": "This essay was written with Barath Raghavan, and originally appeared in Lawfare . In April, an artificial intelligence (AI) agent conducting a routine task at a company hit a snag, tried to solve it, and soon ended up deleting the company’s database along with all of its backups. In July, OpenAI asked an unreleased AI model to attempt a hacking test. Instead of staying in the isolated box the developers had put it in, the model hacked onto the open internet and into another company to steal the answers. And as reported in August, an AI agent booked someone into a full gym class by ...",
+  "categories": [
+   "ai",
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "12de6bf87b0b5080bc11bf5bd5a62d27d77a6a57"
+ },
+ {
+  "source": "DarkReading",
+  "title": "ClickFix Campaigns Abuse Legitimate Services for Persistent Access",
+  "link": "https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access",
+  "published": "2026-09-08T17:25:37+00:00",
+  "summary": "Two separate attacks demonstrate how threat actors are finding new ways to compromise organizations by using the popular social engineering tactic.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "fa973af4fdbbb2fb3cbdbdf014701c96fc9c7e9e"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2026-75650 — Adobe Commerce and Magento Improper Neutralization of Special Elements Used in a Template Engine Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75650",
+  "published": "2026-09-08",
+  "summary": "Adobe Commerce and Magento Open Source contain an improper neutralization of special elements used in a template engine vulnerability that could allow an attacker to execute arbitrary code.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75650",
+   "vendor": "Adobe",
+   "product": "Commerce and Magento",
+   "due_date": "2026-09-11",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "CVE-2026-75650 — Adobe Commerce và Magento Trung hòa không đúng các yếu tố đặc biệt được sử dụng trong một lỗ hổng công cụ mẫu",
+  "key": "d370b0f8b3daaa437b3e619c4373f007c14860ad"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2026-81963 — Microsoft Windows Link Following Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81963",
+  "published": "2026-09-08",
+  "summary": "Microsoft Windows Update Stack contains a link following vulnerability that allows a local attacker to escalate privileges locally up to SYSTEM.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81963",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2026-09-22",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "CVE-2026-81963 — Liên kết Microsoft Windows theo lỗ hổng",
+  "key": "0f50943b215ac4a0fe31c3cbffc06da23aed1a87"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2026-86218 — N-able N-central Static Code Injection Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86218",
+  "published": "2026-09-08",
+  "summary": "N-able N-central contains a static code injection vulnerability that could allow for pre-authentication remote code execution.",
+  "categories": [
+   "cloud",
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86218",
+   "vendor": "N-able",
+   "product": "N-central",
+   "due_date": "2026-09-11",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "CVE-2026-86218 — Lỗ hổng tiêm mã tĩnh N-able N-central",
+  "key": "57f061a45326b164f90b03514f69afbcb1e58b3d"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2026-85880 — Microsoft Windows Heap-Based Buffer Overflow Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85880",
+  "published": "2026-09-08",
+  "summary": "Microsoft Windows Advanced Local Procedure Call contains a heap-based buffer overflow vulnerability that allows an attacker to elevate privileges locally.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85880",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2026-09-22",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "CVE-2026-85880 - Lỗ hổng tràn bộ đệm dựa trên Heap của Microsoft Windows",
+  "key": "f3e2719c473764ff354101430379e11e6267f489"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2013-0631 — Adobe ColdFusion Information Disclosure Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2013-0631",
+  "published": "2022-03-07",
+  "summary": "Adobe Coldfusion contains an unspecified vulnerability, which could result in information disclosure from a compromised server.",
+  "categories": [
+   "breach",
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2013-0631",
+   "vendor": "Adobe",
+   "product": "ColdFusion",
+   "due_date": "2022-09-07",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2013-0631 — Lỗ hổng tiết lộ thông tin Adobe ColdFusion",
+  "key": "0eaa1002af84682b5f28ae8a1c6b9ed4816c0882"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2013-0629 — Adobe ColdFusion Directory Traversal Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2013-0629",
+  "published": "2022-03-07",
+  "summary": "Adobe Coldfusion contains a directory traversal vulnerability, which could permit an unauthorized user access to restricted directories.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2013-0629",
+   "vendor": "Adobe",
+   "product": "ColdFusion",
+   "due_date": "2022-09-07",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2013-0629 — Adobe ColdFusion Directory Lỗ hổng Traversal",
+  "key": "9bf31862cd2bee650092f68162b53350e1e07069"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2013-0625 — Adobe ColdFusion Authentication Bypass Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2013-0625",
+  "published": "2022-03-07",
+  "summary": "Adobe Coldfusion contains an authentication bypass vulnerability, which could result in an unauthorized user gaining administrative access.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2013-0625",
+   "vendor": "Adobe",
+   "product": "ColdFusion",
+   "due_date": "2022-09-07",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2013-0625 — Lỗ hổng Adobe ColdFusion Authentication Bypass",
+  "key": "2cb48e8e1eb284f46e509e1a8f3be18ae922b8e5"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2009-3960 — Adobe BlazeDS Information Disclosure Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2009-3960",
+  "published": "2022-03-07",
+  "summary": "Adobe BlazeDS, which is utilized in LifeCycle and Coldfusion, contains a vulnerability that allows for information disclosure.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2009-3960",
+   "vendor": "Adobe",
+   "product": "BlazeDS",
+   "due_date": "2022-09-07",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2009-3960 — Lỗ hổng tiết lộ thông tin Adobe BlazeDS",
+  "key": "698a47a35a7fdce5a2912800057bac0381e019e1"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2022-20708 — Cisco Small Business RV Series Routers Stack-based Buffer Overflow Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2022-20708",
+  "published": "2022-03-03",
+  "summary": "A vulnerability in Cisco Small Business RV160, RV260, RV340, and RV345 Series Routers could allow an attacker to do any of the following: Execute arbitrary code elevate privileges, execute arbitrary commands, bypass authentication and authorization protections, fetch and run unsigned software, or cause a denial of service (DoS).",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2022-20708",
+   "vendor": "Cisco",
+   "product": "Small Business RV160, RV260, RV340, and RV345 Series Routers",
+   "due_date": "2022-03-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2022-20708 - Bộ định tuyến dòng RV dành cho doanh nghiệp nhỏ của Cisco Lỗ hổng tràn bộ đệm dựa trên ngăn xếp",
+  "key": "7501c7415d890d542c7eed3c7c259c7916dd0aed"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2022-20703 — Cisco Small Business RV Series Routers Stack-based Buffer Overflow Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2022-20703",
+  "published": "2022-03-03",
+  "summary": "A vulnerability in Cisco Small Business RV160, RV260, RV340, and RV345 Series Routers could allow an attacker to do any of the following: Execute arbitrary code elevate privileges, execute arbitrary commands, bypass authentication and authorization protections, fetch and run unsigned software, or cause a denial of service (DoS).",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2022-20703",
+   "vendor": "Cisco",
+   "product": "Small Business RV160, RV260, RV340, and RV345 Series Routers",
+   "due_date": "2022-03-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2022-20703 - Bộ định tuyến dòng RV dành cho doanh nghiệp nhỏ của Cisco Lỗ hổng tràn bộ đệm dựa trên ngăn xếp",
+  "key": "aa7fcf9415c974a9fac07e68e5550830f447d28a"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2022-20701 — Cisco Small Business RV Series Routers Stack-based Buffer Overflow Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2022-20701",
+  "published": "2022-03-03",
+  "summary": "A vulnerability in Cisco Small Business RV160, RV260, RV340, and RV345 Series Routers could allow an attacker to do any of the following: Execute arbitrary code elevate privileges, execute arbitrary commands, bypass authentication and authorization protections, fetch and run unsigned software, or cause a denial of service (DoS).",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2022-20701",
+   "vendor": "Cisco",
+   "product": "Small Business RV160, RV260, RV340, and RV345 Series Routers",
+   "due_date": "2022-03-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2022-20701 - Bộ định tuyến dòng RV dành cho doanh nghiệp nhỏ của Cisco Lỗ hổng tràn bộ đệm dựa trên ngăn xếp",
+  "key": "4fd031dc3904ffa6c3cece9f9375cfba6d824cd4"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2022-20700 — Cisco Small Business RV Series Routers Stack-based Buffer Overflow Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2022-20700",
+  "published": "2022-03-03",
+  "summary": "A vulnerability in Cisco Small Business RV160, RV260, RV340, and RV345 Series Routers could allow an attacker to do any of the following: Execute arbitrary code elevate privileges, execute arbitrary commands, bypass authentication and authorization protections, fetch and run unsigned software, or cause a denial of service (DoS).",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2022-20700",
+   "vendor": "Cisco",
+   "product": "Small Business RV160, RV260, RV340, and RV345 Series Routers",
+   "due_date": "2022-03-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2022-20700 - Bộ định tuyến dòng RV dành cho doanh nghiệp nhỏ của Cisco Lỗ hổng tràn bộ đệm dựa trên ngăn xếp",
+  "key": "2be6776a53a43fc121e111d0f19e30691a8c66bf"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2022-20699 — Cisco Small Business RV Series Routers Stack-based Buffer Overflow Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2022-20699",
+  "published": "2022-03-03",
+  "summary": "A vulnerability in Cisco Small Business RV160, RV260, RV340, and RV345 Series Routers could allow an attacker to do any of the following: Execute arbitrary code elevate privileges, execute arbitrary commands, bypass authentication and authorization protections, fetch and run unsigned software, or cause a denial of service (DoS).",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2022-20699",
+   "vendor": "Cisco",
+   "product": "Small Business RV160, RV260, RV340, and RV345 Series Routers",
+   "due_date": "2022-03-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2022-20699 - Bộ định tuyến dòng RV dành cho doanh nghiệp nhỏ của Cisco Lỗ hổng tràn bộ đệm dựa trên ngăn xếp",
+  "key": "f7f0874ec3302f48f4febd75b1a3eec6a2fe002d"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-41379 — Microsoft Windows Installer Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-41379",
+  "published": "2022-03-03",
+  "summary": "Microsoft Windows Installer contains an unspecified vulnerability that allows for privilege escalation.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-41379",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2022-03-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-41379 - Lỗ hổng leo thang đặc quyền của trình cài đặt Microsoft Windows",
+  "key": "9fbfe735580e2d5784bc99dc3994708bba881c81"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-1938 — Apache Tomcat Improper Privilege Management Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-1938",
+  "published": "2022-03-03",
+  "summary": "Apache Tomcat treats Apache JServ Protocol (AJP) connections as having higher trust than, for example, a similar HTTP connection. If such connections are available to an attacker, they can be exploited.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-1938",
+   "vendor": "Apache",
+   "product": "Tomcat",
+   "due_date": "2022-03-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2020-1938 - Lỗ hổng quản lý đặc quyền không đúng cách Apache Tomcat",
+  "key": "2a2999ed95ada5b9716bc9b936aa68bf95624631"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-11899 — Treck TCP/IP stack Out-of-Bounds Read Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-11899",
+  "published": "2022-03-03",
+  "summary": "The Treck TCP/IP stack contains an IPv6 out-of-bounds read vulnerability.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-11899",
+   "vendor": "Treck TCP/IP stack",
+   "product": "IPv6",
+   "due_date": "2022-03-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2020-11899 — Treck TCP/IP stack Out-of-Bound Read Lỗ hổng bảo mật",
+  "key": "d0d4d3b6175b4eafe4730ba5d78b41ce4678497d"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-16928 — Exim Out-of-bounds Write Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-16928",
+  "published": "2022-03-03",
+  "summary": "Exim contains an out-of-bounds write vulnerability which can allow for remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-16928",
+   "vendor": "Exim",
+   "product": "Exim Internet Mailer",
+   "due_date": "2022-03-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2019-16928 — Lỗ hổng ghi ngoài giới hạn Exim",
+  "key": "3e12164d24243949b2a61db67f587900a412ea59"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-1652 — Cisco Small Business Routers Improper Input Validation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-1652",
+  "published": "2022-03-03",
+  "summary": "A vulnerability in the web-based management interface of Cisco Small Business RV320 and RV325 Dual Gigabit WAN VPN Routers could allow an authenticated, remote attacker with administrative privileges on an affected device to execute arbitrary commands.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-1652",
+   "vendor": "Cisco",
+   "product": "Small Business RV320 and RV325 Dual Gigabit WAN VPN Routers",
+   "due_date": "2022-03-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2019-1652 - Bộ định tuyến doanh nghiệp nhỏ của Cisco Lỗ hổng xác thực đầu vào không đúng cách",
+  "key": "2b10e44adbfce1a6b7a89015825a6d4bec784093"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-1297 — Microsoft Excel Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-1297",
+  "published": "2022-03-03",
+  "summary": "A remote code execution vulnerability exists in Microsoft Excel when the software fails to properly handle objects in memory.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-1297",
+   "vendor": "Microsoft",
+   "product": "Excel",
+   "due_date": "2022-03-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2019-1297 — Lỗ hổng thực thi mã từ xa Microsoft Excel",
+  "key": "1c92adb262975c940f076cfe280322198153b713"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2018-8581 — Microsoft Exchange Server Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-8581",
+  "published": "2022-03-03",
+  "summary": "A privilege escalation vulnerability exists in Microsoft Exchange Server. An attacker who successfully exploited this vulnerability could attempt to impersonate any other user of the Exchange server.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2018-8581",
+   "vendor": "Microsoft",
+   "product": "Exchange Server",
+   "due_date": "2022-03-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "c58b35c7c18a8882f9cdff361c0b6138fc912b5e"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2018-8298 — ChakraCore Scripting Engine Type Confusion Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-8298",
+  "published": "2022-03-03",
+  "summary": "The ChakraCore scripting engine contains a type confusion vulnerability which can allow for remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2018-8298",
+   "vendor": "ChakraCore",
+   "product": "ChakraCore scripting engine",
+   "due_date": "2022-03-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "fa811797169a858f57a9732a7e78b571f08a2ab5"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2018-0180 — Cisco IOS Software Denial-of-Service Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-0180",
+  "published": "2022-03-03",
+  "summary": "A vulnerability in the Login Enhancements (Login Block) feature of Cisco IOS Software could allow an unauthenticated, remote attacker to trigger a reload of an affected system, resulting in a denial of service (DoS) condition.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2018-0180",
+   "vendor": "Cisco",
+   "product": "IOS Software",
+   "due_date": "2022-03-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "12c2a13c41617c0ef7d6762fdf2de5814b602801"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2018-0179 — Cisco IOS Software Denial-of-Service Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-0179",
+  "published": "2022-03-03",
+  "summary": "A vulnerability in the Login Enhancements (Login Block) feature of Cisco IOS Software could allow an unauthenticated, remote attacker to trigger a reload of an affected system, resulting in a denial of service (DoS) condition.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2018-0179",
+   "vendor": "Cisco",
+   "product": "IOS Software",
+   "due_date": "2022-03-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "3713be11ef9cab07a963a3a7cf2ea2a48fdc1a38"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2018-0175 — Cisco IOS, XR, and XE Software Buffer Overflow Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-0175",
+  "published": "2022-03-03",
+  "summary": "Format string vulnerability in the Link Layer Discovery Protocol (LLDP) subsystem of Cisco IOS Software, Cisco IOS XE Software, and Cisco IOS XR Software could allow an unauthenticated, adjacent attacker to cause a denial of service (DoS) condition or execute arbitrary code with elevated privileges on an affected device.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2018-0175",
+   "vendor": "Cisco",
+   "product": "IOS, XR, and XE Software",
+   "due_date": "2022-03-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "9f86b9f2227ee270eb7ca6323f2929718009e12e"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2018-0174 — Cisco IOS Software and Cisco IOS XE Software Improper Input Validation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-0174",
+  "published": "2022-03-03",
+  "summary": "A vulnerability in the DHCP option 82 encapsulation functionality of Cisco IOS Software and Cisco IOS XE Software could allow for denial-of-service (DoS).",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2018-0174",
+   "vendor": "Cisco",
+   "product": "IOS XE Software",
+   "due_date": "2022-03-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "8cc7e9cd2b6b5a408732b428509789130c9e374f"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2018-0173 — Cisco IOS and IOS XE Software Improper Input Validation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-0173",
+  "published": "2022-03-03",
+  "summary": "A vulnerability in the Cisco IOS Software and Cisco IOS XE Software function that restores encapsulated option 82 information in DHCP Version 4 (DHCPv4) packets can allow for denial-of-service (DoS).",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2018-0173",
+   "vendor": "Cisco",
+   "product": "IOS and IOS XE Software",
+   "due_date": "2022-03-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "c06771639a3c263077b993fa61508ce6410efab4"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2018-0172 — Cisco IOS and IOS XE Software Improper Input Validation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-0172",
+  "published": "2022-03-03",
+  "summary": "A vulnerability in the DHCP option 82 encapsulation functionality of Cisco IOS Software and Cisco IOS XE Software could allow for denial-of-service (DoS).",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2018-0172",
+   "vendor": "Cisco",
+   "product": "IOS and IOS XE Software",
+   "due_date": "2022-03-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "2aa58ec2f46a473d67fca9c6487a5e904cc7ed3d"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2018-0167 — Cisco IOS, XR, and XE Software Buffer Overflow Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-0167",
+  "published": "2022-03-03",
+  "summary": "There is a buffer overflow vulnerability in the Link Layer Discovery Protocol (LLDP) subsystem of Cisco IOS Software, Cisco IOS XE Software, and Cisco IOS XR Software which could allow an unauthenticated, adjacent attacker to cause a denial of service (DoS) condition or execute arbitrary code.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2018-0167",
+   "vendor": "Cisco",
+   "product": "IOS, XR, and XE Software",
+   "due_date": "2022-03-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "a0cdf04ef2b36435290757833d488c19d1c4ef22"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2018-0161 — Cisco IOS Software Resource Management Errors Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-0161",
+  "published": "2022-03-03",
+  "summary": "A vulnerability in the Simple Network Management Protocol (SNMP) subsystem of Cisco IOS Software running on certain models of Cisco Catalyst Switches could allow an authenticated, remote attacker to cause a denial-of-service (DoS) condition.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2018-0161",
+   "vendor": "Cisco",
+   "product": "IOS Software",
+   "due_date": "2022-03-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "006a352cb44dcdeee28c3a9c461897cd13eb260f"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2018-0159 — Cisco IOS and XE Software Internet Key Exchange Version 1 Denial-of-Service Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-0159",
+  "published": "2022-03-03",
+  "summary": "A vulnerability in the implementation of Internet Key Exchange Version 1 (IKEv1) functionality in Cisco IOS Software and Cisco IOS XE Software could allow an unauthenticated, remote attacker to cause an affected device to reload, resulting in a denial-of-service (DoS) condition.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2018-0159",
+   "vendor": "Cisco",
+   "product": "IOS Software and Cisco IOS XE Software",
+   "due_date": "2022-03-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "46b0489219af534992b2671c31198ab9dec04ba3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85706 — GitLab has remediated an issue in GitLab CE/EE affecting all versions from 18",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85706",
+  "published": "2026-09-12T03:16:30.473",
+  "summary": "GitLab has remediated an issue in GitLab CE/EE affecting all versions from 18.7 before 19.1.8, 19.2 before 19.2.6, and 19.3 before 19.3.2 that, under certain conditions, an unauthenticated user could have read arbitrary files from the GitLab server due to improper path confinement and missing authentication enforcement in the repository commits API.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85706",
+   "cvss": 10.0,
+   "ref": "https://gitlab.com/gitlab-org/gitlab/-/work_items/627748"
+  },
+  "title_vi": "CVE-2026-85706 — GitLab đã khắc phục sự cố trong GitLab CE/EE ảnh hưởng đến tất cả các phiên bản từ 18",
+  "key": "a002b3e22ca1436272d1536068cd22c10fb94791"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-87719 — GitLab has remediated an issue in GitLab EE affecting all versions from 18",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87719",
+  "published": "2026-09-12T03:16:31.477",
+  "summary": "GitLab has remediated an issue in GitLab EE affecting all versions from 18.3 before 19.1.8, 19.2 before 19.2.6, and 19.3 before 19.3.2 that under certain conditions could allow an authenticated user with Duo Chat access to obtain Advanced Search instance configurations and sensitive credentials using a specially crafted GraphQL subscription argument to bypass serialization and perform server object lookup.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-87719",
+   "cvss": 9.9,
+   "ref": "https://gitlab.com/gitlab-org/gitlab/-/work_items/628160"
+  },
+  "title_vi": "CVE-2026-87719 — GitLab đã khắc phục sự cố trong GitLab EE ảnh hưởng đến tất cả các phiên bản từ 18",
+  "key": "1016f295b9cc5d148e66ea5e6f4d532cf847c6ba"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75800 — The Frontegg SAML SSO WordPress plugin through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75800",
+  "published": "2026-09-12T06:16:23.340",
+  "summary": "The Frontegg SAML SSO WordPress plugin through 1.0.1 does not verify the signature or issuer of SAML authentication responses before establishing a session, allowing unauthenticated attackers to log in as any user, including administrators, as well as to create arbitrary accounts.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75800",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/be658aa5-8f7f-4938-bf13-b2e6ed3dcf89/"
+  },
+  "title_vi": "CVE-2026-75800 — Plugin Frontegg SAML SSO WordPress thông qua 1",
+  "key": "d6b2b2811792490bef1cdf6f4ff8c48993b397e5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77005 — The CODE MONKEYS PROPOSALS WordPress plugin through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77005",
+  "published": "2026-09-12T06:16:24.623",
+  "summary": "The CODE MONKEYS PROPOSALS  WordPress plugin through 1.0.1 does not validate a user-supplied file path before deleting a file, and does not check the capability of the user making the request, allowing any authenticated user, such as a subscriber, to delete arbitrary files on the server, which can lead to a site takeover.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77005",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/b9340774-84c2-41ec-a770-0123dd5608c2/"
+  },
+  "title_vi": "CVE-2026-77005 — MÃ KHỈ ĐỀ XUẤT plugin WordPress thông qua 1",
+  "key": "e4d8064dc440e2bb542c4fa2df693454e71c6507"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77006 — The WebTotem Backups WordPress plugin through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77006",
+  "published": "2026-09-12T06:16:24.733",
+  "summary": "The WebTotem Backups WordPress plugin through 1.0.1 does not validate a user-supplied file path, does not check the capability of the user making the request, and discards the result of its own CSRF check, allowing any authenticated user, such as a subscriber, to delete arbitrary files on the server, which can lead to a site takeover.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77006",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/71bc08cb-681c-44bd-b6a0-bb5c58e31653/"
+  },
+  "title_vi": "CVE-2026-77006 — Plugin WordPress sao lưu WebTotem thông qua 1",
+  "key": "25c493ea875fdd454ec48e7d0ed75dd1cd52c179"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77689 — The Booking for Appointments and Events Calendar WordPress plugin before 9",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77689",
+  "published": "2026-09-12T06:16:24.860",
+  "summary": "The Booking for Appointments and Events Calendar  WordPress plugin before 9.8.1 does not verify that a payment was actually taken before recording a booking as paid, trusting the payment gateway named in a public, unauthenticated booking request even when the site has never configured that gateway. This lets an unauthenticated attacker obtain confirmed, fully paid appointments and events without any payment being collected.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77689",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/ac597716-193d-419f-b55c-802ee979385e/"
+  },
+  "title_vi": "CVE-2026-77689 — Plugin WordPress Đặt lịch hẹn và sự kiện trước 9",
+  "key": "fccbd571b24e68a36a0f5d64689b4ac24bfb5da0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77705 — The Booking for Appointments and Events Calendar WordPress plugin before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77705",
+  "published": "2026-09-12T06:16:24.967",
+  "summary": "The Booking for Appointments and Events Calendar  WordPress plugin before 2.4.10 does not verify that the user editing a customer or employee record is entitled to modify the WordPress account linked to it, allowing users holding Amelia's customer or employee management permissions to set the password and email address of other users' WordPress accounts and take them over.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77705",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/bfd0ce74-f91e-41fe-8288-7b1d34dd16fe/"
+  },
+  "title_vi": "CVE-2026-77705 — Plugin WordPress Đặt lịch hẹn và sự kiện trước 2",
+  "key": "bcd86c5420a0570926d15f58d69876e370a9ebb7"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77752 — The Temporary Login Without Password WordPress plugin before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77752",
+  "published": "2026-09-12T06:16:25.070",
+  "summary": "The Temporary Login Without Password WordPress plugin before 1.9.9 does not verify that the user requesting a temporary login holds network super admin rights before granting the new account those rights, allowing an administrator of a single site on a multisite network to take over the whole network. The same missing check also allows an existing account, including the attacker's own, to be promoted.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77752",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/09308b99-3142-44f0-b2e1-9f4680325d2d/"
+  },
+  "title_vi": "CVE-2026-77752 — Plugin đăng nhập tạm thời không cần mật khẩu WordPress trước 1",
+  "key": "7baf6591a00092b084bc18f4ff01fc86c469fcad"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77753 — The Temporary Login Without Password WordPress plugin before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77753",
+  "published": "2026-09-12T06:16:25.183",
+  "summary": "The Temporary Login Without Password WordPress plugin before 1.9.9 does not prevent a temporary user from creating an Application Password, and does not revoke one when the temporary access expires or is disabled, allowing the recipient of a temporary login to retain working access to the site over REST and XML-RPC after the administrator believes it has been withdrawn. The retained access carries whatever role was granted, which for the Temporary Login Without Password WordPress plugin before 1.9.9's main use case is Administrator.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77753",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/9424fd42-5c77-41a9-a1fb-db568126515e/"
+  },
+  "title_vi": "CVE-2026-77753 — Plugin đăng nhập tạm thời không cần mật khẩu WordPress trước 1",
+  "key": "f894b53418b40862a2c36846691b98d8d0782f34"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78152 — The SureRank SEO WordPress plugin before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78152",
+  "published": "2026-09-12T06:16:25.290",
+  "summary": "The SureRank SEO  WordPress plugin before 1.10.1 does not exclude users' registered account email addresses from the structured data it outputs on public pages by default, allowing unauthenticated visitors to obtain the email address of any user who has published content.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78152",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/f16d3d06-6db0-4c6a-9eee-80b87d886a47/"
+  },
+  "title_vi": "CVE-2026-78152 — Plugin SureRank SEO WordPress trước 1",
+  "key": "8961579efbd3fbd60a39bf3fea79adc30a542f99"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-80491 — The SAMO Forms WordPress plugin through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80491",
+  "published": "2026-09-12T06:16:25.403",
+  "summary": "The SAMO Forms WordPress plugin through 1.0.0 does not properly sanitise and escape user input before using it in SQL queries in several unauthenticated actions, allowing unauthenticated attackers to perform SQL injection attacks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-80491",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/765e7131-2eb4-41df-a1e0-05c8a89cb88c/"
+  },
+  "title_vi": "CVE-2026-80491 — Plugin WordPress SAMO Forms thông qua 1",
+  "key": "6d9dbfc13a1b015e38479239c777a735fd342c5b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-80494 — The Yogeta WP Cloud WordPress plugin through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80494",
+  "published": "2026-09-12T06:16:25.510",
+  "summary": "The Yogeta WP Cloud WordPress plugin through 1.0 does not validate a user-supplied file path before passing it to a file-read function on a public endpoint that lacks any authorization check, allowing unauthenticated attackers to download arbitrary files from the server, including files containing sensitive credentials.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-80494",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/fdc0fefb-c090-4972-9867-d1090353e40c/"
+  },
+  "title_vi": "CVE-2026-80494 — Plugin Yogeta WP Cloud WordPress thông qua 1",
+  "key": "316a8fc3652ddb67aac10c1c550be9ed13af16ec"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81090 — The Gpx2Graphics WordPress plugin through 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81090",
+  "published": "2026-09-12T06:16:25.620",
+  "summary": "The Gpx2Graphics WordPress plugin through 0.3 does not perform a CSRF check when handling file uploads, nor validate the type of the uploaded file, allowing attackers to make a logged-in administrator upload arbitrary files such as PHP via a CSRF attack, leading to Remote Code Execution.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81090",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/92e50025-cfa4-4727-bd02-8f45196021ae/"
+  },
+  "title_vi": "CVE-2026-81090 — Plugin Gpx2Graphics WordPress thông qua 0",
+  "key": "9e66b47e6ddfe90b133a5f67cb295b86f24bbac4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81402 — The DS Ad Rotator WordPress plugin through 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81402",
+  "published": "2026-09-12T06:16:25.730",
+  "summary": "The DS Ad Rotator WordPress plugin through 0.8 does not perform any capability check, nonce verification, or file-type validation on its image upload handler, allowing unauthenticated attackers to upload arbitrary files, including PHP, to a web-accessible directory, which can lead to remote code execution.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81402",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/60e82611-ddf1-4275-8c68-14694d863fca/"
+  },
+  "title_vi": "CVE-2026-81402 — Plugin WordPress DS Ad Rotator thông qua 0",
+  "key": "50c3732d34537c0a8ab4f128a511aa246ed23450"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81429 — The Export & Import WPBakery Page Builder WordPress plugin through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81429",
+  "published": "2026-09-12T06:16:25.833",
+  "summary": "The Export & Import WPBakery Page Builder WordPress plugin through 1.0.2 does not perform any CSRF check on its template-import feature and does not sanitise the imported data before storing it and echoing it back, allowing attackers to make a logged-in administrator import a crafted template via a forged request that results in Stored Cross-Site Scripting executed in the administrator's session.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81429",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/48f67510-9fb3-4f74-a38e-31635617ba60/"
+  },
+  "title_vi": "CVE-2026-81429 — Trình tạo trang WPBakery Xuất & Nhập WordPress plugin thông qua 1",
+  "key": "ab086bcf83cae4c30a667e18210d74ff7b9b8c65"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81742 — The BE REST Endpoints WordPress plugin through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81742",
+  "published": "2026-09-12T06:16:25.937",
+  "summary": "The BE REST Endpoints WordPress plugin through 1.0.0 does not perform any authorization check before allowing widgets to be read, created, updated and deleted, and does not sanitize the values it stores in them, allowing unauthenticated users to inject arbitrary web scripts which will execute in the browser of any user visiting the site.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81742",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/ea7c371a-3d0b-4e09-9c76-145345ad316b/"
+  },
+  "title_vi": "CVE-2026-81742 — Plugin WordPress Điểm cuối BE REST thông qua 1",
+  "key": "d1dcca3ab349991c08dbdf3bf8343a111cd01f8f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82845 — The Masteriyo LMS WordPress plugin before 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82845",
+  "published": "2026-09-12T06:16:26.043",
+  "summary": "The Masteriyo LMS  WordPress plugin before 3.4.1 does not prevent user-supplied values held as metadata from being deserialized when they are read back, allowing users with a minimal account to inject arbitrary PHP objects and, by way of a class shipped in a library bundled with the Masteriyo LMS  WordPress plugin before 3.4.1, write and execute arbitrary code on the server. A weaker form of the same issue is reachable without an account and yields an arbitrary file write rather than code execution.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82845",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/5ced30ea-8b78-495f-b10c-42b3f10adcb3/"
+  },
+  "title_vi": "CVE-2026-82845 — Plugin WordPress Masteriyo LMS trước 3",
+  "key": "c57329cbca0b6d376e994df7b05995b3bd9efdac"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82847 — The Masteriyo LMS WordPress plugin before 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82847",
+  "published": "2026-09-12T06:16:26.147",
+  "summary": "The Masteriyo LMS  WordPress plugin before 3.4.1 does not sanitise and escape one of its course fields before outputting it back in the course editor, allowing users with the instructor role to perform Stored Cross-Site Scripting attacks against higher privileged users such as administrators.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82847",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/9cc4f7a7-e5b9-48fe-962b-f5d0753e6158/"
+  },
+  "title_vi": "CVE-2026-82847 — Plugin WordPress Masteriyo LMS trước 3",
+  "key": "999423b87c71f45dd3cc9e47cc68beae1c26eb68"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82851 — The Masteriyo LMS WordPress plugin before 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82851",
+  "published": "2026-09-12T06:16:26.253",
+  "summary": "The Masteriyo LMS  WordPress plugin before 3.4.1 does not verify ownership of, or restrict the type of, the records a user requests for download, allowing users with the instructor role to retrieve the full content and metadata of arbitrary posts, including other instructors' private and draft courses.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82851",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/07664081-72c3-4f7e-9324-e0047b6e6d22/"
+  },
+  "title_vi": "CVE-2026-82851 — Plugin WordPress Masteriyo LMS trước 3",
+  "key": "6b778518f3cc48ecaef32178b3645717883fdd02"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-83532 — The Custom Menu Wizard Widget WordPress plugin through 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-83532",
+  "published": "2026-09-12T06:16:26.353",
+  "summary": "The Custom Menu Wizard Widget WordPress plugin through 3.3.1 does not sanitize and escape several shortcode attributes before rendering them into HTML, allowing users with contributor-level access and above to inject arbitrary web scripts that execute when the affected content is viewed.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-83532",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/164f3fdd-00a6-482f-b3a2-78b50508011d/"
+  },
+  "title_vi": "CVE-2026-83532 — Trình hướng dẫn trình đơn tùy chỉnh Widget WordPress plugin thông qua 3",
+  "key": "25cf58a49eade0d3d48c949ba2e4b13a1adc345a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84023 — The BEAR WordPress plugin before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84023",
+  "published": "2026-09-12T06:16:26.467",
+  "summary": "The BEAR  WordPress plugin before 1.2.2 does not verify a CSRF nonce or check user capabilities before updating taxonomy terms, allowing an attacker to modify arbitrary terms by tricking a logged-in privileged user into visiting a crafted page.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84023",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/7adbb52f-94e2-425e-9930-2ab856961b63/"
+  },
+  "title_vi": "",
+  "key": "1b54ffbe9bde6e5cd7a43cd3146065212c5c084c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84024 — The BEAR WordPress plugin before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84024",
+  "published": "2026-09-12T06:16:26.573",
+  "summary": "The BEAR  WordPress plugin before 1.2.2 does not verify a CSRF nonce before saving its meta field configuration, allowing an attacker to overwrite that configuration by tricking a logged-in administrator into visiting a crafted page.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84024",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/8ea75cb0-e6f0-4ea4-a70f-f9c4e2e16681/"
+  },
+  "title_vi": "",
+  "key": "de8a441b99926206854f7fce993656884b37e35f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84025 — The BEAR WordPress plugin before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84025",
+  "published": "2026-09-12T06:16:26.700",
+  "summary": "The BEAR  WordPress plugin before 1.2.2 does not perform ownership checks on several handlers that return product data by a user-supplied identifier, allowing users who are restricted to their own products to read other owners' product information, including protected downloadable file URLs and private product metadata.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84025",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/468a9f1a-1a16-410f-97a0-8a87a974df21/"
+  },
+  "title_vi": "",
+  "key": "a07bf743e06b96e1eca9874434151937b84b919e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84047 — The Album Cover Finder WordPress plugin through 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84047",
+  "published": "2026-09-12T06:16:26.910",
+  "summary": "The Album Cover Finder WordPress plugin through 0.7.0 does not properly sanitize and escape a parameter before using it in a SQL query, allowing unauthenticated users to perform SQL injection attacks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84047",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/eebacbae-4b25-45b5-96d9-f5ba28dfd825/"
+  },
+  "title_vi": "CVE-2026-84047 — Trình tìm kiếm bìa album WordPress plugin thông qua 0",
+  "key": "efda2851ca612348ebecb7a0e257a2e19a0c7b68"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84099 — The wpstorecart WordPress plugin through 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84099",
+  "published": "2026-09-12T06:16:27.020",
+  "summary": "The wpstorecart WordPress plugin through 5.0.7 does not prevent direct, unauthenticated access to a bundled add-on that deserializes user-supplied input without restricting the permitted classes, allowing unauthenticated attackers to inject arbitrary PHP objects, which may be escalated further when a suitable gadget chain is present on the site.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84099",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/11d36ab2-ac8d-42cf-91c0-dea55d7edc9a/"
+  },
+  "title_vi": "CVE-2026-84099 — Plugin wpstorecart WordPress thông qua 5",
+  "key": "ca8ed49c0c7e21468a42699821895901edb35a45"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84171 — The WP images upload on piclect WordPress plugin through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84171",
+  "published": "2026-09-12T06:16:27.137",
+  "summary": "The WP images upload on piclect WordPress plugin through 1.0 does not validate the name or type of uploaded files before writing them to a publicly accessible directory, allowing unauthenticated attackers to upload arbitrary files and execute arbitrary code on the server.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84171",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/e5b9fd87-92a7-4fc6-b8b2-896b87d97c40/"
+  },
+  "title_vi": "CVE-2026-84171 — Các hình ảnh WP tải lên trên piclect WordPress plugin thông qua 1",
+  "key": "d6b05ff1823542e4f68fabd65e663b0906d1a2e3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85681 — The WP Component WordPress plugin through 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85681",
+  "published": "2026-09-12T06:16:27.250",
+  "summary": "The WP Component WordPress plugin through 2.2.4 does not have any capability or nonce checks on one of the actions it makes available to unauthenticated users, and it takes both the option name and the option value from the request, allowing unauthenticated attackers to overwrite any of the site's options. On a single site installation this leads to a full takeover, as registration can be enabled with a default role of administrator.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85681",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/c602bd9e-a825-4990-a66b-1403bbeb2cee/"
+  },
+  "title_vi": "CVE-2026-85681 — Plugin WordPress WP Component thông qua 2",
+  "key": "a5fd7854f913b38ea02564eb03f37b31d3e0130d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86790 — The WP Highlight Box WordPress plugin through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86790",
+  "published": "2026-09-12T06:16:27.427",
+  "summary": "The WP Highlight Box WordPress plugin through 1.0 does not escape some shortcode attributes before outputting them in a page where the shortcode is embedded, which could allow users with the contributor role and above to perform Stored Cross-Site Scripting attacks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86790",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/b48571ae-368e-4193-977a-f22fb09db4d4/"
+  },
+  "title_vi": "CVE-2026-86790 — Plugin WP Highlight Box WordPress thông qua 1",
+  "key": "d23a8650c860f80405fa52dd5ae990d1117c65fb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-87759 — The Add User Autocomplete WordPress plugin before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87759",
+  "published": "2026-09-12T06:16:27.547",
+  "summary": "The Add User Autocomplete WordPress plugin before 1.2 does not perform any capability or nonce check before creating a pending site-membership invitation carrying a caller-supplied role, allowing any authenticated user, such as a subscriber, to grant themselves the administrator role on a multisite installation.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-87759",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/41020730-c79a-43b4-a902-3a34fdca90d6/"
+  },
+  "title_vi": "CVE-2026-87759 — Plugin Add User Autocomplete WordPress trước 1",
+  "key": "3bae8d777782ffd105d8dc6a5c03668b710dfcc5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-87797 — The Sprout Invoices WordPress plugin before 20",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87797",
+  "published": "2026-09-12T06:16:27.660",
+  "summary": "The Sprout Invoices  WordPress plugin before 20.8.16 does not perform a capability or ownership check before allowing a private note to be overwritten through one of its AJAX actions, allowing any authenticated user such as a subscriber to overwrite private notes on records belonging to other users.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-87797",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/ded55e47-568d-4702-b043-4707e4182a09/"
+  },
+  "title_vi": "CVE-2026-87797 — Plugin Sprout Invoices WordPress before 20",
+  "key": "8f827912a081d269c6590639fcc81e05a761a1fc"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-87842 — The Zonify WordPress plugin before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87842",
+  "published": "2026-09-12T06:16:27.770",
+  "summary": "The Zonify  WordPress plugin before 1.0.5 does not perform any capability or authentication check before returning the site's stored account login token, allowing unauthenticated attackers to retrieve it and authenticate to the site owner's linked service account.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-87842",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/fb0cafdc-d1d5-4cad-852e-b0d569ae4469/"
+  },
+  "title_vi": "CVE-2026-87842 — Plugin Zonify WordPress trước 1",
+  "key": "9366e5a23d9d738f7630d639599de5c5d6c6928b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-87888 — The YayPricing WordPress plugin before 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87888",
+  "published": "2026-09-12T06:16:27.890",
+  "summary": "The YayPricing  WordPress plugin before 3.5.7 does not perform an authorization check on a REST route that saves its pricing rules, allowing users with the subscriber role and above to store JavaScript that executes in the browser of an administrator who opens the YayPricing  WordPress plugin before 3.5.7's settings page.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-87888",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/19bc425d-2aa3-4b2b-bc66-ac5ea96502e0/"
+  },
+  "title_vi": "CVE-2026-87888 — Plugin YayPricing WordPress trước 3",
+  "key": "e4d65298bac2541b3f913377ce1b4758ae361a1c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-87891 — The Rox Appointment Booking WordPress plugin before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87891",
+  "published": "2026-09-12T06:16:28.003",
+  "summary": "The Rox Appointment Booking  WordPress plugin before 1.2.0 does not perform any capability or authorization check when saving its holiday schedule, allowing unauthenticated attackers to overwrite the dates the booking system treats as unavailable, which can block legitimate bookings or open dates the site owner intended to keep closed.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-87891",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/e7f3b29e-2503-41bb-b15c-3c0ef71a3a00/"
+  },
+  "title_vi": "",
+  "key": "7516cb8fe6a8398e490a0aa5a03905e45361e0a8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-87892 — The Rox Appointment Booking WordPress plugin before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87892",
+  "published": "2026-09-12T06:16:28.110",
+  "summary": "The Rox Appointment Booking  WordPress plugin before 1.2.0 does not verify the order total or the selected payment method against its own server-side pricing when creating a booking, allowing unauthenticated attackers to create confirmed bookings at an arbitrary price and to bypass the site's configured payment-method restrictions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-87892",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/971084b9-5bf9-438a-a94d-435d1b1f01d1/"
+  },
+  "title_vi": "",
+  "key": "ff81af2badf6a956b203ec1d5ff4bcaee1d6f921"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-87894 — The Rox Appointment Booking WordPress plugin before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87894",
+  "published": "2026-09-12T06:16:28.217",
+  "summary": "The Rox Appointment Booking  WordPress plugin before 1.2.3 does not perform any authorization check on the endpoint that returns a booking's confirmation details, and each booking is addressed by a sequential numeric identifier, allowing unauthenticated attackers to read any customer's name, email, phone, booking details and payment status by enumerating that identifier.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-87894",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/3f098db1-5406-4a77-adb1-99a66eb806a4/"
+  },
+  "title_vi": "",
+  "key": "5a9453f04fd0d64f9fa056026e5ad9abbe63c80d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-87916 — The WPBot WordPress plugin before 8",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87916",
+  "published": "2026-09-12T06:16:28.317",
+  "summary": "The WPBot  WordPress plugin before 8.6.0 does not perform any capability or nonce check on the AJAX action that lists stored chat sessions, allowing unauthenticated attackers to retrieve the name, email address and phone number of every chat visitor by requesting a wide date range.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-87916",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/31d65e66-10b1-467a-8b20-ecf4880359e0/"
+  },
+  "title_vi": "CVE-2026-87916 — Plugin WPBot WordPress trước 8",
+  "key": "2872dfe4afc359b50daaca01189147c970cd07ea"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-87918 — The WPBot WordPress plugin before 8",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87918",
+  "published": "2026-09-12T06:16:28.430",
+  "summary": "The WPBot  WordPress plugin before 8.5.7 does not perform any authorization or nonce check on several AJAX actions that relay prompts to its configured AI providers, allowing unauthenticated attackers to make those third-party API calls, and consume the associated cost, using the site's own configured API keys.",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-87918",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/d6b3745b-bda1-4734-b39c-75376477ba0a/"
+  },
+  "title_vi": "CVE-2026-87918 — Plugin WPBot WordPress trước 8",
+  "key": "46862ffb197e80e4e00a794af77793fee0c95c78"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-87919 — The Product XML Feed Manager for WooCommerce WordPress plugin before 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87919",
+  "published": "2026-09-12T06:16:28.537",
+  "summary": "The Product XML Feed Manager for WooCommerce  WordPress plugin before 3.1.1 does not restrict which object method its product shortcode may call, nor check the user's capability over the targeted product, allowing users with contributor-level access to delete arbitrary WooCommerce products by previewing a post that contains the shortcode.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-87919",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/2e2f48d3-9106-4357-beec-4dbea02223dc/"
+  },
+  "title_vi": "CVE-2026-87919 — Trình quản lý nguồn cấp dữ liệu XML sản phẩm cho WooCommerce WordPress plugin before 3",
+  "key": "01f53e5257793bef0181b53b8606544c2f04b46c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-11355 — The DT LMS – elearning, WordPress LMS plugin for WordPress is vulnerable to unauthorized modification of data due to a missing capability check on mul",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-11355",
+  "published": "2026-09-12T08:16:22.523",
+  "summary": "The DT LMS – elearning, WordPress LMS plugin for WordPress is vulnerable to unauthorized modification of data due to a missing capability check on multiple AJAX handlers (including dtlms_save_poc_settings, dtlms_save_skin_settings, and dtlms_save_options_settings) in versions up to, and including, 1.1. These handlers are registered on the wp_ajax_nopriv_* hook and contain no capability check, no nonce verification, and pass user-supplied data directly to update_option(). This makes it possible for unauthenticated attackers to overwrite arbitrary plugin option values stored in the wp_options ta",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-11355",
+   "cvss": 5.3,
+   "ref": "https://plugins.trac.wordpress.org/browser/dt-lms-lite/trunk/settings/settings-poc-utils.php#L102"
+  },
+  "title_vi": "CVE-2026-11355 — DT LMS – elearning, plugin WordPress LMS cho WordPress dễ bị sửa đổi dữ liệu trái phép do thiếu kiểm tra khả năng trên mul",
+  "key": "18072e3638bd1784a54ed806e52e3246c3c19ac6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-16482 — The rtMedia for WordPress, BuddyPress and bbPress plugin for WordPress is vulnerable to time-based blind SQL Injection via the 'compare' parameter in ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-16482",
+  "published": "2026-09-12T08:16:23.797",
+  "summary": "The rtMedia for WordPress, BuddyPress and bbPress plugin for WordPress is vulnerable to time-based blind SQL Injection via the 'compare' parameter in all versions up to, and including, 4.7.11 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database. This is exploitable on any public page containing an rtMedia shortcode (e.g., [rtmedia_gallery]) when",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-16482",
+   "cvss": 7.5,
+   "ref": "https://plugins.trac.wordpress.org/browser/buddypress-media/tags/4.7.11/app/helper/RTMediaModel.php#L105"
+  },
+  "title_vi": "CVE-2026-16482 — Plugin rtMedia cho WordPress, BuddyPress và bbPress cho WordPress dễ bị tấn công SQL Injection mù dựa trên thời gian thông qua tham số 'so sánh' trong",
+  "key": "15f356809c455ca49f41ef8f995e0b8107bd0462"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-17585 — The Royal Addons for Elementor – Addons and Templates Kit for Elementor plugin for WordPress is vulnerable to Sensitive Information Exposure in all ve",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-17585",
+  "published": "2026-09-12T08:16:23.950",
+  "summary": "The Royal Addons for Elementor – Addons and Templates Kit for Elementor plugin for WordPress is vulnerable to Sensitive Information Exposure in all versions up to, and including, 1.7.1066 via the 'wpr_keyword' parameter. This makes it possible for unauthenticated attackers to extract arbitrary postmeta values from all published posts via character-by-character substring matching across the entire wp_postmeta table. The required nonce is emitted publicly via wp_localize_script on any frontend page that loads a Royal Elementor widget, meaning no authenticated session or prior action is needed to",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-17585",
+   "cvss": 5.3,
+   "ref": "https://plugins.trac.wordpress.org/browser/royal-elementor-addons/tags/1.7.1061/classes/modules/wpr-ajax-search.php#L115"
+  },
+  "title_vi": "CVE-2026-17585 — The Royal Addons for Elementor – Addons and Templates Kit for Elementor plugin for WordPress dễ bị phơi nhiễm thông tin nhạy cảm trong mọi trường hợp",
+  "key": "31cf3673ed89f10e42ea8b18a5543973a61a0c0f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77161 — The Smart Marketing SMS and Newsletters Forms plugin for WordPress is vulnerable to generic SQL Injection via Parameter Name in all versions up to, an",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77161",
+  "published": "2026-09-12T08:16:24.103",
+  "summary": "The Smart Marketing SMS and Newsletters Forms plugin for WordPress is vulnerable to generic SQL Injection via Parameter Name in all versions up to, and including, 5.1.24 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for authenticated attackers, with subscriber-level access and above, to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database. Exploitation requires the plugin's sync feature to be enabled (options['enabled']) a",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77161",
+   "cvss": 6.5,
+   "ref": "https://plugins.trac.wordpress.org/browser/smart-marketing-for-wp/trunk/admin/class-egoi-for-wp-listener.php#L132"
+  },
+  "title_vi": "CVE-2026-77161 — Plugin Biểu mẫu bản tin và SMS tiếp thị thông minh cho WordPress dễ bị tấn công SQL Injection chung thông qua Tên tham số trong tất cả các phiên bản lên đến,",
+  "key": "fb940e11c18cb95d3b27043e997bc5644bc303d8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78006 — The The Events Calendar plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78006",
+  "published": "2026-09-12T08:16:24.240",
+  "summary": "The The Events Calendar plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 6.17.4 via the is_safe_widget_instance function. This is due to insufficient protection in is_safe_widget_instance, which can be bypassed because PHP fires magic methods during its pre-parse, combined with enable_rendering_widget_copied() forging a valid wp_hash integrity attribute before unserialize() is reached. This makes it possible for unauthenticated attackers to execute code on the server. This is exploitable without authentication or approval because the plugin's V2",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78006",
+   "cvss": 9.8,
+   "ref": "https://plugins.trac.wordpress.org/browser/the-events-calendar/tags/6.17.3/common/src/Tribe/Utils/Collection_Trait.php#L247"
+  },
+  "title_vi": "CVE-2026-78006 — Plugin Lịch sự kiện cho WordPress dễ bị thực thi mã từ xa trong tất cả các phiên bản lên đến, và bao gồm, 6",
+  "key": "a9b675d5f01f7782a10db59368cf04789f24ab80"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78159 — The The Events Calendar plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78159",
+  "published": "2026-09-12T08:16:24.377",
+  "summary": "The The Events Calendar plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 6.17.3 via the parse_array function. This is due to insufficient validation of the widget 'classes' map, allowing a plain-array payload to bypass the is_safe_widget_instance() object check and reach the callable-invocation sink in Element_Classes::parse_array(). This makes it possible for unauthenticated attackers to execute code on the server. Exploitation requires that the targeted site has comments enabled on tribe_events posts and that at least one comment containing a ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78159",
+   "cvss": 9.8,
+   "ref": "https://plugins.trac.wordpress.org/browser/the-events-calendar/tags/6.17.3/common/src/Tribe/Utils/Element_Classes.php#L211"
+  },
+  "title_vi": "CVE-2026-78159 — Plugin Lịch sự kiện cho WordPress dễ bị thực thi mã từ xa trong tất cả các phiên bản lên đến, và bao gồm, 6",
+  "key": "7de9a2ba2e6f31bd14e4fa928b15c1992a1968f8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78175 — The Tutor LMS – eLearning and online course solution plugin for WordPress is vulnerable to PHP Object Injection in all versions up to, and including, ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78175",
+  "published": "2026-09-12T08:16:24.507",
+  "summary": "The Tutor LMS – eLearning and online course solution plugin for WordPress is vulnerable to PHP Object Injection in all versions up to, and including, 4.0.7 via the `withdraw_method_field` parameter of the `tutor_save_withdraw_account` AJAX handler. This is due to the handler lacking any capability or role check, relying solely on a nonce, while also passing attacker-supplied values through `esc_sql()`, which replaces every `%` character with a 66-byte HMAC placeholder token before the data is serialized and stored via `update_user_meta()`; when the meta is later retrieved, the placeholder is c",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78175",
+   "cvss": 8.8,
+   "ref": "https://plugins.trac.wordpress.org/browser/tutor/tags/4.0.7/classes/RestAPI.php#L190"
+  },
+  "title_vi": "CVE-2026-78175 — The Tutor LMS – eLearning và plugin giải pháp khóa học trực tuyến cho WordPress dễ bị tấn công bởi PHP Object Injection trong tất cả các phiên bản lên đến, và bao gồm,",
+  "key": "5b368321e5b884df07e6b2480f9c473ed3b0910c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85198 — The MPG – Multiple Page Generator, Bulk Landing Pages & Programmatic SEO plugin for WordPress is vulnerable to generic SQL Injection via URL Path in a",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85198",
+  "published": "2026-09-12T08:16:24.670",
+  "summary": "The MPG – Multiple Page Generator, Bulk Landing Pages & Programmatic SEO plugin for WordPress is vulnerable to generic SQL Injection via URL Path in all versions up to, and including, 4.2.1 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for authenticated attackers, with subscriber-level access and above, to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database. This is only exploitable when the [mpg_spintax] shortcode is ren",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85198",
+   "cvss": 6.5,
+   "ref": "https://plugins.trac.wordpress.org/browser/multiple-pages-generator-by-porthas/tags/4.1.7/controllers/HookController.php#L594"
+  },
+  "title_vi": "CVE-2026-85198 — MPG – Trình tạo nhiều trang, Trang đích hàng loạt & Plugin SEO lập trình cho WordPress dễ bị tấn công SQL Injection chung thông qua Đường dẫn URL trong",
+  "key": "90780a937d1bc8534b956e13b7fc44c605d54639"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85200 — The GEO my WP plugin for WordPress is vulnerable to Local File Inclusion in all versions up to, and including, 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85200",
+  "published": "2026-09-12T08:16:24.810",
+  "summary": "The GEO my WP plugin for WordPress is vulnerable to Local File Inclusion in all versions up to, and including, 4.5.5.3 via the gmw_posts_locator_ajax_info_window_loader function. This makes it possible for unauthenticated attackers to include and execute arbitrary .php files on the server, allowing the execution of any PHP code in those files. This can be used to bypass access controls, obtain sensitive data, or achieve code execution in cases where .php file types can be uploaded and included. In environments where PEAR is installed with register_argc_argv enabled, this file inclusion can be ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85200",
+   "cvss": 7.5,
+   "ref": "https://github.com/Fitoussi/geo-my-wp/commit/5a768bf1c6e44ded83a65be8789f3587515665ac"
+  },
+  "title_vi": "CVE-2026-85200 — Plugin Geo my WP cho WordPress dễ bị tấn công Local File Inclusion trong tất cả các phiên bản cho đến, và bao gồm, 4",
+  "key": "800cca122cf31ca38552ee9fe0088ac703d933f0"
+ },
+ {
   "source": "VietnamPlus Kinh tế số",
   "title": "Lạm phát tăng trở lại, Fed đứng trước bài toán khó về lãi suất",
   "link": "https://www.vietnamplus.vn/lam-phat-tang-tro-lai-fed-dung-truoc-bai-toan-kho-ve-lai-suat-post1135697.vnp",
@@ -72448,1589 +74058,5 @@
   },
   "title_vi": "CVE-2026-76202 — Adobe Commerce bị ảnh hưởng bởi lỗ hổng Ủy quyền không chính xác có thể dẫn đến leo thang đặc quyền",
   "key": "a311425e35bc89a54930c18599158060901b6214"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-77108 — Adobe Commerce is affected by an Incorrect Authorization vulnerability that could result in privilege escalation",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77108",
-  "published": "2026-09-08T19:19:41.227",
-  "summary": "Adobe Commerce is affected by an Incorrect Authorization vulnerability that could result in privilege escalation. An attacker could leverage this vulnerability to gain elevated access to sensitive information. Exploitation of this issue does not require user interaction.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-77108",
-   "cvss": 7.5,
-   "ref": "https://helpx.adobe.com/security/products/magento/apsb26-138.html"
-  },
-  "title_vi": "CVE-2026-77108 — Adobe Commerce bị ảnh hưởng bởi lỗ hổng Ủy quyền không chính xác có thể dẫn đến leo thang đặc quyền",
-  "key": "d85143fe180225c06271a40e747058dc2d2d87e7"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-77109 — Adobe Commerce is affected by an Incorrect Authorization vulnerability that could result in privilege escalation",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77109",
-  "published": "2026-09-08T19:19:41.353",
-  "summary": "Adobe Commerce is affected by an Incorrect Authorization vulnerability that could result in privilege escalation. An attacker could leverage this vulnerability to gain elevated access to restricted resources. Exploitation of this issue does not require user interaction. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-77109",
-   "cvss": 8.6,
-   "ref": "https://helpx.adobe.com/security/products/magento/apsb26-138.html"
-  },
-  "title_vi": "CVE-2026-77109 — Adobe Commerce bị ảnh hưởng bởi lỗ hổng Ủy quyền không chính xác có thể dẫn đến leo thang đặc quyền",
-  "key": "6cf7f63f1a389c4b284b4f0cbe5e8d47eab558a1"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-77110 — Adobe Commerce is affected by an Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability that could result in a S",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77110",
-  "published": "2026-09-08T19:19:41.617",
-  "summary": "Adobe Commerce is affected by an Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability that could result in a Security feature bypass. An attacker with high privileges could leverage this vulnerability to access unauthorized files or directories outside the intended restrictions, causing a limited disruption to availability. Exploitation of this issue does not require user interaction. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-77110",
-   "cvss": 7.6,
-   "ref": "https://helpx.adobe.com/security/products/magento/apsb26-138.html"
-  },
-  "title_vi": "CVE-2026-77110 — Adobe Commerce bị ảnh hưởng bởi lỗ hổng Giới hạn không đúng của Tên đường dẫn đến Thư mục bị hạn chế ('Path Traversal') có thể dẫn đến S",
-  "key": "bfeab1c6650755c6da328b71b844957ebcf73572"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-77111 — Adobe Commerce is affected by an Incorrect Authorization vulnerability that could result in a Security feature bypass",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77111",
-  "published": "2026-09-08T19:19:41.760",
-  "summary": "Adobe Commerce is affected by an Incorrect Authorization vulnerability that could result in a Security feature bypass. An attacker with high privileges could leverage this vulnerability to bypass security measures and gain unauthorized write access, causing a limited disruption to availability. Exploitation of this issue does not require user interaction. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-77111",
-   "cvss": 8.7,
-   "ref": "https://helpx.adobe.com/security/products/magento/apsb26-138.html"
-  },
-  "title_vi": "CVE-2026-77111 — Adobe Commerce bị ảnh hưởng bởi lỗ hổng Ủy quyền không chính xác có thể dẫn đến bỏ qua tính năng Bảo mật",
-  "key": "a7f99639216be820a53bd7007ebbdb0e0fe410c2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-77774 — Adobe Commerce is affected by an Incorrect Authorization vulnerability that could result in a Security feature bypass",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77774",
-  "published": "2026-09-08T19:19:44.710",
-  "summary": "Adobe Commerce is affected by an Incorrect Authorization vulnerability that could result in a Security feature bypass. An attacker could leverage this vulnerability to bypass security measures and gain unauthorized read access. Exploitation of this issue does not require user interaction. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-77774",
-   "cvss": 8.6,
-   "ref": "https://helpx.adobe.com/security/products/magento/apsb26-138.html"
-  },
-  "title_vi": "CVE-2026-77774 — Adobe Commerce bị ảnh hưởng bởi lỗ hổng Ủy quyền không chính xác có thể dẫn đến bỏ qua tính năng Bảo mật",
-  "key": "fc47cd28089637b085045ff113f7ce59458bfcd3"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79721 — Code execution can occur in versions of the MLflow platform running version 0",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79721",
-  "published": "2026-09-08T19:19:51.383",
-  "summary": "Code execution can occur in versions of the MLflow platform running version 0.0.1 or newer, enabling a maliciously crafted model artifact to execute arbitrary code on an end user's system when loaded by the project.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79721",
-   "cvss": null,
-   "ref": "https://www.hiddenlayer.com/sai-security-advisory/2026-09-mlflow"
-  },
-  "title_vi": "CVE-2026-79721 — Thực thi mã có thể xảy ra trong các phiên bản của nền tảng MLflow chạy phiên bản 0",
-  "key": "8bde147a45582b91d8ff35cda8d51c15db473047"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82004 — Adobe Campaign Classic (ACC) is affected by an Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') vulnerabilit",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82004",
-  "published": "2026-09-08T19:19:59.743",
-  "summary": "Adobe Campaign Classic (ACC) is affected by an Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') vulnerability that could result in arbitrary code execution in the context of the current user. An attacker could exploit this vulnerability to execute arbitrary code. Exploitation of this issue does not require user interaction. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82004",
-   "cvss": 10.0,
-   "ref": "https://helpx.adobe.com/security/products/campaign/apsb26-142.html"
-  },
-  "title_vi": "CVE-2026-82004 — Adobe Campaign Classic (ACC) bị ảnh hưởng bởi việc trung hòa không đúng các yếu tố đặc biệt được sử dụng trong lỗ hổng OS Command ('OS Command Injection')",
-  "key": "1ed95109752d6ebd865023f25d7f92695bb97825"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82536 — Roo-Code through 3",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82536",
-  "published": "2026-09-08T19:20:00.763",
-  "summary": "Roo-Code through 3.54.0 contains an auto-approve bypass vulnerability in the shell command parsing logic that allows attackers to execute denied shell commands by exploiting the omission of the bash pipe operator from the command parser's operator token set. Attackers can craft a command line with an allowlisted prefix followed by the stderr-redirecting pipe operator and a denied command, causing the parser to approve the full pipeline while bash executes the denied component with the agent's auto-execute privileges on the developer's machine.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82536",
-   "cvss": 8.8,
-   "ref": "https://github.com/7rah/oss-cve/blob/main/roocode-group04-pipe-both-operator.md"
-  },
-  "title_vi": "CVE-2026-82536 — Roo-Code qua 3",
-  "key": "16953b59315c654c25ff7ddee0882bda2b9e1f79"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82537 — Roo-Code through 3",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82537",
-  "published": "2026-09-08T19:20:00.910",
-  "summary": "Roo-Code through 3.54.0 contains an auto-approve bypass vulnerability that allows attackers to execute denied shell commands by exploiting a word-boundary mismatch in comment handling between the approval gate's shell parser and bash. Attackers can craft a command string with an allowlisted word immediately followed by a hash character, separator, and denied command to pass the approval gate while bash executes the denied command with the agent's auto-execute privileges on the developer's machine.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82537",
-   "cvss": 8.8,
-   "ref": "https://github.com/7rah/oss-cve/blob/main/roocode-group06-comment-boundary.md"
-  },
-  "title_vi": "CVE-2026-82537 — Roo-Code qua 3",
-  "key": "4801408ec09e62f37af1de71dabdd310ead60c30"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-85384 — A stack-based buffer overflow vulnerability exists in the httpd component of RE210 AC750 due to improper bounds checking in the splitString function w",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85384",
-  "published": "2026-09-08T19:20:07.763",
-  "summary": "A stack-based buffer overflow vulnerability exists in the httpd component of RE210 AC750 due to improper bounds checking in the splitString function when processing an uploaded configuration file. An authenticated attacker on the local network can upload a crafted configuration file to trigger the overflow, leading to remote code execution.\n\n\n\n\n\nSuccessful exploitation may allow unauthorized access to sensitive information, modification of device configuration and network behavior, or disruption of device availability.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-85384",
-   "cvss": null,
-   "ref": "https://www.tp-link.com/en/support/faq/3562/"
-  },
-  "title_vi": "CVE-2026-85384 — Lỗ hổng tràn bộ đệm dựa trên ngăn xếp tồn tại trong thành phần httpd của RE210 AC750 do kiểm tra giới hạn không đúng trong hàm splitString w",
-  "key": "a191aa49f7003d8be16d2317af957098ce381694"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-86477 — Rejected reason: ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86477",
-  "published": "2026-09-08T19:20:14.717",
-  "summary": "Rejected reason: ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. Reason: This candidate was issued in error. Notes: All references and descriptions in this candidate have been removed to prevent accidental usage.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-86477",
-   "cvss": null,
-   "ref": ""
-  },
-  "title_vi": "CVE-2026-86477 — Lý do bị từ chối: ** TỪ CHỐI ** KHÔNG SỬ DỤNG MÃ SỐ ỨNG VIÊN NÀY",
-  "key": "1c5d0eaa6e77fcf451162d0ea3c4966041ca1444"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-86674 — A vulnerability was found in ningzichun Student Management System up to 98760f5711cf6dc8b4adca53a9e207ca49b02ebf",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86674",
-  "published": "2026-09-08T19:20:16.963",
-  "summary": "A vulnerability was found in ningzichun Student Management System up to 98760f5711cf6dc8b4adca53a9e207ca49b02ebf. Affected by this vulnerability is the function session_start of the file login.php. The manipulation results in session fixiation. The attack can be launched remotely. The exploit has been made public and could be used. This product does not use versioning. This is why information about affected and unaffected releases are unavailable. The project was informed of the problem early through an issue report but has not responded yet.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-86674",
-   "cvss": 6.3,
-   "ref": "https://github.com/ningzichun/student-management-system/issues/16"
-  },
-  "title_vi": "CVE-2026-86674 — Một lỗ hổng đã được tìm thấy trong Hệ thống quản lý sinh viên ningzichun lên đến 98760f5711cf6dc8b4adca53a9e207ca49b02ebf",
-  "key": "25c8140a3395ac6f72ff504092b875b0707911c2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-86675 — A vulnerability was identified in itsourcecode Sales and Inventory System 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86675",
-  "published": "2026-09-08T19:20:17.173",
-  "summary": "A vulnerability was identified in itsourcecode Sales and Inventory System 1.0. This affects an unknown part of the file /pages/us_edit.php. Such manipulation of the argument ID leads to sql injection. The attack may be launched remotely. The exploit is publicly available and might be used.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-86675",
-   "cvss": 6.3,
-   "ref": "https://github.com/ltranquility/submit_repository/issues/12"
-  },
-  "title_vi": "CVE-2026-86675 - Một lỗ hổng đã được xác định trong Hệ thống bán hàng và kiểm kê mã nguồn 1",
-  "key": "640262f3050963d12f4f008d630a07679a48f0f7"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-86716 — A vulnerability was determined in Cesanta mJS up to 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86716",
-  "published": "2026-09-08T19:20:17.357",
-  "summary": "A vulnerability was determined in Cesanta mJS up to 1.26. Affected is the function skip_spaces_and_comments of the file src/mjs_tok.c. Executing a manipulation can lead to heap-based buffer overflow. The attack can be launched remotely. The exploit has been publicly disclosed and may be utilized. The project was informed of the problem early through an issue report but has not responded yet.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-86716",
-   "cvss": 7.3,
-   "ref": "https://github.com/cesanta/mjs/"
-  },
-  "title_vi": "CVE-2026-86716 — Một lỗ hổng được xác định trong Cesanta mJS lên đến 1",
-  "key": "dfbb562fa5aff6a65284c7f293b0e9bf9461ce28"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-86804 — A vulnerability was identified in seakee CPA-Manager-Plus up to 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86804",
-  "published": "2026-09-08T19:20:17.573",
-  "summary": "A vulnerability was identified in seakee CPA-Manager-Plus up to 1.11.10. This vulnerability affects the function CPAResource of the file apps/manager-server/internal/http/controller/proxy/handler.go of the component HTTP Handler. The manipulation leads to improper authorization. It is possible to initiate the attack remotely. Upgrading to version 1.11.11 is able to resolve this issue. The identifier of the patch is 842eec791377ddcbea5cd639bc065eaa4801d656. It is suggested to upgrade the affected component.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-86804",
-   "cvss": 5.3,
-   "ref": "https://github.com/seakee/CPA-Manager-Plus/"
-  },
-  "title_vi": "CVE-2026-86804 — Một lỗ hổng đã được xác định trong Seakee CPA-Manager-Plus lên đến 1",
-  "key": "01e44ad986a9e9cd2eb18385b838841b09a0e7ee"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2025-64542 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-64542",
-  "published": "2026-09-08T20:17:25.893",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2025-64542",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2025-64542 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) dựa trên Dom",
-  "key": "273fedd95f6519e0ce5d1674580ba1474a01c558"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2025-64584 — Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by a low-privileged attacker to inject ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-64584",
-  "published": "2026-09-08T20:17:26.057",
-  "summary": "Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by a low-privileged attacker to inject malicious scripts into vulnerable form fields. Malicious JavaScript may be executed in a victim's browser when they browse to the page containing the vulnerable field. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2025-64584",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2025-64584 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) được lưu trữ có thể bị lạm dụng bởi kẻ tấn công có đặc quyền thấp để tiêm",
-  "key": "d5a7d7a8b40cc00c28a984529ea667102c91c30a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2025-64588 — Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by a low-privileged attacker to inject ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-64588",
-  "published": "2026-09-08T20:17:26.187",
-  "summary": "Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by a low-privileged attacker to inject malicious scripts into vulnerable form fields. Malicious JavaScript may be executed in a victim's browser when they browse to the page containing the vulnerable field. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2025-64588",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2025-64588 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) được lưu trữ có thể bị lạm dụng bởi kẻ tấn công có đặc quyền thấp để tiêm",
-  "key": "8c19185236b2344ca3e638b099e3d410c404ebeb"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2025-64589 — Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by a low-privileged attacker to inject ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-64589",
-  "published": "2026-09-08T20:17:26.303",
-  "summary": "Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by a low-privileged attacker to inject malicious scripts into vulnerable form fields. Malicious JavaScript may be executed in a victim's browser when they browse to the page containing the vulnerable field. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2025-64589",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2025-64589 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) được lưu trữ có thể bị lạm dụng bởi kẻ tấn công có đặc quyền thấp để tiêm",
-  "key": "50efd39f62a09fdf30ad2ee88977023d4b312764"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2025-64610 — Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by a low-privileged attacker to inject ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-64610",
-  "published": "2026-09-08T20:17:26.427",
-  "summary": "Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by a low-privileged attacker to inject malicious scripts into vulnerable form fields. Malicious JavaScript may be executed in a victim's browser when they browse to the page containing the vulnerable field. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2025-64610",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2025-64610 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) được lưu trữ có thể bị lạm dụng bởi kẻ tấn công có đặc quyền thấp để tiêm",
-  "key": "41726a3f7c189836c2244a83be3b90c4dbc829d6"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2025-64618 — Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by a low-privileged attacker to inject ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-64618",
-  "published": "2026-09-08T20:17:26.557",
-  "summary": "Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by a low-privileged attacker to inject malicious scripts into vulnerable form fields. Malicious JavaScript may be executed in a victim's browser when they browse to the page containing the vulnerable field. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2025-64618",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2025-64618 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) được lưu trữ có thể bị lạm dụng bởi kẻ tấn công có đặc quyền thấp để tiêm",
-  "key": "4945682d47e117f3a110bb1251f51a0cb4d70aad"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2025-64830 — Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by a low-privileged attacker to inject ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-64830",
-  "published": "2026-09-08T20:17:26.683",
-  "summary": "Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by a low-privileged attacker to inject malicious scripts into vulnerable form fields. Malicious JavaScript may be executed in a victim's browser when they browse to the page containing the vulnerable field. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2025-64830",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2025-64830 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) được lưu trữ có thể bị lạm dụng bởi kẻ tấn công có đặc quyền thấp để tiêm",
-  "key": "5e7866d425faf21e4399871b835d1d06bebc0c8a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2025-64838 — Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by a low-privileged attacker to inject ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-64838",
-  "published": "2026-09-08T20:17:26.807",
-  "summary": "Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by a low-privileged attacker to inject malicious scripts into vulnerable form fields. Malicious JavaScript may be executed in a victim's browser when they browse to the page containing the vulnerable field. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2025-64838",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2025-64838 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) được lưu trữ có thể bị lạm dụng bởi kẻ tấn công có đặc quyền thấp để tiêm",
-  "key": "dcdf05dfdf623980d03547120e2b36c81833b732"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2025-64854 — Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by a low-privileged attacker to inject ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-64854",
-  "published": "2026-09-08T20:17:26.923",
-  "summary": "Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by a low-privileged attacker to inject malicious scripts into vulnerable form fields. Malicious JavaScript may be executed in a victim's browser when they browse to the page containing the vulnerable field. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2025-64854",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2025-64854 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) được lưu trữ có thể bị lạm dụng bởi kẻ tấn công có đặc quyền thấp để tiêm",
-  "key": "9afa609bba88e2c5e6b73c55f30736bb1e27fd5b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2025-64866 — Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by a low-privileged attacker to inject ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-64866",
-  "published": "2026-09-08T20:17:27.040",
-  "summary": "Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by a low-privileged attacker to inject malicious scripts into vulnerable form fields. Malicious JavaScript may be executed in a victim's browser when they browse to the page containing the vulnerable field. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2025-64866",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2025-64866 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) được lưu trữ có thể bị lạm dụng bởi kẻ tấn công có đặc quyền thấp để tiêm",
-  "key": "a7eba5d4b03b7fbac1c60a20b78fe0da8d4542d7"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2025-64868 — Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by a low-privileged attacker to inject ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-64868",
-  "published": "2026-09-08T20:17:27.157",
-  "summary": "Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by a low-privileged attacker to inject malicious scripts into vulnerable form fields. Malicious JavaScript may be executed in a victim's browser when they browse to the page containing the vulnerable field. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2025-64868",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2025-64868 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) được lưu trữ có thể bị lạm dụng bởi kẻ tấn công có đặc quyền thấp để tiêm",
-  "key": "22587c51fdb8d61a0a360e02e95274c42b4ee853"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-19232 — Adobe Experience Manager is affected by an Incorrect Authorization vulnerability that could result in arbitrary code execution in the context of the c",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19232",
-  "published": "2026-09-08T20:17:28.940",
-  "summary": "Adobe Experience Manager is affected by an Incorrect Authorization vulnerability that could result in arbitrary code execution in the context of the current user, potentially gaining elevated access or control over the victim's account or session. A low-privileged attacker could exploit this vulnerability to gain elevated access or control over the victim's account or session. Exploitation of this issue does not require user interaction. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-19232",
-   "cvss": 9.9,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2026-19232 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng ủy quyền không chính xác có thể dẫn đến việc thực thi mã tùy ý trong bối cảnh c",
-  "key": "2908b745f978952aa9759010c0cfff5cd1b51826"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-19479 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19479",
-  "published": "2026-09-08T20:17:29.213",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-19479",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2026-19479 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) dựa trên Dom",
-  "key": "5c3544c2c5f51bae85af3a46f38eec44c1164b22"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-19612 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19612",
-  "published": "2026-09-08T20:17:29.333",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-19612",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2026-19612 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) dựa trên Dom",
-  "key": "15fd873fba752f3ecd17a731192b4ae4c3415660"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-19644 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19644",
-  "published": "2026-09-08T20:17:29.447",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-19644",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2026-19644 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) dựa trên Dom",
-  "key": "0a277a2e58b605f83eff68a26a0488dcffb08075"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-19713 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19713",
-  "published": "2026-09-08T20:17:29.570",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-19713",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2026-19713 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) dựa trên Dom",
-  "key": "8975fd2d2c846c5ab8d74962267e3a128956b893"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-19872 — HTML::FormHandler versions before 0",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19872",
-  "published": "2026-09-08T20:17:29.850",
-  "summary": "HTML::FormHandler versions before 0.410000 for Perl allow cross-site scripting via a submitted value rendered unescaped in an error message.\n\nThe wrappers and renderers that emit a form's errors interpolate the error string straight into HTML with no escaping. Two of the library's own messages, no_match and not_allowed, splice the submitted value into that string, and a failing type constraint puts the rejected value into the message it builds, which _apply_actions hands to add_error.\n\nA field declared with a check regexp, a check list or a type constraint reaches those messages, with no custo",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-19872",
-   "cvss": null,
-   "ref": "https://github.com/gshank/html-formhandler/commit/2574fdb4561f5c32d44cfbfbb3188345d49eb5a2.patch"
-  },
-  "title_vi": "CVE-2026-19872 — HTML:: FormHandlerphiên bản trước 0",
-  "key": "b343b85a5def2af094afd9474219936860f40e57"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-27227 — Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by a low-privileged attacker to inject ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-27227",
-  "published": "2026-09-08T20:17:31.893",
-  "summary": "Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by a low-privileged attacker to inject malicious scripts into vulnerable form fields. Malicious JavaScript may be executed in a victim's browser when they browse to the page containing the vulnerable field. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-27227",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2026-27227 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) được lưu trữ có thể bị lạm dụng bởi kẻ tấn công có đặc quyền thấp để tiêm",
-  "key": "0fb470c97901efe470190be926e1246bd10c516f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28659 — In MicroXR Blobstore, there is a possible way to access other app's files due to a missing permission check",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28659",
-  "published": "2026-09-08T20:17:32.957",
-  "summary": "In MicroXR Blobstore, there is a possible way to access other app's files due to a missing permission check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28659",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/xr/2026/2026-09-01"
-  },
-  "title_vi": "CVE-2026-28659 — Trong MicroXR Blobstore, có một cách khả thi để truy cập các tệp của ứng dụng khác do thiếu kiểm tra quyền",
-  "key": "285806da3019b10e2172ed9ae96b6093942ddeaa"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-48273 — ColdFusion is affected by an Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection') vulnerability that could result in",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-48273",
-  "published": "2026-09-08T20:17:33.560",
-  "summary": "ColdFusion is affected by an Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection') vulnerability that could result in arbitrary code execution in the context of the current user. A low-privileged attacker could exploit this vulnerability to execute arbitrary code. Exploitation of this issue does not require user interaction. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-48273",
-   "cvss": 9.9,
-   "ref": "https://helpx.adobe.com/security/products/coldfusion/apsb26-119.html"
-  },
-  "title_vi": "CVE-2026-48273 — ColdFusion bị ảnh hưởng bởi việc trung hòa các chỉ thị không đúng cách trong lỗ hổng Mã đánh giá động ('Eval Injection') có thể dẫn đến",
-  "key": "4ea3c51eae8a2fa4c6a3aaef6dba25e0c9119c0d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-49883 — In checkReadPermission of PermissionsManager",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-49883",
-  "published": "2026-09-08T20:17:33.690",
-  "summary": "In checkReadPermission of PermissionsManager.java, there is a possible way to monitor sensitive device state data due to a missing permission check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-49883",
-   "cvss": null,
-   "ref": "https://source.android.com/docs/security/bulletin/wear/2026/2026-09-01"
-  },
-  "title_vi": "",
-  "key": "697621c51d3f1b24e4c2b58aaaa64774e611144e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-52486 — An issue in OpenDDS 3",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-52486",
-  "published": "2026-09-08T20:17:34.920",
-  "summary": "An issue in OpenDDS 3.33.x allows a local attacker to cause a denial of service via the verify function in the SIgnedDocument module",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-52486",
-   "cvss": null,
-   "ref": "https://gist.github.com/lkloliver/31a58b0b613a5f4d82dd183b353bbdf2"
-  },
-  "title_vi": "CVE-2026-52486 — Một vấn đề trong OpenDDS 3",
-  "key": "8fae6d66002e90c002e92e7a79f713ee2e846929"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-71356 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71356",
-  "published": "2026-09-08T20:17:58.433",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-71356",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2026-71356 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) dựa trên Dom",
-  "key": "f76b0faef30081c5a9a9efdba79520d41de5d5f3"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-71357 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71357",
-  "published": "2026-09-08T20:17:58.560",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-71357",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2026-71357 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) dựa trên Dom",
-  "key": "ab9120bc97b8be7e3b79e203c93be291ed0b083b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-71388 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71388",
-  "published": "2026-09-08T20:17:58.687",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-71388",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2026-71388 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) dựa trên Dom",
-  "key": "c3839f7ab3d3f4e1d566c1f3087d55801e7dd3e0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-71440 — Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by a low-privileged attacker to inject ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71440",
-  "published": "2026-09-08T20:17:58.820",
-  "summary": "Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by a low-privileged attacker to inject malicious scripts into vulnerable form fields. Malicious JavaScript may be executed in a victim's browser when they browse to the page containing the vulnerable field. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-71440",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2026-71440 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) được lưu trữ có thể bị lạm dụng bởi kẻ tấn công có đặc quyền thấp để tiêm",
-  "key": "808332bc42cceeeec69799c0f405dbbaf0545972"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-71565 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71565",
-  "published": "2026-09-08T20:17:59.960",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-71565",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2026-71565 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) dựa trên Dom",
-  "key": "1543f7e7acc0241c5658aa1a4b43f2f0695a252d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72626 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72626",
-  "published": "2026-09-08T20:18:01.113",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72626",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2026-72626 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) dựa trên Dom",
-  "key": "aa2439276d1f1be84424b633f2bf98ee4a8601a2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-72627 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72627",
-  "published": "2026-09-08T20:18:01.250",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-72627",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2026-72627 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) dựa trên Dom",
-  "key": "ca4d3f5a2574b946c1fb93893e58b9c558a3f6e4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75629 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75629",
-  "published": "2026-09-08T20:18:12.617",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75629",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2026-75629 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) dựa trên Dom",
-  "key": "b4fa5fa7c90a93ae1f5a5d4798b39f4d83e51eb0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75631 — Photoshop Desktop is affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in the context of the current user",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75631",
-  "published": "2026-09-08T20:18:12.733",
-  "summary": "Photoshop Desktop is affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75631",
-   "cvss": 7.8,
-   "ref": "https://helpx.adobe.com/security/products/photoshop/apsb26-130.html"
-  },
-  "title_vi": "CVE-2026-75631 — Photoshop Desktop bị ảnh hưởng bởi lỗ hổng ghi vượt quá giới hạn có thể dẫn đến việc thực thi mã tùy ý trong bối cảnh người dùng hiện tại",
-  "key": "dba7afa05cbc7b7d204adc561749bc531a71480a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75635 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75635",
-  "published": "2026-09-08T20:18:12.847",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75635",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2026-75635 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) dựa trên Dom",
-  "key": "dccbf4b31e957737212320eefa6c691bd2818215"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75636 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75636",
-  "published": "2026-09-08T20:18:12.970",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75636",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2026-75636 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) dựa trên Dom",
-  "key": "6150fd031d5d2de2d8ddc4b95cf2f9b707b6067f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75637 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75637",
-  "published": "2026-09-08T20:18:13.080",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75637",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2026-75637 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) dựa trên Dom",
-  "key": "ed8e1004432c72789f0627713adaed226dd5d696"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75639 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75639",
-  "published": "2026-09-08T20:18:13.200",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75639",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2026-75639 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) dựa trên Dom",
-  "key": "472c7a340cd340f5f339915da299135fdf1b4840"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75640 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75640",
-  "published": "2026-09-08T20:18:13.310",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75640",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2026-75640 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) dựa trên Dom",
-  "key": "1839bde9ed2041ea3163ca315ac72fa872efbe66"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75642 — Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by a low-privileged attacker to inject ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75642",
-  "published": "2026-09-08T20:18:13.427",
-  "summary": "Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by a low-privileged attacker to inject malicious scripts into vulnerable form fields. Malicious JavaScript may be executed in a victim's browser when they browse to the page containing the vulnerable field. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75642",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2026-75642 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) được lưu trữ có thể bị lạm dụng bởi kẻ tấn công có đặc quyền thấp để tiêm",
-  "key": "0ad3430841c82ab4cf46e0fe83918f1be2c6f3f6"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75643 — Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by a low-privileged attacker to inject ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75643",
-  "published": "2026-09-08T20:18:13.543",
-  "summary": "Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by a low-privileged attacker to inject malicious scripts into vulnerable form fields. Malicious JavaScript may be executed in a victim's browser when they browse to the page containing the vulnerable field. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75643",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2026-75643 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) được lưu trữ có thể bị lạm dụng bởi kẻ tấn công có đặc quyền thấp để tiêm",
-  "key": "7fa305ddef8c71010bf98aa13ea0cfb853cf66bd"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75644 — Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by a low-privileged attacker to inject ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75644",
-  "published": "2026-09-08T20:18:13.657",
-  "summary": "Adobe Experience Manager is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by a low-privileged attacker to inject malicious scripts into vulnerable form fields. Malicious JavaScript may be executed in a victim's browser when they browse to the page containing the vulnerable field. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75644",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2026-75644 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) được lưu trữ có thể bị lạm dụng bởi kẻ tấn công có đặc quyền thấp để tiêm",
-  "key": "c4ac3bb808c4acbc3e7a7f6e22735590fa140ae0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75646 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75646",
-  "published": "2026-09-08T20:18:13.773",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75646",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2026-75646 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) dựa trên Dom",
-  "key": "1714d49cfc4ea21c9c4c88c03fe8293e2588cdcd"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75647 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75647",
-  "published": "2026-09-08T20:18:13.890",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75647",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "CVE-2026-75647 — Adobe Experience Manager bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) dựa trên Dom",
-  "key": "8b14408fec9e7141c2be2d2921618e86f62cb112"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75651 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75651",
-  "published": "2026-09-08T20:18:14.073",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75651",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "",
-  "key": "6c14211d98dd568e590d3c833298f46d3e43dc12"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75652 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75652",
-  "published": "2026-09-08T20:18:14.197",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75652",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "",
-  "key": "cfc899356a5318071449e72fa94259048435fbf4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75657 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75657",
-  "published": "2026-09-08T20:18:14.313",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75657",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "",
-  "key": "37d2dd0ba6ae6f6245c756972732d2cb15cc39b4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75659 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75659",
-  "published": "2026-09-08T20:18:14.427",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75659",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "",
-  "key": "7bd544785f147ec9152b38d81d056e7c1e080f6f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75660 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75660",
-  "published": "2026-09-08T20:18:14.543",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75660",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "",
-  "key": "9175df5616c963fe1b61066d6a47d3d6653ef9e0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75661 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75661",
-  "published": "2026-09-08T20:18:14.657",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75661",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "",
-  "key": "0061cd4d0a07947248a61f80bfd74af950f108c2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75666 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75666",
-  "published": "2026-09-08T20:18:14.777",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75666",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "",
-  "key": "2a8d1135e984178d744eae26f7b1134743d171ab"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75667 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75667",
-  "published": "2026-09-08T20:18:14.890",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75667",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "",
-  "key": "59c9c5be660e7e5daf61ccecd1cdc5ea0cc2da0b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75668 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75668",
-  "published": "2026-09-08T20:18:15.007",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75668",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "",
-  "key": "90765051458e70a57c7d15738082e574caf54a3d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75669 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75669",
-  "published": "2026-09-08T20:18:15.137",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75669",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "",
-  "key": "163b959eccff6b16f7be1d4fc0a420ade9534d04"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75670 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75670",
-  "published": "2026-09-08T20:18:15.277",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75670",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "",
-  "key": "fd8e522641db729310c6ecd0237c17b39d96df54"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75671 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75671",
-  "published": "2026-09-08T20:18:15.400",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75671",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "",
-  "key": "4a24152cf00142ad2bc0265ebf37810cdbeee01f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75672 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75672",
-  "published": "2026-09-08T20:18:15.513",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75672",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "",
-  "key": "7ab60f7f2fd9cc6b5b23213bbed46f27f86964ce"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75674 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75674",
-  "published": "2026-09-08T20:18:15.630",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75674",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "",
-  "key": "4e90753af78f55a755c66a48e8e4cbd003717134"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75675 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75675",
-  "published": "2026-09-08T20:18:15.747",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75675",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "",
-  "key": "6ed5c22f3c42ce99878a9733a95d3da33364254b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75677 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75677",
-  "published": "2026-09-08T20:18:15.863",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75677",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "",
-  "key": "ab5d6160aabac96dde378f973d8fdd75392c21d7"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75678 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75678",
-  "published": "2026-09-08T20:18:15.977",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75678",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "",
-  "key": "cffb1e5b13732d9e6f097364dc14860b6faa1746"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75679 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75679",
-  "published": "2026-09-08T20:18:16.103",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75679",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "",
-  "key": "4bca0f1e5e867ccc0dd45040e122761ac7c25d69"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75680 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75680",
-  "published": "2026-09-08T20:18:16.217",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75680",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "",
-  "key": "9edf8f543546112a6314e0a011feef11181d514d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75681 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75681",
-  "published": "2026-09-08T20:18:16.330",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75681",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "",
-  "key": "c099dd915a60f49311761859d16424efda30d728"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75683 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75683",
-  "published": "2026-09-08T20:18:16.443",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75683",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "",
-  "key": "62b1c56b344926aad3081571b492fa938b9c0e7d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75685 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75685",
-  "published": "2026-09-08T20:18:16.557",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75685",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "",
-  "key": "3f2bb45a3a4824819b51a9deb6ccb189ecdf2274"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75687 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75687",
-  "published": "2026-09-08T20:18:16.670",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75687",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "",
-  "key": "b275ab9e86b722ad29b60aa3451a23e48068b3eb"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75690 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75690",
-  "published": "2026-09-08T20:18:16.787",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75690",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "",
-  "key": "491b9086d812f9b526465a361d5fd9cc14d32215"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75691 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75691",
-  "published": "2026-09-08T20:18:16.903",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75691",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "",
-  "key": "e3b55bc912d5437e9a515671629d87e9433a4d57"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75692 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75692",
-  "published": "2026-09-08T20:18:17.023",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75692",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "",
-  "key": "c61b05fed94717bcf2f2eabd9c92424b88a4ae6b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75693 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75693",
-  "published": "2026-09-08T20:18:17.143",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75693",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "",
-  "key": "504b81eeb5cc0a055ac7cc438575a47591d813e0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75694 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75694",
-  "published": "2026-09-08T20:18:17.267",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75694",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "",
-  "key": "87d203b1f4bbf3d8a7e8d719b08c7449fef50afe"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75695 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75695",
-  "published": "2026-09-08T20:18:17.390",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75695",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "",
-  "key": "105a59f182ad906ab5291429a68f461bc56d7535"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75696 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75696",
-  "published": "2026-09-08T20:18:17.517",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75696",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "",
-  "key": "b3d88c979cde8b2e8f4cca41683a0e2da7d799e5"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75700 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75700",
-  "published": "2026-09-08T20:18:17.663",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75700",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "",
-  "key": "bf3eddb2de3e701943c0bdebb8786c0b35008c48"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75701 — Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75701",
-  "published": "2026-09-08T20:18:17.780",
-  "summary": "Adobe Experience Manager is affected by a DOM-based Cross-Site Scripting (XSS) vulnerability. An attacker could exploit this issue by manipulating the DOM environment to execute malicious JavaScript within the context of the victim's browser. Exploitation of this issue requires user interaction in that a victim must visit a crafted webpage. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75701",
-   "cvss": 5.4,
-   "ref": "https://helpx.adobe.com/security/products/experience-manager/apsb26-98.html"
-  },
-  "title_vi": "",
-  "key": "9e06a8cc4785a4c864288bd050213cb05da1d53f"
  }
 ]
