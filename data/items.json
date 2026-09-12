@@ -1,5 +1,679 @@
 [
  {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Chủ tịch Trung Quốc kêu gọi BRICS thúc đẩy phát triển dựa trên đổi mới sáng tạo",
+  "link": "https://www.vietnamplus.vn/chu-tich-trung-quoc-keu-goi-brics-thuc-day-phat-trien-dua-tren-doi-moi-sang-tao-post1135822.vnp",
+  "published": "2026-09-12T14:56:09+00:00",
+  "summary": "Chủ tịch Trung Quốc kêu gọi các nước BRICS nên chủ động nắm bắt cơ hội, tăng cường hợp tác trong lĩnh vực AI, khuyến khích phát triển mã nguồn mở, sự cởi mở, hợp tác và chia sẻ. BRICS thông qua Tuyên bố chung New Delhi 2026 Khai mạc Hội nghị thượng đỉnh BRICS lần thứ 18 tại thủ đô New Delhi của Ấn Độ Thủ tướng tới Ấn Độ, tăng cường quan hệ với các nước thành viên và đối tác BRICS",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "d03374bcef34e664bd1f2512fb72f39a6ac7977c"
+ },
+ {
+  "source": "Báo Tin tức (TTXVN) KH-CN",
+  "title": "OpenAI: Tác nhân AI tự ý tấn công các nền tảng mã nguồn mở",
+  "link": "https://baotintuc.vn/khoa-hoc-cong-nghe/openai-tac-nhan-ai-tu-y-tan-cong-cac-nen-tang-ma-nguon-mo-20260912185752120.htm",
+  "published": "2026-09-12T14:57:34.977772+00:00",
+  "summary": "Các nhà nghiên cứu cho biết những tác nhân AI đang được OpenAI thử nghiệm đã tấn công nền tảng cung cấp phần mềm RubyGems hai tháng trước khi xâm nhập nền tảng mã nguồn mở Hugging Face.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "05893af62a69022e8520a35a7daccf068dbaf9ed"
+ },
+ {
+  "source": "Thanh Niên Công nghệ",
+  "title": "Meta thừa nhận t&iacute;nh năng gợi &yacute; của Meta AI &#039;đi qu&aacute; giới hạn&#039;",
+  "link": "https://thanhnien.vn/meta-thua-nhan-tinh-nang-goi-y-cua-meta-ai-di-qua-gioi-han-185260912192054386.htm",
+  "published": "2026-09-12T13:11:00+00:00",
+  "summary": "Khả năng c&aacute; nh&acirc;n h&oacute;a của Meta AI g&acirc;y tranh c&atilde;i sau khi chatbot chủ động gợi &yacute; c&acirc;u hỏi dựa tr&ecirc;n th&ocirc;ng tin về con người d&ugrave;ng.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "32ebd54bfb115ecb5c53e6450909763978bdd0df"
+ },
+ {
+  "source": "GenK",
+  "title": "Người dùng tưởng đang dùng Kimi, hóa ra là Claude AI trả lời, làm lộ cả dữ liệu nhạy cảm của Trung Quốc",
+  "link": "https://genk.vn/nguoi-dung-tuong-dang-dung-kimi-hoa-ra-la-claude-ai-tra-loi-lam-lo-ca-du-lieu-nhay-cam-cua-trung-quoc-165260912194259379.chn",
+  "published": "2026-09-12T14:57:26.658953+00:00",
+  "summary": "Đây chính là một phần các cáo buộc thẳng thừng của Anthropic dành cho Moonshot AI và các AI Lab Trung Quốc trong báo cáo về việc các AI Lab này đã rút ruột Claude AI của họ như thế nào.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "2cee0583abb821def515db8a936e8284e7d52f85"
+ },
+ {
+  "source": "GenK",
+  "title": "4 câu hỏi để biết trợ lý AI trên điện thoại có dùng được không",
+  "link": "https://genk.vn/4-cau-hoi-de-biet-tro-ly-ai-tren-dien-thoai-co-dung-duoc-khong-165260912180209448.chn",
+  "published": "2026-09-12T14:57:26.658978+00:00",
+  "summary": "Mỗi mùa ra mắt, các hãng lại chiếu những đoạn phim trình diễn trợ lý AI gần như giống hệt nhau. Thứ thị trường đang thiếu không phải thêm tính năng mới, mà là cách đo xem tính năng nào thật sự dùng được ngoài đời.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "1d47d60cd06f0921318f8d94594927d9b91d0555"
+ },
+ {
+  "source": "VnExpress Số hóa",
+  "title": "Anthropic tố chiến thuật 'tẩy nguồn' của loạt công ty AI Trung Quốc",
+  "link": "https://vnexpress.net/anthropic-to-chien-thuat-tay-nguon-cua-loat-cong-ty-ai-trung-quoc-5119484.html",
+  "published": "2026-09-12T08:30:00+00:00",
+  "summary": "Anthropic nói bị nhiều công ty như Alibaba, Moonshot, DeepSeek dùng chiến thuật tinh vi để \"chưng cất trái phép\", khai thác khả năng từ mô hình tiên tiến của họ.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "11e1799dd410f5ab3f29adf139659211e99cbfa2"
+ },
+ {
+  "source": "VnExpress Số hóa",
+  "title": "Meta kêu gọi nhân viên quay lại làm quản lý",
+  "link": "https://vnexpress.net/meta-keu-goi-nhan-vien-quay-lai-lam-quan-ly-5119383.html",
+  "published": "2026-09-12T10:00:00+00:00",
+  "summary": "Sau thời gian tái cơ cấu, Meta được cho là đang thay đổi chính sách khi kêu gọi một số nhân viên từng là quản lý mảng AI quay trở lại đảm nhận các vị trí này.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "d58fa0ed34756ae888e46e9acb5a6829a06cfb8f"
+ },
+ {
+  "source": "SecurityWeek",
+  "title": "BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days",
+  "link": "https://www.securityweek.com/bluemoon-exploit-kit-chains-recent-chrome-windows-zero-days/",
+  "published": "2026-09-12T11:10:00+00:00",
+  "summary": "Multiple espionage-motivated threat actors have adopted BlueMoon in opportunistic, rushed deployments. The post BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days appeared first on SecurityWeek .",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days",
+  "key": "6cf0ca5cac54e8eaab836f187bb8cf604b3d95c7"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
+  "link": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
+  "published": "2026-09-12T10:24:44+00:00",
+  "summary": "Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks against AI, but the ordinary, everyday footprint of an organization using it, from developers running coding agents and non-technical staff signing consumer AI tools into corporate",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Khi Toàn Bộ Công Ty Áp Dụng AI: Điều Gì Sẽ Xảy Ra Với SOC Của Bạn",
+  "key": "a25912bd03dbb6d6499d917c4da9ba2f92569abc"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
+  "link": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
+  "published": "2026-09-12T09:07:56+00:00",
+  "summary": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx. On May 12, Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, disclosed details of a coordinated cyber attack that targeted the package manager for the",
+  "categories": [
+   "ai",
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Các đại lý OpenAI được liên kết với chiến dịch RubyGems đã đạt được RCE trên máy chủ RubyDoc",
+  "key": "410586b29f2937fad47dea005e6a0ef8403def79"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-89172 — Improper protection of physical side channels vulnerability in Microchip AN1044, Microchip AN953, and Microchip SW300052",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89172",
+  "published": "2026-09-12T10:16:36.317",
+  "summary": "Improper protection of physical side channels vulnerability in Microchip AN1044, Microchip AN953, and Microchip SW300052.\n\nThis issue affects AN1044: through A; AN953: through A; SW300052: through 2.6.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-89172",
+   "cvss": null,
+   "ref": "https://www.microchip.com/en-us/application-notes/an1044"
+  },
+  "title_vi": "CVE-2026-89172 — Bảo vệ không đúng cách lỗ hổng kênh bên vật lý trong Microchip AN1044, Microchip AN953 và Microchip SW300052",
+  "key": "469a69f6b23d674ba810a50629ce7c25373fbc76"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-90472 — msgpack-java through 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90472",
+  "published": "2026-09-12T11:16:34.180",
+  "summary": "msgpack-java through 0.9.12 contains a stack overflow vulnerability in MessageUnpacker.unpackValue() that recursively deserializes arrays and maps without nesting depth limits. Attackers can craft payloads with deeply nested arrays to exhaust the deserializing thread's stack and trigger StackOverflowError, causing per-request deserialization failures.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-90472",
+   "cvss": 5.3,
+   "ref": "https://github.com/msgpack/msgpack-java"
+  },
+  "title_vi": "CVE-2026-90472 — msgpack-java đến 0",
+  "key": "4034880458e83623c6cd2f989fa47513d7af6f10"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-90473 — msgpack-java through 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90473",
+  "published": "2026-09-12T11:16:34.347",
+  "summary": "msgpack-java through 0.9.12 contains an integer overflow vulnerability in MessageUnpacker.skipValue() when processing MAP32 containers with large element counts. Attackers can supply a MAP32 element count at or above 0x40000000 that wraps when doubled, causing the parser cursor to desynchronize and attacker-controlled data to be returned in place of later fields.",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-90473",
+   "cvss": 5.3,
+   "ref": "https://github.com/msgpack/msgpack-java"
+  },
+  "title_vi": "CVE-2026-90473 — msgpack-java đến 0",
+  "key": "be28b09d622e4065b2a769f7e30b63f43e0021e4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-90474 — MCPHub before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90474",
+  "published": "2026-09-12T11:16:34.483",
+  "summary": "MCPHub before 1.0.32 contains an authentication bypass vulnerability in its embedded OAuth 2.0 authorization server where client authentication is disabled by default and PKCE enforcement is optional. Attackers who obtain an authorization code through interception can redeem it for access tokens without providing a client secret or PKCE verifier, gaining access to victim accounts and their privileges.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-90474",
+   "cvss": 6.8,
+   "ref": "https://github.com/samanhappy/mcphub/blob/v1.0.31/src/services/oauthServerService.ts#L26-L38"
+  },
+  "title_vi": "CVE-2026-90474 — MCPHub trước 1",
+  "key": "a3764a3a40441e491501ffda4fb8d4f350b0a92f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-10148 — The Booking for Appointments and Events Calendar plugin for WordPress is vulnerable to Stored Cross-Site Scripting via multiple Elementor widgets in v",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-10148",
+  "published": "2026-09-12T13:16:50.193",
+  "summary": "The Booking for Appointments and Events Calendar plugin for WordPress is vulnerable to Stored Cross-Site Scripting via multiple Elementor widgets in versions up to and including 2.4.9. This is due to insufficient input sanitization and output escaping on the 'load_manually' parameter in the render() methods of classes. This makes it possible for authenticated attackers, with Contributor-level access and above who can use Elementor, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. The vulnerability was partially patched in version 2.4.8.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-10148",
+   "cvss": 6.4,
+   "ref": "https://plugins.trac.wordpress.org/browser/ameliabooking/tags/2.2.1/src/Infrastructure/WP/Elementor/AmeliaEventsCalendarBookingElementorWidget.php#L186"
+  },
+  "title_vi": "CVE-2026-10148 — Plugin Đặt lịch hẹn và sự kiện cho WordPress dễ bị tấn công Tập lệnh chéo trang được lưu trữ thông qua nhiều tiện ích con Elementor trong v",
+  "key": "7b8242a1d63f8ae715ff60ef345678f36cda8567"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-15451 — The MemberPress Corporate Accounts plugin for WordPress is vulnerable to Privilege Escalation in versions up to, and including, 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-15451",
+  "published": "2026-09-12T13:16:50.940",
+  "summary": "The MemberPress Corporate Accounts plugin for WordPress is vulnerable to Privilege Escalation in versions up to, and including, 1.5.39. This is due to a mass assignment vulnerability in the 'add_sub_account_user' function that passes the raw 'userdata' array to 'wp_insert_user' without filtering dangerous keys like role or ID. This makes it possible for authenticated attackers, with subscriber-level access and above who hold a corporate account, to create new administrator accounts or hijack existing administrator accounts by overwriting their email addresses. The vulnerability was partially p",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-15451",
+   "cvss": 8.8,
+   "ref": "https://memberpress.com/addons/corporate-accounts/"
+  },
+  "title_vi": "CVE-2026-15451 — Plugin Tài khoản Doanh nghiệp MemberPress cho WordPress dễ bị nâng cấp đặc quyền trong các phiên bản lên đến, và bao gồm, 1",
+  "key": "99c7125f5a0dbffd2cbb05bdc1f719ba203318ec"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-90533 — Flowise before 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90533",
+  "published": "2026-09-12T13:16:51.100",
+  "summary": "Flowise before 3.1.4 contains a broken access control vulnerability in GET /api/v1/organizationuser that allows any authenticated organization member to retrieve the organization owner's full user record including bcrypt password hash and temporary tokens. Attackers can query the endpoint with any user ID to obtain the owner's credential hash for offline cracking, enabling account takeover of the highest-privileged account.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-90533",
+   "cvss": null,
+   "ref": "https://github.com/FlowiseAI/Flowise/security/advisories/GHSA-fhxm-xxcx-g6x3"
+  },
+  "title_vi": "CVE-2026-90533 — Lưu lượng trước 3",
+  "key": "b2bca35a98bf693bd1315682c539d29b7c5a7a13"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-90534 — Flowise is a low-code platform for building LLM applications",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90534",
+  "published": "2026-09-12T13:16:51.247",
+  "summary": "Flowise is a low-code platform for building LLM applications. In versions up to and including 3.1.3, the POST /api/v1/node-load-method/:name endpoint is mounted without any route-level permission check and invokes component loadMethods with an attacker-controlled nodeName, loadMethod, inputs, and credential value. The selected credential is resolved by raw Credential.id via getCredentialData() and decrypted without verifying Credential.workspaceId against the caller's active or shared workspace, unlike other credential read paths which are workspace-scoped. As a result, an authenticated low-pr",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-90534",
+   "cvss": null,
+   "ref": "https://github.com/FlowiseAI/Flowise/security/advisories/GHSA-hqvm-7539-v83j"
+  },
+  "title_vi": "CVE-2026-90534 — Flowise là một nền tảng low-code để xây dựng các ứng dụng LLM",
+  "key": "ee33df243b247a0036020c5d0a8440575c2b48f4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-90535 — Flowise versions before 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90535",
+  "published": "2026-09-12T13:16:51.380",
+  "summary": "Flowise versions before 3.1.4 contain an unauthenticated denial of service vulnerability in the /api/v1/text-to-speech/abort endpoint that accepts user-supplied chatflowId and chatId without ownership verification. Attackers can terminate active chatflow predictions for any user by submitting requests with known chatflow and chat identifiers, causing targeted service disruption.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-90535",
+   "cvss": null,
+   "ref": "https://github.com/FlowiseAI/Flowise/security/advisories/GHSA-xhxx-56g3-mx2r"
+  },
+  "title_vi": "CVE-2026-90535 — Phiên bản Flowise trước 3",
+  "key": "e21ebeaf9bb298cc669e552af9e187451396f33b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-90536 — WWBN AVideo through commit c3edcc274c389816d434acadac07ee78eaf330c1 fails to authorize access to the adsInfo API endpoint, allowing unauthenticated at",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90536",
+  "published": "2026-09-12T13:16:51.523",
+  "summary": "WWBN AVideo through commit c3edcc274c389816d434acadac07ee78eaf330c1 fails to authorize access to the adsInfo API endpoint, allowing unauthenticated attackers to retrieve password-protected video owner identifiers. Attackers can call the adsInfo API with a videos_id parameter to obtain the owner's user ID and personalized ad creative URLs without authentication or permission checks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-90536",
+   "cvss": 5.3,
+   "ref": "https://github.com/WWBN/AVideo/security/advisories/GHSA-989c-frwf-gprj"
+  },
+  "title_vi": "CVE-2026-90536 — WWBN AVideo thông qua commit c3edcc274c389816d434acadac07ee78eaf330c1 không cho phép truy cập vào điểm cuối API adsInfo, cho phép chưa được xác thực tại",
+  "key": "42b583afd9c461c3ec15b2c17725d15b9dc63f67"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-90537 — WWBN AVideo through commit c3edcc274c389816d434acadac07ee78eaf330c1 contains a missing authorization vulnerability in plugin/Scheduler/sendEmail",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90537",
+  "published": "2026-09-12T13:16:51.667",
+  "summary": "WWBN AVideo through commit c3edcc274c389816d434acadac07ee78eaf330c1 contains a missing authorization vulnerability in plugin/Scheduler/sendEmail.json.php that allows unauthenticated attackers to access scheduler email jobs by providing a site-wide daily token. Attackers can enumerate scheduler jobs, read private live titles and email addresses, and trigger email sending by supplying any valid daily token obtained from Live pages.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-90537",
+   "cvss": 8.2,
+   "ref": "https://github.com/WWBN/AVideo/security/advisories/GHSA-qq59-3jwp-hgj9"
+  },
+  "title_vi": "CVE-2026-90537 — WWBN AVideo thông qua commit c3edcc274c389816d434acadac07ee78eaf330c1 chứa lỗ hổng xác thực bị thiếu trong plugin/Scheduler/sendEmail",
+  "key": "8e955484ea21ad131b22e583bea5bc71205608db"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-90538 — WWBN AVideo through commit c3edcc274c389816d434acadac07ee78eaf330c1 contains a missing authorization vulnerability in playlistsFromUser",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90538",
+  "published": "2026-09-12T13:16:51.807",
+  "summary": "WWBN AVideo through commit c3edcc274c389816d434acadac07ee78eaf330c1 contains a missing authorization vulnerability in playlistsFromUser.json.php that allows unauthenticated attackers to read private playlists by requesting another user's identifier. Attackers can retrieve Favorite and Watch Later playlists belonging to other users due to improper cache keying that conflates requests across different user contexts.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-90538",
+   "cvss": 5.3,
+   "ref": "https://github.com/WWBN/AVideo/security/advisories/GHSA-6382-hm4f-hxqg"
+  },
+  "title_vi": "CVE-2026-90538 — WWBN AVideo thông qua commit c3edcc274c389816d434acadac07ee78eaf330c1 chứa lỗ hổng xác thực bị thiếu trong danh sách phátTừNgười dùng",
+  "key": "2d60b5f127d088635ee6f8c2f24f66a7a20cba74"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-90539 — WWBN AVideo through commit c3edcc274c389816d434acadac07ee78eaf330c1 contains a missing authentication vulnerability in the plugin/TopMenu/menuItems",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90539",
+  "published": "2026-09-12T13:16:51.943",
+  "summary": "WWBN AVideo through commit c3edcc274c389816d434acadac07ee78eaf330c1 contains a missing authentication vulnerability in the plugin/TopMenu/menuItems.json.php endpoint that allows unauthenticated attackers to read inactive admin menu items by submitting a POST request with a menuId parameter. Attackers can retrieve hidden menu item URLs including embedded admin-tool secret query parameters not exposed in the public navbar.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-90539",
+   "cvss": 5.3,
+   "ref": "https://github.com/WWBN/AVideo/security/advisories/GHSA-h964-rxm2-fpgj"
+  },
+  "title_vi": "CVE-2026-90539 — WWBN AVideo thông qua commit c3edcc274c389816d434acadac07ee78eaf330c1 chứa lỗ hổng xác thực bị thiếu trong plugin/TopMenu/menuItems",
+  "key": "6597dd59120c1a16f4a0553230ad4be1d1c70d03"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-90540 — WWBN AVideo through commit c3edcc274c389816d434acadac07ee78eaf330c1 fails to validate watch permissions in the playListAddVideo",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90540",
+  "published": "2026-09-12T13:16:52.080",
+  "summary": "WWBN AVideo through commit c3edcc274c389816d434acadac07ee78eaf330c1 fails to validate watch permissions in the playListAddVideo.json.php endpoint when adding videos to playlists. Authenticated attackers can add password-protected videos they cannot watch to playlists they own by submitting the video ID and playlist ID parameters.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-90540",
+   "cvss": 4.3,
+   "ref": "https://github.com/WWBN/AVideo/security/advisories/GHSA-xhg9-rc5h-rp65"
+  },
+  "title_vi": "CVE-2026-90540 — WWBN AVideo thông qua commit c3edcc274c389816d434acadac07ee78eaf330c1 không xác thực quyền xem trong playListAddVideo",
+  "key": "30bf19bcb177403526e4b9bcd72bfc74abb55dcd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-90541 — WWBN AVideo through commit c3edcc274c389816d434acadac07ee78eaf330c1 fails to require authentication in the plugin/TopMenu/menus",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90541",
+  "published": "2026-09-12T13:16:52.220",
+  "summary": "WWBN AVideo through commit c3edcc274c389816d434acadac07ee78eaf330c1 fails to require authentication in the plugin/TopMenu/menus.json.php endpoint, allowing unauthenticated attackers to retrieve all menu data. Attackers can send GET requests to the endpoint to read inactive and admin-only menu names that are not displayed in the public navbar.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-90541",
+   "cvss": 5.3,
+   "ref": "https://github.com/WWBN/AVideo/security/advisories/GHSA-9xrr-c5w3-f5p7"
+  },
+  "title_vi": "CVE-2026-90541 — WWBN AVideo thông qua commit c3edcc274c389816d434acadac07ee78eaf330c1 không yêu cầu xác thực trong plugin/TopMenu/menu",
+  "key": "4859cc48a32dd786d92948bb573f02a00512c326"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-90542 — WWBN AVideo through commit c3edcc274c389816d434acadac07ee78eaf330c1 fails to validate that logged-in users can access live schedules before creating r",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90542",
+  "published": "2026-09-12T13:16:52.353",
+  "summary": "WWBN AVideo through commit c3edcc274c389816d434acadac07ee78eaf330c1 fails to validate that logged-in users can access live schedules before creating reminders via remindMe.json.php. Authenticated attackers can create scheduler reminders for private live schedules they cannot view and learn the private schedule title from the generated email job.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-90542",
+   "cvss": 5.4,
+   "ref": "https://github.com/WWBN/AVideo/security/advisories/GHSA-qf26-4xp7-q5h9"
+  },
+  "title_vi": "CVE-2026-90542 - WWBN AVideo thông qua cam kết c3edcc274c389816d434acadac07ee78eaf330c1 không xác thực được rằng người dùng đã đăng nhập có thể truy cập lịch biểu trực tiếp trước khi tạo r",
+  "key": "3dd0bdb86809d809ba4c325546fbd8c1b8e1c7e1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-90543 — WWBN AVideo at commit c3edcc274c389816d434acadac07ee78eaf330c1 and earlier, with the Live plugin enabled, contains a missing authentication vulnerabil",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90543",
+  "published": "2026-09-12T13:16:52.497",
+  "summary": "WWBN AVideo at commit c3edcc274c389816d434acadac07ee78eaf330c1 and earlier, with the Live plugin enabled, contains a missing authentication vulnerability in plugin/Live/socketMessageLiveOwner.json.php. The script reads the `key` and `msg` parameters from $_REQUEST, resolves the stream owner via LiveTransmition::keyExists, and verifies that the stream owner (not the caller) is an administrator; it performs no User::isLogged() check and enforces no CSRF token. As a result, an unauthenticated remote attacker who knows an administrator's Live stream key can call sendSocketSuccessMessageToUsers_id ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-90543",
+   "cvss": 5.3,
+   "ref": "https://github.com/WWBN/AVideo/security/advisories/GHSA-wcg2-x62c-m28x"
+  },
+  "title_vi": "CVE-2026-90543 — WWBN AVideo tại commit c3edcc274c389816d434acadac07ee78eaf330c1 và trước đó, với plugin Live được bật, chứa một lỗ hổng xác thực bị thiếu",
+  "key": "1b8ba8b78656d7ac1c67ecc584a110ebce97cc06"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-90544 — WWBN AVideo through commit c3edcc274c389816d434acadac07ee78eaf330c1 fails to validate video access permissions in the videoAddViewCount",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90544",
+  "published": "2026-09-12T13:16:52.640",
+  "summary": "WWBN AVideo through commit c3edcc274c389816d434acadac07ee78eaf330c1 fails to validate video access permissions in the videoAddViewCount.json.php endpoint before updating view statistics. Authenticated attackers can increment view counts and watch-time on videos they cannot access by submitting requests with arbitrary video IDs.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-90544",
+   "cvss": 4.3,
+   "ref": "https://github.com/WWBN/AVideo/security/advisories/GHSA-2fgr-549m-8g5w"
+  },
+  "title_vi": "CVE-2026-90544 — WWBN AVideo thông qua commit c3edcc274c389816d434acadac07ee78eaf330c1 không xác thực quyền truy cập video trong videoAddViewCount",
+  "key": "d439c4c51eb2ec3871a3c70ee72ec79988047c88"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-90545 — WWBN AVideo through commit c3edcc274c389816d434acadac07ee78eaf330c1 fails to validate video access permissions in the commentAddNew",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90545",
+  "published": "2026-09-12T13:16:52.777",
+  "summary": "WWBN AVideo through commit c3edcc274c389816d434acadac07ee78eaf330c1 fails to validate video access permissions in the commentAddNew.json.php endpoint, allowing authenticated users to post comments on password-protected and group-restricted videos. Attackers can submit POST requests with a valid session to add comments to videos they cannot watch, bypassing password and group access controls.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-90545",
+   "cvss": 4.3,
+   "ref": "https://github.com/WWBN/AVideo/security/advisories/GHSA-v3p2-4x76-7p8v"
+  },
+  "title_vi": "CVE-2026-90545 — WWBN AVideo thông qua commit c3edcc274c389816d434acadac07ee78eaf330c1 không xác thực quyền truy cập video trong bình luậnAddNew",
+  "key": "4bbf8db14cf5b0144428cd18f89952b5d2fafae1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-90546 — WWBN AVideo through commit c3edcc274c389816d434acadac07ee78eaf330c1 fails to validate video access permissions in the like",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90546",
+  "published": "2026-09-12T13:16:52.913",
+  "summary": "WWBN AVideo through commit c3edcc274c389816d434acadac07ee78eaf330c1 fails to validate video access permissions in the like.json.php endpoint, allowing logged-in users to record likes on password-protected and group-restricted videos. Attackers can submit like requests for videos they cannot watch to increment like counters and bypass access controls.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-90546",
+   "cvss": 4.3,
+   "ref": "https://github.com/WWBN/AVideo/security/advisories/GHSA-5jgf-mc35-5wg5"
+  },
+  "title_vi": "CVE-2026-90546 — WWBN AVideo thông qua commit c3edcc274c389816d434acadac07ee78eaf330c1 không xác thực quyền truy cập video theo cách tương tự",
+  "key": "36a40573d92114f03e2e628facd2511995fc3509"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-90547 — WWBN AVideo through commit c3edcc274c389816d434acadac07ee78eaf330c1 fails to validate user permissions in the Bookmark plugin getBookmarks",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90547",
+  "published": "2026-09-12T13:16:53.050",
+  "summary": "WWBN AVideo through commit c3edcc274c389816d434acadac07ee78eaf330c1 fails to validate user permissions in the Bookmark plugin getBookmarks.json.php endpoint, allowing unauthenticated attackers to read chapter names from password-protected videos. Attackers can query the endpoint with a video ID parameter to retrieve sensitive chapter metadata without authentication or password verification.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-90547",
+   "cvss": 5.3,
+   "ref": "https://github.com/WWBN/AVideo/security/advisories/GHSA-xv29-q875-59jq"
+  },
+  "title_vi": "CVE-2026-90547 — WWBN AVideo thông qua cam kết c3edcc274c389816d434acadac07ee78eaf330c1 không xác thực quyền người dùng trong plugin Bookmark getBookmarks",
+  "key": "4db2c7b1a004e26b0d19a68d00e488679286f4df"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-90548 — WWBN AVideo through commit c3edcc274c389816d434acadac07ee78eaf330c1 fails to validate user permissions in the ImageGallery list",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90548",
+  "published": "2026-09-12T13:16:53.187",
+  "summary": "WWBN AVideo through commit c3edcc274c389816d434acadac07ee78eaf330c1 fails to validate user permissions in the ImageGallery list.json.php endpoint, allowing unauthenticated access to list gallery files. Attackers can retrieve filenames and URLs of password-protected image galleries by directly accessing the endpoint, then fetch the exposed files without authentication.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-90548",
+   "cvss": 5.3,
+   "ref": "https://github.com/WWBN/AVideo/security/advisories/GHSA-vr35-39vf-9qp9"
+  },
+  "title_vi": "CVE-2026-90548 — WWBN AVideo thông qua commit c3edcc274c389816d434acadac07ee78eaf330c1 không xác thực quyền người dùng trong danh sách ImageGallery",
+  "key": "776cf5292722a1f79a82775b7f7eee27b9d7bd13"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-90549 — WWBN AVideo through commit c3edcc274c389816d434acadac07ee78eaf330c1 fails to properly authorize access to the videosAndroid",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90549",
+  "published": "2026-09-12T13:16:53.320",
+  "summary": "WWBN AVideo through commit c3edcc274c389816d434acadac07ee78eaf330c1 fails to properly authorize access to the videosAndroid.json.php endpoint, allowing unauthenticated guests to list password-protected videos with sensitive owner information. Attackers can retrieve video metadata including owner email, lastLogin, filename, and hashId by sending an unauthenticated GET request to the endpoint.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-90549",
+   "cvss": 5.3,
+   "ref": "https://github.com/WWBN/AVideo/security/advisories/GHSA-frrh-5hwx-jggr"
+  },
+  "title_vi": "CVE-2026-90549 — WWBN AVideo thông qua commit c3edcc274c389816d434acadac07ee78eaf330c1 không cho phép truy cập đúng cách vào các videoAndroid",
+  "key": "e141920d21ae6bfaf780884259710f29b5ff94ad"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-90550 — WWBN AVideo through commit c3edcc274c389816d434acadac07ee78eaf330c1 fails to check user authorization in the PlayerSkins mediaSession",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90550",
+  "published": "2026-09-12T13:16:53.467",
+  "summary": "WWBN AVideo through commit c3edcc274c389816d434acadac07ee78eaf330c1 fails to check user authorization in the PlayerSkins mediaSession.json.php endpoint before returning video metadata. Unauthenticated attackers can request the endpoint with a video ID parameter to retrieve password-protected video titles and owner email addresses without authentication.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-90550",
+   "cvss": 5.3,
+   "ref": "https://github.com/WWBN/AVideo/security/advisories/GHSA-g79r-wg9m-3fh3"
+  },
+  "title_vi": "CVE-2026-90550 — WWBN AVideo thông qua commit c3edcc274c389816d434acadac07ee78eaf330c1 không kiểm tra ủy quyền người dùng trong PlayerSkins mediaSession",
+  "key": "0fb6981d470d8bca61c50ea04f73cd5ed624003e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-90551 — WWBN AVideo through commit c3edcc274c389816d434acadac07ee78eaf330c1 fails to validate playlist ownership in the video_from_program API endpoint, allow",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90551",
+  "published": "2026-09-12T13:16:53.603",
+  "summary": "WWBN AVideo through commit c3edcc274c389816d434acadac07ee78eaf330c1 fails to validate playlist ownership in the video_from_program API endpoint, allowing unauthenticated access to private playlist contents. Attackers can query the API without authentication to enumerate private playlist names, owner information, and video titles including password-protected content.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-90551",
+   "cvss": 5.3,
+   "ref": "https://github.com/WWBN/AVideo/security/advisories/GHSA-7h47-x3h5-c8xq"
+  },
+  "title_vi": "CVE-2026-90551 — WWBN AVideo thông qua commit c3edcc274c389816d434acadac07ee78eaf330c1 không xác thực quyền sở hữu danh sách phát trong điểm cuối API video_from_program, cho phép",
+  "key": "3907bb571a8ad60a4f73da65bf339fe6becb3ca8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-90552 — WWBN AVideo through commit c3edcc274c389816d434acadac07ee78eaf330c1 fails to validate playlist ownership in the Playlists_schedules/list",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90552",
+  "published": "2026-09-12T13:16:53.747",
+  "summary": "WWBN AVideo through commit c3edcc274c389816d434acadac07ee78eaf330c1 fails to validate playlist ownership in the Playlists_schedules/list.json.php and Live/calendar.json.php endpoints, allowing authenticated and unauthenticated users to read private playlist schedule metadata. Attackers with canStream privileges or no authentication can retrieve schedule names, descriptions, timestamps, and playlist identifiers by querying these endpoints without ownership checks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-90552",
+   "cvss": 4.3,
+   "ref": "https://github.com/WWBN/AVideo/security/advisories/GHSA-f4q2-49rm-rxh7"
+  },
+  "title_vi": "CVE-2026-90552 — WWBN AVideo thông qua cam kết c3edcc274c389816d434acadac07ee78eaf330c1 không xác thực quyền sở hữu danh sách phát trong Danh sách phát_lịch biểu/danh sách",
+  "key": "99b6e4802077c34006d170c3dea493f72d7d2d97"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-90553 — vLLM before 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90553",
+  "published": "2026-09-12T13:16:53.887",
+  "summary": "vLLM before 0.28.0 contains a remote code execution vulnerability in the LlavaOnevision2 processor loader that ignores the trust_remote_code parameter when loading remote processor classes. Attackers can craft a malicious model with arbitrary code in processing_llava_onevision2.py that executes with vLLM process authority even when trust_remote_code is set to False.",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-90553",
+   "cvss": 7.8,
+   "ref": "https://github.com/vllm-project/vllm/security/advisories/GHSA-3c86-2m5g-59q7"
+  },
+  "title_vi": "CVE-2026-90553 — vLLM trước 0",
+  "key": "2cabd063c51dd5c2adfd13a34519f553f6736ba2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-90554 — vLLM versions >=0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90554",
+  "published": "2026-09-12T13:16:54.040",
+  "summary": "vLLM versions >=0.10.2 and <0.28.0 do not apply any audio decode-size or duration limit when extracting audio from video input for NanoNemotronVL models. In nano_nemotron_vl.py, _extract_audio_from_videos calls load_audio_pyav(BytesIO(video_bytes)) without the max_duration_s or max_decode_bytes parameters, so neither VLLM_MAX_AUDIO_DECODE_DURATION_S nor VLLM_MAX_AUDIO_DECODE_BYTES is enforced (unlike the direct audio upload path in AudioMediaIO). When a NanoNemotronVL model is served with use_audio_in_video=True, an attacker who supplies a small, highly compressed video as multimodal input can",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-90554",
+   "cvss": 6.2,
+   "ref": "https://github.com/vllm-project/vllm/security/advisories/GHSA-936p-m5pv-vvjf"
+  },
+  "title_vi": "CVE-2026-90554 — phiên bản vLLM >=0",
+  "key": "38428e8667a117fe6f2415f218132b5f71b807e0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-90555 — vLLM versions before 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90555",
+  "published": "2026-09-12T13:16:54.180",
+  "summary": "vLLM versions before 0.28.0 fail to validate audio sample rate headers in the transcription endpoint, allowing authenticated clients to bypass duration checks. Attackers can submit forged FLAC headers with inflated sample rates to trigger excessive memory allocation and crash the API server process affecting all tenants.",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-90555",
+   "cvss": 6.5,
+   "ref": "https://github.com/vllm-project/vllm/security/advisories/GHSA-99f2-hwrc-gvq8"
+  },
+  "title_vi": "CVE-2026-90555 — phiên bản vLLM trước 0",
+  "key": "0fb9ce4b0f227fc381ffc06fcf6a7d682a352171"
+ },
+ {
   "source": "Thanh Niên Công nghệ",
   "title": "Xuất hiện m&atilde; độc Android mới đ&aacute;nh cắp dữ liệu, tống tiền",
   "link": "https://thanhnien.vn/xuat-hien-ma-doc-android-moi-danh-cap-du-lieu-tong-tien-185260912134058631.htm",
@@ -1137,7 +1811,7 @@
    "cvss": null,
    "ref": "https://wpscan.com/vulnerability/7adbb52f-94e2-425e-9930-2ab856961b63/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84023 — The BEAR WordPress plugin before 1",
   "key": "1b54ffbe9bde6e5cd7a43cd3146065212c5c084c"
  },
  {
@@ -1155,7 +1829,7 @@
    "cvss": null,
    "ref": "https://wpscan.com/vulnerability/8ea75cb0-e6f0-4ea4-a70f-f9c4e2e16681/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84024 — The BEAR WordPress plugin before 1",
   "key": "de8a441b99926206854f7fce993656884b37e35f"
  },
  {
@@ -1173,7 +1847,7 @@
    "cvss": null,
    "ref": "https://wpscan.com/vulnerability/468a9f1a-1a16-410f-97a0-8a87a974df21/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84025 — The BEAR WordPress plugin before 1",
   "key": "a07bf743e06b96e1eca9874434151937b84b919e"
  },
  {
@@ -1353,7 +2027,7 @@
    "cvss": null,
    "ref": "https://wpscan.com/vulnerability/e7f3b29e-2503-41bb-b15c-3c0ef71a3a00/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-87891 — The Rox Appointment Booking WordPress plugin before 1",
   "key": "7516cb8fe6a8398e490a0aa5a03905e45361e0a8"
  },
  {
@@ -1371,7 +2045,7 @@
    "cvss": null,
    "ref": "https://wpscan.com/vulnerability/971084b9-5bf9-438a-a94d-435d1b1f01d1/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-87892 — The Rox Appointment Booking WordPress plugin before 1",
   "key": "ff81af2badf6a956b203ec1d5ff4bcaee1d6f921"
  },
  {
@@ -1389,7 +2063,7 @@
    "cvss": null,
    "ref": "https://wpscan.com/vulnerability/3f098db1-5406-4a77-adb1-99a66eb806a4/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-87894 — The Rox Appointment Booking WordPress plugin before 1",
   "key": "5a9453f04fd0d64f9fa056026e5ad9abbe63c80d"
  },
  {
@@ -1709,7 +2383,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Sự phức tạp tin tưởng GPT-6 Astra với các hệ thống đầu cuối",
   "key": "46315695e7c154d6ca91faa08e8994561e960653"
  },
  {
@@ -1737,7 +2411,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Người dùng ở Houthi-Held Yemen đã cố gắng phát triển vũ khí tiên tiến với AI, Anthropic nói",
   "key": "c1dbc847e9a9d1b6056573a987d0dc778b2750e0"
  },
  {
@@ -5431,7 +6105,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Viết blog về mực vào thứ Sáu: Mực thối rữa trên một chiếc thuyền California trên bãi biển",
   "key": "b5419c6d69ffb01f9c365f1f258e22479b0efea1"
  },
  {
@@ -14105,7 +14779,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/05520e035f8332c8e33f3011b5ca016fde61793d"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-89769 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: clocksource/drivers/nxp-pit: Khắc phục rò rỉ IRQ trên đường dẫn lỗi cpuhp_setup_state Khi cpu",
   "key": "c4dd9b03820427e218e8ced632b08a27e7ed17ee"
  },
  {
@@ -14123,7 +14797,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/65651f1001aa3638909bc58c7b2b46160692757b"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-89770 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: iomap: không giải phóng tải trọng toàn vẹn không tồn tại fs_bio_integrity_alloc migh",
   "key": "1877edbe2e793000f4523ae63fdf0b61e42e343d"
  },
  {
@@ -14141,7 +14815,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0c7c517827a453128a8f58bfd849546a29813b27"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-89771 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ring-buffer: Fix subbuf resize race with ring buffer readers trace_buffer subbuf_s",
   "key": "7504cd4fae7ea7fcf144b15501511702945e9e29"
  },
  {
@@ -14159,7 +14833,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/074c715e0b498891c09fe7f11e1cd9d7a04699bd"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-89772 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: btrfs: write-protect folios trong cam kết ghi lại dữ liệu 095be159f3eb (\"btrfs: uni",
   "key": "d0494b16cb0ebd9956a1ddc4ae28f9597f6ff05e"
  },
  {
@@ -14177,7 +14851,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/d5164580a99477dcfe15cea101b153b1e63f1535"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-89773 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: drm/amd/display: Skip Update HDCP Config In Transition State Transition state does",
   "key": "3fccc7f857279dddc7ee5415bf1cc7865f422d9a"
  },
  {
@@ -14195,7 +14869,7 @@
    "cvss": 4.9,
    "ref": "https://github.com/matrix-org/matrix-rust-sdk/pull/6454"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-45057 - matrix-sdk-ui cung cấp các tiện ích tập trung vào GUI trên đầu ma trận-rust-sdk",
   "key": "3b6708436776ba75048bf6c670e9a3272bcd1575"
  },
  {
@@ -14213,7 +14887,7 @@
    "cvss": null,
    "ref": "https://github.com/arduino-libraries/ArduinoBLE/pull/431/changes/1460e1a68221fca854b7b1e278cab76e763c00e6"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-47773 — ArduinoBLE cho phép kết nối Bluetooth Low Energy trên một số mẫu Arduino nhất định",
   "key": "98d8ff64e73c6e59f18563ab67f36e1135c0f98f"
  },
  {
@@ -14231,7 +14905,7 @@
    "cvss": null,
    "ref": "https://github.com/arduino/ArduinoCore-avr/pull/622/changes/9492e146880d2b05d9cb9191f1bfb2c872a48404"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-48490 — ArduinoCore-avr chứa mã nguồn và các tệp cấu hình của nền tảng Arduino AVR Boards",
   "key": "5baf3582f0cf945bdfa9e8614c42eb3a69bc2c59"
  },
  {
@@ -14249,7 +14923,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/openremote/openremote/commit/583dbbfb96076ba099be8729ddf506acf9e48325"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-49439 — OpenRemote là một nền tảng internet-of-things mã nguồn mở",
   "key": "104114f0ba543bf9a1c18b7ae08548267c0b071b"
  },
  {
@@ -14267,7 +14941,7 @@
    "cvss": 8.1,
    "ref": "https://github.com/nl-portal/nl-portal-backend-libraries/security/advisories/GHSA-6h3c-r723-7fx3"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-49464 - Thư viện phụ trợ cổng thông tin NL cung cấp các thành phần phụ trợ cho các cổng thông tin của chính phủ Hà Lan tương tác với cư dân, khách hàng, nhà cung cấp và đối tác hoặc",
   "key": "bd3541210682fdc5e72b141e6d72942ce1a0cfff"
  },
  {
@@ -14285,7 +14959,7 @@
    "cvss": null,
    "ref": "https://github.com/kimai/kimai/security/advisories/GHSA-pj8j-p4g4-4vw8"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-49865 - Kimai là một ứng dụng theo dõi thời gian mã nguồn mở",
   "key": "b490ff847baec51da110cb2e898e59c36e995983"
  },
  {
@@ -14303,7 +14977,7 @@
    "cvss": null,
    "ref": "https://github.com/t-mart/mousehole/blob/master/CHANGELOG.md#v040---2026-06-04"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-50025 — Mousehole là một dịch vụ nền để cập nhật IP seedbox cho MAM và ứng dụng web để quản lý nó",
   "key": "a10eeb515df638953a46027ab0c6dfcb1e11934c"
  },
  {
@@ -14321,7 +14995,7 @@
    "cvss": null,
    "ref": "https://github.com/smgdkngt/dobase/security/advisories/GHSA-m95v-4xq6-grhg"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-54165 - Dobase là một không gian làm việc mã nguồn mở, tự lưu trữ với các công cụ có thể cài đặt",
   "key": "1c6e6f6c573f5efcc3763d8df3dab6334bbecc2d"
  },
  {
@@ -14339,7 +15013,7 @@
    "cvss": 7.1,
    "ref": "https://github.com/Shelf-nu/shelf.nu/security/advisories/GHSA-xgrm-8w6v-mvjg"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-54166 — Kệ là một nền tảng để theo dõi tài sản vật chất",
   "key": "cb269791456a9ec81d65af151d40839ece5347ba"
  },
  {
@@ -14357,7 +15031,7 @@
    "cvss": 8.3,
    "ref": "https://github.com/chainguard-dev/melange/security/advisories/GHSA-fpg8-7664-jc5q"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-54174 - melange cho phép người dùng xây dựng các gói apk bằng cách sử dụng các đường ống khai báo",
   "key": "35f6d680134eb716fdf28a51cd9406f2312a0511"
  },
  {
@@ -14375,7 +15049,7 @@
    "cvss": null,
    "ref": "https://documentation.concretecms.org/developers/introduction/version-history/953-release-notes"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-68535 — Điểm cuối tạo khối của Concrete CMS Area API trong các phiên bản 9",
   "key": "d429039f8e793fbdd23a2f7725735d8d09f9a369"
  },
  {
@@ -14393,7 +15067,7 @@
    "cvss": null,
    "ref": "https://documentation.concretecms.org/developers/introduction/version-history/953-release-notes"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-81907 — Bê tông CMS 9",
   "key": "ee4116495da4d6aa8e4eb8360a8a434e35453102"
  },
  {
@@ -14411,7 +15085,7 @@
    "cvss": null,
    "ref": "https://documentation.concretecms.org/developers/introduction/version-history/953-release-notes"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-81917 — CMS bê tông dưới 9",
   "key": "bbff2aec0ae0cf0ae7f042db10683672b03065e4"
  },
  {
@@ -14429,7 +15103,7 @@
    "cvss": null,
    "ref": "https://documentation.concretecms.org/developers/introduction/version-history/953-release-notes"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-81918 — CMS bê tông dưới 9",
   "key": "abf50f272f5239e4103924b72e0380d5476b96e3"
  },
  {
@@ -73288,775 +73962,5 @@
   },
   "title_vi": "",
   "key": "8e92986ed0cb66a7dbd660a9640831da632227e8"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2013-5223 — D-Link DSL-2760U Gateway Cross-Site Scripting Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2013-5223",
-  "published": "2022-03-25",
-  "summary": "A cross-site scripting (XSS) vulnerability exists in the D-Link DSL-2760U gateway, allowing remote authenticated users to inject arbitrary web script or HTML.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2013-5223",
-   "vendor": "D-Link",
-   "product": "DSL-2760U",
-   "due_date": "2022-04-15",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "61e178e9c1dc2e4880a8f320498f5bd73e444072"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2013-4810 — HP Multiple Products Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2013-4810",
-  "published": "2022-03-25",
-  "summary": "HP ProCurve Manager (PCM), PCM+, Identity Driven Manager (IDM), and Application Lifecycle Management allow remote attackers to execute arbitrary code via a marshalled object to (1) EJBInvokerServlet or (2) JMXInvokerServlet.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2013-4810",
-   "vendor": "Hewlett Packard (HP)",
-   "product": "ProCurve Manager (PCM), PCM+, Identity Driven Manager (IDM), and Application Lifecycle Management",
-   "due_date": "2022-04-15",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "ddb4c4909d3f1048d47fd8a9d5f60b35358d7017"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2013-2251 — Apache Struts Improper Input Validation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2013-2251",
-  "published": "2022-03-25",
-  "summary": "Apache Struts allows remote attackers to execute arbitrary Object-Graph Navigation Language (OGNL) expressions.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2013-2251",
-   "vendor": "Apache",
-   "product": "Struts",
-   "due_date": "2022-04-15",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "affaf9f8d88831ff1d117f7b7c5b2b1a3c3cfefe"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2012-1823 — PHP-CGI Query String Parameter Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2012-1823",
-  "published": "2022-03-25",
-  "summary": "sapi/cgi/cgi_main.c in PHP, when configured as a CGI script, does not properly handle query strings, which allows remote attackers to execute arbitrary code.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2012-1823",
-   "vendor": "PHP",
-   "product": "PHP",
-   "due_date": "2022-04-15",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "97a351e310d60233a213838c54495d06507b98f0"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2010-4345 — Exim Privilege Escalation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2010-4345",
-  "published": "2022-03-25",
-  "summary": "Exim allows local users to gain privileges by leveraging the ability of the exim user account to specify an alternate configuration file with a directive that contains arbitrary commands.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2010-4345",
-   "vendor": "Exim",
-   "product": "Exim",
-   "due_date": "2022-04-15",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "728b2264be2a9efe26bf4b77b65f5cb19b02d0c9"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2010-4344 — Exim Heap-Based Buffer Overflow Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2010-4344",
-  "published": "2022-03-25",
-  "summary": "Heap-based buffer overflow in the string_vformat function in string.c in Exim before 4.70 allows remote attackers to execute arbitrary code via an SMTP session.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2010-4344",
-   "vendor": "Exim",
-   "product": "Exim",
-   "due_date": "2022-04-15",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "ebd024973934fceead9b45cc154d8e96c4b29ee8"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2010-3035 — Cisco IOS XR Border Gateway Protocol (BGP) Denial-of-Service Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2010-3035",
-  "published": "2022-03-25",
-  "summary": "Cisco IOS XR, when BGP is the configured routing feature, allows remote attackers to cause a denial-of-service (DoS).",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2010-3035",
-   "vendor": "Cisco",
-   "product": "IOS XR",
-   "due_date": "2022-04-15",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "d19406bb435e73592f1bbe54df94d0b51b78d8b4"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2010-2861 — Adobe ColdFusion Directory Traversal Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2010-2861",
-  "published": "2022-03-25",
-  "summary": "A directory traversal vulnerability exists in the administrator console in Adobe ColdFusion which allows remote attackers to read arbitrary files.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2010-2861",
-   "vendor": "Adobe",
-   "product": "ColdFusion",
-   "due_date": "2022-04-15",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "310c909f8c996772f2dbef4d31a72f0d9b6ac7d9"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2009-2055 — Cisco IOS XR Border Gateway Protocol (BGP) Denial-of-Service Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2009-2055",
-  "published": "2022-03-25",
-  "summary": "Cisco IOS XR,when BGP is the configured routing feature, allows remote attackers to cause a denial-of-service (DoS).",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2009-2055",
-   "vendor": "Cisco",
-   "product": "IOS XR",
-   "due_date": "2022-04-15",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "c71364322ece174d29da1b6a431256c563a3f745"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2009-1151 — phpMyAdmin Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2009-1151",
-  "published": "2022-03-25",
-  "summary": "Setup script used to generate configuration can be fooled using a crafted POST request to include arbitrary PHP code in generated configuration file.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2009-1151",
-   "vendor": "phpMyAdmin",
-   "product": "phpMyAdmin",
-   "due_date": "2022-04-15",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "4b7aceb2b8740120818b52541979637ac8f675fc"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2009-0927 — Adobe Reader and Adobe Acrobat Stack-Based Buffer Overflow Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2009-0927",
-  "published": "2022-03-25",
-  "summary": "Stack-based buffer overflow in Adobe Reader and Adobe Acrobat allows remote attackers to execute arbitrary code.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2009-0927",
-   "vendor": "Adobe",
-   "product": "Reader and Acrobat",
-   "due_date": "2022-04-15",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "7a918338f5462d14155fb154e54a6e813a489442"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2005-2773 — HP OpenView Network Node Manager Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2005-2773",
-  "published": "2022-03-25",
-  "summary": "HP OpenView Network Node Manager could allow a remote attacker to execute arbitrary commands on the system.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2005-2773",
-   "vendor": "Hewlett Packard (HP)",
-   "product": "OpenView Network Node Manager",
-   "due_date": "2022-04-15",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "049eed70b6ef38b67c4c51e2d79651572aa1b003"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-5135 — SonicWall SonicOS Buffer Overflow Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-5135",
-  "published": "2022-03-15",
-  "summary": "A buffer overflow vulnerability in SonicOS allows a remote attacker to cause Denial of Service (DoS) and potentially execute arbitrary code by sending a malicious request to the firewall.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-5135",
-   "vendor": "SonicWall",
-   "product": "SonicOS",
-   "due_date": "2022-04-05",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "f01251a0671329a4a4834dff3a9a6db0ff7d8805"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2019-1405 — Microsoft Windows Universal Plug and Play (UPnP) Service Privilege Escalation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-1405",
-  "published": "2022-03-15",
-  "summary": "A privilege escalation vulnerability exists when the Windows UPnP service improperly allows COM object creation.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2019-1405",
-   "vendor": "Microsoft",
-   "product": "Windows",
-   "due_date": "2022-04-05",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "e77781cd8916d97be58aee50dbeeb09fad0fcd39"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2019-1322 — Microsoft Windows Privilege Escalation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-1322",
-  "published": "2022-03-15",
-  "summary": "A privilege escalation vulnerability exists when Windows improperly handles authentication requests. An attacker who successfully exploited this vulnerability could run processes in an elevated context.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2019-1322",
-   "vendor": "Microsoft",
-   "product": "Windows",
-   "due_date": "2022-04-05",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "cc3f3378cbfc04dfbeaf7cbba48ea301e363e265"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2019-1315 — Microsoft Windows Error Reporting Manager Privilege Escalation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-1315",
-  "published": "2022-03-15",
-  "summary": "A privilege escalation vulnerability exists when Windows Error Reporting manager improperly handles hard links. An attacker who successfully exploited this vulnerability could overwrite a targeted file leading to an elevated status.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2019-1315",
-   "vendor": "Microsoft",
-   "product": "Windows",
-   "due_date": "2022-04-05",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "37e3120f34ffa4b134ffb20b7e7b5cc68bacfaf2"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2019-1253 — Microsoft Windows AppX Deployment Server Privilege Escalation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-1253",
-  "published": "2022-03-15",
-  "summary": "A privilege escalation vulnerability exists when the Windows AppX Deployment Server improperly handles junctions.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2019-1253",
-   "vendor": "Microsoft",
-   "product": "Windows",
-   "due_date": "2022-04-05",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "a1b70bdc24aa6cb5c64ff39cee11050b3d189baa"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2019-1132 — Microsoft Win32k Privilege Escalation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-1132",
-  "published": "2022-03-15",
-  "summary": "A privilege escalation vulnerability exists in Windows when the Win32k component fails to properly handle objects in memory.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2019-1132",
-   "vendor": "Microsoft",
-   "product": "Win32k",
-   "due_date": "2022-04-05",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "14543a3f0480e9f1e556f27aa780ac366a9a1ee6"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2019-1129 — Microsoft Windows AppX Deployment Service (AppXSVC) Privilege Escalation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-1129",
-  "published": "2022-03-15",
-  "summary": "A privilege escalation vulnerability exists when Windows AppXSVC improperly handles hard links. An attacker who successfully exploited this vulnerability could run processes in an elevated context.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2019-1129",
-   "vendor": "Microsoft",
-   "product": "Windows",
-   "due_date": "2022-04-05",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "53b598024fd9b2422cf2da83192537650426d40e"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2019-1069 — Microsoft Task Scheduler Privilege Escalation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-1069",
-  "published": "2022-03-15",
-  "summary": "A privilege escalation vulnerability exists in the way the Task Scheduler Service validates certain file operations.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2019-1069",
-   "vendor": "Microsoft",
-   "product": "Task Scheduler",
-   "due_date": "2022-04-05",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "3d3de80fb052e5d6981c9ff26cf557f43daaf38e"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2019-1064 — Microsoft Windows AppX Deployment Service (AppXSVC) Privilege Escalation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-1064",
-  "published": "2022-03-15",
-  "summary": "A privilege escalation vulnerability exists when Windows AppXSVC improperly handles hard links. An attacker who successfully exploited this vulnerability could run processes in an elevated context.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2019-1064",
-   "vendor": "Microsoft",
-   "product": "Windows",
-   "due_date": "2022-04-05",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "1425c9963825c11fe42dddc442121a84c552393f"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2019-0841 — Microsoft Windows AppX Deployment Service (AppXSVC) Privilege Escalation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-0841",
-  "published": "2022-03-15",
-  "summary": "A privilege escalation vulnerability exists when Windows AppXSVC improperly handles hard links. An attacker who successfully exploited this vulnerability could run processes in an elevated context.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2019-0841",
-   "vendor": "Microsoft",
-   "product": "Windows",
-   "due_date": "2022-04-05",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "463f10f023368787cbb7a38faddb741f65b11fb4"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2019-0543 — Microsoft Windows Privilege Escalation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-0543",
-  "published": "2022-03-15",
-  "summary": "A privilege escalation vulnerability exists when Windows improperly handles authentication requests. An attacker who successfully exploited this vulnerability could run processes in an elevated context.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2019-0543",
-   "vendor": "Microsoft",
-   "product": "Windows",
-   "due_date": "2022-04-05",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "c3d6dd544218d375b8a94b85b283e7779439cfe9"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2018-8120 — Microsoft Win32k Privilege Escalation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-8120",
-  "published": "2022-03-15",
-  "summary": "A privilege escalation vulnerability exists in Windows when the Win32k component fails to properly handle objects in memory.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2018-8120",
-   "vendor": "Microsoft",
-   "product": "Win32k",
-   "due_date": "2022-04-05",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "f0e890bab1c72b18981a53c9bec2908fc8a4aea5"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2017-0101 — Microsoft Windows Transaction Manager Privilege Escalation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-0101",
-  "published": "2022-03-15",
-  "summary": "A privilege escalation vulnerability exists when the Windows Transaction Manager improperly handles objects in memory.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2017-0101",
-   "vendor": "Microsoft",
-   "product": "Windows",
-   "due_date": "2022-04-05",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "b78a3324ccbb32a70b7885d7e2f87f821bfc40dc"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2016-3309 — Microsoft Windows Kernel Privilege Escalation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2016-3309",
-  "published": "2022-03-15",
-  "summary": "A privilege escalation vulnerability exists when the Windows kernel fails to properly handle objects in memory. An attacker who successfully exploited this vulnerability could run arbitrary code in kernel mode.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2016-3309",
-   "vendor": "Microsoft",
-   "product": "Windows",
-   "due_date": "2022-04-05",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "7cf612ec04163e5015e0692a1d2c8e9e71ba33ed"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2015-2546 — Microsoft Win32k Memory Corruption Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2015-2546",
-  "published": "2022-03-15",
-  "summary": "The kernel-mode driver in Microsoft Windows OS and Server allows local users to gain privileges via a crafted application.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2015-2546",
-   "vendor": "Microsoft",
-   "product": "Win32k",
-   "due_date": "2022-04-05",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "1d5bc3e1d926439ce5c8711e1c78f0aadf3e4dc6"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2022-26486 — Mozilla Firefox Use-After-Free Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2022-26486",
-  "published": "2022-03-07",
-  "summary": "Mozilla Firefox contains a use-after-free vulnerability in WebGPU IPC Framework which can be exploited to perform arbitrary code execution.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2022-26486",
-   "vendor": "Mozilla",
-   "product": "Firefox",
-   "due_date": "2022-03-21",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "7c7f9547cc30cefecc3f178fadc953491849502b"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2022-26485 — Mozilla Firefox Use-After-Free Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2022-26485",
-  "published": "2022-03-07",
-  "summary": "Mozilla Firefox contains a use-after-free vulnerability in XSLT parameter processing which can be exploited to perform arbitrary code execution.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2022-26485",
-   "vendor": "Mozilla",
-   "product": "Firefox",
-   "due_date": "2022-03-21",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "29b419a17cf10961414d12c5e15bee329e141222"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-21973 — VMware vCenter Server and Cloud Foundation Server Side Request Forgery (SSRF) Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-21973",
-  "published": "2022-03-07",
-  "summary": "VMware vCenter Server and Cloud Foundation Server contain a SSRF vulnerability due to improper validation of URLs in a vCenter Server plugin. This allows for information disclosure.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-21973",
-   "vendor": "VMware",
-   "product": "vCenter Server and Cloud Foundation",
-   "due_date": "2022-03-21",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "d3b08988e8b87e083a366c20b3727610eb8b64c4"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-8218 — Pulse Connect Secure Code Injection Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-8218",
-  "published": "2022-03-07",
-  "summary": "A code injection vulnerability exists in Pulse Connect Secure that allows an attacker to crafted a URI to perform an arbitrary code execution via the admin web interface.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-8218",
-   "vendor": "Pulse Secure",
-   "product": "Pulse Connect Secure",
-   "due_date": "2022-09-07",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "048e2b45f8f6f655b69ff2d8eb749af2bbe35a23"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2019-11581 — Atlassian Jira Server and Data Center Server-Side Template Injection Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-11581",
-  "published": "2022-03-07",
-  "summary": "Atlassian Jira Server and Data Center contain a server-side template injection vulnerability which can allow for remote code execution.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2019-11581",
-   "vendor": "Atlassian",
-   "product": "Jira Server and Data Center",
-   "due_date": "2022-09-07",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "f4a86a439d63b793c9c00ac3f3cdab25ca012454"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2017-6077 — NETGEAR DGN2200 Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-6077",
-  "published": "2022-03-07",
-  "summary": "NETGEAR DGN2200 wireless routers contain a vulnerability that allows for remote code execution.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2017-6077",
-   "vendor": "NETGEAR",
-   "product": "Wireless Router DGN2200",
-   "due_date": "2022-09-07",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "b44926293eb0f2c7b94bf939e2555dbac0112c5d"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2016-6277 — NETGEAR Multiple Routers Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2016-6277",
-  "published": "2022-03-07",
-  "summary": "NETGEAR confirmed multiple routers allow unauthenticated web pages to pass form input directly to the command-line interface, permitting remote code execution.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2016-6277",
-   "vendor": "NETGEAR",
-   "product": "Multiple Routers",
-   "due_date": "2022-09-07",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "a058b8751adca7e9d8534573e21a4b26775e4458"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69642 — Improper neutralization of input during web page generation ('cross-site scripting') in Skype for Business allows an unauthorized attacker to perform ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69642",
-  "published": "2026-09-08T19:19:03.510",
-  "summary": "Improper neutralization of input during web page generation ('cross-site scripting') in Skype for Business allows an unauthorized attacker to perform spoofing over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69642",
-   "cvss": 6.5,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69642"
-  },
-  "title_vi": "CVE-2026-69642 — Trung hòa đầu vào không đúng cách trong quá trình tạo trang web ('tập lệnh chéo trang web') trong Skype for Business cho phép kẻ tấn công trái phép thực hiện",
-  "key": "1de49d74144654b24eff3733cc38831a708e326d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69646 — Improper verification of cryptographic signature in Skype for Business allows an unauthorized attacker to perform spoofing over an adjacent network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69646",
-  "published": "2026-09-08T19:19:04.560",
-  "summary": "Improper verification of cryptographic signature in Skype for Business allows an unauthorized attacker to perform spoofing over an adjacent network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69646",
-   "cvss": 8.3,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69646"
-  },
-  "title_vi": "CVE-2026-69646 — Xác minh không đúng chữ ký mật mã trong Skype for Business cho phép kẻ tấn công trái phép thực hiện giả mạo trên mạng liền kề",
-  "key": "c083a295c99c4cb5bf8b3ba1ed817507b50773cf"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-76200 — Adobe Commerce is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by an attacker to inject malicious scripts into v",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76200",
-  "published": "2026-09-08T19:19:40.813",
-  "summary": "Adobe Commerce is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by an attacker to inject malicious scripts into vulnerable form fields. Malicious JavaScript may be executed in a victim's browser when they browse to the page containing the vulnerable field, potentially gaining elevated access or control over the victim's account or session. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-76200",
-   "cvss": 9.3,
-   "ref": "https://helpx.adobe.com/security/products/magento/apsb26-138.html"
-  },
-  "title_vi": "CVE-2026-76200 — Adobe Commerce bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) được lưu trữ có thể bị kẻ tấn công lạm dụng để chèn các tập lệnh độc hại vào v",
-  "key": "f67d7250e9ad76792020afeaf27e7c15945322f8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-76201 — Adobe Commerce is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by an attacker to inject malicious scripts into v",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76201",
-  "published": "2026-09-08T19:19:40.947",
-  "summary": "Adobe Commerce is affected by a stored Cross-Site Scripting (XSS) vulnerability that could be abused by an attacker to inject malicious scripts into vulnerable form fields. Malicious JavaScript may be executed in a victim's browser when they browse to the page containing the vulnerable field, potentially gaining elevated access or control over the victim's account or session. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-76201",
-   "cvss": 9.3,
-   "ref": "https://helpx.adobe.com/security/products/magento/apsb26-138.html"
-  },
-  "title_vi": "CVE-2026-76201 — Adobe Commerce bị ảnh hưởng bởi lỗ hổng Cross-Site Scripting (XSS) được lưu trữ có thể bị kẻ tấn công lạm dụng để chèn các tập lệnh độc hại vào v",
-  "key": "35752b120c9e96bcfc8a9b79f72bd57319b40e16"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-76202 — Adobe Commerce is affected by an Incorrect Authorization vulnerability that could result in privilege escalation",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76202",
-  "published": "2026-09-08T19:19:41.087",
-  "summary": "Adobe Commerce is affected by an Incorrect Authorization vulnerability that could result in privilege escalation. An attacker could leverage this vulnerability to gain elevated access to sensitive information. Exploitation of this issue does not require user interaction.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-76202",
-   "cvss": 8.2,
-   "ref": "https://helpx.adobe.com/security/products/magento/apsb26-138.html"
-  },
-  "title_vi": "CVE-2026-76202 — Adobe Commerce bị ảnh hưởng bởi lỗ hổng Ủy quyền không chính xác có thể dẫn đến leo thang đặc quyền",
-  "key": "a311425e35bc89a54930c18599158060901b6214"
  }
 ]
