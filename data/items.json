@@ -1,5 +1,221 @@
 [
  {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Pháp điều tra việc dùng kính thông minh quay lén phụ nữ trên đường phố",
+  "link": "https://www.vietnamplus.vn/phap-dieu-tra-viec-dung-kinh-thong-minh-quay-len-phu-nu-tren-duong-pho-post1137085.vnp",
+  "published": "2026-09-19T00:03:47+00:00",
+  "summary": "Viện Công tố Paris điều tra vụ quấy rối tình dục qua kính thông minh, đặt ra thách thức lớn về bảo vệ dữ liệu cá nhân khi thiết bị ghi hình ngày càng nhỏ gọn. Nhật Bản: Du khách nữ là mục tiêu quay lén hình ảnh nhạy cảm bất hợp pháp TP Hồ Chí Minh: Bác bỏ thông tin về vụ quay lén nữ sinh trong nhà vệ sinh Hà Nội: Liên tiếp phát hiện camera quay lén trong phòng trọ của nữ",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "03d410b784496c023afbc651808efaf0e2956215"
+ },
+ {
+  "source": "Tuổi Trẻ Công nghệ",
+  "title": "CEO Nvidia ngồi giữa sân khấu nghe điện thoại ông Trump, bật cả loa ngoài",
+  "link": "https://tuoitre.vn/ceo-nvidia-ngoi-giua-san-khau-nghe-dien-thoai-ong-trump-bat-ca-loa-ngoai-100260916095522837.htm",
+  "published": "2026-09-19T03:03:38.373492+00:00",
+  "summary": "Tổng thống Mỹ Donald Trump bất ngờ gọi điện cho ông Jensen Huang khi vị CEO của Nvidia đang trả lời phỏng vấn trước hàng nghìn người để nói về mối nguy hiểm của AI.",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "470cf316640a0b458ef27f1abb0bcfdcf47cc78d"
+ },
+ {
+  "source": "Tuổi Trẻ Công nghệ",
+  "title": "Bill Gates ví AI như 'trí tuệ ngoài hành tinh'",
+  "link": "https://tuoitre.vn/bill-gates-vi-ai-nhu-tri-tue-ngoai-hanh-tinh-100260915162501175.htm",
+  "published": "2026-09-19T03:03:38.373530+00:00",
+  "summary": "Tỉ phú Bill Gates cảnh báo các nước đang \"tụt lại rất xa\" trong việc ứng phó công nghệ trí tuệ nhân tạo (AI).",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "5b181b6b4d719f43ac76cce83bb0edc325c5048c"
+ },
+ {
+  "source": "GenK",
+  "title": "Bỏ tiền mua \"tích xanh\" chưa đủ: Meta tung hàng loạt gói thuê bao đắt đỏ nhắm vào doanh nghiệp và dân cày AI, tham vọng \"móc túi\" người dùng đến cùng",
+  "link": "https://genk.vn/bo-tien-mua-tich-xanh-chua-du-meta-tung-hang-loat-goi-thue-bao-dat-do-nham-vao-doanh-nghiep-va-dan-cay-ai-tham-vong-moc-tui-nguoi-dung-den-cung-16526091907510947.chn",
+  "published": "2026-09-19T03:03:30.273990+00:00",
+  "summary": "Không dừng lại ở việc bán \"tích xanh\" tài khoản, Mark Zuckerberg đang biến Facebook và Instagram thành nền tảng \"trả phí theo nhu cầu\" đối với các nhà sáng tạo nội dung, doanh nghiệp và cả người dùng AI với mức giá lên tới hàng trăm USD mỗi tháng.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "7f7fc6220a0c84e38a4c8b115e555e8bf0e31208"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "HHS’ Office for Civil Rights Settles HIPAA Investigation of Ambry Genetics for Security Rule Violations",
+  "link": "https://databreaches.net/2026/09/18/hhs-office-for-civil-rights-settles-hipaa-investigation-of-ambry-genetics-for-security-rule-violations/",
+  "published": "2026-09-19T00:47:51+00:00",
+  "summary": "WASHINGTON — September 17, 2026 — The U.S. Department of Health and Human Services (HHS) Oﬃce for Civil Rights (OCR) today announced a settlement with Ambry Genetics Corporation (Ambry) concerning potential violations of the Health Insurance Portability and Accountability Act of 1996 (HIPAA) Security Rule. Ambry, headquartered in Aliso Viejo, California, is a covered entity... Source",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Văn phòng Dân quyền của HHS giải quyết Điều tra HIPAA về Di truyền Ambry đối với Vi phạm Quy tắc An ninh",
+  "key": "eac74b2d47e83ad4409e599ea2b0a83d0065a3c6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75885 — A flaw was found in the OpenShift console",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75885",
+  "published": "2026-09-18T22:17:10.313",
+  "summary": "A flaw was found in the OpenShift console. Unauthenticated access to the `/api/devfile/` and `/api/devfile/samples/` endpoints allows a remote attacker to send crafted devfile payloads. This can lead to Server-Side Request Forgery (SSRF), where the console pod makes requests to internal services and reflects partial responses to the attacker. Additionally, by sending repeated large requests without a specified content length, an attacker can cause unbounded memory growth, leading to a Denial of Service (DoS).",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75885",
+   "cvss": 9.3,
+   "ref": "https://access.redhat.com/security/cve/CVE-2026-75885"
+  },
+  "title_vi": "CVE-2026-75885 — Một lỗ hổng đã được tìm thấy trong bảng điều khiển OpenShift",
+  "key": "3bd8411eb05c4ecb89018c1c36145f0c209d65d7"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-93739 — A vulnerability was determined in Totolink A3002MU Hh-B20211125",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-93739",
+  "published": "2026-09-18T22:17:10.710",
+  "summary": "A vulnerability was determined in Totolink A3002MU Hh-B20211125.1046. This impacts the function formWlAc of the file /boafrm/formWlAc. Executing a manipulation of the argument submit-url can lead to buffer overflow. The attack may be performed from remote. The exploit has been publicly disclosed and may be utilized.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-93739",
+   "cvss": 9.9,
+   "ref": "https://github.com/SunnyYANGyaya/cuicuishark-sheep-fishIOT/blob/main/ToTolink/A3002MU/bof-formWlAc.md"
+  },
+  "title_vi": "CVE-2026-93739 — Một lỗ hổng đã được xác định trong Totolink A3002MU Hh-B20211125",
+  "key": "fc9c9ff4c76bf18ccb16e71d7ddfb8bc325c941c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-93740 — A vulnerability was identified in Totolink A3002MU Hh-B20211125",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-93740",
+  "published": "2026-09-18T22:17:10.890",
+  "summary": "A vulnerability was identified in Totolink A3002MU Hh-B20211125.1046. Affected is the function formWlEncrypt of the file /boafrm/formWlEncrypt. The manipulation of the argument submit-url leads to buffer overflow. It is possible to initiate the attack remotely. The exploit is publicly available and might be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-93740",
+   "cvss": 10.0,
+   "ref": "https://github.com/SunnyYANGyaya/cuicuishark-sheep-fishIOT/blob/main/ToTolink/A3002MU/bof-formWlEncrypt.md"
+  },
+  "title_vi": "CVE-2026-93740 — Một lỗ hổng đã được xác định trong Totolink A3002MU Hh-B20211125",
+  "key": "aa32e2335b1c0cc9283aebec5da7949a0080ef58"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77875 — The application protects access through its calculator-style vault passcode, but the stored data is not bound to that authentication boundary",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77875",
+  "published": "2026-09-19T00:16:57.193",
+  "summary": "The application protects access through its calculator-style vault passcode, but the stored data is not bound to that authentication boundary. A local actor who can access shared external storage, such as through an authorized non-root ADB shell or another local file-reading context with suitable storage access, can copy the SQLite database and media files directly without entering the vault passcode.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77875",
+   "cvss": null,
+   "ref": "https://fluidattacks.com/advisories/grin"
+  },
+  "title_vi": "CVE-2026-77875 — Ứng dụng bảo vệ quyền truy cập thông qua mật mã vault kiểu máy tính, nhưng dữ liệu được lưu trữ không bị ràng buộc với ranh giới xác thực đó",
+  "key": "063c163aec0ea657a90767f6c1cc7c7b0463eedd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-93921 — SiYuan versions through 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-93921",
+  "published": "2026-09-19T00:16:57.553",
+  "summary": "SiYuan versions through 3.8.4 fail to enforce publish access control in the getDynamicIcon endpoint, allowing read-only token holders to access document metadata. Attackers can call the endpoint with type=8 and crafted content to read block titles, names, aliases, and hierarchical paths of restricted documents via template injection.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-93921",
+   "cvss": 4.3,
+   "ref": "https://github.com/siyuan-note/siyuan"
+  },
+  "title_vi": "CVE-2026-93921 — Phiên bản SiYuan thông qua 3",
+  "key": "716f17ef7782d5abfe5914c8f2b07298bac13b5c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-93922 — SiYuan through 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-93922",
+  "published": "2026-09-19T00:16:57.783",
+  "summary": "SiYuan through 3.8.4 renders notebook names as raw HTML in the Daily Note picker dialog without escaping, allowing stored cross-site scripting in the Electron renderer. Attackers can create notebooks with HTML payloads in names that execute JavaScript with Node.js access when the picker opens, enabling operating system command execution.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-93922",
+   "cvss": 8.8,
+   "ref": "https://github.com/siyuan-note/siyuan"
+  },
+  "title_vi": "CVE-2026-93922 — SiYuan đến 3",
+  "key": "e1136e8913a1a4fd06d1dbfc1fce1a2ecc784df1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-93923 — SiYuan through 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-93923",
+  "published": "2026-09-19T00:16:57.963",
+  "summary": "SiYuan through 3.8.4 fails to escape heading style attributes when rendering outline and bookmark dock HTML, allowing stored cross-site scripting. Attackers can supply crafted notebooks or call administrative endpoints to inject malicious style values that execute in the Electron renderer with full system access.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-93923",
+   "cvss": 8.8,
+   "ref": "https://github.com/siyuan-note/siyuan"
+  },
+  "title_vi": "CVE-2026-93923 — SiYuan đến 3",
+  "key": "e5d1244fa6d005dd19a6060ef20b70c83287d956"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77820 — The WPComplete plugin for WordPress is vulnerable to Stored Cross-Site Scripting via 'empty' Shortcode Attribute in all versions up to, and including,",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77820",
+  "published": "2026-09-19T02:16:54.257",
+  "summary": "The WPComplete plugin for WordPress is vulnerable to Stored Cross-Site Scripting via 'empty' Shortcode Attribute in all versions up to, and including, 2.9.9.0 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. This requires the premium version of the software in order to exploit. Please note this only affects the pro version.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77820",
+   "cvss": 6.4,
+   "ref": "https://plugins.trac.wordpress.org/browser/wpcomplete/tags/2.9.5.7/includes/class-wpcomplete.php#L305"
+  },
+  "title_vi": "CVE-2026-77820 — Plugin WPComplete cho WordPress dễ bị tấn công bởi Stored Cross-Site Scripting thông qua Thuộc tính Shortcode 'rỗng' trong tất cả các phiên bản lên đến, và bao gồm,",
+  "key": "fe1c1c1f761bdd15bc9f5d1539eaf6f3ba59ed5e"
+ },
+ {
   "source": "VnExpress Số hóa",
   "title": "Xác tàu ngầm Đức rò rỉ thuốc nổ TNT ra Biển Bắc",
   "link": "https://vnexpress.net/xac-tau-ngam-duc-ro-ri-thuoc-no-tnt-ra-bien-bac-5121517.html",
@@ -39,7 +255,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Tấn công bằng mã độc tống tiền vào quận Kansas sẽ ảnh hưởng đến một số dịch vụ",
   "key": "df3cd81bbb7d139d1d64477ffaa88365444fedcc"
  },
  {
@@ -81,7 +297,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Viết blog mực vào thứ Sáu: Trên túi trứng mực",
   "key": "7dafd9a1528c4388dc018fc41fba444f8c6b6bf3"
  },
  {
@@ -95,7 +311,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Vectra AI ra mắt để giúp giải quyết kỷ nguyên mới của các cuộc tấn công dựa trên AI",
   "key": "148e7740cd8ab54a42f055ff5cf876ed9b1b2f6f"
  },
  {
@@ -7517,7 +7733,7 @@
    "cvss": 9.8,
    "ref": "https://www.ibm.com/support/pages/node/7288040"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84082 — Bảo vệ dữ liệu IBM Guardium 12",
   "key": "63294e9e7911f737258357a7c8bff97cb2683e1a"
  },
  {
@@ -7535,7 +7751,7 @@
    "cvss": 7.8,
    "ref": "https://www.ibm.com/support/pages/node/7288035"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84083 — Bảo vệ dữ liệu IBM Guardium 12",
   "key": "472e5b0f28fe6c796c9f2236e47b4ad3deed35db"
  },
  {
@@ -7553,7 +7769,7 @@
    "cvss": 8.8,
    "ref": "https://www.ibm.com/support/pages/node/7288035"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84084 — Bảo vệ dữ liệu IBM Guardium 12",
   "key": "a164d5d81d7e29184ebd5f980e8d9a1b0756dc78"
  },
  {
@@ -7571,7 +7787,7 @@
    "cvss": 8.1,
    "ref": "https://www.ibm.com/support/pages/node/7288035"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84085 — Bảo vệ dữ liệu IBM Guardium 12",
   "key": "78e85dbc2fe04faf6cc25c1b5dfaed1e948cf5c1"
  },
  {
@@ -7589,7 +7805,7 @@
    "cvss": 7.2,
    "ref": "https://www.ibm.com/support/pages/node/7288035"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84086 — Bảo vệ dữ liệu IBM Guardium 12",
   "key": "9ad5c01f81e0ef2ea3ee2b29462ede022bdc521d"
  },
  {
@@ -7607,7 +7823,7 @@
    "cvss": 7.8,
    "ref": "https://www.ibm.com/support/pages/node/7288035"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84089 — Bảo vệ dữ liệu IBM Guardium 12",
   "key": "fa003a993925eee98a680a84e83508e065adaf07"
  },
  {
@@ -7625,7 +7841,7 @@
    "cvss": 7.7,
    "ref": "https://www.ibm.com/support/pages/node/7288035"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84105 — Bảo vệ dữ liệu IBM Guardium 12",
   "key": "0e9304ce74b69c4042812caa4706287a5794a467"
  },
  {
@@ -7643,7 +7859,7 @@
    "cvss": 8.9,
    "ref": "https://www.ibm.com/support/pages/node/7288035"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84106 — Bảo vệ dữ liệu IBM Guardium 12",
   "key": "f84ff508fadd20c096c2f1db6fa864d20df55acf"
  },
  {
@@ -7661,7 +7877,7 @@
    "cvss": 8.1,
    "ref": "https://www.ibm.com/support/pages/node/7288035"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84108 — Bảo vệ dữ liệu IBM Guardium 12",
   "key": "052ca17f1a8393de0acf7d5fae5c0df6bc1d8f6b"
  },
  {
@@ -7679,7 +7895,7 @@
    "cvss": 7.6,
    "ref": "https://www.ibm.com/support/pages/node/7288035"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84239 — Bảo vệ dữ liệu IBM Guardium 12",
   "key": "1580abcd5c716ab3b2c3e3dedaf94aa18ef6fbfa"
  },
  {
@@ -7697,7 +7913,7 @@
    "cvss": 8.1,
    "ref": "https://www.ibm.com/support/pages/node/7288035"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84241 — Bảo vệ dữ liệu IBM Guardium 12",
   "key": "082bb8e641feaced75f8d677131bbdbf3140bbab"
  },
  {
@@ -7715,7 +7931,7 @@
    "cvss": 6.1,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-91202"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-91202 - Một lỗ hổng đã được tìm thấy trong hồ sơ buồng lái",
   "key": "e0a2d8a0e459e201bc3aa5b73e4b68d3c6613926"
  },
  {
@@ -7733,7 +7949,7 @@
    "cvss": 6.0,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-91203"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-91203 - Một lỗ hổng đã được tìm thấy trong hồ sơ buồng lái",
   "key": "e33c123ab21827ab0ccc186fb82f5811a0722a55"
  },
  {
@@ -7751,7 +7967,7 @@
    "cvss": 6.0,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-91205"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-91205 - Một lỗ hổng đã được tìm thấy trong hồ sơ buồng lái",
   "key": "cfce057ef7ba555fcd672eb7ef01ec8de8c70a00"
  },
  {
@@ -7769,7 +7985,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/sveltejs/devalue/commit/46dc877b3570dafb1cd3291b9bb48cecef8f7266"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-92708 — Svelte devalue là một thư viện JavaScript tuần tự hóa các giá trị thành các chuỗi khi JSON",
   "key": "d254c295d162891c3f76d18e0c5a084fcd7f419e"
  },
  {
@@ -7787,7 +8003,7 @@
    "cvss": 8.8,
    "ref": "https://documentation.wpcloudplugins.com/other/changelog#id-3.9.0"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93031 — Các plugin WP Cloud Plugins Use-your-Drive, Out-of-the-Box, Share-one-Drive và Lets-Box cho WordPress dễ bị tải lên tệp tùy ý trong al",
   "key": "9727bd2a8468a9d525e3a2cfc04f6ca5a4d348b7"
  },
  {
@@ -7805,7 +8021,7 @@
    "cvss": 5.9,
    "ref": "https://github.com/sgl-project/sglang"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93838 — Phiên bản SGLang đến 0",
   "key": "33abfbabc3e9edb3179f3b3b1c5201f9f41d4989"
  },
  {
@@ -7824,7 +8040,7 @@
    "cvss": 9.8,
    "ref": "https://github.com/ModelTC/LightLLM"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93839 — LightLLM đến 1",
   "key": "99f59f69577f8705d38fec03b06253fc4fbc4c43"
  },
  {
@@ -7843,7 +8059,7 @@
    "cvss": 3.7,
    "ref": "https://github.com/vllm-project/vllm"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93840 — vLLM trước 0",
   "key": "22d4e74e06b75c90e6e45696254f35a86fa5ced9"
  },
  {
@@ -7862,7 +8078,7 @@
    "cvss": 3.7,
    "ref": "https://github.com/vllm-project/vllm"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93841 — vLLM đến 0",
   "key": "0ae32a362fc5d07946138327a574a1a303d82bee"
  },
  {
@@ -7880,7 +8096,7 @@
    "cvss": 8.1,
    "ref": "https://github.com/Cotonti/Cotonti"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93868 — Cotonti đến 1",
   "key": "83468f0cb6fd809949d03faf74fe7c4a8145d92f"
  },
  {
@@ -7898,7 +8114,7 @@
    "cvss": 6.1,
    "ref": "https://github.com/Cotonti/Cotonti"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93869 — Cotonti đến 1",
   "key": "1b1a9ffb978793bfd610a3130389cc64987f4988"
  },
  {
@@ -7916,7 +8132,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/Cotonti/Cotonti"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93870 — Cotonti đến 1",
   "key": "09579b81243d8fad7a82ae8648597016ff939f8d"
  },
  {
@@ -7934,7 +8150,7 @@
    "cvss": 5.4,
    "ref": "https://github.com/Cotonti/Cotonti"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93871 — Cotonti đến 1",
   "key": "ac82b8a528fc446fde92b87c913d57d10b0621db"
  },
  {
@@ -7970,7 +8186,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/Cotonti/Cotonti"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93873 — Cotonti đến 1",
   "key": "fb2f68dd65ddfb338bcbf750f6f449fa16528e29"
  },
  {
@@ -7989,7 +8205,7 @@
    "cvss": 7.0,
    "ref": "https://github.com/OISF/suricata/commit/0dad38fff024b4fec9bc8144d8b94dbca39aac2e"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-57223 — Suricata là một hệ thống phát hiện xâm nhập mạng, hệ thống phòng chống xâm nhập và công cụ giám sát an ninh mạng",
   "key": "1a24ebb83ecc33b4b39a40b0274e483b4a33d954"
  },
  {
@@ -8008,7 +8224,7 @@
    "cvss": 3.3,
    "ref": "https://github.com/OISF/suricata/commit/3ca2ed25a324597a85a2ab11595c3b0689468ea5"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-57225 — Suricata là một hệ thống phát hiện xâm nhập mạng, hệ thống phòng chống xâm nhập và công cụ giám sát an ninh mạng",
   "key": "97b45d48fb21fc19e939ef05d9ca75911229f899"
  },
  {
@@ -8027,7 +8243,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/OISF/suricata/commit/03ba8a71d827dd36a0ceb512f45d2f440f260a3a"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-57227 — Suricata là một hệ thống phát hiện xâm nhập mạng, hệ thống phòng chống xâm nhập và công cụ giám sát an ninh mạng",
   "key": "2155ae494d48ff58517760f5b903863fbbc557e8"
  },
  {
@@ -8046,7 +8262,7 @@
    "cvss": 8.2,
    "ref": "https://github.com/OISF/suricata/commit/19880f9d5bbe2b8f8e8867a577848dce2b532c86"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-57228 — Suricata là một hệ thống phát hiện xâm nhập mạng, hệ thống phòng chống xâm nhập và công cụ giám sát an ninh mạng",
   "key": "2b19427793ee4b3cfda570cba66a61ab96883539"
  },
  {
@@ -8065,7 +8281,7 @@
    "cvss": 5.3,
    "ref": "https://github.com/OISF/suricata/commit/4985eb9daea2f765b6ef59a58fa02e5c71c0a77c"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-57229 — Suricata là một hệ thống phát hiện xâm nhập mạng, hệ thống phòng chống xâm nhập và công cụ giám sát an ninh mạng",
   "key": "c7d5c07a68a469272f3bc17ff4869e54e83b3e22"
  },
  {
@@ -8083,7 +8299,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/superradcompany/microsandbox/commit/2ac6a177b11212d392bf1e7dc77aaf14e4768aa8"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-61670 - microsandbox là thư viện và thời gian chạy microVM dễ dàng, nhanh chóng, đầu tiên tại địa phương",
   "key": "353035e3c1ed5c5ccf4cf08dfeb3a3d26d346f09"
  },
  {
@@ -8102,7 +8318,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/OISF/suricata/commit/006e21c1ccc38c1c815e7945d54b4638cc5f0de8"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-63446 — Suricata là một hệ thống phát hiện xâm nhập mạng, hệ thống phòng chống xâm nhập và công cụ giám sát an ninh mạng",
   "key": "ad85f3ee50846802e9b3c0e7e11cad542179f992"
  },
  {
@@ -8121,7 +8337,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/OISF/suricata/commit/15bf91c5ccbbbf640cd042e1c96974b262549385"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-63447 — Suricata là một hệ thống phát hiện xâm nhập mạng, hệ thống phòng chống xâm nhập và công cụ giám sát an ninh mạng",
   "key": "c11dc837e7a7ba9eb29b5b545f6465983a1f318a"
  },
  {
@@ -8140,7 +8356,7 @@
    "cvss": 5.9,
    "ref": "https://github.com/OISF/suricata/commit/755d6c3061de4d7ba97f0ed31cdc17ab8cab4476"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-63448 — Suricata là một hệ thống phát hiện xâm nhập mạng, hệ thống phòng chống xâm nhập và công cụ giám sát an ninh mạng",
   "key": "a981295ce95b192c42bea0240b7262f170bc977f"
  },
  {
@@ -8159,7 +8375,7 @@
    "cvss": 3.7,
    "ref": "https://github.com/OISF/suricata/commit/499995bf0e5eab34b647ec1024ce65d72c411816"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-63449 — Suricata là một hệ thống phát hiện xâm nhập mạng, hệ thống phòng chống xâm nhập và công cụ giám sát an ninh mạng",
   "key": "acaa3ab7449526eec40fa4c1eb66ee45a91c5e84"
  },
  {
@@ -8178,7 +8394,7 @@
    "cvss": 3.7,
    "ref": "https://github.com/OISF/suricata/commit/52490b8c26909772801afed98df63a6d62f3af18"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-63450 — Suricata là một hệ thống phát hiện xâm nhập mạng, hệ thống phòng chống xâm nhập và công cụ giám sát an ninh mạng",
   "key": "7edc4ee84606184f12f05c64dc24b8a3e07e4183"
  },
  {
@@ -8197,7 +8413,7 @@
    "cvss": 3.3,
    "ref": "https://github.com/OISF/suricata/commit/5449ae170bfce213907d9bab87143a59774ed48f"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-63451 — Suricata là một hệ thống phát hiện xâm nhập mạng, hệ thống phòng chống xâm nhập và công cụ giám sát an ninh mạng",
   "key": "d2c0dd468bcf4e5c7c7638d29d1f35643d376b8e"
  },
  {
@@ -8216,7 +8432,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/OISF/suricata/commit/392b6aee2971a4b5e573850f5d832112509bcb5f"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-63452 — Suricata là một hệ thống phát hiện xâm nhập mạng, hệ thống phòng chống xâm nhập và công cụ giám sát an ninh mạng",
   "key": "9bfa05dccaee78e5fd51e0428d370091e6cec1b2"
  },
  {
@@ -8234,7 +8450,7 @@
    "cvss": 8.6,
    "ref": "https://github.com/Acode-Foundation/Acode/commit/0a5237a3b140562dac877868137a784d6531894d"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-68928 — Acode là một trình soạn thảo văn bản và mã mạnh mẽ cho Android",
   "key": "5b0b5d4bd10da4c68ed60f9fd161580d2f5115c9"
  },
  {
@@ -8253,7 +8469,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/OISF/suricata/commit/1731805967edf5d31448db2ae43cf72c6cf46c11"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-71418 — Suricata là một hệ thống phát hiện xâm nhập mạng, hệ thống phòng chống xâm nhập và công cụ giám sát an ninh mạng",
   "key": "c75ccd80a32231dbcb1d97ba0423fe9720689982"
  },
  {
@@ -8272,7 +8488,7 @@
    "cvss": 5.9,
    "ref": "https://github.com/OISF/suricata/commit/181b3b2fdd1fe87e4534de4fc79e29a083ef125f"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-71855 — Suricata là một hệ thống phát hiện xâm nhập mạng, hệ thống phòng chống xâm nhập và công cụ giám sát an ninh mạng",
   "key": "d2f7c5ed2457a29af09780261350c7431c8a68bb"
  },
  {
@@ -8290,7 +8506,7 @@
    "cvss": 6.1,
    "ref": "https://github.com/openedx/openedx-platform/commit/2af03d21b4142e53e375c7f3699b313e92ec5121"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-85271 — Open edX Platform cho phép tác giả và phân phối học tập trực tuyến ở mọi quy mô",
   "key": "84cb0c3ab0d75b496161cb003f2b67af8bdc5640"
  },
  {
@@ -8308,7 +8524,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/openedx/openedx-platform/commit/8422334e2063015a28b6460a34aa4bb4d8ae1ca8"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-85272 — Open edX Platform cho phép tác giả và phân phối học tập trực tuyến ở mọi quy mô",
   "key": "176110e64d94eea26b889edb6886c44cc99540b6"
  },
  {
@@ -8326,7 +8542,7 @@
    "cvss": 8.1,
    "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-88097"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-88097 - Sử dụng sau khi miễn phí trong Microsoft Edge (dựa trên Chromium) cho phép kẻ tấn công trái phép nâng cao các đặc quyền cục bộ",
   "key": "57b4a974bea93e1b613b2378bedf4fb71f27fdd3"
  },
  {
@@ -8344,7 +8560,7 @@
    "cvss": 6.5,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-93562"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93562 — Một lỗ hổng đã được tìm thấy trong bộ giải mã HTTP/1 của Netty",
   "key": "9945d8eb35a2ec96fb57d241b597d2bbc47d2a25"
  },
  {
@@ -8362,7 +8578,7 @@
    "cvss": 6.5,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-93574"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93574 — Một lỗ hổng đã được tìm thấy trong thành phần 'netty-codec-http` của Netty",
   "key": "d4fd59d9671bd55b487a123fa16df9671531a749"
  },
  {
@@ -8380,7 +8596,7 @@
    "cvss": 9.9,
    "ref": "https://github.com/SunnyYANGyaya/cuicuishark-sheep-fishIOT/blob/main/ToTolink/A3002MU/bof-formSchedule.md"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93738 — Một lỗ hổng đã được tìm thấy trong Totolink A3002MU Hh-B20211125",
   "key": "932d49e0d5fee70f254d0a4180c473baba5fbccb"
  },
  {
@@ -8398,7 +8614,7 @@
    "cvss": null,
    "ref": "https://vinyl-cache.org/security/VSV00020.html"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93894 — Trong Vinyl Cache trước 9",
   "key": "829cb2005cab5ffeae8a9fb33f309a1ca4d384d5"
  },
  {
@@ -74103,240 +74319,5 @@
   },
   "title_vi": "CVE-2026-86465 - Nhà cung cấp Apache Airflow Akeyless: bộ phận bảo vệ phạm vi nhóm của phụ trợ Akeyless có thể được bỏ qua bằng khóa do người dùng kiểm soát",
   "key": "446f6112d46cd5679bdd31a3692347bb2ab2c0fd"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-88255 — Improper Validation of Unsafe Equivalence in Input in ZenHive mpp allows an unauthenticated remote client to pass the Tempo duplicate-submission gate ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88255",
-  "published": "2026-09-16T09:17:07.333",
-  "summary": "Improper Validation of Unsafe Equivalence in Input in ZenHive mpp allows an unauthenticated remote client to pass the Tempo duplicate-submission gate twice with one signed transaction.\n\nMPP.Methods.Tempo reserves the pre-broadcast dedup slot on the caller-supplied hex in reserve_hash_atomic/2, keyed through store_key/1 on tx.raw rather than on a canonical form of the transaction. The deserializer stores the caller's hex verbatim and accepts both recovery-id encodings, so one signed transaction submitted once with v=27 and once with v=0 yields two distinct reserve keys, and both pass the reserv",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-88255",
-   "cvss": null,
-   "ref": "https://cna.erlef.org/cves/CVE-2026-88255.html"
-  },
-  "title_vi": "CVE-2026-88255 - Xác thực không đúng cách về tương đương không an toàn trong đầu vào trong mpp ZenHive cho phép một máy khách từ xa không được xác thực vượt qua cổng gửi trùng lặp Tempo",
-  "key": "32ce290954775770006af495503f4c6ae937eca7"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-89186 — Use of Cache Containing Sensitive Information in ZenHive mpp allows a shared HTTP cache to store a paid response and serve it to clients that never pa",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89186",
-  "published": "2026-09-16T09:17:07.527",
-  "summary": "Use of Cache Containing Sensitive Information in ZenHive mpp allows a shared HTTP cache to store a paid response and serve it to clients that never paid.\n\nMPP.Plug.verify_credential in lib/mpp/plug.ex sets payment-receipt and cache-control: private on the connection before the wrapped application runs, and registers no register_before_send/2 callback. Plug.Conn.put_resp_header/3 replaces an existing header, so a mounting application that sets its own cache-control on the paid resource (for example public, max-age=3600) silently overrides the private the library relies on, and a CDN or reverse ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-89186",
-   "cvss": null,
-   "ref": "https://cna.erlef.org/cves/CVE-2026-89186.html"
-  },
-  "title_vi": "CVE-2026-89186 — Sử dụng bộ nhớ cache chứa thông tin nhạy cảm trong ZenHive mpp cho phép bộ nhớ cache http được chia sẻ để lưu trữ phản hồi trả phí và phục vụ nó cho các khách hàng không bao giờ",
-  "key": "a307e816e762f0b23bab9dc1ab3675efe43e5d4e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-89774 — In the Linux kernel, the following vulnerability has been resolved: Bluetooth: SCO: hold sk properly in sco_conn_ready sk deref in sco_conn_ready must",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89774",
-  "published": "2026-09-16T09:17:07.717",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nBluetooth: SCO: hold sk properly in sco_conn_ready\n\nsk deref in sco_conn_ready must be done either under conn->lock, or\nholding a refcount, to avoid concurrent close. conn->sk and parent sk is\ncurrently accessed without either, and without checking parent->sk_state:\n\n    [Task 1]            [Task 2]\n                        sco_sock_release\n    sco_conn_ready\n      sk = conn->sk\n                          lock_sock(sk)\n                            conn->sk = NULL\n      lock_sock(sk)\n                          release_sock(sk)\n   ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-89774",
-   "cvss": 8.8,
-   "ref": "https://git.kernel.org/stable/c/4e37f6452d586b95c346a9abdd2fb80b67794f39"
-  },
-  "title_vi": "CVE-2026-89774 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: Bluetooth: SCO: hold sk properly in sco_conn_ready sk deref in sco_conn_ready must",
-  "key": "93f0dc776b322825abf482bb36edb4dffc1d761e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-89775 — In the Linux kernel, the following vulnerability has been resolved: KVM: arm64: Handle negative S1 walk levels in VNCR TLB size evaluation Computing t",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89775",
-  "published": "2026-09-16T09:17:07.850",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nKVM: arm64: Handle negative S1 walk levels in VNCR TLB size evaluation\n\nComputing the effects of a TLB invalidation involves looking at\nthe size of the mapping cached by the TLB. For S1 mappings such as\nVNCR, this is deducted from the combination of the base granule size\nand the mapping level.\n\nHowever, this implies that the S1 MMU is *on*. When the MMU is off,\nwe indicate this with the level being set to a \"creative\" value of\n-127 (S1_MMU_DISABLED).\n\nThis ends-up being misinterpreted by pgshift_level_to_ttl() as it\ndoesn't h",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-89775",
-   "cvss": 9.3,
-   "ref": "https://git.kernel.org/stable/c/1c9fca34b9625a67a7f1a03c8604f3df760c6c49"
-  },
-  "title_vi": "CVE-2026-89775 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: KVM: ARM64: Xử lý mức độ đi bộ âm S1 trong đánh giá kích thước TLB VNCR Điện toán t",
-  "key": "3909a8c2f89d13b9c91d6c8ffb1889e91461ee56"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-89776 — In the Linux kernel, the following vulnerability has been resolved: vxlan: vnifilter: enforce exact length of GROUP/GROUP6 attributes The VXLAN VNI fi",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89776",
-  "published": "2026-09-16T09:17:07.950",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nvxlan: vnifilter: enforce exact length of GROUP/GROUP6 attributes\n\nThe VXLAN VNI filter entry policy declares the GROUP/GROUP6 address\nattributes as NLA_BINARY with only a maximum length, so validate_nla()\naccepts a payload shorter than the address. The GROUP consumer reads it\nwith nla_get_in_addr(), an unconditional 4-byte load, so a short\nattribute over-reads up to 3 bytes of uninitialised slab data, which are\nstored into remote_ip and echoed back via RTM_GETTUNNEL, disclosing\nkernel memory.\n\nSwitch both entries to NLA_POLI",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-89776",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/47bfcc871576eaef6c8edab6749acd4b317306ea"
-  },
-  "title_vi": "CVE-2026-89776 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: vxlan: vnifilter: thực thi độ dài chính xác của các thuộc tính GROUP/GROUP6 VXLAN VNI fi",
-  "key": "eba0b714776e7a0f0fb0038c98a2b2b7c7263843"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-89777 — In the Linux kernel, the following vulnerability has been resolved: vfio/pci: clear vdev->msi_perm after freeing it on init failure vfio_msi_cap_len()",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89777",
-  "published": "2026-09-16T09:17:08.073",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nvfio/pci: clear vdev->msi_perm after freeing it on init failure\n\nvfio_msi_cap_len() lazily allocates the per-device MSI permission table:\n\n\tvdev->msi_perm = kmalloc_obj(struct perm_bits, GFP_KERNEL_ACCOUNT);\n\tif (!vdev->msi_perm)\n\t\treturn -ENOMEM;\n\n\tret = init_pci_cap_msi_perm(vdev->msi_perm, len, flags);\n\tif (ret) {\n\t\tkfree(vdev->msi_perm);\n\t\treturn ret;\t\t/* vdev->msi_perm left dangling */\n\t}\n\nWhen init_pci_cap_msi_perm() -> alloc_perm_bits() fails with -ENOMEM, the\nerror path frees vdev->msi_perm but leaves the freed pointe",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-89777",
-   "cvss": 8.8,
-   "ref": "https://git.kernel.org/stable/c/25cdd2a492d868cff1e519a60fe282909c52d385"
-  },
-  "title_vi": "CVE-2026-89777 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: vfio/pci: clear vdev- >msi_perm sau khi giải phóng nó trên init lỗi vfio_msi_cap_len()",
-  "key": "40d1c21d8d839fbb6957e61ec3016bafc3902f07"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-89778 — In the Linux kernel, the following vulnerability has been resolved: isofs: fix out-of-bounds page array access on empty zisofs block zisofs_uncompress",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89778",
-  "published": "2026-09-16T09:17:08.253",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nisofs: fix out-of-bounds page array access on empty zisofs block\n\nzisofs_uncompress_block()'s empty-block fast path returns\npcount << PAGE_SHIFT, ignoring the incoming poffset, unlike the\ndecompression path which returns bytes produced relative to poffset.\nzisofs_fill_pages() uses that return to advance its page cursor, so when\nthe zisofs block size is below PAGE_SIZE and a sub-page block leaves\npoffset partway into a page, a following empty block over-counts and\nadvances pages[] one element past its end, after which\n\"if (pof",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-89778",
-   "cvss": 9.8,
-   "ref": "https://git.kernel.org/stable/c/68d4d3e78150c7ed7d1195af63ad1e6ace30c661"
-  },
-  "title_vi": "CVE-2026-89778 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: isofs: fix out-of-bound page array access on empty zisofs block zisofs_uncompress",
-  "key": "d548b6e1cde028fbe493169029dcdc6c8ea08486"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-89779 — In the Linux kernel, the following vulnerability has been resolved: fs/ntfs3: validate ef->size covers the record's name and value When an EA record h",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89779",
-  "published": "2026-09-16T09:17:08.387",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nfs/ntfs3: validate ef->size covers the record's name and value\n\nWhen an EA record has a non-zero ef->size, ntfs_read_ea() only checks\nthat the record fits in the remaining buffer (ea_size > bytes), not that\nef->size is large enough to hold the record's own name_len + 1 + elength.\n\nA crafted image can pass validation with, e.g., ef->size = 24 but\nelength = 0xffff. ntfs_get_ea() then trusts elength and copies it out of\nthe undersized record, reading past the kmalloc(info->size) allocation\nand leaking heap memory to userspace vi",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-89779",
-   "cvss": 9.1,
-   "ref": "https://git.kernel.org/stable/c/077df8464cf24f8ffc82fb6efec2ae600686e699"
-  },
-  "title_vi": "CVE-2026-89779 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: fs/ntfs3: validate ef->size bao gồm tên và giá trị của bản ghi Khi EA ghi h",
-  "key": "b372f11a4839a3ca93fc1c6404cf56328d952bdb"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-89780 — In the Linux kernel, the following vulnerability has been resolved: net: qualcomm: rmnet: restore skb->dev on deaggregated frames rmnet_map_deaggregat",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89780",
-  "published": "2026-09-16T09:17:08.520",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nnet: qualcomm: rmnet: restore skb->dev on deaggregated frames\n\nrmnet_map_deaggregate() allocates each sub-frame with alloc_skb() and\nleaves skb->dev NULL. __rmnet_map_ingress_handler() assigns\nskb->dev = ep->egress_dev only on the data path, but a MAP command frame\nis dispatched to rmnet_map_command() before that, so rmnet_map_send_ack()\nruns netif_tx_lock(skb->dev) on a NULL device. An unprivileged user\nreaches this by unsharing a user+net namespace, creating an rmnet link\nover a tap device with INGRESS_DEAGGREGATION and ING",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-89780",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/200460a0793dc6af97d3b36d92ac245350ac26fc"
-  },
-  "title_vi": "CVE-2026-89780 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: net: qualcomm: rmnet: restore skb- >dev trên các khung phân tách rmnet_map_deaggregat",
-  "key": "997e285949f32a6a5adf7173e89d75cfa7bafb70"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-89781 — In the Linux kernel, the following vulnerability has been resolved: fs/ntfs3: fix out-of-bounds read in read_log_rec_buf() read_log_rec_buf() copies a",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89781",
-  "published": "2026-09-16T09:17:08.667",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nfs/ntfs3: fix out-of-bounds read in read_log_rec_buf()\n\nread_log_rec_buf() copies a log record into a caller buffer starting at\n\n\tu32 off = lsn_to_page_off(log, lsn) + log->record_header_len;\n\nlog->record_header_len (and log->data_off, used for the following pages)\ncomes verbatim from the on-disk restart area and is only checked for\n8-byte alignment in is_rst_area_valid(), so off can exceed\nlog->page_size. \"tail = log->page_size - off\" then underflows and\nmemcpy() reads past the page_size-sized buffer returned by\nread_log_pag",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-89781",
-   "cvss": 8.4,
-   "ref": "https://git.kernel.org/stable/c/1b2d31f1083beb80c55d1152249f652c1445a559"
-  },
-  "title_vi": "CVE-2026-89781 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: fs/ntfs3: sửa lỗi out-of-bounds read_log_rec_buf() read_log_rec_buf() sao chép một",
-  "key": "2d4adb9adad421bb8775d5408bf0c677dfb09233"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-89782 — In the Linux kernel, the following vulnerability has been resolved: fs/ntfs3: reject restart table growth beyond U16_MAX entries During $LogFile repla",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89782",
-  "published": "2026-09-16T09:17:08.800",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nfs/ntfs3: reject restart table growth beyond U16_MAX entries\n\nDuring $LogFile replay, log_replay() indexes the transaction table by the\ntransact_id taken from the log record header.  check_log_rec() only\nverifies that transact_id is non-zero and properly aligned, not its\nmagnitude, so a crafted image can request an arbitrarily large index.\n\nalloc_rsttbl_from_idx() grows the table to cover that index via\nextend_rsttbl(), which passes the new entry count to init_rsttbl():\n\n\trt = init_rsttbl(esize, used + add);\n\nused + add is co",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-89782",
-   "cvss": 8.4,
-   "ref": "https://git.kernel.org/stable/c/111f8d74a19d85942ecbb3aba78f6f3c88e59391"
-  },
-  "title_vi": "CVE-2026-89782 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: fs/ntfs3: từ chối tăng trưởng bảng khởi động lại ngoài các mục U16_MAX Trong quá trình sao chép $LogFile",
-  "key": "2ca95473bbb960a05eeb0d7b84f9bd828aff7dd1"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-89783 — In the Linux kernel, the following vulnerability has been resolved: xfrm6: fix out-of-bounds write in xfrm6_input_addr() when secpath is full The dept",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89783",
-  "published": "2026-09-16T09:17:08.930",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nxfrm6: fix out-of-bounds write in xfrm6_input_addr() when secpath is full\n\nThe depth check in xfrm6_input_addr() is off by one:\n\n  if (1 + sp->len == XFRM_MAX_DEPTH)\n          goto drop;\n  ...\n  sp->xvec[sp->len++] = x;\n\nxfrm_input() can leave sp->len == XFRM_MAX_DEPTH, and the transport-mode\nreceive path re-enters IPv6 input via xfrm_trans_reinject() with that\nsecpath preserved. If the inner packet carries a destination-options HAO\noption or a type-2 routing header, xfrm6_input_addr() is called with\nsp->len == XFRM_MAX_DEPTH",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-89783",
-   "cvss": 9.8,
-   "ref": "https://git.kernel.org/stable/c/0f679e0523ddfff3fb554336ceb874b0e51e9cd3"
-  },
-  "title_vi": "CVE-2026-89783 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: xfrm6: fix out-of-bounds write in xfrm6_input_addr() khi secpath đầy",
-  "key": "b2f7fb44b78a8bbc8900ef0df61b5397d8e856f9"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-89784 — In the Linux kernel, the following vulnerability has been resolved: SUNRPC: check rpc_sockaddr2uaddr() return value in rpcb_register_inet4/6 rpcb_regi",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89784",
-  "published": "2026-09-16T09:17:09.060",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nSUNRPC: check rpc_sockaddr2uaddr() return value in rpcb_register_inet4/6\n\nrpcb_register_inet4() and rpcb_register_inet6() store the result of\nrpc_sockaddr2uaddr() into map->r_addr without checking it for NULL.\nrpc_sockaddr2uaddr() returns NULL when its final kstrdup() fails, and\nthe unchecked NULL is then carried into the synchronous RPCBPROC_SET\nencode path: rpcb_register_call() -> rpc_call_sync() ->\nrpcb_enc_getaddr() -> encode_rpcb_string(), whose first statement is\nstrlen(string), dereferencing NULL and oopsing the kernel",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-89784",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/04441b792ec40eb66349b5fab34b6a2090b5b2dd"
-  },
-  "title_vi": "CVE-2026-89784 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: SUNRPC: kiểm tra giá trị trả về rpc_sockaddr2uaddr () trong rpcb_register_inet4/6 rpcb_regi",
-  "key": "bd180332b63d19a9ddd898dde8a473230a6cc80b"
  }
 ]
