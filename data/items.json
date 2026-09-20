@@ -1,5 +1,213 @@
 [
  {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Tấn công quy mô lớn bằng UAV vào thủ đô Nga, âm mưu phá hỏng cuộc bầu cử Hạ viện",
+  "link": "https://www.vietnamplus.vn/tan-cong-quy-mo-lon-bang-uav-vao-thu-do-nga-am-muu-pha-hong-cuoc-bau-cu-ha-vien-post1137330.vnp",
+  "published": "2026-09-20T21:45:15+00:00",
+  "summary": "Giới chức Nga ngày 20/9 cho biết hàng trăm thiết bị bay không người lái (UAV) nhằm vào Moskva và khu vực lân cận đã khiến ít nhất 2 người thiệt mạng và làm hư hại một nhà máy lọc dầu lớn. Tổng Thư ký Liên hợp quốc kêu gọi cải tổ các thể chế toàn cầu Đặc phái viên Tổng thống Mỹ tới Moskva và Kiev thúc đẩy kế hoạch hòa bình Lãnh đạo Trung Quốc, Nga trao đổi các vấn đề song phương và quốc tế",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "1921fd97b5767093a365643ffcf4af3c96014437"
+ },
+ {
+  "source": "VnExpress Số hóa",
+  "title": "7 nâng cấp lớn trên iOS 27",
+  "link": "https://vnexpress.net/7-nang-cap-lon-tren-ios-27-5121124.html",
+  "published": "2026-09-20T22:00:00+00:00",
+  "summary": "iOS 27 vừa phát hành tuần qua giúp nhiều iPhone cũ chạy nhanh hơn, bổ sung tính năng chỉnh sửa ảnh với Apple Intelligence, hỗ trợ Siri AI.",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "cabee175e78d772ab89cf4ac724ca28ffa8f02b1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94043 — A vulnerability was determined in Free5GC up to 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94043",
+  "published": "2026-09-20T19:17:12.780",
+  "summary": "A vulnerability was determined in Free5GC up to 4.2.3. This vulnerability affects unknown code of the file /corefuzzer_deps/free5gc/NFs/amf/internal/gmm/handler.go of the component Gmm Handler. This manipulation causes race condition. The attack can be initiated remotely. Patch name: e323b01464355781b8b8d5dd695e05cbc00a62f2. To fix this issue, it is recommended to deploy a patch.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94043",
+   "cvss": 5.3,
+   "ref": "https://github.com/free5gc/amf/commit/e323b01464355781b8b8d5dd695e05cbc00a62f2"
+  },
+  "title_vi": "CVE-2026-94043 — Một lỗ hổng đã được xác định trong Free5GC lên đến 4",
+  "key": "1358f032f9fe3ca6062f716e855bfc9bc3ab7523"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94044 — A vulnerability was identified in 03-lovepreetSingh MCP up to f95d035c5317fad81af9828286631053ccb23546",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94044",
+  "published": "2026-09-20T19:17:12.960",
+  "summary": "A vulnerability was identified in 03-lovepreetSingh MCP up to f95d035c5317fad81af9828286631053ccb23546. This issue affects the function create_file of the file app/api/mcp/route.ts. Such manipulation of the argument filePath/content leads to path traversal. The attack can be launched remotely. The exploit is publicly available and might be used. This product does not use versioning. This is why information about affected and unaffected releases are unavailable. The project was informed of the problem early through an issue report but has not responded yet.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94044",
+   "cvss": 7.3,
+   "ref": "https://github.com/03-lovepreetSingh/MCP/"
+  },
+  "title_vi": "CVE-2026-94044 — Một lỗ hổng đã được xác định trong 03-lovepreetSingh MCP lên đến f95d035c5317fad81af9828286631053ccb23546",
+  "key": "42007170965e7946a64e76d082735496dcecc63f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94045 — A security flaw has been discovered in newbee-ltd newbee-mall up to 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94045",
+  "published": "2026-09-20T19:17:13.133",
+  "summary": "A security flaw has been discovered in newbee-ltd newbee-mall up to 1.0.0. Impacted is an unknown function of the file controller/common/UploadController.java of the component Goods Save Endpoint. Performing a manipulation of the argument goodsName results in cross site scripting. The attack may be initiated remotely. The exploit has been released to the public and may be used for attacks. ImageIO.read() is a format-agnostic read - it returns non-null for a polyglot PNG|<img onerror> payload, which is exactly why the \"image-only\" guard is bypassable; the attacker-controlled suffix + /upload/**",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94045",
+   "cvss": 3.5,
+   "ref": "https://github.com/newbee-ltd/newbee-mall/"
+  },
+  "title_vi": "CVE-2026-94045 — Một lỗ hổng bảo mật đã được phát hiện trong newbee-ltd newbee-mall lên đến 1",
+  "key": "8f24e58b08a0b4c8ea5891dd048a695959d051e2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94046 — A weakness has been identified in 0215AndrewFeng ACE-MCP up to 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94046",
+  "published": "2026-09-20T19:17:13.317",
+  "summary": "A weakness has been identified in 0215AndrewFeng ACE-MCP up to 4.10.8. The affected element is the function get_file_snippet of the file getFileSnippet.ts of the component MCP Tool. Executing a manipulation of the argument projectRootPath/filePath can lead to path traversal. The attack may be launched remotely. The exploit has been made available to the public and could be used for attacks. isPathInsideProjectRoot only blocks filePath escaping the attacker-chosen projectRootPath; the root itself is untrusted client input - set projectRootPath=/etc, filePath=hosts and the guard passes. The proj",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94046",
+   "cvss": 4.3,
+   "ref": "https://github.com/0215AndrewFeng/ACE-MCP/"
+  },
+  "title_vi": "CVE-2026-94046 — Một điểm yếu đã được xác định trong 0215AndrewFeng ACE-MCP lên đến 4",
+  "key": "d600a7750085582e2e4d7d2df5e4560c6165d068"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94047 — A security vulnerability has been detected in samanhappy MCPHub up to 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94047",
+  "published": "2026-09-20T20:16:53.790",
+  "summary": "A security vulnerability has been detected in samanhappy MCPHub up to 1.0.32. The impacted element is the function importTemplate of the file src/services/templateService.ts of the component Template Import Endpoint. The manipulation leads to improper privilege management. Remote exploitation of the attack is possible. The exploit has been disclosed publicly and may be used. Upgrading to version 1.0.33 is sufficient to resolve this issue. The identifier of the patch is 18a4467bc4ec6390b1f841d8a468a37e9922f837. It is advisable to upgrade the affected component.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94047",
+   "cvss": 6.3,
+   "ref": "https://github.com/samanhappy/mcphub/"
+  },
+  "title_vi": "CVE-2026-94047 — Một lỗ hổng bảo mật đã được phát hiện trong samanhappy MCPHub lên đến 1",
+  "key": "228e3687397e3c5c07927f3d5926d6817770e2dc"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94048 — A vulnerability was detected in CodeAstro QR Code Attendance Management System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94048",
+  "published": "2026-09-20T20:16:54.510",
+  "summary": "A vulnerability was detected in CodeAstro QR Code Attendance Management System 1.0. This affects the function Save of the file app/Controllers/UserController.php. The manipulation of the argument role_id results in improper privilege management. The attack can be executed remotely. The exploit is now public and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94048",
+   "cvss": 6.6,
+   "ref": "https://codeastro.com/"
+  },
+  "title_vi": "CVE-2026-94048 — Một lỗ hổng đã được phát hiện trong Hệ thống quản lý chấm công CodeAstro QR Code 1",
+  "key": "edb41e12cf0a95a7ffa5c57ce3e87aa8a93dc368"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94049 — A flaw has been found in 06ketan slideshot up to 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94049",
+  "published": "2026-09-20T20:16:54.697",
+  "summary": "A flaw has been found in 06ketan slideshot up to 4.4.0. This impacts the function render_slides of the file packages/cli/src/renderer.ts. This manipulation of the argument htmlPath causes path traversal. The attack is possible to be carried out remotely. The exploit has been published and may be used. The project was informed of the problem early through an issue report but has not responded yet.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94049",
+   "cvss": 4.3,
+   "ref": "https://github.com/06ketan/slideshot/"
+  },
+  "title_vi": "CVE-2026-94049 — Một lỗ hổng đã được tìm thấy trong 06ketan slideshot lên đến 4",
+  "key": "8d844d1fc03dccfedfcd9353926cfd2187ca7c95"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94050 — A vulnerability has been found in D-Link DIR-X1860Z up to 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94050",
+  "published": "2026-09-20T21:16:55.380",
+  "summary": "A vulnerability has been found in D-Link DIR-X1860Z up to 1.0.2.220120.165402. Affected is the function routerd.wificfg_get/routerd.get_rand_key of the component ubus JSON-RPC interface. Such manipulation leads to information disclosure. The attack must be carried out from within the local network. Upgrading to version 1.0.7.260821.161908 is able to address this issue. It is suggested to upgrade the affected component. This vulnerability only affects products that are no longer supported by the maintainer.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94050",
+   "cvss": 4.3,
+   "ref": "https://support.dlink.com/resource/SECURITY_ADVISEMENTS/DIR-X1860Z/DIR-X1860Z_REVA_FIRMWARE_V1.0.7.260821.161908_HOTFIX.zip"
+  },
+  "title_vi": "CVE-2026-94050 — Một lỗ hổng đã được tìm thấy trong D-Link DIR-X1860Z lên đến 1",
+  "key": "b3ceb080d0fa58dc828bb335c13c483f4f9e98fd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94051 — A vulnerability was found in 0717376 cowork_bench up to d943e75bc0fc8e3b27141979300cd8cbcd1e890d",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94051",
+  "published": "2026-09-20T21:16:55.597",
+  "summary": "A vulnerability was found in 0717376 cowork_bench up to d943e75bc0fc8e3b27141979300cd8cbcd1e890d. Affected by this vulnerability is the function ControlFlowNode of the file local_servers/pdf-tools-mcp/pdf_tools_mcp/server.py of the component pdf-tools-mcp. Performing a manipulation of the argument pdf_file_path results in server-side request forgery. It is possible to initiate the attack remotely. The exploit has been made public and could be used. This product is using a rolling release to provide continious delivery. Therefore, no version details for affected nor updated releases are availab",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94051",
+   "cvss": 6.3,
+   "ref": "https://github.com/0717376/cowork_bench/"
+  },
+  "title_vi": "CVE-2026-94051 — Một lỗ hổng đã được tìm thấy trong 0717376 cowork_bench cho đến d943e75bc0fc8e3b27141979300cd8cbcd1e890d",
+  "key": "0ea9f764d13d2d855afbbf37728479444e526795"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94089 — A vulnerability was determined in D-Link DIR-868L 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94089",
+  "published": "2026-09-20T21:16:55.780",
+  "summary": "A vulnerability was determined in D-Link DIR-868L 2.01b05. This issue affects the function strcpy of the file /webfa_authentication.cgi of the component Authentication Handler. Executing a manipulation of the argument id/password can lead to stack-based buffer overflow. The attack can be executed remotely. The exploit has been publicly disclosed and may be utilized.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94089",
+   "cvss": 10.0,
+   "ref": "https://github.com/Walnut1337/CVE/blob/main/poc/poc_crash.py"
+  },
+  "title_vi": "CVE-2026-94089 — Một lỗ hổng được xác định trong D-Link DIR-868L 2",
+  "key": "260c103abd7bac4190f7723d6c6354325cbe9448"
+ },
+ {
   "source": "NVD",
   "title": "CVE-2026-94035 — A vulnerability was determined in SourceCodester Drug Recommendation System 1",
   "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94035",
@@ -20252,7 +20460,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "WordPress mới Click2Shell Flaw Forces Cài đặt chủ đề, Can Chain to Code Execution",
   "key": "13a17b41af3ec05b1e864ec9cdf31b5ee4a76e26"
  },
  {
@@ -25893,7 +26101,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/strukturag/libheif/commit/1c2df9c0e814f89716f3a4d85a444b2dbc63ad69"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84450 — libheif là bộ giải mã và mã hóa định dạng tệp HEIF và AVIF",
   "key": "f70d3554ef15ed4fbc9aa367399f09f68598de0b"
  },
  {
@@ -25911,7 +26119,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/strukturag/libheif/commit/8bfed9a9ed008e4ef28abc736284a90d3cba754f"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84451 — libheif là bộ giải mã và mã hóa định dạng tệp HEIF và AVIF",
   "key": "e55036cd7189a5210800fd16c550b79253d42e8a"
  },
  {
@@ -25930,7 +26138,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-260-01.json"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-86520 - Bransys ELD được vận chuyển với thông tin đăng nhập MQTT được mã hóa cứng, sẽ cấp quyền truy cập đọc dữ liệu thời gian thực cho mọi thiết bị đang hoạt động trên một tập hợp con của carr",
   "key": "277a63a0aa65f03f9689a88f236eacf4044430bd"
  },
  {
@@ -25949,7 +26157,7 @@
    "cvss": 5.9,
    "ref": "https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-260-01.json"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-86689 - Bransys ELD được vận chuyển với thông tin đăng nhập MQTT được mã hóa cứng, sẽ cấp quyền truy cập đọc dữ liệu thời gian thực cho mọi thiết bị đang hoạt động trên một tập hợp con của carr",
   "key": "b5eabf66ea4c735af0c5257e57f7247e689d1fa8"
  },
  {
@@ -25967,7 +26175,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-258-08.json"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-88259 — Camera IP CareCam CM2507 không yêu cầu xác thực để truy cập vào dịch vụ truyền phát video mạng",
   "key": "4bcfe32b71ec7c82a8bcaf6a3cfe67e72a8d4c2c"
  },
  {
@@ -25985,7 +26193,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/gedelumbung/HospitalManagement/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93531 — Một điểm yếu đã được xác định trong Bệnh viện gedelumbungQuản lý lên đến c2d45543789a3887067d3915f69d44cfc2cf76a8",
   "key": "2ff18ba33246951314106c1584a94a8f6ce1d7b9"
  },
  {
@@ -26003,7 +26211,7 @@
    "cvss": 6.3,
    "ref": "https://github.com/gedelumbung/HospitalManagement/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93532 — Một lỗ hổng bảo mật đã được phát hiện trong Bệnh viện gedelumbungQuản lý lên đến c2d45543789a3887067d3915f69d44cfc2cf76a8",
   "key": "c503ffd785cdacbe73bdb9240fca9a712822ece7"
  },
  {
@@ -26021,7 +26229,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/micromatch/braces"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93687 — niềng răng qua 3",
   "key": "6977ecba7bd62d8ff623e2f888b2bfe4aed45b79"
  },
  {
@@ -26039,7 +26247,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/sgl-project/sglang"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93688 — SGLang đến 0",
   "key": "63fd0d4e770c7d3f23f262ac989bc9e6503a82a3"
  },
  {
@@ -26057,7 +26265,7 @@
    "cvss": 5.5,
    "ref": "https://github.com/winfsp/winfsp"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93689 — WinFsp đến 2",
   "key": "6dee7a83be072557a1af1825bbd6fc1e265763ac"
  },
  {
@@ -26075,7 +26283,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/garycourt/uri-js"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93690 — uri-js qua 4",
   "key": "000c8685c1cfc21b908d6864cc6adc9d0893c80c"
  },
  {
@@ -26093,7 +26301,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/mealie-recipes/mealie"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93736 — Mealie trước 3 tuổi",
   "key": "1498f99daeee0924ea99fedfeafacc0c5ac615bc"
  },
  {
@@ -26111,7 +26319,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/azkaban/azkaban"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93737 — Azkaban đến 4",
   "key": "788f9e01e335636b896bccc307b9568a42a564fc"
  },
  {
@@ -26129,7 +26337,7 @@
    "cvss": 3.7,
    "ref": "https://github.com/nanomq/NanoNNG/commit/91bd4c7f45f945a3f5f0e37c459157dc7c277a07"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-44639 — NanoMQ là sàn MQTT",
   "key": "21dbf3af7e118959e293e9026833adab0bcacf8f"
  },
  {
@@ -26147,7 +26355,7 @@
    "cvss": 7.8,
    "ref": "https://github.com/virtio-win/kvm-guest-drivers-windows/commit/c6bef93d7909584bbda4e5c87603ea175825f342"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-46655 — virtio-win cung cấp trình điều khiển ảo hóa Windows cho QEMU và KVM",
   "key": "837f6c11fb9bf42fef7f8367acc7019a5dfbab7b"
  },
  {
@@ -26165,7 +26373,7 @@
    "cvss": null,
    "ref": "https://github.com/rsyslog/rsyslog/commit/acde2ba25ea33816694b787859f4a727a247b6d6"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-55556 — Rsyslog là một hệ thống xử lý nhật ký nhanh như tên lửa",
   "key": "dac4551d819907a6a682918ca078ab6adcd254ab"
  },
  {
@@ -26185,7 +26393,7 @@
    "cvss": 8.8,
    "ref": "https://github.com/stacklok/toolhive-studio/commit/968182d7f3ee1e55123369e66ad88f82128119b0"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-58197 — ToolHive là một tiện ích được thiết kế để đơn giản hóa việc triển khai và quản lý các máy chủ Model Context Protocol",
   "key": "feaf24649883bfd7e85cadacfffa50fc104423c4"
  },
  {
@@ -26203,7 +26411,7 @@
    "cvss": 8.1,
    "ref": "https://github.com/rsyslog/rsyslog/commit/bcda60a3692efdf0c8e44102528f5a0ebe0dec6d"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-61548 — Rsyslog là một hệ thống xử lý nhật ký nhanh như tên lửa",
   "key": "0ebe8dc9179b10f43c2481710e2699c72886dec2"
  },
  {
@@ -26221,7 +26429,7 @@
    "cvss": 2.0,
    "ref": "https://github.com/nanomq/NanoNNG/commit/fa8d859bb39841e46cfc6cce280d242bd782ad3d"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-61633 — NanoMQ là sàn MQTT",
   "key": "6cd28537e5c57b5b857ec7800b34f6aaf58bf7fe"
  },
  {
@@ -26240,7 +26448,7 @@
    "cvss": 7.1,
    "ref": "https://github.com/projectcapsule/capsule/commit/755cef54bf4a1bc56d6692130132bc70755bef46"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-61672 - Capsule là một khuôn khổ đa hợp đồng và dựa trên chính sách cho Kubernetes",
   "key": "2bf8b896da3363ac4af3e1089474ea2c5a105d35"
  },
  {
@@ -26259,7 +26467,7 @@
    "cvss": 6.8,
    "ref": "https://github.com/projectcapsule/capsule/commit/8d89d6865df6f41c7faa22fc9e807a57b01bfd0e"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-61794 - Capsule là một khuôn khổ đa hợp đồng và dựa trên chính sách cho Kubernetes",
   "key": "332d87ead3216332ed669dc346351ec6a1b48608"
  },
  {
@@ -26278,7 +26486,7 @@
    "cvss": 6.8,
    "ref": "https://github.com/projectcapsule/capsule/commit/8d89d6865df6f41c7faa22fc9e807a57b01bfd0e"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-61795 - Capsule là một khuôn khổ đa hợp đồng và dựa trên chính sách cho Kubernetes",
   "key": "4010651bef038df5f85b56d2fa69514a71977fe1"
  },
  {
@@ -26297,7 +26505,7 @@
    "cvss": 8.1,
    "ref": "https://github.com/project-zot/zot/commit/7bb211bcd4352b90f3e99752607fbd1f050bf7ca"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-61833 — zot là một hình ảnh container và đăng ký tạo tác dựa trên Thông số kỹ thuật Phân phối Sáng kiến Container Mở",
   "key": "1052825e5eb24788e026c0823e8f29f0eddd933f"
  },
  {
@@ -26315,7 +26523,7 @@
    "cvss": null,
    "ref": "https://github.com/digint/btrbk/commit/29ca3c093205395bdeb9dd98677ab4139c458aec"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-62943 — btrbk là một công cụ để tạo ảnh chụp nhanh và sao lưu từ xa các tập con Btrfs",
   "key": "fd654a5cd7cf1e05570c2af48e8b3074f72fa35b"
  },
  {
@@ -26333,7 +26541,7 @@
    "cvss": null,
    "ref": "https://github.com/agronholm/anyio/commit/eb562e6462ee46b1904e50b02ce00a858cdeb200"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-63349 — AnyIO là một khung đồng thời và kết nối mạng không đồng bộ cấp cao hoạt động trên Trio hoặc asyncio",
   "key": "fe78eb2a2be085f0406582a679db8670a3e63bbe"
  },
  {
@@ -26351,7 +26559,7 @@
    "cvss": 5.9,
    "ref": "https://github.com/anycable/anycable/commit/d2cbadec792f038f4695c84a65c0d957b0fde72c"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-63405 - AnyCable là một máy chủ thời gian thực cho giao tiếp hai chiều đáng tin cậy hỗ trợ bất kỳ phụ trợ nào",
   "key": "0f28052b626e3200a255cb885dd8e66aa9882a16"
  },
  {
@@ -26369,7 +26577,7 @@
    "cvss": 5.9,
    "ref": "https://github.com/anycable/anycable/commit/201c67e99e463ed63bd6b345562f4c458385fcee"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-63406 - AnyCable là một máy chủ thời gian thực cho giao tiếp hai chiều đáng tin cậy hỗ trợ bất kỳ phụ trợ nào",
   "key": "0abdd1c8a259650e31877600d8ca8f2d0a614d61"
  },
  {
@@ -26387,7 +26595,7 @@
    "cvss": null,
    "ref": "https://github.com/nanomq/NanoNNG/commit/f888fe39d6691b253ff9aee598ce58bbe449ab6f"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-73863 — NanoMQ là sàn MQTT",
   "key": "1c83c886e47817cf8753242dc0d2b3fcddfc818c"
  },
  {
@@ -26405,7 +26613,7 @@
    "cvss": 8.1,
    "ref": "https://github.com/ArnasDon/wacrm/commit/03e851bea56dcf6bb21ff1b80ba531372bf3269f"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-77239 — WACRM là mẫu CRM tự lưu trữ cho WhatsApp",
   "key": "dbd1a8922c086708a416f92b9307bb1c981f6158"
  },
  {
@@ -26423,7 +26631,7 @@
    "cvss": 9.9,
    "ref": "https://github.com/ArnasDon/wacrm/commit/e01f7ed37184f972ace8fb2da5c3e37e56a6050f"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-77240 — WACRM là mẫu CRM tự lưu trữ cho WhatsApp",
   "key": "56c4ae3f62efbcbd99dc6844f17674c9f422456a"
  },
  {
@@ -26442,7 +26650,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/cthackers/adm-zip/commit/491600683dacb6cb9fe0718a0eeb9cb5eb49afa6"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-77301 — adm-zip là thư viện JavaScript để tạo và trích xuất tài liệu lưu trữ ZIP trong Node",
   "key": "67a610537b481e42a9dae1723a17cb11e4d48aa6"
  },
  {
@@ -26461,7 +26669,7 @@
    "cvss": null,
    "ref": "https://github.com/F1bonacc1/process-compose/commit/6ffa74f462cd2fa4f8dc1ee63c70b793b298c858"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-77339 - Soạn thảo quy trình là một trình lên lịch và điều phối cho các ứng dụng không chứa",
   "key": "db4e23aa860686c475181c990c6a0c1be99c8bf9"
  },
  {
@@ -26479,7 +26687,7 @@
    "cvss": 6.1,
    "ref": "https://github.com/SemanticMediaWiki/SemanticMediaWiki/releases/tag/7.2.0"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-77606 — Semantic MediaWiki là một phần mở rộng mã nguồn mở miễn phí cho MediaWiki cho phép người dùng lưu trữ và truy vấn dữ liệu trong các trang của wiki",
   "key": "cc97d30639d2a7440558d74896ff83c0fd0a3ae4"
  },
  {
@@ -26497,7 +26705,7 @@
    "cvss": 6.1,
    "ref": "https://github.com/SemanticMediaWiki/SemanticMediaWiki/releases/tag/7.2.0"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-77607 — Semantic MediaWiki là một phần mở rộng mã nguồn mở miễn phí cho MediaWiki cho phép người dùng lưu trữ và truy vấn dữ liệu trong các trang của wiki",
   "key": "31085cb157298d7459a134eedf53d0f9e438769f"
  },
  {
@@ -26515,7 +26723,7 @@
    "cvss": 6.1,
    "ref": "https://github.com/SemanticMediaWiki/SemanticMediaWiki/releases/tag/7.2.0"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-77608 — Semantic MediaWiki là một phần mở rộng mã nguồn mở miễn phí cho MediaWiki cho phép người dùng lưu trữ và truy vấn dữ liệu trong các trang của wiki",
   "key": "3b88f9b91489c7984ee2c0b8dc3b667d18b760e9"
  },
  {
@@ -26533,7 +26741,7 @@
    "cvss": 6.1,
    "ref": "https://github.com/SemanticMediaWiki/SemanticMediaWiki/releases/tag/7.2.0"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-77609 — Semantic MediaWiki là một phần mở rộng mã nguồn mở miễn phí cho MediaWiki cho phép người dùng lưu trữ và truy vấn dữ liệu trong các trang của wiki",
   "key": "42e31b2f7da3d6e71b98837447bbcdf7422bdd0b"
  },
  {
@@ -26551,7 +26759,7 @@
    "cvss": 6.1,
    "ref": "https://github.com/SemanticMediaWiki/SemanticMediaWiki/releases/tag/7.2.0"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-77610 — Semantic MediaWiki là một phần mở rộng mã nguồn mở miễn phí cho MediaWiki cho phép người dùng lưu trữ và truy vấn dữ liệu trong các trang của wiki",
   "key": "8d9539cc94b26244b01209fb4da8f851bb031cd8"
  },
  {
@@ -26569,7 +26777,7 @@
    "cvss": 6.1,
    "ref": "https://github.com/SemanticMediaWiki/SemanticMediaWiki/releases/tag/7.2.0"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-77616 — Semantic MediaWiki là một phần mở rộng mã nguồn mở miễn phí cho MediaWiki cho phép người dùng lưu trữ và truy vấn dữ liệu trong các trang của wiki",
   "key": "ff49950a779f3baa20746fc6942d00442f80f089"
  },
  {
@@ -26588,7 +26796,7 @@
    "cvss": 9.8,
    "ref": "https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-258-08.json"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-81321 - Camera IP CM2507 lưu trữ thông tin đăng nhập mạng không dây được định cấu hình trong cleartext trong hệ thống tệp thiết bị",
   "key": "8ef166e48c3899c3f052e0e42b23a432634399e8"
  },
  {
@@ -26607,7 +26815,7 @@
    "cvss": null,
    "ref": "https://github.com/frain-dev/convoy/commit/1cc67cd16fb1f8890cc83a3998d3f92dceb7fd06"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-81505 — Convoy là một cổng webhooks gốc trên đám mây",
   "key": "6d970e6915bafd178679e3f54998c2ce0942b21b"
  },
  {
@@ -26625,7 +26833,7 @@
    "cvss": 3.5,
    "ref": "https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-258-08.json"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-85478 — Camera IP CM2507 chạy firmware phiên bản HMT",
   "key": "40ba93be8f4490e8d55ebd579d9f8dd05ae97c25"
  },
  {
@@ -26643,7 +26851,7 @@
    "cvss": 9.8,
    "ref": "https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-258-08.json"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-85497 — Camera IP CareCam CM2507 lưu trữ mật khẩu tài khoản gốc của thiết bị bằng cách sử dụng hàm băm mật khẩu cũ cố định không đủ khả năng chống ngoại tuyến",
   "key": "7aaef86bbffc546c6e3f821d3662820ba619d2a8"
  },
  {
@@ -26661,7 +26869,7 @@
    "cvss": 3.6,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-91142"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-91142 — Một lỗ hổng đã được tìm thấy trong buồng lái",
   "key": "67042fea7d672d5b4fcf1512290c5f42ed3985ac"
  },
  {
@@ -26679,7 +26887,7 @@
    "cvss": 5.9,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-91147"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-91147 — Một lỗ hổng đã được tìm thấy trong `cockpit-ws`",
   "key": "c6aa193c22c14bb3fd7831476085b41ae2a91df4"
  },
  {
@@ -26697,7 +26905,7 @@
    "cvss": 7.5,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-91149"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-91149 — Một lỗ hổng đã được tìm thấy trong buồng lái",
   "key": "e604b24aa0bf59f70f85b10dc7aa821bbe43fa62"
  },
  {
@@ -26715,7 +26923,7 @@
    "cvss": 5.3,
    "ref": "https://firmware.grandstream.com/BETA/Release_Note_GWN7660ELR_7665_1.0.27.6.pdf"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93338 — Grandstream GWN7660ELR trước phiên bản firmware 1",
   "key": "d185a21aa97153fc2754533bc5abd099e84aee68"
  },
  {
@@ -26733,7 +26941,7 @@
    "cvss": 6.3,
    "ref": "https://github.com/spatie/scotty/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93533 — Một lỗ hổng được xác định trong spatie Scotty lên đến 1",
   "key": "6827d4e185df05a71faa65c691832b27377f3ff7"
  },
  {
@@ -26751,7 +26959,7 @@
    "cvss": 6.3,
    "ref": "https://github.com/spatie/scotty/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93534 — Một lỗ hổng đã được xác định trong spatie Scotty lên đến 1",
   "key": "3f4dc713c323b7a2d2767fc1ae24d34092216987"
  },
  {
@@ -27550,7 +27758,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/TehShrike/deepmerge"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93753 — Deepmerge through 4",
   "key": "fa520656b2643fbaa326d8ae9ba405dad7504e58"
  },
  {
@@ -74030,221 +74238,5 @@
   },
   "title_vi": "",
   "key": "7d84bc3320573a424e61e4c5ae2b38f03a42b5b5"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-91099 — HP has identified and remediated multiple externally reported vulnerabilities within HPLIP",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-91099",
-  "published": "2026-09-16T19:18:02.490",
-  "summary": "HP has identified and remediated multiple externally reported vulnerabilities within HPLIP. The findings affect several software components that could potentially enable remote code execution, privilege escalation, denial of service, information disclosure, or unauthorized file modification under certain conditions.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-91099",
-   "cvss": null,
-   "ref": "https://support.hp.com/us-en/document/ish_15646959-15646984-16/hpsbpi04151"
-  },
-  "title_vi": "",
-  "key": "dc896c4101fa2524ef3b6f432c9f544f3f7d5946"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-91100 — HP has identified and remediated multiple externally reported vulnerabilities within HPLIP",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-91100",
-  "published": "2026-09-16T19:18:02.820",
-  "summary": "HP has identified and remediated multiple externally reported vulnerabilities within HPLIP. The findings affect several software components that could potentially enable remote code execution, privilege escalation, denial of service, information disclosure, or unauthorized file modification under certain conditions.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-91100",
-   "cvss": null,
-   "ref": "https://support.hp.com/us-en/document/ish_15646959-15646984-16/hpsbpi04151"
-  },
-  "title_vi": "",
-  "key": "d8c0ccbea1f0cf20f588db16f77985b224e59f1c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-91101 — HP has identified and remediated multiple externally reported vulnerabilities within HPLIP",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-91101",
-  "published": "2026-09-16T19:18:02.947",
-  "summary": "HP has identified and remediated multiple externally reported vulnerabilities within HPLIP. The findings affect several software components that could potentially enable remote code execution, privilege escalation, denial of service, information disclosure, or unauthorized file modification under certain conditions.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-91101",
-   "cvss": null,
-   "ref": "https://support.hp.com/us-en/document/ish_15646959-15646984-16/hpsbpi04151"
-  },
-  "title_vi": "",
-  "key": "4372e2bf424055b98c0b30907ad7b209b13ce061"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-91102 — HP has identified and remediated multiple externally reported vulnerabilities within HPLIP",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-91102",
-  "published": "2026-09-16T19:18:03.063",
-  "summary": "HP has identified and remediated multiple externally reported vulnerabilities within HPLIP. The findings affect several software components that could potentially enable remote code execution, privilege escalation, denial of service, information disclosure, or unauthorized file modification under certain conditions.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-91102",
-   "cvss": null,
-   "ref": "https://support.hp.com/us-en/document/ish_15646959-15646984-16/hpsbpi04151"
-  },
-  "title_vi": "",
-  "key": "4cb18054bc293b62a1d23b04972ac999d33c4e0d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-91103 — HP has identified and remediated multiple externally reported vulnerabilities within HPLIP",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-91103",
-  "published": "2026-09-16T19:18:03.197",
-  "summary": "HP has identified and remediated multiple externally reported vulnerabilities within HPLIP. The findings affect several software components that could potentially enable remote code execution, privilege escalation, denial of service, information disclosure, or unauthorized file modification under certain conditions.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-91103",
-   "cvss": null,
-   "ref": "https://support.hp.com/us-en/document/ish_15646959-15646984-16/hpsbpi04151"
-  },
-  "title_vi": "",
-  "key": "b9cc772984ca0be488597c856b6d3a34f3df8fe5"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-91104 — HP has identified and remediated multiple externally reported vulnerabilities within HPLIP",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-91104",
-  "published": "2026-09-16T19:18:03.320",
-  "summary": "HP has identified and remediated multiple externally reported vulnerabilities within HPLIP. The findings affect several software components that could potentially enable remote code execution, privilege escalation, denial of service, information disclosure, or unauthorized file modification under certain conditions.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-91104",
-   "cvss": null,
-   "ref": "https://support.hp.com/us-en/document/ish_15646959-15646984-16/hpsbpi04151"
-  },
-  "title_vi": "",
-  "key": "bab9e0c70e449c5551ab475a3dad730d8d0ce022"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-91105 — HP has identified and remediated multiple externally reported vulnerabilities within HPLIP",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-91105",
-  "published": "2026-09-16T19:18:03.467",
-  "summary": "HP has identified and remediated multiple externally reported vulnerabilities within HPLIP. The findings affect several software components that could potentially enable remote code execution, privilege escalation, denial of service, information disclosure, or unauthorized file modification under certain conditions.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-91105",
-   "cvss": null,
-   "ref": "https://support.hp.com/us-en/document/ish_15646959-15646984-16/hpsbpi04151"
-  },
-  "title_vi": "",
-  "key": "afab23d85bdf017bc469144fc519ce466c2989da"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-91106 — HP has identified and remediated multiple externally reported vulnerabilities within HPLIP",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-91106",
-  "published": "2026-09-16T19:18:03.587",
-  "summary": "HP has identified and remediated multiple externally reported vulnerabilities within HPLIP. The findings affect several software components that could potentially enable remote code execution, privilege escalation, denial of service, information disclosure, or unauthorized file modification under certain conditions.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-91106",
-   "cvss": null,
-   "ref": "https://support.hp.com/us-en/document/ish_15646959-15646984-16/hpsbpi04151"
-  },
-  "title_vi": "",
-  "key": "3979c56f5391052e2e8f07245ef17458b5b857f5"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-92417 — A vulnerability was found in Open5GS up to 2",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-92417",
-  "published": "2026-09-16T19:18:05.933",
-  "summary": "A vulnerability was found in Open5GS up to 2.8.0. This affects the function ogs_pfcp_parse_volume_measurement in the library lib/pfcp/types.c of the component PFCP Handler. The manipulation results in null pointer dereference. The attack may be launched remotely. The patch is identified as 8f07b507b78ff94776f2cd49276eb116ed93d7f2. A patch should be applied to remediate this issue.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-92417",
-   "cvss": 6.5,
-   "ref": "https://github.com/open5gs/open5gs/"
-  },
-  "title_vi": "",
-  "key": "b0ea1a0d13c3793052f9606eadb2e81e39db6583"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-92418 — A vulnerability was determined in ChangeWeDer crm up to c07bd4c97141521af6475034bc58523beed51bbd",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-92418",
-  "published": "2026-09-16T19:18:06.170",
-  "summary": "A vulnerability was determined in ChangeWeDer crm up to c07bd4c97141521af6475034bc58523beed51bbd. This vulnerability affects unknown code of the file src/main/resources/public/js/customerServe/customer.serve.js of the component Save Endpoint. This manipulation of the argument customerName causes cross site scripting. Remote exploitation of the attack is possible. The exploit has been publicly disclosed and may be utilized. This product follows a rolling release approach for continuous delivery, so version details for affected or updated releases are not provided. The project was informed of th",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-92418",
-   "cvss": 3.5,
-   "ref": "https://github.com/ChangeWeDer/crm/"
-  },
-  "title_vi": "",
-  "key": "3894392868e93549f0e94aaeb58d254c22502b06"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-92472 — A vulnerability was determined in GPAC 26",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-92472",
-  "published": "2026-09-16T19:18:06.377",
-  "summary": "A vulnerability was determined in GPAC 26.08-DEV. The affected element is the function gf_node_deactivate_ex of the file src/scenegraph/base_scenegraph.c of the component MP4Box. Executing a manipulation can lead to use after free. The attack needs to be launched locally. The exploit has been publicly disclosed and may be utilized. Upgrading to version abi-16.24 is sufficient to fix this issue. This patch is called e34f4ba349d55cd1849f0bcf4cf46552732e2db7. The affected component should be upgraded. This issue is distinct from CVE-2026-90827.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-92472",
-   "cvss": 3.3,
-   "ref": "https://github.com/gpac/gpac/"
-  },
-  "title_vi": "",
-  "key": "4d416ad9ed99eb099750e2b602063692e08f12f7"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-92473 — A vulnerability was identified in GPAC 26",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-92473",
-  "published": "2026-09-16T19:18:06.583",
-  "summary": "A vulnerability was identified in GPAC 26.08-DEV. The impacted element is the function gf_sg_command_del of the file src/scenegraph/commands.c of the component BIFS Handler. The manipulation leads to use after free. The attack needs to be performed locally. The exploit is publicly available and might be used. Upgrading to version abi-16.24 is sufficient to resolve this issue. The identifier of the patch is e34f4ba349d55cd1849f0bcf4cf46552732e2db7. It is suggested to upgrade the affected component.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-92473",
-   "cvss": 3.3,
-   "ref": "https://github.com/gpac/gpac/"
-  },
-  "title_vi": "",
-  "key": "a02913e9481b8f5940b04eca0e972cd653795d66"
  }
 ]
