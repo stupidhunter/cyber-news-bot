@@ -1,6 +1,662 @@
 [
  {
   "source": "VietnamPlus Kinh tế số",
+  "title": "Sinh viên Việt Nam tại Australia thử sức với các bài toán AI thực tiễn",
+  "link": "https://www.vietnamplus.vn/sinh-vien-viet-nam-tai-australia-thu-suc-voi-cac-bai-toan-ai-thuc-tien-post1137311.vnp",
+  "published": "2026-09-20T11:57:22+00:00",
+  "summary": "UAVS Hackathon 2026 được tổ chức nhằm tạo sân chơi công nghệ mang tính thực tiễn cho cộng đồng sinh viên Việt Nam tại Australia, giúp người tham gia vận dụng kiến thức về AI. Việt kiều Thụy Sĩ sẵn sàng đồng hành cùng đất nước hội nhập quốc tế Australia siết quy định về visa du học, du lịch và lao động kỳ nghỉ Australia điều chỉnh chính sách di trú: Việt Nam vẫn là thị trường được quan tâm",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "9e05e9059bf31ae4b5f33c26983cccfb08c8d983"
+ },
+ {
+  "source": "Tuổi Trẻ Công nghệ",
+  "title": "Dubai phát triển AI phát hiện deepfake 'ẩn' trong video thật",
+  "link": "https://tuoitre.vn/dubai-phat-trien-ai-phat-hien-deepfake-an-trong-video-that-100260920135825674.htm",
+  "published": "2026-09-20T15:24:30.686789+00:00",
+  "summary": "AI SARAAB của Dubai có thể 'soi' ra đoạn deepfake chỉ 30 giây giữa một video dài 2 phút, với độ chính xác 91%.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "3b4f3721538bcb7d7379bc5ccdbc263a36ff2296"
+ },
+ {
+  "source": "GenK",
+  "title": "Xuất hiện thủ đoạn lừa đảo mới: 'Báo thu hồi gấp đơn hàng lỗi, hàng cấm để hoàn tiền'",
+  "link": "https://genk.vn/xuat-hien-thu-doan-lua-dao-moi-bao-thu-hoi-gap-don-hang-loi-hang-cam-de-hoan-tien-165260920172903068.chn",
+  "published": "2026-09-20T15:24:22.946434+00:00",
+  "summary": "TPO - Cơ quan công an cảnh báo thủ đoạn lừa đảo mới nhắm vào người mua hàng trực tuyến. Các đối tượng giả danh đại diện thương hiệu, sàn thương mại điện tử hoặc nhân viên đơn vị vận chuyển, thông báo sản phẩm đã giao thuộc lô hàng lỗi, hàng cấm hoặc có nguy cơ gây nguy hiểm và cần thu hồi gấp.",
+  "categories": [
+   "breach",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "585e222ef9fa317b95d23dc7ee8ce68e8ffb255a"
+ },
+ {
+  "source": "VnExpress Số hóa",
+  "title": "10 ngày thay đổi cuộc đua AI toàn cầu",
+  "link": "https://vnexpress.net/10-ngay-thay-doi-cuoc-dua-ai-toan-cau-5122527.html",
+  "published": "2026-09-20T11:44:21+00:00",
+  "summary": "Cuộc đua phát triển mô hình mạnh mẽ, vốn đã diễn ra nhiều năm, đột ngột bị đặt dấu hỏi vào ngày 9/9 sau khi nguy cơ AI mất kiểm soát trở thành hiện thực.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "6a82ca3e837a02de0be524770d6582ea82004b52"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-93973 — A vulnerability was detected in SourceCodester Online Reviewer Management System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-93973",
+  "published": "2026-09-20T09:16:39.520",
+  "summary": "A vulnerability was detected in SourceCodester Online Reviewer Management System 1.0. The impacted element is an unknown function of the file /reviewer_0/admins/assessments/subject/btn_functions.php?action=remove. Performing a manipulation of the argument ID results in sql injection. The attack can be initiated remotely. The exploit is now public and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-93973",
+   "cvss": 7.3,
+   "ref": "https://github.com/orzl1/cve/issues/2"
+  },
+  "title_vi": "CVE-2026-93973 - Một lỗ hổng đã được phát hiện trong Hệ thống quản lý người đánh giá trực tuyến SourceCodester 1",
+  "key": "80b4f4d859e34275d4631e11ddf23164269c9731"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-93974 — A flaw has been found in SourceCodester Online Reviewer Management System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-93974",
+  "published": "2026-09-20T09:16:39.693",
+  "summary": "A flaw has been found in SourceCodester Online Reviewer Management System 1.0. This affects an unknown function of the file /reviewer_0/admins/assessments/databank/btn_functions.php?action=remove. Executing a manipulation of the argument ID can lead to sql injection. The attack can be launched remotely. The exploit has been published and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-93974",
+   "cvss": 7.3,
+   "ref": "https://github.com/orzl1/cve/issues/3"
+  },
+  "title_vi": "CVE-2026-93974 — Một lỗ hổng đã được tìm thấy trong Hệ thống quản lý người đánh giá trực tuyến SourceCodester 1",
+  "key": "35b90ac9d7e680982d181d7aa8d1bd349a0f74f8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86555 — The ZTE SmartLife application has a hardcoded key",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86555",
+  "published": "2026-09-20T10:16:52.797",
+  "summary": "The ZTE SmartLife application has a hardcoded key. The key used to decrypt account server information is stored in plaintext in the code. Once the key is obtained, the server information can be decrypted, thus exposing it.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86555",
+   "cvss": 6.2,
+   "ref": "https://support.zte.com.cn/zte-iccp-isupport-webui/bulletin/detail/874505866159007054"
+  },
+  "title_vi": "CVE-2026-86555 — Ứng dụng ZTE SmartLife có khóa cứng",
+  "key": "ae3cbe2c33dec53c5cefda73efc395ed7f86131b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-93975 — A vulnerability has been found in code-projects Assessment Management 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-93975",
+  "published": "2026-09-20T10:16:52.990",
+  "summary": "A vulnerability has been found in code-projects Assessment Management 1.0. This impacts an unknown function of the file admin/edit-user.php of the component User Editing. The manipulation of the argument name/sname/email/username/password/id leads to cross site scripting. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-93975",
+   "cvss": 2.4,
+   "ref": "https://code-projects.org/"
+  },
+  "title_vi": "CVE-2026-93975 — Một lỗ hổng đã được tìm thấy trong Quản lý đánh giá dự án mã 1",
+  "key": "b7bbd4af0ceccc9f667309cc0150897c2bbe5b49"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-93976 — A vulnerability was found in code-projects Assessment Management 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-93976",
+  "published": "2026-09-20T10:16:53.280",
+  "summary": "A vulnerability was found in code-projects Assessment Management 1.0. Affected is an unknown function of the file admin/add-user.php. The manipulation of the argument level results in cross site scripting. The attack may be launched remotely. The exploit has been made public and could be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-93976",
+   "cvss": 2.4,
+   "ref": "https://code-projects.org/"
+  },
+  "title_vi": "CVE-2026-93976 - Một lỗ hổng đã được tìm thấy trong Quản lý đánh giá dự án mã 1",
+  "key": "12763b8dade383c629a54bc1f2a676f0c6d521d9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-93977 — A vulnerability was determined in code-projects Assessment Management 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-93977",
+  "published": "2026-09-20T11:16:57.750",
+  "summary": "A vulnerability was determined in code-projects Assessment Management 1.0. Affected by this vulnerability is an unknown functionality of the file lecturer/add-single-mark.php. This manipulation of the argument mark causes cross site scripting. Remote exploitation of the attack is possible. The exploit has been publicly disclosed and may be utilized.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-93977",
+   "cvss": 3.5,
+   "ref": "https://code-projects.org/"
+  },
+  "title_vi": "CVE-2026-93977 - Một lỗ hổng đã được xác định trong Quản lý đánh giá dự án mã 1",
+  "key": "199063d2afa0ecae01dd021ac071333211d0c3ec"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-93978 — A vulnerability was identified in code-projects Internship Management System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-93978",
+  "published": "2026-09-20T11:16:57.953",
+  "summary": "A vulnerability was identified in code-projects Internship Management System 1.0. Affected by this issue is some unknown functionality of the file /login.php. Such manipulation of the argument Password leads to sql injection. The attack can be executed remotely. The exploit is publicly available and might be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-93978",
+   "cvss": 7.3,
+   "ref": "https://code-projects.org/"
+  },
+  "title_vi": "CVE-2026-93978 - Một lỗ hổng đã được xác định trong mã dự án Hệ thống quản lý thực tập 1",
+  "key": "58f4bc8f9cd8ac7a3f25f08251dff5e164a879a9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-93979 — A security flaw has been discovered in code-projects Internship Management System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-93979",
+  "published": "2026-09-20T11:16:58.130",
+  "summary": "A security flaw has been discovered in code-projects Internship Management System 1.0. This affects an unknown part of the file /employer/login.php. Performing a manipulation of the argument Password results in sql injection. The attack is possible to be carried out remotely. The exploit has been released to the public and may be used for attacks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-93979",
+   "cvss": 7.3,
+   "ref": "https://code-projects.org/"
+  },
+  "title_vi": "CVE-2026-93979 - Một lỗ hổng bảo mật đã được phát hiện trong mã dự án Hệ thống quản lý thực tập 1",
+  "key": "46454dbb5dc95aee8c89466430162103e213276f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-93980 — A weakness has been identified in code-projects Internship Management System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-93980",
+  "published": "2026-09-20T11:16:58.307",
+  "summary": "A weakness has been identified in code-projects Internship Management System 1.0. This vulnerability affects unknown code of the file /admin/login.php of the component Admin Login Form. Executing a manipulation of the argument Password can lead to sql injection. The attack may be performed from remote. The exploit has been made available to the public and could be used for attacks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-93980",
+   "cvss": 7.3,
+   "ref": "https://code-projects.org/"
+  },
+  "title_vi": "CVE-2026-93980 - Một điểm yếu đã được xác định trong mã dự án Hệ thống quản lý thực tập 1",
+  "key": "b2c5fb7dc2a5f37e7454094f79c18515f66c49ab"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-93997 — A weakness has been identified in SourceCodester Drug Recommendation System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-93997",
+  "published": "2026-09-20T12:17:05.217",
+  "summary": "A weakness has been identified in SourceCodester Drug Recommendation System 1.0. Affected by this issue is some unknown functionality of the file /Admin/edit_symptom.php. This manipulation of the argument ID causes sql injection. The attack is possible to be carried out remotely. The exploit has been made available to the public and could be used for attacks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-93997",
+   "cvss": 7.3,
+   "ref": "https://github.com/KaranParelkar/Drug_recommendation_system/blob/main/sqli/edit_symptom_id_parameter/Readme.md"
+  },
+  "title_vi": "CVE-2026-93997 — Một điểm yếu đã được xác định trong Hệ thống khuyến nghị thuốc của SourceCodester 1",
+  "key": "0931db8ddf7619f398eeaabb81244a7082676311"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94003 — A vulnerability has been found in Comfast CF-N1-S 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94003",
+  "published": "2026-09-20T12:17:05.403",
+  "summary": "A vulnerability has been found in Comfast CF-N1-S 2.6.0.1. Impacted is the function get_css_path_from_uri of the file /cgi-bin/mbox-config of the component Web Management Interface. The manipulation leads to stack-based buffer overflow. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94003",
+   "cvss": 10.0,
+   "ref": "https://github.com/AdminSafe/CVE/issues/12"
+  },
+  "title_vi": "CVE-2026-94003 — Một lỗ hổng đã được tìm thấy trong Comfast CF-N1-S 2",
+  "key": "725986b5ce0add5c48c44d509b5e05f865378da2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94004 — A vulnerability was found in DedeCMS up to 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94004",
+  "published": "2026-09-20T12:17:05.593",
+  "summary": "A vulnerability was found in DedeCMS up to 5.7.118. The affected element is an unknown function of the file plus/mytag_js.php. The manipulation of the argument aid results in code injection. The attack can be launched remotely. The exploit has been made public and could be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94004",
+   "cvss": 7.3,
+   "ref": "https://vuldb.com/cve/CVE-2026-94004"
+  },
+  "title_vi": "CVE-2026-94004 — Một lỗ hổng đã được tìm thấy trong DedeCMS lên đến 5",
+  "key": "84a76106efd2e7057135eca3373ccbedac994c88"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94104 — NivoCart through 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94104",
+  "published": "2026-09-20T12:17:05.777",
+  "summary": "NivoCart through 2.4.0 contains an arbitrary file upload vulnerability in the File Manager multi() endpoint that fails to validate file extensions for new filenames or when chunks parameter is 2 or higher. Attackers with view-only back-office access can upload PHP files to the web-accessible image/data/ directory and execute them for remote code execution.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94104",
+   "cvss": 8.8,
+   "ref": "https://github.com/nivocart/nivocart"
+  },
+  "title_vi": "CVE-2026-94104 — NivoCart qua 2",
+  "key": "894683d4539636d63af6a4f1c1e075fd359bf044"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94105 — NivoCart through 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94105",
+  "published": "2026-09-20T12:17:05.940",
+  "summary": "NivoCart through 2.4.0 contains a destructive configuration write vulnerability in the admin password reset controller that allows unauthenticated attackers to disable password recovery by supplying an invalid code parameter. Attackers can send a GET request with a missing or incorrect code to rewrite the config_password setting to 0, disabling self-service password recovery until an administrator manually re-enables it.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94105",
+   "cvss": 5.3,
+   "ref": "https://github.com/nivocart/nivocart"
+  },
+  "title_vi": "CVE-2026-94105 — NivoCart qua 2",
+  "key": "ef88010b9631f892924e9304fe6da785350e3633"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94106 — getID3 before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94106",
+  "published": "2026-09-20T12:17:06.110",
+  "summary": "getID3 before 1.9.26 contains an OS command injection vulnerability in shell-out handlers that fail to escape filenames in command strings. Attackers can craft malicious filenames containing shell metacharacters to inject arbitrary commands executed with the privileges of the process embedding getID3.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94106",
+   "cvss": 8.8,
+   "ref": "https://github.com/JamesHeinrich/getID3"
+  },
+  "title_vi": "CVE-2026-94106 — getID3 trước 1",
+  "key": "f5eb3f4fe3e04f8704c47194e0a7cb4587e7a636"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94107 — NivoCart through 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94107",
+  "published": "2026-09-20T12:17:06.277",
+  "summary": "NivoCart through 2.4.0 contains a predictable password reset token vulnerability in the forgotten.php endpoint that generates recovery codes using substr(md5(mt_rand()), 0, 10). Attackers who know an administrator's email address can request a password reset and predict the token to gain administrative account access without rate limiting or expiration.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94107",
+   "cvss": 8.1,
+   "ref": "https://github.com/nivocart/nivocart"
+  },
+  "title_vi": "CVE-2026-94107 — NivoCart qua 2",
+  "key": "2ddcfa7e0a18d706e3b886fe934bdac139e78583"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94108 — getID3 through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94108",
+  "published": "2026-09-20T12:17:06.427",
+  "summary": "getID3 through 1.9.26 contains an XML external entity injection vulnerability in the XML2array helper function that fails to properly disable entity loading on PHP before 8.0. Attackers can craft malicious XML metadata in media files to disclose local files, perform server-side request forgery, or cause denial of service through entity expansion.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94108",
+   "cvss": 6.5,
+   "ref": "https://github.com/JamesHeinrich/getID3"
+  },
+  "title_vi": "CVE-2026-94108 — getID3 đến 1",
+  "key": "cc85fb7d6fbc72b8d4d81858b85059c0cc0fb5fc"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94109 — openEQUELLA versions before 2026",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94109",
+  "published": "2026-09-20T12:17:06.620",
+  "summary": "openEQUELLA versions before 2026.1.0 contain a remote code execution vulnerability in FreeMarker template compilation due to an unsandboxed TemplateClassResolver configuration. Authenticated attackers can inject malicious template expressions through collection summaries, dashboard portlets, or MIME templates to instantiate dangerous classes like freemarker.template.utility.Execute and invoke Runtime.exec for arbitrary command execution.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94109",
+   "cvss": 8.8,
+   "ref": "https://github.com/openequella/openEQUELLA"
+  },
+  "title_vi": "CVE-2026-94109 — phiên bản openEQUELLA trước năm 2026",
+  "key": "fccbc509d65af7a6643c958544abc07e2349a448"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94111 — Tencent BrowserSkill through 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94111",
+  "published": "2026-09-20T12:17:06.787",
+  "summary": "Tencent BrowserSkill through 0.3.0 contains an authentication bypass vulnerability in the local daemon WebSocket origin validation that accepts any chrome-extension origin with 32 characters in range a-p. Attackers can register a malicious extension as a browser client to intercept and manipulate page content, DOM, and screenshots returned to the AI agent.",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94111",
+   "cvss": 6.6,
+   "ref": "https://github.com/Tencent/BrowserSkill/blob/cli-v0.3.0/crates/bsk-cli/src/daemon/ws.rs#L36-L57"
+  },
+  "title_vi": "CVE-2026-94111 — Tencent BrowserSkill qua 0",
+  "key": "6c9a9afd5b9c638bf0af98e5ffea7d423c49bf93"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94112 — mayswind ezBookkeeping before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94112",
+  "published": "2026-09-20T12:17:06.953",
+  "summary": "mayswind ezBookkeeping before 2.0.0 fails to invalidate TOTP passcodes after use, allowing attackers to replay captured codes within the acceptance window. Attackers with stolen credentials can authenticate and reuse a captured passcode against multiple authorization attempts for approximately 90 seconds without detection.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94112",
+   "cvss": 6.8,
+   "ref": "https://github.com/mayswind/ezbookkeeping/commit/3dd6286d7a3ab0f980a6d36339b9c9c4df9467e4"
+  },
+  "title_vi": "CVE-2026-94112 — mayswind ezBookkeeping trước 2",
+  "key": "bb75e3eb8a87df467f59d2d58d4d9ed463b796b0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94113 — Frappe ERPNext versions before 15",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94113",
+  "published": "2026-09-20T12:17:07.117",
+  "summary": "Frappe ERPNext versions before 15.121.0 and 16.x before 16.34.0 contain an information disclosure vulnerability in whitelisted timesheet endpoints that fail to enforce doctype permissions. Authenticated attackers can call get_projectwise_timesheet_data, get_timesheet_detail_rate, and get_timesheet endpoints to enumerate and retrieve billable time logs including project names, billing amounts, and work descriptions without proper authorization checks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94113",
+   "cvss": 6.5,
+   "ref": "https://github.com/frappe/erpnext/commit/c656497aac76af82eea028e3e8cb8d5380385f0f"
+  },
+  "title_vi": "CVE-2026-94113 — Frappe ERPCác phiên bản tiếp theo trước 15",
+  "key": "5e26804efa23204ec1a075116ce8b1bbc0693ab0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-90817 — An unauthenticated Remote Code Execution vulnerability was found in the survey passthrough routing and Data Import processing logic, in which a malici",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90817",
+  "published": "2026-09-20T13:17:44.973",
+  "summary": "An unauthenticated Remote Code Execution vulnerability was found in the survey passthrough routing and Data Import processing logic, in which a malicious user could potentially exploit it by manipulating HTTP requests to access an unintended controller route from a public survey context and by supplying a crafted file-path/stream parameter during import handling. If successfully exploited, this could allow the attacker to remotely execute arbitrary code on the REDCap server. The attacker does not have to be authenticated in order to exploit this, but exploitation requires knowledge of a valid ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-90817",
+   "cvss": 9.8,
+   "ref": "https://www.securifera.com/advisories/"
+  },
+  "title_vi": "CVE-2026-90817 — Một lỗ hổng Thực thi mã từ xa chưa được xác thực đã được tìm thấy trong định tuyến chuyển tiếp khảo sát và logic xử lý nhập dữ liệu, trong đó malici",
+  "key": "56b5ac651a87e98a9f56e92b29d93ffb093d0e02"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-92252 — Incorrect default permissions in the installation directory of WatchDog Anti-Virus on Windows allow local, low-privileged users to modify, replace, or",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-92252",
+  "published": "2026-09-20T13:17:46.063",
+  "summary": "Incorrect default permissions in the installation directory of WatchDog Anti-Virus on Windows allow local, low-privileged users to modify, replace, or delete antivirus binaries and configuration files, because the installer grants the Users group Full Control over C:\\Program Files (x86)\\Watchdog Anti-Virus. This may disable antivirus protection or enable privileged code execution if modified binaries are loaded by an elevated WatchDog process.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-92252",
+   "cvss": null,
+   "ref": "https://watchdog.com/anti-virus-release-notes/"
+  },
+  "title_vi": "CVE-2026-92252 — Quyền mặc định không chính xác trong thư mục cài đặt của WatchDog Anti-Virus trên Windows cho phép người dùng cục bộ, có đặc quyền thấp sửa đổi, thay thế hoặc",
+  "key": "944ce32efb852ae7daad425799d504c006ac39bf"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-92253 — Improper link resolution before file access in the quarantine restoration process of WatchDog Anti-Virus 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-92253",
+  "published": "2026-09-20T13:17:46.243",
+  "summary": "Improper link resolution before file access in the quarantine restoration process of WatchDog Anti-Virus 1.8.640 on Windows allows local, low-privileged attackers to cause a quarantined file to be written to an arbitrary filesystem location by creating a directory junction at the original file path and persuading an administrator to restore the file. This may enable modification of protected files or SYSTEM-level code execution through DLL hijacking.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-92253",
+   "cvss": null,
+   "ref": "https://watchdog.com/anti-virus-release-notes/"
+  },
+  "title_vi": "CVE-2026-92253 — Giải quyết liên kết không đúng cách trước khi truy cập tệp trong quá trình phục hồi cách ly của WatchDog Anti-Virus 1",
+  "key": "f7a75428fe7b7fbc6a160df625a34ffd9c4bf598"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-92254 — Missing Authorization in the IOCTL handlers of the wsdkd",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-92254",
+  "published": "2026-09-20T13:17:46.390",
+  "summary": "Missing Authorization in the IOCTL handlers of the wsdkd.sys kernel drivers in Watchdog WatchDog Antivirus 1.8.640 (driver versions 1.3.0.0 and earlier) on Microsoft Windows allows local, low-privileged attackers to delete arbitrary files with SYSTEM privileges, bypassing NTFS access controls and potentially disabling security products or destabilizing the operating system, via crafted IOCTL requests sent to the \\Device\\wsdk device.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-92254",
+   "cvss": null,
+   "ref": "https://watchdog.com/anti-virus-release-notes/"
+  },
+  "title_vi": "CVE-2026-92254 — Thiếu ủy quyền trong các trình xử lý IOCTL của wsdkd",
+  "key": "97298841b221c94ed3b805d728eec320289227ab"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94015 — A vulnerability was identified in SourceCodester Drug Recommendation System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94015",
+  "published": "2026-09-20T13:17:46.540",
+  "summary": "A vulnerability was identified in SourceCodester Drug Recommendation System 1.0. This affects an unknown function of the file /drug_recommender/Admin/edit_user.php. Such manipulation of the argument ID leads to sql injection. The attack may be launched remotely. The exploit is publicly available and might be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94015",
+   "cvss": 7.3,
+   "ref": "https://github.com/KaranParelkar/Drug_recommendation_system/blob/main/sqli/edit_user/Readme.md"
+  },
+  "title_vi": "CVE-2026-94015 — Một lỗ hổng đã được xác định trong Hệ thống khuyến nghị thuốc của SourceCodester 1",
+  "key": "3484abbf3d172cc551fef2e9159f09999a7e0059"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94016 — A security flaw has been discovered in SourceCodester Drug Recommendation System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94016",
+  "published": "2026-09-20T13:17:46.723",
+  "summary": "A security flaw has been discovered in SourceCodester Drug Recommendation System 1.0. This impacts an unknown function of the file /drug_recommender/Admin/add_symptom. Performing a manipulation of the argument txtname results in cross site scripting. Remote exploitation of the attack is possible. The exploit has been released to the public and may be used for attacks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94016",
+   "cvss": 2.4,
+   "ref": "https://github.com/KaranParelkar/Drug_recommendation_system/blob/main/xss/add_symptom/Readme.md"
+  },
+  "title_vi": "CVE-2026-94016 — Một lỗ hổng bảo mật đã được phát hiện trong Hệ thống khuyến nghị thuốc của SourceCodester 1",
+  "key": "206c6db02b802e6a3d298dc6e8d1fc63058d3453"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94028 — A weakness has been identified in mealie-recipes Mealie up to 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94028",
+  "published": "2026-09-20T13:17:46.903",
+  "summary": "A weakness has been identified in mealie-recipes Mealie up to 3.25.1. Affected is the function payload.model_dump of the file mealie/routes/households/controller_group_recipe_actions.py of the component Recipe Action Trigger. Executing a manipulation of the argument url can lead to server-side request forgery. The attack can be executed remotely. The exploit has been made available to the public and could be used for attacks. Upgrading to version 3.26.0 is able to address this issue. This patch is called fb221afa258c8dd2c4ac95b1996c33ef9db3f477. The affected component should be upgraded.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94028",
+   "cvss": 4.3,
+   "ref": "https://github.com/mealie-recipes/mealie/"
+  },
+  "title_vi": "CVE-2026-94028 — Một điểm yếu đã được xác định trong công thức nấu ăn Mealie lên đến 3",
+  "key": "e78df5742747f5e38f4aafc00979a708812bc202"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94030 — A security vulnerability has been detected in SerenityOS up to 3d83e4509fd20d7438e1ae8470ffe668c136229c",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94030",
+  "published": "2026-09-20T14:17:00.590",
+  "summary": "A security vulnerability has been detected in SerenityOS up to 3d83e4509fd20d7438e1ae8470ffe668c136229c. Affected by this vulnerability is the function decode_bmp_pixel_data of the file Userland/Libraries/LibGfx/ImageFormats/BMPLoader.cpp of the component LibGfx. The manipulation of the argument height leads to integer overflow. The attack is possible to be carried out remotely. The attack's complexity is rated as high. The exploitation appears to be difficult. The exploit has been disclosed publicly and may be used. This product adopts a rolling release strategy to maintain continuous deliver",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94030",
+   "cvss": 3.1,
+   "ref": "https://github.com/SerenityOS/serenity/commit/007041bb2dd6d140c9e707caddfb0a49ecf96469"
+  },
+  "title_vi": "CVE-2026-94030 — Một lỗ hổng bảo mật đã được phát hiện trong SerenityOS lên đến 3d83e4509fd20d7438e1ae8470ffe668c136229c",
+  "key": "019dddd5db2779bc44bc7ff77447b5f21ef8e0ee"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94031 — A vulnerability was detected in 0-Gaurav-0 nexus-mcp aed0026e7ac1f23dc940e46e9fd3a2da6904f914",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94031",
+  "published": "2026-09-20T14:17:00.780",
+  "summary": "A vulnerability was detected in 0-Gaurav-0 nexus-mcp aed0026e7ac1f23dc940e46e9fd3a2da6904f914. Affected by this issue is the function child_process.exec of the file src/auth/browser.ts of the component nexus_reauth MCP tool. The manipulation of the argument url results in command injection. The attack may be performed from remote. The exploit is now public and may be used. This product utilizes a rolling release system for continuous delivery, and as such, version information for affected or updated releases is not disclosed. The project was informed of the problem early through an issue repor",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94031",
+   "cvss": 6.3,
+   "ref": "https://github.com/0-Gaurav-0/nexus-mcp/"
+  },
+  "title_vi": "CVE-2026-94031 — Một lỗ hổng đã được phát hiện trong 0-Gaurav-0 nexus-mcp aed0026e7ac1f23dc940e46e9fd3a2da6904f914",
+  "key": "87c8fe9a75df17d44983ca50689d2af99edc3b39"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94032 — A flaw has been found in itsourcecode Leave Management System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94032",
+  "published": "2026-09-20T15:16:29.573",
+  "summary": "A flaw has been found in itsourcecode Leave Management System 1.0. This affects an unknown part of the file /module/department/index.php. This manipulation of the argument ID causes sql injection. It is possible to initiate the attack remotely. The exploit has been published and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94032",
+   "cvss": 6.3,
+   "ref": "https://github.com/ltranquility/submit_repository/issues/15"
+  },
+  "title_vi": "CVE-2026-94032 — Một lỗ hổng đã được tìm thấy trong Hệ thống quản lý nghỉ phép mã nguồn 1",
+  "key": "750661629813e5c67580b345f4a4aeec9be28de1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94033 — A vulnerability has been found in SourceCodester Drug Recommendation System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94033",
+  "published": "2026-09-20T15:16:30.553",
+  "summary": "A vulnerability has been found in SourceCodester Drug Recommendation System 1.0. This vulnerability affects unknown code of the file /drug_recommender/Admin/add_user of the component User Management. Such manipulation of the argument txtname/txtemail/txtpassword leads to cross site scripting. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94033",
+   "cvss": 3.5,
+   "ref": "https://github.com/KaranParelkar/Drug_recommendation_system/blob/main/xss/add_user/Readme.md"
+  },
+  "title_vi": "CVE-2026-94033 — Một lỗ hổng đã được tìm thấy trong SourceCodester Drug Recommendation System 1",
+  "key": "1bb5bf3df454cc0e6b4d5022999fb2abc86fc0fb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94034 — A vulnerability was found in SourceCodester Drug Recommendation System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94034",
+  "published": "2026-09-20T15:16:30.730",
+  "summary": "A vulnerability was found in SourceCodester Drug Recommendation System 1.0. This issue affects some unknown processing of the file /drug_recommender/Admin/change_password of the component Password Change. Performing a manipulation of the argument txtoldpassword/txtnewpassword results in cross site scripting. The attack can be initiated remotely. The exploit has been made public and could be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94034",
+   "cvss": 3.5,
+   "ref": "https://github.com/KaranParelkar/Drug_recommendation_system/blob/main/xss/change_password/Readme.md"
+  },
+  "title_vi": "CVE-2026-94034 — Một lỗ hổng đã được tìm thấy trong SourceCodester Drug Recommendation System 1",
+  "key": "758c890c11b5590d73567ffaa5435aabfd419881"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
   "title": "Diễn viên Phương Nam: 'Con gái giúp tôi trưởng thành trong nghề'",
   "link": "https://www.vietnamplus.vn/dien-vien-phuong-nam-con-gai-giup-toi-truong-thanh-trong-nghe-post1137268.vnp",
   "published": "2026-09-20T07:11:25+00:00",
@@ -9346,7 +10002,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
   "key": "0abbee7a6143a24a28eecdd0c871ce2d11d1a2eb"
  },
  {
@@ -10795,7 +11451,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Các tác nhân nước ngoài xâm phạm hệ thống nước Colorado",
   "key": "dbdca9e2dc3ed5b7544ef787b288ee3e9958f033"
  },
  {
@@ -10809,7 +11465,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Quân đội Mỹ đã rò rỉ hơn 93.000 lời khuyên thông qua P3 Global Intel không an toàn. Đã có ai được thông báo chưa?",
   "key": "1a9f9c01d8f33658c0422aaf225286a63897d60a"
  },
  {
@@ -10851,7 +11507,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Cisco Zero-Day nêu bật các vấn đề xác thực điểm cuối API",
   "key": "2e51d44d3476df69d59e57095629bcdc578d1f4e"
  },
  {
@@ -10865,7 +11521,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Khảo sát EY tìm thấy việc triển khai AI tự trị vượt xa sự giám sát",
   "key": "0df691c9fc38f120a66d45d5145dcceff10f23db"
  },
  {
@@ -17168,7 +17824,7 @@
    "cvss": 5.4,
    "ref": "https://www.ibm.com/support/pages/node/7287873"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-17262 — IBM i 7",
   "key": "b458a2b69346b3f18529e66f92a52134c50d9c32"
  },
  {
@@ -17204,7 +17860,7 @@
    "cvss": 6.4,
    "ref": "https://www.ibm.com/support/pages/node/7287873"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-18869 — IBM i 7",
   "key": "78ef8dca415e8bcd395d614a427b19e5729e4a47"
  },
  {
@@ -17880,7 +18536,7 @@
    "cvss": 9.6,
    "ref": "https://www.ibm.com/support/pages/node/7288035"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82832 — Bảo vệ dữ liệu IBM Guardium 12",
   "key": "57c0eb1e7a33cb8231685f993708558ac3b902bf"
  },
  {
@@ -17898,7 +18554,7 @@
    "cvss": 8.8,
    "ref": "https://www.ibm.com/support/pages/node/7288035"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82885 — Bảo vệ dữ liệu IBM Guardium 12",
   "key": "4b4f552658c8c6131691e25362d89b7542ef6b0c"
  },
  {
@@ -17916,7 +18572,7 @@
    "cvss": 8.8,
    "ref": "https://www.ibm.com/support/pages/node/7288035"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82887 — Bảo vệ dữ liệu IBM Guardium 12",
   "key": "29c0a8ad294ea1c98ce44f4aad07fb1dad04a9a8"
  },
  {
@@ -17934,7 +18590,7 @@
    "cvss": 5.9,
    "ref": "https://www.ibm.com/support/pages/node/7288035"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82890 — Bảo vệ dữ liệu IBM Guardium 12",
   "key": "333dd31070b4313d36837be61916616f0818c290"
  },
  {
@@ -17952,7 +18608,7 @@
    "cvss": 8.1,
    "ref": "https://www.ibm.com/support/pages/node/7288035"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82892 — Bảo vệ dữ liệu IBM Guardium 12",
   "key": "afc19e147053fcdfe05ea13daae7b2cb671e11df"
  },
  {
@@ -17970,7 +18626,7 @@
    "cvss": 7.8,
    "ref": "https://www.ibm.com/support/pages/node/7288035"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82893 — Bảo vệ dữ liệu IBM Guardium 12",
   "key": "1ce4dd7db679fe4ddf114342746b3c01a21e3513"
  },
  {
@@ -17988,7 +18644,7 @@
    "cvss": 7.6,
    "ref": "https://www.ibm.com/support/pages/node/7288035"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82896 — Bảo vệ dữ liệu IBM Guardium 12",
   "key": "7ef888fd2a585d87e9db27ce1da2eeefc50c559a"
  },
  {
@@ -18006,7 +18662,7 @@
    "cvss": 9.8,
    "ref": "https://www.ibm.com/support/pages/node/7288035"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82967 — Bảo vệ dữ liệu IBM Guardium 12",
   "key": "c7f2f5d39cdfc62ebed635fa74d8a0825a9e6bd2"
  },
  {
@@ -18024,7 +18680,7 @@
    "cvss": 9.0,
    "ref": "https://www.ibm.com/support/pages/node/7288040"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84031 — Bảo vệ dữ liệu IBM Guardium 12",
   "key": "68e4487100633d3a543495b690f599786e5ccdf0"
  },
  {
@@ -18043,7 +18699,7 @@
    "cvss": 8.8,
    "ref": "https://www.ibm.com/support/pages/node/7288040"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84034 — Bảo vệ dữ liệu IBM Guardium 12",
   "key": "d80141ca464e6b1c4311d31b180f3c61ddf7b229"
  },
  {
@@ -18061,7 +18717,7 @@
    "cvss": 7.4,
    "ref": "https://www.ibm.com/support/pages/node/7288035"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84036 — Bảo vệ dữ liệu IBM Guardium 12",
   "key": "79e26603dfb910159d33a016dc8fac92bea3eba5"
  },
  {
@@ -18079,7 +18735,7 @@
    "cvss": 9.9,
    "ref": "https://www.ibm.com/support/pages/node/7288040"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84064 — Bảo vệ dữ liệu IBM Guardium 12",
   "key": "e09e462f7112b03ed565a112d229e53878f8b689"
  },
  {
@@ -18097,7 +18753,7 @@
    "cvss": 8.9,
    "ref": "https://www.ibm.com/support/pages/node/7288035"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84070 — Bảo vệ dữ liệu IBM Guardium 12",
   "key": "bb8709a53aa04f6c0d511c73093ec8794b2815f4"
  },
  {
@@ -18115,7 +18771,7 @@
    "cvss": 7.2,
    "ref": "https://www.ibm.com/support/pages/node/7288040"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84071 — Bảo vệ dữ liệu IBM Guardium 12",
   "key": "e32e70d0927e2f4d057fa2a95bf1164d880bfb1c"
  },
  {
@@ -18133,7 +18789,7 @@
    "cvss": 9.1,
    "ref": "https://www.ibm.com/support/pages/node/7288040"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84073 — Bảo vệ dữ liệu IBM Guardium 12",
   "key": "418fba44474940b3aac52008518393e31d96aad1"
  },
  {
@@ -18151,7 +18807,7 @@
    "cvss": 8.9,
    "ref": "https://www.ibm.com/support/pages/node/7288035"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84074 — Bảo vệ dữ liệu IBM Guardium 12",
   "key": "23b5b78bae8461b1de024a431f0db5293e3d6047"
  },
  {
@@ -26732,7 +27388,7 @@
    "cvss": 7.5,
    "ref": "https://jira.mongodb.org/browse/MONGOID-5981"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93761 - Một vấn đề phức tạp về biểu thức chính quy không hiệu quả trong thành phần đánh giá truy vấn trong bộ nhớ của thư viện Mongoid có thể cho phép một mệnh giá chưa được xác thực",
   "key": "71d75d2a8e3d121c5850eddc3b22e21089859941"
  },
  {
@@ -26750,7 +27406,7 @@
    "cvss": 9.8,
    "ref": "https://jira.mongodb.org/browse/MONGOID-5973"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93762 — Mongoid chứa điểm yếu phản chiếu không an toàn trong đường dẫn truy vấn được sử dụng cho các tài liệu nhúng",
   "key": "3b8389182c8f4cadc7601a8dd63c4b63c53f382f"
  },
  {
@@ -26768,7 +27424,7 @@
    "cvss": 6.5,
    "ref": "https://jira.mongodb.org/browse/MONGOID-5984"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93763 - Lỗi cơ chế bảo vệ trong việc tạo cấu hình mã hóa của người lập bản đồ tài liệu đối tượng có thể gây ra các trường mà ứng dụng đã khai báo cho c",
   "key": "be493d71f51a6b81c04d2b8200f93d099f3692d4"
  },
  {
@@ -26786,7 +27442,7 @@
    "cvss": 6.5,
    "ref": "https://jira.mongodb.org/browse/MONGOID-5989"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93764 - Mongoid có thể bỏ qua các quy tắc mã hóa cho các trường được khai báo trên các mô hình nhúng khi tạo lược đồ mã hóa cấp trường phía máy khách",
   "key": "fd3f76415ae6ddce0a4370f8c66908d8b0386098"
  },
  {
@@ -73592,674 +74248,5 @@
   },
   "title_vi": "",
   "key": "ef5439a8d92b74d2b08b421c1ca4b67871dca846"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-20329 — As part of Cisco's ongoing commitment to proactive security and product quality, the Cisco Secure Adaptive Security Appliance Software, Cisco Secure F",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20329",
-  "published": "2026-09-16T20:17:23.600",
-  "summary": "As part of Cisco's ongoing commitment to proactive security and product quality, the Cisco Secure Adaptive Security Appliance Software, Cisco Secure Firewall Threat Defense Software and Cisco Secure Firewall Management Center Software engineering team has conducted a comprehensive internal security review. This review resulted in a software hardening release that addresses multiple internally discovered vulnerabilities. &nbsp;\r\n\r\nThe vulnerabilities tracked by CVE-2026-20329 are related to issues concerning improper handling of exceptional conditions that are grouped under the Common Weakness ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-20329",
-   "cvss": 9.9,
-   "ref": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-asaftdfmc-uvpPROhN"
-  },
-  "title_vi": "",
-  "key": "f9d8350f4c43342672f1d997f7a76e9dea88deb6"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-20330 — As part of Cisco's ongoing commitment to proactive security and product quality, the Cisco Secure Adaptive Security Appliance Software, Cisco Secure F",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20330",
-  "published": "2026-09-16T20:17:23.810",
-  "summary": "As part of Cisco's ongoing commitment to proactive security and product quality, the Cisco Secure Adaptive Security Appliance Software, Cisco Secure Firewall Threat Defense Software and Cisco Secure Firewall Management Center Software engineering team has conducted a comprehensive internal security review. This review resulted in a software hardening release that addresses multiple internally discovered vulnerabilities. &nbsp;\r\n\r\nThe vulnerabilities tracked by CVE-2026-20330 are related to improper neutralization issues that are grouped under the Common Weakness Enumeration (CWE) Pillar CWE-70",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-20330",
-   "cvss": 9.9,
-   "ref": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-asaftdfmc-uvpPROhN"
-  },
-  "title_vi": "",
-  "key": "4a4dd49d514b227fa64261629478a3b231894a10"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-20341 — A vulnerability in the sftunnel inter-device communication protocol of Cisco Secure FMC Software could allow an authenticated, remote attacker to obta",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20341",
-  "published": "2026-09-16T20:17:24.193",
-  "summary": "A vulnerability in the sftunnel inter-device communication protocol of Cisco Secure FMC Software could allow an authenticated, remote attacker to obtain&nbsp;root privileges.\r\n\r\nThis vulnerability is due to unsecured deserialization of untrusted data over the sftunnel management connection. An attacker could exploit this vulnerability by sending crafted sftunnel remote procedure calls (RPCs). A successful exploit could allow the attacker to gain root privileges on a device that is running Cisco Secure FMC Software and its high-availability peer.\r\nTo exploit this vulnerability, the attacker mus",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-20341",
-   "cvss": 9.1,
-   "ref": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-mulivulns-4PsnFwvx"
-  },
-  "title_vi": "",
-  "key": "79d083e4af95957a670be80a332b9327118f109a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-20361 — As part of Cisco's ongoing commitment to proactive security and product quality, the Cisco Nexus Dashboard engineering team has conducted a comprehens",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20361",
-  "published": "2026-09-16T20:17:24.333",
-  "summary": "As part of Cisco's ongoing commitment to proactive security and product quality, the Cisco Nexus Dashboard engineering team has conducted a comprehensive internal security review. This review resulted in a software hardening release that addresses multiple internally discovered vulnerabilities.\r\n\r\nThe vulnerabilities tracked by CVE-2026-20361 are related to SQL injection issues that are grouped under the Common Weakness Enumeration (CWE) CWE-89.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-20361",
-   "cvss": 8.8,
-   "ref": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-ndw1-psFvnrg"
-  },
-  "title_vi": "",
-  "key": "b5019d949f77cbcd1ac067b8afc160ca24aadfa6"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-62949 — AsyncSSH is a Python package which provides an asynchronous client and server implementation of the SSHv2 protocol on top of the Python asyncio framew",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-62949",
-  "published": "2026-09-16T20:17:26.220",
-  "summary": "AsyncSSH is a Python package which provides an asynchronous client and server implementation of the SSHv2 protocol on top of the Python asyncio framework. Prior to 2.24.0, _process_channel_open and _process_channel_open_confirmation in asyncssh/connection.py accept a peer-supplied send_pktsize value of zero. When channel data reaches SSHChannel._flush_send_buf in asyncssh/channel.py, the zero value causes each loop iteration to slice and remove zero bytes without reducing the send window, leaving the synchronous loop permanently true with no await point. A malicious SSH server can trigger the ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-62949",
-   "cvss": 6.5,
-   "ref": "https://github.com/ronf/asyncssh/commit/756cbae5350789ce9735f15f704bae9b5a3608b8"
-  },
-  "title_vi": "",
-  "key": "a176d382765889795bcfc1400679db6835c283d0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-70469 — Apache NiFi 2",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-70469",
-  "published": "2026-09-16T20:17:26.877",
-  "summary": "Apache NiFi 2.11.0 disabled support for gzip-encoded HTTP requests for the application REST API and rejected requests that included the standard Content-Encoding header indicating gzip encoding. The framework enforcement filter did not check multiple instances of the Content-Encoding header and did not reject non-standard identifiers for gzip encoding, allowing a malicious client to send crafted requests that could consume excessive amounts of memory. Upgrading to Apache NiFi 2.12.0 is the recommended mitigation, which disables decompression of gzip-encoded HTTP requests regardless of header n",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-70469",
-   "cvss": null,
-   "ref": "https://lists.apache.org/thread/mjpv7r4djgn7fdvhnpjwgr2rcto47mx0"
-  },
-  "title_vi": "",
-  "key": "f051376bfba0a03ec0ff4b13dc94f7bb3d2c5eec"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-76423 — A vulnerability in the REST API of Cisco ISE and Cisco ISE-PIC could allow an unauthenticated, remote attacker to gain administrative access to an aff",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76423",
-  "published": "2026-09-16T20:17:28.717",
-  "summary": "A vulnerability in the REST API of Cisco ISE and Cisco ISE-PIC could allow an unauthenticated, remote attacker to gain administrative access to an affected device.\r\n\r\nThis vulnerability is due to the REST API web service being exposed with insufficient authorization checks. An attacker could exploit this vulnerability by sending a crafted HTTP request to the exposed REST API port. A successful exploit could allow the attacker to read and modify ISE configuration and identity data with administrative privileges.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-76423",
-   "cvss": 10.0,
-   "ref": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-multi-hrP9jQSQ"
-  },
-  "title_vi": "",
-  "key": "9e246c1609ddeff3cf0e8cc72b265503a324df61"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-76646 — A remote attacker could cause excessive resource consumption by supplying specially crafted request parameters, potentially resulting in a denial of s",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76646",
-  "published": "2026-09-16T20:17:28.847",
-  "summary": "A remote attacker could cause excessive resource consumption by supplying specially crafted request parameters, potentially resulting in a denial of service condition.\n\n\nOlder unsupported versions may also be affected.\n\nUsers are recommended to upgrade to versions 2.3.12, 2.3-next-M9, 3.0.4, 4.0.4, or 4.1.4, which fix this issue.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-76646",
-   "cvss": null,
-   "ref": "https://lists.apache.org/thread/q8zxrdhbmmx8ofgr9s7ymnqo8l2x8oy9"
-  },
-  "title_vi": "",
-  "key": "3516ddad7abaae381e37ee035ec67b8065ce31f8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-81866 — Apache NiFi 2",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81866",
-  "published": "2026-09-16T20:17:32.553",
-  "summary": "Apache NiFi 2.9.0 through 2.11.0 provide Connector configuration update and verification REST API methods that do not enforce authorization checking on Assets and Secrets referenced in proposed configuration. Updating or verifying a Connector configuration step can apply Asset and Secret references, but framework authorization was limited to write privileges on the Connector itself. As a result of the missing authorization, an authenticated user authorized to modify a Connector, but not authorized to read a referenced Parameter Provider, could apply Secret values backed by that Parameter Provi",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-81866",
-   "cvss": null,
-   "ref": "https://lists.apache.org/thread/rv49gwf4yb00ykv0zzfd509boxflolsf"
-  },
-  "title_vi": "",
-  "key": "c46ab8e66e9aa683a27399432d4a1848dd3ae9c7"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-81870 — OpenTelemetry-Go is the Go implementation of OpenTelemetry",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81870",
-  "published": "2026-09-16T20:17:32.733",
-  "summary": "OpenTelemetry-Go is the Go implementation of OpenTelemetry. From version 1.5.0 to 1.44.0, sdk/trace.NewTracerProvider emits a TracerProvider created internal Info-level diagnostic event whose MarshalLog implementations recursively include span processor, exporter, and client configuration. Applications that call otel.SetLogger to enable OpenTelemetry internal Info logging can therefore record OTLP gRPC and HTTP collector endpoints, the OTLP HTTP Insecure flag, and complete Zipkin collector URLs. A person or system with access to those logs can learn internal collector topology and can recover ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-81870",
-   "cvss": null,
-   "ref": "https://github.com/open-telemetry/opentelemetry-go/commit/3a1412d2b3bc4e4231fbeac2ed42117ae541bb38"
-  },
-  "title_vi": "",
-  "key": "3ca4f1b8433ea5eff1af8054a70b742135cc85d3"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82561 — Apache NiFi 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82561",
-  "published": "2026-09-16T20:17:32.883",
-  "summary": "Apache NiFi 1.5.0 through 2.11.0 provide REST API methods that replace the entire contents of a Process Group using a client-supplied flow definition, covering Process Group flow replacement together with versioned flow update and rebase operations. Framework authorization for these methods was limited to read and write privileges on the Process Group itself, unlike the corresponding asynchronous update request methods, which also authorize the components encapsulated in the Process Group along with referenced Controller Services, Parameter Contexts, and Parameter Providers. As a result of the",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82561",
-   "cvss": null,
-   "ref": "https://lists.apache.org/thread/opk7l8wqvnl85qxlzj3dnxp6qbk27lwm"
-  },
-  "title_vi": "",
-  "key": "e2283a20839e240bef512b10566ccb0ec8d27c71"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-86089 — Apache NiFi 2",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86089",
-  "published": "2026-09-16T20:17:36.827",
-  "summary": "Apache NiFi 2.11.0 supports migrating the contents of a version-controlled Process Group into a Connector using REST API methods that list eligible migration sources and submit migration requests. The framework authorized both methods against the target Connector alone, without evaluating access to the Process Groups involved. The absence of Process Group authorization allowed an authenticated user with read access to a Connector to enumerate the identifiers, names, and flow registry details of version-controlled Process Groups outside the scope of granted read policies. It also allowed a user",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-86089",
-   "cvss": null,
-   "ref": "https://lists.apache.org/thread/lnpqnn61k62fkgxqd9cftf7sr77jhrk1"
-  },
-  "title_vi": "",
-  "key": "e80c8fa16f5e5ef6c13b9115a5f48bf388038a5c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-86831 — Improper validation of pod identifier uniqueness in aws-network-policy-agent in Amazon EKS Network Policy Agent before v1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86831",
-  "published": "2026-09-16T20:17:36.980",
-  "summary": "Improper validation of pod identifier uniqueness in aws-network-policy-agent in Amazon EKS Network Policy Agent before v1.4.0 might allow an authenticated remote user to bypass NetworkPolicy enforcement on co-located pods in other namespaces via crafted pod and namespace names that produce pod identifier collisions.\n\n\n\nTo remediate this issue, users should upgrade to Amazon EKS Network Policy Agent 1.4.0 or later and Amazon VPC CNI Managed Add-on v1.22.4 or later (which includes Network Policy Agent v1.4.0).",
-  "categories": [
-   "cloud",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-86831",
-   "cvss": 8.7,
-   "ref": "https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.22.4"
-  },
-  "title_vi": "",
-  "key": "7f5c7af911bc265b24af488011e584d831024264"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-86865 — Tanium addressed a SQL injection vulnerability in Asset",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86865",
-  "published": "2026-09-16T20:17:37.153",
-  "summary": "Tanium addressed a SQL injection vulnerability in Asset.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-86865",
-   "cvss": 8.8,
-   "ref": "https://security.tanium.com/TAN-2026-049"
-  },
-  "title_vi": "",
-  "key": "ecf731b7921824af9a3190d351db2426f734c8a2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-87024 — Tanium addressed a SQL injection vulnerability in Asset",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87024",
-  "published": "2026-09-16T20:17:37.643",
-  "summary": "Tanium addressed a SQL injection vulnerability in Asset.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-87024",
-   "cvss": 7.2,
-   "ref": "https://security.tanium.com/TAN-2026-046"
-  },
-  "title_vi": "",
-  "key": "4006d03ac5a33d098366da2f8d2b2826db409c7a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-87026 — Tanium addressed an improper access controls vulnerability in Threat Response",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87026",
-  "published": "2026-09-16T20:17:37.757",
-  "summary": "Tanium addressed an improper access controls vulnerability in Threat Response.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-87026",
-   "cvss": 3.8,
-   "ref": "https://security.tanium.com/TAN-2026-034"
-  },
-  "title_vi": "",
-  "key": "ce326a6e40cf86e8c90d0c3daa43cb7879b6af26"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-87076 — Tanium addressed an information disclosure vulnerability in Discover",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87076",
-  "published": "2026-09-16T20:17:37.867",
-  "summary": "Tanium addressed an information disclosure vulnerability in Discover.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-87076",
-   "cvss": 6.5,
-   "ref": "https://security.tanium.com/TAN-2026-024"
-  },
-  "title_vi": "",
-  "key": "2dcae9215866ef28bd5055dea5b452436831c9b1"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-87105 — Tanium addressed a SQL injection vulnerability in Threat Response",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87105",
-  "published": "2026-09-16T20:17:37.980",
-  "summary": "Tanium addressed a SQL injection vulnerability in Threat Response.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-87105",
-   "cvss": 8.8,
-   "ref": "https://security.tanium.com/TAN-2026-047"
-  },
-  "title_vi": "",
-  "key": "a376ce9bbde668ac857b61f43f60af32b2e377d6"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-87113 — Tanium addressed an improper access controls vulnerability in Threat Response",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87113",
-  "published": "2026-09-16T20:17:38.090",
-  "summary": "Tanium addressed an improper access controls vulnerability in Threat Response.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-87113",
-   "cvss": 6.3,
-   "ref": "https://security.tanium.com/TAN-2026-048"
-  },
-  "title_vi": "",
-  "key": "6231927eeb0fb35cc16a4a7045a582b14d678a8d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-87116 — Tanium addressed a server-side request forgery vulnerability in Threat Response",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87116",
-  "published": "2026-09-16T20:17:38.207",
-  "summary": "Tanium addressed a server-side request forgery vulnerability in Threat Response.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-87116",
-   "cvss": 6.5,
-   "ref": "https://security.tanium.com/TAN-2026-050"
-  },
-  "title_vi": "",
-  "key": "dd7682b7cc523c39aefc9e2c3d7b3b77a1f7617b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-87976 — Apache NiFi Registry 0",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87976",
-  "published": "2026-09-16T20:17:38.320",
-  "summary": "Apache NiFi Registry 0.4.0 through 2.11.0 are subject to path manipulation when storing extension bundle content using group, artifact, and version coordinates from uploaded NAR manifests. The default file persistence provider used coordinates as filesystem path components without rejected parent-directory names, and the path-containment check compared an unnormalized resolved path. An authenticated user authorized to write and delete bundles in a bucket can upload a NAR with a crafted manifest resulting in file system operations outside of the file persistence directory. Upgrading to Apache N",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-87976",
-   "cvss": null,
-   "ref": "https://lists.apache.org/thread/kw89toml5zq20ry3279mx7y184vrlb8x"
-  },
-  "title_vi": "",
-  "key": "86922f137403ea2278b43e6f7ff2c543ed5e8813"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-88592 — kkFileView >= 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88592",
-  "published": "2026-09-16T20:17:38.453",
-  "summary": "kkFileView >= 4.2.0 is vulnerable to Server-Side Request Forgery (SSRF). The cross-origin file proxy endpoint /getCorsFile is protected by TrustHostFilter against the trust.host whitelist. However, the URL parameter validated by the filter is not the same parameter the controller actually fetches: the filter validates the first non-empty parameter in a fixed priority order, while the controller only reads and fetches urlPath. By supplying both urlPath=<real target> and url=<whitelisted decoy address> in the same request, the decoy passes validation while the unvalidated real target is fetched ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-88592",
-   "cvss": null,
-   "ref": "https://github.com/sg-summer/cve/issues/2"
-  },
-  "title_vi": "",
-  "key": "f1d7a69e172b422c0035b3649d2426c9b293d893"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-89082 — HP has identified potential security vulnerabilities in the HP Advance software that may enable elevation of privilege, remote code execution, or arbi",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89082",
-  "published": "2026-09-16T20:17:38.573",
-  "summary": "HP has identified potential security vulnerabilities in the HP Advance software that may enable elevation of privilege, remote code execution, or arbitrary file write under certain conditions, impacting the HP Advance server hosting the software.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-89082",
-   "cvss": null,
-   "ref": "https://support.hp.com/us-en/document/ish_15646496-15646518-16/hpsbpi04149"
-  },
-  "title_vi": "",
-  "key": "c2e0decb0320b69a83f925901bb0cc89499f1659"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-89083 — HP has identified potential security vulnerabilities in the HP Advance software that may enable elevation of privilege, remote code execution, or arbi",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89083",
-  "published": "2026-09-16T20:17:38.703",
-  "summary": "HP\nhas identified potential security vulnerabilities in the HP Advance software\nthat may enable elevation of privilege, remote code execution, or arbitrary\nfile write under certain conditions, impacting the HP Advance server hosting\nthe software.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-89083",
-   "cvss": null,
-   "ref": "https://support.hp.com/us-en/document/ish_15646496-15646518-16/hpsbpi04149"
-  },
-  "title_vi": "",
-  "key": "600a07a45355a2a93452267292e908b224781689"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-89084 — HP has identified potential security vulnerabilities in the HP Advance software that may enable elevation of privilege, remote code execution, or arbi",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89084",
-  "published": "2026-09-16T20:17:38.833",
-  "summary": "HP\nhas identified potential security vulnerabilities in the HP Advance software\nthat may enable elevation of privilege, remote code execution, or arbitrary\nfile write under certain conditions, impacting the HP Advance server hosting\nthe software.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-89084",
-   "cvss": null,
-   "ref": "https://support.hp.com/us-en/document/ish_15646496-15646518-16/hpsbpi04149"
-  },
-  "title_vi": "",
-  "key": "d888cecd7fb5eb0e76dfe8ff69ad6b9b0e894f64"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-92474 — A security flaw has been discovered in GPAC 26",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-92474",
-  "published": "2026-09-16T20:17:48.610",
-  "summary": "A security flaw has been discovered in GPAC 26.08-DEV. This affects the function gf_inline_get_proto_lib of the file src/compositor/mpeg4_inline.c of the component Proto Link Handler. The manipulation results in use after free. The attack requires a local approach. The exploit has been released to the public and may be used for attacks. Upgrading to version abi-16.24 mitigates this issue. The patch is identified as e34f4ba349d55cd1849f0bcf4cf46552732e2db7. Upgrading the affected component is recommended.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-92474",
-   "cvss": 3.3,
-   "ref": "https://github.com/gpac/gpac/"
-  },
-  "title_vi": "",
-  "key": "505da328d74c7aba44fa73159131cd62753e074f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-92475 — A weakness has been identified in GPAC 26",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-92475",
-  "published": "2026-09-16T20:17:48.780",
-  "summary": "A weakness has been identified in GPAC 26.08-DEV. This impacts the function wait_for_header_and_parse of the file src/utils/downloader.c. This manipulation of the argument Content-Range causes out-of-bounds read. The attack requires local access. The exploit has been made available to the public and could be used for attacks. Upgrading to version abi-16.26 will fix this issue. Patch name: c74a3065038ede35c1c7b75fa493a69ef6bcdb84. It is recommended to upgrade the affected component.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-92475",
-   "cvss": 5.3,
-   "ref": "https://github.com/gpac/gpac/"
-  },
-  "title_vi": "",
-  "key": "349caf1d9beadfd67ec528165fab9c9d665029e0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-92526 — A flaw has been found in itsourcecode Leave Management System 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-92526",
-  "published": "2026-09-16T20:17:48.947",
-  "summary": "A flaw has been found in itsourcecode Leave Management System 1.0. This affects an unknown function of the file /module/leave/index.php. Executing a manipulation of the argument ID can lead to sql injection. The attack may be launched remotely. The exploit has been published and may be used.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-92526",
-   "cvss": 6.3,
-   "ref": "https://github.com/ltranquility/submit_repository/issues/14"
-  },
-  "title_vi": "",
-  "key": "1597339016f0015f149c4d42de21f1b37dc37df2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-92808 — A server-side request forgery (SSRF) vulnerability exists in the UnifiedLogin service of Altium Enterprise Server",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-92808",
-  "published": "2026-09-16T20:17:49.117",
-  "summary": "A server-side request forgery (SSRF) vulnerability exists in the UnifiedLogin service of Altium Enterprise Server. An unauthenticated network attacker can cause the server to issue outbound HTTP requests to a destination of the attacker's choosing, including internal services that are reachable only from the server itself.\n\n\n\n\nOne such internal service exposes server configuration and credential material without authentication, relying only on the request originating locally. Because the forged requests originate from the server process, that check is satisfied. An unauthenticated attacker can",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-92808",
-   "cvss": null,
-   "ref": "https://www.altium.com/platform/security-compliance/security-advisories"
-  },
-  "title_vi": "",
-  "key": "315d96eee1cb365ae65333b6e6af9e739c315a2c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2025-56563 — A Server-Side Request Forgery vulnerability exists in sat_proxy",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-56563",
-  "published": "2026-09-16T21:17:06.537",
-  "summary": "A Server-Side Request Forgery vulnerability exists in sat_proxy.php in Zenith Satellite Tracker 1.0. The script accepts an attacker-controlled address URL parameter and passes it to curl_setopt(CURLOPT_URL) without host or scheme validation. An unauthenticated remote attacker can leverage this to make arbitrary HTTP and HTTPS requests from the server to internal networks or cloud metadata services, potentially obtaining sensitive information or pivoting to further attacks.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2025-56563",
-   "cvss": null,
-   "ref": "https://github.com/RIFTI-Offensive-Security/security-advisories/blob/main/CVE-2025-56563.md"
-  },
-  "title_vi": "",
-  "key": "c8a624ca0d5c59f0e285d88b02d7655df3127987"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2025-56565 — DD-WRT firmware, as deployed on TP-Link TL-WR740N v1 through v4 hardware, stores sensitive authentication credentials in cleartext within non-volatile",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-56565",
-  "published": "2026-09-16T21:17:06.657",
-  "summary": "DD-WRT firmware, as deployed on TP-Link TL-WR740N v1 through v4 hardware, stores sensitive authentication credentials in cleartext within non-volatile memory. The exposed material includes SSH private keys, dynamic DNS passwords, email notification credentials and administrative passwords. An attacker with physical access to the device can extract these credentials from an SPI flash dump, leading to device compromise, infiltration of the connected network and unauthorised access to dependent third-party services.",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2025-56565",
-   "cvss": null,
-   "ref": "https://github.com/RIFTI-Offensive-Security/security-advisories/blob/main/CVE-2025-56565.md"
-  },
-  "title_vi": "",
-  "key": "16416ab24bf2feef86816a82720064dc87503e5b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2025-56566 — MikroTik firmware 7",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-56566",
-  "published": "2026-09-16T21:17:06.767",
-  "summary": "MikroTik firmware 7.19.4 stores sensitive authentication credentials and network state in cleartext within non-volatile storage. An attacker with physical access to the device can extract this material from an SPI flash dump, without authenticating to the device and without knowledge of the administrative password.",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2025-56566",
-   "cvss": null,
-   "ref": "https://github.com/RIFTI-Offensive-Security/security-advisories/blob/main/CVE-2025-56566.md"
-  },
-  "title_vi": "",
-  "key": "2c6361974d8ca7e6489e0fd727f1cede8b0a1ecc"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-20071 — A vulnerability in the SSID bring-your-own-device (BYOD) onboarding workflow of Cisco ISE could allow an unauthenticated, adjacent attacker to hijack ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20071",
-  "published": "2026-09-16T21:17:07.087",
-  "summary": "A vulnerability in the SSID bring-your-own-device (BYOD) onboarding workflow of Cisco ISE could allow an unauthenticated, adjacent attacker to hijack the onboarding session of&nbsp;another user and access protected 802.1X networks. &nbsp;\r\n\r\nThis vulnerability is due to insufficient authentication checks that are performed while a user is being onboarded. An attacker could exploit this vulnerability by spoofing the legitimate user and triggering&nbsp;a redirection to the guest web portal. A successful exploit could allow the attacker to take over the user session and gain access to the protect",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-20071",
-   "cvss": 3.8,
-   "ref": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-multi-vuln-kWLeNnRD"
-  },
-  "title_vi": "",
-  "key": "b4915d7552ff22f52cf1d7c7b2f61adca3892b6e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-20072 — A vulnerability in the web-based management interface of Cisco ISE could allow an authenticated, remote attacker to obtain sensitive information from ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20072",
-  "published": "2026-09-16T21:17:07.223",
-  "summary": "A vulnerability in the web-based management interface of Cisco ISE could allow an authenticated, remote attacker to obtain sensitive information from network users that are outside the security group that the attacker is assigned to. &nbsp;\r\n\r\nThis vulnerability exists because certain files lack proper authorization enforcement. An attacker with administrative privileges and management rights over network users could exploit this vulnerability by exporting the&nbsp;users. A successful exploit could allow the attacker to view passwords that are normally not visible to administrators.&nbsp;",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-20072",
-   "cvss": 4.9,
-   "ref": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-multi-vuln-kWLeNnRD"
-  },
-  "title_vi": "",
-  "key": "0e4854c6214d08cdd133562d39a8f8a1cba4dc59"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-20120 — A vulnerability in the access control list (ACL) Object Group Search (OGS) implementation of Cisco Secure Firewall Adaptive Security Appliance (ASA) S",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20120",
-  "published": "2026-09-16T21:17:07.343",
-  "summary": "A vulnerability in the access control list (ACL) Object Group Search (OGS) implementation of Cisco Secure Firewall Adaptive Security Appliance (ASA) Software and Cisco Secure Firewall Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to bypass configured access controls.\r\n\r\nThis vulnerability is due to a logic error in populating group access control policies (ACPs) with OGS configured. An attacker could exploit this vulnerability by sending traffic that should be blocked through the device. A successful exploit could allow the attacker to bypass access controls and",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-20120",
-   "cvss": 5.8,
-   "ref": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ftd-acl-bypass-8p6vFvw"
-  },
-  "title_vi": "",
-  "key": "af5da226d4080b6e1a95702e8242977e289ed2d2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-20121 — A vulnerability in the access control list (ACL) Object Group Search (OGS) implementation of Cisco Secure Firewall Adaptive Security Appliance (ASA) S",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20121",
-  "published": "2026-09-16T21:17:07.467",
-  "summary": "A vulnerability in the access control list (ACL) Object Group Search (OGS) implementation of Cisco Secure Firewall Adaptive Security Appliance (ASA) Software and Cisco Secure Firewall Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to bypass configured access controls.\r\n\r\nThis vulnerability is due to a logic error in populating group access control policies (ACPs) with OGS configured. An attacker could exploit this vulnerability by sending traffic that should be blocked through the device. A successful exploit could allow the attacker to bypass access controls and",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-20121",
-   "cvss": 5.3,
-   "ref": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ftd-acl-bypass-8p6vFvw"
-  },
-  "title_vi": "",
-  "key": "72feef19435b38aa58fe4682a183c1a556c03613"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-20135 — A vulnerability in the TLS 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20135",
-  "published": "2026-09-16T21:17:07.587",
-  "summary": "A vulnerability in the TLS 1.3 implementation in Cisco Secure Firewall Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to cause an affected device to reload unexpectedly, resulting in a denial of service (DoS) condition.\r\n\r\nThis vulnerability is due to improper buffer management during the TLS 1.3 connection. An attacker could exploit this vulnerability by sending a crafted TLS 1.3 packet to an affected system through a TLS 1.3-enabled listening socket. A successful exploit could allow the attacker to cause the LINA process to crash, which would cause the device t",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-20135",
-   "cvss": 8.6,
-   "ref": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ftd-tls1.3-dos-dLxwFWgF"
-  },
-  "title_vi": "",
-  "key": "c76211f3b30e5ced133ea830be15b30550034a48"
  }
 ]
