@@ -1,5 +1,222 @@
 [
  {
+  "source": "NVD",
+  "title": "CVE-2026-94035 — A vulnerability was determined in SourceCodester Drug Recommendation System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94035",
+  "published": "2026-09-20T16:16:55.307",
+  "summary": "A vulnerability was determined in SourceCodester Drug Recommendation System 1.0. Impacted is an unknown function of the file /drug_recommender/index.php. Executing a manipulation of the argument full name can lead to cross site scripting. The attack can be launched remotely. The exploit has been publicly disclosed and may be utilized.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94035",
+   "cvss": 4.3,
+   "ref": "https://github.com/KaranParelkar/Drug_recommendation_system/blob/main/xss/profile/Readme.md"
+  },
+  "title_vi": "CVE-2026-94035 — Lỗ hổng bảo mật đã được xác định trong Hệ thống khuyến nghị thuốc SourceCodester 1",
+  "key": "02075a64d7ab9fe419410e4f4dfafa7bcb47121c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94036 — A security flaw has been discovered in D-Link DIR-X1860 and DIR-X1860Z up to 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94036",
+  "published": "2026-09-20T16:16:55.490",
+  "summary": "A security flaw has been discovered in D-Link DIR-X1860 and DIR-X1860Z up to 1.0.2.220120.165402. The impacted element is an unknown function of the file /ubus of the component routerd. The manipulation of the argument passwd_set results in improper access controls. The attack must originate from the local network. The exploit has been released to the public and may be used for attacks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94036",
+   "cvss": 8.8,
+   "ref": "https://pastebin.com/gzKNCCPV"
+  },
+  "title_vi": "CVE-2026-94036 — Một lỗ hổng bảo mật đã được phát hiện trong D-Link DIR-X1860 và DIR-X1860Z lên đến 1",
+  "key": "be8903233dbe3624fff8523b0260793563fd9dfa"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94037 — A weakness has been identified in 00Kisumi00 mcp-file-analyzer up to 84740852f0cf0cf5db4781b1ca6d7c6a6d210405",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94037",
+  "published": "2026-09-20T17:16:52.190",
+  "summary": "A weakness has been identified in 00Kisumi00 mcp-file-analyzer up to 84740852f0cf0cf5db4781b1ca6d7c6a6d210405. This affects the function ControlFlowNode of the file main.py of the component analyze_csv_data MCP tool. This manipulation of the argument filename causes path traversal. Remote exploitation of the attack is possible. The exploit has been made available to the public and could be used for attacks. This product follows a rolling release approach for continuous delivery, so version details for affected or updated releases are not provided. The project was informed of the problem early ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94037",
+   "cvss": 4.3,
+   "ref": "https://github.com/00Kisumi00/mcp-file-analyzer/"
+  },
+  "title_vi": "CVE-2026-94037 — Một điểm yếu đã được xác định trong 00Kisumi00 mcp-file-analyzer lên đến 84740852f0cf0cf5db4781b1ca6d7c6a6d210405",
+  "key": "edbdc2ff4d16a74d38cc1516c88646ad3224ffa3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94038 — A security vulnerability has been detected in NonceGeek dim-sum-app",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94038",
+  "published": "2026-09-20T17:16:52.370",
+  "summary": "A security vulnerability has been detected in NonceGeek dim-sum-app. This impacts the function textSearchV2Handler of the file deno/main.tsx of the component Deno Backend. Such manipulation of the argument supabase_url leads to server-side request forgery. The attack can be executed remotely. The exploit has been disclosed publicly and may be used. The name of the patch is 8389032e5d52c28c4855c6126ca7d0eae8af346a. It is best practice to apply a patch to resolve this issue.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94038",
+   "cvss": 7.3,
+   "ref": "https://github.com/NonceGeek/dim-sum-app/"
+  },
+  "title_vi": "CVE-2026-94038 — Một lỗ hổng bảo mật đã được phát hiện trong ứng dụng nonceGeek dim-sum",
+  "key": "182db0c11c69f7e6e34a9e44044c5777bf26038a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94039 — A vulnerability was detected in vas3k TaxHacker up to 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94039",
+  "published": "2026-09-20T17:16:52.557",
+  "summary": "A vulnerability was detected in vas3k TaxHacker up to 0.8.5. Affected is the function generateInvoicePDF of the file /apps/invoices/actions.ts of the component Invoice PDF Renderer. Performing a manipulation of the argument businessLogo results in server-side request forgery. The attack is possible to be carried out remotely. The exploit is now public and may be used. The project was informed of the problem early through an issue report but has not responded yet.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94039",
+   "cvss": 7.3,
+   "ref": "https://github.com/vas3k/TaxHacker/"
+  },
+  "title_vi": "CVE-2026-94039 — Một lỗ hổng đã được phát hiện trong vas3k TaxHacker lên đến 0",
+  "key": "8128c98cb42a31ab8df8c2fca0fc17044e1d5387"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94040 — A flaw has been found in vas3k TaxHacker up to 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94040",
+  "published": "2026-09-20T17:16:52.730",
+  "summary": "A flaw has been found in vas3k TaxHacker up to 0.8.5. Affected by this vulnerability is the function testLLMProviderAction of the file app/(app)/apps/settings/actions.ts. Executing a manipulation of the argument provider/apiKey/model/baseUrl can lead to server-side request forgery. The attack may be performed from remote. The exploit has been published and may be used. The project was informed of the problem early through an issue report but has not responded yet.",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94040",
+   "cvss": 5.3,
+   "ref": "https://github.com/vas3k/TaxHacker/"
+  },
+  "title_vi": "CVE-2026-94040 — Một lỗ hổng đã được tìm thấy trong vas3k TaxHacker lên đến 0",
+  "key": "118493df13a7d3b7d1f8774ab04bbd1e9c4728dd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88854 — Joomla Extension - OrdaSoft",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88854",
+  "published": "2026-09-20T18:16:53.987",
+  "summary": "Joomla Extension - OrdaSoft.com - Unauthenticated SQL Injection in OrdaSoft Joomla Gallery extension for Joomla < 6.2.7 - The extensions showSearchResult() and showSearchResultAjax() read the textsearch/searchText request parameter with $input->getVar(), which is not a real Joomla filter method and falls through to a filter that strips HTML tags but does not touch quotes or SQL syntax. The value is concatenated directly into a LIKE clause with no escaping. The endpoint requires no login of any kind: mod_osgallery_search is a public, commonly-published search box. Any anonymous site visitor can",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88854",
+   "cvss": null,
+   "ref": "https://www.OrdaSoft.com/"
+  },
+  "title_vi": "CVE-2026-88854 — Tiện ích mở rộng Joomla - OrdaSoft",
+  "key": "74d72b4d2390effc276622dc1912ac5340f2e2c9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88855 — Joomla Extension - OrdaSoft",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88855",
+  "published": "2026-09-20T18:16:54.137",
+  "summary": "Joomla Extension - OrdaSoft.com - Authenticated, Privileged SQL Injection in OrdaSoft Joomla Gallery extension for Joomla < 6.2.7 - The extensions saveGallery() passes form data through a hand-rolled parser into Joomla’s Input object, then reads it back with the ARRAY/ STRING filter types, neither of which sanitises SQL content. Values from category_names[], catOrderIds, and image-ordering fields were concatenated directly into SQL with no quoting or integer cast, giving an authenticated core.manage user (a permission scoped to managing one gallery component, not administrator-wide trust) full",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88855",
+   "cvss": null,
+   "ref": "https://www.OrdaSoft.com/"
+  },
+  "title_vi": "CVE-2026-88855 — Phần mở rộng Joomla - OrdaSoft",
+  "key": "48aa81f301a9e4a60f43893b7b06de82a6224ea4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88856 — Joomla Extension - OrdaSoft",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88856",
+  "published": "2026-09-20T18:16:54.280",
+  "summary": "Joomla Extension - OrdaSoft.com - Authenticated, Privileged Remote Code Execution in OrdaSoft Joomla Gallery extension for Joomla < 6.2.7 - The extensions updateOSGallery(), reached via task=update_osgallery, read a JSON request body and called the value of a method field as a live PHP function, passing the value of a package field as its single argument, with no allow-list or is_callable() check of any kind. Any function name compatible with a single argument was directly reachable, including system, exec, shell_exec, and passthru.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88856",
+   "cvss": null,
+   "ref": "https://www.OrdaSoft.com/"
+  },
+  "title_vi": "CVE-2026-88856 — Phần mở rộng Joomla - OrdaSoft",
+  "key": "e71f41539aa7da3a89eb6c43023defdbeccefb48"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88857 — Joomla Extension - OrdaSoft",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88857",
+  "published": "2026-09-20T18:16:54.443",
+  "summary": "Joomla Extension - OrdaSoft.com - Authenticated, Privileged Remote Code Execution in OrdaSoft Joomla Gallery extension for Joomla < 6.2.7 - The extensions saveWatermark() copied an uploaded file into a web-accessible directory using the client-supplied filename exactly as sent, with no extension check, no content check, and no filename sanitisation of any kind. An authenticated core.manage user could upload a .php file disguised with an image Content-Type header and execute it directly by requesting the resulting path.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88857",
+   "cvss": null,
+   "ref": "https://www.OrdaSoft.com/"
+  },
+  "title_vi": "CVE-2026-88857 — Phần mở rộng Joomla - OrdaSoft",
+  "key": "f3b478636e77b38ce6874f31c652cb68ad068916"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94041 — A vulnerability has been found in AdithyaYelloju Restaurant-Management-System up to 7f0e7e84255e8fcfd488e83f8f91451bbbff6b9c",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94041",
+  "published": "2026-09-20T18:16:54.583",
+  "summary": "A vulnerability has been found in AdithyaYelloju Restaurant-Management-System up to 7f0e7e84255e8fcfd488e83f8f91451bbbff6b9c. Affected by this issue is some unknown functionality of the file admin/add_menu.php. The manipulation of the argument item/price/image/type leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. This product is using a rolling release to provide continious delivery. Therefore, no version details for affected nor updated releases are available. The project was informed of the problem early thr",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94041",
+   "cvss": 6.3,
+   "ref": "https://github.com/AdithyaYelloju/Restaurant-Management-System/"
+  },
+  "title_vi": "CVE-2026-94041 - Một lỗ hổng đã được tìm thấy trong Hệ thống quản lý nhà hàng AdithyaYelloju lên đến 7f0e7e84255e8fcfd488e83f8f91451bbbff6b9c",
+  "key": "e60f3619ff4b6782f6582880e61b7edf81549f96"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94042 — A vulnerability was found in AdithyaYelloju Restaurant Management System up to 7f0e7e84255e8fcfd488e83f8f91451bbbff6b9c",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94042",
+  "published": "2026-09-20T18:16:54.763",
+  "summary": "A vulnerability was found in AdithyaYelloju Restaurant Management System up to 7f0e7e84255e8fcfd488e83f8f91451bbbff6b9c. This affects the function mysqli_query of the file admin/add_table.php. The manipulation of the argument table/members/price results in sql injection. It is possible to launch the attack remotely. The exploit has been made public and could be used. This product takes the approach of rolling releases to provide continious delivery. Therefore, version details for affected and updated releases are not available. The project was informed of the problem early through an issue rep",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94042",
+   "cvss": 6.3,
+   "ref": "https://github.com/AdithyaYelloju/Restaurant-Management-System/issues/3"
+  },
+  "title_vi": "CVE-2026-94042 — Một lỗ hổng đã được tìm thấy trong Hệ thống quản lý nhà hàng AdithyaYelloju lên đến 7f0e7e84255e8fcfd488e83f8f91451bbbff6b9c",
+  "key": "6145a7ba61ec38d61c7860920d463f08e9379cf4"
+ },
+ {
   "source": "VietnamPlus Kinh tế số",
   "title": "Sinh viên Việt Nam tại Australia thử sức với các bài toán AI thực tiễn",
   "link": "https://www.vietnamplus.vn/sinh-vien-viet-nam-tai-australia-thu-suc-voi-cac-bai-toan-ai-thuc-tien-post1137311.vnp",
@@ -11535,7 +11752,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "MFA sẽ không cứu bạn khỏi sự lạm dụng đồng ý của OAuth",
   "key": "3354bb8497e624b9085e7cbe8bf5e00bd13b9b2c"
  },
  {
@@ -11563,7 +11780,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Khai thác công khai được phát hành cho bốn lỗ hổng nhân Linux cho phép root cục bộ",
   "key": "042680f48eea5bf3168fd2ea72e34771a1fc1c28"
  },
  {
@@ -19810,7 +20027,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Tiết kiệm thêm 100TB RAM với Math (và Rust)",
   "key": "924a048660459abb8fe6ee69e99ca831bf5a6c95"
  },
  {
@@ -26553,7 +26770,7 @@
    "cvss": 7.3,
    "ref": "https://github.com/Forget-C/Jellyfish/issues/37"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93559 — Một lỗ hổng đã được xác định trong Forget-C Jellyfish AI Short Drama Studio 0",
   "key": "303e75d5b73b97753153c4f3440f17b33a7632b7"
  },
  {
@@ -26571,7 +26788,7 @@
    "cvss": 6.5,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-93579"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93579 — Một lỗ hổng đã được tìm thấy trong ngăn xếp HTTP/2 của Netty",
   "key": "8b8f5bc57ee23a14cb29a8249fccd144f13c6945"
  },
  {
@@ -26589,7 +26806,7 @@
    "cvss": 8.1,
    "ref": "https://jira.mongodb.org/browse/MONGOID-5992"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93758 - Một tham chiếu đối tượng trực tiếp không an toàn trong việc xử lý các thuộc tính lồng nhau của trình lập bản đồ tài liệu đối tượng Mongoid có thể cho phép người dùng có pr ứng dụng cơ bản",
   "key": "e22405158b5b03cb454a4fb9c2b8250cf5ccdd33"
  },
  {
@@ -26607,7 +26824,7 @@
    "cvss": 9.1,
    "ref": "https://jira.mongodb.org/browse/MONGOID-5973"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93765 - Mongoid chứa một điểm yếu phản chiếu không an toàn trong lớp duy trì tài liệu của mã ánh xạ tài liệu đối tượng của nó",
   "key": "983efc2ad8c69efab883b53c0cb6072dee64acd0"
  },
  {
@@ -26625,7 +26842,7 @@
    "cvss": 9.8,
    "ref": "https://github.com/InternLM/lmdeploy/commit/f05b4ad8bf2e2d84101a1d63b3c44fadd99223b2"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-66455 — LMDeploy là bộ công cụ để nén, triển khai và phục vụ các mô hình ngôn ngữ lớn",
   "key": "afb2fd73cec5a00364b650ad3b7a2b855198c791"
  },
  {
@@ -26644,7 +26861,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/parseablehq/parseable/commit/6c583081a4161476128f330b9bb71ed7305eecde"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-32641 - Parseable là một nền tảng phân tích nhật ký được xây dựng để nhập và phân tích dữ liệu khối lượng lớn",
   "key": "19c96bd849f4a2c355ec3afbc8ff22012e85dc63"
  },
  {
@@ -26662,7 +26879,7 @@
    "cvss": 8.8,
    "ref": "https://github.com/InternLM/lmdeploy/releases/tag/v0.12.3"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-33625 — LMDeploy là bộ công cụ để nén, triển khai và phục vụ các mô hình ngôn ngữ lớn",
   "key": "37168f2b8eafa279da1a9a2f7a56f6252eafd6cb"
  },
  {
@@ -26681,7 +26898,7 @@
    "cvss": 9.1,
    "ref": "https://github.com/mnemosyne-oss/mnemosyne/commit/a0b6b8711a1a485304971710dc3571e29ff9dbeb"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-59163 — Mnemosyne là một lớp bộ nhớ cho các tác nhân trí tuệ nhân tạo",
   "key": "e5dd708460f6381fc09c895490425bd68590ca1a"
  },
  {
@@ -26699,7 +26916,7 @@
    "cvss": 9.8,
    "ref": "https://github.com/Icinga/icinga2/commit/4b7fb3405f4616a24b2b55e20f603a56b7dd6ad0"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-61550 — Icinga 2 là một hệ thống giám sát mã nguồn mở",
   "key": "570d99bf1a7ff22a107e32e53f21b866fafa1c0b"
  },
  {
@@ -26717,7 +26934,7 @@
    "cvss": 8.6,
    "ref": "https://github.com/Icinga/icinga2/commit/391504eaa9ed9aee81f84008c57ec821974b74ee"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-61551 — Icinga 2 là một hệ thống giám sát mã nguồn mở",
   "key": "5d4eb4a401fe47f35b61d9926aa3106a691f3bae"
  },
  {
@@ -26735,7 +26952,7 @@
    "cvss": 7.2,
    "ref": "https://github.com/Icinga/icinga2/commit/125b7734e84d03f09b79d36c270152b11629a8c5"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-61552 — Icinga 2 là một hệ thống giám sát mã nguồn mở",
   "key": "a4905a79e58bc59b23308f63e97f498e6013e552"
  },
  {
@@ -26753,7 +26970,7 @@
    "cvss": 8.1,
    "ref": "https://github.com/hargata/lubelog/commit/c8d5888ebc69e6a163e33f36200233ec845e5c57"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-62278 - LubeLogger là công cụ tự lưu trữ, mã nguồn mở, bảo trì xe dựa trên web và theo dõi số dặm nhiên liệu",
   "key": "d260d815541c7f0ef7cdeedf690bc542d67939d7"
  },
  {
@@ -26771,7 +26988,7 @@
    "cvss": 7.1,
    "ref": "https://github.com/hargata/lubelog/commit/c8d5888ebc69e6a163e33f36200233ec845e5c57"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-62279 - LubeLogger là công cụ tự lưu trữ, mã nguồn mở, bảo trì xe dựa trên web và theo dõi số dặm nhiên liệu",
   "key": "e90a38838e61104e40a71b58dafc8d46a746a43c"
  },
  {
@@ -26789,7 +27006,7 @@
    "cvss": null,
    "ref": "https://github.com/perses/perses/commit/2368c9ef4eb0a70fbca5df69aa20e595821ab625"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-63199 - PERSES là một dự án bảng điều khiển và trực quan hóa nguồn mở cho dữ liệu quan sát được",
   "key": "10b2e3cc26284fd51cc114a09897822492b24188"
  },
  {
@@ -26807,7 +27024,7 @@
    "cvss": null,
    "ref": "https://github.com/perses/perses/commit/75e5471040ccb5674ea8d25c2aa16c80ccb70b2a"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-63445 - Perses là một dự án bảng điều khiển và trực quan hóa nguồn mở cho dữ liệu quan sát được",
   "key": "f01749fea5153dc392661e9a37d9ab71b0f4c30d"
  },
  {
@@ -26825,7 +27042,7 @@
    "cvss": null,
    "ref": "https://github.com/perses/perses/commit/8015fb340bdc625953e73a7a688be5b939159540"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-63458 - Perses là một dự án bảng điều khiển và trực quan hóa nguồn mở cho dữ liệu quan sát được",
   "key": "77bf9f2d27775ecf35d3f0e1fa5c58b81fc224c1"
  },
  {
@@ -26843,7 +27060,7 @@
    "cvss": null,
    "ref": "https://github.com/agronholm/anyio/commit/f1b7301c8264b0d2e8d24a5788fd29e93dea4040"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-64847 — AnyIO là một khung đồng thời và kết nối mạng không đồng bộ cấp cao hoạt động trên Trio hoặc asyncio",
   "key": "af50ba37c250a3d1350b4c134b1181d6cb528b4c"
  },
  {
@@ -26861,7 +27078,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/c-ares/c-ares/commit/5c8341ba6ff3a8e4e4dfd616f8ed0418838b8b7b"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-69184 — c-ares là một thư viện phân giải không đồng bộ",
   "key": "e58b609d8507927e67358d25caa9e3719919126e"
  },
  {
@@ -26879,7 +27096,7 @@
    "cvss": 5.3,
    "ref": "https://github.com/c-ares/c-ares/commit/e47c203f91cd8b749c8736bc18d75a31ffdec8f4"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-69186 — c-ares là một thư viện phân giải không đồng bộ",
   "key": "472114b2a4c6f688dfae18040918847ae678677f"
  },
  {
@@ -26897,7 +27114,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/Paymenter/Paymenter/commit/a42e7f8bafce054ad70de3a2c2ac94d13579f41b"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-71537 - Người thanh toán là một giải pháp webshop miễn phí và mã nguồn mở để quản lý các dịch vụ lưu trữ",
   "key": "fbce03381af91a6ecdd52b9cc3e216a7d96ee3c4"
  },
  {
@@ -26915,7 +27132,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/zoriya/Kyoo/commit/c542adb5dc6d681e6491b28b5ac618c35c446d91"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-77385 - Kyoo là một máy chủ truyền thông tự lưu trữ tập trung vào phim ảnh, phim truyền hình và phim hoạt hình",
   "key": "1d83f309e89975d7c15b704209975397ce70100d"
  },
  {
@@ -26933,7 +27150,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/zoriya/Kyoo/commit/02ab3af8127a081295fd7bed103847173c0d7632"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-77386 - Kyoo là một máy chủ truyền thông tự lưu trữ tập trung vào phim ảnh, phim truyền hình và phim hoạt hình",
   "key": "f2dd117d8e8c5b8c86dae531447ccc30267ce431"
  },
  {
@@ -26951,7 +27168,7 @@
    "cvss": null,
    "ref": "https://github.com/pjsip/pjproject/commit/7ecc6584969a923c4190b6912afbf5952b5a4b9f"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-77396 — PJSIP là một thư viện truyền thông đa phương tiện mã nguồn mở và miễn phí được viết bằng C",
   "key": "f82110def9e4c78f6490b1401ab708f65a53c515"
  },
  {
@@ -26969,7 +27186,7 @@
    "cvss": 3.5,
    "ref": "https://github.com/Syslifters/sysreptor/commit/1e52e5058b0c7f420dc45c87ad72e7a4585477b1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-81178 - SysReptor là một nền tảng báo cáo pentest có thể tùy chỉnh hoàn toàn",
   "key": "c0dcb0e6fb001c30dfac43cc648d4b2ab2542fbb"
  },
  {
@@ -26987,7 +27204,7 @@
    "cvss": 8.1,
    "ref": "https://github.com/Syslifters/sysreptor/commit/7ecf56a6b8e5c05a2d2212bc8aa340f69855cdea"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-81179 - SysReptor là một nền tảng báo cáo pentest có thể tùy chỉnh hoàn toàn",
   "key": "d24b77b979cf09cc24ca4754eab14879901c56ce"
  },
  {
@@ -27005,7 +27222,7 @@
    "cvss": 8.8,
    "ref": "https://github.com/Syslifters/sysreptor/commit/7d800e5c737df0dbc3d4ea2d095c89235790a1cc"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-81180 - SysReptor là một nền tảng báo cáo pentest có thể tùy chỉnh hoàn toàn",
   "key": "34c24492888fbb1bd950db0c57eaf2bf93263c0e"
  },
  {
@@ -27023,7 +27240,7 @@
    "cvss": 3.7,
    "ref": "https://github.com/Syslifters/sysreptor/commit/1981717f15afe945aa86d7e0dc9dc30a30c88dea"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-81181 - SysReptor là một nền tảng báo cáo pentest có thể tùy chỉnh hoàn toàn",
   "key": "4ffb5bf12e93a66d1084984a1bd52b827177f611"
  },
  {
@@ -27041,7 +27258,7 @@
    "cvss": 4.2,
    "ref": "https://github.com/Syslifters/sysreptor/commit/1b721e291ebadfc1457bc8d01f7c70fe5da4b035"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-81182 - SysReptor là một nền tảng báo cáo pentest có thể tùy chỉnh hoàn toàn",
   "key": "16e2be24cc2bf3b92cd4e6f3974797090e86ec02"
  },
  {
@@ -27059,7 +27276,7 @@
    "cvss": 7.4,
    "ref": "https://github.com/pjsip/pjproject/commit/43d3bd77bb6833eab4c493503b8d564a754ddfdd"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84975 — PJSIP là một thư viện truyền thông đa phương tiện mã nguồn mở và miễn phí được viết bằng C",
   "key": "bae2336f5c15159b91f429ba3015a3d702184c27"
  },
  {
@@ -27077,7 +27294,7 @@
    "cvss": 6.1,
    "ref": "https://github.com/imzbf/md-editor-v3/commit/2c07360420e74087f5bc63032ab155d93e0a0b10"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84992 — md-editor-v3 là trình chỉnh sửa Markdown cho Vue 3 được phát triển bằng JSX và TypeScript",
   "key": "23435cbb788313f29abe08123390cbf63ddc115a"
  },
  {
@@ -27095,7 +27312,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/moquette-io/moquette/commit/e23df019f6a11e22c7d2047d4f86d07095466c97"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-85058 — Moquette là một nhà môi giới Java MQTT nhẹ",
   "key": "17c93d295cf7a01921cdf7ca0cf6bc77783934ea"
  },
  {
@@ -27113,7 +27330,7 @@
    "cvss": 8.2,
    "ref": "https://github.com/flyfish-dev/file-viewer/commit/ef045680f8d9830a3eee9612f7df46a734361b07"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-91127 — Trình xem tệp là trình xem gốc trình duyệt cho Office, PDF, CAD, lưu trữ và các tệp khác trong các ứng dụng web riêng tư và nội bộ",
   "key": "2c7f1e96814d1d3415938048464600682aed69f9"
  },
  {
@@ -27131,7 +27348,7 @@
    "cvss": 9.1,
    "ref": "https://github.com/ultravioletrs/cocos/releases/tag/v0.9.0"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-92701 - môi trường thực thi đáng tin cậy",
   "key": "1a9ab9135d5682335b3539214e006b3edfc0aea6"
  },
  {
@@ -27150,7 +27367,7 @@
    "cvss": 9.1,
    "ref": "https://github.com/ultravioletrs/cocos/commit/80bf813c48300f02259b338b91f844c71be582ea"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-92702 - Cocos AI là một hệ thống máy tính bí mật để chạy khối lượng công việc AI trong môi trường thực thi đáng tin cậy",
   "key": "dfb4ccfedf145cf5638603800045f81cbaebbb42"
  },
  {
@@ -27168,7 +27385,7 @@
    "cvss": 5.0,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-92745"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-92745 — Một lỗ hổng đã được tìm thấy trong buồng lái-máy",
   "key": "bac1811d989794441e6783bce8b0ea5e9fa3aaad"
  },
  {
@@ -27187,7 +27404,7 @@
    "cvss": 5.0,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-92747"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-92747 — Một lỗ hổng đã được tìm thấy trong `buồng lái-máy`",
   "key": "2fb49a74a1149ce7b5e9b35308e6f9c6efbfd0a8"
  },
  {
@@ -27206,7 +27423,7 @@
    "cvss": 5.5,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-92768"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-92768 — Một lỗ hổng đã được tìm thấy trong buồng lái-máy",
   "key": "3ce53a0e3f3d52bfbcc9888948ea0add1da2fe1e"
  },
  {
@@ -27224,7 +27441,7 @@
    "cvss": 6.1,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-93432"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93432 — Một lỗ hổng đã được tìm thấy trong công cụ mẫu Quarkus Qute",
   "key": "0645c6d43a1c4a73a9a743da8800e749f6d1818d"
  },
  {
@@ -27243,7 +27460,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/kornelski/http-cache-semantics"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93748 — http-cache-semantics qua 4",
   "key": "6df8c379ff81b342d2dd8c525f3668b16b6dd406"
  },
  {
@@ -27261,7 +27478,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/7rulnik/source-map-js"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93749 — source-map-js đến 1",
   "key": "af4dfff5e99ffdf8cc398810387eaca25e04c01e"
  },
  {
@@ -27279,7 +27496,7 @@
    "cvss": 5.9,
    "ref": "https://github.com/kornelski/http-cache-semantics"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93750 — http-cache-semantics qua 4",
   "key": "3b564fa482ec2005c2bdeec28ff755114d0e4776"
  },
  {
@@ -27297,7 +27514,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/garycourt/uri-js"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93751 — uri-js qua 4",
   "key": "9d0d43df5b2947f4adfce5de9a01c7f916ff3070"
  },
  {
@@ -27315,7 +27532,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/NV/CSSOM"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93752 — CSSOM đến 0",
   "key": "bf9cbdcd06132af238b444484ee9ae43ddac06c1"
  },
  {
@@ -27351,7 +27568,7 @@
    "cvss": 8.6,
    "ref": "https://jira.mongodb.org/browse/MONGOID-5993"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93759 — Mongoid không trung hòa tiêu chí truy vấn kiểu chuỗi được cung cấp cho trình tạo truy vấn của nó và thay vào đó chuyển nó vào cơ sở dữ liệu dưới dạng JavaS phía máy chủ",
   "key": "056173758e833f290bc9bb50a28203376ab6d8c0"
  },
  {
@@ -27370,7 +27587,7 @@
    "cvss": 8.2,
    "ref": "https://jira.mongodb.org/browse/MONGOID-5994"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93760 - Mongoid không hạn chế những toán tử truy vấn nào có thể đến từ dữ liệu bộ lọc do người gọi cung cấp khi một ứng dụng trao dữ liệu đó cho tôi xây dựng truy vấn của nó",
   "key": "8eec19f83ea6b22bc68bb1b310c729ac7ecec26a"
  },
  {
@@ -74029,224 +74246,5 @@
   },
   "title_vi": "",
   "key": "a02913e9481b8f5940b04eca0e972cd653795d66"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-92729 — SigNoz versions 0",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-92729",
-  "published": "2026-09-16T19:18:06.833",
-  "summary": "SigNoz versions 0.88.0 through 0.141.0 fail to apply authorization wrappers to trace-funnel analytics endpoints in the HTTP handler. Unauthenticated attackers can submit arbitrary funnel definitions to retrieve trace analytics including identifiers, durations, span counts, service topology, and error activity without credentials.",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-92729",
-   "cvss": 8.2,
-   "ref": "https://github.com/SigNoz/signoz"
-  },
-  "title_vi": "",
-  "key": "f8960e8c5fcf5885806de919691ecc2292d30524"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-20130 — As part of Cisco's ongoing commitment to proactive security and product quality, the Cisco Identity Services Engine (ISE) and Cisco ISE Passive Identi",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20130",
-  "published": "2026-09-16T20:17:21.607",
-  "summary": "As part of Cisco's ongoing commitment to proactive security and product quality, the Cisco Identity Services Engine (ISE) and Cisco ISE Passive Identity Connector (ISE-PIC), engineering teams have conducted a comprehensive internal security review. This review resulted in a software hardening release that addresses multiple internally discovered vulnerabilities.\r\n\r\nThe vulnerabilities tracked by CVE-2026-20130 are related to improper neutralization of special elements issues that are grouped under the Common Weakness Enumeration (CWE) Pillar CWE-74.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-20130",
-   "cvss": 10.0,
-   "ref": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-ise-XU5EwX5T"
-  },
-  "title_vi": "",
-  "key": "9f890cc7307d25d2d1a2d530d1f87d4b1d793450"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-20176 — A vulnerability in Cisco ISE could allow an authenticated, remote attacker to execute arbitrary commands on the underlying operating system of an affe",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20176",
-  "published": "2026-09-16T20:17:21.747",
-  "summary": "A vulnerability in Cisco ISE could allow an authenticated, remote attacker to execute arbitrary commands on the underlying operating system of an affected device. To exploit this vulnerability, the attacker must have valid high-privileged administrative credentials.\r\n\r\nThis vulnerability is due to insufficient validation of user-supplied input. An attacker could exploit this vulnerability by sending a crafted HTTP request to an affected device. A successful exploit could allow the attacker to obtain system-level access to the underlying operating system and then elevate privileges to root. In ",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-20176",
-   "cvss": 9.1,
-   "ref": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-rce-se7bYU57"
-  },
-  "title_vi": "",
-  "key": "763ac77fd1a32861f8b8b2ca5f48cd13279ab2e9"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-20192 — As part of Cisco's ongoing commitment to proactive security and product quality, the Cisco Identity Services Engine (ISE) and Cisco ISE Passive Identi",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20192",
-  "published": "2026-09-16T20:17:21.900",
-  "summary": "As part of Cisco's ongoing commitment to proactive security and product quality, the Cisco Identity Services Engine (ISE) and Cisco ISE Passive Identity Connector (ISE-PIC) engineering teams have conducted a comprehensive internal security review. This review resulted in a software hardening release that addresses multiple internally discovered vulnerabilities.\r\n\r\nThe vulnerabilities tracked by CVE-2026-20192 are related to improper access control issues that are grouped under the Common Weakness Enumeration (CWE) Pillar CWE-284.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-20192",
-   "cvss": 10.0,
-   "ref": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-ise-XU5EwX5T"
-  },
-  "title_vi": "",
-  "key": "bd46e09706a2fa97ee7fee7b96ce963926f7a6bf"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-20194 — As part of Cisco's ongoing commitment to proactive security and product quality, the Cisco Identity Services Engine (ISE) and Cisco ISE Passive Identi",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20194",
-  "published": "2026-09-16T20:17:22.047",
-  "summary": "As part of Cisco's ongoing commitment to proactive security and product quality, the Cisco Identity Services Engine (ISE) and Cisco ISE Passive Identity Connector (ISE-PIC), engineering teams have conducted a comprehensive internal security review. This review resulted in a software hardening release that addresses multiple internally discovered vulnerabilities.\r\n\r\nThe vulnerabilities tracked by CVE-2026-20194 are related to incorrect resource transfer between spheres that are grouped under the Common Weakness Enumeration (CWE) Pillar CWE-669.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-20194",
-   "cvss": 9.1,
-   "ref": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-ise-XU5EwX5T"
-  },
-  "title_vi": "",
-  "key": "1261406d69181b2363b69949e6d9ec1141f7d94e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-20211 — A vulnerability in Cisco ISE could allow an authenticated, remote attacker to execute arbitrary commands on the underlying operating system of an affe",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20211",
-  "published": "2026-09-16T20:17:22.200",
-  "summary": "A vulnerability in Cisco ISE could allow an authenticated, remote attacker to execute arbitrary commands on the underlying operating system of an affected device. To exploit this vulnerability, the attacker must have valid high-privileged administrative credentials.\r\n\r\nThis vulnerability is due to insecure deserialization of Java objects by the affected software. An attacker could exploit this vulnerability by sending a crafted serialized Java object to an affected device. A successful exploit could allow the attacker to obtain user-level access to the underlying operating system and then elev",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-20211",
-   "cvss": 9.1,
-   "ref": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-rce-se7bYU57"
-  },
-  "title_vi": "",
-  "key": "9ccab55741271a8aa88665c5e8a48ef8c90fcab0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-20237 — As part of Cisco's ongoing commitment to proactive security and product quality, the Cisco Identity Services Engine (ISE) and Cisco ISE Passive Identi",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20237",
-  "published": "2026-09-16T20:17:22.407",
-  "summary": "As part of Cisco's ongoing commitment to proactive security and product quality, the Cisco Identity Services Engine (ISE) and Cisco ISE Passive Identity Connector (ISE-PIC), engineering teams have conducted a comprehensive internal security review. This review resulted in a software hardening release that addresses multiple internally discovered vulnerabilities.\r\n\r\nThe vulnerabilities tracked by CVE-2026-20237 are related to improper input validation issues that are grouped under the Common Weakness Enumeration (CWE) Pillar CWE-20.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-20237",
-   "cvss": 9.1,
-   "ref": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-ise-XU5EwX5T"
-  },
-  "title_vi": "",
-  "key": "8c5dc75220825583af1ddda961d3059684fd786b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-20242 — A vulnerability in the External Database Access feature of Cisco Secure Firewall Management Center (FMC) Software could allow an unauthenticated, remo",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20242",
-  "published": "2026-09-16T20:17:22.697",
-  "summary": "A vulnerability in the External Database Access feature of Cisco Secure Firewall Management Center (FMC) Software could allow an unauthenticated, remote attacker to execute arbitrary commands as&nbsp;root on an affected device.\r\n\r\nThis vulnerability is due to insecure deserialization of a user-supplied Java byte stream from a host that is configured in the external database access list. An attacker could exploit this vulnerability by sending a crafted, serialized Java byte stream to a specific TCP port of an affected device. A successful exploit could allow the attacker to execute arbitrary co",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-20242",
-   "cvss": 9.8,
-   "ref": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-javarce-y2NypXwk"
-  },
-  "title_vi": "",
-  "key": "ab22d0ea124c889ff7cb1eb878eb58f29ee9a755"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-20322 — As part of Cisco's ongoing commitment to proactive security and product quality, the Cisco Nexus Dashboard&nbsp;engineering team has conducted a compr",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20322",
-  "published": "2026-09-16T20:17:23.040",
-  "summary": "As part of Cisco's ongoing commitment to proactive security and product quality, the Cisco Nexus Dashboard&nbsp;engineering team has conducted a comprehensive internal security review. This review resulted in a software hardening release that addresses multiple internally discovered vulnerabilities.\r\n\r\nThe vulnerabilities tracked by CVE-2026-20322 are related to improper access control issues that are grouped under the Common Weakness Enumeration (CWE) CWE-284.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-20322",
-   "cvss": 9.9,
-   "ref": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-ndw1-psFvnrg"
-  },
-  "title_vi": "",
-  "key": "48826ffe62b8734b0ca6c26247b7992c08c09398"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-20324 — A vulnerability in the sftunnel inter-device communication protocol of Cisco Secure Firewall Management Center (FMC) Software could allow an authentic",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20324",
-  "published": "2026-09-16T20:17:23.180",
-  "summary": "A vulnerability in the sftunnel inter-device communication protocol of Cisco Secure Firewall Management Center (FMC) Software could allow an authenticated, remote attacker to execute arbitrary commands as root.\r\n\r\nThis vulnerability exists because a registered sftunnel peer has incorrect permissions to write an arbitrary file to any location on the device. An attacker could exploit this vulnerability by hijacking the sftunnel communication connection or being a valid registered sftunnel peer and sending an sftunnel command to write a malicious file to the disk of an affected device. A successf",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-20324",
-   "cvss": 9.9,
-   "ref": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-sftunn-codex-c3O4Jft2"
-  },
-  "title_vi": "",
-  "key": "86a95167625a8de1f8ebb0fb8371e7d3e357c1a2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-20325 — As part of Cisco's ongoing commitment to proactive security and product quality, the Cisco Nexus Dashboard&nbsp;engineering team has conducted a compr",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20325",
-  "published": "2026-09-16T20:17:23.347",
-  "summary": "As part of Cisco's ongoing commitment to proactive security and product quality, the Cisco Nexus Dashboard&nbsp;engineering team has conducted a comprehensive internal security review. This review resulted in a software hardening release that addresses multiple internally discovered vulnerabilities.\r\n\r\nThe vulnerabilities tracked by CVE-2026-20325 are related to improper neutralization of special elements used in a command issue that are grouped under the Common Weakness Enumeration (CWE) CWE-77.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-20325",
-   "cvss": 9.9,
-   "ref": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-ndw1-psFvnrg"
-  },
-  "title_vi": "",
-  "key": "5cbd5df2028b8d64c62ed311eacad58db2f90471"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-20326 — As part of Cisco's ongoing commitment to proactive security and product quality, the Cisco Nexus Dashboard engineering team has conducted a comprehens",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20326",
-  "published": "2026-09-16T20:17:23.480",
-  "summary": "As part of Cisco's ongoing commitment to proactive security and product quality, the Cisco Nexus Dashboard engineering team has conducted a comprehensive internal security review. This review resulted in a software hardening release that addresses multiple internally discovered vulnerabilities.\r\n\r\nThe vulnerabilities tracked by CVE-2026-20326 are related to missing authentication for critical function issues that are grouped under the Common Weakness Enumeration (CWE) CWE-306.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-20326",
-   "cvss": 9.8,
-   "ref": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-ndw1-psFvnrg"
-  },
-  "title_vi": "",
-  "key": "ef5439a8d92b74d2b08b421c1ca4b67871dca846"
  }
 ]
