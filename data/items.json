@@ -1,6 +1,371 @@
 [
  {
   "source": "VietnamPlus Kinh tế số",
+  "title": "Việt Nam-Canada và cơ hội hợp tác khoa học công nghệ, đổi mới sáng tạo",
+  "link": "https://www.vietnamplus.vn/viet-nam-canada-va-co-hoi-hop-tac-khoa-hoc-cong-nghe-doi-moi-sang-tao-post1137390.vnp",
+  "published": "2026-09-21T02:51:28+00:00",
+  "summary": "Việt Nam có một thị trường lớn cho việc đưa AI vào thực tiễn, với nền kinh tế năng động, dân số trẻ, lực lượng nhân lực công nghệ ngày càng đông và khả năng thử nghiệm mô hình mới tương đối nhanh. Chuyên gia gợi mở cách kết nối hai hệ sinh thái công nghệ Việt Nam - Canada Dấu mốc lịch sử đặc biệt trong quan hệ song phương giữa Việt Nam và Canada Đại sứ Phạm Vinh Quang: Xung lực mới cho quan hệ Việt Nam-Canada",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "06cda7d41d62926a4397428bdd069d7d8cbc8e1c"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Phát triển nguồn nhân lực và văn hóa an ninh mạng trong PETROVIETNAM",
+  "link": "https://www.vietnamplus.vn/phat-trien-nguon-nhan-luc-va-van-hoa-an-ninh-mang-trong-petrovietnam-post1137371.vnp",
+  "published": "2026-09-21T02:13:00+00:00",
+  "summary": "Mỗi cán bộ, kỹ sư, chuyên gia vận hành hay nhân sự của nhà thầu đều có thể trở thành một mắt xích trong hệ thống phòng thủ mạng.&nbsp;Nếu thiếu nhận thức, kỹ năng hoặc kỷ luật tuân thủ, một sai sót nhỏ cũng có thể mở đường cho sự cố lớn. Petrovietnam-Hà Tĩnh: Cộng hưởng nguồn lực, kiến tạo cực tăng trưởng mới PetroVietnam đóng góp quan trọng vào ổn định kinh tế vĩ mô, các cân đối lớn của nền kinh tế Kiến tạo động lực tăng trưởng mới cho Petrovietnam",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "e0559808c877800e951d21e5dcee06cad8d7d61b"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Nhìn lại hơn 10 ngày chấn động ngành AI: Nỗi sợ hãi AI vượt tầm kiểm soát",
+  "link": "https://www.vietnamplus.vn/nhin-lai-hon-10-ngay-chan-dong-nganh-ai-noi-so-hai-ai-vuot-tam-kiem-soat-post1137364.vnp",
+  "published": "2026-09-21T01:36:34+00:00",
+  "summary": "Chuỗi sự kiện dồn dập kéo dài suốt 10 ngày qua đã khiến các nhà phát triển AI lớn nhất thế giới phải bàng hoàng khi chính những sản phẩm do họ tạo ra được cho là đang đe dọa sự tồn vong của nhân loại. Gemini “hack” mật khẩu, xâm nhập thành công 3 hệ thống trong thử nghiệm Nvidia dự kiến tăng gấp đôi doanh số chip do nhu cầu AI tăng mạnh Việt Nam mong muốn cùng Trung Quốc và ASEAN đóng góp vào tương lai AI an toàn",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "d5f57e66030ad0f86a9c8b191f0a50d39538e430"
+ },
+ {
+  "source": "GenK",
+  "title": "Con trai nghiện ma túy, người mẹ kiện ChatGPT",
+  "link": "https://genk.vn/con-trai-nghien-ma-tuy-nguoi-me-kien-chatgpt-165260921071510933.chn",
+  "published": "2026-09-21T03:14:53.619988+00:00",
+  "summary": "Leila Turner-Scott kiện ChatGPT sau khi con trai cô tử vong vì sốc ma túy, cho rằng chatbot đã cung cấp thông tin sai lệch về an toàn khi ủng hộ con mình nghiện.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "eee4fafe66414c44333c7c908bd94b26f364af28"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94090 — A security flaw has been discovered in JusticeRage Manalyze 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94090",
+  "published": "2026-09-20T22:16:30.703",
+  "summary": "A security flaw has been discovered in JusticeRage Manalyze 1.0.0. The affected element is the function PE::_parse_debug of the file manape/pe.cpp of the component PE Parser. The manipulation of the argument misc.Length results in integer underflow. The attack may be performed from remote. The patch is identified as 3e299685759f4f767088871de58c5d07f98ee382. A patch should be applied to remediate this issue.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94090",
+   "cvss": 6.3,
+   "ref": "https://github.com/JusticeRage/Manalyze/"
+  },
+  "title_vi": "CVE-2026-94090 — Một lỗ hổng bảo mật đã được phát hiện trong JusticeRage Manalyze 1",
+  "key": "484267059923698fead448004e258e11c862d8b8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94091 — A weakness has been identified in piskvorky gensim up to 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94091",
+  "published": "2026-09-20T23:17:02.977",
+  "summary": "A weakness has been identified in piskvorky gensim up to 4.4.0. The impacted element is the function Load of the file gensim/utils.py of the component Model Loader. This manipulation of the argument fname causes deserialization. It is possible to initiate the attack remotely. The exploit has been made available to the public and could be used for attacks. Maintainer closed #3663 same-day with no comment, PR, or fix; repo's last push (2025-11-01) predates the report, so the unsafe pickle.load in SaveLoad.load remains unguarded at develop HEAD.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94091",
+   "cvss": 5.5,
+   "ref": "https://github.com/piskvorky/gensim/"
+  },
+  "title_vi": "CVE-2026-94091 — Một điểm yếu đã được xác định trong piskvorky gensim lên đến 4",
+  "key": "8fc8dc5604198d8b818cdfc4588dc11a055697a4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94092 — A vulnerability was detected in dmlc dgl up to 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94092",
+  "published": "2026-09-20T23:17:03.160",
+  "summary": "A vulnerability was detected in dmlc dgl up to 2.1.0. This impacts the function load_info/_read_torch_data of the file utils.py. Performing a manipulation of the argument path results in deserialization. The attack can be initiated remotely. The exploit is now public and may be used. The project was informed of the problem early through an issue report but has not responded yet.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94092",
+   "cvss": 5.5,
+   "ref": "https://github.com/dmlc/dgl/"
+  },
+  "title_vi": "CVE-2026-94092 — Một lỗ hổng đã được phát hiện trong dmlc dgl lên đến 2",
+  "key": "9012024af2a9415ba4804c7e4eb863bc1ba79de2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94093 — A security vulnerability has been detected in DLR-RM stable-baselines3 up to 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94093",
+  "published": "2026-09-20T23:17:03.343",
+  "summary": "A security vulnerability has been detected in DLR-RM stable-baselines3 up to 2.9.0. This affects the function PPO.load/load_replay_buffer/VecNormalize.load of the file save_util.py. Such manipulation leads to deserialization. It is possible to launch the attack remotely. The exploit has been disclosed publicly and may be used. In v2.9.0 the PyTorch tensor load path is hardened (weights_only=True), but that hardening was later reverted on master via PR #1913 \"Hotfix: revert loading with weights_only=True\" [blocked] to fix PyTorch 1.13 compat - so even the one \"safe\" path is inconsistent across ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94093",
+   "cvss": 6.3,
+   "ref": "https://github.com/DLR-RM/stable-baselines3/"
+  },
+  "title_vi": "CVE-2026-94093 - Một lỗ hổng bảo mật đã được phát hiện trong các đường cơ sở ổn định DLR-RM3 lên đến 2",
+  "key": "b25838cd4dc59ffde37564d67aa76f15ab7714fd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94094 — A flaw has been found in OpenClaw up to 2026",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94094",
+  "published": "2026-09-20T23:17:03.530",
+  "summary": "A flaw has been found in OpenClaw up to 2026.9.5. Affected is the function createCanvasHostHandler of the file extensions/canvas/src/host/server.ts of the component Canvas Host Route. Executing a manipulation can lead to denial of service. The attack can be launched remotely. The exploit has been published and may be used. Fix suggestion's \"streaming/size-limit\" was never shipped - latest 2026.9.5 still buffers the whole file via readFile() (src/canvas/serve.runtime.ts:17,114), unlike the sibling WS path which caps at 64KB. The vendor was contacted early about this disclosure.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94094",
+   "cvss": 4.3,
+   "ref": "https://github.com/lche511/cve/tree/main/OpenClaw_Canvas_Big_GET_DoS_Report"
+  },
+  "title_vi": "CVE-2026-94094 — Một lỗ hổng đã được tìm thấy trong OpenClaw đến năm 2026",
+  "key": "9a382f59fe3efbadb19adfadde4713c8e118982c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94095 — A vulnerability has been found in Netcore NBR200V2 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94095",
+  "published": "2026-09-21T00:16:59.440",
+  "summary": "A vulnerability has been found in Netcore NBR200V2 1.3.241127.071246. Affected by this vulnerability is an unknown functionality of the file /usr/bin/network_tools of the component Traceroute Diagnostic Feature. The manipulation of the argument url leads to command injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94095",
+   "cvss": 9.9,
+   "ref": "https://app.notion.com/p/Netcore-NBR200V2-Vul-3-39f797159f15802296c7f6e110363435"
+  },
+  "title_vi": "CVE-2026-94095 — Một lỗ hổng đã được tìm thấy trong Netcore NBR200V2 1",
+  "key": "2e7f030b3dbd508c6bc3d715a42b4c0ed914d240"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94096 — A vulnerability was found in Netcore NBR200V2 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94096",
+  "published": "2026-09-21T00:16:59.617",
+  "summary": "A vulnerability was found in Netcore NBR200V2 1.3.241127.071246. Affected by this issue is some unknown functionality of the file /usr/bin/network_tools of the component LAN IP Configuration Handler. The manipulation of the argument ipv4 results in command injection. The attack may be launched remotely. The exploit has been made public and could be used. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94096",
+   "cvss": 9.9,
+   "ref": "https://app.notion.com/p/Netcore-NBR200V2-Vul-4-39f797159f158004b8baf1bbf3b956ca"
+  },
+  "title_vi": "CVE-2026-94096 — Một lỗ hổng đã được tìm thấy trong Netcore NBR200V2 1",
+  "key": "14d2a1ac43e23dca3108a08b3c7676d7f824beec"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94097 — A vulnerability was determined in Netcore NBR200V2 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94097",
+  "published": "2026-09-21T00:16:59.793",
+  "summary": "A vulnerability was determined in Netcore NBR200V2 1.3.241127.071246. This affects an unknown part of the file /www/cgi-bin/network_tools of the component CGI Diagnostic Endpoint. This manipulation of the argument param/key/val causes command injection. Remote exploitation of the attack is possible. The exploit has been publicly disclosed and may be utilized. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94097",
+   "cvss": 10.0,
+   "ref": "https://app.notion.com/p/Netcore-NBR200V2-Vul-5-39f797159f15809dbc06d2d3ae6b1f04"
+  },
+  "title_vi": "CVE-2026-94097 — Lỗ hổng được xác định trong Netcore NBR200V2 1",
+  "key": "482cc6a26178182a85709a55c67ecc466f610b0d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94098 — A vulnerability was identified in Netcore NBR200V2 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94098",
+  "published": "2026-09-21T01:16:29.800",
+  "summary": "A vulnerability was identified in Netcore NBR200V2 1.3.241127.071246. This vulnerability affects unknown code of the file /www/cgi-bin/upgrade of the component Firmware Upgrade CGI Endpoint. Such manipulation of the argument QUERY_STRING leads to command injection. The attack can be executed remotely. The exploit is publicly available and might be used. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94098",
+   "cvss": 9.1,
+   "ref": "https://app.notion.com/p/Netcore-NBR200V2-Vul-6-39f797159f1580259aa3cc1d0f512fde"
+  },
+  "title_vi": "CVE-2026-94098 — Một lỗ hổng đã được xác định trong Netcore NBR200V2 1",
+  "key": "311fb402168a5618603cba9b6955c9eb0d620e78"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94099 — A security flaw has been discovered in Netcore NBR200V2 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94099",
+  "published": "2026-09-21T01:16:29.983",
+  "summary": "A security flaw has been discovered in Netcore NBR200V2 1.3.241127.071246. This issue affects some unknown processing of the file restore.cgi of the component Backup Restore. Performing a manipulation of the argument QUERY_STRING results in command injection. The attack is possible to be carried out remotely. The exploit has been released to the public and may be used for attacks. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94099",
+   "cvss": 9.9,
+   "ref": "https://app.notion.com/p/Netcore-NBR200V2-Vul-7-39f797159f158028ab02c136450d87e4"
+  },
+  "title_vi": "CVE-2026-94099 — Một lỗ hổng bảo mật đã được phát hiện trong Netcore NBR200V2 1",
+  "key": "8b3fd12f98066f12a80be323153cb30a830e7c50"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94100 — A weakness has been identified in Netcore NBR200V2 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94100",
+  "published": "2026-09-21T01:16:30.170",
+  "summary": "A weakness has been identified in Netcore NBR200V2 1.3.241127.071246. Impacted is the function wan_config_set_vlan of the file /usr/bin/routerd of the component WAN VLAN Reconfiguration. Executing a manipulation of the argument vlan_wanX.ports can lead to buffer overflow. The attack may be performed from remote. The exploit has been made available to the public and could be used for attacks. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94100",
+   "cvss": 9.9,
+   "ref": "https://app.notion.com/p/Netcore-NBR200V2-Vul-8-39f797159f158003ad3eff2fd36342b6"
+  },
+  "title_vi": "CVE-2026-94100 — Một điểm yếu đã được xác định trong Netcore NBR200V2 1",
+  "key": "c1ce0893d678442f6f5b9ff15c1df94765689efe"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94101 — A security vulnerability has been detected in Netcore NBR200V2 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94101",
+  "published": "2026-09-21T02:16:53.317",
+  "summary": "A security vulnerability has been detected in Netcore NBR200V2 1.3.241127.071246. The affected element is the function vlan_load_form_uci of the file /usr/bin/routerd. The manipulation of the argument wan_num leads to buffer overflow. It is possible to initiate the attack remotely. The exploit has been disclosed publicly and may be used. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94101",
+   "cvss": 9.9,
+   "ref": "https://app.notion.com/p/Netcore-NBR200V2-Vul-9-39f797159f1580668db9e8df031dbdd5"
+  },
+  "title_vi": "CVE-2026-94101 — Một lỗ hổng bảo mật đã được phát hiện trong Netcore NBR200V2 1",
+  "key": "3671788ef2846a1ba7bfb5d3fafd9b9c71163cbd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94102 — A flaw has been found in WuzhiCMS up to 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94102",
+  "published": "2026-09-21T02:16:53.490",
+  "summary": "A flaw has been found in WuzhiCMS up to 4.1.0. This affects an unknown function of the file /index.php?m=member&v=Login of the component Login. This manipulation of the argument forward causes open redirect. The attack can be initiated remotely. The exploit has been published and may be used. The only sanitization is remove_xss(), an XSS keyword/entity scrubber. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94102",
+   "cvss": 4.3,
+   "ref": "https://github.com/ArrestX/wuzhicms-advisories/blob/main/advisories/VULN-021-member-open-redirect.md"
+  },
+  "title_vi": "CVE-2026-94102 — Một lỗ hổng đã được tìm thấy trong WuzhiCMS lên đến 4",
+  "key": "853d054aeedc01ef0751f3a672244442079fc8c3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94103 — A vulnerability has been found in RooCMS up to 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94103",
+  "published": "2026-09-21T02:16:53.673",
+  "summary": "A vulnerability has been found in RooCMS up to 1.2.2/1.3.4/1.4RC2. This impacts the function eval of the file roocms/site_pagePHP.php of the component Frontend Rendering. Such manipulation of the argument content leads to code injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94103",
+   "cvss": 4.7,
+   "ref": "https://github.com/boyslikesports/202607_vul_dir/blob/main/RooCMS-C1-EN.md"
+  },
+  "title_vi": "CVE-2026-94103 — Một lỗ hổng đã được tìm thấy trong RooCMS lên đến 1",
+  "key": "c9aa3d32490194f5e25471994581e086b5db9641"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94110 — A security vulnerability has been detected in QCMS up to 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94110",
+  "published": "2026-09-21T02:16:53.853",
+  "summary": "A security vulnerability has been detected in QCMS up to 6.0.6. This issue affects the function self_Tmp in the library Lib/Config/Controllers.php of the component Content Detail Page. Such manipulation of the argument ID leads to sql injection. The attack may be performed from remote. The exploit has been disclosed publicly and may be used. Router uses raw REQUEST_URI without URL decoding, so payloads must contain literal spaces - %20 never decodes before route parsing. The support team of the vendor was contacted early about this disclosure. Unfortunately, they responded just with profanity.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94110",
+   "cvss": 7.3,
+   "ref": "https://github.com/yukino06/CVE/issues/1"
+  },
+  "title_vi": "CVE-2026-94110 — Một lỗ hổng bảo mật đã được phát hiện trong QCMS lên đến 6",
+  "key": "0a25e959a24cf4a012157079373d8b92d00f11e0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94128 — A security vulnerability has been detected in BioStar VIVID LED DJ 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94128",
+  "published": "2026-09-21T02:16:54.037",
+  "summary": "A security vulnerability has been detected in BioStar VIVID LED DJ 4.0.2411.1500. This affects the function sub_1105C of the file BS_LED64.sys of the component IOCTL Handler. The manipulation of the argument AssociatedIrp leads to write-what-where condition. Local access is required to approach this attack. The exploit has been disclosed publicly and may be used. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94128",
+   "cvss": 8.8,
+   "ref": "https://vuldb.com/cve/CVE-2026-94128"
+  },
+  "title_vi": "CVE-2026-94128 — Một lỗ hổng bảo mật đã được phát hiện trong BioStar VIVID LED DJ 4",
+  "key": "4b29e20f4635b74e34201a8218465d11e8ee4f49"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94129 — A vulnerability was detected in BioStar VALKYRIE AURORA 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94129",
+  "published": "2026-09-21T02:16:54.213",
+  "summary": "A vulnerability was detected in BioStar VALKYRIE AURORA 2.10.2411.0800. This vulnerability affects the function sub_1105C of the file BS_RVSIO64.sys of the component IOCTL Handler. The manipulation of the argument PhysicalAddress results in write-what-where condition. The attack needs to be approached locally. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94129",
+   "cvss": 8.8,
+   "ref": "https://vuldb.com/cve/CVE-2026-94129"
+  },
+  "title_vi": "CVE-2026-94129 — Một lỗ hổng đã được phát hiện trong BioStar VALKYRIE AURORA 2",
+  "key": "27c9ede62aab1b98f2e4aea00551a138d3d2fb4d"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
   "title": "Tấn công quy mô lớn bằng UAV vào thủ đô Nga, âm mưu phá hỏng cuộc bầu cử Hạ viện",
   "link": "https://www.vietnamplus.vn/tan-cong-quy-mo-lon-bang-uav-vao-thu-do-nga-am-muu-pha-hong-cuoc-bau-cu-ha-vien-post1137330.vnp",
   "published": "2026-09-20T21:45:15+00:00",
@@ -24958,7 +25323,7 @@
    "cvss": 6.5,
    "ref": "https://www.ibm.com/support/pages/node/7286014"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-33141 — IBM QRadar 7",
   "key": "9ce0e247e99c5c5d8b36b95f6d030bf119466dac"
  },
  {
@@ -24976,7 +25341,7 @@
    "cvss": 5.9,
    "ref": "https://www.ibm.com/support/pages/node/7287209"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-33147 — IBM Cognos Analytics 12",
   "key": "3b8a5abe298edd2020a93b802da7f02f6e21407d"
  },
  {
@@ -24994,7 +25359,7 @@
    "cvss": 4.3,
    "ref": "https://www.ibm.com/support/pages/node/7287022"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-36045 — IBM TS4300 1",
   "key": "ec7ff1baeda64fb141c7ad2978e0cd4fba8089ce"
  },
  {
@@ -25012,7 +25377,7 @@
    "cvss": 4.3,
    "ref": "https://www.ibm.com/support/pages/node/7287209"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-36076 — IBM Cognos Analytics 12",
   "key": "6aac4b8514de6a3612d4cfa11f240406b1382444"
  },
  {
@@ -26065,7 +26430,7 @@
    "cvss": 4.0,
    "ref": "https://github.com/strukturag/libheif/commit/646d85fbf5bd18fc3cdc516e915e59072de2d510"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84448 — libheif là bộ giải mã và mã hóa định dạng tệp HEIF và AVIF",
   "key": "b7d9aa51d1313ce210d4e29bd4427663af943e5f"
  },
  {
@@ -26083,7 +26448,7 @@
    "cvss": 3.7,
    "ref": "https://github.com/strukturag/libheif/commit/e29953da30eb11aa1762df0bff3b36be4b22fbe3"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84449 — libheif là bộ giải mã và mã hóa định dạng tệp HEIF và AVIF",
   "key": "66528b19360efc5df5c54d6304b735e8c6db8677"
  },
  {
@@ -28044,7 +28409,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Các quốc gia hành động đối với nhân viên CNTT của Triều Tiên sau báo cáo của Liên Hợp Quốc",
   "key": "b953af14e3670e268331922549ff1d8b5b80e75d"
  },
  {
@@ -28073,7 +28438,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Trong các tin tức khác: Nhà phát triển ransomware bị kết án, Tấn công bằng Plugin4Shell AI, Lỗ hổng nghiêm trọng của SAP",
   "key": "2d396593542c62562362effbb299cced805a4261"
  },
  {
@@ -28158,7 +28523,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Bộ lạc trong suốt triển khai Backdoor Rust mới bằng cách sử dụng kho lưu trữ GitHub riêng cho C2",
   "key": "ac089bcf4168ed161ea764826b1c54bfc528a57d"
  },
  {
@@ -32110,7 +32475,7 @@
    "cvss": 4.4,
    "ref": "https://github.com/rustls/webpki/security/advisories/GHSA-pwjx-qhcg-rvj4"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93602 — phiên bản rustls-webpki trước 0",
   "key": "449f25d6108b87918d2502fa9f08bacaaac0467f"
  },
  {
@@ -32128,7 +32493,7 @@
    "cvss": 10.0,
    "ref": "https://github.com/patriksimek/vm2/security/advisories/GHSA-j89j-5m6r-cr2q"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93603 — vm2 đến 3",
   "key": "975f46c317c08711431817609f7b88c4910ae9b0"
  },
  {
@@ -32146,7 +32511,7 @@
    "cvss": 7.2,
    "ref": "https://github.com/patriksimek/vm2/security/advisories/GHSA-x3v6-43hc-82mc"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93604 — vm2 đến 3",
   "key": "1aa2c12e3b2e62f8b509be973d68c9abc4bff0f9"
  },
  {
@@ -32164,7 +32529,7 @@
    "cvss": 10.0,
    "ref": "https://github.com/patriksimek/vm2/security/advisories/GHSA-pq68-rvw4-xp4r"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93605 — vm2 Phiên bản NodeVM trước 3",
   "key": "1a599eca3666d1680193976637f6fdca5de723df"
  },
  {
@@ -32182,7 +32547,7 @@
    "cvss": 10.0,
    "ref": "https://github.com/patriksimek/vm2/security/advisories/GHSA-6454-5x88-m6jw"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93606 — vm2 (npm) phiên bản 3",
   "key": "d99eeab0b75fb520ed7535e3699bcd9b526ae47a"
  },
  {
@@ -32236,7 +32601,7 @@
    "cvss": 5.3,
    "ref": "https://www.ibm.com/support/pages/node/7287970"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2025-1350 — Bộ điều khiển IBM 11",
   "key": "28a8fec7c0502353d9904df29dc800aeac505c2a"
  },
  {
@@ -32254,7 +32619,7 @@
    "cvss": 5.9,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-10832"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-10832 — Một lỗ hổng đã được tìm thấy trong lớp DERDecoder trong wildfly-elytron-asn1",
   "key": "47ac9bc761c1572bc7bff5b8c651e7fdd320d63c"
  },
  {
@@ -32272,7 +32637,7 @@
    "cvss": 3.1,
    "ref": "https://github.com/zephyrproject-rtos/zephyr/commit/84eaf32c9301e911ad038a057f447a7836a2a2f8"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-16512 — gptp_handle_msg() trong subsys/net/l2/ethernet/gptp/gptp",
   "key": "002931ce465bd264046029885be87fbb134c076a"
  },
  {
@@ -32290,7 +32655,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/zephyrproject-rtos/zephyr/commit/a2c882db7a57cf08a06b4d27bead22b07a9c3c61"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-16514 — gptp_mi_qualify_announce() trong subsys/net/l2/ethernet/gptp/gptp_mi",
   "key": "01dc0c593365bb70e2102aeb3cbd799e24e8f23e"
  },
  {
@@ -32308,7 +32673,7 @@
    "cvss": 4.7,
    "ref": "https://github.com/zephyrproject-rtos/zephyr/commit/ba4247b24ddd3a5360b617e3ca17131ca9e8026a"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-16515 — net_icmpv6_send_error() trong subsys/net/ip/icmpv6",
   "key": "47617706d9d5018f76fb3a05772eafaf05bccb05"
  },
  {
@@ -32326,7 +32691,7 @@
    "cvss": 4.4,
    "ref": "https://help.zscaler.com/zia/release-upgrade-summary-2026"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-25684 — Sự cố phân bổ loại tệp trong quy tắc đánh giá Kiểm soát loại tệp truy cập Internet của Zscaler có thể cho phép đánh giá không chính xác chính sách Kiểm soát loại tệp",
   "key": "6231be6a88afb279a61a53dde3cdd4dfae496f71"
  },
  {
@@ -32344,7 +32709,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/MacWarrior/clipbucket-v5/commit/136dd2e4e73123f137478c72308e8c1d7be45a97"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-77927 — ClipBucket v5 trước 5",
   "key": "8629791fa183eda48a83377c14eabd8295757ab0"
  },
  {
@@ -32362,7 +32727,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/MacWarrior/clipbucket-v5/commit/85907c5fd1205ccae98c214bed4b3421c632f90c"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-77928 — ClipBucket v5 trước 5",
   "key": "09ea844785d93509c09a5d0db0b640172de9467c"
  },
  {
@@ -32380,7 +32745,7 @@
    "cvss": 8.8,
    "ref": "https://github.com/MacWarrior/clipbucket-v5/commit/61cce55ab26ef88fb782dfde47b44c17c56978cd"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-77929 — ClipBucket v5 trước 5",
   "key": "e000d33e4ef7dfadf77909827913e8c1ede948e4"
  },
  {
@@ -32398,7 +32763,7 @@
    "cvss": 4.2,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-85511"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-85511 — Một lỗ hổng đã được tìm thấy trong Elytron của EAP",
   "key": "dac74bca4b386a45143afce077e5b0bc51667b87"
  },
  {
@@ -32416,7 +32781,7 @@
    "cvss": 3.5,
    "ref": "https://github.com/SveltyCMS/SveltyCMS/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93505 — Một lỗ hổng đã được tìm thấy trong SveltyCMS 0",
   "key": "df57b28cbf09ce82c61f004ae5eb42ab30e80a95"
  },
  {
@@ -32434,7 +32799,7 @@
    "cvss": 6.3,
    "ref": "https://github.com/SveltyCMS/SveltyCMS/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93506 — Một lỗ hổng đã được xác định trong SveltyCMS 0",
   "key": "8ffbf5c66a5b3578d4a43d60a86324a784bde950"
  },
  {
@@ -32452,7 +32817,7 @@
    "cvss": 7.5,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-93558"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93558 - Tăng trưởng hàng đợi mỗi kết nối không giới hạn trong WebSocketServerExtensionHandler dẫn đến từ chối dịch vụ",
   "key": "9657e1c476ff443cb45459618fbf20785fe4cf37"
  },
  {
@@ -32471,7 +32836,7 @@
    "cvss": 7.5,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-93564"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93564 — HAProxy PROXY-v2 lồng nhau-TLV cháu ByteBuf tham khảo-count rò rỉ (sửa chữa không đầy đủ PR #16881)",
   "key": "7600b2004bd94df32822699efa5a78cbc37fabb1"
  },
  {
@@ -32489,7 +32854,7 @@
    "cvss": 7.5,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-93565"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93565 — ### Tóm tắt `RtspMethods",
   "key": "ef98b167f503c3b81e71956a2eec6c491f302fd0"
  },
  {
@@ -32507,7 +32872,7 @@
    "cvss": 6.5,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-93566"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93566 — # ## Tóm tắt Netty bỏ qua xác nhận dòng kích thước chunk nghiêm ngặt khi dòng không có phần mở rộng chunk (`;`), do đó, một dòng kích thước chunk chứa một phần trống được nhúng",
   "key": "83e5ad94dd51970fb067b4f4e90d66083b175c5f"
  },
  {
@@ -32525,7 +32890,7 @@
    "cvss": 7.5,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-93567"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93567 — HTTP/1 authority-form CONNECT được dịch sang KẾT nối HTTP/2 không đúng định dạng với Host-controlled :authority",
   "key": "7ce205ddd46466d021126501689cdd97c516a4ca"
  },
  {
@@ -32543,7 +32908,7 @@
    "cvss": 7.5,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-93568"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93568 — Yêu cầu KẾT nối HTTP/2 và HTTP/3 Mở rộng được hạ cấp thành yêu cầu KẾT NỐI thông thường",
   "key": "de295b8661036ee63b64ff7afa31209606c7e5fb"
  },
  {
@@ -32561,7 +32926,7 @@
    "cvss": 8.2,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-93569"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93569 - Sự không phù hợp của Máy chủ dạng tuyệt đối HTTP/1 được dịch sang HTTP/2 :thẩm quyền, ghi đè lên thẩm quyền mục tiêu yêu cầu",
   "key": "5cbb3e52b0a831805f4c2343cf2f15705fcd4310"
  },
  {
@@ -32579,7 +32944,7 @@
    "cvss": 6.5,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-93573"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93573 - Các trường Mã hóa Chuyển tiền phân chia Netty bỏ qua xác thực gói cuối cùng và cho phép chuyển trái phép yêu cầu",
   "key": "d7a55fccd4d4e5dbd2f9ba6e97c4d5086f71c7ec"
  },
  {
@@ -32597,7 +32962,7 @@
    "cvss": 7.5,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-93576"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93576 — Netty netty-codec-smtp - Trường tên lệnh SMTP không được CRLF xác thực (sửa chữa không đầy đủ CVE-2025-59419)",
   "key": "89c3c91226f5515883474f3f4672f42d32509cd3"
  },
  {
@@ -32615,7 +32980,7 @@
    "cvss": 7.5,
    "ref": "https://gitlab.com/d3tn/ud3tn/-/work_items/287"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93652 — Quá tải số nguyên trong µD3TN v0",
   "key": "4f1cb49d0df2a76224f1bb8e32576b8eb8d6eac0"
  },
  {
@@ -32633,7 +32998,7 @@
    "cvss": 5.5,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-93653"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93653 — Một lỗ hổng từ chối dịch vụ đã được tìm thấy trong phần phụ trợ Splash của Poppler",
   "key": "54fa126ab69f16004417e69c1465b8ad53417336"
  },
  {
@@ -32651,7 +33016,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/hickory-dns/hickory-dns"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93657 — phiên bản phân giải hickory trước 0",
   "key": "f8530098e124251d11ebf6e782362e448ba6f5f0"
  },
  {
@@ -32669,7 +33034,7 @@
    "cvss": 7.0,
    "ref": "https://github.com/uutils/coreutils"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93658 — phiên bản coreutils uutils trước 0",
   "key": "ed24067cba0f385665dfa70a9a407d77ce5834b4"
  },
  {
@@ -32687,7 +33052,7 @@
    "cvss": 8.7,
    "ref": "https://github.com/concretecms-community-store/community_store"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93659 — Cửa hàng Cộng đồng Concrete CMS trước 2",
   "key": "2c0ffa1abfc66c83fee6468803aa6efbbdd25f7a"
  },
  {
@@ -32705,7 +33070,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/dataease/SQLBot"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93660 — SQLBot thông qua 1",
   "key": "e71a37461297fd23878a2c90e4a663959189d071"
  },
  {
@@ -32723,7 +33088,7 @@
    "cvss": 3.2,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-93676"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93676 - xdg-dbus-proxy lọc không chính xác các thông báo phát sóng D-Bus, bỏ qua các hạn chế về đường dẫn, giao diện và thành viên được định cấu hình",
   "key": "2a2dc93b4a008b891e2c43b56751eb5da9ae6d8e"
  },
  {
@@ -32741,7 +33106,7 @@
    "cvss": 5.4,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-93685"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93685 — Một lỗ hổng đã được tìm thấy trong addon multicluster-observability-addon",
   "key": "1525990fb91cb2137387afdbc364bdb024c94916"
  },
  {
@@ -73857,386 +74222,5 @@
   },
   "title_vi": "",
   "key": "9ee79f1eed763d89ed0de6943c12305acc54e06c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-63225 — Redocly CLI makes OpenAPI validation, linting, and documentation workflows easier",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63225",
-  "published": "2026-09-16T19:17:24.163",
-  "summary": "Redocly CLI makes OpenAPI validation, linting, and documentation workflows easier. Prior to @redocly/cli 2.33.2, the split command constructs output paths under --outDir from untrusted OpenAPI or AsyncAPI component names and x-codeSamples lang values without verifying that the resolved target remains inside the selected directory. A description containing literal ../ traversal segments in those fields can cause the split command to place or overwrite files outside --outDir. Component data remains constrained to YAML or JSON, and code-sample filenames remain based on the HTTP method, so this is",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-63225",
-   "cvss": 4.4,
-   "ref": "https://github.com/Redocly/redocly-cli/commit/26a0f299fae0b3bb7bd513043d2f1e90e69f79ee"
-  },
-  "title_vi": "",
-  "key": "1eb6422c90b45d854a3365b88f3c8f44113c170f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-63325 — Redocly CLI makes OpenAPI validation, linting, and documentation workflows easier",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63325",
-  "published": "2026-09-16T19:17:24.317",
-  "summary": "Redocly CLI makes OpenAPI validation, linting, and documentation workflows easier. Prior to version 2.33.0 of @redocly/respect-core and @redocly/cli, the respect command dynamically evaluates $faker runtime expressions in Arazzo descriptions. A crafted expression can traverse constructor, prototype, or __proto__ properties in packages/respect-core/src/modules/context-parser/get-value-from-context.ts, reach the JavaScript Function constructor, and execute arbitrary code when a user processes an untrusted description. The executed code runs with the privileges of the CLI process and can execute ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-63325",
-   "cvss": 7.8,
-   "ref": "https://github.com/Redocly/redocly-cli/commit/d26d452368066be1400f43cea915dd9ea508e18b"
-  },
-  "title_vi": "",
-  "key": "ab48eff24d2d8c04f98e85f8d3912c568acc285f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-68536 — Server-Side Request Forgery / Local File Inclusion in Apache MyFace Core",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-68536",
-  "published": "2026-09-16T19:17:25.143",
-  "summary": "Server-Side Request Forgery / Local File Inclusion in Apache MyFace Core.\n\nOlder unsupported versions may also be affected. \n\nUsers are recommended to upgrade to versions 2.3.12, 2.3-next-M9, 3.0.4, 4.0.4, or 4.1.4, which fix this issue.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-68536",
-   "cvss": null,
-   "ref": "https://lists.apache.org/thread/4kwh2dys1sdcm3o4pbk41t2lt9or72qq"
-  },
-  "title_vi": "",
-  "key": "538d8942a6ca7d73f3def09e2ab6402452cc07b7"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-73442 — On affected platforms running Arista EOS with VRRP enabled, the peer device VRRP authentication credentials are logged in cleartext on the switch, all",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73442",
-  "published": "2026-09-16T19:17:31.080",
-  "summary": "On affected platforms running Arista EOS with VRRP enabled, the peer device VRRP authentication credentials are logged in cleartext on the switch, allowing an authenticated user with sufficient privileges to view agent trace logs (or a system receiving forwarded log output) to obtain the peer device VRRP authentication credentials without having access to the network segment on which VRRP is running.",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-73442",
-   "cvss": 3.0,
-   "ref": "https://www.arista.com/en/support/advisories-notices/security-advisory/24713-security-advisory-0157"
-  },
-  "title_vi": "",
-  "key": "5b6019b1d347e2cf777765b55c4638b5b42d4fa3"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-73443 — On affected platforms running Arista EOS with VRRPv2 IP-AH authentication configured, an unauthenticated attacker within the same layer 2 network segm",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73443",
-  "published": "2026-09-16T19:17:31.330",
-  "summary": "On affected platforms running Arista EOS with VRRPv2 IP-AH authentication configured, an unauthenticated attacker within the same layer 2 network segment on which VRRP is running can capture a legitimate authenticated VRRP advertisement and replay it indefinitely. Replayed advertisements can be used to advertise stale VRRP state, for example to prevent a backup router from taking over the virtual gateway after the original master has gone down, resulting in a denial of service for hosts using the virtual gateway address.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-73443",
-   "cvss": 4.7,
-   "ref": "https://www.arista.com/en/support/advisories-notices/security-advisory/24713-security-advisory-0157"
-  },
-  "title_vi": "",
-  "key": "bfbf53e7a4d381d0dc937a6a85ea0182f3137178"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-73456 — Under certain circumstances on affected platforms running Arista EOS with gRPC Network Packet Sampling Interface (gNPSI) enabled, an unauthenticated g",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73456",
-  "published": "2026-09-16T19:17:32.270",
-  "summary": "Under certain circumstances on affected platforms running Arista EOS with gRPC Network Packet Sampling Interface (gNPSI) enabled, an unauthenticated gNPSI client can craft a malicious request to allow arbitrary code execution, granting an attacker full administrative control over the compromised switch.",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-73456",
-   "cvss": 10.0,
-   "ref": "https://www.arista.com/en/support/advisories-notices/security-advisory/24714-security-advisory-0158"
-  },
-  "title_vi": "",
-  "key": "e8fd873ba55c1e3d07817b2b0f0fc79f6cab99f3"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-73457 — Under certain circumstances on affected platforms running Arista EOS with gRPC Network Packet Sampling Interface (gNPSI) enabled, the gNPSI client cre",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73457",
-  "published": "2026-09-16T19:17:32.453",
-  "summary": "Under certain circumstances on affected platforms running Arista EOS with gRPC Network Packet Sampling Interface (gNPSI) enabled, the gNPSI client credentials might be logged in clear text in local or remote accounting logs to authenticated users.",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-73457",
-   "cvss": 5.3,
-   "ref": "https://www.arista.com/en/support/advisories-notices/security-advisory/24714-security-advisory-0158"
-  },
-  "title_vi": "",
-  "key": "1d93797b741e85eaa4975befbbd56c86f0bd3e27"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-73462 — On affected platforms running Arista EOS with IGMP (Internet Group Management Protocol) snooping configured (enabled by default on all VLANs), a netwo",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73462",
-  "published": "2026-09-16T19:17:32.630",
-  "summary": "On affected platforms running Arista EOS with IGMP (Internet Group Management Protocol) snooping configured (enabled by default on all VLANs), a network-adjacent unauthenticated attacker can send malformed network packets on an affected VLAN to cause the IGMP snooping agent to terminate unexpectedly. This results in a temporary disruption of multicast traffic management, which may cause multicast traffic to be flooded to all ports of the affected VLAN until the service recovers. Repeated exploitation could result in a prolonged loss of intended multicast forwarding behavior.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-73462",
-   "cvss": 6.5,
-   "ref": "https://www.arista.com/en/support/advisories-notices/security-advisory/24715-security-advisory-0159"
-  },
-  "title_vi": "",
-  "key": "358d961dbba6264d3faac4a082f4a5ef7835ebf9"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75025 — Mattermost Desktop App versions <=6",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75025",
-  "published": "2026-09-16T19:17:33.430",
-  "summary": "Mattermost Desktop App versions <=6.2 6.2.2.0 Fixed an issue where Mattermost Desktop did not sufficiently restrict server-rendered content from accessing local or private network resources. Thanks to game0v3r for contributing to this improvement under the Mattermost responsible disclosure policy. Mattermost Advisory ID: MMSA-2026-00698",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75025",
-   "cvss": 4.7,
-   "ref": "https://mattermost.com/security-updates"
-  },
-  "title_vi": "",
-  "key": "9f4ced865ab51b291a18dd34c4a880fb6d2c419a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75516 — The RabbitMQ Java client library allows Java and JVM-based applications to connect to and interact with RabbitMQ nodes",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75516",
-  "published": "2026-09-16T19:17:33.560",
-  "summary": "The RabbitMQ Java client library allows Java and JVM-based applications to connect to and interact with RabbitMQ nodes. Prior to 5.34.0, AMQConnection.start() applies Math.min(maxInboundMessageBodySize, frameMax) after Connection.Tune negotiation even though AMQP defines frameMax value zero as unlimited and ConnectionFactory.DEFAULT_FRAME_MAX is zero. When the client default and server-negotiated value are both zero, the result is passed to Utils.framePayloadLimit(int), which interprets zero as Integer.MAX_VALUE and disables the configured maxInboundMessageBodySize cap. A malicious AMQP server",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75516",
-   "cvss": null,
-   "ref": "https://github.com/rabbitmq/rabbitmq-java-client/commit/6d7c2bfe89796ca34d3531098fb59dd657fea39e"
-  },
-  "title_vi": "",
-  "key": "1f24e6d83305bc3a3c49fb050c86c31d42946265"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-77360 — oRPC is an tool that helps build APIs that are end-to-end type-safe and adhere to OpenAPI standards",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77360",
-  "published": "2026-09-16T19:17:38.020",
-  "summary": "oRPC is an tool that helps build APIs that are end-to-end type-safe and adhere to OpenAPI standards. Prior to 1.14.8, the @orpc/server CORS plugin in packages/server/src/plugins/cors.ts copies a client's incoming Vary request header into the response instead of controlling Vary as a response-only header and using Origin for request-origin variation. In deployments behind a shared cache, CDN, or reverse proxy that keys responses using Vary, a client can inject arbitrary variation values, pollute cache keys, and cause inconsistent CORS enforcement for other clients. Default non-cached configurat",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-77360",
-   "cvss": null,
-   "ref": "https://github.com/middleapi/orpc/commit/daabded122a89d323357c4c401e879701864cb2f"
-  },
-  "title_vi": "",
-  "key": "787fb5e0bd2020c158301d89c287fe9e275d7d60"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79298 — An issue in Howyar Technologies Inc SysReturn Versions prior to 11",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79298",
-  "published": "2026-09-16T19:17:41.113",
-  "summary": "An issue in Howyar Technologies Inc SysReturn Versions prior to 11.3.034 and fixed in v.11.3.0.34 allows a local attcker to execute arbitrary code via the BOOTia32.efi and a crafted cloak32.dat file on the ESP.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79298",
-   "cvss": null,
-   "ref": "https://github.com/TheMalwareGuardian/CVE-2026-79298"
-  },
-  "title_vi": "",
-  "key": "fff9f1fafe451c268233959e585487e3e5c786b1"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-81176 — Svelte devalue is a JavaScript library that serializes values into strings when JSON",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81176",
-  "published": "2026-09-16T19:17:43.437",
-  "summary": "Svelte devalue is a JavaScript library that serializes values into strings when JSON.stringify isn't sufficient for the job. Prior to 5.9.2, devalue.parse does not reject out-of-bounds indices that are greater than or equal to values.length in src/parse.js. A specially crafted untrusted payload can make the parser alternate between array representations, producing quadratic work as the payload grows and causing denial of service in applications that parse untrusted devalue data. This issue is fixed in version 5.9.2.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-81176",
-   "cvss": 5.3,
-   "ref": "https://github.com/sveltejs/devalue/commit/8b2a4562c446d7c36d9d629778079a5fae4243e1"
-  },
-  "title_vi": "",
-  "key": "5e21ff3c986092b4dd85502269a8908a0f761f3c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-81875 — HAPI FHIR is a complete implementation of the HL7 FHIR standard for healthcare interoperability in Java",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81875",
-  "published": "2026-09-16T19:17:44.250",
-  "summary": "HAPI FHIR is a complete implementation of the HL7 FHIR standard for healthcare interoperability in Java. Prior to version 6.9.12, SHCParser in org.hl7.fhir.r5/src/main/java/org/hl7/fhir/r5/elementmodel/SHCParser.java can consume attacker-controlled Smart Health Card JWT content whose header contains zip: \"DEF\" and whose small raw-DEFLATE payload expands to a very large value. SHCParser.decodeJWT() passes the decoded payload to SHCParser.inflate(), which accumulates all decompressed bytes in a ByteArrayOutputStream without an output-size limit before JSON parsing, and SHCParser.decompress() con",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-81875",
-   "cvss": 7.5,
-   "ref": "https://github.com/hapifhir/org.hl7.fhir.core/commit/fbb94216e0ad21ded75be77e5e20242ba194e83f"
-  },
-  "title_vi": "",
-  "key": "cef52aa4b44ee381e73ffe1b9a67da85f7b05cd3"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-81876 — HAPI FHIR is a complete implementation of the HL7 FHIR standard for healthcare interoperability in Java",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81876",
-  "published": "2026-09-16T19:17:44.450",
-  "summary": "HAPI FHIR is a complete implementation of the HL7 FHIR standard for healthcare interoperability in Java. Prior to version 6.9.12, SHCParser in org.hl7.fhir.r5/src/main/java/org/hl7/fhir/r5/elementmodel/SHCParser.java can enter an infinite loop while processing attacker-controlled Smart Health Card JWT content whose header contains zip: \"DEF\" and whose raw-DEFLATE payload is empty or truncated. SHCParser.decodeJWT() reaches SHCParser.inflate(), where Inflater.inflate() can return zero while Inflater.finished() remains false and Inflater.needsInput() is true. The loop also lacks an Inflater.need",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-81876",
-   "cvss": 7.5,
-   "ref": "https://github.com/hapifhir/org.hl7.fhir.core/commit/d804558bd77372b1629e55a5b901cad3f5134cdc"
-  },
-  "title_vi": "",
-  "key": "55f1eb7eac7c3790312b105876e5a92218f2c595"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82399 — CoreDNS is a DNS server written in Go",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82399",
-  "published": "2026-09-16T19:17:44.627",
-  "summary": "CoreDNS is a DNS server written in Go. Prior to 1.14.7, the DNS-over-HTTPS, DNS-over-HTTP/3, DNS-over-QUIC, and DNS-over-gRPC request paths in plugin/pkg/doh/doh.go, core/dnsserver/server_quic.go, and core/dnsserver/server_grpc.go call dns.Msg.Unpack on attacker-controlled DNS section counts before dns.DefaultMsgAcceptFunc validates the fixed header. An unauthenticated client can use DNS name compression and excessive section counts to amplify allocation before the plugin chain, so plugin-level rate limiting cannot prevent concurrent requests from exhausting memory and terminating CoreDNS. The",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82399",
-   "cvss": 7.5,
-   "ref": "https://github.com/coredns/coredns/commit/530b0a5ff2ad68cc0421f10dd93568945cc671c9"
-  },
-  "title_vi": "",
-  "key": "0518014f1d18151609b1cdac486594e224594f6b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-86003 — CoreDNS is a DNS server written in Go",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86003",
-  "published": "2026-09-16T19:17:51.760",
-  "summary": "CoreDNS is a DNS server written in Go. Prior to 1.14.7, the DNS-over-HTTPS, DNS-over-HTTP/3, DNS-over-QUIC, and DNS-over-gRPC listeners in plugin/pkg/doh/doh.go, core/dnsserver/server_quic.go, and core/dnsserver/server_grpc.go call dns.Msg.Unpack without the dns.DefaultMsgAcceptFunc request policy used by UDP, TCP, and DNS-over-TLS. An unauthenticated client can send an RFC 2136 UPDATE that the proxy or forward plugin passes unchanged to an update-capable upstream. If that upstream trusts CoreDNS's source address or connection and does not require an attacker-unknown end-to-end TSIG, the reque",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-86003",
-   "cvss": 7.5,
-   "ref": "https://github.com/coredns/coredns/commit/530b0a5ff2ad68cc0421f10dd93568945cc671c9"
-  },
-  "title_vi": "",
-  "key": "723c402a5f5284786bb7d2b3b1f107f3820652af"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-86043 — Skipper is an HTTP router and reverse proxy for service composition",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86043",
-  "published": "2026-09-16T19:17:51.993",
-  "summary": "Skipper is an HTTP router and reverse proxy for service composition. Prior to version 0.27.37, the opaAuthorizeRequestWithBody filter can authorize an oversized request after Skipper truncates the body presented to Open Policy Agent because the input.truncated_body signal is derived from Content-Length rather than the actual read result. In filters/openpolicyagent/openpolicyagent.go, ExtractHttpBodyOptionally truncates bodies at maxBodyBytes, while filters/openpolicyagent/internal/envoy/skipperadapter.go copies the request headers without adding a Content-Length value that reflects the truncat",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-86043",
-   "cvss": 7.5,
-   "ref": "https://github.com/zalando/skipper/commit/2cfceabaa6ff0af65b312dcb9bcbe84691b9d507"
-  },
-  "title_vi": "",
-  "key": "d69d32c7c8228eb748c0717a18138e93bf8dc376"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-86071 — Junrar is an open source Java RAR archive library",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86071",
-  "published": "2026-09-16T19:17:58.623",
-  "summary": "Junrar is an open source Java RAR archive library. Prior to version 7.6.1, LocalFolderExtractor in src/main/java/com/github/junrar/LocalFolderExtractor.java can create directories outside the intended extraction root when processing a crafted archive entry. LocalFolderExtractor.createFile() validates only the final canonical file path, while LocalFolderExtractor.makeFile() creates intermediate path segments with unchecked mkdir() calls. An entry can therefore make the final path resolve inside the destination while causing intermediate directory creation outside it, enabling filesystem polluti",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-86071",
-   "cvss": 3.7,
-   "ref": "https://github.com/junrar/junrar/commit/e6e333b195a1e3ad271a18fd79d8ac1eb5289343"
-  },
-  "title_vi": "",
-  "key": "3b2d5a05b885cf46c6e885a3f57ea9a5eacd670e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-91097 — HP has identified and remediated multiple externally reported vulnerabilities within HPLIP",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-91097",
-  "published": "2026-09-16T19:18:02.070",
-  "summary": "HP has identified and remediated multiple externally reported vulnerabilities within HPLIP. The findings affect several software components that could potentially enable remote code execution, privilege escalation, denial of service, information disclosure, or unauthorized file modification under certain conditions.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-91097",
-   "cvss": null,
-   "ref": "https://support.hp.com/us-en/document/ish_15646959-15646984-16/hpsbpi04151"
-  },
-  "title_vi": "",
-  "key": "c23dea2fe1a9a46e03d805e30eed0c1ecef1afd6"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-91098 — HP has identified and remediated multiple externally reported vulnerabilities within HPLIP",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-91098",
-  "published": "2026-09-16T19:18:02.247",
-  "summary": "HP has identified and remediated multiple externally reported vulnerabilities within HPLIP. The findings affect several software components that could potentially enable remote code execution, privilege escalation, denial of service, information disclosure, or unauthorized file modification under certain conditions.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-91098",
-   "cvss": null,
-   "ref": "https://support.hp.com/us-en/document/ish_15646959-15646984-16/hpsbpi04151"
-  },
-  "title_vi": "",
-  "key": "7d84bc3320573a424e61e4c5ae2b38f03a42b5b5"
  }
 ]
