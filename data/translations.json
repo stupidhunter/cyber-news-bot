@@ -9880,5 +9880,19 @@
  "0c156a2624baeea85c33a8b177c39f5398055b91": "CVE-2026-73550 - Envoy là một proxy biên và dịch vụ nguồn mở được thiết kế cho các ứng dụng gốc trên đám mây",
  "0ea32cba8d172eee0abc603b42b3b680ee795d65": "CVE-2026-73552 - Envoy là một proxy biên và dịch vụ nguồn mở được thiết kế cho các ứng dụng gốc trên đám mây",
  "1d8539dab95a762f13847841e7806709d050d584": "CVE-2026-79318 — web2py 3",
- "108fa3ec4fe53f6d701d9522def052d6542b0dc1": "CVE-2026-79319 — Lõi khuôn 4"
+ "108fa3ec4fe53f6d701d9522def052d6542b0dc1": "CVE-2026-79319 — Lõi khuôn 4",
+ "b0c8ec8e6b745e2219dc817d79f3e56c339a53bc": "CVE-2026-94425 — A vulnerability was found in Moore Threads MTT S80 Driver Package 340",
+ "ad625e3843fa2ceafd5f127fbaad19155ac1ef76": "CVE-2026-94426 — Một lỗ hổng được xác định trong xuxueli xxl-job lên đến 3",
+ "3d55ba1ad9d813e9f74ec7e3b2cabfd1f6b9df6f": "CVE-2026-94489 — Một lỗ hổng đã được xác định trong OctoPrint 1",
+ "1ac25b4dee40e164e0bc614b9986802b8b1c27d8": "CVE-2026-94490 — Một lỗ hổng bảo mật đã được phát hiện trong OctoPrint 1",
+ "72b1da91a2348f02f27e53d36f0ba68db6f27670": "CVE-2026-76974 - SAP Fiori Launchpad không xác nhận đầy đủ một số đầu vào do người dùng kiểm soát",
+ "d7745d7a6d11ede9da77a1e85a11c66411164362": "CVE-2026-93709 — Dancer2 versions before 2",
+ "76608e13d29c6b4f0ea9eb140a721a041e57801f": "CVE-2026-93710 — Phiên bản Dancer2 từ 2",
+ "fd32547d3186cc462671e0c1c2b04c211347fd6e": "CVE-2026-93711 — Dancer2 versions before 2",
+ "18d01244d6dad19a66e8afcc5fd52eaaeac2dc0e": "CVE-2026-93712 — Phiên bản Dancer2 từ 2",
+ "16acb6a7edaab472b740be32e3cb31a03e44e0af": "CVE-2026-94491 — A weakness has been identified in Yonyou KSOA 9",
+ "ae0ecf240bbfa17d7d2c871c10b13770a56bff3a": "CVE-2026-94492 — Một lỗ hổng bảo mật đã được phát hiện trong Yonyou U8cloud 5",
+ "d2beedac7cefd82cacc08bcf77d89b5a0e9c1e61": "CVE-2026-94493 — Một lỗ hổng đã được phát hiện trong Gigatech PDV5701 1",
+ "aa346524612ecbdecb75ab9eba4893200910929e": "CVE-2026-76460 - Công cụ dịch vụ nhận dạng của Cisco Sử dụng không chính xác lỗ hổng API đặc quyền",
+ "348b3d305d5a508c950ea6989eea502e78decc3e": "CVE-2026-87886 — Acronis Backup Incorrect Default Permissions Vulnerability"
 }
