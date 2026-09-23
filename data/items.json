@@ -1,6 +1,570 @@
 [
  {
   "source": "VietnamPlus Kinh tế số",
+  "title": "Đại hội đồng LHQ Khóa 81: Tổng thống Mỹ đề xuất đổi tên AI là “siêu trí tuệ”",
+  "link": "https://www.vietnamplus.vn/dai-hoi-dong-lhq-khoa-81-tong-thong-my-de-xuat-doi-ten-ai-la-sieu-tri-tue-post1137851.vnp",
+  "published": "2026-09-23T02:26:41+00:00",
+  "summary": "Tổng thống Trump cho rằng thuật ngữ “trí tuệ nhân tạo” chưa phản ánh đầy đủ tầm vóc của công nghệ này trong khi cụm từ “siêu trí tuệ” nghe hay hơn và chính xác hơn. Các tập đoàn công nghệ Mỹ phản đối quy định AI mới của chính quyền Trump Tổng thống Trump: Mỹ cần một tiêu chuẩn liên bang thống nhất về quản lý AI Tổng thống Trump bác bỏ những cảnh báo nghiêm trọng nhất về trí tuệ nhân tạo",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "b4e7a386d005d75137c0f4399c8858664e77fada"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Chứng khoán Mỹ: Chỉ số Nasdaq Composite lập kỷ lục phiên thứ hai liên tiếp",
+  "link": "https://www.vietnamplus.vn/chung-khoan-my-chi-so-nasdaq-composite-lap-ky-luc-phien-thu-hai-lien-tiep-post1137838.vnp",
+  "published": "2026-09-23T00:43:51+00:00",
+  "summary": "Chỉ số Nasdaq Composite tăng 0,45% lên 27.244,28 điểm, đánh dấu phiên đóng cửa ở mức cao kỷ lục thứ hai liên tiếp nhờ cổ phiếu chip và AI. Thị trường chứng khoán Mỹ diễn biến trái chiều Đà tăng của giá dầu gây sức ép lên chứng khoán Mỹ Chứng khoán Mỹ chịu áp lực giảm điểm khi giá dầu vượt mốc 100 USD mỗi thùng",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "e9e8bfd58f7c11cc453a5057c716ea4ae488b845"
+ },
+ {
+  "source": "Thanh Niên Công nghệ",
+  "title": "Chuy&ecirc;n gia d&ugrave;ng Claude của Anthropic x&acirc;m nhập th&agrave;nh c&ocirc;ng OpenAI",
+  "link": "https://thanhnien.vn/chuyen-gia-dung-claude-cua-anthropic-xam-nhap-thanh-cong-openai-185260923093522461.htm",
+  "published": "2026-09-23T02:54:00+00:00",
+  "summary": "Chuy&ecirc;n gia an ninh mạng d&ugrave;ng m&ocirc; h&igrave;nh Claude Opus 5 ti&ecirc;n tiến để tấn c&ocirc;ng v&agrave;o kho m&atilde; nguồn của OpenAI.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "bf6cb9a7beaeee389b75d4ec333db95eee767283"
+ },
+ {
+  "source": "VnExpress Số hóa",
+  "title": "Kỹ sư gây sốt khi nói lập trình AI biến con người thành 'kẻ bấm nút'",
+  "link": "https://vnexpress.net/ky-su-gay-sot-khi-noi-lap-trinh-ai-bien-con-nguoi-thanh-ke-bam-nut-5123546.html",
+  "published": "2026-09-23T00:00:00+00:00",
+  "summary": "Bài chia sẻ của một kỹ sư ẩn danh đang thu hút hàng nghìn bình luận, trong đó có Elon Musk, khi hé lộ mặt trái của lập trình AI là biến con người thành \"kẻ bấm nút\".",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "d93b26c777af35e83a0ee7da719ce143eca84314"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18162 — IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote attacker to execute arbitrary code due to improper neutralization of",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18162",
+  "published": "2026-09-22T23:17:06.463",
+  "summary": "IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote attacker to execute arbitrary code due to improper neutralization of user-controlled input within the new Function constructor.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18162",
+   "cvss": 9.8,
+   "ref": "https://www.ibm.com/support/pages/node/7288641"
+  },
+  "title_vi": "CVE-2026-18162 — Quản lý giao dịch tài chính IBM (FTM) cho RedHat OpenShift có thể cho phép kẻ tấn công từ xa thực thi mã tùy ý do trung hòa không đúng cách",
+  "key": "7f7a1b3b3ec9626867bd6d63555c450862259065"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18163 — IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote attacker to execute arbitrary code due to improper deserialization o",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18163",
+  "published": "2026-09-22T23:17:06.600",
+  "summary": "IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote attacker to execute arbitrary code due to improper deserialization of untrusted data.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18163",
+   "cvss": 9.8,
+   "ref": "https://www.ibm.com/support/pages/node/7288641"
+  },
+  "title_vi": "CVE-2026-18163 — Quản lý giao dịch tài chính IBM (FTM) cho RedHat OpenShift có thể cho phép kẻ tấn công từ xa thực thi mã tùy ý do giải mã không đúng cách o",
+  "key": "db7449b7220ff12b39771a80c1a416e75fa6d9b2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18169 — IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote authenticated attacker to obtain sensitive information due to improp",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18169",
+  "published": "2026-09-22T23:17:06.730",
+  "summary": "IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote authenticated attacker to obtain sensitive information due to improper validation of symbolic links.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18169",
+   "cvss": 9.9,
+   "ref": "https://www.ibm.com/support/pages/node/7288641"
+  },
+  "title_vi": "CVE-2026-18169 — Quản lý Giao dịch Tài chính (FTM) của IBM cho RedHat OpenShift có thể cho phép kẻ tấn công được xác thực từ xa có được thông tin nhạy cảm do improp",
+  "key": "c8a120fb8e9518dc70fb179460c69d9d5a6d7d08"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18170 — IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote attacker to cause a denial of service due to allocation of resources",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18170",
+  "published": "2026-09-22T23:17:06.863",
+  "summary": "IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote attacker to cause a denial of service due to allocation of resources without limits or throttling.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18170",
+   "cvss": 6.5,
+   "ref": "https://www.ibm.com/support/pages/node/7288641"
+  },
+  "title_vi": "CVE-2026-18170 — Quản lý giao dịch tài chính (FTM) của IBM cho RedHat OpenShift có thể cho phép kẻ tấn công từ xa gây ra từ chối dịch vụ do phân bổ tài nguyên",
+  "key": "37482624d42c215f2b1f12d3cc0d2e6e1e42163a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18172 — IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote attacker to obtain sensitive information due to improper restriction",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18172",
+  "published": "2026-09-22T23:17:06.993",
+  "summary": "IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote attacker to obtain sensitive information due to improper restriction of XML external entity references.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18172",
+   "cvss": 7.4,
+   "ref": "https://www.ibm.com/support/pages/node/7288641"
+  },
+  "title_vi": "CVE-2026-18172 — Quản lý Giao dịch Tài chính (FTM) của IBM cho RedHat OpenShift có thể cho phép kẻ tấn công từ xa lấy thông tin nhạy cảm do hạn chế không phù hợp",
+  "key": "8af06c9f0765984c9b0113fc67c4be04408ee29d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18173 — IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote attacker to obtain sensitive information due to improper enforcement",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18173",
+  "published": "2026-09-22T23:17:07.130",
+  "summary": "IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote attacker to obtain sensitive information due to improper enforcement of mutual TLS authentication.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18173",
+   "cvss": 3.7,
+   "ref": "https://www.ibm.com/support/pages/node/7288641"
+  },
+  "title_vi": "CVE-2026-18173 — Quản lý giao dịch tài chính (FTM) của IBM cho RedHat OpenShift có thể cho phép kẻ tấn công từ xa lấy thông tin nhạy cảm do thực thi không đúng cách",
+  "key": "7744a602ae91b0767bacd382da7bac0164f4c3d8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18176 — IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote attacker to obtain sensitive information due to cleartext transmissi",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18176",
+  "published": "2026-09-22T23:17:07.273",
+  "summary": "IBM Financial Transaction Manager (FTM) for RedHat OpenShift could allow a remote attacker to obtain sensitive information due to cleartext transmission of sensitive information.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18176",
+   "cvss": 7.4,
+   "ref": "https://www.ibm.com/support/pages/node/7288641"
+  },
+  "title_vi": "CVE-2026-18176 — Quản lý giao dịch tài chính IBM (FTM) cho RedHat OpenShift có thể cho phép kẻ tấn công từ xa lấy thông tin nhạy cảm do truyền cleartext",
+  "key": "f5f9acc1a6cb89764db67c9c341671d2b3c90d9f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-57576 — plone",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-57576",
+  "published": "2026-09-22T23:17:07.420",
+  "summary": "plone.app.dexterity is a content-type system for the Plone content management system, and plone.app.contenttypes provides Plone’s Dexterity-based content types. Plone.app.dexterity versions through 3.2.2, 4.0.0 through 4.1.2, and 5.0.0, and plone.app.contenttypes versions through 3.0.11, 4.0.0 through 4.0.9, and 5.0.0 are vulnerable to denial of service because an authenticated user can create content with excessively long titles, descriptions, or uploaded-file names, causing Plone to become unresponsive and potentially making the resulting content difficult to edit or delete. The vulnerabilit",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-57576",
+   "cvss": 6.5,
+   "ref": "https://github.com/plone/plone.app.contenttypes/commit/13dc98a578341aac24a1e65fd9bc7ac8a07d168a"
+  },
+  "title_vi": "CVE-2026-57576 — plone",
+  "key": "626da28483382f366f68caa5a370fb31efaf2eb4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-61685 — ReactPress is a publishing system for React developers",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-61685",
+  "published": "2026-09-22T23:17:07.600",
+  "summary": "ReactPress is a publishing system for React developers. Prior to version 3.7.0, ReactPress API list endpoints build TypeORM `QueryBuilder` conditions using unsanitized HTTP query parameter names as SQL column identifiers (e.g. `` `article.${key}` ``). TypeORM parameterizes values but not column names, allowing unauthenticated attackers to inject SQL through crafted query string keys. Version 3.7.0 contains a patch. As a workaround, allowlist allowed filter column names before interpolating into SQL.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-61685",
+   "cvss": 7.5,
+   "ref": "https://github.com/fecommunity/reactpress/commit/78ecb70af1c021455c05fdcbe137212c70e310d6"
+  },
+  "title_vi": "CVE-2026-61685 - ReactPress là một hệ thống xuất bản dành cho các nhà phát triển React",
+  "key": "ed570845e6b88887881becdad1c85a021c7a6ba7"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-95820 — A vulnerability was found in anirbandutta9 College-Notes-Gallery up to 8c1cf3d98f30982d069c88ca172612c001eb39f6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95820",
+  "published": "2026-09-22T23:17:08.540",
+  "summary": "A vulnerability was found in anirbandutta9 College-Notes-Gallery up to 8c1cf3d98f30982d069c88ca172612c001eb39f6. Affected by this issue is some unknown functionality of the file /dashboard/userprofile.php?section=admin1. Performing a manipulation of the argument image results in unrestricted upload. It is possible to initiate the attack remotely. The exploit has been made public and could be used. This product is using a rolling release to provide continious delivery. Therefore, no version details for affected nor updated releases are available. The vendor was contacted early about this disclo",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-95820",
+   "cvss": 6.3,
+   "ref": "https://github.com/yingxiujie/cve/issues/10"
+  },
+  "title_vi": "CVE-2026-95820 — Một lỗ hổng đã được tìm thấy trong anirbandutta9 College-Notes-Gallery lên đến 8c1cf3d98f30982d069c88ca172612c001eb39f6",
+  "key": "9d6c9bcf474bd93f0deb6c5234da89a39a5efe0d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-95828 — A vulnerability was determined in Mstfakts College-Management-System",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95828",
+  "published": "2026-09-22T23:17:08.723",
+  "summary": "A vulnerability was determined in Mstfakts College-Management-System. This affects the function session_start of the file Front-end/server.php of the component Authentication. Executing a manipulation can lead to session fixiation. It is possible to launch the attack remotely. The exploit has been publicly disclosed and may be utilized. This product takes the approach of rolling releases to provide continious delivery. Therefore, version details for affected and updated releases are not available. The project was informed of the problem early through an issue report but has not responded yet.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-95828",
+   "cvss": 4.3,
+   "ref": "https://github.com/Mstfakts/College-Management-System/"
+  },
+  "title_vi": "CVE-2026-95828 - Một lỗ hổng đã được xác định trong Hệ thống Quản lý Đại học Mstfakts",
+  "key": "aa369ed42ec0e77ed761bdf066d94a15e688cea7"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-92928 — OpenEye Apex Network Video Recorder (NVR) firmware 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-92928",
+  "published": "2026-09-23T00:16:59.773",
+  "summary": "OpenEye Apex Network Video Recorder (NVR) firmware 3.2.9.376 contains a hardcoded, undocumented recovery account with a shared credential that cannot be changed, disabled, or rotated. An unauthenticated remote attacker can use the account to authenticate to the password-reset workflow. The account does not provide normal administrator access; additional vulnerabilities are required to obtain an administrator takeover. The underlying design has been present since at least firmware 2.2.3.4.\n\nUpgrade to version 3.5.4.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-92928",
+   "cvss": 6.5,
+   "ref": "https://portal.openeye.net/updates/issue-alerts/1058"
+  },
+  "title_vi": "CVE-2026-92928 — Phần mềm cơ sở OpenEye Apex Network Video Recorder (NVR) 3",
+  "key": "345b0267ca1ab86c61efb4838f622b3d006e9659"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-92929 — OpenEye Apex Network Video Recorder (NVR) firmware 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-92929",
+  "published": "2026-09-23T00:17:00.897",
+  "summary": "OpenEye Apex Network Video Recorder (NVR) firmware 3.2.9.376 trusts an X-Forwarded-For header supplied by an arbitrary client when determining the request source address. An unauthenticated remote attacker can spoof a loopback address to bypass local-connection-only security controls exposed on the affected non-TLS web interfaces and disclose configuration information. The underlying design has been present since at least firmware 2.2.3.4.\n\nUpgrade to version 3.5.4.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-92929",
+   "cvss": 5.3,
+   "ref": "https://portal.openeye.net/updates/issue-alerts/1059"
+  },
+  "title_vi": "CVE-2026-92929 — Phần mềm cơ sở OpenEye Apex Network Video Recorder (NVR) 3",
+  "key": "443e99a2b2be532a715574f442d5d37fdc944653"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-92930 — OpenEye Apex Network Video Recorder (NVR) firmware 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-92930",
+  "published": "2026-09-23T00:17:01.080",
+  "summary": "OpenEye Apex Network Video Recorder (NVR) firmware 3.2.9.376 uses an administrator password-reset unlock-code design that lacks a per-device secret or other server-side cryptographic material. An attacker with physical-console access and access to the privileged password-reset workflow can forge a valid unlock code offline and use it to reset the administrator password. The underlying design has been present since at least firmware 2.2.3.4.\n\nUpgrade to version 3.5.4.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-92930",
+   "cvss": 6.2,
+   "ref": "https://portal.openeye.net/updates/issue-alerts/1060"
+  },
+  "title_vi": "CVE-2026-92930 — Phần mềm cơ sở OpenEye Apex Network Video Recorder (NVR) 3",
+  "key": "2bd788c1c857c8c6690333b37bee0bda947a0d48"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94367 — OpenEye Apex Network Video Recorder (NVR) firmware 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94367",
+  "published": "2026-09-23T00:17:01.200",
+  "summary": "OpenEye Apex Network Video Recorder (NVR) firmware 3.2.9.376 contains an OS command injection vulnerability in recbackup. An authenticated administrator can supply crafted backup-area configuration input that is passed to a shell command, allowing commands to execute with the privileges of the nvr user. The underlying design has been present since at least firmware 2.2.3.4.\n\nUpgrade to version 3.5.4.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94367",
+   "cvss": 7.2,
+   "ref": "https://portal.openeye.net/updates/issue-alerts/1061"
+  },
+  "title_vi": "CVE-2026-94367 — Phần mềm cơ sở OpenEye Apex Network Video Recorder (NVR) 3",
+  "key": "5604df57f2a66e0105fe016983a3d73a91e9906b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-95829 — A vulnerability was identified in TDuckCloud tduck-platform up to 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95829",
+  "published": "2026-09-23T00:17:01.333",
+  "summary": "A vulnerability was identified in TDuckCloud tduck-platform up to 5.3. This vulnerability affects the function PaginationInnerInterceptor.concatOrderBy of the file tduck-api/src/main/java/com/tduck/cloud/api/config/MybatisPlusConfig.java of the component Pagination Inner Interceptor. The manipulation of the argument orders[0].column leads to sql injection. The attack can be initiated remotely. The exploit is publicly available and might be used. The identifier of the patch is ea7f0fae7cb0fd998a3284c11addce689350cd69. It is suggested to install a patch to address this issue.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-95829",
+   "cvss": 6.3,
+   "ref": "https://github.com/TDuckCloud/tduck-survey-form/commit/ea7f0fae7cb0fd998a3284c11addce689350cd69"
+  },
+  "title_vi": "CVE-2026-95829 — Một lỗ hổng đã được xác định trong nền tảng tduck TDuckCloud lên đến 5",
+  "key": "862fd28287ce2362dc5860b9169be71e9087bcda"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-95830 — A security flaw has been discovered in theRealSain Pixtream up to 866afd4f0cea812b918780fb74b67dccf8c4d6a0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95830",
+  "published": "2026-09-23T00:17:01.537",
+  "summary": "A security flaw has been discovered in theRealSain Pixtream up to 866afd4f0cea812b918780fb74b67dccf8c4d6a0. This issue affects some unknown processing of the file /post_upload.php. The manipulation of the argument media results in unrestricted upload. The attack can be launched remotely. The exploit has been released to the public and may be used for attacks. This product does not use versioning. This is why information about affected and unaffected releases are unavailable. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-95830",
+   "cvss": 6.3,
+   "ref": "https://github.com/yingxiujie/cve/issues/11"
+  },
+  "title_vi": "CVE-2026-95830 — Một lỗ hổng bảo mật đã được phát hiện trong theRealSain Pixtream lên đến 866afd4f0cea812b918780fb74b67dccf8c4d6a0",
+  "key": "a651c44de81f7dac9e73fd5e7f58e3571401a153"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-95833 — A weakness has been identified in itsourcecode Leave Management System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95833",
+  "published": "2026-09-23T00:17:01.743",
+  "summary": "A weakness has been identified in itsourcecode Leave Management System 1.0. Impacted is an unknown function of the file /module/leavetype/index.php. This manipulation of the argument ID causes sql injection. The attack may be initiated remotely. The exploit has been made available to the public and could be used for attacks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-95833",
+   "cvss": 6.3,
+   "ref": "https://github.com/ltranquility/submit_repository/issues/16"
+  },
+  "title_vi": "CVE-2026-95833 — Một điểm yếu đã được xác định trong Hệ thống quản lý nghỉ phép mã nguồn 1",
+  "key": "22b2051b886452144a62a5264c3743c6b96f02e6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-95868 — A weakness has been identified in AdithyaYelloju Restaurant-Management-System up to 7f0e7e84255e8fcfd488e83f8f91451bbbff6b9c",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95868",
+  "published": "2026-09-23T00:17:01.937",
+  "summary": "A weakness has been identified in AdithyaYelloju Restaurant-Management-System up to 7f0e7e84255e8fcfd488e83f8f91451bbbff6b9c. Affected by this issue is the function mysqli_query of the file admin/display_menu.php of the component Search Form. This manipulation of the argument s1 causes sql injection. The attack can be initiated remotely. The exploit has been made available to the public and could be used for attacks. Continious delivery with rolling releases is used by this product. Therefore, no version details of affected nor updated releases are available. The project was informed of the pr",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-95868",
+   "cvss": 6.3,
+   "ref": "https://github.com/AdithyaYelloju/Restaurant-Management-System/"
+  },
+  "title_vi": "CVE-2026-95868 - Một điểm yếu đã được xác định trong Hệ thống quản lý nhà hàng AdithyaYelloju lên đến 7f0e7e84255e8fcfd488e83f8f91451bbbff6b9c",
+  "key": "72327b9d4268584589169a83e7d9f74c1ec20dc5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-95897 — A security vulnerability has been detected in Dask up to 2026",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95897",
+  "published": "2026-09-23T01:16:31.920",
+  "summary": "A security vulnerability has been detected in Dask up to 2026.8.0. This affects the function from_npy_stack of the file dask/array/core.py of the component Loader. Such manipulation leads to deserialization. The attack can be launched remotely. The exploit has been disclosed publicly and may be used. The project was informed of the problem early through an issue report but has not responded yet.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-95897",
+   "cvss": 5.5,
+   "ref": "https://github.com/dask/dask/"
+  },
+  "title_vi": "CVE-2026-95897 — Một lỗ hổng bảo mật đã được phát hiện trong Dask cho đến năm 2026",
+  "key": "6a481d26825674c6d5cd2d8798bbbacb1ae6ec20"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-95924 — A vulnerability has been found in SourceCodester Online Reviewer Management System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95924",
+  "published": "2026-09-23T01:16:32.110",
+  "summary": "A vulnerability has been found in SourceCodester Online Reviewer Management System 1.0. Impacted is an unknown function of the file /reviewer_0/admins/assessments/databank/btn_functions.php?action=add. The manipulation of the argument difficulty_id leads to sql injection. Remote exploitation of the attack is possible. The exploit has been disclosed to the public and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-95924",
+   "cvss": 7.3,
+   "ref": "https://github.com/huliangjia/cve/issues/4"
+  },
+  "title_vi": "CVE-2026-95924 — Một lỗ hổng đã được tìm thấy trong Hệ thống quản lý người đánh giá trực tuyến SourceCodester 1",
+  "key": "584cfbf0a85a283a4614486344960145abc1b157"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-95925 — A vulnerability was found in SourceCodester Online Reviewer Management System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95925",
+  "published": "2026-09-23T01:16:32.293",
+  "summary": "A vulnerability was found in SourceCodester Online Reviewer Management System 1.0. The affected element is an unknown function of the file /reviewer_0/admins/assessments/databank/btn_functions.php?action=update. The manipulation of the argument difficulty_id results in sql injection. The attack can be executed remotely. The exploit has been made public and could be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-95925",
+   "cvss": 7.3,
+   "ref": "https://github.com/huliangjia/cve/issues/5"
+  },
+  "title_vi": "CVE-2026-95925 - Một lỗ hổng đã được tìm thấy trong Hệ thống quản lý người đánh giá trực tuyến SourceCodester 1",
+  "key": "4f9c4352db65a75e2eebb0dfca66853fd3a2ad82"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-96271 — Photoview through 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96271",
+  "published": "2026-09-23T01:16:32.477",
+  "summary": "Photoview through 2.4.0 contains an authorization bypass vulnerability in the shareAlbum GraphQL mutation that allows authenticated users to create share links for albums owned by other users. Attackers can supply arbitrary album IDs to generate working share tokens for victim albums, exposing photos and sub-albums to anyone with the link while retaining indefinite control over token settings.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-96271",
+   "cvss": 7.1,
+   "ref": "https://github.com/photoview/photoview"
+  },
+  "title_vi": "CVE-2026-96271 — Xem ảnh qua 2",
+  "key": "78e3117d3582029926421b36fb14bbac69bdf949"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-96272 — ClipBucket v5 before 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96272",
+  "published": "2026-09-23T01:16:32.633",
+  "summary": "ClipBucket v5 before 5.5.3-#182 contains a blind SQL injection vulnerability in the photo search endpoint where the query parameter is passed unsanitized into SQL WHERE and ORDER BY clauses. Unauthenticated attackers can exploit time-based blind SQL injection techniques to extract user credentials, email addresses, and administrator password hashes for account takeover.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-96272",
+   "cvss": 7.5,
+   "ref": "https://github.com/MacWarrior/clipbucket-v5"
+  },
+  "title_vi": "CVE-2026-96272 — ClipBucket v5 trước 5",
+  "key": "fe181d1c7070255edd61a8b04c42f5189846991b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-96273 — Ghidra before 12",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96273",
+  "published": "2026-09-23T01:16:32.790",
+  "summary": "Ghidra before 12.1.4 fails to validate the TYPE_COL byte in OptionsDB.createUnregisteredOption(), causing an ArrayIndexOutOfBoundsException that leaves domain objects permanently locked. Attackers can craft a malicious program database file that, when imported, causes the application to stall and prevents resource cleanup or graceful shutdown.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-96273",
+   "cvss": 5.5,
+   "ref": "https://github.com/NationalSecurityAgency/ghidra"
+  },
+  "title_vi": "CVE-2026-96273 — Ghidra trước 12 tuổi",
+  "key": "436105e76a8dc5370b57f30c0ac5270d629dea75"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-95926 — A vulnerability was determined in SourceCodester Online Reviewer Management System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95926",
+  "published": "2026-09-23T02:16:54.527",
+  "summary": "A vulnerability was determined in SourceCodester Online Reviewer Management System 1.0. The impacted element is an unknown function of the file /reviewer_0/admins/assessments/pretest/btn_functions.php?action=update. This manipulation of the argument test_id causes sql injection. The attack is possible to be carried out remotely. The exploit has been publicly disclosed and may be utilized.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-95926",
+   "cvss": 7.3,
+   "ref": "https://github.com/huliangjia/cve/issues/7"
+  },
+  "title_vi": "CVE-2026-95926 - Lỗ hổng bảo mật đã được xác định trong Hệ thống quản lý người đánh giá trực tuyến SourceCodester 1",
+  "key": "5afa93b74fe97a3217f07fa4554c49194e23a217"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-95927 — A vulnerability was identified in SourceCodester Online Reviewer Management System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95927",
+  "published": "2026-09-23T02:16:55.537",
+  "summary": "A vulnerability was identified in SourceCodester Online Reviewer Management System 1.0. This affects an unknown function of the file /reviewer_0/admins/assessments/pretest/exam-delete.php. Such manipulation of the argument test_id leads to sql injection. The attack may be performed from remote. The exploit is publicly available and might be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-95927",
+   "cvss": 7.3,
+   "ref": "https://github.com/huliangjia/cve/issues/8"
+  },
+  "title_vi": "CVE-2026-95927 - Một lỗ hổng đã được xác định trong Hệ thống quản lý người đánh giá trực tuyến SourceCodester 1",
+  "key": "3752176d53d833399c4c84be626fe4508ddc1161"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-95928 — A security flaw has been discovered in recommenders-team recommenders up to 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95928",
+  "published": "2026-09-23T02:16:55.717",
+  "summary": "A security flaw has been discovered in recommenders-team recommenders up to 1.2.1. This impacts the function pickle.load of the file recommenders/models/newsrec/io/mind_iterator.py of the component Dict Loading. Performing a manipulation results in deserialization. It is possible to initiate the attack remotely. The exploit has been released to the public and may be used for attacks. The project was informed of the problem early through an issue report but has not responded yet.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-95928",
+   "cvss": 5.5,
+   "ref": "https://github.com/recommenders-team/recommenders/"
+  },
+  "title_vi": "CVE-2026-95928 — Một lỗ hổng bảo mật đã được phát hiện trong những người giới thiệu nhóm lên đến 1",
+  "key": "d20bd36b987cff5795389dcbc3d1e8090d1f1a0a"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
   "title": "Bộ GD-ĐT thống nhất quy định tuyển sinh trong giáo dục nghề nghiệp",
   "link": "https://www.vietnamplus.vn/bo-gd-dt-thong-nhat-quy-dinh-tuyen-sinh-trong-giao-duc-nghe-nghiep-post1137757.vnp",
   "published": "2026-09-22T22:26:00+00:00",
@@ -5496,7 +6060,7 @@
    "cvss": 8.8,
    "ref": "https://www.ibm.com/support/pages/node/7288649"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-16468 — IBM DataStage trên Cloud Pak cho Dữ liệu 5",
   "key": "0dd223460e410b572657f9273fabbbcb7a5d4f0d"
  },
  {
@@ -5514,7 +6078,7 @@
    "cvss": 8.8,
    "ref": "https://www.ibm.com/support/pages/node/7288649"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-16469 — IBM DataStage trên Cloud Pak cho Dữ liệu 5",
   "key": "5dbb1c7fc9f4d8cffde741fd1987c229c37ceb05"
  },
  {
@@ -5532,7 +6096,7 @@
    "cvss": 8.8,
    "ref": "https://www.ibm.com/support/pages/node/7288649"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-16672 — IBM DataStage trên Cloud Pak cho Dữ liệu 5",
   "key": "523253279dba61632fa43ae31e83550cce7589ae"
  },
  {
@@ -5550,7 +6114,7 @@
    "cvss": 8.8,
    "ref": "https://www.ibm.com/support/pages/node/7288649"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-17102 — IBM DataStage trên Cloud Pak cho Dữ liệu 5",
   "key": "d3e0466f0192f2a3538a6d7492b1ef37e8307cac"
  },
  {
@@ -5604,7 +6168,7 @@
    "cvss": 7.3,
    "ref": "https://www.ibm.com/support/pages/node/7288641"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-17618 — Quản lý Giao dịch Tài chính (FTM) của IBM cho RedHat OpenShift có thể cho phép kẻ tấn công không được xác thực từ xa xem và sửa đổi thông tin nhạy cảm",
   "key": "e60ebe9eb6289add2fbeb8ece00a20bf8902e783"
  },
  {
@@ -5622,7 +6186,7 @@
    "cvss": 5.3,
    "ref": "https://www.ibm.com/support/pages/node/7288641"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-17620 — Quản lý Giao dịch Tài chính (FTM) của IBM cho RedHat OpenShift 4",
   "key": "e705a042319289232d198e52d9cd2725eaaf831b"
  },
  {
@@ -5640,7 +6204,7 @@
    "cvss": 9.1,
    "ref": "https://www.ibm.com/support/pages/node/7288641"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-17635 — Quản lý Giao dịch Tài chính (FTM) của IBM cho RedHat OpenShift có thể cho phép kẻ tấn công từ xa thực hiện các hành động trái phép do cấu hình không đúng",
   "key": "c63853880bdf6285fd4513d37b34afe0eb0e4cf5"
  },
  {
@@ -5658,7 +6222,7 @@
    "cvss": 8.8,
    "ref": "https://www.ibm.com/support/pages/node/7288641"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-17636 — Quản lý giao dịch tài chính IBM (FTM) cho RedHat OpenShift có thể cho phép kẻ tấn công xác thực từ xa thực thi mã tùy ý do giá trị không đúng",
   "key": "afbab1364ef3e3141ebec0814e96025e69e58b52"
  },
  {
@@ -5676,7 +6240,7 @@
    "cvss": 8.8,
    "ref": "https://www.ibm.com/support/pages/node/7288641"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-17637 — Trình quản lý Giao dịch Tài chính (FTM) của IBM cho RedHat OpenShift có thể cho phép kẻ tấn công mạng liền kề thực thi mã tùy ý do giải mã",
   "key": "4c218f5860f629a3a751bdadb9e9c5aa8727a9af"
  },
  {
@@ -5695,7 +6259,7 @@
    "cvss": 8.8,
    "ref": "https://www.ibm.com/support/pages/node/7288641"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-17643 — Quản lý giao dịch tài chính IBM (FTM) cho RedHat OpenShift có thể cho phép kẻ tấn công cục bộ lấy thông tin nhạy cảm và thực hiện hành động trái phép",
   "key": "9fae5aa7c958d6455d201f7086e50f2d1b432cb5"
  },
  {
@@ -5714,7 +6278,7 @@
    "cvss": 8.8,
    "ref": "https://www.ibm.com/support/pages/node/7288641"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-17644 — Quản lý Giao dịch Tài chính (FTM) của IBM cho RedHat OpenShift có thể cho phép kẻ tấn công cục bộ truy cập trái phép vào thông tin nhạy cảm và mod",
   "key": "a71670049a9de4f99215231521b90f2051bed4a9"
  },
  {
@@ -5732,7 +6296,7 @@
    "cvss": 9.1,
    "ref": "https://www.ibm.com/support/pages/node/7288641"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-17645 - Quản lý Giao dịch Tài chính (FTM) của IBM cho RedHat OpenShift có thể cho phép kẻ tấn công được xác thực từ xa có được các đặc quyền nâng cao do p không phù hợp",
   "key": "f1935ef7fc89a667cbe980a8968ad5e817ff46bd"
  },
  {
@@ -5750,7 +6314,7 @@
    "cvss": 8.5,
    "ref": "https://www.ibm.com/support/pages/node/7288641"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-17646 — Quản lý Giao dịch Tài chính (FTM) của IBM cho RedHat OpenShift có thể cho phép kẻ tấn công được xác thực từ xa có được thông tin nhạy cảm do improp",
   "key": "ee4970ddcba90c60b947f9f9ec681a3cd79fb4fe"
  },
  {
@@ -5768,7 +6332,7 @@
    "cvss": 8.8,
    "ref": "https://www.ibm.com/support/pages/node/7288641"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-17647 — Quản lý giao dịch tài chính IBM (FTM) cho RedHat OpenShift có thể cho phép kẻ tấn công cục bộ thực hiện các lệnh tùy ý do bao gồm các chức năng",
   "key": "93c4af8ee5f4ed3255ff9dbc73aa892941317a65"
  },
  {
@@ -5786,7 +6350,7 @@
    "cvss": 7.9,
    "ref": "https://www.ibm.com/support/pages/node/7288641"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-18066 — Quản lý giao dịch tài chính IBM (FTM) cho RedHat OpenShift có thể cho phép kẻ tấn công cục bộ lấy thông tin nhạy cảm và kích hoạt hành động trái phép",
   "key": "e1dc567f02a12139ff5271048381ef563103ce0c"
  },
  {
@@ -5804,7 +6368,7 @@
    "cvss": 8.2,
    "ref": "https://www.ibm.com/support/pages/node/7288641"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-18074 — Quản lý giao dịch tài chính IBM (FTM) cho RedHat OpenShift có thể cho phép kẻ tấn công từ xa thực hiện các hành động trái phép do xác thực không đúng",
   "key": "d741c69ff985336de98fab8ea13fbd7bfc3ca71c"
  },
  {
@@ -5822,7 +6386,7 @@
    "cvss": 8.5,
    "ref": "https://www.ibm.com/support/pages/node/7288641"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-18095 — Quản lý giao dịch tài chính IBM (FTM) cho RedHat OpenShift có thể cho phép kẻ tấn công xác thực từ xa thực thi mã tùy ý do bộ đệm",
   "key": "b6e1cff54aa38de8621bcf5dded647b10d93623e"
  },
  {
@@ -5840,7 +6404,7 @@
    "cvss": 6.5,
    "ref": "https://www.ibm.com/support/pages/node/7288641"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-18114 — Quản lý giao dịch tài chính IBM (FTM) cho RedHat OpenShift có thể cho phép kẻ tấn công từ xa đọc các tệp tùy ý do đường dẫn chính tắc không đúng",
   "key": "895ed5bc432b08baffa12aa3ed1a8a43c601d815"
  },
  {
@@ -5858,7 +6422,7 @@
    "cvss": 7.6,
    "ref": "https://www.ibm.com/support/pages/node/7288641"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-18123 — Quản lý giao dịch tài chính (FTM) của IBM cho RedHat OpenShift có thể cho phép kẻ tấn công từ xa gây ra từ chối dịch vụ do sử dụng không đúng tham chiếu",
   "key": "2f628617ad4e177ef69ff578ed061c0d36992ce7"
  },
  {
@@ -5877,7 +6441,7 @@
    "cvss": 6.5,
    "ref": "https://www.ibm.com/support/pages/node/7288641"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-18124 — Quản lý Giao dịch Tài chính (FTM) của IBM cho RedHat OpenShift có thể cho phép kẻ tấn công cục bộ có được thông tin nhạy cảm do không đủ bảo vệ",
   "key": "254898749182183e16d5c56aaf9ef7af734526a6"
  },
  {
@@ -5895,7 +6459,7 @@
    "cvss": 8.2,
    "ref": "https://www.ibm.com/support/pages/node/7288641"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-18131 — Trình quản lý giao dịch tài chính (FTM) của IBM cho RedHat OpenShift có thể cho phép kẻ tấn công từ xa thực thi JavaScript tùy ý trong",
   "key": "d011af0d9f44fdaaa4601e2647294a4c763584e0"
  },
  {
@@ -5913,7 +6477,7 @@
    "cvss": 6.5,
    "ref": "https://www.ibm.com/support/pages/node/7288641"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-18132 - Quản lý giao dịch tài chính IBM (FTM) cho RedHat OpenShift có thể cho phép kẻ tấn công được xác thực từ xa thực hiện hành động đột biến thanh toán trái phép",
   "key": "3919b1efa71b95a42ad9e6e2af99cbbdc0c39892"
  },
  {
@@ -5931,7 +6495,7 @@
    "cvss": 5.4,
    "ref": "https://www.ibm.com/support/pages/node/7288641"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-18133 - Trình quản lý giao dịch tài chính (FTM) của IBM cho RedHat OpenShift có thể cho phép kẻ tấn công được xác thực từ xa sửa đổi các tệp máy chủ do đường dẫn truyền qua",
   "key": "d9ebedaa20573c9d6508c4620a05bc02c3ff4829"
  },
  {
@@ -5949,7 +6513,7 @@
    "cvss": 7.5,
    "ref": "https://www.ibm.com/support/pages/node/7288641"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-18134 — Quản lý giao dịch tài chính IBM (FTM) cho RedHat OpenShift có thể cho phép kẻ tấn công từ xa lấy thông tin nhạy cảm do truyền cleartext",
   "key": "13f17acac32fc15f113892e007a0782e8b9ca298"
  },
  {
@@ -5967,7 +6531,7 @@
    "cvss": 8.1,
    "ref": "https://www.ibm.com/support/pages/node/7288641"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-18137 — Quản lý Giao dịch Tài chính (FTM) của IBM cho RedHat OpenShift có thể cho phép kẻ tấn công từ xa thực thi các lệnh ESQL tùy ý do tính trung lập không đúng",
   "key": "4a8bba0867e0142347bc496b02a1a2b7c99de812"
  },
  {
@@ -5985,7 +6549,7 @@
    "cvss": 7.4,
    "ref": "https://www.ibm.com/support/pages/node/7288641"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-18152 - Quản lý giao dịch tài chính IBM (FTM) cho RedHat OpenShift có thể cho phép kẻ tấn công từ xa giả mạo các tin nhắn được ký hợp lệ do xác minh không đúng",
   "key": "5ac010c0c86258bbf9e31f1d2522dd5f7e7dd641"
  },
  {
@@ -6003,7 +6567,7 @@
    "cvss": 5.4,
    "ref": "https://www.ibm.com/support/pages/node/7288641"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-18153 — Quản lý giao dịch tài chính IBM (FTM) cho RedHat OpenShift có thể cho phép kẻ tấn công được xác thực từ xa lấy thông tin nhạy cảm và giả mạo AUT",
   "key": "3a714b9bc674d40c01e69892d766f6cf80ac08d0"
  },
  {
@@ -6021,7 +6585,7 @@
    "cvss": 8.0,
    "ref": "https://www.ibm.com/support/pages/node/7288641"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-18154 — Quản lý giao dịch tài chính IBM (FTM) cho RedHat OpenShift có thể cho phép kẻ tấn công từ xa có được thông tin nhạy cảm do sử dụng hard-co",
   "key": "71d24fcbe4fa664a4fd0b311714c2496cb3520a9"
  },
  {
@@ -6039,7 +6603,7 @@
    "cvss": 6.5,
    "ref": "https://www.ibm.com/support/pages/node/7288641"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-18156 - Trình quản lý giao dịch tài chính (FTM) của IBM cho RedHat OpenShift có thể cho phép kẻ tấn công được xác thực từ xa vượt qua các biện pháp kiểm soát bảo mật bằng cách giả mạo người dùng i",
   "key": "2cfc4c5f8fd7eb4b78821c7e0cf82b6c5ece5660"
  },
  {
@@ -6057,7 +6621,7 @@
    "cvss": 4.3,
    "ref": "https://www.ibm.com/support/pages/node/7288641"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-18161 — Quản lý giao dịch tài chính IBM (FTM) cho RedHat OpenShift có thể cho phép kẻ tấn công được xác thực từ xa làm sai lệch nhật ký kiểm toán giao dịch do impr",
   "key": "07b1e6785e97bebdac8352bdaee8f55d38b952c8"
  },
  {
@@ -6075,7 +6639,7 @@
    "cvss": null,
    "ref": "https://github.com/googleapis/mcp-toolbox-sdk-python/pull/675"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-19202 — Một lỗ hổng bộ nhớ đệm trong gói lõi hộp công cụ của SDK mcp-toolbox-sdk-python làm cho cùng một mã thông báo Google ID được lưu trữ và sử dụng lại trên các",
   "key": "bdc011e07b02535afe63aa01ddaddd45143f9f42"
  },
  {
@@ -6093,7 +6657,7 @@
    "cvss": 7.3,
    "ref": "https://github.com/yingxiujie/cve/issues/9"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-95819 — Một lỗ hổng đã được tìm thấy trong anirbandutta9 College-Notes-Gallery lên đến 8c1cf3d98f30982d069c88ca172612c001eb39f6",
   "key": "a819ac967a5cedb383783e7484df4dcb11ad54fb"
  },
  {
@@ -73615,585 +74179,5 @@
   },
   "title_vi": "",
   "key": "eace43c6c3417d7616d6db527f059edecc005b1e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90320 — In the Linux kernel, the following vulnerability has been resolved: ocfs2: validate external xattr entries when reading metadata ocfs2_validate_xattr_",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90320",
-  "published": "2026-09-17T17:17:29.957",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nocfs2: validate external xattr entries when reading metadata\n\nocfs2_validate_xattr_block() checks the xattr block header before the\nblock reaches higher-level xattr users, but it does not verify that a\nnon-indexed block's xh_count and entry offsets fit inside the block. \nIndexed buckets likewise reach list/get consumers after ECC without an\nentry-bounds check.\n\nUse the flat xattr entry validator for non-indexed external xattr blocks,\nand use a bucket-specific validator for indexed buckets at metadata read\ntime.  The bucket va",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90320",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/2cf82b46d5e43be0dfbaac7fa1073cec2fc1f5e6"
-  },
-  "title_vi": "",
-  "key": "c866700a4ff754f920ae306683b32fec282cf0dc"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90321 — In the Linux kernel, the following vulnerability has been resolved: ocfs2: validate inline xattrs during inode block validation Patch series \"ocfs2: v",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90321",
-  "published": "2026-09-17T17:17:30.067",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nocfs2: validate inline xattrs during inode block validation\n\nPatch series \"ocfs2: validate xattr entry bounds\", v7.\n\nThis series validates OCFS2 xattr entry name/value bounds when xattr\nmetadata is read and validated, before getxattr() or listxattr() can walk\nout-of-range entry arrays or offsets from corrupted metadata.\n\n\nThis patch (of 2):\n\nocfs2_validate_inode_block() verifies a dinode before OCFS2 users walk\nmetadata from it, but inline xattr metadata is still checked only in\noperation-specific consumers.  The existing ibo",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90321",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/3fd45b24879fa4885b66a582a6e47eda67f11310"
-  },
-  "title_vi": "",
-  "key": "d758bc889a6e5577fec6bd11788928d882dae30c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90322 — In the Linux kernel, the following vulnerability has been resolved: ocfs2/cluster: keep heartbeat local node stable o2nm_node_local_store() handles lo",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90322",
-  "published": "2026-09-17T17:17:30.173",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nocfs2/cluster: keep heartbeat local node stable\n\no2nm_node_local_store() handles local=0 by stopping o2net and setting\ncl_local_node to O2NM_INVALID_NODE_NUM, but it leaves cl_has_local set. \nThat stale state makes o2nm_this_node() return 255, blocks a later local=1\nattempt with -EBUSY, and can feed 255 to heartbeat users that call\no2nm_this_node() dynamically.\n\nClearing cl_has_local is required when the local node is reset.  But\nheartbeat threads can still be running at that point.  They pin the local\nnode config item at sta",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90322",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/688bc88e2046dd6ce81ce18079b5254cb8dadc0e"
-  },
-  "title_vi": "",
-  "key": "a66ae2a54195471eba57e593af057c4421774c1f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90323 — In the Linux kernel, the following vulnerability has been resolved: ublk: validate auto buf reg before taking uring_cmd With UBLK_F_AUTO_BUF_REG, inva",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90323",
-  "published": "2026-09-17T17:17:30.307",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nublk: validate auto buf reg before taking uring_cmd\n\nWith UBLK_F_AUTO_BUF_REG, invalid sqe->addr can fail after\nublk_fill_io_cmd() has set UBLK_IO_FLAG_ACTIVE. The uring_cmd is\ncompleted while the tag stays active, which can hang teardown.\n\nSplit validation from buffer apply so the check has no side effects,\nthen take the uring_cmd and store the already-validated buffer. Apply\nthe same order in FETCH so io->buf is not written before __ublk_fetch()\nstate checks.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90323",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/653d22269a8b83b491f7f186a5d7872f14e6ddca"
-  },
-  "title_vi": "",
-  "key": "3d7044fd0ac1e2e0ae1f23f0777568a9a61402ac"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90324 — In the Linux kernel, the following vulnerability has been resolved: ublk: check import_ubuf() return value import_ubuf() can fail if the address range",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90324",
-  "published": "2026-09-17T17:17:30.410",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nublk: check import_ubuf() return value\n\nimport_ubuf() can fail if the address range (provided by the userspace\nublk server) is outside the allowed user address space. Return that 0\nbytes were copied if import_ubuf() fails rather than passing an\nuninitialized struct iov_iter to ublk_copy_user_pages().",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90324",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/0121c84adb6a4cd6f7560b5895bd88f9899bbc1f"
-  },
-  "title_vi": "",
-  "key": "2db2fc9e306a04bf8f9176e4a91eb4a924181478"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90325 — In the Linux kernel, the following vulnerability has been resolved: blk-cgroup: skip dying blkg in blkcg_activate_policy() When switching IO scheduler",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90325",
-  "published": "2026-09-17T17:17:30.540",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nblk-cgroup: skip dying blkg in blkcg_activate_policy()\n\nWhen switching IO schedulers on a block device, blkcg_activate_policy()\ncan race with concurrent blkcg deletion, leading to a use-after-free in\nrcu_accelerate_cbs.\n\nT1:                               T2:\n                                  blkg_destroy\n                                  kill(&blkg->refcnt) // blkg->refcnt=1->0\n                                  blkg_release // call_rcu(__blkg_release)\n                                  ...\n                                  blk",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90325",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/083b58373463a6e5ee60ecb135269348f68ad7df"
-  },
-  "title_vi": "",
-  "key": "88abe7a4afe432a3ab9f7d7203c74374b9725265"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90326 — In the Linux kernel, the following vulnerability has been resolved: blk-cgroup: fix race between policy activation and blkg destruction When switching",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90326",
-  "published": "2026-09-17T17:17:30.673",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nblk-cgroup: fix race between policy activation and blkg destruction\n\nWhen switching an IO scheduler on a block device, blkcg_activate_policy()\nallocates blkg_policy_data (pd) for all blkgs attached to the queue.\nHowever, blkcg_activate_policy() may race with concurrent blkcg deletion,\nleading to use-after-free and memory leak issues.\n\nThe use-after-free occurs in the following race:\n\nT1 (blkcg_activate_policy):\n  - Successfully allocates pd for blkg1 (loop0->queue, blkcgA)\n  - Fails to allocate pd for blkg2 (loop0->queue, blk",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90326",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/083b58373463a6e5ee60ecb135269348f68ad7df"
-  },
-  "title_vi": "",
-  "key": "71e72bd02f6b028864dea8d6f71ead476847d1e5"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90327 — In the Linux kernel, the following vulnerability has been resolved: phonet: pep: do not write beyond optlen in getsockopt pep_getsockopt() clamps the ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90327",
-  "published": "2026-09-17T17:17:30.800",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nphonet: pep: do not write beyond optlen in getsockopt\n\npep_getsockopt() clamps the reported length to the caller's buffer with\nmin_t(), but then stores the value with put_user(val, (int __user *)\noptval), which always writes sizeof(int) bytes. A getsockopt() call with\nan optlen smaller than sizeof(int) thus reports the clamped length yet\nwrites a full int, one to three bytes past the user buffer.\n\nWrite the value with copy_to_user() bounded by len, so at most optlen\nbytes are copied, matching the length reported back to users",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90327",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/056eea1a2068ad2fb7c3093c5f1095268f87d0c7"
-  },
-  "title_vi": "",
-  "key": "22ebd52c26ec6193ce60875d1e7b888959150b6f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90328 — In the Linux kernel, the following vulnerability has been resolved: HID: steam: Reject short reads Steam Controller FEATURE reports encode the size of",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90328",
-  "published": "2026-09-17T17:17:30.940",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nHID: steam: Reject short reads\n\nSteam Controller FEATURE reports encode the size of the message in the\nmessage itself. Previously we were trusting that the size reported matched\nthe size we actually read, leading to a potential issue with short reads.\nInstead, we should actually verify the length of the read.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90328",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/33ff7b49c38b39b1f3d27db508ac0720fb25c08a"
-  },
-  "title_vi": "",
-  "key": "c4e3899c74baf9e824e9fdabede57ff63687cc77"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90329 — In the Linux kernel, the following vulnerability has been resolved: HID: synchronize input before cleaning up a failed probe hid_device_io_start() all",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90329",
-  "published": "2026-09-17T17:17:31.307",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nHID: synchronize input before cleaning up a failed probe\n\nhid_device_io_start() allows reports to run concurrently with probe. If\nthe probe subsequently fails, __hid_device_probe() releases driver\nresources and clears hdev->driver without first excluding those report\ncallbacks.\n\nFor example, a report may enter hidraw_report_event() while the failure\npath frees the associated hidraw object, leading to a use-after-free when\nthe report takes the object's list lock.\n\nStop input before performing failed-probe cleanup. This reacqui",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90329",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/01eeb601a1626e683fb7b77c63f442b06fb87093"
-  },
-  "title_vi": "",
-  "key": "f640739be68b4785db1158a9900a4d5cbd880716"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90330 — In the Linux kernel, the following vulnerability has been resolved: HID: logitech-hidpp: Fix FF device cleanup on init failure hidpp_ff_init() creates",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90330",
-  "published": "2026-09-17T17:17:31.487",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nHID: logitech-hidpp: Fix FF device cleanup on init failure\n\nhidpp_ff_init() creates the input force-feedback device with\ninput_ff_create(), then allocates the HID++ FF private data,\neffect ID array, and workqueue.\n\nIf any of those allocations fail after input_ff_create() succeeds,\nthe function returns an error without destroying the FF device.\nAdd an unwind path that frees the private allocations made by\nhidpp_ff_init() and calls input_ff_destroy() for failures after\ninput_ff_create() succeeds.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90330",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/13378c9ac0a1bcdf49ba158e4199594aafb589cd"
-  },
-  "title_vi": "",
-  "key": "a2b68ae88feb76ee3b362bf7fb5983253a972a32"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90331 — In the Linux kernel, the following vulnerability has been resolved: HID: asus: refactor the two workqueues and init sequence Multiple issues have been",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90331",
-  "published": "2026-09-17T17:17:31.610",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nHID: asus: refactor the two workqueues and init sequence\n\nMultiple issues have been found within the hid-asus driver:\n- unchecked size in asus_raw_event()\n- unclean teardown of asus_probe on failure\n- possible use-after-free in asus_probe\n- multiple workqueue used for jobs where one was enough\n- sleeping calls in atomic context\n- packets of incorrect size being sent to the keyboard controller\n\nJoin the two workqueues into one reusing the stopping mechanism\nof the brightness workqueue, use the joined workqueue to also\nmove the",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90331",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/47669bec44fe12fe2c7adf2b299e980d7935a2ce"
-  },
-  "title_vi": "",
-  "key": "5cf6d0708ef76251f368213425b27106e884a0a9"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90332 — In the Linux kernel, the following vulnerability has been resolved: PCI: dwc: ep: Flush cached MSI write before unmapping the iATU The MSI-X path alre",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90332",
-  "published": "2026-09-17T17:17:31.720",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nPCI: dwc: ep: Flush cached MSI write before unmapping the iATU\n\nThe MSI-X path already flushes any posted MSI-X write before tearing down\nits iATU mapping. That was added by commit c22533c66cca (\"PCI: dwc: ep:\nFlush MSI-X write before unmapping its ATU entry\") to make sure the write\nreaches the Root Complex before the outbound window that translates it\ndisappears.\n\nThe MSI path has the same problem but no equivalent flush. When the\nEndpoint driver caches an MSI target address and later observes that the\nRoot Complex has chang",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90332",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/1b01d725d8b42450b86a857bab3c46856c740166"
-  },
-  "title_vi": "",
-  "key": "d441470b46f49f5484e6d368d9fad0e8f230cced"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90333 — In the Linux kernel, the following vulnerability has been resolved: dm-integrity: replace forgeable discard filler with a keyed sector marker The disc",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90333",
-  "published": "2026-09-17T17:17:31.830",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\ndm-integrity: replace forgeable discard filler with a keyed sector marker\n\nThe discard-block check in dm_integrity_rw_tag() treats a stored tag\nof all 0xf6 bytes (DISCARD_FILLER) as proof a block was discarded and\nskips HMAC verification. allow_discards is only accepted in\ndm-integrity's standalone mode. An attacker with raw write access to\nthe backing device, but without the integrity key, can stamp any block\nwith an all-0xf6 tag and have it served as authentic.\n\nAdd a new \"allow_discards_keyed\" target argument that marks di",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90333",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/5c58ea19a909ef6bed4f0f824e9cd7e30d7e4775"
-  },
-  "title_vi": "",
-  "key": "184f4bc387da62ea860a86e89b22f3af81abdd4e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90334 — In the Linux kernel, the following vulnerability has been resolved: tty: clear cdev pointer after cdev_add() failure tty_cdev_add() drops the cdev ref",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90334",
-  "published": "2026-09-17T17:17:31.937",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\ntty: clear cdev pointer after cdev_add() failure\n\ntty_cdev_add() drops the cdev reference when cdev_add() fails, but\nleaves driver->cdevs[index] pointing to freed memory.\ntty_unregister_device() later passes that stale pointer to cdev_del(),\ncausing a use-after-free.\n\nClear the slot after dropping the reference.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90334",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/33a44333a9dfda044b0e233399b12ead7f8a90ae"
-  },
-  "title_vi": "",
-  "key": "e6ce97695a667acd087ca7ba463a857a23ef8f1e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90335 — In the Linux kernel, the following vulnerability has been resolved: tty: skip cdev_del() when no cdev is registered TTY device registration can fail b",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90335",
-  "published": "2026-09-17T17:17:32.073",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\ntty: skip cdev_del() when no cdev is registered\n\nTTY device registration can fail before a cdev is allocated.\nSerial core keeps the port so setserial can still use it, and later\nremoval passes the NULL cdev slot to cdev_del(), causing a NULL-pointer\ndereference.\n\nOnly delete the cdev when the slot is not NULL.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90335",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/3dbf85ef40b6366ba15e882f7536cdc98bea579a"
-  },
-  "title_vi": "",
-  "key": "bfaa63ee9753b4f79855f0f1eb9d5f25c3be5c41"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90336 — In the Linux kernel, the following vulnerability has been resolved: serial: core: clear freed pointers on uart_register_driver() failure uart_register",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90336",
-  "published": "2026-09-17T17:17:32.180",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nserial: core: clear freed pointers on uart_register_driver() failure\n\nuart_register_driver() leaves drv->state pointing to freed memory when\ntty_alloc_driver() fails. If tty_register_driver() fails, drv->tty_driver\nalso retains a pointer after its reference is dropped.\n\nDrivers that use drv->state as an \"already registered\" flag can then skip\nregistration on the next probe and pass the freed state to\nuart_add_one_port().\n\nThis issue was found with failslab on QEMU's raspi1ap board by\nfailing registration and binding the PL011",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90336",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/06b376432974fe5f25f2843a8e8438c6a1cf3d50"
-  },
-  "title_vi": "",
-  "key": "89a01663cf6c2528e5bc6cddbd1ee6aa68601e7d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90337 — In the Linux kernel, the following vulnerability has been resolved: serial: core: do fallible allocations before the console can be registered serial_",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90337",
-  "published": "2026-09-17T17:17:32.290",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nserial: core: do fallible allocations before the console can be registered\n\nserial_core_add_one_port() allocates uport->tty_groups after\nuart_configure_port(), which may register the console. If the allocation\nfails, the driver unwinds the port while its console remains registered.\nThe earlier uport->name allocation has a related failure path that leaves\nstate->uart_port linked to a port being freed.\n\nFailslab reproduced a NULL dereference in PL011 console output and a KASAN\nuse-after-free in i.MX console output after failed ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90337",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/1a0e4fbce5d9c1bc179a35a2fd9ed142664299e3"
-  },
-  "title_vi": "",
-  "key": "0557ff152be690a5fe960a9197c6bf0ef0cbac40"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90338 — In the Linux kernel, the following vulnerability has been resolved: serial: amba-pl011: keep console clock enabled for atomic writes pl011_console_wri",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90338",
-  "published": "2026-09-17T17:17:32.393",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nserial: amba-pl011: keep console clock enabled for atomic writes\n\npl011_console_write_atomic() runs from nbcon atomic context, where\nsleeping is not allowed. It calls clk_enable(), which takes the common-clk\nenable_lock. Under PREEMPT_RT that is a sleeping lock:\nclk_enable_lock() first tries spin_trylock_irqsave(), but on contention\nfalls back to spin_lock_irqsave(). Therefore, an atomic-context printk on\nan RT kernel with a clk-backed pl011 can trip:\n\n  BUG: sleeping function called from invalid context at spinlock_rt.c:48\n ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90338",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/2ad24c1d0b939d814a3020f96a667ac2d0394289"
-  },
-  "title_vi": "",
-  "key": "11fee35d8321c8b2350d5dfa39382385243eb271"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90339 — In the Linux kernel, the following vulnerability has been resolved: powerpc/syscall: Fix syscall skip handling for seccomp and ptrace After enabling G",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90339",
-  "published": "2026-09-17T17:17:32.520",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\npowerpc/syscall: Fix syscall skip handling for seccomp and ptrace\n\nAfter enabling GENERIC_ENTRY on PowerPC, syscall_enter_from_user_mode()\nreturns -1 as a sentinel to signal that seccomp or ptrace has intercepted\nthe syscall and already set a return value via syscall_set_return_value().\nsystem_call_exception() was not handling this sentinel, and since -1UL\nis >= NR_syscalls, the code fell into the out-of-range path and returned\n-ENOSYS, overwriting the errno already placed in regs->gpr[3].\n\nThe naive fix of checking r0 == -1L",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90339",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/19b54740e2e1102c7d48553d9e0347c1f6af22b0"
-  },
-  "title_vi": "",
-  "key": "8ad24dd037d69198a994c2b79fbbe7a3de64eba2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90340 — In the Linux kernel, the following vulnerability has been resolved: pinctrl: generic: free maps on pinctrl_generic_to_map() failure pinctrl_generic_to",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90340",
-  "published": "2026-09-17T17:17:32.633",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\npinctrl: generic: free maps on pinctrl_generic_to_map() failure\n\npinctrl_generic_to_map() parses DT configuration and allocates pinctrl\nmaps via pinctrl_utils_reserve_map().\n\nIf subsequent steps (such as pinctrl_utils_add_map_mux(),\npinctrl_generic_add_group(), pinconf_generic_parse_dt_config(), or\npinctrl_utils_add_map_configs()) return an error, *maps may contain\npartially allocated map entries. Returning the error directly without\nfreeing *maps leaks the allocated mapping memory across all drivers\nthat rely on pinctrl_gene",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90340",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/09f47abc95ee9e819e7e93cd68c1c23abe11c842"
-  },
-  "title_vi": "",
-  "key": "62abc21bf873e694495d794a0ac22c40e54ae23d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90341 — In the Linux kernel, the following vulnerability has been resolved: firmware: coreboot: Validate table bounds The existing coreboot_table_populate() b",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90341",
-  "published": "2026-09-17T17:17:32.740",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nfirmware: coreboot: Validate table bounds\n\nThe existing coreboot_table_populate() bounds checks limit individual\nentries to the mapped length.  However, coreboot_table_probe() replaces\nthe platform resource length with header and table sizes supplied by\nfirmware before mapping the full table.\n\nA malformed table can overflow the 32-bit size addition or advertise an\nextent beyond the resource, causing the driver to map and parse memory\noutside the resource.  A resource shorter than the fixed header is also\nmapped as though it c",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90341",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/2d98a3b89394f283f054a4a54587c14ee89acaf9"
-  },
-  "title_vi": "",
-  "key": "ee53c672131d2bbb284ae67e9af63341388b1f40"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90342 — In the Linux kernel, the following vulnerability has been resolved: bpf: Fix mmap_lock deadlock on arena lock failure Reported by the Sashiko AI revie",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90342",
-  "published": "2026-09-17T17:17:32.877",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nbpf: Fix mmap_lock deadlock on arena lock failure\n\nReported by the Sashiko AI review.\n\narena_vm_fault() returns VM_FAULT_RETRY when it can't take\narena->spinlock, but it never took mmap_lock. The fault path assumes a\nVM_FAULT_RETRY handler already dropped mmap_lock and re-takes it on the\nretry, so mmap_lock gets taken twice and can deadlock:\n\n\tdo_user_addr_fault()\n\t{\n\t\tfault = handle_mm_fault(...);   // calls arena_vm_fault()\n\t\tif (fault & VM_FAULT_RETRY)\n\t\t\tgoto retry;   // re-locks mmap_lock\n\t\tmmap_read_unlock(mm);\n\t}\n\nRetu",
-  "categories": [
-   "ai",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90342",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/0b10b945479c954393d62ee3229d2f224a4ca91c"
-  },
-  "title_vi": "",
-  "key": "c4c2bbeae8cc60071ab01516cb3b5b3f1e957130"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90343 — In the Linux kernel, the following vulnerability has been resolved: wifi: cfg80211: stop PMSR before P2P and NAN teardown PMSR request teardown must a",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90343",
-  "published": "2026-09-17T17:17:32.977",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nwifi: cfg80211: stop PMSR before P2P and NAN teardown\n\nPMSR request teardown must abort active measurements while the\nwireless_dev is still present in the driver. cfg80211_leave_locked() and\ncfg80211_stop_pd() already do this before invoking the driver's stop\ncallback, but cfg80211_stop_p2p_device() and cfg80211_stop_nan() do not.\n\nThose helpers are also called directly by nl80211, rfkill shutdown, and\nwireless_dev unregister paths. If one of these paths stops a P2P device\nor NAN interface with a pending request, it removes t",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90343",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/6c5fc504d0d6934132637aa3db4b9b58148eaa78"
-  },
-  "title_vi": "",
-  "key": "c9dfb937aa0b3bb2d9b2c67cfd280c1538220fe4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90344 — In the Linux kernel, the following vulnerability has been resolved: wifi: mac80211: disconnect on CSA to channel 0 The refactor for the CSA parsing er",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90344",
-  "published": "2026-09-17T17:17:33.103",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nwifi: mac80211: disconnect on CSA to channel 0\n\nThe refactor for the CSA parsing erroneously equates channel\nzero and no information present, leading it to ignore a CSA\non an AP that advertises a switch to that (invalid) channel.\nThis leads to not disconnecting, which we should. For Intel\ndevices, this can lead to a firmware crash.\n\nFix this by using an int type for the channel number as well\nas the opclass, and using a (negative) value that cannot be\nencoded in the element to indicate it's not present.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90344",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/099aadb2012d7490bc584cc5075ef11cbc33f2c3"
-  },
-  "title_vi": "",
-  "key": "17651aae2af13e983eafeecc5fc7b1e2a9d6bf36"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90345 — In the Linux kernel, the following vulnerability has been resolved: wifi: brcmfmac: fix P2P action frame handling without device vif Some P2P action f",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90345",
-  "published": "2026-09-17T17:17:33.230",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nwifi: brcmfmac: fix P2P action frame handling without device vif\n\nSome P2P action frame paths assume the P2P device vif is always\navailable. That is not true when userspace sends non-P2P public action\nframes through the primary interface, or when action-frame abort runs\nafter the P2P device vif has not been created.\n\nFall back to the primary vif when aborting an action frame without a P2P\ndevice vif, and guard P2P device saved IE access before using it for\npeer channel search.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90345",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/1b1edb9ebed49099bdc924cef49a9aea8b552199"
-  },
-  "title_vi": "",
-  "key": "01fb2b07fde662c78bbf5f6a1c86e506194b2839"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90346 — In the Linux kernel, the following vulnerability has been resolved: wifi: nl80211: clean up color-change beacon data on errors nl80211_color_change() ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90346",
-  "published": "2026-09-17T17:17:33.343",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nwifi: nl80211: clean up color-change beacon data on errors\n\nnl80211_color_change() calls nl80211_parse_beacon() for the beacon_next\ntemplate, which can allocate params.beacon_next.mbssid_ies and .rnr_ies.\nA parsing failure returned directly instead of using the out: cleanup,\nleaking any allocations completed before the error.\n\nAllocate the nested attribute table before parsing beacon_next. Its\nallocation failure can then return before beacon data exists, while a\nlater parsing failure uses out: to release the parsed data.",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90346",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/4e0a67fbe3d9e2e1d6f81dfc607184c6b0abd3dd"
-  },
-  "title_vi": "",
-  "key": "0e4c3b4947fba330417a730f6b8e21d81b8b2e87"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90347 — In the Linux kernel, the following vulnerability has been resolved: arm64: ptrace: Keep 'orig_x0' in-sync with x0 on syscall entry Commit e057b9477232",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90347",
-  "published": "2026-09-17T17:17:33.453",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\narm64: ptrace: Keep 'orig_x0' in-sync with x0 on syscall entry\n\nCommit e057b9477232 (\"arm64: syscall: Ensure saved x0 is kept in-sync\nwith tracer updates\") attempted to resolve a long-standing issue with\nsyscall entry tracing, where a tracer is able to manipulate the first\nsyscall argument without being subjected to seccomp or audit checking.\n\nUnfortunately, that fix was incomplete [1], as it failed to update\n'orig_x0' between a tracer updating x0 during a seccomp ptrace exit\n(SECCOMP_RET_TRACE) and the seccomp filter being r",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90347",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/88b839ce497ccb1ff92f7ae742c78dd2937ba572"
-  },
-  "title_vi": "",
-  "key": "c2ec8292fc39c3828437e554b4f05874a296a48a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90348 — In the Linux kernel, the following vulnerability has been resolved: wifi: ath10k: snoc: use memcpy_fromio() for MSA ramdump On WCN3990/SNOC the MSA re",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90348",
-  "published": "2026-09-17T17:17:33.553",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nwifi: ath10k: snoc: use memcpy_fromio() for MSA ramdump\n\nOn WCN3990/SNOC the MSA region is mapped with devm_memremap(MEMREMAP_WT).\nOn arm64 such a mapping is not Normal-cacheable, so unaligned accesses to\nit are not permitted. ath10k_msa_dump_memory() copies the region with a\nplain memcpy(), whose optimized __pi_memcpy_generic implementation issues\nwide/unaligned loads. This triggers an alignment fault (FSC=0x21) Oops in\nath10k_snoc_fw_crashed_dump() while collecting the devcoredump:\n\n  Unable to handle kernel paging request ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90348",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/045d1bfb72d2631ab9ec74afa491aa788ebb57aa"
-  },
-  "title_vi": "",
-  "key": "addd0b6634315ae07439d9fd4a1431971c52e74d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90349 — In the Linux kernel, the following vulnerability has been resolved: wifi: mt76: mt7996: fix out-of-bounds link array access in mt7996_tx() When mac802",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90349",
-  "published": "2026-09-17T17:17:33.700",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nwifi: mt76: mt7996: fix out-of-bounds link array access in mt7996_tx()\n\nWhen mac80211 leaves the link unspecified, mt7996_tx() substitutes the\nprimary link id of the station or vif. That value is\nIEEE80211_LINK_UNSPECIFIED (0xf) until the first link has been added,\nand it is then used unchecked to index vif->link_conf[],\nmvif->mt76.link[] and sta->link[], all of which hold\nIEEE80211_MLD_MAX_NUM_LINKS (15) entries.\n\nClamp the primary link id to the default link before using it, and use\nthe clamped value for the link_sta fallba",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90349",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/4330a0ef9f75a54fde3548432a9a698f06bab635"
-  },
-  "title_vi": "",
-  "key": "a970479161f4c42506f9b7b73aae58ab10818e66"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90350 — In the Linux kernel, the following vulnerability has been resolved: wifi: mt76: reject out-of-range link ids in mt76_vif_link() mt76_vif_link() indexe",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90350",
-  "published": "2026-09-17T17:17:33.810",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nwifi: mt76: reject out-of-range link ids in mt76_vif_link()\n\nmt76_vif_link() indexes mvif->link[] without validating link_id, but\ncallers pass mvif->deflink_id / msta->deflink_id, which hold\nIEEE80211_LINK_UNSPECIFIED (0xf) until the first link has been added.\nSince IEEE80211_MLD_MAX_NUM_LINKS is 15, that reads one element past the\nend of the array, aliasing mt76_vif_data.offchannel_link.\n\nReachable via mt7996_set_tsf()/mt7996_offset_tsf() and\nmt7996_net_fill_forward_path(). Bounds check link_id and return NULL,\nmatching mt79",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90350",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/13f6a9c786022d5213e84d494cc8717c378f5395"
-  },
-  "title_vi": "",
-  "key": "e3bd6baeece9ee73c399546989307bb7f0c4212c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90351 — In the Linux kernel, the following vulnerability has been resolved: wifi: mt76: mt7996: do not attach hif2 WED when the main WED attach failed If the ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90351",
-  "published": "2026-09-17T17:17:33.913",
-  "summary": "In the Linux kernel, the following vulnerability has been resolved:\n\nwifi: mt76: mt7996: do not attach hif2 WED when the main WED attach failed\n\nIf the WED attach for the primary PCIe function fails, the probe path\nstill attached wed_hif2 for the secondary function, leaving the device\nin an inconsistent half-WED configuration that crashes later. The hif2\ncall also re-enabled hwrro_mode, which the failed primary attach had\njust turned off.\n\nSkip the hif2 WED setup when the primary WED device is not active.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90351",
-   "cvss": null,
-   "ref": "https://git.kernel.org/stable/c/76144da3c6184c7850631ad79d0600ac8bf7649a"
-  },
-  "title_vi": "",
-  "key": "876bb86545930d84956d4d5e280d24761120afc2"
  }
 ]
