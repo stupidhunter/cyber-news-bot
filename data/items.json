@@ -1,6 +1,871 @@
 [
  {
   "source": "VietnamPlus Kinh tế số",
+  "title": "Thành phố Hồ Chí Minh: Phối hợp thực chiến bảo vệ hệ thống thông tin thiết yếu",
+  "link": "https://www.vietnamplus.vn/thanh-pho-ho-chi-minh-phoi-hop-thuc-chien-bao-ve-he-thong-thong-tin-thiet-yeu-post1138181.vnp",
+  "published": "2026-09-24T08:31:54+00:00",
+  "summary": "Ngày 24/9, Công an Thành phố Hồ Chí Minh khai mạc Chương trình “Diễn tập thực chiến đảm bảo an ninh mạng Thành phố Hồ Chí Minh năm 2026” và các đơn vị chuyên môn.&nbsp; Bộ Công an thông tin kết quả Chiến dịch 100 ngày đêm chuẩn hóa cơ sở dữ liệu Ba Bộ Quốc phòng, Công an và Ngoại giao tăng cường phối hợp thực hiện nhiệm vụ đối ngoại trong giai đoạn mới Ra mắt Hệ thống Thông tin quốc gia về khoa học, công nghệ và đổi mới sáng tạo",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "cbe3fd604f6ec81f8513816d2abd4293b577702e"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Phú Thọ: Âm nhạc vì hành trình giải cứu những chú gấu cuối cùng",
+  "link": "https://www.vietnamplus.vn/phu-tho-am-nhac-vi-hanh-trinh-giai-cuu-nhung-chu-gau-cuoi-cung-post1138185.vnp",
+  "published": "2026-09-24T08:13:29+00:00",
+  "summary": "Ngày 24/9, tại Phú Thọ, nghệ sỹ piano và nhà soạn nhạc người Anh Rick Wakeman CBE đã có buổi biểu diễn đặc biệt dành tặng những con gấu được giải cứu từ các cơ sở nuôi gấu lấy mật trên cả nước. Cứu hộ cá thể gấu ở “xã nuôi gấu lớn nhất nước” về Vườn quốc gia Bạch Mã Canada ghi nhận số vụ gấu tấn công người gia tăng Tokyo dỡ bỏ lệnh cấm săn gấu sau 20 năm",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "3bb788fe6685c0a09ee58bb51a6c71c4e2e9db07"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Đà Nẵng: Xét xử vụ lừa đảo chiếm đoạt tài sản của hơn 7.000 người bị hại",
+  "link": "https://www.vietnamplus.vn/da-nang-xet-xu-vu-lua-dao-chiem-doat-tai-san-cua-hon-7000-nguoi-bi-hai-post1138174.vnp",
+  "published": "2026-09-24T07:52:53+00:00",
+  "summary": "Đà Nẵng mở phiên xét xử sơ thẩm đối với vụ án lừa đảo chiếm đoạt tài sản xảy ra tại Công ty GFDI, đây là phiên tòa có quy mô đặc biệt lớn, số lượng bị hại và liên quan lên đến hàng nghìn người. Quảng Ninh xét xử 2 đối tượng về tội giết người do mâu thuẫn trong lúc đánh bạc Hà Nội: Viện Kiểm sát khẳng định đủ căn cứ xét xử cựu Hiệu trưởng THCS Ba Đình Lần đầu xét xử vụ kiện công ích, yêu cầu nộp tiền nợ Bảo hiểm xã hội",
+  "categories": [
+   "breach",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "4f418eec0b3e4f3a9ab196b0ac0ba36b11f95637"
+ },
+ {
+  "source": "Tuổi Trẻ Công nghệ",
+  "title": "6 đội 'tấn công', 1 đội phòng thủ diễn tập an ninh mạng TP.HCM",
+  "link": "https://tuoitre.vn/6-doi-tan-cong-1-doi-phong-thu-dien-tap-an-ninh-mang-tphcm-100260924103742975.htm",
+  "published": "2026-09-24T08:59:21.809205+00:00",
+  "summary": "Chương trình diễn tập thực chiến về tấn công mạng kéo dài năm ngày được triển khai trên ba hệ thống thông tin thuộc các lĩnh vực cấp nước, giáo dục và y tế.",
+  "categories": [
+   "breach",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "82eb48f74ac44668361468450ad3b2d2a9fb4f4c"
+ },
+ {
+  "source": "Tuổi Trẻ Công nghệ",
+  "title": "Úc phát hiện tác nhân AI của OpenAI xâm nhập trang web chính phủ",
+  "link": "https://tuoitre.vn/uc-phat-hien-tac-nhan-ai-cua-openai-xam-nhap-trang-web-chinh-phu-100260924112047896.htm",
+  "published": "2026-09-24T08:59:21.809230+00:00",
+  "summary": "Thủ tướng Úc Anthony Albanese cho biết chương trình của OpenAI đã xâm nhập vào trang web y tế của chính phủ.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "22e9980292262ca54edaee013283ae097f3abbb5"
+ },
+ {
+  "source": "Thanh Niên Công nghệ",
+  "title": "L&agrave;m sao để ứng dụng AI tạo ra gi&aacute; trị khi vận h&agrave;nh thực tế?",
+  "link": "https://thanhnien.vn/lam-sao-de-ung-dung-ai-tao-ra-gia-tri-khi-van-hanh-thuc-te-185260924114019133.htm",
+  "published": "2026-09-24T04:06:00+00:00",
+  "summary": "Trong bối cảnh doanh nghiệp đẩy mạnh ứng dụng tr&iacute; tuệ nh&acirc;n tạo (AI), một c&acirc;u hỏi được đặt ra l&agrave;: AI c&oacute; thực sự tạo ra gi&aacute; trị khi đưa v&agrave;o vận h&agrave;nh hay chỉ dừng lại ở m&ocirc; h&igrave;nh thử nghiệm? H&agrave;ng trăm dự &aacute;n AI đang được doanh nghiệp thử nghiệm, nhưng chỉ khi c&ocirc;ng nghệ được đưa v&agrave;o vận h&agrave;nh tr&ecirc;n dữ liệu thực v&agrave; những quy tr&igrave;nh c&oacute; quy m&ocirc; lớn, hiệu quả của AI mới c&oacute; thể được kiểm chứng bằng c&aacute;c chỉ số kinh doanh cụ thể.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "e192da486850ec8bbdde9e9f0482d5768b08cec5"
+ },
+ {
+  "source": "Thanh Niên Công nghệ",
+  "title": "&Ocirc;ng Donald Trump đổi t&ecirc;n tr&iacute; tuệ nh&acirc;n tạo th&agrave;nh SI - si&ecirc;u tr&iacute; tuệ",
+  "link": "https://thanhnien.vn/ong-donald-trump-doi-ten-tri-tue-nhan-tao-thanh-si-sieu-tri-tue-185260924085650992.htm",
+  "published": "2026-09-24T03:22:00+00:00",
+  "summary": "Tổng thống Mỹ Donald Trump cho rằng từ &quot;nh&acirc;n tạo&quot; khiến AI kh&ocirc;ng thật do đ&oacute; &ocirc;ng tuy&ecirc;n bố nước Mỹ sẽ đổi t&ecirc;n c&ocirc;ng nghệ n&agrave;y th&agrave;nh SI - si&ecirc;u tr&iacute; tuệ (Super Intelligence).",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "620d48779cd53d27ed39e3ab21cee71337e46ded"
+ },
+ {
+  "source": "Thanh Niên Công nghệ",
+  "title": "Điện thoại Galaxy sắp c&oacute; chip bảo mật chặn pin giả v&agrave; chống ch&aacute;y nổ",
+  "link": "https://thanhnien.vn/dien-thoai-galaxy-sap-co-chip-bao-mat-chan-pin-gia-va-chong-chay-no-185260924092736255.htm",
+  "published": "2026-09-24T03:07:00+00:00",
+  "summary": "Samsung được cho l&agrave; sẽ t&iacute;ch hợp chip bảo mật v&agrave;o pin của khoảng 50 triệu smartphone Galaxy từ năm tới, nhằm ngăn chặn linh kiện giả v&agrave; ph&ograve;ng chống nguy cơ ch&aacute;y nổ.",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "70eb5ed0d86ada62ac06ccf00af3e5a2057a1a3a"
+ },
+ {
+  "source": "GenK",
+  "title": "Đã có Claude và Gemini, vì sao Qualcomm vẫn đưa agentic AI lên Snapdragon?",
+  "link": "https://genk.vn/da-co-claude-va-gemini-vi-sao-qualcomm-van-dua-agentic-ai-len-snapdragon-165260924144527299.chn",
+  "published": "2026-09-24T08:59:14.731160+00:00",
+  "summary": "Tại Snapdragon Summit 2026, Qualcomm lý giải vai trò của chip trong kỷ nguyên AI agent, khi những mô hình mạnh nhất vẫn chủ yếu vận hành trên cloud.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "1d189ac5ff5996d72d2e4d5e050f41883765b9a6"
+ },
+ {
+  "source": "GenK",
+  "title": "Dạo gian hàng Microsoft tại Snapdragon Summit 2026: Giữa dàn Surface mới, đây là tính năng tôi thấy hấp dẫn nhất",
+  "link": "https://genk.vn/dao-gian-hang-microsoft-tai-snapdragon-summit-2026-giua-dan-surface-moi-day-moi-la-tinh-nang-toi-thay-hap-dan-nhat-165262409090057385.chn",
+  "published": "2026-09-24T08:59:14.731352+00:00",
+  "summary": "Giữa loạt máy Surface sử dụng Snapdragon X2 Plus tại Snapdragon Summit 2026, một màn demo đã khiến tôi dừng lại lâu nhất. Trải nghiệm này cho thấy AI trên PC có thể trở nên gần gũi hơn khi người dùng không còn bị bó buộc trong ô nhập câu lệnh.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "b359dc8fdd5b975cef8abbe1234bc3e8fd37f1bb"
+ },
+ {
+  "source": "GenK",
+  "title": "AI trong phân phối bán lẻ: Từ bài toán thử nghiệm đến giá trị đo đếm được",
+  "link": "https://genk.vn/ai-trong-phan-phoi-ban-le-tu-bai-toan-thu-nghiem-den-gia-tri-do-dem-duoc-165260924100946008.chn",
+  "published": "2026-09-24T08:59:14.731408+00:00",
+  "summary": "Hàng trăm dự án AI đang được doanh nghiệp thử nghiệm, nhưng chỉ khi công nghệ được đưa vào vận hành trên dữ liệu thực và những quy trình có quy mô lớn, hiệu quả của AI mới có thể được kiểm chứng bằng các chỉ số kinh doanh cụ thể.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "440983e80f8aa75e6b9f0559f6b6fa69a5e8e2e7"
+ },
+ {
+  "source": "SecurityWeek",
+  "title": "US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks",
+  "link": "https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/",
+  "published": "2026-09-24T08:38:29+00:00",
+  "summary": "Karen Vardanyan has also been ordered to pay over $1.2 million in restitution to victims. The post US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks appeared first on SecurityWeek .",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks",
+  "key": "d11942939057ded2e4a5cf0b556d0b76ecbb5b8c"
+ },
+ {
+  "source": "SecurityWeek",
+  "title": "Critical WordPress Vulnerability Exploited Immediately After Disclosure",
+  "link": "https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/",
+  "published": "2026-09-24T07:12:26+00:00",
+  "summary": "Tracked as CVE-2026-87902, the path traversal flaw allows remote, unauthenticated attackers to execute arbitrary code. The post Critical WordPress Vulnerability Exploited Immediately After Disclosure appeared first on SecurityWeek .",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Lỗ hổng nghiêm trọng của WordPress bị khai thác ngay sau khi tiết lộ",
+  "key": "f77d56c3718cf61276eaf9fe4e04a93217d0a3aa"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
+  "link": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
+  "published": "2026-09-24T07:07:25+00:00",
+  "summary": "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister&nbsp;Anthony Albanese said. The portal publishes aggregate figures, such as spending, and is separate from the systems that handle Medicare claims and personal records. The agent reached files on it that were not public, but no personal",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
+  "key": "8cbfbb8e1d2c04ac9343c378d4bf4f178a8f9f5a"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
+  "link": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
+  "published": "2026-09-24T06:32:03+00:00",
+  "summary": "Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants. According to Proofpoint, the activity has primarily focused on Chilean retail and financial institutions. It originated from 1,487 unique AWS EC2 source IP addresses. \"The campaign compromised 7 accounts –",
+  "categories": [
+   "breach",
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Chiến dịch TeamFiltration thỏa hiệp bảy tài khoản Microsoft 365 sử dụng mật khẩu mặc định",
+  "key": "5cb038cfc4c61f30710e571eecf692cc5ef251b5"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
+  "link": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
+  "published": "2026-09-24T05:36:18+00:00",
+  "summary": "Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure. The vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an unauthenticated attacker to obtain remote code execution (RCE). \"An unauthenticated attacker can make get_page_template() page-template resolution include a chosen readable local .php file",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Tin tặc khai thác lỗ hổng bảo mật WordPress CVE-2026-87902 chỉ vài giờ sau khi phát hiện.",
+  "key": "dfd4ca74cb6772d90b24a5f46fa3364571073d1d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-96881 — A vulnerability was determined in TaleLin lin-cms-spring-boot up to 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96881",
+  "published": "2026-09-24T03:16:58.333",
+  "summary": "A vulnerability was determined in TaleLin lin-cms-spring-boot up to 0.2.1. Affected is the function getBooks of the file src/main/java/io/github/talelin/latticy/controller/v1/BookController.java of the component book Endpoint. Executing a manipulation can lead to improper authorization. The attack may be performed from remote. The exploit has been publicly disclosed and may be utilized. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-96881",
+   "cvss": 5.3,
+   "ref": "https://github.com/hhhh333/CVE/blob/main/Lin-CMS-%E6%9C%AA%E6%8E%88%E6%9D%832.md"
+  },
+  "title_vi": "CVE-2026-96881 — Một lỗ hổng đã được xác định trong TaleLin lin-cms-spring-boot lên đến 0",
+  "key": "e235eef374d49ec0c0533c59389738b56bb788d0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-96882 — A vulnerability was identified in TaleLin lin-cms-spring-boot up to 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96882",
+  "published": "2026-09-24T03:16:58.577",
+  "summary": "A vulnerability was identified in TaleLin lin-cms-spring-boot up to 0.2.1. Affected by this vulnerability is the function searchBook of the file src/main/java/io/github/talelin/latticy/controller/v1/BookController.java of the component book Endpoint. The manipulation leads to improper authorization. It is possible to initiate the attack remotely. The exploit is publicly available and might be used. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-96882",
+   "cvss": 5.3,
+   "ref": "https://github.com/hhhh333/CVE/blob/main/Lin-CMS-%E6%9C%AA%E6%8E%88%E6%9D%833.md"
+  },
+  "title_vi": "CVE-2026-96882 — Một lỗ hổng đã được xác định trong TaleLin lin-cms-spring-boot lên đến 0",
+  "key": "e04d97f9b955eff367e7f169fde57edc83d8d2f4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-96884 — A security flaw has been discovered in MantisZip up to 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96884",
+  "published": "2026-09-24T03:16:58.760",
+  "summary": "A security flaw has been discovered in MantisZip up to 0.4.5. Affected by this issue is the function Path.Combine of the file MainWindow.UI.cs of the component Preview. The manipulation results in path traversal. It is possible to launch the attack remotely. The exploit has been released to the public and may be used for attacks. The project was informed of the problem early through an issue report but has not responded yet.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-96884",
+   "cvss": 6.3,
+   "ref": "https://gitee.com/yhx070424/MantisZip/issues/IK4AHB"
+  },
+  "title_vi": "CVE-2026-96884 — Một lỗ hổng bảo mật đã được phát hiện trong MantisZip lên đến 0",
+  "key": "539c56531bc1e94684a5e12e47e75efced299d27"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-96891 — A vulnerability was identified in D-Link DIR-825 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96891",
+  "published": "2026-09-24T03:16:58.950",
+  "summary": "A vulnerability was identified in D-Link DIR-825 3.00b32. Affected is the function tunnel_set_params of the file tunnel.c of the component rp-l2tp. The manipulation of the argument peer_hostname  leads to out-of-bounds write. The attack may be initiated remotely.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-96891",
+   "cvss": 9.8,
+   "ref": "https://tzh00203.notion.site/D-Link-DIR-825-L2TP-Host-Name-AVP-Out-of-Bounds-Write-33cb5c52018a80458ffec58b62096940"
+  },
+  "title_vi": "CVE-2026-96891 — Một lỗ hổng đã được xác định trong D-Link DIR-825 3",
+  "key": "10c6f315fec4efb7a3e8a6c4adc676510d9987ec"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-97149 — In OpenStack Swift before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-97149",
+  "published": "2026-09-24T03:16:59.133",
+  "summary": "In OpenStack Swift before 2.38.2, the tempurl middleware does not reject the X-Copy-From header on PUT requests. A TempURL signature only covers the method, expiry, and path, and thus the list of disallowed headers is the only defense against a signed PUT request changing what the request does. An attacker holding a PUT TempURL for a single object can add an X-Copy-From header naming any object in the same account; the copy middleware copies that object to the destination, and the attacker then reads the victim's data back with a GET TempURL for the destination object. Copies across account bo",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-97149",
+   "cvss": null,
+   "ref": "https://launchpad.net/bugs/2166876"
+  },
+  "title_vi": "CVE-2026-97149 — Trong OpenStack Swift trước 2",
+  "key": "aaf13080310619cf34c26a43c03a293530629243"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-96892 — A flaw has been found in Edimax BR-6428nC 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96892",
+  "published": "2026-09-24T04:18:04.790",
+  "summary": "A flaw has been found in Edimax BR-6428nC 1.16. The impacted element is the function websRedirect of the component goform Handler. Executing a manipulation of the argument submit-url can lead to open redirect. The attack may be launched remotely. The exploit has been published and may be used. Multiple endpoints are affected. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-96892",
+   "cvss": 4.3,
+   "ref": "https://tzh00203.notion.site/Edimax-BR-6428nC-Open-Redirect-via-submit-url-33db5c52018a808a8c34c1cb68db7aab"
+  },
+  "title_vi": "CVE-2026-96892 — Một lỗ hổng đã được tìm thấy trong Edimax BR-6428nC 1",
+  "key": "f6c94fea97b695037f111b95cab8d5bf7d40c27a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-96898 — A vulnerability was detected in yhx070424 ShopXO up to 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96898",
+  "published": "2026-09-24T04:18:05.833",
+  "summary": "A vulnerability was detected in yhx070424 ShopXO up to 2.2.7. Affected by this vulnerability is an unknown functionality of the file config/ueditor.php of the component Ueditor Upload Interface. The manipulation of the argument path_type results in path traversal. It is possible to launch the attack remotely. The exploit is now public and may be used. The project was informed of the problem early through an issue report but has not responded yet.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-96898",
+   "cvss": 7.3,
+   "ref": "https://gitee.com/yhx070424/shopxo/"
+  },
+  "title_vi": "CVE-2026-96898 — Một lỗ hổng đã được phát hiện trong yhx070424 ShopXO lên đến 2",
+  "key": "c1f1e20ce94710a8969a2ab88a4a44f8f872db30"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-97151 — mammoth (aka mammoth",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-97151",
+  "published": "2026-09-24T04:18:06.027",
+  "summary": "mammoth (aka mammoth.js) before 1.12.2 is vulnerable to prototype pollution when reading the styles defined in a document. Converting a crafted .docx file allows an attacker to add arbitrary properties to Object.prototype. In 1.11.0 through 1.12.1, applications that convert further documents in the same process and return the converted HTML can also disclose the contents of local server files (to the party supplying the documents) by setting externalFileAccess to true.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-97151",
+   "cvss": null,
+   "ref": "https://github.com/mwilliamson/mammoth.js/commit/2888fa158d67c1419199f152326e12a05618b53e"
+  },
+  "title_vi": "CVE-2026-97151 - voi ma mút (còn gọi là voi ma mút",
+  "key": "6e04607f63916e5df50787f3e18cae72b0441ab0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-97152 — Nanomsg versions 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-97152",
+  "published": "2026-09-24T04:18:06.213",
+  "summary": "Nanomsg versions 0.5-beta through 1.x before 1.2.3 has a remotely exploitable buffer overflow in the WebSocket transport, due to an unchecked copy of the Sec-WebSocket-Version header, through snprintf.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-97152",
+   "cvss": null,
+   "ref": "https://github.com/nanomsg/nanomsg/pull/1130"
+  },
+  "title_vi": "CVE-2026-97152 — Phiên bản Nanomsg 0",
+  "key": "713ea53f44d3b9c6ed478c34550520542ab1c424"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-97155 — Fabasoft Folio Client before 2026, a locally installed component that communicates with the Fabasoft browser extension via web messaging, does not res",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-97155",
+  "published": "2026-09-24T04:18:06.397",
+  "summary": "Fabasoft Folio Client before 2026, a locally installed component that communicates with the Fabasoft browser extension via web messaging, does not restrict which web origins may invoke its functions by default. The registry value VALIDDOMAINS, which limits permitted origins, was optional and empty by default, resulting in all domains being trusted. As a consequence, any website visited by a user with the Folio Client and browser extension installed could invoke client functions, e.g., related to downloading documents, opening documents, and synchronizing files. The first fixed builds are Fabas",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-97155",
+   "cvss": 6.5,
+   "ref": "https://help.supportservices.fabasoft.com/index.php?topic=doc/Knowledge-Base/changes-to-fabasoft-folio-client-security-settings.htm"
+  },
+  "title_vi": "CVE-2026-97155 — Fabasoft Folio Client trước năm 2026, một thành phần được cài đặt cục bộ giao tiếp với tiện ích mở rộng trình duyệt Fabasoft qua tin nhắn web, không",
+  "key": "a31040395b0b3b73c3c7d0920e319d1257b5782e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-14780 — A vulnerability exists in the PaperCut NG/MF platform's device-scripting functionality due to insufficient sanitization and access restrictions within",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-14780",
+  "published": "2026-09-24T06:17:00.567",
+  "summary": "A vulnerability exists in the PaperCut NG/MF platform's device-scripting functionality due to insufficient sanitization and access restrictions within the embedded execution engine. An authenticated user with administrative access to the management interface can supply a malicious script that escapes the runtime sandbox.  \n\nA successful execution enables an attacker to run unauthorized operating system commands with administrative privileges on the host operating system.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-14780",
+   "cvss": null,
+   "ref": "https://www.papercut.com/kb/Main/security-bulletin-sep-2026/"
+  },
+  "title_vi": "CVE-2026-14780 — Một lỗ hổng tồn tại trong chức năng mô tả thiết bị của nền tảng PaperCut NG/MF do không đủ vệ sinh và hạn chế truy cập trong",
+  "key": "a3a2cbc0fbeaeed877925b924cc2e3ed972a88c4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-74991 — The WPForms WordPress plugin before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-74991",
+  "published": "2026-09-24T06:17:00.943",
+  "summary": "The WPForms  WordPress plugin before 2.0.2 does not verify that a Stripe payment object supplied during a public form submission belongs to it before acting on it, allowing unauthenticated users to trigger a full refund and an immediate subscription cancellation against payments created by other applications on the site owner's Stripe account.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-74991",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/e539d37e-91bb-4d79-b812-ac3c6c1a0f70/"
+  },
+  "title_vi": "CVE-2026-74991 — Plugin WPForms WordPress trước 2",
+  "key": "38d1b0d1ff57c3f29f15fafb77bd148d240a2f88"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-80338 — The CMB2 WordPress plugin before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80338",
+  "published": "2026-09-24T06:17:01.317",
+  "summary": "The CMB2 WordPress plugin before 2.13.0 does not perform any capability check on one of its AJAX actions, allowing users with a role as low as Subscriber to create arbitrary WordPress options and corrupt existing ones, which can break core site settings and take the site offline.\nExploitation requires the site's  or another CMB2 WordPress plugin before 2.13.0 to have declared an oEmbed field, as the CMB2 WordPress plugin before 2.13.0 registers none of its own. The stored value is never attacker-controlled, so the issue does not lead to privilege escalation.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-80338",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/7402e0b0-54de-42b3-9032-ae225fb4e76a/"
+  },
+  "title_vi": "CVE-2026-80338 — Plugin WordPress CMB2 trước 2",
+  "key": "db461e7a70bf96946fc9f15956b1dd43f92102ff"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-80513 — The wpForo Forum WordPress plugin before 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80513",
+  "published": "2026-09-24T06:17:01.430",
+  "summary": "The wpForo Forum WordPress plugin before 3.1.6 does not restrict which classes may be instantiated when it deserializes a user-supplied profile field value, allowing authenticated users with Subscriber-level access and above to inject a PHP Object.\nNo POP chain is present in the wpForo Forum WordPress plugin before 3.1.6 itself; if one is present via another installed wpForo Forum WordPress plugin before 3.1.6 or , this could lead to remote code execution, arbitrary file operations, or SQL injection. This is an incomplete fix of CVE-2026-49769.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-80513",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/09c9b9e7-c178-4f05-80d8-d4d77b7c5050/"
+  },
+  "title_vi": "CVE-2026-80513 — Plugin WordPress diễn đàn wpForo trước 3",
+  "key": "95e265e6830cf0a07c5c99a367c378e4730953af"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82195 — The 10Web Booster WordPress plugin before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82195",
+  "published": "2026-09-24T06:17:01.540",
+  "summary": "The 10Web Booster  WordPress plugin before 2.34.0 does not restrict access to the routine which issues the shared secret that authenticates its cloud connection, disclosing that secret to unauthenticated visitors and letting them delete it repeatedly, preventing an administrator from completing a legitimate connection.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82195",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/c6e4763e-e4db-4318-9631-06ee7426f3ae/"
+  },
+  "title_vi": "CVE-2026-82195 — Plugin 10Web Booster WordPress trước 2",
+  "key": "978ed69520f01ec4dddb66cb99e0fa9a0ff196ad"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82849 — The Masteriyo LMS WordPress plugin before 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82849",
+  "published": "2026-09-24T06:17:01.650",
+  "summary": "The Masteriyo LMS  WordPress plugin before 3.4.2 does not verify that the user making the request owns the course-progress records being returned, allowing any authenticated user, such as a self-registered subscriber, to read another user's learning activity. The ownership check it applies is skipped whenever the requested account is not named with a non-zero value, in which case the records of every learner on the site are returned at once.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82849",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/8114501a-3591-4d8c-b73e-a598756d45d7/"
+  },
+  "title_vi": "CVE-2026-82849 — Plugin WordPress Masteriyo LMS trước 3",
+  "key": "ffbb37f951dbc06a398b5c62ec157d7c13af603b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82850 — The Masteriyo LMS WordPress plugin before 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82850",
+  "published": "2026-09-24T06:17:01.770",
+  "summary": "The Masteriyo LMS  WordPress plugin before 3.4.2 does not restrict access to quiz answer keys, allowing any authenticated user, such as a student, to retrieve the correct answers for any quiz on the site, including quizzes in courses they are not enrolled in. The redaction that hides them is applied only to a fixed list of question types, so the answers to every other type are returned in full to anyone able to view the questions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82850",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/b26150aa-9220-4eb3-a160-0f5301faacc7/"
+  },
+  "title_vi": "CVE-2026-82850 — Plugin WordPress Masteriyo LMS trước 3",
+  "key": "e9aa3cd4e7ce033b0f3a3bf2440cfa3d9433fd04"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84151 — The Post Grid WordPress plugin before 7",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84151",
+  "published": "2026-09-24T06:17:01.873",
+  "summary": "The Post Grid  WordPress plugin before 7.9.5 does not limit an expansion of the WordPress allowed-HTML list to its own markup and applies it site-wide, allowing users with the Contributor role and above to store iframe, style and input elements that are normally stripped from their content, leading to HTML injection (phishing frames, CSS defacement and spoofed input forms) that renders to any visitor and to administrators reviewing the content.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84151",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/6601a305-a76f-40fe-8d78-c6a33a66d5f3/"
+  },
+  "title_vi": "CVE-2026-84151 — Plugin Post Grid WordPress trước 7",
+  "key": "773f25d976192cb4eba70c939e524a87590d3490"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88843 — The MasterStudy LMS WordPress Plugin WordPress plugin before 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88843",
+  "published": "2026-09-24T06:17:03.207",
+  "summary": "The MasterStudy LMS WordPress Plugin  WordPress plugin before 3.7.50 does not validate one of its display-style settings before using it to build a template path, allowing users with the Contributor role and above to include and execute arbitrary local PHP files on the server. An equivalent path was corrected in an earlier release and this one was not, so the issue persists in versions the earlier advisory reports as fixed.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88843",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/fffc0d8c-256e-417d-b76c-251948b9f1ed/"
+  },
+  "title_vi": "CVE-2026-88843 — The MasterStudy LMS WordPress Plugin WordPress plugin before 3",
+  "key": "899345a63545b4fbf4eec7369405f32ca956309d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88845 — The MasterStudy LMS WordPress Plugin WordPress plugin before 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88845",
+  "published": "2026-09-24T06:17:03.313",
+  "summary": "The MasterStudy LMS WordPress Plugin  WordPress plugin before 3.7.50 does not perform any capability or nonce checks on an administrative maintenance action, allowing any authenticated user, such as a subscriber, to trigger it and create published content on the site attributed to their own account.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88845",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/a1693fd3-7ba9-4a59-99ea-7f9fd00a9de1/"
+  },
+  "title_vi": "CVE-2026-88845 — The MasterStudy LMS WordPress Plugin WordPress plugin before 3",
+  "key": "2e480da0087f0d8d116bc6a60edfa4a7dcce6d3c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88846 — The MasterStudy LMS WordPress Plugin WordPress plugin before 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88846",
+  "published": "2026-09-24T06:17:03.437",
+  "summary": "The MasterStudy LMS WordPress Plugin  WordPress plugin before 3.7.50 does not check whether user registration is enabled on the site before creating an account through one of its front-end registration flows, allowing unauthenticated users to create accounts, and be logged into them, on sites where registration has been deliberately disabled.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88846",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/57b0dd3f-bd83-4fb7-b98d-c999026910cd/"
+  },
+  "title_vi": "CVE-2026-88846 — The MasterStudy LMS WordPress Plugin WordPress plugin before 3",
+  "key": "08d28aac76e274dffe94f55ae6e70ac508b84889"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88847 — The MasterStudy LMS WordPress Plugin WordPress plugin before 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88847",
+  "published": "2026-09-24T06:17:03.533",
+  "summary": "The MasterStudy LMS WordPress Plugin  WordPress plugin before 3.7.50 does not verify that a user is enrolled in a course before recording lesson completions against it, allowing any authenticated user, such as a subscriber, to create course progress records for courses they have no access to.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88847",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/c42e9b3a-5a0d-4e16-b18a-4184c09bcb5a/"
+  },
+  "title_vi": "CVE-2026-88847 — The MasterStudy LMS WordPress Plugin WordPress plugin before 3",
+  "key": "16a6d7589d14eed16de8be4c85a4497adba48603"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-89002 — The WPeMatico RSS Feed Fetcher WordPress plugin before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89002",
+  "published": "2026-09-24T06:17:03.633",
+  "summary": "The WPeMatico RSS Feed Fetcher WordPress plugin before 2.8.26 does not sanitize and escape content it retrieves from a user-supplied source before rendering it, which could allow users such as contributors to perform Stored Cross-Site Scripting attacks against higher-privileged users who review the campaign.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-89002",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/6820fac6-3238-4470-a865-677c4442f658/"
+  },
+  "title_vi": "CVE-2026-89002 — Plugin WPeMatico RSS Feed Fetcher WordPress trước 2",
+  "key": "51f8f9bb1cc5070713f7c8ee8cf309ecc43c5556"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-89004 — The WPeMatico RSS Feed Fetcher WordPress plugin before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89004",
+  "published": "2026-09-24T06:17:03.740",
+  "summary": "The WPeMatico RSS Feed Fetcher WordPress plugin before 2.8.26 does not verify ownership or authorization before returning a campaign's stored configuration and run log, allowing users with contributor-level access and above to read the configuration and execution logs of campaigns created by other users, including administrators.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-89004",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/1568f9e4-defe-423a-a631-e0afd829b972/"
+  },
+  "title_vi": "CVE-2026-89004 — Plugin WPeMatico RSS Feed Fetcher WordPress trước 2",
+  "key": "8d74b8e25003f20666d18f2ec8057b5ebba05992"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-89005 — The WPeMatico RSS Feed Fetcher WordPress plugin before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89005",
+  "published": "2026-09-24T06:17:03.843",
+  "summary": "The WPeMatico RSS Feed Fetcher WordPress plugin before 2.8.26 does not sanitise and escape one of its campaign configuration fields when a certain feature is enabled, which allows users with the Contributor role and above to perform Stored Cross-Site Scripting attacks that execute in the session of any higher-privileged user who later views the campaign.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-89005",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/1c6f4da0-d7e8-4f50-851f-f794552db985/"
+  },
+  "title_vi": "CVE-2026-89005 — Plugin WPeMatico RSS Feed Fetcher WordPress trước 2",
+  "key": "466d02d1f5e2ac836ae434bfcbe888a91f7bc761"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-93661 — The Events Manager WordPress plugin before 7",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-93661",
+  "published": "2026-09-24T06:17:03.943",
+  "summary": "The Events Manager  WordPress plugin before 7.4.5 does not stop a ticket-update request from replacing the identifiers of the ticket it was authorized against, letting a user who can manage one event's tickets overwrite and reassign any ticket on the site to their own event.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-93661",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/8f1c665e-15e4-4b5d-853d-919723614611/"
+  },
+  "title_vi": "CVE-2026-93661 — Trình quản lý sự kiện WordPress plugin before 7",
+  "key": "599d4ce377fd857ed75744cbdf5516524f1b35ed"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-93662 — The Events Manager WordPress plugin before 7",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-93662",
+  "published": "2026-09-24T06:17:04.050",
+  "summary": "The Events Manager  WordPress plugin before 7.4.5 does not force the scope of its logged-in event and location search when a caller supplies their own owner value, letting a low-privileged user read other accounts' unpublished, pending or trashed event and venue content, including full street addresses.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-93662",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/5669c4e6-edec-4963-8eb9-fc66d2488049/"
+  },
+  "title_vi": "CVE-2026-93662 — Trình quản lý sự kiện WordPress plugin before 7",
+  "key": "d1be49c792b50e83bd79c89ac4f1203155f16b77"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-97168 — Rejected reason: suggestion",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-97168",
+  "published": "2026-09-24T06:17:04.150",
+  "summary": "Rejected reason: suggestion",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-97168",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2026-97168 - Lý do bị từ chối: gợi ý",
+  "key": "812bff41d771446b2bc844284ad0d55335d6cbe9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-97176 — A flaw was found in the Level of Authentication enforcement mechanism of Keycloak, an identity and access management solution",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-97176",
+  "published": "2026-09-24T06:17:04.227",
+  "summary": "A flaw was found in the Level of Authentication enforcement mechanism of Keycloak, an identity and access management solution. The issue occurs when a client specifically requires a higher security level for a user who already has an active session at a lower level. Due to a logic error in how session re-evaluations are handled, Keycloak may incorrectly issue a token at the lower security level instead of enforcing the required higher level, potentially allowing unauthorized access to sensitive resources that rely on these security claims.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-97176",
+   "cvss": 4.2,
+   "ref": "https://access.redhat.com/security/cve/CVE-2026-97176"
+  },
+  "title_vi": "CVE-2026-97176 — Một lỗ hổng đã được phát hiện trong cơ chế thực thi Mức độ Xác thực của Keycloak, một giải pháp quản lý danh tính và quyền truy cập.",
+  "key": "20b8e78192dd7954e0d968c186709e92ec6124b2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-97177 — A flaw was found in the user update mechanism of the Keycloak Admin REST API",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-97177",
+  "published": "2026-09-24T06:17:04.380",
+  "summary": "A flaw was found in the user update mechanism of the Keycloak Admin REST API. When Fine-Grained Admin Permissions are enabled, the system fails to check for specific password reset authorizations during a general user profile update. This allows a delegated administrator, who should be restricted from resetting passwords, to change a user's credentials and take over their account.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-97177",
+   "cvss": 6.6,
+   "ref": "https://access.redhat.com/security/cve/CVE-2026-97177"
+  },
+  "title_vi": "CVE-2026-97177 — Một lỗ hổng đã được tìm thấy trong cơ chế cập nhật người dùng của API REST của Quản trị viên Keycloak",
+  "key": "6c179aca59b24dc8a20cc909c7c79e9e59348e91"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-11744 — An input validation vulnerability exists in the PaperCut Hive embedded application for Ricoh devices",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-11744",
+  "published": "2026-09-24T07:16:32.100",
+  "summary": "An input validation vulnerability exists in the PaperCut Hive embedded application for Ricoh devices. The application fails to properly sanitize input received during the NFC card reading process before passing it to the application's web view interface. A local attacker with physical access to the device and a specially crafted NFC card or emulator could exploit this flaw to execute arbitrary code within the context of the application's user interface. This could result in unauthorized actions or information disclosure.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-11744",
+   "cvss": null,
+   "ref": "https://www.papercut.com/kb/Main/security-bulletin-sep-2026/"
+  },
+  "title_vi": "CVE-2026-11744 — An input validation vulnerability exists in the PaperCut Hive embedded application for Ricoh devices",
+  "key": "52fdc86463925bb72befa9362e4be0b467b55fec"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81645 — Out-of-bounds read vulnerability in the graphics module",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81645",
+  "published": "2026-09-24T07:16:33.307",
+  "summary": "Out-of-bounds read vulnerability in the graphics module. Successful exploitation of this vulnerability may affect availability.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81645",
+   "cvss": 5.9,
+   "ref": "https://consumer.huawei.com/en/support/bulletin/2026/9/"
+  },
+  "title_vi": "CVE-2026-81645 — Out-of-bounds read vulnerability in the graphics module",
+  "key": "305b71fd0e6dbbdf18ddfe45b427982f60458f8d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82077 — An improper limitation of a pathname to a restricted directory (path traversal) vulnerability in the Scan-to-Fax component of PaperCut NG and PaperCut",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82077",
+  "published": "2026-09-24T07:16:33.457",
+  "summary": "An improper limitation of a pathname to a restricted directory (path traversal) vulnerability in the Scan-to-Fax component of PaperCut NG and PaperCut MF allows an authenticated administrator to execute arbitrary commands on the underlying host via crafted fax provider settings.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82077",
+   "cvss": null,
+   "ref": "https://www.papercut.com/kb/Main/security-bulletin-sep-2026/"
+  },
+  "title_vi": "CVE-2026-82077 — An improper limitation of a pathname to a restricted directory (path traversal) vulnerability in the Scan-to-Fax component of PaperCut NG and PaperCut",
+  "key": "acaf1d25299d7c07940fca1ef2362ce63e3a3efe"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-87739 — An improper authentication vulnerability in PaperCut MF/NG allows an unauthenticated, remote attacker to trigger report generation",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87739",
+  "published": "2026-09-24T07:16:34.780",
+  "summary": "An improper authentication vulnerability in PaperCut MF/NG allows an unauthenticated, remote attacker to trigger report generation. By submitting report generation requests without valid credentials, an attacker can generate reports and gain unauthorized access to sensitive information.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-87739",
+   "cvss": null,
+   "ref": "https://www.papercut.com/kb/Main/security-bulletin-sep-2026/"
+  },
+  "title_vi": "CVE-2026-87739 — An improper authentication vulnerability in PaperCut MF/NG allows an unauthenticated, remote attacker to trigger report generation",
+  "key": "167acc6cfc39fbf27d955e9c4f0085d5b3ba84e3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-97181 — GPM LIGHT developed by ezGlobal has a Sensitive Data Exposure vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-97181",
+  "published": "2026-09-24T08:17:03.280",
+  "summary": "GPM LIGHT developed by ezGlobal has a Sensitive Data Exposure vulnerability. Unauthenticated remote attackers can directly access system logs.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-97181",
+   "cvss": 5.3,
+   "ref": "https://www.twcert.org.tw/en/cp-139-11217-86b58-2.html"
+  },
+  "title_vi": "CVE-2026-97181 — Phần mềm GPM LIGHT do ezGlobal phát triển có lỗ hổng bảo mật làm lộ dữ liệu nhạy cảm.",
+  "key": "a348529b67ae3be437037857a33a7db8f4c414e4"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
   "title": "Australia điều tra vụ tác nhân AI của OpenAI truy cập dữ liệu chính phủ",
   "link": "https://www.vietnamplus.vn/australia-dieu-tra-vu-tac-nhan-ai-cua-openai-truy-cap-du-lieu-chinh-phu-post1138113.vnp",
   "published": "2026-09-24T02:51:22+00:00",
@@ -5288,7 +6153,7 @@
    "cvss": null,
    "ref": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.2.6"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-67219 — RabbitMQ là một trung gian nhắn tin và truyền phát dữ liệu.",
   "key": "a8e1583752dd54298bf435e27343841e67a0dd0c"
  },
  {
@@ -5306,7 +6171,7 @@
    "cvss": null,
    "ref": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.2.6"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-67220 — RabbitMQ là một sàn nhắn tin và phát trực tuyến",
   "key": "481860433e3eb13249399b00ba30c25e3d9e1088"
  },
  {
@@ -5325,7 +6190,7 @@
    "cvss": null,
    "ref": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.2.6"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-67221 — RabbitMQ là một sàn nhắn tin và phát trực tuyến",
   "key": "5ecfc4fa73c3c1c483e96d114ba378b995061a40"
  },
  {
@@ -5343,7 +6208,7 @@
    "cvss": null,
    "ref": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.2.6"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-67224 — RabbitMQ là một sàn nhắn tin và phát trực tuyến",
   "key": "16525eb5724bc40649138a24cb3d8530a0a7536d"
  },
  {
@@ -5361,7 +6226,7 @@
    "cvss": null,
    "ref": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.2.7"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-67228 — RabbitMQ là một sàn nhắn tin và phát trực tuyến",
   "key": "b61eeebfaddb07008b83f1e540854e4378c6ce1d"
  },
  {
@@ -5379,7 +6244,7 @@
    "cvss": null,
    "ref": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.2.6"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-67229 — RabbitMQ là một sàn nhắn tin và phát trực tuyến",
   "key": "8009fc61db3900e94a524f153285df595c2aa2ba"
  },
  {
@@ -5397,7 +6262,7 @@
    "cvss": null,
    "ref": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.2.6"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-67231 — RabbitMQ là một sàn nhắn tin và phát trực tuyến",
   "key": "467b9a57d0295d0d7e8785e349d5dbd5d3dd0605"
  },
  {
@@ -5415,7 +6280,7 @@
    "cvss": null,
    "ref": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.2.6"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-67232 — RabbitMQ là một sàn nhắn tin và phát trực tuyến",
   "key": "1b1df14bf0c188a2bc882ab06c58f688968cb2ef"
  },
  {
@@ -5433,7 +6298,7 @@
    "cvss": null,
    "ref": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.2.6"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-67235 — RabbitMQ là một sàn nhắn tin và phát trực tuyến",
   "key": "380c678fa3ce65d28b8f9bd85c1b5fae85b04b43"
  },
  {
@@ -5451,7 +6316,7 @@
    "cvss": null,
    "ref": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.2.7"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-67240 — RabbitMQ là một sàn nhắn tin và phát trực tuyến",
   "key": "f9746020cfa91da8e1f8409ad1ea7fe977e631e4"
  },
  {
@@ -5470,7 +6335,7 @@
    "cvss": null,
    "ref": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.2.6"
   },
-  "title_vi": "",
+  "title_vi": "WeChat là một ứng dụng nhắn tin và truyền thông xã hội.",
   "key": "c20a58accede4f7c9489e2faca2e9de1378f991c"
  },
  {
@@ -5488,7 +6353,7 @@
    "cvss": null,
    "ref": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.2.6"
   },
-  "title_vi": "",
+  "title_vi": "WeChat là một ứng dụng nhắn tin và truyền thông xã hội.",
   "key": "2d6f79042d79524717cccc1a3e61eee06647242a"
  },
  {
@@ -5632,7 +6497,7 @@
    "cvss": 7.2,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-75886"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-75886 — Một lỗ hổng đã được tìm thấy trong openshift/console",
   "key": "aaab5472c8876859a9b652af16670e70f6b22227"
  },
  {
@@ -5650,7 +6515,7 @@
    "cvss": 8.8,
    "ref": "https://www.ibm.com/support/pages/node/7288649"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80379 — IBM DataStage trên Cloud Pak cho Dữ liệu 5",
   "key": "e2d912bd2a3f3be121ea6d344a72de7b74e49b7e"
  },
  {
@@ -5668,7 +6533,7 @@
    "cvss": 8.8,
    "ref": "https://www.ibm.com/support/pages/node/7288649"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80412 — IBM DataStage trên Cloud Pak cho Dữ liệu 5",
   "key": "dd6a7c85e0eea254e0febc81ab96b2df1212644d"
  },
  {
@@ -5686,7 +6551,7 @@
    "cvss": 8.8,
    "ref": "https://www.ibm.com/support/pages/node/7288649"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80425 — IBM DataStage trên Cloud Pak cho Dữ liệu 5",
   "key": "77bd0689eb3ff2f898cd6b03d9bc4a591b12f74f"
  },
  {
@@ -5704,7 +6569,7 @@
    "cvss": null,
    "ref": "https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/38994"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82369 - Không đủ đầu vào khử trùng các ký tự siêu ký tự vỏ trong thành phần tập lệnh Brocade SANnav CLI cho phép người dùng được xác thực thoát ra khỏi phần còn lại",
   "key": "5a33c32dc2b938d09bcc7f8527f8004880de676d"
  },
  {
@@ -5722,7 +6587,7 @@
    "cvss": 7.3,
    "ref": "https://github.com/yashkeral/cve-writeups/blob/main/cafemanagement/03-missing-auth-account-creation.md"
   },
-  "title_vi": "",
+  "title_vi": "Quốc gia Vespania không ai không biết chuyện này",
   "key": "590e716a3c455c369b7fc30e53c5369e374ff8fd"
  },
  {
@@ -5740,7 +6605,7 @@
    "cvss": 8.1,
    "ref": "https://plugins.trac.wordpress.org/browser/ethpress/tags/2.3.5/app/Address.php#L419"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-19125 — Plugin Đăng nhập EthPress – Web3 cho WordPress dễ bị bỏ qua xác thực trong tất cả các phiên bản lên đến, và bao gồm, 2",
   "key": "b013ef20ee9f9b5eaf6ae5a59ebf2a33dbe5d526"
  },
  {
@@ -5885,7 +6750,7 @@
    "cvss": 9.8,
    "ref": "https://github.com/plank/laravel-mediable/commit/8ddb0e5b300084e91ad2cb18a6e7bc768bb7b008"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93352 — Laravel-Mediable 7",
   "key": "9935fb94266d7c76d1d48f6a6b8631c9b9e0b321"
  },
  {
@@ -72992,973 +73857,5 @@
   },
   "title_vi": "",
   "key": "fe15257c552b7e640e45a8ebe52b422c3978e26f"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-11978 — Apache Airflow Command Injection",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-11978",
-  "published": "2022-01-18",
-  "summary": "A remote code/command injection vulnerability was discovered in one of the example DAGs shipped with Airflow.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-11978",
-   "vendor": "Apache",
-   "product": "Airflow",
-   "due_date": "2022-07-18",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "7c1b601a4f84d8b6d6b21fa4f46254cf5c178eef"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-13927 — Apache Airflow's Experimental API Authentication Bypass",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-13927",
-  "published": "2022-01-18",
-  "summary": "The previous default setting for Airflow's Experimental API was to allow all API requests without authentication.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-13927",
-   "vendor": "Apache",
-   "product": "Airflow's Experimental API",
-   "due_date": "2022-07-18",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "b5f6883ac57b7ea45ed06c6e50adce660464ba47"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-22017 — VMware vCenter Server Improper Access Control",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-22017",
-  "published": "2022-01-10",
-  "summary": "Rhttproxy as used in vCenter Server contains a vulnerability due to improper implementation of URI normalization.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-22017",
-   "vendor": "VMware",
-   "product": "vCenter Server",
-   "due_date": "2022-01-24",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "430d835736539e61107c0836438296907e187ce4"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-36260 — Hikvision Improper Input Validation",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-36260",
-  "published": "2022-01-10",
-  "summary": "A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input validation.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-36260",
-   "vendor": "Hikvision",
-   "product": "Security cameras web server",
-   "due_date": "2022-01-24",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "59a2a6795ece91408d9f1455cb24e8be1bd216b3"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-6572 — Google Chrome Media Use-After-Free Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-6572",
-  "published": "2022-01-10",
-  "summary": "Google Chrome Media contains a use-after-free vulnerability that allows a remote attacker to execute code via a crafted HTML page.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-6572",
-   "vendor": "Google",
-   "product": "Chrome Media",
-   "due_date": "2022-07-10",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "10611c49acd88c8cdbcaf86931b42047b43da0e1"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2019-1458 — Microsoft Win32k Privilege Escalation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-1458",
-  "published": "2022-01-10",
-  "summary": "A privilege escalation vulnerability exists in Windows when the Win32k component fails to properly handle objects in memory, aka 'Win32k EoP.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2019-1458",
-   "vendor": "Microsoft",
-   "product": "Win32k",
-   "due_date": "2022-07-10",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "376556566d2e782394c44336b8b1f27429547690"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2013-3900 — Microsoft WinVerifyTrust function Remote Code Execution",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2013-3900",
-  "published": "2022-01-10",
-  "summary": "A remote code execution vulnerability exists in the way that the WinVerifyTrust function handles Windows Authenticode signature verification for PE files.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2013-3900",
-   "vendor": "Microsoft",
-   "product": "WinVerifyTrust function",
-   "due_date": "2022-07-10",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "4a4eb9368a04587202cf63cdad8b945be4e86cf3"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2019-2725 — Oracle WebLogic Server, Injection",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-2725",
-  "published": "2022-01-10",
-  "summary": "Injection vulnerability in the Oracle WebLogic Server component of Oracle Fusion Middleware (subcomponent: Web Services).",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2019-2725",
-   "vendor": "Oracle",
-   "product": "WebLogic Server",
-   "due_date": "2022-07-10",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "0cbff3ac244978ef78f0f06529f1e0b5104df9b2"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2019-9670 — Synacor Zimbra Collaboration Suite (ZCS) Improper Restriction of XML External Entity Reference",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-9670",
-  "published": "2022-01-10",
-  "summary": "Synacor Zimbra Collaboration Suite (ZCS) contains an improper restriction of XML external entity (XXE) vulnerability in the mailboxd component.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2019-9670",
-   "vendor": "Synacor",
-   "product": "Zimbra Collaboration Suite (ZCS)",
-   "due_date": "2022-07-10",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "8eea9924d3222091eccef896a510bff2ba24de1b"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2018-13382 — Fortinet FortiOS and FortiProxy Improper Authorization",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-13382",
-  "published": "2022-01-10",
-  "summary": "An Improper Authorization vulnerability in Fortinet FortiOS and FortiProxy under SSL VPN web portal allows an unauthenticated attacker to modify the password.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2018-13382",
-   "vendor": "Fortinet",
-   "product": "FortiOS and FortiProxy",
-   "due_date": "2022-07-10",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "bcc931b4c8af6b98d772d7fc8aca57fabe23a10e"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2018-13383 — Fortinet FortiOS and FortiProxy Out-of-bounds Write",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-13383",
-  "published": "2022-01-10",
-  "summary": "A heap buffer overflow in Fortinet FortiOS and FortiProxy may cause the SSL VPN web service termination for logged in users.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2018-13383",
-   "vendor": "Fortinet",
-   "product": "FortiOS and FortiProxy",
-   "due_date": "2022-07-10",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "9b796440296e09bd7a7ac83ad49c7a049dbd8089"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2019-1579 — Palo Alto Networks PAN-OS Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-1579",
-  "published": "2022-01-10",
-  "summary": "Remote Code Execution in PAN-OS with GlobalProtect Portal or GlobalProtect Gateway Interface enabled.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2019-1579",
-   "vendor": "Palo Alto Networks",
-   "product": "PAN-OS",
-   "due_date": "2022-07-10",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "4aab60ea58597e04c71a46629affa152476f4e3c"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2019-10149 — Exim Mail Transfer Agent (MTA) Improper Input Validation",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-10149",
-  "published": "2022-01-10",
-  "summary": "Improper validation of recipient address in deliver_message() function in /src/deliver.c may lead to remote command execution.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2019-10149",
-   "vendor": "Exim",
-   "product": "Mail Transfer Agent (MTA)",
-   "due_date": "2022-07-10",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "16a73caa5fa1850c155194e527c3eed9a3c0c692"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2015-7450 — IBM WebSphere Application Server and Server Hypervisor Edition Code Injection.",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2015-7450",
-  "published": "2022-01-10",
-  "summary": "Serialized-object interfaces in certain IBM analytics, business solutions, cognitive, IT infrastructure, and mobile and social products allow remote attackers to execute arbitrary commands",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2015-7450",
-   "vendor": "IBM",
-   "product": "WebSphere Application Server and Server Hypervisor Edition",
-   "due_date": "2022-07-10",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "3e4a7caa63b4a490f596c95abe3d36f36802a316"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2017-1000486 — Primetek Primefaces Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-1000486",
-  "published": "2022-01-10",
-  "summary": "Primetek Primefaces is vulnerable to a weak encryption flaw resulting in remote code execution",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2017-1000486",
-   "vendor": "Primetek",
-   "product": "Primefaces Application",
-   "due_date": "2022-07-10",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "ca79c957cea68df4c7425a07d7b9c40fb002d615"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2019-7609 — Kibana Arbitrary Code Execution",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-7609",
-  "published": "2022-01-10",
-  "summary": "Kibana contain an arbitrary code execution flaw in the Timelion visualizer.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2019-7609",
-   "vendor": "Elastic",
-   "product": "Kibana",
-   "due_date": "2022-07-10",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "1069b2b34e84268fe2d753241dff50580bd8d99c"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-27860 — FatPipe WARP, IPVPN, and MPVPN Configuration Upload exploit",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-27860",
-  "published": "2022-01-10",
-  "summary": "A vulnerability in the web management interface of FatPipe WARP, IPVPN, and MPVPN software allows a remote, unauthenticated attacker to upload a file to any location on the filesystem.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-27860",
-   "vendor": "FatPipe",
-   "product": "WARP, IPVPN, and MPVPN software",
-   "due_date": "2022-01-24",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "a7ec64123fb58d22929f4e33fb989adacb8e386e"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-43890 — Microsoft Windows AppX Installer Spoofing Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-43890",
-  "published": "2021-12-15",
-  "summary": "Microsoft Windows AppX Installer contains a spoofing vulnerability which has a high impacts to confidentiality, integrity, and availability.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-43890",
-   "vendor": "Microsoft",
-   "product": "Windows",
-   "due_date": "2021-12-29",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "31f5960bc805fb5adb92797662a50484b30a9800"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-4102 — Google Chromium V8 Use-After-Free Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-4102",
-  "published": "2021-12-15",
-  "summary": "Google Chromium V8 Engine contains a use-after-free vulnerability that allows a remote attacker to potentially exploit heap corruption via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-4102",
-   "vendor": "Google",
-   "product": "Chromium V8",
-   "due_date": "2021-12-29",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "87d60123a803810e763a8a106046dd78eff7be44"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-44515 — Zoho Desktop Central Authentication Bypass Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-44515",
-  "published": "2021-12-10",
-  "summary": "Zoho Desktop Central contains an authentication bypass vulnerability that could allow an attacker to execute arbitrary code in the Desktop Central MSP server.",
-  "categories": [
-   "cloud",
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-44515",
-   "vendor": "Zoho",
-   "product": "Desktop Central",
-   "due_date": "2021-12-24",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "fb5956e87516609a3650ed3a1879f6df63dc8ab3"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2019-13272 — Linux Kernel Improper Privilege Management Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-13272",
-  "published": "2021-12-10",
-  "summary": "Kernel/ptrace.c in Linux kernel mishandles contains an improper privilege management vulnerability that allows local users to obtain root access.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2019-13272",
-   "vendor": "Linux",
-   "product": "Kernel",
-   "due_date": "2022-06-10",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "be15c752b6c5e27f212633c75eccfab499f46353"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-35394 — Realtek Jungle SDK Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-35394",
-  "published": "2021-12-10",
-  "summary": "RealTek Jungle SDK contains multiple memory corruption vulnerabilities which can allow an attacker to perform remote code execution.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-35394",
-   "vendor": "Realtek",
-   "product": "Jungle Software Development Kit (SDK)",
-   "due_date": "2021-12-24",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "35adfbaaca18793236bf91c7ed7b9cc33466da29"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2019-7238 — Sonatype Nexus Repository Manager Incorrect Access Control Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-7238",
-  "published": "2021-12-10",
-  "summary": "Sonatype Nexus Repository Manager before 3.15.0 has an incorrect access control vulnerability. Exploitation allows for remote code execution.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2019-7238",
-   "vendor": "Sonatype",
-   "product": "Nexus Repository Manager",
-   "due_date": "2022-06-10",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "fa8d04bfdc77692f64e9ad866704349f3c26574a"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2019-0193 — Apache Solr DataImportHandler Code Injection Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-0193",
-  "published": "2021-12-10",
-  "summary": "The optional Apache Solr module DataImportHandler contains a code injection vulnerability.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2019-0193",
-   "vendor": "Apache",
-   "product": "Solr",
-   "due_date": "2022-06-10",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "956612e99335867f100713fd18d909f7e7c9cc9d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2025-13533 — The CSS & JavaScript Toolbox plugin for WordPress is vulnerable to Stored Cross-Site Scripting in all versions up to, and including, 12",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-13533",
-  "published": "2026-09-18T09:16:38.333",
-  "summary": "The CSS & JavaScript Toolbox plugin for WordPress is vulnerable to Stored Cross-Site Scripting in all versions up to, and including, 12.0.6 via the Assignment Engine fields. This is due to insufficient input sanitization and output escaping on assignment data fields including Expressions, URLs, and Advanced assignment data. This makes it possible for authenticated attackers, with Administrator-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses the CJT block edit screen in the admin dashboard.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2025-13533",
-   "cvss": 4.4,
-   "ref": "https://gist.github.com/e578d548291225c116a5827ad205a9e9"
-  },
-  "title_vi": "CVE-2025-13533 — Plugin CSS & JavaScript Toolbox cho WordPress dễ bị tấn công bởi Stored Cross-Site Scripting trong tất cả các phiên bản lên đến, và bao gồm, 12",
-  "key": "492ce8ac785dae25744bff56c099afb4846f8361"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-13623 — An improper neutralization of input during web page generation ('Cross-site Scripting') vulnerability in Theme API in Synology DiskStation Manager (DS",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-13623",
-  "published": "2026-09-18T09:16:38.500",
-  "summary": "An improper neutralization of input during web page generation ('Cross-site Scripting') vulnerability in Theme API in Synology DiskStation Manager (DSM) before 7.2.1-69057-12, 7.2.2-72806-9, 7.3.2-86009-4 and 7.4-90075 allows remote authenticated users with administrator privileges to read or write limited files.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-13623",
-   "cvss": 4.8,
-   "ref": "https://www.synology.com/en-global/security/advisory/Synology_SA_26_13"
-  },
-  "title_vi": "CVE-2026-13623 — Lỗ hổng trung hòa đầu vào không đúng cách trong quá trình tạo trang web ('Cross-site Scripting') trong API chủ đề trong Synology DiskStation Manager (DS",
-  "key": "1cb43b14796a607cb631991aab33c87db7d5e98a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-13635 — An improper encoding or escaping of output vulnerability in Auth API in Synology DiskStation Manager (DSM) before 7",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-13635",
-  "published": "2026-09-18T09:16:38.637",
-  "summary": "An improper encoding or escaping of output vulnerability in Auth API in Synology DiskStation Manager (DSM) before 7.2.1-69057-12, 7.2.2-72806-9, 7.3.2-86009-4 and 7.4-90075 allows remote attackers to obtain non-sensitive information.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-13635",
-   "cvss": 5.3,
-   "ref": "https://www.synology.com/en-global/security/advisory/Synology_SA_26_13"
-  },
-  "title_vi": "CVE-2026-13635 — Mã hóa hoặc thoát lỗ hổng đầu ra không đúng cách trong Auth API trong Synology DiskStation Manager (DSM) trước 7",
-  "key": "05cfc29713fc2f8e083f0a54d1d1242ca96607cf"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-13639 — An insufficient entropy vulnerability in login logic in Synology DiskStation Manager (DSM) before 7",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-13639",
-  "published": "2026-09-18T09:16:38.757",
-  "summary": "An insufficient entropy vulnerability in login logic in Synology DiskStation Manager (DSM) before 7.2.1-69057-12, 7.2.2-72806-9, 7.3.2-86009-4 and 7.4-90075 allows remote attackers to read or write arbitrary files and conduct denial-of-service attacks.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-13639",
-   "cvss": 9.8,
-   "ref": "https://www.synology.com/en-global/security/advisory/Synology_SA_26_13"
-  },
-  "title_vi": "CVE-2026-13639 — Lỗ hổng entropy không đủ trong logic đăng nhập trong Synology DiskStation Manager (DSM) trước 7",
-  "key": "0b504cfae2f1cc0e4697809827c99c76893e3a6f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-13666 — An improper neutralization of CRLF sequences ('CRLF Injection') vulnerability in Sharing API in Synology DiskStation Manager (DSM) before 7",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-13666",
-  "published": "2026-09-18T09:16:38.877",
-  "summary": "An improper neutralization of CRLF sequences ('CRLF Injection') vulnerability in Sharing API in Synology DiskStation Manager (DSM) before 7.2.1-69057-12, 7.2.2-72806-9, 7.3.2-86009-4 and 7.4-90075 allows remote authenticated users to write limited files when a victim clicks a sharing URL.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-13666",
-   "cvss": 3.5,
-   "ref": "https://www.synology.com/en-global/security/advisory/Synology_SA_26_13"
-  },
-  "title_vi": "CVE-2026-13666 — Lỗ hổng trung hòa chuỗi CRLF ('CRLF Injection') không đúng cách trong Sharing API trong Synology DiskStation Manager (DSM) trước 7",
-  "key": "050be424044d79374d1f0894bcf22d83b7a264bc"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-13673 — An incorrect permission assignment for critical resource vulnerability in LDAP API in Synology DiskStation Manager (DSM) before 7",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-13673",
-  "published": "2026-09-18T09:16:38.997",
-  "summary": "An incorrect permission assignment for critical resource vulnerability in LDAP API in Synology DiskStation Manager (DSM) before 7.2.1-69057-12, 7.2.2-72806-9, 7.3.2-86009-4 and 7.4-90075 allows remote authenticated users to read or write arbitrary files and conduct denial-of-service attacks.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-13673",
-   "cvss": 8.8,
-   "ref": "https://www.synology.com/en-global/security/advisory/Synology_SA_26_13"
-  },
-  "title_vi": "CVE-2026-13673 — Chỉ định quyền không chính xác cho lỗ hổng tài nguyên quan trọng trong API LDAP trong Synology DiskStation Manager (DSM) trước 7",
-  "key": "0c9e1f202cedbc469ac3cbb3cba127849cd79136"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-13683 — An improper neutralization of special elements used in an SQL command ('SQL Injection') vulnerability in EventScheduler API in Synology DiskStation Ma",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-13683",
-  "published": "2026-09-18T09:16:39.117",
-  "summary": "An improper neutralization of special elements used in an SQL command ('SQL Injection') vulnerability in EventScheduler API in Synology DiskStation Manager (DSM) before 7.2.1-69057-12, 7.2.2-72806-9, 7.3.2-86009-4 and 7.4-90075 allows remote authenticated users with administrator privileges to obtain non-sensitive information.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-13683",
-   "cvss": 2.7,
-   "ref": "https://www.synology.com/en-global/security/advisory/Synology_SA_26_13"
-  },
-  "title_vi": "CVE-2026-13683 — Việc trung hòa không đúng cách các yếu tố đặc biệt được sử dụng trong lỗ hổng SQL command ('SQL Injection') trong API EventScheduler trong Synology DiskStation Ma",
-  "key": "21607b39bf8890f205208c14eb484b5103e7b0ab"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-13684 — An improper encoding or escaping of output vulnerability in SCGI in Synology DiskStation Manager (DSM) before 7",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-13684",
-  "published": "2026-09-18T09:16:39.237",
-  "summary": "An improper encoding or escaping of output vulnerability in SCGI in Synology DiskStation Manager (DSM) before 7.2.1-69057-12, 7.2.2-72806-9, 7.3.2-86009-4 and 7.4-90075 allows remote attackers to read or write arbitrary files and conduct denial-of-service attacks.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-13684",
-   "cvss": 9.8,
-   "ref": "https://www.synology.com/en-global/security/advisory/Synology_SA_26_13"
-  },
-  "title_vi": "CVE-2026-13684 — Mã hóa hoặc thoát lỗ hổng đầu ra không đúng cách trong SCGI trong Synology DiskStation Manager (DSM) trước 7",
-  "key": "d04ed1866440b723c1c6c48451842eb37ac30bdc"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-21822 — HCLSoftware AppScan 360° was affected by a Path Traversal vulnerability in the ASReportService component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-21822",
-  "published": "2026-09-18T09:16:39.990",
-  "summary": "HCLSoftware AppScan 360° was affected by a Path Traversal vulnerability in the ASReportService component. Improper handling of file paths allows an authenticated attacker to read or write files outside the intended directory, potentially enabling file system structure inspection or unauthorized file modification within the application's directory scope.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-21822",
-   "cvss": 6.3,
-   "ref": "https://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0133460"
-  },
-  "title_vi": "CVE-2026-21822 — HCLSoftware AppScan 360° bị ảnh hưởng bởi lỗ hổng Path Traversal trong thành phần ASReportService",
-  "key": "a3e81c0a1a9292c127c767260c5b31e4b16a7335"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-21848 — HCL BigFix Service Management is affected by a Security Misconfiguration vulnerability, which could allow an authenticated attacker to exploit imprope",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-21848",
-  "published": "2026-09-18T09:16:40.117",
-  "summary": "HCL BigFix Service Management is affected by a Security Misconfiguration vulnerability, which could allow an authenticated attacker to exploit improper access controls, enabling the unauthorized viewing of restricted data elements across tenant boundaries.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-21848",
-   "cvss": 5.0,
-   "ref": "https://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0133917"
-  },
-  "title_vi": "CVE-2026-21848 — HCL BigFix Service Management bị ảnh hưởng bởi lỗ hổng Security Misconfiguration, có thể cho phép kẻ tấn công được xác thực khai thác imprope",
-  "key": "cb270d2cb9cadcb879ad10223b72e75568d872c0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-40530 — An improper neutralization of CRLF sequences ('CRLF injection') vulnerability in User API in Synology DiskStation Manager (DSM) before 7",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-40530",
-  "published": "2026-09-18T09:16:40.237",
-  "summary": "An improper neutralization of CRLF sequences ('CRLF injection') vulnerability in User API in Synology DiskStation Manager (DSM) before 7.2.1-69057-10, 7.2.2-72806-7 and 7.3.2-86009-2 allows remote authenticated users to read or write arbitrary files and conduct denial-of-service attacks after the system is rebooted.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-40530",
-   "cvss": 8.0,
-   "ref": "https://www.synology.com/en-global/security/advisory/Synology_SA_26_06"
-  },
-  "title_vi": "CVE-2026-40530 — Lỗ hổng trung hòa trình tự CRLF ('CRLF injection') không đúng cách trong API người dùng trong Synology DiskStation Manager (DSM) trước 7",
-  "key": "f2468ae8c79df7603e0fbdf6f5bfb5fdebd74c68"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-40531 — An integer overflow or wraparound vulnerability in File Operation in Synology DiskStation Manager (DSM) before 7",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-40531",
-  "published": "2026-09-18T09:16:40.357",
-  "summary": "An integer overflow or wraparound vulnerability in File Operation in Synology DiskStation Manager (DSM) before 7.2.1-69057-10, 7.2.2-72806-7 and 7.3.2-86009-2 allows remote authenticated users to conduct limited denial-of-service attacks.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-40531",
-   "cvss": 4.3,
-   "ref": "https://www.synology.com/en-global/security/advisory/Synology_SA_26_06"
-  },
-  "title_vi": "CVE-2026-40531 — Lỗ hổng tràn số nguyên hoặc bao quanh trong Hoạt động tệp trong Synology DiskStation Manager (DSM) trước 7",
-  "key": "ee112e39d6cac8112111519d6bac79c811e7171a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-40532 — A direct request ('forced browsing') vulnerability in Wallpaper Path in Synology DiskStation Manager (DSM) before 7",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-40532",
-  "published": "2026-09-18T09:16:40.473",
-  "summary": "A direct request ('forced browsing') vulnerability in Wallpaper Path in Synology DiskStation Manager (DSM) before 7.2.1-69057-10, 7.2.2-72806-7 and 7.3.2-86009-2 allows remote authenticated users to obtain sensitive information.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-40532",
-   "cvss": 6.5,
-   "ref": "https://www.synology.com/en-global/security/advisory/Synology_SA_26_06"
-  },
-  "title_vi": "CVE-2026-40532 — Lỗ hổng yêu cầu trực tiếp ('duyệt bắt buộc') trong Đường dẫn hình nền trong Synology DiskStation Manager (DSM) trước 7",
-  "key": "20d93182efca915c6fcec5a464508f3a6df63f62"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-40533 — An exposure of sensitive information through data queries vulnerability in Desktop API in Synology DiskStation Manager (DSM) before 7",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-40533",
-  "published": "2026-09-18T09:16:40.627",
-  "summary": "An exposure of sensitive information through data queries vulnerability in Desktop API in Synology DiskStation Manager (DSM) before 7.2.1-69057-10, 7.2.2-72806-7 and 7.3.2-86009-2 allows remote attackers to obtain non-sensitive information.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-40533",
-   "cvss": 5.3,
-   "ref": "https://www.synology.com/en-global/security/advisory/Synology_SA_26_06"
-  },
-  "title_vi": "CVE-2026-40533 — Tiếp xúc với thông tin nhạy cảm thông qua lỗ hổng truy vấn dữ liệu trong API máy tính để bàn trong Synology DiskStation Manager (DSM) trước 7",
-  "key": "234d0266a5f6d9bb24c494025f6c79040576583f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-40534 — An improper neutralization of input during web page generation ('cross-site scripting') vulnerability in Video API in Synology DiskStation Manager (DS",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-40534",
-  "published": "2026-09-18T09:16:40.840",
-  "summary": "An improper neutralization of input during web page generation ('cross-site scripting') vulnerability in Video API in Synology DiskStation Manager (DSM) before 7.2.1-69057-10, 7.2.2-72806-7 and 7.3.2-86009-2 allows remote authenticated users to read or write limited files when the player is launched.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-40534",
-   "cvss": 5.4,
-   "ref": "https://www.synology.com/en-global/security/advisory/Synology_SA_26_06"
-  },
-  "title_vi": "CVE-2026-40534 — Lỗ hổng trung hòa đầu vào không đúng cách trong quá trình tạo trang web ('tập lệnh chéo trang web') trong API video trong Synology DiskStation Manager (DS",
-  "key": "a1d1fb5c9ec9be3c37b7c5acb8d4aef0a0f0f05a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-40535 — An improper limitation of a pathname to a restricted directory ('path traversal') vulnerability in Desktop API in Synology DiskStation Manager (DSM) b",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-40535",
-  "published": "2026-09-18T09:16:40.960",
-  "summary": "An improper limitation of a pathname to a restricted directory ('path traversal') vulnerability in Desktop API in Synology DiskStation Manager (DSM) before 7.2.1-69057-10, 7.2.2-72806-7 and 7.3.2-86009-2 allows remote attackers to write limited files and conduct limited denial-of-service attacks.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-40535",
-   "cvss": 6.5,
-   "ref": "https://www.synology.com/en-global/security/advisory/Synology_SA_26_06"
-  },
-  "title_vi": "CVE-2026-40535 — Giới hạn không đúng của tên đường dẫn đến lỗ hổng thư mục bị hạn chế ('PATH Traversal') trong API máy tính để bàn trong Synology DiskStation Manager (DSM) b",
-  "key": "401dc14f9510ebc5c183c674062f0cd6d7401f75"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-40536 — An improper limitation of a pathname to a restricted directory ('path traversal') vulnerability in Audio API in Synology DiskStation Manager (DSM) bef",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-40536",
-  "published": "2026-09-18T09:16:41.077",
-  "summary": "An improper limitation of a pathname to a restricted directory ('path traversal') vulnerability in Audio API in Synology DiskStation Manager (DSM) before 7.2.1-69057-10, 7.2.2-72806-7 and 7.3.2-86009-2 allows remote authenticated users to obtain non-sensitive information.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-40536",
-   "cvss": 4.3,
-   "ref": "https://www.synology.com/en-global/security/advisory/Synology_SA_26_06"
-  },
-  "title_vi": "CVE-2026-40536 — Giới hạn không đúng của tên đường dẫn đến lỗ hổng thư mục bị hạn chế ('PATH Traversal') trong API âm thanh trong Synology DiskStation Manager (DSM) bef",
-  "key": "0c13c0d84d4cf8e901e09f74f31021b9bbeaca2c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-40537 — A server-side request forgery (SSRF) vulnerability in PersonMail API in Synology DiskStation Manager (DSM) before 7",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-40537",
-  "published": "2026-09-18T09:16:41.190",
-  "summary": "A server-side request forgery (SSRF) vulnerability in PersonMail API in Synology DiskStation Manager (DSM) before 7.2.1-69057-10, 7.2.2-72806-7 and 7.3.2-86009-2 allows remote authenticated users to obtain non-sensitive information.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-40537",
-   "cvss": 4.3,
-   "ref": "https://www.synology.com/en-global/security/advisory/Synology_SA_26_06"
-  },
-  "title_vi": "CVE-2026-40537 — Lỗ hổng giả mạo yêu cầu phía máy chủ (SSRF) trong API PersonMail trong Synology DiskStation Manager (DSM) trước 7",
-  "key": "c66c5e82278ac5fb876c2637f1bed655aad8b0a8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-40538 — An improper restriction of excessive authentication attempts vulnerability in Auto block in Synology DiskStation Manager (DSM) before 7",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-40538",
-  "published": "2026-09-18T09:16:41.307",
-  "summary": "An improper restriction of excessive authentication attempts vulnerability in Auto block in Synology DiskStation Manager (DSM) before 7.2.1-69057-10, 7.2.2-72806-7 and 7.3.2-86009-2 allows remote attackers to read limited files via brute-force attacks.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-40538",
-   "cvss": 3.7,
-   "ref": "https://www.synology.com/en-global/security/advisory/Synology_SA_26_06"
-  },
-  "title_vi": "CVE-2026-40538 — Hạn chế không đúng cách về lỗ hổng xác thực quá mức trong Auto block trong Synology DiskStation Manager (DSM) trước 7",
-  "key": "4d15cdb2e8a294cca8d3501191da43b79ff47a3c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-40539 — An improper certificate validation vulnerability in Email API in Synology DiskStation Manager (DSM) before 7",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-40539",
-  "published": "2026-09-18T09:16:41.423",
-  "summary": "An improper certificate validation vulnerability in Email API in Synology DiskStation Manager (DSM) before 7.2.1-69057-10, 7.2.2-72806-7 and 7.3.2-86009-2 allows man-in-the-middle attackers to read or write arbitrary files and conduct denial-of-service attacks.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-40539",
-   "cvss": 7.1,
-   "ref": "https://www.synology.com/en-global/security/advisory/Synology_SA_26_06"
-  },
-  "title_vi": "CVE-2026-40539 — Lỗ hổng xác thực chứng chỉ không đúng cách trong API email trong Synology DiskStation Manager (DSM) trước 7",
-  "key": "68b0032385132eacf85443f89566f061d0bb488c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-4036 — An improper neutralization of special elements used in an SQL command ('SQL injection') vulnerability in Sharing API in Synology DiskStation Manager (",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-4036",
-  "published": "2026-09-18T09:16:41.547",
-  "summary": "An improper neutralization of special elements used in an SQL command ('SQL injection') vulnerability in Sharing API in Synology DiskStation Manager (DSM) before 7.2.1-69057-10, 7.2.2-72806-7 and 7.3.2-86009-2 allows remote authenticated users to obtain arbitrary sharing files.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-4036",
-   "cvss": 6.5,
-   "ref": "https://www.synology.com/en-global/security/advisory/Synology_SA_26_06"
-  },
-  "title_vi": "CVE-2026-4036 — Việc trung hòa không đúng cách các yếu tố đặc biệt được sử dụng trong lỗ hổng SQL command ('SQL injection') trong Sharing API trong Synology DiskStation Manager (",
-  "key": "5016fbac71d142952a5eba7619a1aa327d133a57"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-56590 — HCL BigFix Service Management is affected by an Unrestricted File Upload vulnerability due to improper file validation controls, which could allow an ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-56590",
-  "published": "2026-09-18T09:16:41.663",
-  "summary": "HCL BigFix Service Management is affected by an Unrestricted File Upload vulnerability due to improper file validation controls, which could allow an unauthenticated attacker to upload and execute malicious payloads, resulting in a complete server compromise.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-56590",
-   "cvss": 6.4,
-   "ref": "https://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0133917"
-  },
-  "title_vi": "CVE-2026-56590 — HCL BigFix Service Management bị ảnh hưởng bởi lỗ hổng Unrestricted File Upload do kiểm soát xác thực tệp không đúng cách, có thể cho phép",
-  "key": "d029b52ac114d2d8ed2ef060fa69de3a232a86a9"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-56592 — HCL BigFix Service Management is affected by an Improper Authentication validation vulnerability related to inadequate account lockouts, which could a",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-56592",
-  "published": "2026-09-18T09:16:41.783",
-  "summary": "HCL BigFix Service Management is affected by an Improper Authentication validation vulnerability related to inadequate account lockouts, which could allow an unauthenticated attacker to execute sustained brute-force attacks against the login interface, resulting in unauthorized system access.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-56592",
-   "cvss": 6.5,
-   "ref": "https://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0133917"
-  },
-  "title_vi": "CVE-2026-56592 — HCL BigFix Service Management bị ảnh hưởng bởi lỗ hổng xác thực xác thực không đúng cách liên quan đến việc khóa tài khoản không đầy đủ, điều này có thể",
-  "key": "024d9ff2cb451d640b3777ca50c015cfa9f4819a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-56595 — HCL BigFix Service Management is affected by a CORS Misconfiguration vulnerability due to improperly validated origin headers, which could allow an at",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-56595",
-  "published": "2026-09-18T09:16:41.900",
-  "summary": "HCL BigFix Service Management is affected by a CORS Misconfiguration vulnerability due to improperly validated origin headers, which could allow an attacker to craft a malicious web page that interacts with the vulnerable application, enabling unauthorized access to protected resources and restricted APIs on behalf of a victim.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-56595",
-   "cvss": 3.1,
-   "ref": "https://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0133917"
-  },
-  "title_vi": "CVE-2026-56595 — HCL BigFix Service Management bị ảnh hưởng bởi lỗ hổng cấu hình sai cors do các tiêu đề gốc được xác thực không đúng cách, có thể cho phép",
-  "key": "344d4ca727f69e60ae301eaa433b091230201b67"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-56597 — HCL BigFix Service Management is affected by a Sensitive Information Leakage vulnerability, which could allow an unauthenticated attacker to extract i",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-56597",
-  "published": "2026-09-18T09:16:42.017",
-  "summary": "HCL BigFix Service Management is affected by a Sensitive Information Leakage vulnerability, which could allow an unauthenticated attacker to extract internal IP addresses from the application's responses, enabling them to map the underlying network topology and identify potential internal targets.",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-56597",
-   "cvss": 3.1,
-   "ref": "https://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0133917"
-  },
-  "title_vi": "CVE-2026-56597 — HCL BigFix Service Management bị ảnh hưởng bởi lỗ hổng Rò Rỉ Thông Tin Nhạy Cảm, có thể cho phép kẻ tấn công không được xác thực trích xuất i",
-  "key": "b4e730491d4a4eb79034b4572fe7bed910627daa"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-6205 — An external control of file name or path vulnerability in Upload API in Synology DiskStation Manager (DSM) before 7",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-6205",
-  "published": "2026-09-18T09:16:42.133",
-  "summary": "An external control of file name or path vulnerability in Upload API in Synology DiskStation Manager (DSM) before 7.2.1-69057-12, 7.2.2-72806-9, 7.3.2-86009-4 and 7.4-90075 allows remote authenticated users to write arbitrary files and conduct denial-of-service attacks.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-6205",
-   "cvss": 8.1,
-   "ref": "https://www.synology.com/en-global/security/advisory/Synology_SA_26_13"
-  },
-  "title_vi": "CVE-2026-6205 — Kiểm soát bên ngoài tên tệp hoặc lỗ hổng PATH trong API tải lên trong Synology DiskStation Manager (DSM) trước 7",
-  "key": "928444a8cb3a01c8da42f4fe5bbe16cf87eb68fd"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-83561 — The Complianz GDPR/CCPA Cookie Consent Banner plugin for WordPress is vulnerable to Stored Cross-Site Scripting via Comment Content via Elementor Cook",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-83561",
-  "published": "2026-09-18T09:16:42.357",
-  "summary": "The Complianz GDPR/CCPA Cookie Consent Banner plugin for WordPress is vulnerable to Stored Cross-Site Scripting via Comment Content via Elementor Cookie Blocker Regex in all versions up to, and including, 7.5.4 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. Successful exploitation requires an administrator to approve the attacker's comment, and the site must have both the Elementor plugin installed and Complianz configured with ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-83561",
-   "cvss": 7.2,
-   "ref": "https://plugins.trac.wordpress.org/browser/complianz-gdpr/tags/7.5.3.1/class-cookie-blocker.php#L458"
-  },
-  "title_vi": "CVE-2026-83561 — Plugin Complianz GDPR/CCPA Cookie Consent Banner for WordPress dễ bị tấn công bởi Stored Cross-Site Scripting via Comment Content via Elementor Cook",
-  "key": "b48a0c26ea1bb323553a5c12e861f25731ec75a0"
  }
 ]
