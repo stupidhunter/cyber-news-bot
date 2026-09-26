@@ -1,5 +1,254 @@
 [
  {
+  "source": "The Hacker News",
+  "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
+  "link": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
+  "published": "2026-09-26T18:22:52+00:00",
+  "summary": "The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex. The new findings come from Ontinue, which described the activity as a four-stage attack chain aimed at targeting Ukrainian-speaking users. \"The attack chain begins with a fake CAPTCHA page and",
+  "categories": [
+   "breach",
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Kẻ đánh cắp Lunex lạm dụng trình điều khiển AMD để vô hiệu hóa giám sát bảo mật và đánh cắp thông tin đăng nhập trình duyệt",
+  "key": "7416930eac9ddb514d67844b144477299b6f7c45"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82901 — The Ultra Addons for Contact Form 7 plugin for WordPress is vulnerable to Arbitrary File Upload due to insufficient file type validation in the 'uacf7",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82901",
+  "published": "2026-09-26T19:16:28.427",
+  "summary": "The Ultra Addons for Contact Form 7 plugin for WordPress is vulnerable to Arbitrary File Upload due to insufficient file type validation in the 'uacf7_wpcf7_mail_components' function in all versions up to, and including, 3.5.50. This makes it possible for unauthenticated attackers to upload arbitrary files on the affected site's server which may make remote code execution possible. Note: This is only exploitable when the plugin's PDF Generator module is enabled, which is disabled by default.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82901",
+   "cvss": 9.8,
+   "ref": "https://plugins.trac.wordpress.org/browser/ultimate-addons-for-contact-form-7/tags/3.5.48/addons/pdf-generator/pdf-generator.php#L608"
+  },
+  "title_vi": "CVE-2026-82901 — Plugin Ultra Addons for Contact Form 7 cho WordPress dễ bị Tải lên Tệp Tùy ý do không đủ xác thực loại tệp trong 'uacf7",
+  "key": "b3a2679c617adfb00d107b3acd4cff8e907f4ddd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-72662 — Authorization Bypass Through User-Controlled Key (CWE-639) in Kibana can lead to unauthorized disclosure, modification, and deletion of data via Acces",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72662",
+  "published": "2026-09-26T21:16:55.410",
+  "summary": "Authorization Bypass Through User-Controlled Key (CWE-639) in Kibana can lead to unauthorized disclosure, modification, and deletion of data via Accessing Functionality Not Properly Constrained by ACLs (CAPEC-1). An authenticated user granted the Timeline feature privilege in a Kibana space could enumerate, read, modify, and delete draft Timeline objects belonging to other users in the same space. Read access is sufficient for enumeration and disclosure; the Timeline write privilege is required for modification and deletion.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-72662",
+   "cvss": 6.3,
+   "ref": "https://discuss.elastic.co/t/kibana-8-19-22-9-4-6-security-update-esa-2026-103/390679"
+  },
+  "title_vi": "CVE-2026-72662 — Bỏ qua ủy quyền thông qua khóa do người dùng kiểm soát (CWE-639) ở Kibana có thể dẫn đến việc tiết lộ, sửa đổi và xóa dữ liệu trái phép thông qua Acces",
+  "key": "0d42b00dac17b4487a075381b8e9ce3fa6433ded"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-72668 — Unintended Proxy or Intermediary ('Confused Deputy') (CWE-441) in Kibana Agent Builder can lead to privilege escalation",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-72668",
+  "published": "2026-09-26T21:16:55.540",
+  "summary": "Unintended Proxy or Intermediary ('Confused Deputy') (CWE-441) in Kibana Agent Builder can lead to privilege escalation. A non-administrative user able to edit a shared agent could cause privileged operations to be carried out under the identity of a higher-privileged user who subsequently interacts with that agent. Where the same user can also author workflows, this can extend to full administrative control of Kibana and of the Elasticsearch cluster.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-72668",
+   "cvss": 7.3,
+   "ref": "https://discuss.elastic.co/t/kibana-9-4-7-9-5-0-security-update-esa-2026-85/390678"
+  },
+  "title_vi": "CVE-2026-72668 — Đại diện không mong muốn hoặc Trung gian ('Đại diện bối rối') (CWE-441) trong Kibana Agent Builder có thể dẫn đến leo thang đặc quyền",
+  "key": "ba6089978a76717e7b83353fe70fddc47448a0a5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78582 — Missing Authorization (CWE-862) in Kibana can lead to unauthorized deletion of data via Exploiting Incorrectly Configured Access Control Security Leve",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78582",
+  "published": "2026-09-26T21:16:55.663",
+  "summary": "Missing Authorization (CWE-862) in Kibana can lead to unauthorized deletion of data via Exploiting Incorrectly Configured Access Control Security Levels (CAPEC-180). An authenticated user holding Synthetics privileges scoped to a single Kibana space could permanently delete Synthetics monitors that are shared into spaces they have no access to. Where a monitor is associated with a private location, the same operation also destroys the underlying Elastic Agent integration configuration without the authorization checks that Fleet would otherwise apply.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78582",
+   "cvss": 6.5,
+   "ref": "https://discuss.elastic.co/t/kibana-8-19-22-9-4-7-9-5-3-security-update-esa-2026-139/390680"
+  },
+  "title_vi": "CVE-2026-78582 - Thiếu ủy quyền (CWE-862) ở Kibana có thể dẫn đến việc xóa trái phép dữ liệu thông qua Khai thác Leve bảo mật kiểm soát truy cập được cấu hình không chính xác",
+  "key": "8516a965bcbb1ca4776f5a6ea0a73516907e3ed5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82294 — Uncontrolled Resource Consumption (CWE-400) in Elasticsearch can lead to denial of service via Excessive Allocation (CAPEC-130)",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82294",
+  "published": "2026-09-26T21:16:55.783",
+  "summary": "Uncontrolled Resource Consumption (CWE-400) in Elasticsearch can lead to denial of service via Excessive Allocation (CAPEC-130).",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82294",
+   "cvss": 6.5,
+   "ref": "https://discuss.elastic.co/t/elasticsearch-8-19-21-9-4-6-9-5-3-security-update-esa-2026-170/390681"
+  },
+  "title_vi": "CVE-2026-82294 — Tiêu thụ tài nguyên không kiểm soát (CWE-400) trong Elasticsearch có thể dẫn đến từ chối dịch vụ thông qua Phân bổ quá mức (CAPEC-130)",
+  "key": "c9e55405022931a017bd95702c9fdec89159fb7a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82300 — Uncontrolled Resource Consumption (CWE-400) in Elasticsearch can lead to denial of service via Excessive Allocation (CAPEC-130)",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82300",
+  "published": "2026-09-26T21:16:55.907",
+  "summary": "Uncontrolled Resource Consumption (CWE-400) in Elasticsearch can lead to denial of service via Excessive Allocation (CAPEC-130).",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82300",
+   "cvss": 6.5,
+   "ref": "https://discuss.elastic.co/t/elasticsearch-8-19-22-9-4-7-9-5-4-security-update-esa-2026-176/390682"
+  },
+  "title_vi": "CVE-2026-82300 — Tiêu thụ tài nguyên không kiểm soát (CWE-400) trong Elasticsearch có thể dẫn đến từ chối dịch vụ thông qua Phân bổ quá mức (CAPEC-130)",
+  "key": "164f3e51c1d88a9a440957e078eb4d6c38bbf585"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94396 — Uncontrolled Resource Consumption (CWE-400) in Elasticsearch can lead denial of service via Excessive Allocation (CAPEC-130)",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94396",
+  "published": "2026-09-26T21:16:56.027",
+  "summary": "Uncontrolled Resource Consumption (CWE-400) in Elasticsearch can lead denial of service via Excessive Allocation (CAPEC-130)",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94396",
+   "cvss": 6.5,
+   "ref": "https://discuss.elastic.co/t/elasticsearch-9-4-7-9-5-4-security-update-esa-2026-182/390686"
+  },
+  "title_vi": "CVE-2026-94396 — Tiêu thụ tài nguyên không kiểm soát (CWE-400) trong Elasticsearch có thể dẫn đến từ chối dịch vụ thông qua Phân bổ quá mức (CAPEC-130)",
+  "key": "e443965bda8a6ac370fac4c5016856b58b43b62e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94397 — Uncontrolled Resource Consumption (CWE-400) in Elasticsearch can lead denial of service via Excessive Allocation (CAPEC-130)",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94397",
+  "published": "2026-09-26T21:16:56.143",
+  "summary": "Uncontrolled Resource Consumption (CWE-400) in Elasticsearch can lead denial of service via Excessive Allocation (CAPEC-130)",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94397",
+   "cvss": 6.5,
+   "ref": "https://discuss.elastic.co/t/elasticsearch-8-19-22-9-4-7-9-5-4-security-update-esa-2026-183/390687"
+  },
+  "title_vi": "CVE-2026-94397 — Tiêu thụ tài nguyên không kiểm soát (CWE-400) trong Elasticsearch có thể dẫn đến từ chối dịch vụ thông qua Phân bổ quá mức (CAPEC-130)",
+  "key": "9f5a7b071f5febfc1707115ebefb5eefc0009ce1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94398 — Uncontrolled Resource Consumption (CWE-400) in Elasticsearch can lead denial of service via Excessive Allocation (CAPEC-130)",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94398",
+  "published": "2026-09-26T21:16:56.277",
+  "summary": "Uncontrolled Resource Consumption (CWE-400) in Elasticsearch can lead denial of service via Excessive Allocation (CAPEC-130)",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94398",
+   "cvss": 6.5,
+   "ref": "https://discuss.elastic.co/t/elasticsearch-8-19-22-9-4-7-9-5-4-security-update-esa-2026-179/390683"
+  },
+  "title_vi": "CVE-2026-94398 — Tiêu thụ tài nguyên không kiểm soát (CWE-400) trong Elasticsearch có thể dẫn đến từ chối dịch vụ thông qua Phân bổ quá mức (CAPEC-130)",
+  "key": "fd0dd806c58be3007b9c0f7da62a2bbf51a288ea"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94399 — Uncontrolled Resource Consumption (CWE-400) in Elasticsearch can lead denial of service via Excessive Allocation (CAPEC-130)",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94399",
+  "published": "2026-09-26T21:16:56.393",
+  "summary": "Uncontrolled Resource Consumption (CWE-400) in Elasticsearch can lead denial of service via Excessive Allocation (CAPEC-130)",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94399",
+   "cvss": 6.5,
+   "ref": "https://discuss.elastic.co/t/elasticsearch-8-19-22-9-4-7-9-5-4-security-update-esa-2026-180/390684"
+  },
+  "title_vi": "CVE-2026-94399 — Tiêu thụ tài nguyên không kiểm soát (CWE-400) trong Elasticsearch có thể dẫn đến từ chối dịch vụ thông qua Phân bổ quá mức (CAPEC-130)",
+  "key": "ed15e922bbf9cc3a7bda52ef7bec8e6182f56332"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94400 — Uncontrolled Resource Consumption (CWE-400) in Kibana can lead denial of service via Excessive Allocation (CAPEC-130)",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94400",
+  "published": "2026-09-26T21:16:56.513",
+  "summary": "Uncontrolled Resource Consumption (CWE-400) in Kibana can lead denial of service via Excessive Allocation (CAPEC-130)",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94400",
+   "cvss": 6.5,
+   "ref": "https://discuss.elastic.co/t/kibana-8-19-22-9-4-7-9-5-3-security-update-esa-2026-181/390685"
+  },
+  "title_vi": "CVE-2026-94400 — Tiêu thụ tài nguyên không kiểm soát (CWE-400) ở Kibana có thể dẫn đến từ chối dịch vụ thông qua Phân bổ quá mức (CAPEC-130)",
+  "key": "cad6b203a2c0f97d90c1da5e41639b8d22c19c34"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94408 — Uncontrolled Resource Consumption (CWE-400) in Elasticsearch can lead denial of service via Excessive Allocation (CAPEC-130)",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94408",
+  "published": "2026-09-26T21:16:56.630",
+  "summary": "Uncontrolled Resource Consumption (CWE-400) in Elasticsearch can lead denial of service via Excessive Allocation (CAPEC-130)",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94408",
+   "cvss": 4.9,
+   "ref": "https://discuss.elastic.co/t/elasticsearch-8-19-22-9-4-7-9-5-3-security-update-esa-2026-184/390688"
+  },
+  "title_vi": "CVE-2026-94408 — Tiêu thụ tài nguyên không kiểm soát (CWE-400) trong Elasticsearch có thể dẫn đến từ chối dịch vụ thông qua Phân bổ quá mức (CAPEC-130)",
+  "key": "c6d2a98f0c6de531b80233594f5158a01ead78b1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-100739 — A vulnerability was detected in mathurvishal CloudClassroom-PHP-Project up to 5dadec098bfbbf3300d60c3494db3fb95b66e7be",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100739",
+  "published": "2026-09-26T22:16:31.207",
+  "summary": "A vulnerability was detected in mathurvishal CloudClassroom-PHP-Project up to 5dadec098bfbbf3300d60c3494db3fb95b66e7be. This impacts an unknown function of the file viewresult.php. Performing a manipulation of the argument seno results in sql injection. Remote exploitation of the attack is possible. The exploit is now public and may be used. This product follows a rolling release approach for continuous delivery, so version details for affected or updated releases are not provided. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-100739",
+   "cvss": 7.3,
+   "ref": "https://github.com/vinniboy021-blip/Advisory/blob/main/viewresult-sqli.md"
+  },
+  "title_vi": "CVE-2026-100739 — Một lỗ hổng đã được phát hiện trong mathurvishal CloudClassroom-PHP-Project lên đến 5dadec098bfbbf3300d60c3494db3fb95b66e7be",
+  "key": "c3dca9efd294c5ef42b3d1b27252e52237f8b90f"
+ },
+ {
   "source": "GenK",
   "title": "Còn hơn cả chatbot, AI Việt đang giải những bài toán khó từ y tế đến sản xuất, tranh giải thưởng 1 triệu USD",
   "link": "https://genk.vn/con-hon-ca-chatbot-ai-viet-dang-giai-nhung-bai-toan-kho-tu-y-te-den-san-xuat-tranh-giai-thuong-1-trieu-usd-165260926215001418.chn",
@@ -1055,7 +1304,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Ba Lan báo cáo một cuộc tấn công mạng dữ liệu y tế thứ hai trong những tuần gần đây",
   "key": "01a55bd5ca11ea378c8f60ae6a790e304ac2e573"
  },
  {
@@ -1069,7 +1318,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Vi phạm dữ liệu của Lầu Năm Góc về nhân viên quân sự làm dấy lên mối lo ngại về an ninh",
   "key": "d57e7cb1b2c343304f23d4d51d0fb7815aca1790"
  },
  {
@@ -1083,7 +1332,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Một số khách hàng Supabase đang công khai các luồng dữ liệu của mọi người lên web",
   "key": "51b7fc9482876c62c9955e3793ea8d71afee4454"
  },
  {
@@ -1098,7 +1347,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Labcorp đại tu các biện pháp bảo mật dữ liệu, nộp phạt 2,3 triệu $ cho các lỗi an ninh mạng",
   "key": "3b85737a38ea2b6d19b11fa2110cc0b3b9fce1f2"
  },
  {
@@ -1731,7 +1980,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "OpenAI cho biết các mô hình của họ tham gia với các trang web của Chính phủ Hoa Kỳ trong việc tiết lộ mô hình hành vi sai trái mới",
   "key": "155cb7aa1a4f176f46deaffd8dbe949e5a09ace7"
  },
  {
@@ -1745,7 +1994,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Kẻ tấn công bỏ qua WAF để khai thác lỗ hổng Oracle PeopleSoft và triển khai Web Shell",
   "key": "ce84d9dfa237715f1d370d00746ac7dc823c6ee1"
  },
  {
@@ -1760,7 +2009,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Zero Trust cho các đại lý AI bắt đầu với việc cố định khả năng hiển thị bằng không",
   "key": "238a6cbfa4d4011feddc7acea293fd1a1c84d4c1"
  },
  {
@@ -1774,7 +2023,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Lỗ hổng CSRF của Elementor cho phép kẻ tấn công tiếp quản các trang web sau khi quản trị viên nhấp vào liên kết được tạo thủ công",
   "key": "b3441335ad76fb9475fb669931a498e08eefdfd0"
  },
  {
@@ -1788,7 +2037,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "SharePoint RCE và MikroTik RouterOS lỗ hổng tích cực khai thác trong tự nhiên",
   "key": "132e99b28c5b9357e1584eb7b791fe3438d64162"
  },
  {
@@ -1802,7 +2051,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Kiteworks kêu gọi khách hàng tắt hệ thống trong 9 giờ vì có thể bị tấn công mạng",
   "key": "6e201e4c6ce917278cf2820c5481deabbaf85106"
  },
  {
@@ -2113,7 +2362,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/Cap-go/capgo.app/security/advisories/GHSA-2x4j-p4pr-fvp8"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100611 — Capgo (capgo",
   "key": "622760df25ec26ee27684573cd88310a0bbb12b4"
  },
  {
@@ -2131,7 +2380,7 @@
    "cvss": 7.2,
    "ref": "https://github.com/Cap-go/capgo.app/security/advisories/GHSA-jpjp-v827-j4gc"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100612 — Capgo (capgo",
   "key": "73dce855fb8736a97b841f8e88e5f59476d56c6a"
  },
  {
@@ -2149,7 +2398,7 @@
    "cvss": 5.3,
    "ref": "https://github.com/Cap-go/capgo.app/security/advisories/GHSA-6mj9-x3ww-rpj9"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100613 — capgo",
   "key": "aa92761c955d41ed587658d54fb2381abff9c64f"
  },
  {
@@ -2185,7 +2434,7 @@
    "cvss": 8.8,
    "ref": "https://github.com/Cap-go/capgo.app/security/advisories/GHSA-8h52-44r7-w343"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100615 — Cap-go capgo",
   "key": "703055f62eada1ab9da26dddfa5f790be37d8e21"
  },
  {
@@ -2203,7 +2452,7 @@
    "cvss": 5.5,
    "ref": "https://github.com/Cap-go/capgo.app/security/advisories/GHSA-qp5h-v7x3-53cq"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100616 — capgo",
   "key": "083921562935e5d81cbdf60a0392641eb867b867"
  },
  {
@@ -2221,7 +2470,7 @@
    "cvss": 8.8,
    "ref": "https://github.com/Cap-go/capgo.app/security/advisories/GHSA-626c-p6fq-3whq"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100617 — Cap-go capgo",
   "key": "23737a1ec9639de44777ba145f206646c6d5cdf2"
  },
  {
@@ -2240,7 +2489,7 @@
    "cvss": 8.5,
    "ref": "https://github.com/Cap-go/capgo.app/security/advisories/GHSA-669c-gwrr-hc53"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100618 — Capgo (capgo",
   "key": "255202e8ac4af39e4afe7c41a9b68f38a98e1d81"
  },
  {
@@ -2258,7 +2507,7 @@
    "cvss": 8.8,
    "ref": "https://github.com/Cap-go/capgo.app/security/advisories/GHSA-443r-w5p8-rhr2"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100619 — Capgo (capgo",
   "key": "3603012af10f54f538b7d723f90dd9fbdde707f7"
  },
  {
@@ -2294,7 +2543,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/Cap-go/capgo.app/security/advisories/GHSA-5rg9-rhwj-wj76"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100621 — Capgo (capgo",
   "key": "cae2119e24cc1042a44f4201ec7f20ec88c043cf"
  },
  {
@@ -2312,7 +2561,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/Cap-go/capgo.app/security/advisories/GHSA-26x3-6mr7-989p"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100622 — capgo",
   "key": "39800916d6b5543548392b8d5876c1e542454c90"
  },
  {
@@ -2330,7 +2579,7 @@
    "cvss": 8.8,
    "ref": "https://github.com/Cap-go/capgo.app/security/advisories/GHSA-w349-9mc3-8c5x"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100623 — Capgo (capgo",
   "key": "b02223bfc0bb743f4c11c9509bf3d90dc3f476ca"
  },
  {
@@ -2348,7 +2597,7 @@
    "cvss": 5.4,
    "ref": "https://github.com/Cap-go/capgo.app/security/advisories/GHSA-mqr8-g67p-jm26"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100624 — Capgo",
   "key": "f26c6e2f628bae0e938e2cbbd591148af63ee6cf"
  },
  {
@@ -2366,7 +2615,7 @@
    "cvss": 7.1,
    "ref": "https://github.com/Cap-go/capgo.app/security/advisories/GHSA-r45q-x4gr-3mvv"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100625 — Capgo (capgo",
   "key": "f775d6afe12b2f6b39de72cb5f4dfc4dc4d7f947"
  },
  {
@@ -2402,7 +2651,7 @@
    "cvss": 8.1,
    "ref": "https://github.com/Cap-go/capgo.app/security/advisories/GHSA-633x-9x77-77gf"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100627 — Capgo (Cap-go/capgo",
   "key": "617f28088668136288cf4890a2a5054b64afd521"
  },
  {
@@ -2420,7 +2669,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/Cap-go/capgo.app/security/advisories/GHSA-j6p6-qqcg-3fwp"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100628 — capgo",
   "key": "9610bff17a67f833637b1c7da465dfa84530b76c"
  },
  {
@@ -2438,7 +2687,7 @@
    "cvss": 5.5,
    "ref": "https://github.com/Cap-go/capgo.app/security/advisories/GHSA-54mj-q77q-xwx5"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100629 — Capgo (capgo",
   "key": "5768f37a8c9ac15d6d9d812c777f0fe92085be6b"
  },
  {
@@ -2618,7 +2867,7 @@
    "cvss": 8.8,
    "ref": "https://github.com/siyuan-note/siyuan/security/advisories/GHSA-2cmm-9x9j-rvff"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100639 — SiYuan v3",
   "key": "0a6de695323068251794520275d7494f30a12b48"
  },
  {
@@ -2914,7 +3163,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/netty/netty/security/advisories/GHSA-rmcw-9fcq-wjq7"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100655 — Netty (io",
   "key": "c7bbc82afbd846059c422871663684bc332ad7c8"
  },
  {
@@ -2932,7 +3181,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/netty/netty/security/advisories/GHSA-pvjx-v7vp-62vq"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100656 — Netty (io",
   "key": "f22df9a0f51af04df3fc78c71cc674917a3d0952"
  },
  {
@@ -2969,7 +3218,7 @@
    "cvss": 5.3,
    "ref": "https://github.com/netty/netty/security/advisories/GHSA-2g37-3h88-55hc"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100658 — Netty (io",
   "key": "1661747f1ec6c952dcd99fa8dd6f4bbface78e8f"
  },
  {
@@ -3151,7 +3400,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/getgrav/grav/security/advisories/GHSA-59qm-58v5-gvc5"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100668 — Grav 2",
   "key": "23760b5646a316a2c1cb12f2125d5523727f4fee"
  },
  {
@@ -3187,7 +3436,7 @@
    "cvss": 8.8,
    "ref": "https://github.com/getgrav/grav/security/advisories/GHSA-mwjj-r7vm-pgqm"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100670 — Grav CMS 2",
   "key": "5d8f45246af0371807a49a476fea7348ece01bdc"
  },
  {
@@ -3313,7 +3562,7 @@
    "cvss": 5.3,
    "ref": "https://github.com/stoatchat/stoatchat/security/advisories/GHSA-h44h-xx2j-hp56"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100677 — stoatchat trước 0",
   "key": "2440da1f7091c712e898636cfaf5f8b1764fb77f"
  },
  {
@@ -3331,7 +3580,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/stoatchat/stoatchat/security/advisories/GHSA-6877-g673-f5r8"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100678 — stoatchat trước 0",
   "key": "2d36df990e9f03f01de4a911f609fd53de8a209e"
  },
  {
@@ -3350,7 +3599,7 @@
    "cvss": 8.8,
    "ref": "https://github.com/stoatchat/stoatchat/security/advisories/GHSA-gwg6-q3c3-97cx"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100679 — stoatchat trước 0",
   "key": "0e63f28b755aad6bdc2f7994f3daa5dfd4ab2a14"
  },
  {
@@ -3369,7 +3618,7 @@
    "cvss": 8.1,
    "ref": "https://github.com/Budibase/budibase/security/advisories/GHSA-8xr5-pggf-26jq"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100680 — Phiên bản Budibase trước 3",
   "key": "1e7b0298406c23caedaadd633755e7a583f39d1d"
  },
  {
@@ -3388,7 +3637,7 @@
    "cvss": 5.4,
    "ref": "https://github.com/Budibase/budibase/security/advisories/GHSA-942w-fccr-8r3c"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100681 — Budibase trước 3",
   "key": "59a0634fd934da8ccb22b55721d708d8fd57f02c"
  },
  {
@@ -3406,7 +3655,7 @@
    "cvss": 8.8,
    "ref": "https://github.com/Budibase/budibase/security/advisories/GHSA-37r6-5jxh-vm83"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100682 — Máy chủ Budibase trước 3",
   "key": "c071ec99197d05255d31c7886e9deb167b434dbf"
  },
  {
@@ -3424,7 +3673,7 @@
    "cvss": 8.0,
    "ref": "https://github.com/Budibase/budibase/security/advisories/GHSA-ppj8-hmx2-m546"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100683 — Budibase (@ budibase/máy chủ) trước 3",
   "key": "330b7898de2bdd74b8d876c781392e07a43bd046"
  },
  {
@@ -3442,7 +3691,7 @@
    "cvss": 8.1,
    "ref": "https://github.com/Budibase/budibase/security/advisories/GHSA-35ch-57g2-3g98"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100684 — Budibase phiên bản 3",
   "key": "c9774479a33ec11cacefd77e96fdd1a8c1389c0c"
  },
  {
@@ -3460,7 +3709,7 @@
    "cvss": 7.7,
    "ref": "https://github.com/Budibase/budibase/security/advisories/GHSA-76m3-47v8-p7h6"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100685 — Budibase trước 3",
   "key": "5fd75dd6cc012c136b3a33aa29f60f423f7f65fd"
  },
  {
@@ -3478,7 +3727,7 @@
    "cvss": 8.1,
    "ref": "https://github.com/Budibase/budibase/security/advisories/GHSA-pp5r-q4fp-mcj3"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100686 — Phiên bản Budibase trước 3",
   "key": "32ecf3f9b0477cc80c5c14111aa93eaf0bb32b33"
  },
  {
@@ -3497,7 +3746,7 @@
    "cvss": 5.5,
    "ref": "https://github.com/Budibase/budibase/security/advisories/GHSA-rmv5-3xpj-w885"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100687 — Máy chủ Budibase trước 3",
   "key": "8bc41b6a77e907a54f51c926612de4a77a6dfe6d"
  },
  {
@@ -3785,7 +4034,7 @@
    "cvss": 7.7,
    "ref": "https://github.com/kyverno/kyverno/security/advisories/GHSA-59v6-2x73-wfg4"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100703 — Kyverno 1",
   "key": "33810177e7cc5cac8431ce2ea4f581269ec5030e"
  },
  {
@@ -3967,7 +4216,7 @@
    "cvss": 7.8,
    "ref": "https://github.com/froxlor/froxlor/security/advisories/GHSA-927x-9jfh-mq42"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100713 — Froxlor 2",
   "key": "d2a10b728145bca04b5e208fc5a928401641ced7"
  },
  {
@@ -4094,7 +4343,7 @@
    "cvss": 8.7,
    "ref": "https://github.com/froxlor/froxlor/security/advisories/GHSA-89vj-gqqr-73p8"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100720 — Froxlor 2",
   "key": "7fbe2676c8be61a19cfa74df8636fb3214c30fc1"
  },
  {
@@ -74026,258 +74275,5 @@
   },
   "title_vi": "",
   "key": "5fa16ec2594745f08c49b2349f2d399d1804b7a6"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-61413 — Dell Secure Connect Gateway (SCG) Policy Manager, versions prior to 5",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-61413",
-  "published": "2026-09-23T15:17:14.867",
-  "summary": "Dell Secure Connect Gateway (SCG) Policy Manager, versions prior to 5.34.00.16, contains an Improper Privilege Management vulnerability. A low privileged attacker with remote access could potentially exploit this vulnerability, leading to Unauthorized access.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-61413",
-   "cvss": 6.8,
-   "ref": "https://www.dell.com/support/kbdoc/en-ca/000503592/dsa-2026-385-security-update-for-dell-secure-connect-gateway-policy-manager-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
-  },
-  "title_vi": "",
-  "key": "a959a2126936ae8adf9cc453ee6117ee3b60ae4a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-61834 — scim-patch is a library for applying SCIM patch operations",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-61834",
-  "published": "2026-09-23T15:17:15.127",
-  "summary": "scim-patch is a library for applying SCIM patch operations. Prior to 0.9.2, navigate() reads inherited properties and assign() uses prototype-chain membership checks while resolving attacker-controlled SCIM PATCH paths. A path or one of the dotted value keys beginning with an inherited property such as toString can therefore traverse into a shared built-in function object and add attacker-controlled properties, causing process-global mutation that may affect application logic reading inherited-method properties. This issue is fixed in version 0.9.2.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-61834",
-   "cvss": 4.3,
-   "ref": "https://github.com/thomaspoignant/scim-patch/commit/c86474f7a9b16191d939f59ba94eca6c6e63044b"
-  },
-  "title_vi": "",
-  "key": "13ee0c3cf1b216ccbe11ebe9cb8249fe5640a0f4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-62998 — REDAXO is a PHP-based content management system",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-62998",
-  "published": "2026-09-23T15:17:15.293",
-  "summary": "REDAXO is a PHP-based content management system. Prior to 5.21.2, rex_list::getSortColumn() in redaxo/src/core/lib/list.php accepts the sort request parameter without checking whether setColumnSortable() registered the requested column. An authenticated backend user can make prepareQuery() add an escaped but unauthorized ORDER BY identifier, allowing error-based enumeration of columns in joined tables and ordering by unselected sensitive fields such as rex_user.password. This issue is fixed in version 5.21.2.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-62998",
-   "cvss": 4.3,
-   "ref": "https://github.com/redaxo/core/commit/c44ba5206a28427984100c994010f2aaa6703efd"
-  },
-  "title_vi": "",
-  "key": "9ef3a1e297db2166d5cab73b48b8177eca109871"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-63000 — REDAXO is a PHP-based content management system",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63000",
-  "published": "2026-09-23T15:17:15.453",
-  "summary": "REDAXO is a PHP-based content management system. Prior to 5.21.2, rex_api_install_package_update in redaxo/src/addons/install/lib/api/api_package_update.php inherits the false default from rex_api_function::requiresCsrfProtection() instead of requiring a CSRF token. An unauthenticated attacker can cause a logged-in administrator's browser to request a selected package update from the configured REDAXO package server, changing installed addon code or disrupting the site without the administrator's intent. This issue is fixed in version 5.21.2.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-63000",
-   "cvss": 6.4,
-   "ref": "https://github.com/redaxo/core/commit/a13abbffbad4fdea46a4edc86cdba3335ca9e8f3"
-  },
-  "title_vi": "",
-  "key": "7b16f24edc216118e4b8edbc97c4ae4c20ba9c32"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-63001 — REDAXO is a PHP-based content management system",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63001",
-  "published": "2026-09-23T15:17:15.617",
-  "summary": "REDAXO is a PHP-based content management system. Prior to 5.21.2, the mediaIsInUse() handler in redaxo/src/addons/media_manager/lib/media_manager.php inserts a Media Manager type name into raw backend warning HTML without escaping it when invoked through MEDIA_IS_IN_USE. An administrator with Media Manager access can store HTML in a type name, and the payload executes in another administrator's browser when that administrator tries to delete media referenced by the type's effects, enabling session theft or unauthorized backend actions. This issue is fixed in version 5.21.2.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-63001",
-   "cvss": 4.8,
-   "ref": "https://github.com/redaxo/core/commit/2daaa3a30570bc76a82f63fd21fb8c9c2cd5dc7c"
-  },
-  "title_vi": "",
-  "key": "33e56e72168df8fb4aab21c573860dc41963d3f9"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-63002 — REDAXO is a PHP-based content management system",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-63002",
-  "published": "2026-09-23T15:17:15.770",
-  "summary": "REDAXO is a PHP-based content management system. Prior to 5.21.2, redaxo/src/addons/mediapool/pages/sync.php inserts filenames held in $diffFiles from the media filesystem into the Mediapool Sync page without rex_escape(). An attacker who can place an unregistered file with HTML metacharacters in the media directory can execute script in the browser of a backend user with media[sync] permission when that user opens the Sync page, enabling session theft or unauthorized backend actions. This issue is fixed in version 5.21.2.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-63002",
-   "cvss": 4.8,
-   "ref": "https://github.com/redaxo/core/commit/2daaa3a30570bc76a82f63fd21fb8c9c2cd5dc7c"
-  },
-  "title_vi": "",
-  "key": "f01dd72c534b97ff2a438285a96ff53a3f656bcf"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-71177 — Dell Secure Connect Gateway (SCG) Policy Manager, versions prior to 5",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71177",
-  "published": "2026-09-23T15:17:16.457",
-  "summary": "Dell Secure Connect Gateway (SCG) Policy Manager, versions prior to 5.34.00.16, contains an Improper Restriction of Rendered UI Layers or Frames vulnerability. A low privileged attacker with remote access could potentially exploit this vulnerability, leading to Elevation of privileges and Session theft.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-71177",
-   "cvss": 5.4,
-   "ref": "https://www.dell.com/support/kbdoc/en-ca/000503592/dsa-2026-385-security-update-for-dell-secure-connect-gateway-policy-manager-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
-  },
-  "title_vi": "",
-  "key": "6c962f68502f74cbe62bd7d4b64a2ccdf7e32a48"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-71178 — Dell Secure Connect Gateway (SCG) Policy Manager, versions prior to 5",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-71178",
-  "published": "2026-09-23T15:17:16.590",
-  "summary": "Dell Secure Connect Gateway (SCG) Policy Manager, versions prior to 5.34.00.16, contains an Use of Non-Canonical URL Paths for Authorization Decisions vulnerability. An unauthenticated attacker with remote access could potentially exploit this vulnerability, leading to Unauthorized access.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-71178",
-   "cvss": 3.7,
-   "ref": "https://www.dell.com/support/kbdoc/en-ca/000503592/dsa-2026-385-security-update-for-dell-secure-connect-gateway-policy-manager-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
-  },
-  "title_vi": "",
-  "key": "332e2f7a3847e3a1391218dcece5f6e98cfe0951"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-73586 — Dell Secure Connect Gateway (SCG) Policy Manager, versions prior to 5",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73586",
-  "published": "2026-09-23T15:17:17.583",
-  "summary": "Dell Secure Connect Gateway (SCG) Policy Manager, versions prior to 5.34.00.16, contains an Insufficient Session Expiration vulnerability. A low privileged attacker with adjacent network access could potentially exploit this vulnerability, leading to Elevation of privileges, Protection mechanism bypass, and Unauthorized access.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-73586",
-   "cvss": 6.4,
-   "ref": "https://www.dell.com/support/kbdoc/en-ca/000503592/dsa-2026-385-security-update-for-dell-secure-connect-gateway-policy-manager-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
-  },
-  "title_vi": "",
-  "key": "062fa49281675123e8f85ed7f4c2a42c7905cab9"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-73587 — Dell Secure Connect Gateway (SCG) Policy Manager, versions prior to 5",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73587",
-  "published": "2026-09-23T15:17:17.720",
-  "summary": "Dell Secure Connect Gateway (SCG) Policy Manager, versions prior to 5.34.00.16, contains an Improper Certificate Validation vulnerability. An unauthenticated attacker with adjacent network access could potentially exploit this vulnerability, leading to Information disclosure, Information tampering, and Protection mechanism bypass.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-73587",
-   "cvss": 6.8,
-   "ref": "https://www.dell.com/support/kbdoc/en-ca/000503592/dsa-2026-385-security-update-for-dell-secure-connect-gateway-policy-manager-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
-  },
-  "title_vi": "",
-  "key": "a64bb2bff6f501df9f25060b5656fca2d1fa86f0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-73588 — Dell Secure Connect Gateway (SCG) Policy Manager, versions prior to 5",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73588",
-  "published": "2026-09-23T15:17:17.850",
-  "summary": "Dell Secure Connect Gateway (SCG) Policy Manager, versions prior to 5.34.00.16, contains a Missing Authentication for Critical Function vulnerability. An unauthenticated attacker with remote access could potentially exploit this vulnerability, leading to Unauthorized access.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-73588",
-   "cvss": 7.4,
-   "ref": "https://www.dell.com/support/kbdoc/en-ca/000503592/dsa-2026-385-security-update-for-dell-secure-connect-gateway-policy-manager-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
-  },
-  "title_vi": "",
-  "key": "8eb832752c87df2c4d2fe3306edd42c26049195f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-73589 — Dell Secure Connect Gateway (SCG) Policy Manager, versions prior to 5",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73589",
-  "published": "2026-09-23T15:17:17.973",
-  "summary": "Dell Secure Connect Gateway (SCG) Policy Manager, versions prior to 5.34.00.16, Versions prior to 5.36, contains a Weak Encoding for Password vulnerability. A low privileged attacker with local access could potentially exploit this vulnerability, leading to Information disclosure, Information tampering, Protection mechanism bypass, and Unauthorized access.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-73589",
-   "cvss": 6.3,
-   "ref": "https://www.dell.com/support/kbdoc/en-ca/000503592/dsa-2026-385-security-update-for-dell-secure-connect-gateway-policy-manager-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
-  },
-  "title_vi": "",
-  "key": "3167f13c43e736e95c961a23badeea2587de753f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-73591 — Dell Secure Connect Gateway (SCG) Policy Manager, versions prior to 5",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73591",
-  "published": "2026-09-23T15:17:18.103",
-  "summary": "Dell Secure Connect Gateway (SCG) Policy Manager, versions prior to 5.34.00.16, contains an Inclusion of Sensitive Information in Source Code vulnerability. An unauthenticated attacker with remote access could potentially exploit this vulnerability, leading to Information exposure.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-73591",
-   "cvss": 7.5,
-   "ref": "https://www.dell.com/support/kbdoc/en-ca/000503592/dsa-2026-385-security-update-for-dell-secure-connect-gateway-policy-manager-multiple-vulnerabilities?msockid=3021cac2195069ed3194ddad186a68f9"
-  },
-  "title_vi": "",
-  "key": "c34218e1a1e9d8a94abd96171ea45f9d2ab7a0f0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-73858 — Solspace Freeform plugin for Craft CMS 5",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73858",
-  "published": "2026-09-23T15:17:18.233",
-  "summary": "Solspace Freeform plugin for Craft CMS 5.x is a super flexible form-building tool. From 5.0.0 through 5.10.13, submitted values from public Freeform forms can be evaluated by the isolated Twig renderer when rendered into HTML attributes. An unauthenticated attacker can place Twig expressions in submitted field values, including value attributes, and receive evaluated PHP, operating-system, or Craft filesystem-path constants in the form response. The isolated context was not shown to expose Craft globals, environment variables, credentials, arbitrary files, or code execution, so the confirmed i",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-73858",
-   "cvss": 5.3,
-   "ref": "https://github.com/solspace/craft-freeform/commit/5f7555320635f1cd3b4c478aa0b58e8c3144313b"
-  },
-  "title_vi": "",
-  "key": "2c077b015e01386d726f39e92d550454e9ed5856"
  }
 ]
