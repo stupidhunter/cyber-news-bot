@@ -10871,5 +10871,22 @@
  "2b9e1999b96cdad8e2b74acfea1c60243508c5af": "CVE-2026-100571 — Phiên bản OpenClaw (gói npm 'openclaw') >= 2026",
  "01aae174899ca38034abf17ca0a23d67662ae907": "CVE-2026-100572 — Phiên bản OpenClaw >= 2026",
  "563691320005da89bb5f94d745c5dd842fc51a40": "CVE-2026-100573 — Phiên bản OpenClaw trước năm 2026",
- "7f53b0a84190101c2108d6d2da588a2ff27f9d88": "CVE-2026-100574 — OpenClaw (gói npm 'openclaw') trước năm 2026"
+ "7f53b0a84190101c2108d6d2da588a2ff27f9d88": "CVE-2026-100574 — OpenClaw (gói npm 'openclaw') trước năm 2026",
+ "60a83e49e0083866e4d1bc9a7535a274556c3a72": "CVE-2026-11871 — Plugin WordPress cho các thành viên trong nhóm thông qua 9",
+ "e735e9940cf9154a01913a1e36edb5772a4a2568": "CVE-2026-16591 — Plugin WordPress WP Directory Kit trước 1",
+ "f3b41dcd0ab172b754c7993b14d565582b8f6cf3": "CVE-2026-18143 — Yêu cầu báo giá cho plugin WooCommerce cho WordPress dễ bị Tải lên tệp tùy ý trong tất cả các phiên bản lên đến, và bao gồm, 2",
+ "cdb515f8457d5d57cc389d21eac76a13c742ec8e": "CVE-2026-19708 — Trình quản lý tệp WordPress plugin trước 8",
+ "97f5b9ba09e400658e62e1176de5726f2d8e4f4b": "CVE-2026-84095 — Plugin wp-review-slider-pro WordPress trước 12",
+ "c63cf0d4d1ec062a3e515354fa86111db0741d63": "CVE-2026-84096 — Plugin wp-review-slider-pro WordPress trước 12",
+ "ba64f6ed9663a24253abfd5b5d92c0b32afc9eea": "CVE-2026-84097 — Plugin wp-review-slider-pro WordPress trước 12",
+ "d95bb112290b6cebf3f760feec7ac417dfe9be04": "CVE-2026-85081 — Trình quản lý tệp WordPress plugin trước 8",
+ "c9ad73a15f8d03085a8aece809840ac877242ca2": "CVE-2026-89237 — Plugin The Bluff Post WordPress thông qua 1",
+ "e2c19cdbb863f7f7101833624375ed49b40d0792": "CVE-2026-92411 — Plugin WP Delicious WordPress trước 1",
+ "114505e26eb2e06cc63d01f60c869dfed293a0b5": "CVE-2026-96524 — MCP Server cho WordPress WordPress plugin trước 1",
+ "f7611c92b37c993492e696c7ae8b3d5090096e55": "CVE-2026-96525 — MCP Server cho WordPress WordPress plugin trước 1",
+ "f3d4e3f734dca29a83d8f77e4b5d85cbe8c0bb21": "CVE-2026-96526 — Máy chủ MCP cho WordPress WordPress plugin trước 1",
+ "bb3fea3b63f3c75fa81955022ea99511a0cdd58e": "CVE-2026-96531 — Plugin WordPress Optimole trước 4",
+ "34fc9bd57594d68573d57c528935ea6b6b2b13d4": "CVE-2026-96532 — Tiện ích nhận xét WordPress plugin thông qua 4",
+ "d44ae7fdcbc665a8d3fffc71e8ca60ecb1d6385a": "CVE-2026-96533 — Tiện ích nhận xét WordPress plugin thông qua 4",
+ "e09a41c513d85da29cc073174261b1dfc92f9bc6": "CVE-2026-100311 — Một lỗ hổng đã được xác định trong mathurvishal CloudClassroom-PHP-Project lên đến 5dadec098bfbbf3300d60c3494db3fb95b66e7be"
 }
