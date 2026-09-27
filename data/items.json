@@ -1,5 +1,537 @@
 [
  {
+  "source": "Thanh Niên Công nghệ",
+  "title": "C&aacute;ch Trung Quốc buộc AI phương T&acirc;y phải &#039;đạp gi&aacute;&#039; token để cạnh tranh",
+  "link": "https://thanhnien.vn/cach-trung-quoc-buoc-ai-phuong-tay-phai-dap-gia-token-de-canh-tranh-185260926160031021.htm",
+  "published": "2026-09-27T07:00:00+00:00",
+  "summary": "C&aacute;c m&ocirc; h&igrave;nh Open-weight đến từ Trung Quốc đang được c&aacute;c doanh nghiệp khắp thế giới ưa chuộng do tối ưu về chi ph&iacute;, buộc c&aacute;c c&ocirc;ng ty AI phương T&acirc;y phải giảm gi&aacute; token để giữ ch&acirc;n kh&aacute;ch h&agrave;ng.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "dd47d68e97f708a3b9a84a77e2358d46817594d3"
+ },
+ {
+  "source": "GenK",
+  "title": "Công an cảnh báo về trào lưu vừa xuất hiện, đang hot trên mạng xã hội",
+  "link": "https://genk.vn/cong-an-canh-bao-ve-trao-luu-vua-xuat-hien-dang-hot-tren-mang-xa-hoi-165260927131232359.chn",
+  "published": "2026-09-27T09:48:15.317585+00:00",
+  "summary": "Mỗi người dân cần nâng cao ý thức bảo vệ dữ liệu cá nhân, thận trọng trước các trào lưu trên mạng xã hội.",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "335be15cc48772b1fa01d482d981845fef4fbe39"
+ },
+ {
+  "source": "Znews Công nghệ",
+  "title": "Vận động viên 11 tuổi giành HCV tại ASIAD là ai?",
+  "link": "https://tech.zingnews.vn/game-thu-11-tuoi-gianh-hcv-asian-games-post1685904.html",
+  "published": "2026-09-27T09:17:43+00:00",
+  "summary": "Yuki Kurihara, học sinh tiểu học 11 tuổi của Nhật Bản, giành HCV eSports tại ASIAD sau chiến thắng áp đảo trước đối thủ Hàn Quốc.",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "c976646f01aeace24fcd19e4cf34ad6d81b115c0"
+ },
+ {
+  "source": "Znews Công nghệ",
+  "title": "Vì sao lên mạng xã hội, lướt một lần là gặp phim AI?",
+  "link": "https://tech.zingnews.vn/vi-sao-len-mang-xa-hoi-luot-mot-lan-la-gap-phim-ai-post1685001.html",
+  "published": "2026-09-27T04:29:45+00:00",
+  "summary": "Phim AI đang xuất hiện dày đặc trên mạng xã hội. Khi kết hợp với thuật toán đề xuất, nội dung này có thể tạo vòng lặp khiến người dùng càng xem càng khó dừng.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "d04df3f166c6cfc4d3671ebbc256f8ef32feb60c"
+ },
+ {
+  "source": "VnExpress Số hóa",
+  "title": "Nhân viên Google từ chức vì lo AI 'phát triển quá nhanh'",
+  "link": "https://vnexpress.net/nhan-vien-google-tu-chuc-vi-lo-ai-phat-trien-qua-nhanh-5125305.html",
+  "published": "2026-09-27T06:00:00+00:00",
+  "summary": "Robert O'Callahan, nhân viên Google DeepMind, tuyên bố nghỉ việc và cho rằng theo đuổi siêu trí tuệ nhân tạo (ASI) trong tương lai gần là \"thiếu trách nhiệm\".",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "67a9de5955bf65e2cfe729ac5502a8ea9eebbd2e"
+ },
+ {
+  "source": "VnExpress Số hóa",
+  "title": "Dự án máy phát hiện nói dối bằng AI của Lầu Năm Góc bị hoài nghi",
+  "link": "https://vnexpress.net/du-an-may-phat-hien-noi-doi-bang-ai-cua-lau-nam-goc-bi-hoai-nghi-5125066.html",
+  "published": "2026-09-27T04:00:00+00:00",
+  "summary": "Bộ Quốc phòng Mỹ đề xuất chương trình Polygraph+, dùng AI tạo ra thiết bị thẩm tra thế hệ mới, tuy nhiên nhiều chuyên gia đánh giá dự án thiếu cơ sở khoa học.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "cd715d8a597235adc981fc14d987989de62ebf24"
+ },
+ {
+  "source": "SecurityWeek",
+  "title": "Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks",
+  "link": "https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/",
+  "published": "2026-09-27T09:23:09+00:00",
+  "summary": "CISA added CVE-2026-65660 to its KEV catalog, giving federal agencies a patching deadline of September 28. The post Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks appeared first on SecurityWeek .",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Lỗ hổng Microsoft SharePoint CVE-2026-65660 hiện đang bị khai thác trong các cuộc tấn công",
+  "key": "7d948039382d23ac8a45fb06ebd7ce6c47337fcf"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
+  "link": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
+  "published": "2026-09-27T07:47:57+00:00",
+  "summary": "Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr said on September 26. Citrix has not confirmed the flaws or published a fix. Some administrators say they have taken appliances offline rather than wait for one to be available. NetScaler ADC and",
+  "categories": [
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Cảnh báo: Hai ngày sử dụng Citrix NetScaler RCE Zero-Days chưa từng có",
+  "key": "29c0392b04f087918fef7341530f9f70f8f7ee3b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-100746 — A vulnerability was found in coollabsio Coolify up to 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100746",
+  "published": "2026-09-27T04:16:34.570",
+  "summary": "A vulnerability was found in coollabsio Coolify up to 4.1.0. This affects the function Github::redirect of the file /webhooks/source/github/redirect of the component GitHub App Setup Handler. The manipulation of the argument state results in missing authentication. The attack can be executed remotely. The exploit has been made public and could be used. Upgrading to version 4.1.1 mitigates this issue. The patch is identified as fc89e357feed5180ed1ab5eb9cb330578f025539. The affected component should be upgraded.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-100746",
+   "cvss": 7.3,
+   "ref": "https://github.com/coollabsio/coolify/"
+  },
+  "title_vi": "CVE-2026-100746 — Một lỗ hổng đã được tìm thấy trong coollabsio Coolify lên đến 4",
+  "key": "05caac6021e7a33ca6ae6b2f2b38542b9360aafd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81655 — The Ad Inserter WordPress plugin before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81655",
+  "published": "2026-09-27T06:16:58.003",
+  "summary": "The Ad Inserter  WordPress plugin before 2.8.19 does not correctly restrict access to one of its settings pages, making it reachable by every logged in user under a configuration its own settings allow, and does not filter the content saved there, allowing users with a role as low as subscriber to store code which is then executed as PHP or served unescaped to site visitors.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81655",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/b189ce9a-a930-41e6-bdd1-fdcc3bfb66be/"
+  },
+  "title_vi": "CVE-2026-81655 — Plugin WordPress Ad Inserter before 2",
+  "key": "d404338d1ecbb9d61f051692e6edea5334f32ba5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82841 — The UpdraftPlus: WP Backup & Migration Plugin WordPress plugin before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82841",
+  "published": "2026-09-27T06:17:03.433",
+  "summary": "The UpdraftPlus: WP Backup & Migration Plugin WordPress plugin before 1.26.8, UpdraftPlus: WP Backup & Migration Plugin WordPress plugin before 2.26.8.26 does not have any capability check in a routine that outputs its stored remote storage settings into admin pages when the site is left in a particular post-migration state, allowing any authenticated user, such as a subscriber, to retrieve the credentials of the configured backup destinations, such as passwords and secret keys.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82841",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/52f39a82-89ee-43f1-ba9c-3ea646fb0a0e/"
+  },
+  "title_vi": "CVE-2026-82841 — UpdraftPlus: Plugin WP Backup & Migration Plugin WordPress trước 1",
+  "key": "55d05dd8c402e026a01c07a32243e2b78034a604"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84069 — The WebFacing™ WordPress plugin before 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84069",
+  "published": "2026-09-27T06:17:06.560",
+  "summary": "The WebFacing™  WordPress plugin before 5.4 does not restrict access to one of its bundled scripts and does not validate a user-supplied path before using it to include a local file, allowing unauthenticated users to perform Local File Inclusion.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84069",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/04965370-b4f4-4629-a9b1-7450fcf6aeee/"
+  },
+  "title_vi": "CVE-2026-84069 — Plugin WordPress WebFacing™ trước 5",
+  "key": "3a45ec99c295ba113633c2dc8e889767ba9138a8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-85002 — The EmbedPress WordPress plugin before 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85002",
+  "published": "2026-09-27T06:17:10.067",
+  "summary": "The EmbedPress  WordPress plugin before 4.6.7 does not escape one of its block attributes before outputting it inside an HTML attribute, which could allow users with the contributor role and above to perform Stored Cross-Site Scripting attacks against higher privileged users viewing the post.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-85002",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/ad155ea2-c804-4906-956e-e2da8050d0de/"
+  },
+  "title_vi": "CVE-2026-85002 — Plugin WordPress EmbedPress trước 4",
+  "key": "3792afeaa2cd0d93b3ff833df29e7c956ab7b35a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86609 — The Download Manager WordPress plugin before 7",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86609",
+  "published": "2026-09-27T06:17:14.070",
+  "summary": "The Download Manager WordPress plugin before 7.5.6 does not sanitise and escape data submitted through its email-locked download subscription form before outputting it back in an admin page, which could allow unauthenticated attackers to perform Stored Cross-Site Scripting attacks against administrators. This affects the commercial Pro edition only; the free Download Manager WordPress plugin before 7.5.6 published under the same slug does not ship the affected feature.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86609",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/85ebf2d8-af69-434c-b733-8156210d6d6a/"
+  },
+  "title_vi": "CVE-2026-86609 — Trình quản lý tải xuống WordPress plugin trước 7",
+  "key": "58b6c2b228f992bf0a0ac97751eb7254df85a0a2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86839 — The Online Scheduling and Appointment Booking System WordPress plugin before 28",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86839",
+  "published": "2026-09-27T06:17:14.180",
+  "summary": "The Online Scheduling and Appointment Booking System  WordPress plugin before 28.3 does not verify that appointment and payment records requested through its staff-role AJAX actions belong to the requesting staff member, allowing authenticated attackers with a staff-level account to view, modify and delete other staff members' appointments and payments, including the associated customer's personal information.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86839",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/3ab8b879-3ef7-4aa4-8620-1bde99697dcb/"
+  },
+  "title_vi": "CVE-2026-86839 — Plugin Hệ thống đặt lịch hẹn và lên lịch hẹn trực tuyến WordPress trước 28",
+  "key": "7477787f3a86fa9d3e11b866fbf270eaf519b51b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-86841 — The Online Scheduling and Appointment Booking System WordPress plugin before 28",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86841",
+  "published": "2026-09-27T06:17:17.293",
+  "summary": "The Online Scheduling and Appointment Booking System  WordPress plugin before 28.3 does not prevent deserialization of untrusted input and does not correctly restrict a privileged maintenance feature to administrators, allowing users granted a custom booking-management capability, which an administrator must explicitly assign, to inject arbitrary PHP objects, overwrite privileged site options, and read stored integration secrets.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86841",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/2150717e-7564-4b29-b2e7-362dd3b480c3/"
+  },
+  "title_vi": "CVE-2026-86841 — Plugin Hệ thống đặt lịch hẹn và lên lịch hẹn trực tuyến WordPress trước 28",
+  "key": "1b09ae2e1d279920e9b48e7879e29922c4861382"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-89000 — The WPeMatico RSS Feed Fetcher WordPress plugin before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89000",
+  "published": "2026-09-27T06:17:19.283",
+  "summary": "The WPeMatico RSS Feed Fetcher WordPress plugin before 2.8.27 does not perform a capability check or validate the destination of a user-supplied feed URL before fetching it server-side, allowing users with contributor-level access and above to make the server issue requests to internal-only resources and read the responses back.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-89000",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/2622b685-d2a9-4bb5-aeef-3aa4ca7adcc4/"
+  },
+  "title_vi": "CVE-2026-89000 — Plugin WPeMatico RSS Feed Fetcher WordPress trước 2",
+  "key": "327964f9eb30aa057a8b19fa5fea483be190e544"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-89001 — The WPeMatico RSS Feed Fetcher WordPress plugin before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89001",
+  "published": "2026-09-27T06:17:19.397",
+  "summary": "The WPeMatico RSS Feed Fetcher WordPress plugin before 2.8.27 does not verify that a user running a feed campaign is permitted to publish content or to attribute posts to another account, allowing users with contributor-level access and above to publish posts live and set any registered user, including an administrator, as the post author.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-89001",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/829bfdc3-7a15-4d6a-9782-72d34fd114b7/"
+  },
+  "title_vi": "CVE-2026-89001 — Plugin WPeMatico RSS Feed Fetcher WordPress trước 2",
+  "key": "0f9d2e7219ec6333597213bffdf9fe4248d1f57f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-89003 — The WPeMatico RSS Feed Fetcher WordPress plugin before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89003",
+  "published": "2026-09-27T06:17:22.270",
+  "summary": "The WPeMatico RSS Feed Fetcher WordPress plugin before 2.8.27 does not perform a capability check before fetching a user-supplied URL and rendering the response, allowing users with contributor-level access and above to force the server to issue requests to internal-only hosts and read the responses back.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-89003",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/9b891cf0-c663-48ae-adf4-4693b46d0529/"
+  },
+  "title_vi": "CVE-2026-89003 — Plugin WPeMatico RSS Feed Fetcher WordPress trước 2",
+  "key": "dd47e167dbf135b3cc23e627e6a8986fbf168c86"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-89006 — The WPeMatico RSS Feed Fetcher WordPress plugin before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89006",
+  "published": "2026-09-27T06:17:22.377",
+  "summary": "The WPeMatico RSS Feed Fetcher WordPress plugin before 2.8.27 does not sanitize imported feed content before storing it as post content, allowing users with the Contributor role and above to perform Stored Cross-Site Scripting attacks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-89006",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/680091de-610a-4665-a028-515ca6c33055/"
+  },
+  "title_vi": "CVE-2026-89006 — Plugin WPeMatico RSS Feed Fetcher WordPress trước 2",
+  "key": "f4a71dae68980e7ce22ec9c9aa593b374a88fd82"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-92436 — The Mailchimp for WooCommerce WordPress plugin before 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-92436",
+  "published": "2026-09-27T06:17:22.490",
+  "summary": "The Mailchimp for WooCommerce WordPress plugin before 6.3 does not require authentication or verify ownership before loading a saved cart from a request-supplied identifier that is derived from a customer's email address, allowing an unauthenticated attacker who knows a customer's email address to confirm that the customer shops at the store and to read that customer's saved cart contents.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-92436",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/f4d7b94a-7699-464c-a646-5946837b363a/"
+  },
+  "title_vi": "CVE-2026-92436 — Mailchimp cho WooCommerce WordPress plugin trước 6",
+  "key": "a50eab7b2048592d249275d089c6d36ce443a27a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-92995 — The Verge3D Publishing and E-Commerce WordPress plugin through 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-92995",
+  "published": "2026-09-27T06:17:22.600",
+  "summary": "The Verge3D Publishing and E-Commerce WordPress plugin through 4.13.0 does not restrict access to a file-download handler, allowing unauthenticated users to download the digital-goods files attached to any order without authorization.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-92995",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/184e6a19-92d4-48f6-8e54-2511e0f3f316/"
+  },
+  "title_vi": "CVE-2026-92995 — The Verge3D Publishing và E-Commerce WordPress plugin through 4",
+  "key": "33a48bc95d615b63671f133464466acda09d8f8d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-96895 — The WP YouTube Lyte WordPress plugin before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96895",
+  "published": "2026-09-27T06:17:22.707",
+  "summary": "The WP YouTube Lyte WordPress plugin before 1.7.31 does not escape some attributes of YouTube embed blocks before outputting them in an HTML attribute when rendering the block, which could allow users with a role as low as contributor to perform Stored Cross-Site Scripting attacks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-96895",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/15978f11-a7bd-41f0-94bf-069be4d03987/"
+  },
+  "title_vi": "CVE-2026-96895 — Plugin WP YouTube Lyte WordPress trước 1",
+  "key": "a9cf1320f23d7d8488f0dce8ef1f100ce79f1603"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-96896 — The Malcure Malware Shield — Removal, Repair, Monitor WordPress plugin before 19",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96896",
+  "published": "2026-09-27T06:17:22.817",
+  "summary": "The Malcure Malware Shield — Removal, Repair, Monitor WordPress plugin before 19.9.7 does not perform an authorisation check on one of its AJAX actions, allowing users with a subsite administrator role on a multisite network to write and delete arbitrary files in the network's shared filesystem, which can lead to remote code execution.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-96896",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/7ab467f9-4340-464c-a436-978a5acbad3a/"
+  },
+  "title_vi": "CVE-2026-96896 — The Malcure Malware Shield — Loại bỏ, sửa chữa, giám sát plugin WordPress trước 19",
+  "key": "d55ba970b4ee838da5ab60659ac2953708072505"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-96897 — The Optima Express IDX WordPress plugin before 8",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96897",
+  "published": "2026-09-27T06:17:22.927",
+  "summary": "The Optima Express IDX WordPress plugin before 8.7.6 does not perform any authorisation check on one of its AJAX actions that is available to logged-out users, allowing unauthenticated attackers to force the creation of a fixed author-role account and to repeatedly rotate its application password on any connected install.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-96897",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/f9fd04f4-282d-486f-8561-dbf02250282a/"
+  },
+  "title_vi": "CVE-2026-96897 — Plugin WordPress Optima Express IDX trước 8",
+  "key": "38f48aa42ac59fcf40bb468e9a7ccd4fbb3c5f24"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-96899 — The Optima Express IDX WordPress plugin before 8",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96899",
+  "published": "2026-09-27T06:17:23.037",
+  "summary": "The Optima Express IDX WordPress plugin before 8.7.6 does not properly neutralise a script value submitted through one of its REST endpoints before storing it and echoing it into the document head when the post is rendered, allowing users with a role as low as author to perform Stored Cross-Site Scripting attacks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-96899",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/649584c7-0549-4080-92f0-bf4b9e8ee789/"
+  },
+  "title_vi": "CVE-2026-96899 — Plugin WordPress Optima Express IDX trước 8",
+  "key": "b45edb16b4adb41f23977c3eeb259fdd7026a27a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-97227 — The NextScripts: Social Networks Auto-Poster WordPress plugin before 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-97227",
+  "published": "2026-09-27T06:17:23.160",
+  "summary": "The NextScripts: Social Networks Auto-Poster WordPress plugin before 4.4.8 does not perform capability or ownership checks on several of its AJAX actions, relying on a nonce alone, allowing users an administrator has granted access to its posting features to export the site's configured social account credentials, delete arbitrary posts and reset the NextScripts: Social Networks Auto-Poster WordPress plugin before 4.4.8's configuration.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-97227",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/df187bfb-47f1-4259-b955-3c676f3d8cc1/"
+  },
+  "title_vi": "CVE-2026-97227 — The NextScripts: Social Networks Auto-Poster WordPress plugin before 4",
+  "key": "e96e4d13e9c38fe372f57cb92bc1827b00eb5ca1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-97319 — The PowerPress Podcasting plugin by Blubrry WordPress plugin before 11",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-97319",
+  "published": "2026-09-27T06:17:23.293",
+  "summary": "The PowerPress Podcasting plugin by Blubrry WordPress plugin before 11.17.2 does not sanitize and escape a block attribute before outputting it in a page, which could allow users with the contributor role and above to perform Stored Cross-Site Scripting attacks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-97319",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/6ea7d2b5-8406-4efe-9b61-465af40d9a32/"
+  },
+  "title_vi": "CVE-2026-97319 — Plugin PowerPress Podcasting của Blubrry WordPress plugin before 11",
+  "key": "183c9926fb392c51d1cce8148f2fca3439b971a9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-100741 — Eval injection in the JScript event-script dispatcher in Progressive Robot Ltd's hMailServer, versions 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100741",
+  "published": "2026-09-27T08:16:26.813",
+  "summary": "Eval injection in the JScript event-script dispatcher in Progressive Robot Ltd's hMailServer, versions 6.0.0 through 6.3.3 on Windows, allows a remote, unauthenticated attacker to run arbitrary JScript inside the hMailServer service process, with the privileges of the service account, via a password containing a backslash followed by an apostrophe, sent in any logon (SMTP AUTH, POP3, IMAP) that names an existing, active account. Exploitation requires a non-default configuration: event scripting enabled (off by default), the script language set to JScript (the default is VBScript), and an OnCli",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-100741",
+   "cvss": 9.8,
+   "ref": "https://gitlab.com/Progressiverobot/hmailserver/-/commit/5a3de9001d6c5e833662ada8e44ce10d42d76b1a"
+  },
+  "title_vi": "CVE-2026-100741 — Eval injection in the JScript event-script dispatcher in Progressive Robot Ltd's hMailServer, versions 6",
+  "key": "8d7b2a2a6bfd971d471cda7248e168add4e9ce4d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94418 — Under WOLFSSL_SMALL_CERT_VERIFY, ProcessPeerCertParse() runs the certificate signature check separately from the parse to keep peak memory down, then ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94418",
+  "published": "2026-09-27T09:16:36.260",
+  "summary": "Under WOLFSSL_SMALL_CERT_VERIFY, ProcessPeerCertParse() runs the certificate signature check separately from the parse to keep peak memory down, then merges the two results, but it merged the signature result back only when the parse returned 0, so any parse error hid it. ParseCertRelative() reaches its validity-date, name-constraint and critical-extension checks only after ConfirmSignature() has passed, so splitting the signature check out inverts the precedence that makes \"override date errors\" a sound policy, and ASN_SIG_CONFIRM_E is never surfaced anywhere. The attacker needs no key materi",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94418",
+   "cvss": null,
+   "ref": "https://github.com/wolfSSL/wolfssl/pull/11500"
+  },
+  "title_vi": "CVE-2026-94418 — Theo WOLFSSL_SMALL_cert_VERIFY, ProcessPeerCertParse () chạy kiểm tra chữ ký chứng chỉ riêng biệt với phân tích cú pháp để giữ bộ nhớ đỉnh xuống, sau đó",
+  "key": "9d4ddabb39d2148ddcb88cb8c3524de8f68caaa8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94419 — Without NO_SESSION_CACHE_REF, wolfSSL_get_session() does not return a session object but a ClientSession reference of the form {row, index, hash(sessi",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94419",
+  "published": "2026-09-27T09:16:36.493",
+  "summary": "Without NO_SESSION_CACHE_REF, wolfSSL_get_session() does not return a session object but a ClientSession reference of the form {row, index, hash(sessionID)} into the process-global SessionCache, and ClientSessionToSession() validates it against that hash alone. Because the TLS 1.2 session ID is chosen by the server and sent in clear, AddSessionToCache() matches any other server's session on the same ID and overwrites the client-side entry with that server's master secret, cipher suite and version, while the handle continues to resolve; nothing on the write path compares the peer, the applicati",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94419",
+   "cvss": null,
+   "ref": "https://github.com/wolfSSL/wolfssl/pull/11500"
+  },
+  "title_vi": "CVE-2026-94419 — Không có NO_SESSION_CACHE_REF, wolfSSL_get_SESSION() không trả về đối tượng phiên mà là tham chiếu ClientSession của biểu mẫu {Row, Index, hash(sessi",
+  "key": "00a07c12accded50b6b5764a0b95f884bc982ef1"
+ },
+ {
   "source": "VietnamPlus Kinh tế số",
   "title": "Bê bối rò rỉ dữ liệu Medicare: Australia triệu tập lãnh đạo OpenAI và Anthropic",
   "link": "https://www.vietnamplus.vn/be-boi-ro-ri-du-lieu-medicare-australia-trieu-tap-lanh-dao-openai-va-anthropic-post1138578.vnp",
@@ -12387,7 +12919,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "3 Quan niệm sai lầm về tư vấn được vạch trần bởi các chuyên gia của Đơn vị 42",
   "key": "bb2ec3dfdce1a746b80b7ff559a24f4640b6bfb5"
  },
  {
@@ -20480,7 +21012,7 @@
    "cvss": 8.8,
    "ref": "https://github.com/openclaw/openclaw/security/advisories/GHSA-58qx-6m8p-wh2j"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100575 — Phiên bản OpenClaw Slack trước năm 2026",
   "key": "820205c5713174626dc6f585707fe825b3c1f23f"
  },
  {
@@ -20498,7 +21030,7 @@
    "cvss": 5.4,
    "ref": "https://github.com/openclaw/openclaw/security/advisories/GHSA-4g58-43jr-6738"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100576 — Phiên bản OpenClaw trước năm 2026",
   "key": "abdf565e969e39aad1c1ddab8446cdabf3cafec0"
  },
  {
@@ -20517,7 +21049,7 @@
    "cvss": 6.3,
    "ref": "https://github.com/openclaw/openclaw/security/advisories/GHSA-fvxr-9g24-x3hf"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100577 — Phiên bản OpenClaw trước năm 2026",
   "key": "d02b9bbf8ab01ad1e7fa6371b9a58540c5c72190"
  },
  {
@@ -20535,7 +21067,7 @@
    "cvss": 7.6,
    "ref": "https://github.com/openclaw/openclaw/security/advisories/GHSA-qw7m-h363-33qw"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100578 — OpenClaw (gói npm `openclaw') trước năm 2026",
   "key": "e43adaabb7df472348022945fa09465e295c13f0"
  },
  {
@@ -20553,7 +21085,7 @@
    "cvss": 7.6,
    "ref": "https://github.com/openclaw/openclaw/security/advisories/GHSA-4wvr-f35r-f8w4"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100579 — OpenClaw (gói npm 'openclaw') trước năm 2026",
   "key": "5275b589b3e9fc2f82bf00de14ae8c19d2b7b55f"
  },
  {
@@ -20572,7 +21104,7 @@
    "cvss": 8.8,
    "ref": "https://github.com/openclaw/openclaw/security/advisories/GHSA-8xxh-v4vc-qvm4"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100580 — OpenClaw (gói npm 'openclaw') trước năm 2026",
   "key": "ba29748d91d88bd4dce40cd5aaa86d768e4c7219"
  },
  {
@@ -20592,7 +21124,7 @@
    "cvss": 5.5,
    "ref": "https://github.com/openclaw/openclaw/security/advisories/GHSA-gcm4-fmcp-2f9r"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100581 — OpenClaw cho iOS trước năm 2026",
   "key": "639ae430067f2dfc4fe1f0adbe0d586c5b7d0cf0"
  },
  {
@@ -20610,7 +21142,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/openclaw/openclaw/security/advisories/GHSA-g7fw-3gjp-g5hf"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100582 — Plugin kênh OpenClaw (@openclaw/msteams, @openclaw/feishu, @openclaw/matrix và @ openclaw/googlechat) trước năm 2026",
   "key": "bdf0e9ede0151a1dc042aa373142a3ab9be0c936"
  },
  {
@@ -20628,7 +21160,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/openclaw/openclaw/security/advisories/GHSA-35wj-hm2r-ghgw"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100583 — Phiên bản OpenClaw Discord trước năm 2026",
   "key": "a19b9978342d323b71d93169dd6d10639c229484"
  },
  {
@@ -20646,7 +21178,7 @@
    "cvss": 6.7,
    "ref": "https://github.com/openclaw/openclaw/security/advisories/GHSA-rgjw-6v73-php6"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100584 - OpenClaw là một thời gian chạy tác nhân phân phối npm",
   "key": "0b134d30515f55890e4fe5cf88ecbcfecae5620f"
  },
  {
@@ -20665,7 +21197,7 @@
    "cvss": 8.0,
    "ref": "https://github.com/openclaw/openclaw/security/advisories/GHSA-p5g8-m35v-7m82"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100585 — OpenClaw (gói npm `openclaw') trước năm 2026",
   "key": "331c39dc5dad0cbf542f5147a4b0e4a039642e17"
  },
  {
@@ -20683,7 +21215,7 @@
    "cvss": 8.8,
    "ref": "https://github.com/openclaw/openclaw/security/advisories/GHSA-9p6m-2872-xm7x"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100586 — OpenClaw Codex trước năm 2026",
   "key": "bf5cdfae7aebfc089d8fe53af54cf185da784f5b"
  },
  {
@@ -20701,7 +21233,7 @@
    "cvss": 8.8,
    "ref": "https://github.com/openclaw/openclaw/security/advisories/GHSA-pjjr-5qhr-5w6r"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100587 — Phiên bản OpenClaw trước năm 2026",
   "key": "a422d16971c79f89042a5c7750a7c330307d79cc"
  },
  {
@@ -28471,7 +29003,7 @@
    "cvss": null,
    "ref": ""
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-45235 — Lý do bị từ chối: ID CVE này đã bị Cơ quan Đánh số CVE từ chối hoặc rút lại",
   "key": "93cdc6aca31203effeeae471f8459abf77151dcc"
  },
  {
@@ -28489,7 +29021,7 @@
    "cvss": null,
    "ref": ""
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-45236 — Lý do bị từ chối: ID CVE này đã bị Cơ quan Đánh số CVE từ chối hoặc rút lại",
   "key": "1cd07d439089f2b72bb6969da946a34a7f674907"
  },
  {
@@ -28507,7 +29039,7 @@
    "cvss": null,
    "ref": ""
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-45237 — Lý do bị từ chối: ID CVE này đã bị Cơ quan Đánh số CVE từ chối hoặc rút lại",
   "key": "50999bcd5d7e96b644bd02148455cb355c3a44dd"
  },
  {
@@ -28525,7 +29057,7 @@
    "cvss": null,
    "ref": ""
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-45238 — Lý do bị từ chối: ID CVE này đã bị Cơ quan Đánh số CVE từ chối hoặc rút lại",
   "key": "f5721acb68b07af76cd207f733fc28bb2229b40f"
  },
  {
@@ -28543,7 +29075,7 @@
    "cvss": null,
    "ref": ""
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-45239 — Lý do bị từ chối: ID CVE này đã bị Cơ quan Đánh số CVE từ chối hoặc rút lại",
   "key": "04eb7709df7c5b5d5752df3e7571adac25cb45e5"
  },
  {
@@ -28561,7 +29093,7 @@
    "cvss": null,
    "ref": ""
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-45240 — Lý do bị từ chối: ID CVE này đã bị Cơ quan Đánh số CVE từ chối hoặc rút lại",
   "key": "ac2e9dba0e91dba56aa0230b982dee3ab30fb11a"
  },
  {
@@ -28579,7 +29111,7 @@
    "cvss": null,
    "ref": ""
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-45241 — Lý do bị từ chối: ID CVE này đã bị Cơ quan Đánh số CVE từ chối hoặc rút lại",
   "key": "c5c5f030f5d0b72c602404f61ec4b26508b5aeb4"
  },
  {
@@ -28597,7 +29129,7 @@
    "cvss": null,
    "ref": ""
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-49117 — Lý do bị từ chối: ID CVE này đã bị Cơ quan Đánh số CVE từ chối hoặc rút lại",
   "key": "4bd742e9aa0dd3c4eeea618c77aa12a62870680b"
  },
  {
@@ -28615,7 +29147,7 @@
    "cvss": null,
    "ref": ""
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-49118 — Lý do bị từ chối: ID CVE này đã bị Cơ quan Đánh số CVE từ chối hoặc rút lại",
   "key": "0630aa6e138651c925b93e5b714764800e1320e3"
  },
  {
@@ -28633,7 +29165,7 @@
    "cvss": null,
    "ref": ""
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-53971 — Lý do bị từ chối: ID CVE này đã bị Cơ quan Đánh số CVE từ chối hoặc rút lại",
   "key": "df5f8ceba61d821a311b33684b1c05ca0b8be067"
  },
  {
@@ -28651,7 +29183,7 @@
    "cvss": null,
    "ref": ""
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-53972 — Lý do bị từ chối: ID CVE này đã bị Cơ quan Đánh số CVE từ chối hoặc rút lại",
   "key": "19233ed1d4298919c69c9b9de879d6e524092a20"
  },
  {
@@ -28669,7 +29201,7 @@
    "cvss": null,
    "ref": ""
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-53973 — Lý do bị từ chối: ID CVE này đã bị Cơ quan Đánh số CVE từ chối hoặc rút lại",
   "key": "dddb91c5b3bfcc0dbf96071ef663994eba9d6913"
  },
  {
@@ -28687,7 +29219,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/horilla/horilla-hr/commit/a17fdbbbfe9a276560d5f82e8360ab1910e623bf"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-63431 — Horilla là một phần mềm nhân sự và CRM",
   "key": "ff2ad403621503c33ee3af7ab47d9022efe06d98"
  },
  {
@@ -28705,7 +29237,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/horilla/horilla-hr/commit/bd3eed2168b0167f273a8dd7f218f1b37320ac39"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-63432 — Horilla là một phần mềm nhân sự và CRM",
   "key": "cd346f236d72680b122006bac494f6520585108f"
  },
  {
@@ -28723,7 +29255,7 @@
    "cvss": null,
    "ref": "https://github.com/horilla/horilla-hr/commit/39ed01306341a1f6b7702df2825ab5431b5401a9"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-71483 — Horilla là một phần mềm nhân sự và CRM",
   "key": "f0d6f2d6a86bb575539a6749a07a38e72415f656"
  },
  {
@@ -28741,7 +29273,7 @@
    "cvss": null,
    "ref": ""
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-7799 — Lý do bị từ chối: ID CVE này đã bị Cơ quan Đánh số CVE từ chối hoặc rút lại",
   "key": "ac2b69af98f3cde49bdac451488061f44a756aaf"
  },
  {
@@ -28759,7 +29291,7 @@
    "cvss": null,
    "ref": ""
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-7800 — Lý do bị từ chối: ID CVE này đã bị Cơ quan Đánh số CVE từ chối hoặc rút lại",
   "key": "be21ff7fdf1191f54b910ec07855fc3f8bb1d24a"
  },
  {
@@ -28777,7 +29309,7 @@
    "cvss": null,
    "ref": "https://github.com/InvoicePlane/InvoicePlane/commit/904847f4e87b66fd6743cf9cc6f88b66c7fc3b81"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-88003 — InvoicePlane là một ứng dụng nguồn mở tự lưu trữ để quản lý hóa đơn, khách hàng và thanh toán",
   "key": "e0055988fec7d92c284fed311c9ab2cb66ca904c"
  },
  {
@@ -28795,7 +29327,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/php/php-src/security/advisories/GHSA-62xp-839h-2637"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-91768 — Nhánh IPv6 của kiểm tra truy cập máy khách FastCGI chỉ so sánh 12 byte đầu tiên của địa chỉ IPv6 16 byte, vì vậy hãy lắng nghe",
   "key": "0ed22c5e56f25b6cefb22e32bbb2920cef1d3756"
  },
  {
@@ -28831,7 +29363,7 @@
    "cvss": null,
    "ref": ""
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-9652 — Lý do bị từ chối: ID CVE này đã bị Cơ quan Đánh số CVE từ chối hoặc rút lại",
   "key": "ae068115c34506d43f7d449376fcc6ddc0c3ac89"
  },
  {
@@ -28849,7 +29381,7 @@
    "cvss": null,
    "ref": ""
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-9655 — Lý do bị từ chối: ID CVE này đã bị Cơ quan Đánh số CVE từ chối hoặc rút lại",
   "key": "be0eec76d9a7e7a357ef5e6970a621cb95377007"
  },
  {
@@ -73744,509 +74276,5 @@
   "extra": {},
   "title_vi": "",
   "key": "f767fe24e65f3dd4af87a4c61f7834a8c7fbca29"
- },
- {
-  "source": "The Record",
-  "title": "Latvia arrests suspected hacker for electronics repair company breach",
-  "link": "https://therecord.media/latvia-hacker-arrest-cyberattack",
-  "published": "2026-09-23T12:45:00+00:00",
-  "summary": "Latvian police arrested a 23-year-old man suspected of hacking at least two companies, stealing personal information and attempting to extort money from the victims.",
-  "categories": [
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "c32b7393e0118916641e1ac58e80ae8f7b808863"
- },
- {
-  "source": "The Record",
-  "title": "Burnham announces plan for new UK center to fight disinformation",
-  "link": "https://therecord.media/uk-disinformation-russia-center",
-  "published": "2026-09-23T12:30:00+00:00",
-  "summary": "The United Kingdom will create a new national center \"to detect, attribute and disrupt” hostile state disinformation, Prime Minister Andy Burnham announced at the United Nations General Assembly.",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "0705b4438d26ac9616a1b0b38487988091062a80"
- },
- {
-  "source": "SecurityWeek",
-  "title": "Honeywell: OT Security Teams Embrace AI, but Autonomy Still Rare",
-  "link": "https://www.securityweek.com/honeywell-ot-security-teams-embrace-ai-but-autonomy-still-rare/",
-  "published": "2026-09-23T12:17:28+00:00",
-  "summary": "Only 21% of industrial security leaders report a complete OT asset inventory, even as 88% call their programs mature. The post Honeywell: OT Security Teams Embrace AI, but Autonomy Still Rare appeared first on SecurityWeek .",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "5be4808927abd9131c53ee27b0dc4fc922b3a015"
- },
- {
-  "source": "SecurityWeek",
-  "title": "Adobe Patches Critical Flaws in Connect, AEM Forms",
-  "link": "https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/",
-  "published": "2026-09-23T11:40:59+00:00",
-  "summary": "The nine critical security defects could be exploited for arbitrary code execution and privilege escalation. The post Adobe Patches Critical Flaws in Connect, AEM Forms appeared first on SecurityWeek .",
-  "categories": [
-   "cloud"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "fb15ca5f668d9303c076c0a20acc844943662741"
- },
- {
-  "source": "SecurityWeek",
-  "title": "AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft",
-  "link": "https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/",
-  "published": "2026-09-23T11:23:30+00:00",
-  "summary": "The cybercrime platform leveraged AI at every step of the attack chain, including writing social engineering messages and deciding targets. The post AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft appeared first on SecurityWeek .",
-  "categories": [
-   "ai"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "98d5d4f50c0cfc9f53b63f5b2211289d3dff69fe"
- },
- {
-  "source": "SecurityWeek",
-  "title": "Chrome 154 Patches 108 Vulnerabilities",
-  "link": "https://www.securityweek.com/chrome-154-patches-108-vulnerabilities/",
-  "published": "2026-09-23T10:36:07+00:00",
-  "summary": "The browser update resolves several critical-severity memory safety and memory corruption flaws. The post Chrome 154 Patches 108 Vulnerabilities appeared first on SecurityWeek .",
-  "categories": [
-   "cloud"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "9074277727abeb1db63a431a4d906cd94b6171d5"
- },
- {
-  "source": "SecurityWeek",
-  "title": "A Look at AI Doomsday Scenarios That Researchers Say Could Put Humanity at Risk",
-  "link": "https://www.securityweek.com/a-look-at-ai-doomsday-scenarios-that-researchers-say-could-put-humanity-at-risk/",
-  "published": "2026-09-23T10:20:36+00:00",
-  "summary": "Debates over the plausibility of these doomsday scenarios have heated up since several executives endorsed slowing the technology’s development for safety reasons. The post A Look at AI Doomsday Scenarios That Researchers Say Could Put Humanity at Risk appeared first on SecurityWeek .",
-  "categories": [
-   "ai"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "6caca2bf8d17e65c160554e01d51842ad445c72a"
- },
- {
-  "source": "SecurityWeek",
-  "title": "Outerlimit Raises $16 Million to Stop Rogue AI Agents From Causing Harm",
-  "link": "https://www.securityweek.com/outerlimit-raises-16-million-to-stop-rogue-ai-agents-from-causing-harm/",
-  "published": "2026-09-23T10:00:00+00:00",
-  "summary": "Emerging from stealth with $16 million in pre-seed funding, Outerlimit offers a decentralized authorization layer designed to discover, observe, and block harmful autonomous AI actions. The post Outerlimit Raises $16 Million to Stop Rogue AI Agents From Causing Harm appeared first on SecurityWeek .",
-  "categories": [
-   "ai",
-   "cloud"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "5f606fc3686b2ed02d14ea18ab6ea931c1f7443b"
- },
- {
-  "source": "The Hacker News",
-  "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
-  "link": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
-  "published": "2026-09-23T14:17:58+00:00",
-  "summary": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server,&nbsp;Cisco Talos said&nbsp;on September 22. The models can choose to steal Windows credentials, saved browser passwords, and crypto wallet data. Talos has not seen this setup work from start to finish, and the public version of the malware does not work as it is.",
-  "categories": [
-   "ai",
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "fc1f01aeb166cee77fa02c9772d008f9d297ed4d"
- },
- {
-  "source": "The Hacker News",
-  "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
-  "link": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
-  "published": "2026-09-23T13:52:46+00:00",
-  "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for Windows, Linux, and macOS. According to reports from Aikido, SafeDep, Socket, and StepSecurity, the libraries in question below - @memtensor/memos-cloud-openclaw-plugin versions",
-  "categories": [
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "a5bf42ebf570900f50b152576a6a5eb47c7646cf"
- },
- {
-  "source": "The Hacker News",
-  "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
-  "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
-  "published": "2026-09-23T12:16:00+00:00",
-  "summary": "A flaw in cPanel's&nbsp;CalDAV and CardDAV service&nbsp;lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22. A&nbsp;second bug in the WP Toolkit plugin, used to install and manage WordPress sites, allows an account holder to change databases that belong to other accounts. cPanel has released fixed versions for both,",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "dcfdef0efddbd93ee5ec230cd49859d85d564ee0"
- },
- {
-  "source": "The Hacker News",
-  "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
-  "link": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
-  "published": "2026-09-23T11:47:19+00:00",
-  "summary": "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: confident prose, a list of findings, and no way to tell which of them happened. Someone with a security background then sits down and checks every claim against the target. Which findings are real,",
-  "categories": [
-   "ai"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "2fd6acabfe77e309c9b7c1663785756a59650263"
- },
- {
-  "source": "The Hacker News",
-  "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
-  "link": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
-  "published": "2026-09-23T11:47:13+00:00",
-  "summary": "Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior. Opus 5.5, per Anthropic, is a \"major step up from Opus 5,\" and \"achieves the best scores of any model to date on our automated behavioral audit, our alignment suite that tests Claude across thousands",
-  "categories": [
-   "ai"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "43e02dd038bd3d5e2d4bb3ad07de1dee02bab7c4"
- },
- {
-  "source": "The Hacker News",
-  "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
-  "link": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
-  "published": "2026-09-23T11:12:18+00:00",
-  "summary": "A use-after-free in the Linux kernel's AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst&nbsp;said in research published September 22. The flaw, tracked as&nbsp;CVE-2026-80521&nbsp;(CVSS score: 7.8), was fixed upstream on August 6, but Ubuntu has not shipped the patch for its 26.04, 24.04, or 22.04 LTS releases. DepthFirst&nbsp;",
-  "categories": [
-   "cloud"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "e6783ad58a9858d65f8910454d70c3e673370b46"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-15027 — CGServiSign developed by Changing has a OS Command Injection vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-15027",
-  "published": "2026-09-23T09:17:07.657",
-  "summary": "CGServiSign developed by Changing has a OS Command Injection vulnerability. Unauthenticated remote attackers can induce victims to visit a malicious web page and inject arbitrary OS commands through the local service interface, resulting in command execution on the victim's local computer.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-15027",
-   "cvss": 8.8,
-   "ref": "https://www.twcert.org.tw/en/cp-139-11214-89281-2.html"
-  },
-  "title_vi": "CVE-2026-15027 — CGServiSign do Changing phát triển có lỗ hổng OS Command Injection",
-  "key": "f7b41b7aa55ec21c6c8538aae339496dc65ca5a6"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-31377 — An Improper Authentication vulnerability in the Apache Doris Frontend (FE) meta service allows an unauthenticated remote attacker to access internal m",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-31377",
-  "published": "2026-09-23T09:17:08.380",
-  "summary": "An Improper Authentication vulnerability in the Apache Doris Frontend (FE) meta service allows an unauthenticated remote attacker to access internal metadata service endpoints.\n\n\n\nThe affected endpoints relied on client-supplied node information for authentication without providing sufficient authentication of the requesting party. Under certain network configurations, a remote attacker may be able to bypass the intended access control and access internal FE metadata interfaces, potentially exposing sensitive cluster information.\n\n\n\nThis issue affects Apache Doris: from 2.0.0 through 2.0.*, fr",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-31377",
-   "cvss": 7.5,
-   "ref": "https://lists.apache.org/thread/rf4ocqmzxvnwnxpsooj2lkzjl68b1m9q"
-  },
-  "title_vi": "CVE-2026-31377 — Lỗ hổng xác thực không đúng cách trong dịch vụ meta Apache Doris Frontend (FE) cho phép kẻ tấn công từ xa chưa được xác thực truy cập vào mạng nội bộ",
-  "key": "2a495b39c7bba92101d940cd3edce2328b8368aa"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-42801 — NULL pointer dereference vulnerability in ASR Crane，Falcon on Linux (as_rrc module) allows Pointer Manipulation",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-42801",
-  "published": "2026-09-23T09:17:08.727",
-  "summary": "NULL pointer dereference vulnerability in ASR Crane，Falcon on Linux (as_rrc module) allows Pointer Manipulation.\n\nThis vulnerability is associated with program file 3g.mod/lib/src/urrsir.c.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-42801",
-   "cvss": 7.4,
-   "ref": "https://www.asrmicro.com/en/goods/psirt?cid=45"
-  },
-  "title_vi": "CVE-2026-42801 — lỗ hổng NULL pointer dereference trong ASR Crane，Falcon trên Linux (as_rrc module) cho phép thao tác con trỏ",
-  "key": "eac5a24ad8b9a974b4f8b6699582743d32043102"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-93368 — The Rename wp-login",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-93368",
-  "published": "2026-09-23T09:17:09.247",
-  "summary": "The Rename wp-login.php to anything you want plugin for WordPress is vulnerable to time-based SQL Injection via 'log' (Username) Parameter in all versions up to, and including, 2.0.1 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database. WordPress core applies wp_unslash() to the 'log' POST value before dispatching the wp_login_failed action, str",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-93368",
-   "cvss": 7.5,
-   "ref": "https://plugins.trac.wordpress.org/browser/rename-wp-loginphp-to-anything-you-want/tags/2.0.1/init.php#L217"
-  },
-  "title_vi": "CVE-2026-93368 — Đổi tên wp-login",
-  "key": "ea589b9c045ea9eee5dc7457b9baaf823e39940d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-95625 — The Tauri updater plugin verifies update binaries using minisign signatures, but the signature covers only the raw binary bytes",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95625",
-  "published": "2026-09-23T09:17:09.393",
-  "summary": "The Tauri updater plugin verifies update binaries using minisign signatures, but the signature covers only the raw binary bytes. The update manifest -- which contains the version number, download URL, and signature -- is fetched over TLS but is never itself signed or authenticated. Because the only anti-rollback check compares the manifest's version field against the current version, and that field is unsigned, an attacker who can serve a crafted manifest can force installation of any older signed release without possessing the developer's private key.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-95625",
-   "cvss": 5.9,
-   "ref": "https://github.com/tauri-apps/plugins-workspace"
-  },
-  "title_vi": "CVE-2026-95625 — Plugin cập nhật Tauri xác minh các chương trình cập nhật bằng cách sử dụng chữ ký minisign, nhưng chữ ký chỉ bao gồm các byte nhị phân thô",
-  "key": "808ba3b2793164d3db0397891cdfd546505a9926"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-73192 — An improper neutralization of input during web page generation ('Cross-site Scripting') [CWE-79] vulnerability when using the XSSAPI",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-73192",
-  "published": "2026-09-23T10:17:07.660",
-  "summary": "An improper neutralization of input during web page generation ('Cross-site Scripting') [CWE-79] vulnerability when using the XSSAPI.getValidHref() in Apache Sling XSS version 2.4.10 and prior may allow an attacker to perform a reflected cross-site scripting (XSS) attack in every feature using this method. In order to successfully attack an application, the attacker needs to be able to submit a value which is not correctly sanitized by that library.\n\nUpgrade to Apache Sling XSS >= 2.4.12",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-73192",
-   "cvss": 6.1,
-   "ref": "https://sling.apache.org/news.html"
-  },
-  "title_vi": "CVE-2026-73192 — Lỗ hổng trung hòa đầu vào không đúng cách trong quá trình tạo trang web ('Cross-site Scripting') [CWE-79] khi sử dụng XSSAPI",
-  "key": "44fb89cfd12c980bb4afa4605600fe60e47f0439"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79616 — Out-of-bounds read while parsing untrusted SVG path strings in Qt Quick's Context2D",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79616",
-  "published": "2026-09-23T10:17:07.803",
-  "summary": "Out-of-bounds read while parsing untrusted SVG path strings in Qt Quick's Context2D.path / PathSvg.path.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79616",
-   "cvss": null,
-   "ref": "https://codereview.qt-project.org/c/qt/qtdeclarative/+/754718"
-  },
-  "title_vi": "CVE-2026-79616 - Đọc vượt giới hạn trong khi phân tích cú pháp các chuỗi đường dẫn SVG không đáng tin cậy trong Context2D của Qt Quick",
-  "key": "0e67f0512f3a5d4be6cfdb9cf1a423d7469d94fb"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-91852 — Improper neutralization of input during web page generation ('cross-site scripting') vulnerability in Apache Sling XSS",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-91852",
-  "published": "2026-09-23T10:17:07.960",
-  "summary": "Improper neutralization of input during web page generation ('cross-site scripting') vulnerability in Apache Sling XSS.\n\n\n\nThis issue affects Apache Sling XSS: before 2.4.12.\n\n\n\nUsers are recommended to upgrade to version 2.4.12, which fixes the issue.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-91852",
-   "cvss": 6.1,
-   "ref": "https://lists.apache.org/thread/nd0ncdk5qb9gqvn0s10rmhnbk887k1qo"
-  },
-  "title_vi": "CVE-2026-91852 — Trung hòa đầu vào không đúng cách trong quá trình tạo trang web ('tập lệnh chéo') lỗ hổng trong Apache Sling XSS",
-  "key": "87d961a59ba9c8bd8316689ecb2ede6149e7573d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-91928 — Improper neutralization of input during web page generation ('cross-site scripting') vulnerability in Apache Sling XSS",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-91928",
-  "published": "2026-09-23T10:17:08.080",
-  "summary": "Improper neutralization of input during web page generation ('cross-site scripting') vulnerability in Apache Sling XSS.\n\n\n\nThis issue affects Apache Sling XSS: before 2.4.12.\n\n\n\nUsers are recommended to upgrade to version 2.4.12, which fixes the issue.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-91928",
-   "cvss": 6.1,
-   "ref": "https://lists.apache.org/thread/yfb1q6zob8mth5lr4jnsy3lhx9rfwb02"
-  },
-  "title_vi": "CVE-2026-91928 — Trung hòa đầu vào không đúng cách trong quá trình tạo trang web ('tập lệnh chéo') lỗ hổng trong Apache Sling XSS",
-  "key": "dd4722989fabb081ac9dd3ac914afb01800390c6"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-91999 — Improper neutralization of input during web page generation ('cross-site scripting') vulnerability in Apache Sling XSS",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-91999",
-  "published": "2026-09-23T10:17:08.200",
-  "summary": "Improper neutralization of input during web page generation ('cross-site scripting') vulnerability in Apache Sling XSS.\n\n\n\nThis issue affects Apache Sling XSS: before 2.4.12.\n\n\n\nUsers are recommended to upgrade to version 2.4.12, which fixes the issue.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-91999",
-   "cvss": 6.1,
-   "ref": "https://lists.apache.org/thread/xpcsdkr80ow9p13f7hp3ykrhzky9d4t4"
-  },
-  "title_vi": "CVE-2026-91999 — Trung hòa đầu vào không đúng cách trong quá trình tạo trang web ('tập lệnh chéo') lỗ hổng trong Apache Sling XSS",
-  "key": "132cda9ec8e5029088814f74ff27a20168a8a2a1"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-92001 — Improper restriction of recursive entity references in DTDs ('XML entity expansion') vulnerability in Apache Sling XSS",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-92001",
-  "published": "2026-09-23T10:17:08.323",
-  "summary": "Improper restriction of recursive entity references in DTDs ('XML entity expansion') vulnerability in Apache Sling XSS.\n\n\n\nThis issue affects Apache Sling XSS: before 2.4.12.\n\n\n\nUsers are recommended to upgrade to version 2.4.12, which fixes the issue.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-92001",
-   "cvss": 6.1,
-   "ref": "https://lists.apache.org/thread/m52jll26vc8g5jokbg0xt062o09wkghr"
-  },
-  "title_vi": "CVE-2026-92001 — Hạn chế không đúng đối với các tham chiếu thực thể đệ quy trong lỗ hổng DTDs ('XML entity expansion') trong Apache Sling XSS",
-  "key": "fd6e51e1adff592347ceebca373d94a3fdaadaeb"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-94243 — A vulnerability in Apache Sling Security Bundle: the ReferrerFilter accepts weaker-than-orgin evidence",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94243",
-  "published": "2026-09-23T10:17:08.440",
-  "summary": "A vulnerability in Apache Sling Security Bundle: the ReferrerFilter accepts weaker-than-orgin evidence.\n\n\n\nThis issue affects Apache Sling Security Bundle: before 1.3.2.\n\n\n\nUsers are recommended to upgrade to version 1.3.2, which fixes the issue.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-94243",
-   "cvss": null,
-   "ref": "https://lists.apache.org/thread/ohz47f6hrflsjvt9m24qz69qm5w4bwyr"
-  },
-  "title_vi": "CVE-2026-94243 — Một lỗ hổng trong Apache Sling Security Bundle: ReferrerFilter chấp nhận bằng chứng yếu hơn ban đầu",
-  "key": "c6928da477ab78831cd5051e9ec7f7031fd58ee3"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-94251 — A vulnerability in Apache Sling Security Bundle: ContentDispositionFilter mediates only one address/API shape of a resource This issue affects Apache ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94251",
-  "published": "2026-09-23T10:17:08.557",
-  "summary": "A vulnerability in Apache Sling Security Bundle: ContentDispositionFilter mediates only one address/API shape of a resource\n\n\n\nThis issue affects Apache Sling Security Bundle: before 1.3.12.\n\n\n\nUsers are recommended to upgrade to version 1.3.12, which fixes the issue.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-94251",
-   "cvss": 6.5,
-   "ref": "https://lists.apache.org/thread/7zo0drh75qmk1xn7940hy4pxjs6h2b10"
-  },
-  "title_vi": "CVE-2026-94251 — Lỗ hổng trong Apache Sling Security Bundle: ContentDispositionFilter chỉ làm trung gian cho một địa chỉ/hình dạng API của tài nguyên Sự cố này ảnh hưởng đến Apache",
-  "key": "da88fa8c4fa74e6bdd622b90ce705878458bb42e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-95626 — Tauri's Content Security Policy hardening, which injects a random nonce to restrict script execution, provides zero protection when an application inc",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95626",
-  "published": "2026-09-23T10:17:08.677",
-  "summary": "Tauri's Content Security Policy hardening, which injects a random nonce to restrict script execution, provides zero protection when an application includes data: or blob: in its script-src directive. Per the CSP Level 3 specification, these scheme sources remain active even when a nonce is present, allowing arbitrary script execution without knowing the nonce.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-95626",
-   "cvss": 8.3,
-   "ref": "https://github.com/tauri-apps/tauri"
-  },
-  "title_vi": "CVE-2026-95626 — Chính sách bảo mật nội dung cứng rắn của Tauri, tiêm một nonce ngẫu nhiên để hạn chế thực thi tập lệnh, cung cấp bảo vệ bằng không khi một ứng dụng inc",
-  "key": "6b9d04c059229bd131dd9803c599f2791e59e883"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-95627 — When a Tauri application uses the dialog plugin's file or folder picker, an attacker with JavaScript execution (XSS) can force the scope expansion to ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95627",
-  "published": "2026-09-23T10:17:08.810",
-  "summary": "When a Tauri application uses the dialog plugin's file or folder picker, an attacker with JavaScript execution (XSS) can force the scope expansion to be recursive, granting read/write access to an entire directory tree after a single user click on a normal-looking OS file dialog. The user has no indication that recursive access was granted, and the expanded scope cannot be revoked for the lifetime of the application.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-95627",
-   "cvss": 7.7,
-   "ref": "https://github.com/tauri-apps/plugins-workspace"
-  },
-  "title_vi": "CVE-2026-95627 — Khi ứng dụng Tauri sử dụng trình chọn tệp hoặc thư mục của trình cắm hộp thoại, kẻ tấn công có thực thi JavaScript (XSS) có thể buộc mở rộng phạm vi thành",
-  "key": "7082a28e247a9cf9b879510512a7639088a3c042"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-96443 — Insufficient validation of the JDBC driver URL in Apache Doris allows a privileged user to achieve remote code execution on the FE",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96443",
-  "published": "2026-09-23T10:17:08.943",
-  "summary": "Insufficient validation of the JDBC driver URL in Apache Doris allows a privileged user to achieve remote code execution on the FE.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-96443",
-   "cvss": null,
-   "ref": "https://lists.apache.org/thread/vv9o8sxpt8kkd7nznhovn9qjojn2wyv9"
-  },
-  "title_vi": "CVE-2026-96443 — Xác thực không đủ URL trình điều khiển JDBC trong Apache Doris cho phép người dùng đặc quyền thực thi mã từ xa trên FE",
-  "key": "3fe87b6b453e6383103068d91469190f91e190e5"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-96454 — Pake turns a website into a desktop application built on Tauri",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96454",
-  "published": "2026-09-23T10:17:09.070",
-  "summary": "Pake turns a website into a desktop application built on Tauri. Every application it generates inherits two settings from the upstream template, and together they hand native functionality to untrusted web content.\n\n\n\nThe first is in src-tauri/capabilities/default.json, which grants IPC access with \"remote\": { \"urls\": [\"https://*.*\"] }. That wildcard tells Tauri to accept IPC from any HTTPS origin, not just the site the application was built to wrap. The second is \"withGlobalTauri\": true in src-tauri/tauri.conf.json, which puts window.__TAURI__.core.invoke() in reach of ordinary page JavaScrip",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-96454",
-   "cvss": 8.2,
-   "ref": "https://github.com/tw93/Pake"
-  },
-  "title_vi": "CVE-2026-96454 - Pake biến một trang web thành một ứng dụng máy tính để bàn được xây dựng trên Tauri",
-  "key": "7177580766ce19811ca679ea18dc0dc71031ebf6"
  }
 ]
