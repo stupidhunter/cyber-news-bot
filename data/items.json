@@ -1,5 +1,1153 @@
 [
  {
+  "source": "Tuổi Trẻ Công nghệ",
+  "title": "Thu thập dữ liệu làm lộ thông tin nhạy cảm bị phạt tới 60 triệu đồng",
+  "link": "https://tuoitre.vn/thu-thap-du-lieu-lam-lo-thong-tin-nhay-cam-bi-phat-toi-60-trieu-dong-100260923160141304.htm",
+  "published": "2026-09-27T22:47:46.632539+00:00",
+  "summary": "Hành vi thu thập, tạo lập dữ liệu làm rò rỉ thông tin nhạy cảm, làm ảnh hưởng đến quyền, lợi ích hợp pháp của tổ chức, cá nhân hoặc an ninh quốc gia sẽ bị phạt 40-60 triệu đồng.",
+  "categories": [
+   "breach",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "b6644f183ff970a15b3eff1164e9ee9eb780a70b"
+ },
+ {
+  "source": "VnExpress Số hóa",
+  "title": "'Bão bài đăng' về Muse của tỷ phú AI Alexandr Wang",
+  "link": "https://vnexpress.net/bao-bai-dang-ve-muse-cua-ty-phu-ai-alexandr-wang-5125399.html",
+  "published": "2026-09-27T11:21:06+00:00",
+  "summary": "Alexandr Wang, Giám đốc AI của Meta, đăng hơn 350 bài về trợ lý AI Muse trên mạng xã hội trong gần ba tuần, từ hài hước đến châm biếm đối thủ.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "da2c05a4e7752943352287e2eeb3d80e38f069ec"
+ },
+ {
+  "source": "Cloud Security Alliance",
+  "title": "Lessons Learned on Securing Multi-Agent Systems: NIST Agent Security RFI",
+  "link": "https://cloudsecurityalliance.org/articles/lessons-learned-on-securing-multi-agent-systems-nist-agent-security-rfi",
+  "published": "2026-08-26T22:16:11+00:00",
+  "summary": "Five practical security lessons distilled from public responses on how increasingly autonomous agents change trust, authority, observability, and system assurance. In January 2026, the National Institute of Standards and Technology (NIST) Center for AI Standards and Innovation issued a Request for Information (RFI) on Security Considerations for Artificial Intelligence Agents, seeking input on security risks, mitigations, measurement, evaluation, and the secure adoption of AI agent syste...",
+  "categories": [
+   "ai",
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "1ab5128b6891df0298e719c5a960fca275e76f79"
+ },
+ {
+  "source": "Cloudflare Blog",
+  "title": "Cloudflare’s 2026 Annual Founders’ Letter",
+  "link": "https://blog.cloudflare.com/cloudflares-2026-annual-founders-letter/",
+  "published": "2026-09-27T17:00:00+00:00",
+  "summary": "The Internet is changing more today than at any point since Cloudflare launched back on September 27, 2010. As automated traffic surpasses human activity, we reflect on the rise of AI agents, new creators, and how we can help build a fair, sustainable future for the web.",
+  "categories": [
+   "ai",
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Cloudflare’s 2026 Annual Founders’ Letter",
+  "key": "7bfdce70280e9b9aec5ba2821ae3d5d6f33222c3"
+ },
+ {
+  "source": "AWS Security Blog",
+  "title": "Supporting ASD’s multi-factor authentication campaign: Why MFA matters more than ever",
+  "link": "https://aws.amazon.com/blogs/security/supporting-asds-multi-factor-authentication-campaign-why-mfa-matters-more-than-ever/",
+  "published": "2026-09-23T14:45:44+00:00",
+  "summary": "The Australian Signals Directorate (ASD) has this month issued a clear call to action through its Multi-factor authentication: Switch it on campaign, urging businesses, organisations, and individuals to enable multi-factor authentication (MFA) across their online accounts. At AWS, we strongly support this message. As threat actors continue to target credentials through phishing, credential stuffing, and […]",
+  "categories": [
+   "breach",
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "cb74c38d3bca42702ddcf4333088a1995ab25483"
+ },
+ {
+  "source": "OpenAI News",
+  "title": "Two years of OpenAI Academy",
+  "link": "https://openai.com/index/two-years-of-openai-academy",
+  "published": "2026-09-23T16:00:00+00:00",
+  "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "63557270405c4f4bf35e66814489a54b820ec435"
+ },
+ {
+  "source": "OpenAI News",
+  "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+  "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+  "published": "2026-09-23T13:00:00+00:00",
+  "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "9254ca37c0d4ebb348e0b0ec99782e956a910c70"
+ },
+ {
+  "source": "OpenAI News",
+  "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+  "link": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+  "published": "2026-09-23T00:00:00+00:00",
+  "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "eafdc3926ea69db1f339ec97638471a038d355e0"
+ },
+ {
+  "source": "Schneier on Security",
+  "title": "Research on Models Engaging in Genie-Like Behavior",
+  "link": "https://www.schneier.com/blog/archives/2026/09/research-on-models-engaging-in-genie-like-behavior.html",
+  "published": "2026-09-23T11:03:36+00:00",
+  "summary": "New paper: &#8220; Self-Jailbreaking: Language Models Can Reason Themselves Out of Safety Alignment After Benign Reasoning Training .&#8221; Abstract: We discover a novel and surprising phenomenon of unintentional misalignment in reasoning language models (RLMs), which we call self-jailbreaking. Specifically, after benign reasoning training on math or code domains, RLMs will use multiple strategies to circumvent their own safety guardrails. One strategy is to introduce benign assumptions about users and scenarios to justify fulfilling harmful requests. For instance, an RLM reasons that harmful",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "c4b7e7c0ed4729c75dbf61e5a752e4365a7cc62f"
+ },
+ {
+  "source": "DarkReading",
+  "title": "How the CISO CFO Relationship is a Key to Cybersecurity Success",
+  "link": "https://www.darkreading.com/cyber-risk/how-to-manage-ciso-cfo-relationship-cybersecurity-success",
+  "published": "2026-09-25T20:28:10+00:00",
+  "summary": "Building a financial bridge: Organizations where CISOs and CFOs align on cybersecurity strategy to protect assets, manage risk and enable business growth are better prepared to face today's threat landscape.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "0d74f57b59761314f2bbca9774ac8faddcf907e1"
+ },
+ {
+  "source": "DarkReading",
+  "title": "UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks",
+  "link": "https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks",
+  "published": "2026-09-23T16:01:00+00:00",
+  "summary": "The United Arab Emirates and Kingdom of Saudi Arabia together absorbed 50% of all cyberattacks recorded across the Gulf region in the first half of 2026.",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "6bd345174effeaff470c79f1a6e48f0345233802"
+ },
+ {
+  "source": "DarkReading",
+  "title": "Attackers Manipulate AI Chatbots in Mass Disinformation, Phishing Campaign",
+  "link": "https://www.darkreading.com/threat-intelligence/attackers-manipulate-ai-chatbots-mass-disinformation-phishing-campaign",
+  "published": "2026-09-23T14:47:09+00:00",
+  "summary": "Threat actors are poisoning ChatGPT, Gemini, and Google AI Overview answers by seeding the Web with malicious links and data and then optimizing the content.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "ca3819300164d62dac050981e4a12f2d18271a9f"
+ },
+ {
+  "source": "DarkReading",
+  "title": "How the CISO-CMO Alliance Builds Trust Before Crisis Strikes",
+  "link": "https://www.darkreading.com/cybersecurity-operations/how-ciso-cmo-alliance-builds-trust-before-crisis",
+  "published": "2026-09-22T20:55:53+00:00",
+  "summary": "Cybersecurity and brand reputation are inextricably linked. Security and marketing leaders who establish regular touchpoints, develop joint crisis communications plans, and translate security risks into their brand impact position their organizations to significantly outperform those treating security as an operational IT concern.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "48c424400138a555903dd1567d9c3705ece7ffa3"
+ },
+ {
+  "source": "DarkReading",
+  "title": "Deception by Design: CISA's Guide to Tricking Cybercriminals",
+  "link": "https://www.darkreading.com/cybersecurity-operations/deception-by-design-cisa-s-guide-to-tricking-cybercriminals",
+  "published": "2026-09-22T19:59:24+00:00",
+  "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) is going old school to help organizations with limited resources set traps for hackers.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "d0dd56e464e1ab376a10ea911bc5b08f03107e59"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2026-88772 — Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88772",
+  "published": "2026-09-27",
+  "summary": "Citrix NetScaler ADC and NetScaler Gateway contain an improper restriction of operations within the bounds of a memory buffer vulnerability that could allow for remote code execution or denial of service",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88772",
+   "vendor": "Citrix",
+   "product": "NetScaler",
+   "due_date": "2026-09-30",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "CVE-2026-88772 — Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability",
+  "key": "2c4c12f0cd8bed44873fba4f4671cc43a5a23c28"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2026-88771 — Citrix NetScaler Improper Input Validation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88771",
+  "published": "2026-09-27",
+  "summary": "Citrix NetScaler ADC and NetScaler Gateway contain an improper input validation vulnerability that could allow an unauthenticated attacker to execute arbitrary commands.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88771",
+   "vendor": "Citrix",
+   "product": "NetScaler",
+   "due_date": "2026-09-30",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "CVE-2026-88771 — Citrix NetScaler Improper Input Validation Vulnerability",
+  "key": "10f9f601328003de949eb37044bf9c29cde1832a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-101042 — Parse Server is an open-source backend server",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101042",
+  "published": "2026-09-27T17:16:55.820",
+  "summary": "Parse Server is an open-source backend server. In versions >= 9.0.0 < 9.10.1-alpha.10 and >= 8.0.2 < 8.6.91, the code-based authentication adapters (GitHub, Google Play Games, Instagram, LINE, LinkedIn, Microsoft, QQ, Spotify, WeChat, Weibo) verify the client's authorization code with the external provider on signup and on provider linking, but not when authentication data is supplied together with a username and password on the login endpoint. As a result, a low-privileged authenticated user can attach an arbitrary, unverified provider identity to their own account without the provider ever b",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-101042",
+   "cvss": 6.4,
+   "ref": "https://github.com/parse-community/parse-server/security/advisories/GHSA-mr43-w6c2-mvjq"
+  },
+  "title_vi": "CVE-2026-101042 - Máy chủ phân tích cú pháp là một máy chủ phụ trợ nguồn mở",
+  "key": "c6dd2a9359d89d5695e32bcd2b972be68935a466"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-101049 — Heym before 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101049",
+  "published": "2026-09-27T17:16:55.967",
+  "summary": "Heym before 0.0.53 fails to verify Slack request signatures when trigger nodes lack credential IDs or have empty signing secrets. Remote unauthenticated attackers can send forged Slack events to known webhook URLs to trigger workflows with the owner's credentials.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-101049",
+   "cvss": 6.5,
+   "ref": "https://github.com/heymrun/heym/commit/341d1012367cd74f85c617e1c98dd49e3fcb5e83"
+  },
+  "title_vi": "CVE-2026-101049 — Heym trước 0",
+  "key": "a4555e10c49151c9c57985bf396d374c68dd55c3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-101050 — Heym before 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101050",
+  "published": "2026-09-27T17:16:56.100",
+  "summary": "Heym before 0.0.53 fails to verify the X-Telegram-Bot-Api-Secret-Token header on Telegram webhook endpoints when credential_id is absent or secret_token is empty. Remote unauthenticated attackers can post forged Telegram updates to trigger workflows with the owner's configured credentials and execute actions on attacker-supplied input.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-101050",
+   "cvss": 6.5,
+   "ref": "https://github.com/heymrun/heym/commit/341d1012367cd74f85c617e1c98dd49e3fcb5e83"
+  },
+  "title_vi": "CVE-2026-101050 — Heym trước 0",
+  "key": "0a69d6149e3cd924492f1d45a14af4886bb55514"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88771 — Improper input validation vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88771",
+  "published": "2026-09-27T17:16:56.260",
+  "summary": "Improper input validation vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway.\n\nThis issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 FIPS, and before 13.1.37.279 FIPS and NDcPP; Gateway: before 14.1-73.37 and before 13.1-64.23 leading to an unauthenticated attacker to execute arbitrary commands.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88771",
+   "cvss": null,
+   "ref": "https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX697096"
+  },
+  "title_vi": "CVE-2026-88771 — Lỗ hổng xác thực đầu vào không đúng cách trong Citrix NetScaler ADC và Citrix NetScaler Gateway",
+  "key": "7b7bd687e9d3f9a94f015709f2b61673941a579e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88772 — Vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88772",
+  "published": "2026-09-27T17:16:56.390",
+  "summary": "Vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway.\n\nThis issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 FIPS, and before 13.1.37.279 FIPS and NDcPP; Gateway: before 14.1-73.37 and before 13.1-64.23 leading to Remote Code Execution or Denial of Service",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88772",
+   "cvss": null,
+   "ref": "https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX697096&articleTitle=Citrix_NetScaler_ADC_and_Citrix_NetScaler_Gateway_Security_Bulletin_for_CVE_2026_88771_CVE_2026_88772_CVE_2026_88773_CVE_2026_88774_CVE_2026_88775_CVE_2026_88776_CVE_2026_88777_and_CVE_2026_88778"
+  },
+  "title_vi": "CVE-2026-88772 — Lỗ hổng trong Citrix NetScaler ADC và Citrix NetScaler Gateway",
+  "key": "6b22486a3d59a9ceffd48dcffa5827956f9be7f5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88773 — Inconsistent interpretation of HTTP requests ('HTTP Request/Response smuggling') vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88773",
+  "published": "2026-09-27T17:16:56.507",
+  "summary": "Inconsistent interpretation of HTTP requests ('HTTP Request/Response smuggling') vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway.\n\nThis issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 FIPS, and before 13.1-37.279 and NDcPP; Gateway: before 14.1-73.37 FIPS and before 13.1-64.23.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88773",
+   "cvss": null,
+   "ref": "https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX697096"
+  },
+  "title_vi": "CVE-2026-88773 — Giải thích không nhất quán về lỗ hổng http requests ('http Request/Response smuggling') trong Citrix NetScaler ADC và Citrix NetScaler Gateway",
+  "key": "1efa403f163ad28b98f7d6e9aee10b8904b30bb1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88774 — Vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88774",
+  "published": "2026-09-27T17:16:56.633",
+  "summary": "Vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway.\n\nThis issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 FIPS, and before 13.1.37.279 FIPS and NDcPP; Gateway: before 14.1-73.37 and before 13.1-64.23 leading to a feature policy bypass due to improper HTTP URL based expression usage.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88774",
+   "cvss": null,
+   "ref": "https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX697096&articleTitle=Citrix_NetScaler_ADC_and_Citrix_NetScaler_Gateway_Security_Bulletin_for_CVE_2026_88771_CVE_2026_88772_CVE_2026_88773_CVE_2026_88774_CVE_2026_88775_CVE_2026_88776_CVE_2026_88777_and_CVE_2026_88778"
+  },
+  "title_vi": "CVE-2026-88774 — Lỗ hổng trong Citrix NetScaler ADC và Citrix NetScaler Gateway",
+  "key": "388904349c63f3b745e702ab8f976cf49a52772a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88775 — Memory overflow vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88775",
+  "published": "2026-09-27T17:16:56.750",
+  "summary": "Memory overflow vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway.\n\nThis issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 FIPS, and before 13.1.37.279 FIPS and NDcPP; Gateway: before 14.1-73.37 and before 13.1-64.23 leading Memory overflow vulnerability leading to unpredictable or erroneous behavior or Denial of Service",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88775",
+   "cvss": null,
+   "ref": "https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX697096&articleTitle=Citrix_NetScaler_ADC_and_Citrix_NetScaler_Gateway_Security_Bulletin_for_CVE_2026_88771_CVE_2026_88772_CVE_2026_88773_CVE_2026_88774_CVE_2026_88775_CVE_2026_88776_CVE_2026_88777_and_CVE_2026_88778"
+  },
+  "title_vi": "CVE-2026-88775 — Lỗ hổng tràn bộ nhớ trong Citrix NetScaler ADC và Citrix NetScaler Gateway",
+  "key": "13c5a33552770aa93c5f9a97f97da3684f7d55e2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88776 — Memory overflow vulnerability vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88776",
+  "published": "2026-09-27T17:16:56.870",
+  "summary": "Memory overflow vulnerability vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway.\nThis issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 FIPS, and before 13.1.37.279 FIPS and NDcPP; Gateway: before 14.1-73.37 and before 13.1-64.23  leading to unpredictable or erroneous behavior or Denial of Service",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88776",
+   "cvss": null,
+   "ref": "https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX697096"
+  },
+  "title_vi": "CVE-2026-88776 — Lỗ hổng bảo mật tràn bộ nhớ trong Citrix NetScaler ADC và Citrix NetScaler Gateway",
+  "key": "e256958c65c13e927792f4a26fbce61d3a124c2d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88777 — Memory overflow vulnerability vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88777",
+  "published": "2026-09-27T17:16:56.990",
+  "summary": "Memory overflow vulnerability vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway.\n\nThis issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 FIPS, and before 13.1.37.279 FIPS and NDcPP; Gateway: before 14.1-73.37 and before 13.1-64.23  leading to unpredictable or erroneous behavior or Denial of Service",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88777",
+   "cvss": null,
+   "ref": "https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX697096&articleTitle=Citrix_NetScaler_ADC_and_Citrix_NetScaler_Gateway_Security_Bulletin_for_CVE_2026_88771_CVE_2026_88772_CVE_2026_88773_CVE_2026_88774_CVE_2026_88775_CVE_2026_88776_CVE_2026_88777_and_CVE_2026_88778"
+  },
+  "title_vi": "CVE-2026-88777 — Lỗ hổng bảo mật tràn bộ nhớ trong Citrix NetScaler ADC và Citrix NetScaler Gateway",
+  "key": "191fcb43bd2534b8633766becf183ae8c53ba6da"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-88778 — Predictable exact value from previous values vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88778",
+  "published": "2026-09-27T17:16:57.110",
+  "summary": "Predictable exact value from previous values vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway.\n\nThis issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 FIPS, and before 13.1.37.279 FIPS and NDcPP; Gateway: before 14.1-73.37 and before 13.1-64.23.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88778",
+   "cvss": null,
+   "ref": "https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX697096"
+  },
+  "title_vi": "CVE-2026-88778 - Giá trị chính xác có thể dự đoán được từ lỗ hổng giá trị trước đó trong Citrix NetScaler ADC và Citrix NetScaler Gateway",
+  "key": "73fa60d3556daf4ed919f276263f11e89a1a4761"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-101043 — pnpm versions 11",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101043",
+  "published": "2026-09-27T18:16:29.700",
+  "summary": "pnpm versions 11.0.0 before 11.11.0 and 10.7.0 before 10.34.5 expand ${VAR} environment-variable placeholders in the httpProxy, httpsProxy, and noProxy settings read from a project's pnpm-workspace.yaml. Because the manifest is repository-controlled and the proxy keys were omitted from the request-destination key set that otherwise suppresses placeholder expansion for untrusted manifests (as already done for registry, pnprServer, registries and namedRegistries), an attacker who controls a repository's pnpm-workspace.yaml can cause a victim who clones the repository and runs a pnpm command (e.g",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-101043",
+   "cvss": 7.4,
+   "ref": "https://github.com/pnpm/pnpm/security/advisories/GHSA-vx52-2968-3vc6"
+  },
+  "title_vi": "CVE-2026-101043 — phiên bản pnpm 11",
+  "key": "f7d0d9de6d60d9403ae4138dba08f78bec1db559"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-101044 — pacquet, the Rust package-manager component shipped in the pnpm npm package versions >=12",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101044",
+  "published": "2026-09-27T18:16:30.753",
+  "summary": "pacquet, the Rust package-manager component shipped in the pnpm npm package versions >=12.0.0-alpha.0 and <12.0.0-alpha.5, does not validate dependency alias/name paths taken from a lockfile before using them in install-time filesystem joins. When a user installs a project with an attacker-supplied lockfile using --trust-lockfile or a frozen lockfile, alias entries containing path traversal segments (for example '../../escaped-link') are used when creating dependency and package links, bin destinations, hoisted entries, and virtual-store slots, allowing symlinks and directories to be created o",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-101044",
+   "cvss": 7.1,
+   "ref": "https://github.com/pnpm/pnpm/security/advisories/GHSA-2rx9-3g3h-c2jv"
+  },
+  "title_vi": "CVE-2026-101044 — pacquet, thành phần quản lý gói Rust được vận chuyển trong các phiên bản gói npm pnpm >=12",
+  "key": "70e7c3b62493269206085faa49ccb593cdd19c54"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-101045 — Fleet-maintained app install and uninstall scripts for macOS are generated from Homebrew cask metadata",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101045",
+  "published": "2026-09-27T18:16:30.897",
+  "summary": "Fleet-maintained app install and uninstall scripts for macOS are generated from Homebrew cask metadata. In manifests generated before 2026-08-19, the script generator escaped this metadata at some interpolation sites but not all of them, so cask metadata containing shell metacharacters (for example $(...) command substitution) could be carried into scripts that execute as root on managed macOS hosts. An attacker who could land crafted metadata in an upstream Homebrew cask — without needing any Fleet credentials — could achieve arbitrary command execution as root on managed macOS hosts that ins",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-101045",
+   "cvss": 8.0,
+   "ref": "https://github.com/fleetdm/fleet/security/advisories/GHSA-fv3p-h7wv-2jgm"
+  },
+  "title_vi": "CVE-2026-101045 - Cài đặt và gỡ cài đặt ứng dụng do đội xe duy trì cho macOS được tạo từ siêu dữ liệu thùng Homebrew",
+  "key": "c4e31164b8c238e90198f257e3f531991f1f0b77"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-101046 — Fleet before 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101046",
+  "published": "2026-09-27T18:16:31.037",
+  "summary": "Fleet before 4.89.0 contains an SQL injection vulnerability in the activity list endpoints (GET /api/v1/fleet/activities and GET /api/v1/fleet/hosts/{id}/activities). The deprecated cursor-pagination helper appendListOptionsWithCursorToSQL interpolated the caller-supplied sort/order key into the SQL ORDER BY clause without an allowlist, so an authenticated user with read access to Activity could order results by arbitrary columns. The impact is read-only and bounded to columns on the activity_past table that are not otherwise returned in these responses (e.g. details), allowing their values to",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-101046",
+   "cvss": 3.1,
+   "ref": "https://github.com/fleetdm/fleet/security/advisories/GHSA-rxhg-vcww-2mpw"
+  },
+  "title_vi": "CVE-2026-101046 — Hạm đội trước 4",
+  "key": "78847d63ac71f1da2b60197d292a3070d7560e71"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-101047 — Fleet before 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101047",
+  "published": "2026-09-27T18:16:31.177",
+  "summary": "Fleet before 4.87.0 does not protect the two endpoints that serve in-house iOS application packages and manifests (enterprise tier only) with the intended random, time-limited URL token. Because Apple's InstallEnterpriseApplication MDM command requires these URLs to be reachable without a Fleet session, they cannot rely on session-based authentication, and the missing token allows an unauthenticated attacker with network access to the Fleet server to download in-house IPA binaries and their metadata (bundle identifier, version, and name) by guessing sequential title identifiers. The impact is ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-101047",
+   "cvss": 5.3,
+   "ref": "https://github.com/fleetdm/fleet/security/advisories/GHSA-q9c5-pp7m-fm2g"
+  },
+  "title_vi": "CVE-2026-101047 — Hạm đội trước 4",
+  "key": "18cd3da59307a5a0031e2494124b5143a5e48539"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-101048 — Cloudreve before 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101048",
+  "published": "2026-09-27T18:16:31.313",
+  "summary": "Cloudreve before 4.17.0 registers the administrative node test endpoints (POST /api/v4/admin/node/test and POST /api/v4/admin/node/test/downloader) without requiring the Admin.Write OAuth scope, unlike the node create/update/delete routes. An OAuth client that has been authorized by an administrator with only the Admin.Read scope can therefore submit attacker-controlled node definitions and cause the Cloudreve server to issue outbound requests to arbitrary URLs, enabling blind server-side request forgery, internal service probing, and delivery of signed Cloudreve slave-style requests to attack",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-101048",
+   "cvss": 5.4,
+   "ref": "https://github.com/cloudreve/cloudreve/security/advisories/GHSA-v6w6-358x-2433"
+  },
+  "title_vi": "CVE-2026-101048 — Cloudreve trước 4",
+  "key": "9f57a3a15a204ca10555467f221b1441296a1213"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-101051 — Cloudreve before 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101051",
+  "published": "2026-09-27T18:16:31.510",
+  "summary": "Cloudreve before 4.16.1 fails to properly sanitize file paths returned by remote downloaders, allowing authenticated users to create files outside the selected destination directory. Attackers can exploit path traversal sequences in downloader metadata to write files to unexpected locations within accessible namespaces.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-101051",
+   "cvss": 3.1,
+   "ref": "https://github.com/cloudreve/cloudreve/security/advisories/GHSA-w8j7-39hp-8x59"
+  },
+  "title_vi": "CVE-2026-101051 — Cloudreve trước 4",
+  "key": "f541314734a29cbe5e0d73d88dece2ce9311dab7"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-101056 — Cloudreve before 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101056",
+  "published": "2026-09-27T18:16:31.667",
+  "summary": "Cloudreve before 4.16.1 fails to revalidate share access when restoring cached navigator state from a context_hint UUID. Attackers who previously had valid share access can replay the cached hint to generate signed file URLs for up to 300 seconds after the share is deleted, expires, or reaches zero remaining downloads.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-101056",
+   "cvss": 5.3,
+   "ref": "https://github.com/cloudreve/cloudreve/security/advisories/GHSA-vx2m-jpxr-xv7w"
+  },
+  "title_vi": "CVE-2026-101056 — Cloudreve trước 4",
+  "key": "eba055c98f0c54c75452449d40f83f8a76c48d77"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-101057 — utcp-mcp (the MCP plugin of python-utcp) through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101057",
+  "published": "2026-09-27T18:16:31.823",
+  "summary": "utcp-mcp (the MCP plugin of python-utcp) through 1.1.2 connects to the HTTP and WebSocket MCP server URLs given in a call template's mcpServers configuration without the ensure_secure_url validation that the HTTP-family plugins apply, so the HTTPS/WSS-or-loopback rule is not enforced. A call template naming a plain-HTTP, non-loopback MCP server URL is dialed as configured, exposing the MCP handshake to network interception and permitting cleartext connections to internal hosts. The mcpServers configuration is operator-authored rather than remote data, and the connection is an MCP handshake rat",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-101057",
+   "cvss": 3.1,
+   "ref": "https://github.com/universal-tool-calling-protocol/python-utcp/security/advisories/GHSA-qwr9-cj2c-v3fv"
+  },
+  "title_vi": "CVE-2026-101057 — utcp-mcp (plugin MCP của python-utcp) thông qua 1",
+  "key": "bc785b8e769d7161c7ae67ba77cbebcb9c6dea92"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-101058 — python-utcp (pip package utcp-http) before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101058",
+  "published": "2026-09-27T18:16:31.973",
+  "summary": "python-utcp (pip package utcp-http) before 1.1.12 does not verify whether tool URLs declared in a hand-written UTCP manual point at the agent's own loopback interface when that manual is discovered from a remote, non-loopback origin. Because ensure_secure_url intentionally permits loopback HTTP for local development and native manuals bypassed the loopback check performed by the OpenAPI converter, an attacker who can serve a UTCP manual that a victim registers can cause the client to issue requests to services bound only to 127.0.0.1 on the victim host and have the response bodies returned to ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-101058",
+   "cvss": 6.9,
+   "ref": "https://github.com/universal-tool-calling-protocol/python-utcp/security/advisories/GHSA-8vxx-v7r9-948g"
+  },
+  "title_vi": "CVE-2026-101058 — python-utcp (gói pip utcp-http) trước 1",
+  "key": "7f88fa526781ad77ecfe0176ef39b9c43809893e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-101059 — utcp-http before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101059",
+  "published": "2026-09-27T18:16:32.130",
+  "summary": "utcp-http before 1.1.4 fails to validate the OAuth2 tokenUrl field from remote OpenAPI specifications, allowing attackers to redirect credential submission to arbitrary endpoints. When a victim registers an attacker-controlled OpenAPI spec and invokes a generated OAuth2-protected tool, the library POSTs the victim's client_id and client_secret to the attacker-supplied token endpoint without URL validation.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-101059",
+   "cvss": 7.1,
+   "ref": "https://github.com/universal-tool-calling-protocol/python-utcp/security/advisories/GHSA-8cp3-qxj6-px34"
+  },
+  "title_vi": "CVE-2026-101059 — utcp-http trước 1",
+  "key": "bba3bde62a55e91e2ef9ae8442e83dd5677ff833"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-101060 — python-utcp versions before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101060",
+  "published": "2026-09-27T18:16:32.273",
+  "summary": "python-utcp versions before 1.1.4 contain a server-side request forgery vulnerability in HttpCommunicationProtocol.call_tool that validates the initial tool URL but follows HTTP redirects without re-validating the target. Attackers controlling a tool endpoint can return a 302 redirect to internal services, allowing the UTCP client to reach cloud metadata endpoints or internal HTTP services and return their response bodies to the caller.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-101060",
+   "cvss": 8.2,
+   "ref": "https://github.com/universal-tool-calling-protocol/python-utcp/security/advisories/GHSA-9qhg-99ww-9mqc"
+  },
+  "title_vi": "CVE-2026-101060 — phiên bản python-utcp trước 1",
+  "key": "36899bc5fc5b4acb0e2f8e88d304fd965933824c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-101061 — utcp-gql before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101061",
+  "published": "2026-09-27T18:16:32.407",
+  "summary": "utcp-gql before 1.1.1 and utcp-websocket before 1.1.1 contain server-side request forgery vulnerabilities due to incomplete application of CVE-2026-44661 fixes. The GraphQL plugin uses a vulnerable prefix check allowing bypass URLs like http://127.0.0.1.attacker.example, while the WebSocket plugin performs no URL validation despite documented security requirements. Attackers can force connections to internal services and cloud metadata endpoints by supplying malicious tool URLs in call templates, and receive configured API keys and OAuth tokens sent to attacker-controlled hosts.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-101061",
+   "cvss": 4.7,
+   "ref": "https://github.com/universal-tool-calling-protocol/python-utcp/security/advisories/GHSA-ppx3-28rw-8fpf"
+  },
+  "title_vi": "CVE-2026-101061 — utcp-gql trước 1",
+  "key": "2cecbc56153611ea543cae65336b4ce95ab100ac"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-100873 — A vulnerability was detected in mathurvishal CloudClassroom-PHP-Project up to 5dadec098bfbbf3300d60c3494db3fb95b66e7be",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100873",
+  "published": "2026-09-27T19:16:53.720",
+  "summary": "A vulnerability was detected in mathurvishal CloudClassroom-PHP-Project up to 5dadec098bfbbf3300d60c3494db3fb95b66e7be. The impacted element is an unknown function. The manipulation results in cross-site request forgery. The attack can be launched remotely. The exploit is now public and may be used. This product does not use versioning. This is why information about affected and unaffected releases are unavailable. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-100873",
+   "cvss": 4.3,
+   "ref": "https://github.com/vinniboy021-blip/Advisory/blob/main/csrf.md"
+  },
+  "title_vi": "CVE-2026-100873 — Một lỗ hổng đã được phát hiện trong mathurvishal CloudClassroom-PHP-Project lên đến 5dadec098bfbbf3300d60c3494db3fb95b66e7be",
+  "key": "4fc4a82dd6c2967875f2a8f7dabeaee8d9415317"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-100874 — A flaw has been found in mathurvishal CloudClassroom-PHP-Project up to 5dadec098bfbbf3300d60c3494db3fb95b66e7be",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100874",
+  "published": "2026-09-27T19:16:53.920",
+  "summary": "A flaw has been found in mathurvishal CloudClassroom-PHP-Project up to 5dadec098bfbbf3300d60c3494db3fb95b66e7be. This affects an unknown function of the file addnewstudent.php. This manipulation causes sql injection. The attack may be initiated remotely. The exploit has been published and may be used. This product uses a rolling release model to deliver continuous updates. As a result, specific version information for affected or updated releases is not available. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-100874",
+   "cvss": 7.3,
+   "ref": "https://github.com/vinniboy021-blip/Advisory/blob/main/addnewstudent-sqli.md"
+  },
+  "title_vi": "CVE-2026-100874 — A flaw has been found in mathurvishal CloudClassroom-PHP-Project up to 5dadec098bfbbf3300d60c3494db3fb95b66e7be",
+  "key": "3a08990408e75b2408256c2cb7311eea0e99ad0d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-100875 — A vulnerability has been found in mathurvishal CloudClassroom-PHP-Project up to 5dadec098bfbbf3300d60c3494db3fb95b66e7be",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100875",
+  "published": "2026-09-27T19:16:54.100",
+  "summary": "A vulnerability has been found in mathurvishal CloudClassroom-PHP-Project up to 5dadec098bfbbf3300d60c3494db3fb95b66e7be. This impacts an unknown function of the file updatedetailsfromfaculty.php. Such manipulation of the argument myfid leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. This product operates on a rolling release basis, ensuring continuous delivery. Consequently, there are no version details for either affected or updated releases. The vendor was contacted early about this disclosure but did not respond in ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-100875",
+   "cvss": 7.3,
+   "ref": "https://github.com/rmsbpro/Advisory/blob/main/updatedetailsfromfaculty-sqli.md"
+  },
+  "title_vi": "CVE-2026-100875 — A vulnerability has been found in mathurvishal CloudClassroom-PHP-Project up to 5dadec098bfbbf3300d60c3494db3fb95b66e7be",
+  "key": "337e0452973f3bc90ae6f872c74aeecc99b0c71d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-100876 — A vulnerability was found in mathurvishal CloudClassroom-PHP-Project up to 5dadec098bfbbf3300d60c3494db3fb95b66e7be",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100876",
+  "published": "2026-09-27T20:16:48.960",
+  "summary": "A vulnerability was found in mathurvishal CloudClassroom-PHP-Project up to 5dadec098bfbbf3300d60c3494db3fb95b66e7be. Affected is an unknown function of the file loginlinkstudent.php. Performing a manipulation of the argument umail results in missing authentication. Remote exploitation of the attack is possible. The exploit has been made public and could be used. This product follows a rolling release approach for continuous delivery, so version details for affected or updated releases are not provided. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-100876",
+   "cvss": 6.3,
+   "ref": "https://github.com/rmsbpro/Advisory/blob/main/broken-role-segregation.md"
+  },
+  "title_vi": "CVE-2026-100876 — A vulnerability was found in mathurvishal CloudClassroom-PHP-Project up to 5dadec098bfbbf3300d60c3494db3fb95b66e7be",
+  "key": "a7840f5edc84287c7dfe121b92810dc3fb7892b2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-96279 — A malicious OCI registry can hardlink arbitrary host files into the extraction directory when a user installs or updates a Flatpak application from an",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96279",
+  "published": "2026-09-27T20:16:53.043",
+  "summary": "A malicious OCI registry can hardlink arbitrary host files into the extraction directory when a user installs or updates a Flatpak application from an OCI remote, allowing disclosure of arbitrary host file contents. For system-wide installs running as root, this includes sensitive files such as /etc/shadow.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-96279",
+   "cvss": 6.5,
+   "ref": "https://access.redhat.com/security/cve/CVE-2026-96279"
+  },
+  "title_vi": "CVE-2026-96279 — A malicious OCI registry can hardlink arbitrary host files into the extraction directory when a user installs or updates a Flatpak application from an",
+  "key": "56985791be06e3f5245eef08397213dcd17ed5e2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-100877 — A vulnerability was determined in mathurvishal CloudClassroom-PHP-Project up to 5dadec098bfbbf3300d60c3494db3fb95b66e7be",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100877",
+  "published": "2026-09-27T21:17:00.923",
+  "summary": "A vulnerability was determined in mathurvishal CloudClassroom-PHP-Project up to 5dadec098bfbbf3300d60c3494db3fb95b66e7be. Affected by this vulnerability is an unknown functionality of the file registrationform.php. Executing a manipulation of the argument FName/LName/Addrs can lead to cross site scripting. The attack can be executed remotely. The exploit has been publicly disclosed and may be utilized. This product implements a rolling release for ongoing delivery, which means version information for affected or updated releases is unavailable. The vendor was contacted early about this disclos",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-100877",
+   "cvss": 4.3,
+   "ref": "https://github.com/rmsbpro/Advisory/blob/main/registrationform-stored-xss.md"
+  },
+  "title_vi": "CVE-2026-100877 — A vulnerability was determined in mathurvishal CloudClassroom-PHP-Project up to 5dadec098bfbbf3300d60c3494db3fb95b66e7be",
+  "key": "3bda670cc5c4bd2c1b5d96f9dfcd1b08d7f0f72d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-100878 — A vulnerability was identified in zhistaredu StarTraining up to 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100878",
+  "published": "2026-09-27T21:17:01.100",
+  "summary": "A vulnerability was identified in zhistaredu StarTraining up to 3.8.1. Affected by this issue is the function SysUser.isAdmin of the file edu-common/src/main/java/com/edu/common/core/domain/entity/SysUser.java of the component authRole Endpoint. The manipulation of the argument userId/roleIds leads to authorization bypass. The attack is possible to be carried out remotely. The exploit is publicly available and might be used. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-100878",
+   "cvss": 6.3,
+   "ref": "https://github.com/ArrestX/startraining-advisories/blob/main/advisories/ST-VULN-004-idor-auth-role-privesc.md"
+  },
+  "title_vi": "CVE-2026-100878 — A vulnerability was identified in zhistaredu StarTraining up to 3",
+  "key": "ad483b42f8ccddcd6ea75d57422ac7eef18a855e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-100879 — A security flaw has been discovered in zhistaredu StarTraining up to 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100879",
+  "published": "2026-09-27T21:17:01.283",
+  "summary": "A security flaw has been discovered in zhistaredu StarTraining up to 3.8.1. This affects the function checkRoleAllowed of the file SysRoleServiceImpl.java of the component dataScope Endpoint. The manipulation results in missing authorization. The attack may be performed from remote. The exploit has been released to the public and may be used for attacks. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-100879",
+   "cvss": 4.3,
+   "ref": "https://github.com/ArrestX/startraining-advisories/blob/main/advisories/ST-VULN-005-role-crud-missing-preauthorize.md"
+  },
+  "title_vi": "CVE-2026-100879 — A security flaw has been discovered in zhistaredu StarTraining up to 3",
+  "key": "e73151a337384ea2cef0d78f89978ddcf6a42684"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-100880 — A weakness has been identified in zhistaredu StarTraining up to 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100880",
+  "published": "2026-09-27T21:17:01.450",
+  "summary": "A weakness has been identified in zhistaredu StarTraining up to 3.8.1. This vulnerability affects unknown code of the file du-common/src/main/java/com/edu/common/utils/file/MimeTypeUtils.java of the component Upload Endpoint. This manipulation of the argument File causes cross site scripting. It is possible to initiate the attack remotely. The exploit has been made available to the public and could be used for attacks. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-100880",
+   "cvss": 3.5,
+   "ref": "https://github.com/ArrestX/startraining-advisories/blob/main/advisories/ST-VULN-006-stored-html-upload-xss.md"
+  },
+  "title_vi": "CVE-2026-100880 — A weakness has been identified in zhistaredu StarTraining up to 3",
+  "key": "0c5fcb0b777b38d5d076942ff8db1bc767422b9a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-101062 — Obot before v0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101062",
+  "published": "2026-09-27T21:17:01.617",
+  "summary": "Obot before v0.23.0 (affected versions <= v0.22.1) running with OBOT_SERVER_ENABLE_AUTHENTICATION=true exposes OAuth dynamic client registration without authentication and without any restriction on the redirect URIs a client may register. Because the authorization flow auto-completes for an already logged-in user with no consent screen, an attacker who registers a client pointing at their own domain and induces a logged-in victim to visit a single crafted authorization URL receives an authorization code at the attacker-controlled redirect URI and can exchange it for an access token and refres",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-101062",
+   "cvss": 8.8,
+   "ref": "https://github.com/obot-platform/obot/security/advisories/GHSA-xwmw-prc4-v3cr"
+  },
+  "title_vi": "CVE-2026-101062 — Obot before v0",
+  "key": "39d72de532e1bb49a8c67f8373c8281a2a7b1702"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-101063 — Obot versions before v0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101063",
+  "published": "2026-09-27T21:17:01.757",
+  "summary": "Obot versions before v0.23.0 fail to enforce authentication on MCP Registry endpoints under /v0.1/* when registry authentication is enabled. Unauthenticated attackers can read registry metadata including server names, descriptions, repository URLs, and connect URLs by sending GET requests to /v0.1/servers.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-101063",
+   "cvss": 5.3,
+   "ref": "https://github.com/obot-platform/obot/security/advisories/GHSA-pr6h-vr44-xq8j"
+  },
+  "title_vi": "CVE-2026-101063 — Obot versions before v0",
+  "key": "545b73be67586d7ad6f41a313dfd1b667001d61d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-101064 — Obot before v0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101064",
+  "published": "2026-09-27T21:17:01.893",
+  "summary": "Obot before v0.23.0 contains a server-side request forgery vulnerability in remote MCP server registration that allows privileged users to specify arbitrary URLs without destination validation. Attackers with Power User or higher roles can coerce Obot to make requests to internal services and cloud metadata endpoints, reading responses in error messages to disclose sensitive credentials.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-101064",
+   "cvss": 7.6,
+   "ref": "https://github.com/obot-platform/obot/security/advisories/GHSA-jgh3-fggc-mcpm"
+  },
+  "title_vi": "CVE-2026-101064 — Obot before v0",
+  "key": "86554f1c4174705070c7f0be9c21c4e672108496"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-101065 — Obot is an open-source AI agent/MCP platform",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101065",
+  "published": "2026-09-27T21:17:02.027",
+  "summary": "Obot is an open-source AI agent/MCP platform. In all versions up to and including commit d7e6970, the Docker quickstart command documented in the README starts the container listening on 0.0.0.0:8080 with authentication disabled by default. When authentication is disabled, every request is mapped to a synthetic \"nobody\" user that holds the Owner and Admin roles, so any unauthenticated party who can reach the exposed port obtains full administrative access to the Obot API and UI, including the ability to register and launch attacker-controlled MCP servers. Because the quickstart also mounts /va",
+  "categories": [
+   "ai",
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-101065",
+   "cvss": 9.8,
+   "ref": "https://github.com/obot-platform/obot/security/advisories/GHSA-jj4w-pfgv-4mrm"
+  },
+  "title_vi": "CVE-2026-101065 — Obot is an open-source AI agent/MCP platform",
+  "key": "e86ae6a298b457d1f494a18c748bc1225158d335"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-101084 — obot versions before v0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101084",
+  "published": "2026-09-27T21:17:02.163",
+  "summary": "obot versions before v0.21.1 fail to enforce Access Control Rules on the /mcp-connect endpoint, allowing any authenticated user to connect to restricted MCP servers if they possess the server ID. Attackers can bypass authorization checks to access and manipulate sensitive backend systems through MCP tool calls using stored OAuth credentials.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-101084",
+   "cvss": 9.6,
+   "ref": "https://github.com/obot-platform/obot/security/advisories/GHSA-vw82-7fv8-r6gp"
+  },
+  "title_vi": "CVE-2026-101084 — obot versions before v0",
+  "key": "32acdd97348933db4652cefba9352c841e11edec"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-101085 — Nezha before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101085",
+  "published": "2026-09-27T21:17:02.307",
+  "summary": "Nezha before 2.3.8 fails to validate alert rule type and duration bounds, allowing authenticated non-administrator users to create malformed rules that trigger unrecovered panics in the alert evaluator goroutine. Attackers can submit a crafted alert rule via the POST /api/v1/alert-rule endpoint to crash the dashboard process, which persists the rule and causes repeated crashes on restart, disabling all monitoring and control plane functionality.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-101085",
+   "cvss": 6.5,
+   "ref": "https://github.com/nezhahq/nezha/security/advisories/GHSA-2qc6-x993-hjq9"
+  },
+  "title_vi": "CVE-2026-101085 — Nezha before 2",
+  "key": "4e332fd97726b0660c6fa18d03be589f664134c6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-101086 — Nezha Dashboard versions before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101086",
+  "published": "2026-09-27T21:17:02.450",
+  "summary": "Nezha Dashboard versions before 2.3.5 fail to restrict service monitor task types to supported probe types, allowing authenticated users with nezha:service:write scope to submit privileged task types through the service API. Attackers can deliver command execution or Agent configuration tasks to Agents within their authorization scope by exploiting the shared protobuf Task.Type namespace between service monitors and privileged operations.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-101086",
+   "cvss": 6.5,
+   "ref": "https://github.com/nezhahq/nezha/commit/38824dbc11a63964c5b9296ae4c68e62b34fa04b"
+  },
+  "title_vi": "CVE-2026-101086 — Nezha Dashboard versions before 2",
+  "key": "b16438b987c2ce80293f26c3953307eabb329e81"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-101087 — Nezha versions 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101087",
+  "published": "2026-09-27T21:17:02.587",
+  "summary": "Nezha versions 2.0.10 through 2.3.2 use a restricted HTTP client to validate user-configurable notification and DDNS webhook URLs, but the denylist did not cover IPv6 transition ranges — specifically the 6to4 prefix 2002::/16 and the local-use IPv4/IPv6 translation prefix 64:ff9b:1::/48. Because such addresses satisfy Go's netip.Addr.IsGlobalUnicast check, the URL validator accepted them. An authenticated user able to configure a webhook may be able to cause the dashboard to issue requests to an otherwise restricted IPv6 endpoint, but only where the dashboard's network provides unusual or non-",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-101087",
+   "cvss": 4.3,
+   "ref": "https://github.com/nezhahq/nezha/commit/d1fcde8e"
+  },
+  "title_vi": "CVE-2026-101087 — Nezha versions 2",
+  "key": "18c815ed708e9174473f55f96366c42e31dee551"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-101088 — Nezha is a server and website monitoring tool",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101088",
+  "published": "2026-09-27T21:17:02.727",
+  "summary": "Nezha is a server and website monitoring tool. In versions >= 2.2.11 and < 2.3.1, the service sentinel worker (service/singleton/servicesentinel.go) contains an incomplete fix for a previously reported nil dereference denial of service (GHSA-qjpp-gffx-2wm9). The 2026-07-21 fix re-validated the service lifecycle under serviceResponseDataStoreLock but reused an already-captured, now stale reporter pointer and never re-validated the server, and that lock does not guard ServerShared. An authenticated user with the member role who owns an agent can issue a concurrent server delete (POST /api/v1/bat",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-101088",
+   "cvss": 5.3,
+   "ref": "https://github.com/nezhahq/nezha/security/advisories/GHSA-jx78-55p5-rwv5"
+  },
+  "title_vi": "CVE-2026-101088 — Nezha is a server and website monitoring tool",
+  "key": "e6dc2b25539df3cac6a13290624ebb5cd9b42775"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-101089 — Nezha before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101089",
+  "published": "2026-09-27T21:17:02.870",
+  "summary": "Nezha before 2.2.7 contains an information disclosure vulnerability in the GET /api/v1/profile endpoint that returns the bcrypt-hashed password field of authenticated users. Attackers can extract password hashes and perform offline cracking attacks without rate limiting or audit trail constraints.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-101089",
+   "cvss": 3.1,
+   "ref": "https://github.com/nezhahq/nezha/security/advisories/GHSA-8jhq-g4gw-rv5f"
+  },
+  "title_vi": "CVE-2026-101089 — Nezha before 2",
+  "key": "0176d027ffcf25f31b7fb6f1423e0ca62ebfd63c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-101090 — Nezha 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101090",
+  "published": "2026-09-27T21:17:03.003",
+  "summary": "Nezha 2.2.3 contains a Host header injection regression in the OAuth2 redirect endpoint. When the new optional dashboard_host setting is empty, /api/v1/oauth2/{provider} (cmd/dashboard/controller/oauth2.go) reflects the attacker-supplied HTTP Host header into the redirect_uri sent to the identity provider instead of falling back to the configured install_host. An attacker who induces a victim to begin OAuth2 login via a request that reaches Nezha with a forged Host header can cause an attacker-controlled callback URL to be used as the redirect_uri; if the OAuth2 provider accepts it, the victim",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-101090",
+   "cvss": 9.8,
+   "ref": "https://github.com/nezhahq/nezha/security/advisories/GHSA-rf68-8gjr-36q7"
+  },
+  "title_vi": "CVE-2026-101090 — Nezha 2",
+  "key": "2e163182f3a8a6ba3ca19359a845f7c7348b4e3c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-96280 — The OCI delta stream parser read sizes as guint64 but passed them to GLib I/O and allocation functions expecting gsize (32 bits on 32-bit systems), ca",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96280",
+  "published": "2026-09-27T21:17:04.200",
+  "summary": "The OCI delta stream parser read sizes as guint64 but passed them to GLib I/O and allocation functions expecting gsize (32 bits on 32-bit systems), causing undersized allocations while subsequent operations use the original 64-bit size, leading to heap buffer overflows. An attacker controlling an OCI registry can craft a delta stream that triggers this during flatpak install/update, potentially achieving code execution on 32-bit systems.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-96280",
+   "cvss": 7.5,
+   "ref": "https://access.redhat.com/security/cve/CVE-2026-96280"
+  },
+  "title_vi": "CVE-2026-96280 — The OCI delta stream parser read sizes as guint64 but passed them to GLib I/O and allocation functions expecting gsize (32 bits on 32-bit systems), ca",
+  "key": "436c6ff1c526d463b20dde6922c88eb155b593a8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-96281 — On a multi-user system, a user with an active local login session could downgrade a system-wide Flatpak app to an older version by removing the app's ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96281",
+  "published": "2026-09-27T21:17:04.330",
+  "summary": "On a multi-user system, a user with an active local login session could downgrade a system-wide Flatpak app to an older version by removing the app's remote ref via the unprivileged system-helper RemoveLocalRef method, causing the anti-downgrade check to fail to find a reference date. A malicious local user could use this to expose other users of the same system to an app version with unfixed vulnerabilities.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-96281",
+   "cvss": 6.2,
+   "ref": "https://access.redhat.com/security/cve/CVE-2026-96281"
+  },
+  "title_vi": "CVE-2026-96281 — On a multi-user system, a user with an active local login session could downgrade a system-wide Flatpak app to an older version by removing the app's ",
+  "key": "5e4c4b246f685df99de64091770eca729d3a51bd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-100881 — A security vulnerability has been detected in zhistaredu StarTraining up to 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100881",
+  "published": "2026-09-27T22:17:05.047",
+  "summary": "A security vulnerability has been detected in zhistaredu StarTraining up to 3.8.1. This issue affects some unknown processing of the file application.yml. Such manipulation of the argument xss.enabled leads to cross site scripting. It is possible to launch the attack remotely. Attacks of this nature are highly complex. The exploitability is assessed as difficult. The exploit has been disclosed publicly and may be used. Not independently exploitable: a defense-in-depth absence that amplifies CVE-2026-100880. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-100881",
+   "cvss": 2.6,
+   "ref": "https://github.com/ArrestX/startraining-advisories/blob/main/advisories/ST-VULN-007-xss-filter-disabled.md"
+  },
+  "title_vi": "CVE-2026-100881 — A security vulnerability has been detected in zhistaredu StarTraining up to 3",
+  "key": "cfdbbddb1c9c175c0d8375efa587e4b9aaf3687c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-100882 — A vulnerability was detected in Krayin laravel-crm up to 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100882",
+  "published": "2026-09-27T22:17:06.123",
+  "summary": "A vulnerability was detected in Krayin laravel-crm up to 2.2.5. Impacted is an unknown function of the file packages/Webkul/Admin/src/Resources/views/components/layouts/index.blade.php of the component Admin Settings Endpoint. Performing a manipulation of the argument general.settings.footer.label results in cross site scripting. The attack can be initiated remotely. The exploit is now public and may be used. Upgrading to version 2.2.6 is recommended to address this issue. The patch is named 6dbcf75b30dbd169ee81b7e9e00368099124efeb. You should upgrade the affected component.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-100882",
+   "cvss": 2.4,
+   "ref": "https://github.com/carlosalbertotuma/advisory/blob/main/advisory-04-stored-xss-via-footer.md"
+  },
+  "title_vi": "CVE-2026-100882 — A vulnerability was detected in Krayin laravel-crm up to 2",
+  "key": "dd4452503b120235cf63bd334791635fb11b8ab3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-96282 — A malicious Flatpak extension can probe the host filesystem to determine what files and directories exist at arbitrary paths, and host directory listi",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96282",
+  "published": "2026-09-27T22:17:06.430",
+  "summary": "A malicious Flatpak extension can probe the host filesystem to determine what files and directories exist at arbitrary paths, and host directory listings can be disclosed to sandboxed applications using the extension. Additionally, unvalidated extension metadata can cause extension content to be mounted at unintended locations inside the sandbox.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-96282",
+   "cvss": 3.1,
+   "ref": "https://access.redhat.com/security/cve/CVE-2026-96282"
+  },
+  "title_vi": "CVE-2026-96282 — A malicious Flatpak extension can probe the host filesystem to determine what files and directories exist at arbitrary paths, and host directory listi",
+  "key": "4f116dbb1ffd2ec7c4becd01863e0c35a7cb346a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-96283 — By calling org",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96283",
+  "published": "2026-09-27T22:17:06.557",
+  "summary": "By calling org.freedesktop.Flatpak.SystemHelper.CancelPull on another user's pull, the pull is not actually cancelled but removed from internal tracking, making it impossible for the owning user to stop it. Ongoing pulls cannot be stopped.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-96283",
+   "cvss": 3.3,
+   "ref": "https://access.redhat.com/security/cve/CVE-2026-96283"
+  },
+  "title_vi": "CVE-2026-96283 — By calling org",
+  "key": "55bf00c05ae62c152abf1f9b2908df9c528be2da"
+ },
+ {
   "source": "VietnamPlus Kinh tế số",
   "title": "Anh bắt 5 người nghi âm mưu khủng bố gần căn cứ không quân Mỹ",
   "link": "https://www.vietnamplus.vn/anh-bat-5-nguoi-nghi-am-muu-khung-bo-gan-can-cu-khong-quan-my-post1138648.vnp",
@@ -29426,7 +30574,7 @@
    "cvss": null,
    "ref": "https://gerrit.wikimedia.org/r/c/mediawiki/extensions/ExternalData/+/1326012"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100382 — Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') vulnerability in Wikimedia Foundation Mediawiki - ExternalD",
   "key": "70480371cd0bb2352151530b114240b077f67fea"
  },
  {
@@ -29444,7 +30592,7 @@
    "cvss": null,
    "ref": "https://gerrit.wikimedia.org/r/c/mediawiki/extensions/WikiLambda/+/1326391"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100383 — Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in Wikimedia Foundation Mediawiki - WikiLamb",
   "key": "fdfa81dc0147690a6a644731be1d5bdf2da4a42c"
  },
  {
@@ -29462,7 +30610,7 @@
    "cvss": 5.3,
    "ref": "https://github.com/pawelmalak/flame"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100418 — Flame through 2",
   "key": "5fe7eb47845c24728c12134751566deae52d51ac"
  },
  {
@@ -29480,7 +30628,7 @@
    "cvss": 7.0,
    "ref": "https://github.com/GitoxideLabs/gitoxide"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100419 — gitoxide gix-fs before 0",
   "key": "b7c53f5afc3b630f67b96e8efb1ac2915ccfc356"
  },
  {
@@ -29498,7 +30646,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/pawelmalak/flame"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100501 — Flame through 2",
   "key": "4071851aa2b9f1ff8e8e4f0a148a94d37301b5b3"
  },
  {
@@ -29516,7 +30664,7 @@
    "cvss": 5.0,
    "ref": "https://github.com/pawelmalak/flame"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100502 — Flame through 2",
   "key": "015162ae99e1e286711971a71eca20ee71fb8292"
  },
  {
@@ -29534,7 +30682,7 @@
    "cvss": null,
    "ref": ""
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-45234 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
   "key": "77366b00faa0d899ec4271dbedcbac4c3cd3ebde"
  },
  {
@@ -73134,1199 +74282,5 @@
   },
   "title_vi": "",
   "key": "ad6d04a0539e98d3ea15f210e68e10321e08fd6c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84683 — A flaw was found in Red Hat Ansible Automation Platform's automation- controller",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84683",
-  "published": "2026-09-23T20:17:17.403",
-  "summary": "A flaw was found in Red Hat Ansible Automation Platform's automation-\ncontroller. The HTML view of job, ad hoc command, project update, and inventory\nupdate standard output escapes HTML metacharacters but does not remove ANSI\nterminal escape sequences before conversion to HTML. An ANSI OSC 8 hyperlink\nsequence in the output is expanded into an HTML anchor whose href is not scheme-\nfiltered or escaped, so a low-privileged user who can produce output -- or an\nexternal party whose data a playbook echoes -- can embed a javascript: link that\nis rendered into a text/html response with no Content-Sec",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84683",
-   "cvss": 8.7,
-   "ref": "https://access.redhat.com/errata/RHSA-2026:71113"
-  },
-  "title_vi": "",
-  "key": "e07df7d89d55faf06a74cd8d3fcfd8b8caa46f15"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84691 — A flaw was found in Red Hat Ansible Automation Platform's automation- controller",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84691",
-  "published": "2026-09-23T20:17:17.537",
-  "summary": "A flaw was found in Red Hat Ansible Automation Platform's automation-\ncontroller. The setting that formats the log message emitted for API 4XX errors\nis an administrator-controlled Python format-string template that is rendered\nwith a live user object as an argument. Because Python string formatting permits\nattribute and item traversal on its arguments, an administrator can craft a\ntemplate that walks from the user object into the application settings and reads\nthe Django secret key and the database password. The formatted message is written\nto a logger that can be forwarded to an external log",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84691",
-   "cvss": 8.7,
-   "ref": "https://access.redhat.com/errata/RHSA-2026:71113"
-  },
-  "title_vi": "",
-  "key": "3a8e2c372b17c56508d34c325777af7aa730a8d2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84706 — A flaw was found in Ansible Automation Platform's automation-controller",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84706",
-  "published": "2026-09-23T20:17:17.677",
-  "summary": "A flaw was found in Ansible Automation Platform's automation-controller. The custom\nCredential Type environment-variable injector validates variable names against a\ndeny-list (an ANSIBLE_* prefix check plus a fixed ENV_BLOCKLIST) that omits\nprocess-hijacking loader variables such as BASH_ENV, ENV, LD_PRELOAD, LD_LIBRARY_PATH,\nPYTHONSTARTUP and GIT_SSH_COMMAND. Combined with the credential file injector, a\nprivileged user can write an attacker-controlled script into the execution environment\nand point BASH_ENV at it, obtaining arbitrary code execution inside the\nexecution-environment container ",
-  "categories": [
-   "cloud",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84706",
-   "cvss": 7.6,
-   "ref": "https://access.redhat.com/errata/RHSA-2026:71113"
-  },
-  "title_vi": "",
-  "key": "bd258edc92ef520d015543e6c0f1268c236a82e0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84712 — A flaw was found in the automation-controller API",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84712",
-  "published": "2026-09-23T20:17:17.817",
-  "summary": "A flaw was found in the automation-controller API. The\n                  unauthenticated health-check endpoint /api/v2/ping/\n                  (ApiV2PingView, AllowAny) over-serializes RBAC-gated\n                  automation-mesh data into its anonymous response, exposing the\n                  full instance inventory (node hostnames, node types, UUIDs,\n                  heartbeats, capacities, and exact versions), all instance-group\n                  names and membership, the deployment install UUID, and the\n                  active control node. A remote, unauthenticated attacker can use\n    ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84712",
-   "cvss": 5.3,
-   "ref": "https://access.redhat.com/security/cve/CVE-2026-84712"
-  },
-  "title_vi": "",
-  "key": "15f55a713dc9c017f598f90366647eeec3ae64ef"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84713 — A flaw was found in the automation-controller notification subsystem",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84713",
-  "published": "2026-09-23T20:17:17.950",
-  "summary": "A flaw was found in the automation-controller notification\n                  subsystem. Although NotificationTemplate.notification_\n                  configuration is protected from API filtering, its recipient\n                  value is copied in clear text into the unprotected\n                  Notification.recipients field on every send. Because the\n                  credential-types endpoint is listable by any authenticated\n                  user and the API filter backend traverses object relations\n                  without per-hop authorization, a user with no privileges can\n            ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84713",
-   "cvss": 6.5,
-   "ref": "https://access.redhat.com/security/cve/CVE-2026-84713"
-  },
-  "title_vi": "",
-  "key": "5c90a15b52fa59893f2455ab2acf256e01b30f5b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84714 — A flaw was found in the automation-controller input-validation guard sanitize_jinja()",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84714",
-  "published": "2026-09-23T20:17:18.083",
-  "summary": "A flaw was found in the automation-controller input-validation\n                  guard sanitize_jinja(). The function uses two regular\n                  expressions to reject user-supplied Jinja, but the patterns\n                  stop at the first interior '}' or '%' character, so a Jinja\n                  expression containing an inner brace (for example an empty\n                  dict) is accepted while remaining valid Jinja. Because\n                  sanitize_jinja() is the sole guard on several launch-time\n                  fields — ad-hoc command module_args, Machine-credential\n         ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84714",
-   "cvss": 7.1,
-   "ref": "https://access.redhat.com/errata/RHSA-2026:71113"
-  },
-  "title_vi": "",
-  "key": "9ae2cb1d8749ca80d07deae5ce827103577b95b7"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84716 — A flaw was found in the automation-controller instance install-bundle endpoint",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84716",
-  "published": "2026-09-23T20:17:18.210",
-  "summary": "A flaw was found in the automation-controller instance\n                  install-bundle endpoint. When a System Administrator downloads\n                  an execution/hop node's install bundle, the controller signs an\n                  X.509 certificate with the receptor mesh certificate authority\n                  in which the Common Name, DNS subject-alternative-name, and\n                  receptor node-id are taken verbatim from the caller-chosen\n                  instance hostname, with a hard-coded ten-year validity, a random\n                  serial, and no issuance log or revocation lis",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84716",
-   "cvss": 6.6,
-   "ref": "https://access.redhat.com/security/cve/CVE-2026-84716"
-  },
-  "title_vi": "",
-  "key": "46182ecd3e0f0dd2438e87b7f6fc3f6d873258af"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84717 — A flaw was found in the Ansible Automation Platform automation-controller",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84717",
-  "published": "2026-09-23T20:17:18.353",
-  "summary": "A flaw was found in the Ansible Automation Platform automation-controller. The unauthenticated\nBitbucket Data Center webhook receiver skips HMAC signature verification for diagnostics:ping\nevents after it has already looked up the target template, causing the endpoint to return HTTP\n200 for a template that has a Bitbucket DC webhook configured and HTTP 403 otherwise. An\nunauthenticated remote attacker can use this response discrepancy as an oracle to enumerate\nwhich Job Template and Workflow Job Template IDs have Bitbucket DC webhooks configured, without\nknowing the secret webhook_key.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84717",
-   "cvss": 5.3,
-   "ref": "https://access.redhat.com/security/cve/CVE-2026-84717"
-  },
-  "title_vi": "",
-  "key": "1695fce68ab9983d30bf86c1545c675036230265"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84718 — A flaw was found in the Ansible Automation Platform automation-controller",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84718",
-  "published": "2026-09-23T20:17:18.487",
-  "summary": "A flaw was found in the Ansible Automation Platform automation-controller. In the shipped\nproduction configuration, the Controller trusts the client-supplied X-Forwarded-For header as\nthe request's client IP without verifying that it originated from a trusted proxy, and selects\nthe leftmost (attacker-controlled) header value. As a result, an attacker can forge the source\nIP address recorded for their requests in the Controller's audit and access logs, degrading\nthe integrity of forensic and SIEM attribution. The flaw does not grant additional access.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84718",
-   "cvss": 4.3,
-   "ref": "https://access.redhat.com/security/cve/CVE-2026-84718"
-  },
-  "title_vi": "",
-  "key": "9c4ac82cf773fb72371be000d5fbf4a0493b8152"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84719 — A flaw was found in the Ansible Automation Platform automation-controller",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84719",
-  "published": "2026-09-23T20:17:18.617",
-  "summary": "A flaw was found in the Ansible Automation Platform automation-controller. When a\nWorkflowJobTemplate is copied, the deep-copy permission sanitizer validates only the inventory,\nunified_job_template, and credentials of each cloned node and fails to check the instance_groups\n(and execution_environment and labels) that were preserved from the original. A user with\norganization workflow-admin permission but no role on the referenced instance groups can copy a\nworkflow, become its administrator, and launch jobs pinned to instance groups they are not\nauthorized to use — including the control-plane ",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84719",
-   "cvss": 9.9,
-   "ref": "https://access.redhat.com/errata/RHSA-2026:71113"
-  },
-  "title_vi": "",
-  "key": "c325c4f3b2edfbf182694e558f4222b8a54e9b56"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84720 — A flaw was found in the Ansible Automation Platform automation-controller",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84720",
-  "published": "2026-09-23T20:17:18.753",
-  "summary": "A flaw was found in the Ansible Automation Platform automation-controller. The\nWorkflowJobNode.ancestor_artifacts database column, which stores the raw merged set_stats\nartifacts propagated between workflow nodes, is not wrapped in prevent_search() and is therefore\naccepted for arbitrary field lookups by the REST filter backend, even though it is omitted from\nthe API serializer. Because the column is persisted before Ansible's no_log masking is applied,\na user with only read access to a workflow — or, via a regular-expression lookup that bypasses\nthe JSON cross-relation filter guard through th",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84720",
-   "cvss": 6.5,
-   "ref": "https://access.redhat.com/security/cve/CVE-2026-84720"
-  },
-  "title_vi": "",
-  "key": "2e1e28da209ba19bd6787c33544b15c8f90e45bc"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84721 — A server-side request forgery flaw was found in the Ansible Automation Platform automation-controller email notification backend",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84721",
-  "published": "2026-09-23T20:17:18.890",
-  "summary": "A server-side request forgery flaw was found in the Ansible Automation Platform\nautomation-controller email notification backend. The email backend passes the user-supplied SMTP\nhost and port from a notification template directly to the SMTP client without validating that\nthe target is not an internal, loopback, link-local, or reserved address. An authenticated user\nwith organization notification-admin permission can create or modify an email notification\ntemplate pointing at an arbitrary internal address, trigger a test, and have the controller task\nprocess open a raw TCP connection to that a",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84721",
-   "cvss": 6.4,
-   "ref": "https://access.redhat.com/security/cve/CVE-2026-84721"
-  },
-  "title_vi": "",
-  "key": "026267c50805d0c4cf4ed7bd1c0459b108069b1b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84724 — An argument-injection flaw was found in the Ansible Automation Platform automation-controller system-job subsystem",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84724",
-  "published": "2026-09-23T20:17:19.033",
-  "summary": "An argument-injection flaw was found in the Ansible Automation Platform automation-controller\nsystem-job subsystem. The system-job template launch endpoint stores a user-supplied \"days\"\nvariable without running the integer validation defined elsewhere for that field, and the\ndispatcher flattens the management-command argument list into a single string with spaces before\nthe job runner re-splits it, so spaces in the value become additional command-line arguments.\nBecause system jobs are executed in-process on the control node without the container isolation\napplied to all other job types, an au",
-  "categories": [
-   "cloud",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84724",
-   "cvss": 6.6,
-   "ref": "https://access.redhat.com/security/cve/CVE-2026-84724"
-  },
-  "title_vi": "",
-  "key": "8258b03c2aa8eaf5f551d71b7821d35751dcb8c7"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-85475 — A flaw was found in the Ansible Automation Platform automation controller",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85475",
-  "published": "2026-09-23T20:17:19.343",
-  "summary": "A flaw was found in the Ansible Automation Platform automation controller. The\nexternal logging (rsyslog) configuration is generated by interpolating\nuser-controlled settings — LOG_AGGREGATOR_HOST, LOG_AGGREGATOR_MAX_DISK_USAGE_PATH\nand LOG_AGGREGATOR_RSYSLOGD_ERROR_LOG_FILE — into an rsyslog RainerScript config\nfile without neutralizing RainerScript syntax. A privileged (superuser) user can\ninject rsyslog directives, including an omprog action, causing arbitrary command\nexecution inside the control-plane rsyslog component. This allows disclosure of\nthe controller SECRET_KEY and database crede",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-85475",
-   "cvss": 7.2,
-   "ref": "https://access.redhat.com/security/cve/CVE-2026-85475"
-  },
-  "title_vi": "",
-  "key": "7a1fba32feef2c581737859e35ec348570217d63"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-86064 — Klever-Go is the Go implementation of the Klever blockchain protocol",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86064",
-  "published": "2026-09-23T20:17:19.960",
-  "summary": "Klever-Go is the Go implementation of the Klever blockchain protocol. Prior to 1.7.20, the default-open GET /log WebSocket route configured in config/node/api.yaml and registered by network/api/api.go does not require authentication. The first client message is parsed as a logger Profile in network/api/logs/logSender.go and applied process-wide through Profile.Apply, allowing a remote client to change global log levels and formatting options until the connection closes. The same connection is registered as a log observer and can receive live process logs. An attacker can suppress normal logs, ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-86064",
-   "cvss": 8.6,
-   "ref": "https://github.com/klever-io/klever-go/commit/a2740c985a788fb69e17742ea4f0c37c440733b2"
-  },
-  "title_vi": "",
-  "key": "7aec6461176606eca447c6973ec66e4bd2cf9f6a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-86065 — Klever-Go is the Go implementation of the Klever blockchain protocol",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86065",
-  "published": "2026-09-23T20:17:20.160",
-  "summary": "Klever-Go is the Go implementation of the Klever blockchain protocol. Prior to 1.7.20, the default-open GET /subscribe endpoint in network/api/websocket/routes.go accepts unauthenticated WebSocket clients with permissive origin handling, does not call SetReadLimit to bound message size, and has no live-connection cap. SocketHub.HandleClientInsertion also accepts an unbounded address list that grows addressSubscription, and client.loopIn continues reading without a size limit, allowing one client to grow subscription maps or many clients to retain goroutines, buffered channels, and descriptors.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-86065",
-   "cvss": 7.5,
-   "ref": "https://github.com/klever-io/klever-go/commit/b8af922e749ec1fa7451b2c6e7c9f634d8603be2"
-  },
-  "title_vi": "",
-  "key": "8cc5c069292d218c0fb5a235de3b460fe992294b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-87898 — OS command injection in Plesk allows remote authenticated users to execute arbitrary code with root privileges",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87898",
-  "published": "2026-09-23T20:17:20.340",
-  "summary": "OS command injection in Plesk allows remote authenticated users to execute arbitrary code with root privileges.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-87898",
-   "cvss": null,
-   "ref": "https://support.plesk.com/hc/en-us/articles/43641151026583"
-  },
-  "title_vi": "",
-  "key": "22fc478faf70a209f519f2f2652619eb2f0cef93"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-87899 — Execution with unnecessary privileges in cPanel allows remote authenticated users to execute arbitrary code with root privileges",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87899",
-  "published": "2026-09-23T20:17:20.480",
-  "summary": "Execution with unnecessary privileges in cPanel allows remote authenticated users to execute arbitrary code with root privileges.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-87899",
-   "cvss": null,
-   "ref": "https://support.cpanel.net/hc/en-us/articles/43591715125271"
-  },
-  "title_vi": "",
-  "key": "30abda156ae1fa48e87e6aa60d2951fd60988f40"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-87900 — Argument injection in WP Toolkit for cPanel 6",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87900",
-  "published": "2026-09-23T20:17:20.613",
-  "summary": "Argument injection in WP Toolkit for cPanel 6.11.2-10794 and earlier allows remote authenticated users to read arbitrary files and execute arbitrary code across customer accounts.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-87900",
-   "cvss": null,
-   "ref": "https://support.cpanel.net/hc/en-us/articles/43597969409943"
-  },
-  "title_vi": "",
-  "key": "a8281091ba41e963975d7452a4c16f03d621cbe5"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-94183 — Arc Search for Android before version 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94183",
-  "published": "2026-09-23T20:17:23.907",
-  "summary": "Arc Search for Android before version 1.12.10 does not display a fullscreen notification when a page enters fullscreen mode while the app is running in the background. A remote attacker can exploit this via a specially crafted website to render fake UI elements, such as a spoofed address bar, misleading the user about the origin of displayed content and increasing the risk of phishing.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-94183",
-   "cvss": 7.4,
-   "ref": "https://arc.net/security/bulletins#cve-2026-94183-address-bar-spoof-risk-missing-fullscreen-notification-on-return-from-background"
-  },
-  "title_vi": "",
-  "key": "56785047680e080195188a9840f02fb2d500d269"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-96550 — A vulnerability was found in sfturing hosp_order up to 627f426331da8086ce8fff2017d65b1ddef384f8",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96550",
-  "published": "2026-09-23T20:17:26.350",
-  "summary": "A vulnerability was found in sfturing hosp_order up to 627f426331da8086ce8fff2017d65b1ddef384f8. This issue affects the function getProperties of the file ssm_pro/src/main/java/cn/sfturing/utils/MailUtil.java. Performing a manipulation results in cleartext transmission of sensitive information. The attack can be initiated remotely. The complexity of an attack is rather high. The exploitability is assessed as difficult. The exploit has been made public and could be used. Continious delivery with rolling releases is used by this product. Therefore, no version details of affected nor updated rele",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-96550",
-   "cvss": 3.7,
-   "ref": "https://github.com/sfturing/hosp_order/"
-  },
-  "title_vi": "",
-  "key": "646f7f14a5e67965a538a651d40232e5435d47ed"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-96551 — A vulnerability was determined in sfturing hosp_order up to 627f426331da8086ce8fff2017d65b1ddef384f8",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96551",
-  "published": "2026-09-23T20:17:26.547",
-  "summary": "A vulnerability was determined in sfturing hosp_order up to 627f426331da8086ce8fff2017d65b1ddef384f8. Impacted is an unknown function of the file ssm_pro/src/main/java/cn/sfturing/web/CommonUserController.java. Executing a manipulation can lead to cross-site request forgery. The attack can be launched remotely. The exploit has been publicly disclosed and may be utilized. This product does not use versioning. This is why information about affected and unaffected releases are unavailable. The project was informed of the problem early through an issue report but has not responded yet.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-96551",
-   "cvss": 4.3,
-   "ref": "https://github.com/sfturing/hosp_order/"
-  },
-  "title_vi": "",
-  "key": "5c850065cbb28ba9710b13a01e142f23f3c7adc3"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-96552 — A vulnerability was identified in sfturing hosp_order up to 627f426331da8086ce8fff2017d65b1ddef384f8",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96552",
-  "published": "2026-09-23T20:17:26.737",
-  "summary": "A vulnerability was identified in sfturing hosp_order up to 627f426331da8086ce8fff2017d65b1ddef384f8. The affected element is the function MD5.getMD5 of the file ssm_pro/src/main/java/cn/sfturing/utils/MD5.java of the component User Password Handler. The manipulation leads to one-way hash without salt. The attack may be initiated remotely. A high degree of complexity is needed for the attack. The exploitability is described as difficult. The exploit is publicly available and might be used. This product uses a rolling release model to deliver continuous updates. As a result, specific version in",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-96552",
-   "cvss": 3.1,
-   "ref": "https://github.com/sfturing/hosp_order/"
-  },
-  "title_vi": "",
-  "key": "cf4c13b417dc4576b203d740584372144ec8993f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-96826 — Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Shazzad Hossain Khan W4 Post List allows Blind S",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96826",
-  "published": "2026-09-23T20:17:27.333",
-  "summary": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Shazzad Hossain Khan W4 Post List allows Blind SQL Injection.\n\nThis issue affects W4 Post List: from n/a through 3.0.6.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-96826",
-   "cvss": 7.6,
-   "ref": "https://patchstack.com/database/wordpress/plugin/w4-post-list/vulnerability/wordpress-w4-post-list-plugin-3-0-6-sql-injection-vulnerability?_s_id=cve"
-  },
-  "title_vi": "",
-  "key": "f066a60dca02166e8743591fe09d7aa09a0dc1ef"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-96889 — A flaw was found in librsvg",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96889",
-  "published": "2026-09-23T20:17:27.587",
-  "summary": "A flaw was found in librsvg. When processing an SVG document containing nested XML inclusions (Xincludes) with duplicate entity declarations, a use-after-free error can occur. This vulnerability arises because the library incorrectly frees an XML entity that is still in use by the parser. An attacker could potentially exploit this to cause a denial of service or execute arbitrary code.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-96889",
-   "cvss": 7.8,
-   "ref": "https://access.redhat.com/security/cve/CVE-2026-96889"
-  },
-  "title_vi": "",
-  "key": "71b0c7f4fa8d4aa303423fff9974c8f99448d900"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-53968 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-53968",
-  "published": "2026-09-23T21:16:58.520",
-  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-53968",
-   "cvss": null,
-   "ref": ""
-  },
-  "title_vi": "",
-  "key": "8e96b1cdf9a2da0526b11bd55361059582e8959b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-53969 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-53969",
-  "published": "2026-09-23T21:16:58.600",
-  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-53969",
-   "cvss": null,
-   "ref": ""
-  },
-  "title_vi": "",
-  "key": "36e27ad5244a9d1efb9a04d3b5651589997bc6d0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-53978 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-53978",
-  "published": "2026-09-23T21:16:58.660",
-  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-53978",
-   "cvss": null,
-   "ref": ""
-  },
-  "title_vi": "",
-  "key": "bbf5e39275e76a535ee792750b32aea9ab3203ec"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-53979 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-53979",
-  "published": "2026-09-23T21:16:58.713",
-  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-53979",
-   "cvss": null,
-   "ref": ""
-  },
-  "title_vi": "",
-  "key": "5f14d5e8cfdf92245119e03e80020de0f22ea28d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-66067 — RabbitMQ is a messaging and streaming broker",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66067",
-  "published": "2026-09-23T21:16:58.783",
-  "summary": "RabbitMQ is a messaging and streaming broker. Prior to versions 4.2.7 and 4.3.1, The stream open handler calls only check_vhost_access; it omits the node/vhost/user connection-limit checks that rabbit_reader performs for AMQP. A developer %% FIXME comment at the cited line explicitly acknowledges the gap. No compensating enforcement exists in connection tracking or elsewhere in rabbitmq_stream. An authenticated tenant can fully bypass operator-configured per-user and per-vhost connection caps by connecting via port 5552 instead of 5672. Preconditions include rabbitmq_stream plugin enabled Auth",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-66067",
-   "cvss": null,
-   "ref": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.2.7"
-  },
-  "title_vi": "",
-  "key": "93a6d57d05495b13d51e3388523b12d34ae8e6cd"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-66068 — RabbitMQ is a messaging and streaming broker",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66068",
-  "published": "2026-09-23T21:16:58.930",
-  "summary": "RabbitMQ is a messaging and streaming broker. Prior to versions 3.13.15, 4.0.20, 4.1.11, 4.2.6, and 4.3.0, ?LOG_DEBUG(\"shutting down Shovel '~ts', ... Shovel state: ~tp\", [Name, State]) formats the entire state map. The 'uris' field holds plaintext URIs after credentials_obfuscation:decrypt (called in rabbit_shovel_util:deobfuscated_uris/2). No format_status/1,2 callback exists in rabbit_shovel_worker to redact it. Triggered when an autodelete shovel (src-delete-after = N) completes. With DEBUG logging enabled, autodelete-shovel completion writes the full shovel state map , including decrypted",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-66068",
-   "cvss": null,
-   "ref": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.2.6"
-  },
-  "title_vi": "",
-  "key": "408f1a1c5bbbd8ab73d5f64045155e358031f164"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-66069 — RabbitMQ is a messaging and streaming broker",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66069",
-  "published": "2026-09-23T21:16:59.073",
-  "summary": "RabbitMQ is a messaging and streaming broker. Prior to versions 4.1.13, 4.2.7, and 4.3.0, is_authorized/2 uses is_authorized_monitor for all methods. DELETE resets rabbit_core_metrics:reset_auth_attempt_metrics(). Impact is cosmetic (counters only, no log erasure), but inconsistent with rabbit_mgmt_wm_reset.erl which requires admin for the analogous operation. A monitoring-tagged user can reset the per-node authentication-attempt counters via DELETE /api/auth/attempts/:node, erasing evidence of brute-force activity. The sibling endpoint wm_reset requires administrator. Preconditions include Ma",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-66069",
-   "cvss": null,
-   "ref": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.2.7"
-  },
-  "title_vi": "",
-  "key": "260769ade162e07a0ae5d2feeef59d8671796b81"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-66072 — RabbitMQ is a messaging and streaming broker",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66072",
-  "published": "2026-09-23T21:16:59.213",
-  "summary": "RabbitMQ is a messaging and streaming broker. Prior to versions 3.13.15, 4.0.20, 4.1.11, 4.2.6, and 4.3.1, get_chunk_selector/1 calls binary_to_atom on the raw client-supplied <<\"chunk_selector\">> property from post-auth subscribe and resolve_offset_spec frames, with no whitelist and no existing guard. An authenticated stream client with read access to any stream can crash the broker node. Preconditions include rabbitmq_stream plugin enabled Authenticated stream-protocol user with read access to at least one stream. This issue is fixed in versions 3.13.15, 4.0.20, 4.1.11, 4.2.6, and 4.3.1.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-66072",
-   "cvss": null,
-   "ref": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.2.6"
-  },
-  "title_vi": "",
-  "key": "82927956d86a84608a063cc807935228c7ddeb90"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-66074 — RabbitMQ is a messaging and streaming broker",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66074",
-  "published": "2026-09-23T21:16:59.357",
-  "summary": "RabbitMQ is a messaging and streaming broker. Prior to versions 3.13.15, 4.0.20, 4.1.11, 4.2.6, and 4.3.0, match_value/3 passes the user-supplied ?name= regular expression to re:run with no match_limit option, and executes it once per resource in the result set. OTP's default 10M match_limit caps each call at roughly 100-200ms, but the regex runs once per resource in the result set. With a large set, for example 5000 queues at 150ms each, a single request consumes 12 or more minutes of CPU. Parallel requests saturate the schedulers. The use_regex=true option is a supported feature on list endp",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-66074",
-   "cvss": null,
-   "ref": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.2.6"
-  },
-  "title_vi": "",
-  "key": "df18c7dff4dcc00b5bafbdc07cb54e515efb496a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-66075 — RabbitMQ is a messaging and streaming broker",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66075",
-  "published": "2026-09-23T21:16:59.500",
-  "summary": "RabbitMQ is a messaging and streaming broker. Prior to versions 3.13.15, 4.0.20, 4.1.11, 4.2.6, and 4.3.1, is_authorized/2 for the /federation-links/.../restart route uses is_authorized_monitor (accepts the monitoring tag), while allowed_methods permits DELETE and delete_resource/2 triggers rabbit_federation_link_sup:restart. There is no per-method elevation check and no comment marking it intentional. A read-only monitoring user can restart any federation link , a state-changing operation that disrupts message flow. Preconditions include rabbitmq_federation + rabbitmq_federation_management pl",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-66075",
-   "cvss": null,
-   "ref": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.2.6"
-  },
-  "title_vi": "",
-  "key": "d773230607dce1994d3cdf12c9ce8942b6a0860b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-66077 — RabbitMQ is a messaging and streaming broker",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66077",
-  "published": "2026-09-23T21:16:59.647",
-  "summary": "RabbitMQ is a messaging and streaming broker. Prior to versions 3.13.15, 4.0.20, 4.1.11, and 4.2.6, The management UI uses EJS 1.0 in which <%= ... %> does NOT HTML-escape. connection.ejs:135 renders <%= connection.ssl_details.peer_cert_subject %> (and peer_cert_issuer) directly into the page. The same pattern appears in streamConnection.ejs:102,106,110. The values come from rabbit_ssl:peer_cert_subject/1 which formats the DN as a string without HTML escaping. The verifier corrected the original researcher's claim: this is reachable only when the listener is configured with verify_peer (so the",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-66077",
-   "cvss": null,
-   "ref": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.2.6"
-  },
-  "title_vi": "",
-  "key": "ee3d83454b0593cba0302848b25fa0f7fca83a94"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-66080 — RabbitMQ is a messaging and streaming broker",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-66080",
-  "published": "2026-09-23T21:16:59.787",
-  "summary": "RabbitMQ is a messaging and streaming broker. Prior to versions 4.1.11, 4.2.6, and 4.3.0, validate_partitions only checks that the requested partition count is at least 1, with no upper bound. A large count such as lists:seq(0, 500000000) allocates roughly 8GB. Preconditions include The rabbitmq_stream_management plugin must be enabled. The caller needs the management tag and access to the target vhost.. This issue is fixed in versions 4.1.11, 4.2.6, and 4.3.0.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-66080",
-   "cvss": null,
-   "ref": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.2.6"
-  },
-  "title_vi": "",
-  "key": "6ccfa08dcae4924f4c6812716cc8619121324eb1"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-67218 — RabbitMQ is a messaging and streaming broker",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-67218",
-  "published": "2026-09-23T21:16:59.930",
-  "summary": "RabbitMQ is a messaging and streaming broker. Prior to versions 4.0.22, 4.1.11, 4.2.6, and 4.3.0, accept_content/2 at line 56 calls rabbit_stream_manager:create_super_stream/... directly after is_authorized (which only checks the management tag + vhost access via is_authorized_vhost). The stream-protocol equivalent (rabbit_stream_reader.erl create_super_stream handler) calls rabbit_stream_utils:check_super_stream_management_permitted/4 which enforces configure on the exchange and each partition queue. The HTTP handler omits this call entirely. A user with management tag and vhost access , but ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-67218",
-   "cvss": null,
-   "ref": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.2.6"
-  },
-  "title_vi": "",
-  "key": "dd4f9b47ab30d8a7de1ab139841a5cdf18f2558b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-67219 — RabbitMQ is a messaging and streaming broker",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-67219",
-  "published": "2026-09-23T21:17:00.073",
-  "summary": "RabbitMQ is a messaging and streaming broker. Prior to versions 3.13.15, 4.0.20, 4.1.11, 4.2.6, and 4.3.0, add_binding/3 parses the routing key as an integer weight N and computes ring positions with lists:seq(NextN0, NextN0 + N - 1). validate_binding/2 only checks N >= 1 , no upper bound. The resulting list is stored in the exchange's Khepri record, replicated cluster-wide, and reloaded on restart. A user with write permission on a consistent-hash exchange and read on a queue can create a binding whose routing key (the hash-ring weight) is an arbitrarily large integer. The broker allocates a ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-67219",
-   "cvss": null,
-   "ref": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.2.6"
-  },
-  "title_vi": "CVE-2026-67219 — RabbitMQ là một trung gian nhắn tin và truyền phát dữ liệu.",
-  "key": "a8e1583752dd54298bf435e27343841e67a0dd0c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-67220 — RabbitMQ is a messaging and streaming broker",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-67220",
-  "published": "2026-09-23T21:17:00.220",
-  "summary": "RabbitMQ is a messaging and streaming broker. Prior to versions 3.13.15, 4.0.20, 4.1.11, 4.2.6, 4.3.0, When a binding is created on an x-jms-topic exchange, add_binding/3 reads the rjms_erlang_selector argument and passes it through erl_scan:string/1 then erl_parse:parse_term/1. erl_scan:string/1 interns every atom literal it tokenizes. validate_binding/2 is a no-op (-> ok.), there is no length cap, and the surrounding try/catch cannot reclaim atoms. The Java JMS client compiles selectors client-side, but the server does not enforce this , a raw AMQP client can send arbitrary selector strings.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-67220",
-   "cvss": null,
-   "ref": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.2.6"
-  },
-  "title_vi": "CVE-2026-67220 — RabbitMQ là một sàn nhắn tin và phát trực tuyến",
-  "key": "481860433e3eb13249399b00ba30c25e3d9e1088"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-67221 — RabbitMQ is a messaging and streaming broker",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-67221",
-  "published": "2026-09-23T21:17:00.363",
-  "summary": "RabbitMQ is a messaging and streaming broker. Prior to versions 3.13.15, 4.0.20, 4.1.11, 4.2.6, and 4.3.0, The AMQP 0-9-1 shovel calls amqp_uri:remove_credentials before storing its connection URI, but the AMQP 1.0 shovel stores the raw URI including the password. The stored URI is visible via GET /api/shovels and via rabbitmqctl shovel_status. Preconditions include The Shovel plugin must be in use with AMQP 1.0 shovels configured using URI-embedded credentials. Reading the exposed status requires the monitoring tag.. This issue is fixed in versions 3.13.15, 4.0.20, 4.1.11, 4.2.6, and 4.3.0.",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-67221",
-   "cvss": null,
-   "ref": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.2.6"
-  },
-  "title_vi": "CVE-2026-67221 — RabbitMQ là một sàn nhắn tin và phát trực tuyến",
-  "key": "5ecfc4fa73c3c1c483e96d114ba378b995061a40"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-67224 — RabbitMQ is a messaging and streaming broker",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-67224",
-  "published": "2026-09-23T21:17:00.510",
-  "summary": "RabbitMQ is a messaging and streaming broker. Prior to versions 3.13.15, 4.0.20, 4.1.11, 4.2.6, and 4.3.1, The trace consumer constructs the output path as filename:join(TraceDir, Name ++ \".log\") where Name comes from PUT /api/traces/:vhost/:name. No safe_relative_path / traversal check is applied on the write side, while the read side (rabbit_tracing_files.erl) does call rabbit_misc:safe_relative_path/1 , proving the omission is an oversight, not design. The .log suffix is forced and the endpoint requires administrator. A user with the administrator tag can write a .log-suffixed file to an ar",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-67224",
-   "cvss": null,
-   "ref": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.2.6"
-  },
-  "title_vi": "CVE-2026-67224 — RabbitMQ là một sàn nhắn tin và phát trực tuyến",
-  "key": "16525eb5724bc40649138a24cb3d8530a0a7536d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-67228 — RabbitMQ is a messaging and streaming broker",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-67228",
-  "published": "2026-09-23T21:17:00.657",
-  "summary": "RabbitMQ is a messaging and streaming broker. Prior to versions 4.2.7 and 4.3.1, The runtime-parameters lookup path coerces the URL :component segment to an atom with rabbit_data_coercion:to_atom/1 in lookup_component/1 (deps/rabbit/src/rabbit_runtime_parameters.erl), creating a new atom for any previously unseen value. A safe helper, rabbit_registry:binary_to_type/1, which uses binary_to_existing_atom with a catch, already exists but is not used at this call site. lookup_component/1 calls rabbit_data_coercion:to_atom(Component) on the :component segment of the request URL, converting an attac",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-67228",
-   "cvss": null,
-   "ref": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.2.7"
-  },
-  "title_vi": "CVE-2026-67228 — RabbitMQ là một sàn nhắn tin và phát trực tuyến",
-  "key": "b61eeebfaddb07008b83f1e540854e4378c6ce1d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-67229 — RabbitMQ is a messaging and streaming broker",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-67229",
-  "published": "2026-09-23T21:17:00.800",
-  "summary": "RabbitMQ is a messaging and streaming broker. Prior to versions 3.13.15, 4.0.20, 4.1.11, 4.2.6, and 4.3.0, add_vhost/2 calls rabbit_data_coercion:atomize_keys/1 (the unsafe variant using binary_to_atom) on the vhost metadata map. The 20 MB management body limit fits ~1M+ short keys. Admin-only. An administrator importing a crafted definitions file can crash the node in a single request: a vhosts entry with ~1M unique metadata keys exhausts the atom table during import. Preconditions include administrator tag. This issue is fixed in versions 3.13.15, 4.0.20, 4.1.11, 4.2.6, and 4.3.0.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-67229",
-   "cvss": null,
-   "ref": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.2.6"
-  },
-  "title_vi": "CVE-2026-67229 — RabbitMQ là một sàn nhắn tin và phát trực tuyến",
-  "key": "8009fc61db3900e94a524f153285df595c2aa2ba"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-67231 — RabbitMQ is a messaging and streaming broker",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-67231",
-  "published": "2026-09-23T21:17:00.940",
-  "summary": "RabbitMQ is a messaging and streaming broker. Prior to versions 3.13.15, 4.0.20, 4.1.11, 4.2.6, and 4.3.0, The trust-store plugin installs a verify_fun that overrides {bad_cert, unknown_ca} / {bad_cert, selfsigned_peer} when the presented cert \"matches\" a whitelisted one. The match key is extract_issuer_id/1 → public_key:pkix_issuer_id/2 → {IssuerName, SerialNumber} , both fields are taken verbatim from the presented certificate body and contain no public-key, SKI, fingerprint or signature material. is_whitelisted/1 is a pure ets:member lookup; the stored full DER is used only for list/0 displ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-67231",
-   "cvss": null,
-   "ref": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.2.6"
-  },
-  "title_vi": "CVE-2026-67231 — RabbitMQ là một sàn nhắn tin và phát trực tuyến",
-  "key": "467b9a57d0295d0d7e8785e349d5dbd5d3dd0605"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-67232 — RabbitMQ is a messaging and streaming broker",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-67232",
-  "published": "2026-09-23T21:17:01.083",
-  "summary": "RabbitMQ is a messaging and streaming broker. Prior to versions 3.13.15, 4.0.20, 4.1.11, 4.2.6, and 4.3.0, The cowboy WebSocket options at line 117 set compress => true, enabling RFC 7692 permessage-deflate negotiation. The handler does not set max_frame_size, so cowboy's default of infinity applies. cowlib's cow_ws:parse_payload/9 calls zlib:inflate/2 on the compressed payload with no output-size limit. An attacker can negotiate permessage-deflate during the WebSocket upgrade and send a frame containing a zlib bomb (e.g. 50 KB → 5 GB). Decompression occurs in the connection process before web",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-67232",
-   "cvss": null,
-   "ref": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.2.6"
-  },
-  "title_vi": "CVE-2026-67232 — RabbitMQ là một sàn nhắn tin và phát trực tuyến",
-  "key": "1b1df14bf0c188a2bc882ab06c58f688968cb2ef"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-67235 — RabbitMQ is a messaging and streaming broker",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-67235",
-  "published": "2026-09-23T21:17:01.227",
-  "summary": "RabbitMQ is a messaging and streaming broker. Prior to versions 4.3.0, 4.2.6, 4.1.11, 4.0.20, and 3.13.15, The content-header BodySize (a uint64) was stored without validation against max_message_size. The size check ran only when assembly completed. By declaring body_size = 2^63-1 and then streaming fragments, a client ensured that check_msg_size never fired, so the accumulated body size went unbounded. A reader process accumulates memory until the memory alarm fires, degrading all publishers cluster-wide, or until the node runs out of memory. The memory alarm provides only partial mitigation",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-67235",
-   "cvss": null,
-   "ref": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.2.6"
-  },
-  "title_vi": "CVE-2026-67235 — RabbitMQ là một sàn nhắn tin và phát trực tuyến",
-  "key": "380c678fa3ce65d28b8f9bd85c1b5fae85b04b43"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-67240 — RabbitMQ is a messaging and streaming broker",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-67240",
-  "published": "2026-09-23T21:17:01.370",
-  "summary": "RabbitMQ is a messaging and streaming broker. Prior to versions 4.2.7 and 4.3.1, pattern_to_regex maps % -> .*? and _ -> ., then compiles ^...$ with only [unicode]; re:run is called with only [{capture, none}] - no explicit match_limit. A pattern like %_%_..._%X becomes ^.*?..*?.....*?.X$ with overlapping lazy quantifiers. The whole-expression cap is ?MAX_EXPRESSION_LENGTH=4096 chars / ?MAX_TOKENS=200; a LIKE string literal is one token, so ~2000 %_ pairs fit. SQL filters are accepted unconditionally at rabbit_amqp_session.erl:3264 (no feature flag). Evaluated per-message at rabbit_stream_queu",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-67240",
-   "cvss": null,
-   "ref": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.2.7"
-  },
-  "title_vi": "CVE-2026-67240 — RabbitMQ là một sàn nhắn tin và phát trực tuyến",
-  "key": "f9746020cfa91da8e1f8409ad1ea7fe977e631e4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-67404 — RabbitMQ is a messaging and streaming broker",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-67404",
-  "published": "2026-09-23T21:17:01.517",
-  "summary": "RabbitMQ is a messaging and streaming broker. Prior to versions 3.13.15, 4.0.20, 4.1.11, 4.2.6, and 4.3.0, When no CA bundle is available, ssl_options/1 falls back to [{verify, verify_none}] with no warning. An attacker in a man-in-the-middle position can forge the JWKS response, which leads the broker to accept arbitrary JWTs. Preconditions include The OAuth2 plugin must be in use with no cacertfile configured and the OS CA bundle empty or unreadable (for example, in a minimal container), and the attacker must hold a network man-in-the-middle position.. This issue is fixed in versions 3.13.15",
-  "categories": [
-   "cloud",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-67404",
-   "cvss": null,
-   "ref": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.2.6"
-  },
-  "title_vi": "WeChat là một ứng dụng nhắn tin và truyền thông xã hội.",
-  "key": "c20a58accede4f7c9489e2faca2e9de1378f991c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-67405 — RabbitMQ is a messaging and streaming broker",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-67405",
-  "published": "2026-09-23T21:17:01.663",
-  "summary": "RabbitMQ is a messaging and streaming broker. Prior to versions 3.13.15, 4.0.20, 4.1.11, 4.2.6, and 4.3.0, Neither the Web-MQTT handler (deps/rabbitmq_web_mqtt/src/rabbit_web_mqtt_handler.erl:104) nor the Web-STOMP handler (deps/rabbitmq_web_stomp/src/rabbit_web_stomp_handler.erl:102) validates the Origin header on the WebSocket upgrade. Under ssl_cert_login=true, the browser presents the client certificate automatically, so an attacker's JavaScript running in the victim's browser can authenticate as the victim. Preconditions include The non-default configuration use_http_auth=true (Web-STOMP)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-67405",
-   "cvss": null,
-   "ref": "https://github.com/rabbitmq/rabbitmq-server/releases/tag/v4.2.6"
-  },
-  "title_vi": "WeChat là một ứng dụng nhắn tin và truyền thông xã hội.",
-  "key": "2d6f79042d79524717cccc1a3e61eee06647242a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-6718 — IBM Concert 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-6718",
-  "published": "2026-09-23T21:17:01.803",
-  "summary": "IBM Concert 1.0.0 through 3.0.0 is vulnerable to improper access control which allows unauthorized modification of application files.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-6718",
-   "cvss": 6.2,
-   "ref": "https://www.ibm.com/support/pages/node/7288830"
-  },
-  "title_vi": "CVE-2026-6718 — IBM Concert 1",
-  "key": "31ae007f8be78f092960774d03590dffcedf0440"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-6721 — IBM Concert 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-6721",
-  "published": "2026-09-23T21:17:01.927",
-  "summary": "IBM Concert 1.0.0 through 3.0.0 allows an unauthenticated remote attacker can supply specially crafted input that is incorporated into OS commands, resulting in arbitrary command execution on the underlying system. Successful exploitation allows remote code execution with the privileges of the affected application.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-6721",
-   "cvss": 9.8,
-   "ref": "https://www.ibm.com/support/pages/node/7288830"
-  },
-  "title_vi": "CVE-2026-6721 — IBM Concert 1",
-  "key": "4bb3d23781831d695a3d467a02c6a5ca7219f79c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-6730 — IBM Concert 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-6730",
-  "published": "2026-09-23T21:17:02.053",
-  "summary": "IBM Concert 1.0.0 through 3.0.0 is vulnerable to a buffer overflow, caused by improper bounds checking. A local user could overflow the buffer and execute arbitrary code on the system.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-6730",
-   "cvss": 9.8,
-   "ref": "https://www.ibm.com/support/pages/node/7288830"
-  },
-  "title_vi": "CVE-2026-6730 — IBM Concert 1",
-  "key": "7d0911d5ed1403a269c0033f6c2424618ca162da"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-6794 — IBM Concert 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-6794",
-  "published": "2026-09-23T21:17:02.177",
-  "summary": "IBM Concert 1.0.0 through 3.0.0 has a double free vulnerability that exists due to incorrect memory management. A local attacker can exploit this flaw to corrupt heap memory and execute arbitrary code in the context of the affected process.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-6794",
-   "cvss": 7.8,
-   "ref": "https://www.ibm.com/support/pages/node/7288830"
-  },
-  "title_vi": "CVE-2026-6794 — IBM Concert 1",
-  "key": "ae24602e4eaaf34db13f34298862282a197fe06b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-6925 — IBM Concert 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-6925",
-  "published": "2026-09-23T21:17:02.303",
-  "summary": "IBM Concert 1.0.0 through 3.0.0 could allow a remote attacker to traverse directories on the system. An attacker could send a specially crafted URL request containing \"dot dot \" sequences ( /.. /) to view arbitrary files on the system.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-6925",
-   "cvss": 5.3,
-   "ref": "https://www.ibm.com/support/pages/node/7288830"
-  },
-  "title_vi": "CVE-2026-6925 — IBM Concert 1",
-  "key": "fc395b18fc72bbd98c171d211ae62ea197bcd49f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-6928 — IBM Concert 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-6928",
-  "published": "2026-09-23T21:17:02.430",
-  "summary": "IBM Concert 1.0.0 through 3.0.0 references or accesses memory after it has been freed. This allows an attacker who can influence program execution or input may exploit this condition to corrupt memory, cause application crashes, or execute arbitrary code.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-6928",
-   "cvss": 9.8,
-   "ref": "https://www.ibm.com/support/pages/node/7288830"
-  },
-  "title_vi": "CVE-2026-6928 — IBM Concert 1",
-  "key": "434e8142b2c5487da0107af8d311126537612cbc"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-6935 — IBM Concert 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-6935",
-  "published": "2026-09-23T21:17:02.553",
-  "summary": "IBM Concert 1.0.0 through 3.0.0 invokes operating system commands without fully qualifying executable paths or adequately restricting search path resolution. As a result, an attacker with local system access can manipulate the search path environment to execute untrusted or malicious code.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-6935",
-   "cvss": 7.8,
-   "ref": "https://www.ibm.com/support/pages/node/7288830"
-  },
-  "title_vi": "CVE-2026-6935 — IBM Concert 1",
-  "key": "d8b48a2a010bb6d2a6f8fd959539bd86e0b8af38"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75886 — A flaw was found in openshift/console",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75886",
-  "published": "2026-09-23T21:17:02.683",
-  "summary": "A flaw was found in openshift/console. An unauthenticated remote attacker can exploit a misconfiguration in the CatalogdHandler, which lacks proper authentication, and the forwarding of the `openshift-session-token` cookie. This allows the attacker to send requests to the in-cluster catalogd service, leading to the disclosure of the internal operator-catalog index and providing a relay into the openshift-catalogd namespace.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75886",
-   "cvss": 7.2,
-   "ref": "https://access.redhat.com/security/cve/CVE-2026-75886"
-  },
-  "title_vi": "CVE-2026-75886 — Một lỗ hổng đã được tìm thấy trong openshift/console",
-  "key": "aaab5472c8876859a9b652af16670e70f6b22227"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80379 — IBM DataStage on Cloud Pak for Data 5",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80379",
-  "published": "2026-09-23T21:17:02.940",
-  "summary": "IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to execute arbitrary commands due to improper neutralization of special elements used in an OS command.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80379",
-   "cvss": 8.8,
-   "ref": "https://www.ibm.com/support/pages/node/7288649"
-  },
-  "title_vi": "CVE-2026-80379 — IBM DataStage trên Cloud Pak cho Dữ liệu 5",
-  "key": "e2d912bd2a3f3be121ea6d344a72de7b74e49b7e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80412 — IBM DataStage on Cloud Pak for Data 5",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80412",
-  "published": "2026-09-23T21:17:03.067",
-  "summary": "IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to execute arbitrary code due to improper escaping of connector property values during OSH script generation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80412",
-   "cvss": 8.8,
-   "ref": "https://www.ibm.com/support/pages/node/7288649"
-  },
-  "title_vi": "CVE-2026-80412 — IBM DataStage trên Cloud Pak cho Dữ liệu 5",
-  "key": "dd6a7c85e0eea254e0febc81ab96b2df1212644d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-80425 — IBM DataStage on Cloud Pak for Data 5",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80425",
-  "published": "2026-09-23T21:17:03.190",
-  "summary": "IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to execute arbitrary commands due to improper neutralization of special elements used in an OS command.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-80425",
-   "cvss": 8.8,
-   "ref": "https://www.ibm.com/support/pages/node/7288649"
-  },
-  "title_vi": "CVE-2026-80425 — IBM DataStage trên Cloud Pak cho Dữ liệu 5",
-  "key": "77bd0689eb3ff2f898cd6b03d9bc4a591b12f74f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-82369 — Insufficient input sanitization of shell metacharacters in the Brocade SANnav CLI scripting component permits authenticated users to break out of rest",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82369",
-  "published": "2026-09-23T21:17:03.317",
-  "summary": "Insufficient input sanitization of shell metacharacters in the Brocade SANnav CLI scripting component permits authenticated users to break out of restricted execution contexts on managed switches. An attacker with command execution permissions can leverage this flaw to run unauthorized shell commands across target fabric switches, bypassing command allow-lists and obtaining full administrative switch access. This vulnerability affects all Brocade SANnav versions before 3.0.1a.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-82369",
-   "cvss": null,
-   "ref": "https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/38994"
-  },
-  "title_vi": "CVE-2026-82369 - Không đủ đầu vào khử trùng các ký tự siêu ký tự vỏ trong thành phần tập lệnh Brocade SANnav CLI cho phép người dùng được xác thực thoát ra khỏi phần còn lại",
-  "key": "5a33c32dc2b938d09bcc7f8527f8004880de676d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-96556 — A flaw has been found in Neethuharii CafeManagement",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96556",
-  "published": "2026-09-23T21:17:03.827",
-  "summary": "A flaw has been found in Neethuharii CafeManagement. Affected by this vulnerability is the function addcashier of the file AddCashierCode.php. Executing a manipulation of the argument uname/pass/role/status can lead to improper authorization. The attack may be performed from remote. The exploit has been published and may be used. The vendor was contacted early about this disclosure but did not respond in any way.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-96556",
-   "cvss": 7.3,
-   "ref": "https://github.com/yashkeral/cve-writeups/blob/main/cafemanagement/03-missing-auth-account-creation.md"
-  },
-  "title_vi": "Quốc gia Vespania không ai không biết chuyện này",
-  "key": "590e716a3c455c369b7fc30e53c5369e374ff8fd"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-19125 — The EthPress – Web3 Login plugin for WordPress is vulnerable to Authentication Bypass in all versions up to, and including, 2",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19125",
-  "published": "2026-09-23T22:16:56.683",
-  "summary": "The EthPress – Web3 Login plugin for WordPress is vulnerable to Authentication Bypass in all versions up to, and including, 2.3.5. This is due to the verify_login() function in app/Login.php containing a missing return statement in the signature verification failure branch — when Signature::verify2() reports a mismatch, the function only assigns a WP_Error to a local variable and continues executing, causing unconditional fall-through to the login block where Address::log_in() calls wp_set_auth_cookie() regardless of whether the submitted signature is valid. This makes it possible for unauthen",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-19125",
-   "cvss": 8.1,
-   "ref": "https://plugins.trac.wordpress.org/browser/ethpress/tags/2.3.5/app/Address.php#L419"
-  },
-  "title_vi": "CVE-2026-19125 — Plugin Đăng nhập EthPress – Web3 cho WordPress dễ bị bỏ qua xác thực trong tất cả các phiên bản lên đến, và bao gồm, 2",
-  "key": "b013ef20ee9f9b5eaf6ae5a59ebf2a33dbe5d526"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-57854 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-57854",
-  "published": "2026-09-23T22:16:56.893",
-  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-57854",
-   "cvss": null,
-   "ref": ""
-  },
-  "title_vi": "CVE-2026-57854 — Lý do bị từ chối: ID CVE này đã bị Cơ quan Đánh số CVE từ chối hoặc rút lại",
-  "key": "53e2d5e1162b907e59f7439bd895a886fe1dd481"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-75887 — A flaw was found in the OpenShift console",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75887",
-  "published": "2026-09-23T22:16:57.117",
-  "summary": "A flaw was found in the OpenShift console. An unauthenticated attacker can exploit a path traversal vulnerability by manipulating the `lng` and `ns` query parameters in the `/locales/resource.json` endpoint. This allows the attacker to read sensitive `*.json` files from the pod filesystem, including plugin manifests and configuration files. Furthermore, this flaw can enable path traversal against registered dynamic-plugin backends.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-75887",
-   "cvss": 7.5,
-   "ref": "https://access.redhat.com/security/cve/CVE-2026-75887"
-  },
-  "title_vi": "CVE-2026-75887 — Một lỗ hổng đã được tìm thấy trong bảng điều khiển OpenShift",
-  "key": "5f6471e264acb790131b4239d621fd10e80e96c1"
  }
 ]
