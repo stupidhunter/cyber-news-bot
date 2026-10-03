@@ -1,6 +1,519 @@
 [
  {
   "source": "VietnamPlus Kinh tế số",
+  "title": "Quan niệm “não trái logic, não phải sáng tạo” dưới góc nhìn khoa học",
+  "link": "https://www.vietnamplus.vn/quan-niem-nao-trai-logic-nao-phai-sang-tao-duoi-goc-nhin-khoa-hoc-post1139769.vnp",
+  "published": "2026-10-03T02:21:22+00:00",
+  "summary": "Liệu con người có thực sự được chia thành hai nhóm “thiên não trái” hay “thiên não phải” như quan niệm phổ biến lâu nay? Khoa học hiện đại sẽ giúp chúng ta nhìn nhận lại chính xác hơn quan niệm này. Phát triển mô hình AI giải mã “ngôn ngữ của não bộ” Bụi siêu mịn trong nhà ảnh hưởng đến chức năng não bộ, gây suy giảm trí nhớ Nguy cơ \"quá tải não bộ\" nơi công sở vì trí tuệ nhân tạo",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "bc27cc51f1257808b4b4ec883ff54b486e957a5b"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Quảng Trị thí điểm đưa AI vào hỗ trợ người dân hoàn thiện hồ sơ dịch vụ công",
+  "link": "https://www.vietnamplus.vn/quang-tri-thi-diem-dua-ai-vao-ho-tro-nguoi-dan-hoan-thien-ho-so-dich-vu-cong-post1139766.vnp",
+  "published": "2026-10-03T01:44:25+00:00",
+  "summary": "Ở cấp xã, AI được thử nghiệm với những thủ tục gắn trực tiếp với đời sống như chứng thực bản sao, chứng thực chữ ký, cấp bản sao trích lục hộ tịch, xác nhận tình trạng hôn nhân... Doanh nghiệp tự quyết giá dịch vụ, cơ quan Nhà nước quản lý bằng công cụ nào? Quy định mới về việc cung cấp dịch vụ công trực tuyến Chính quyền địa phương 2 cấp giúp cải thiện dịch vụ hành chính công",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "ee54b8a98d4b960dc259ea95f2053dd336dbe475"
+ },
+ {
+  "source": "Thanh Niên Công nghệ",
+  "title": "AI giải m&atilde; th&agrave;nh c&ocirc;ng bức thư mật 217 năm tuổi của Napoleon",
+  "link": "https://thanhnien.vn/ai-giai-ma-thanh-cong-buc-thu-mat-217-nam-tuoi-cua-napoleon-185261002214244981.htm",
+  "published": "2026-10-03T01:14:00+00:00",
+  "summary": "Nhờ hệ thống tr&iacute; tuệ nh&acirc;n tạo GPT-6 Astra của OpenAI, bức mật m&atilde; qu&acirc;n sự 217 năm tuổi do Napoleon gửi vị tướng th&acirc;n cận đ&atilde; được giải m&atilde; trọn vẹn.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "91b77a03fa156f217568f80b58c3721fe2563cc5"
+ },
+ {
+  "source": "GenK",
+  "title": "Google hạn chế quyền truy cập mô hình AI mới do lo ngại an ninh mạng",
+  "link": "https://genk.vn/google-han-che-quyen-truy-cap-mo-hinh-ai-moi-do-lo-ngai-an-ninh-mang-165261003101114004.chn",
+  "published": "2026-10-03T03:44:03.658851+00:00",
+  "summary": "VTV.vn - Google tạm thời giới hạn quyền truy cập mô hình AI Gemini 4 Argon cho các chuyên gia an ninh mạng đã được kiểm duyệt, nhằm giảm nguy cơ bị lợi dụng để tấn công mạng.",
+  "categories": [
+   "ai",
+   "breach",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "98b890242dc262c2cc069675fe00f7224adbab20"
+ },
+ {
+  "source": "GenK",
+  "title": "Mỹ thúc đẩy cơ chế 'công tắc ngắt khẩn cấp' cho AI",
+  "link": "https://genk.vn/my-thuc-day-co-che-cong-tac-ngat-khan-cap-cho-ai-165261003080133074.chn",
+  "published": "2026-10-03T03:44:03.658900+00:00",
+  "summary": "AI tiên tiến có thể hoạt động trên nhiều máy chủ, dịch vụ và hạ tầng khác nhau, khiến việc “tắt” chúng không đơn giản như ngắt một thiết bị điện.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "f23cde4bb52fa1ba7f5f17b07e2d9fa2f335be37"
+ },
+ {
+  "source": "GenK",
+  "title": "Một nhân vật ảo vô danh đang oanh tạc mạng xã hội và kiếm được thu nhập đáng nể",
+  "link": "https://genk.vn/mot-nhan-vat-ao-vo-danh-dang-oanh-tac-mang-xa-hoi-va-kiem-duoc-thu-nhap-dang-ne-165261003075834007.chn",
+  "published": "2026-10-03T03:44:03.658929+00:00",
+  "summary": "Đi từ những clip hài hước vô nghĩa trên mạng xã hội đến dự án tiền mã hóa trị giá hơn 8 triệu USD, nhân vật ảo Jean Phil đang phơi bày một thực tế kỳ quặc: Nền kinh tế sáng tạo nội dung đã chính thức bước sang kỷ nguyên kiếm tiền từ các \"influencer\" do AI tạo ra.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "232b1659e825ab6c22265b0b97dd22f698251f46"
+ },
+ {
+  "source": "GenK",
+  "title": "Nước đi \"điên rồ\" của Sam Altman: Ra mắt Dots giống hệt Muse AI, nhưng hét giá 100 USD/tháng, OpenAI lấy gì mà tự tin vậy?",
+  "link": "https://genk.vn/nuoc-di-dien-ro-cua-sam-altman-ra-mat-dots-giong-het-muse-ai-nhung-het-gia-100-usd-thang-openai-lay-gi-ma-tu-tin-vay-165261003080229846.chn",
+  "published": "2026-10-03T03:44:03.658979+00:00",
+  "summary": "Tại hội nghị DevDay 2026, OpenAI đã tạo nên bước ngoặt lớn khi chính thức ra mắt Dots. Sự xuất hiện của Dots được xem là lời đáp trả trực diện của CEO Sam Altman gửi tới Meta, đối thủ đang gặt hái thành công vang dội với nền tảng trợ lý ảo Muse AI.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "52f3c6c0901262831e772a3505ea7461d8651e06"
+ },
+ {
+  "source": "GenK",
+  "title": "Vận hành doanh nghiệp với “lực lượng nhân sự AI” - Hơn 10 nghìn AI Agents của FPT đang làm việc như thế nào?",
+  "link": "https://genk.vn/van-hanh-doanh-nghiep-voi-luc-luong-nhan-su-ai-hon-10-nghin-ai-agents-cua-fpt-dang-lam-viec-nhu-the-nao-165261002223912494.chn",
+  "published": "2026-10-03T03:44:03.659042+00:00",
+  "summary": "Nền tảng FPT AI EOS cho phép doanh nghiệp tạo và điều hành đội ngũ \"nhân sự AI \", từ chăm sóc khách hàng đến vận hành nội bộ , với khâu chốt cuối do con người phê duyệt.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "6fd3234024defcf151cdfea3317ee16394de0ef6"
+ },
+ {
+  "source": "Znews Công nghệ",
+  "title": "The Hunter Group ra mắt Nolan, ứng dụng AI vào sản xuất nội dung",
+  "link": "https://tech.zingnews.vn/the-hunter-group-ra-mat-nolan-ung-dung-ai-vao-san-xuat-noi-dung-post1687167.html",
+  "published": "2026-10-03T02:00:20+00:00",
+  "summary": "Ngày 1/10, The Hunter Group ra mắt Nolan - sản phẩm công nghệ ứng dụng AI được phát triển nhằm tạo kết nối chặt chẽ giữa sản xuất nội dung và hiệu quả thương mại trên mạng xã hội.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "fd0921dfe4a912db719624240f364676a9b51cb5"
+ },
+ {
+  "source": "Znews Công nghệ",
+  "title": "Hacker vụ Man City bị dọa giết, không còn nhà để về",
+  "link": "https://tech.zingnews.vn/hacker-vu-man-city-bi-doa-giet-khong-con-nha-de-ve-post1687173.html",
+  "published": "2026-10-03T01:32:26+00:00",
+  "summary": "Nhà chức trách Bồ Đào Nha xác nhận Rui Pinto, hacker đứng sau vụ rò rỉ bằng chứng về những vi phạm của Man City, sẽ không còn được bảo vệ với tư cách là nhân chứng nữa.",
+  "categories": [
+   "breach",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "83d395861be9f1d73ea150d3b03cd657b9b22ebf"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-104433 — Mooncake transfer engine before 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-104433",
+  "published": "2026-10-03T00:16:35.253",
+  "summary": "Mooncake transfer engine before 0.3.12 contains an out-of-bounds read vulnerability in the readString function of include/common.h that allows unauthenticated attackers to crash the service by sending a zero-length handshake frame. Attackers can connect to the handshake port listening on all interfaces and send an eight-byte frame to terminate the hosting process, such as an SGLang inference server.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-104433",
+   "cvss": 7.5,
+   "ref": "https://github.com/kvcache-ai/Mooncake"
+  },
+  "title_vi": "CVE-2026-104433 — Công cụ chuyển bánh trung thu trước 0",
+  "key": "9fdb3479714277dae85367fc5bc9ec36cc841a2d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-104474 — OpenLiteSpeed before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-104474",
+  "published": "2026-10-03T00:16:35.413",
+  "summary": "OpenLiteSpeed before 1.9.3 contains a local privilege escalation vulnerability in admin/misc/lsup.sh that runs unverified update packages from a nobody-writable directory as root. Attackers controlling the nobody web process can replace the package in /usr/local/lsws/autoupdate/ before extraction, so its install.sh runs as root on the next update.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-104474",
+   "cvss": 6.7,
+   "ref": "https://github.com/litespeedtech/openlitespeed/blob/v1.9.2/dist/admin/misc/lsup.sh#L538"
+  },
+  "title_vi": "CVE-2026-104474 — OpenLiteSpeed trước 1",
+  "key": "95ddd90d8d8ef9f0cacff58d89b659c4a323f6fc"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-104475 — IDURAR ERP CRM through 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-104475",
+  "published": "2026-10-03T00:16:35.583",
+  "summary": "IDURAR ERP CRM through 4.1.1 contains a stored cross-site scripting vulnerability that allows authenticated users to inject scripts by uploading unsanitized SVG files. Attackers can upload JavaScript-laden SVGs via the profile update or settings upload endpoints, which execute in victims' browsers when served from the /public route.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-104475",
+   "cvss": 5.4,
+   "ref": "https://github.com/idurar/idurar-erp-crm"
+  },
+  "title_vi": "CVE-2026-104475 — IDURAR ERP CRM thông qua 4",
+  "key": "f9e5790e1e06bd882c3c9b820cad773413551e88"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-104476 — Backdrop CMS before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-104476",
+  "published": "2026-10-03T00:16:35.747",
+  "summary": "Backdrop CMS before 1.35.1 contains an information disclosure vulnerability that allows unauthenticated attackers to retrieve configuration export archives left on the server after transfer. Attackers can download compressed archives generated by users with configuration export permission to obtain the full site configuration, including sensitive settings.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-104476",
+   "cvss": 5.9,
+   "ref": "https://backdropcms.org/security/backdrop-sa-core-2026-006"
+  },
+  "title_vi": "CVE-2026-104476 — Backdrop CMS trước 1",
+  "key": "42243ccc25fea019fd6ac74ba6eaf2702b08cee0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-104477 — Showdown through 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-104477",
+  "published": "2026-10-03T00:16:35.920",
+  "summary": "Showdown through 2.1.0 contains a cross-site scripting vulnerability in the makehtml link and image subparsers, which fail to escape double quotes in destination URLs placed into href and src attributes. Attackers can craft markdown links or images containing a double quote followed by onerror or onmouseover handlers to execute script when victims view rendered HTML.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-104477",
+   "cvss": 6.1,
+   "ref": "https://github.com/showdownjs/showdown"
+  },
+  "title_vi": "CVE-2026-104477 — Vượt qua 2",
+  "key": "ca997c78337bf5ec3a0f7d23f18e3b5c303b916b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-104478 — Formwork before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-104478",
+  "published": "2026-10-03T00:16:36.083",
+  "summary": "Formwork before 2.3.13 contains a path traversal vulnerability in BackupController that allows authenticated panel users to read or delete arbitrary files. Attackers with backup download or delete permission can supply a base64-encoded backslash-separated traversal payload that bypasses PHP basename on Linux to access files outside the backup directory.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-104478",
+   "cvss": 7.1,
+   "ref": "https://github.com/getformwork/formwork"
+  },
+  "title_vi": "CVE-2026-104478 — Ván khuôn trước 2",
+  "key": "178e1107e4f3f8729a803bd904e62181c9c8171c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-104479 — Shopclass before 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-104479",
+  "published": "2026-10-03T00:16:36.273",
+  "summary": "Shopclass before 6.2.0 contains a stored cross-site scripting vulnerability that allows self-registered non-admin users to inject scripts into item listing descriptions when frontend TinyMCE is enabled. Attackers can submit malicious JavaScript, which ItemActions.php saves without tag stripping, causing it to execute in the site origin for any visitor viewing the listing.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-104479",
+   "cvss": 5.4,
+   "ref": "https://github.com/mindstellar/shopclass"
+  },
+  "title_vi": "CVE-2026-104479 — Lớp học trước 6",
+  "key": "b164a5d3a548d61d0d5071047743941e7cfa134a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-105029 — UVdesk support-center-bundle before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-105029",
+  "published": "2026-10-03T00:16:36.463",
+  "summary": "UVdesk support-center-bundle before 1.1.3.3 contains an insecure direct object reference vulnerability in the rateTicket action of Controller/Ticket.php that allows authenticated customers to rate other customers' tickets. Attackers can supply arbitrary ticket IDs, which are loaded without an ownership check, to submit or change satisfaction ratings on tickets owned by other customers.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-105029",
+   "cvss": 4.3,
+   "ref": "https://github.com/uvdesk/support-center-bundle"
+  },
+  "title_vi": "CVE-2026-105029 - Nhóm trung tâm hỗ trợ UVdesk trước 1",
+  "key": "a213197384e560d0d9bf320726f684b8742fd023"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-105030 — Kener 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-105030",
+  "published": "2026-10-03T00:16:36.743",
+  "summary": "Kener 4.0.0 before 4.1.6 contains an information disclosure vulnerability that allows unauthenticated attackers to retrieve hidden or inactive monitor data by querying dashboard API handlers lacking visibility filters. Attackers can supply a known or guessed monitor tag to endpoints such as monitor-bar and monitor-latency-chart to obtain names, descriptions, status, uptime history and latency.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-105030",
+   "cvss": 5.3,
+   "ref": "https://github.com/rajnandan1/kener"
+  },
+  "title_vi": "CVE-2026-105030 — Kener 4",
+  "key": "71a7c59806deb48d7ce6832111f02e3d25e540d1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-105080 — In ConvertX before 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-105080",
+  "published": "2026-10-03T01:17:23.650",
+  "summary": "In ConvertX before 0.19.0, converters/calibre.ts does not block recipe files, and instead passes them to the ebook-convert program from Calibre. This affects executable code in a .recipe or .downloaded_recipe file.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-105080",
+   "cvss": 9.9,
+   "ref": "https://github.com/C4illin/ConvertX/commit/0ca17dad7fa65e2e34823b59b95dd00bb1066b66"
+  },
+  "title_vi": "CVE-2026-105080 — Trong ConvertX trước 0",
+  "key": "e33d5dcd64e1df7d227026452e0847d7badab61e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-79113 — OpenAPV before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79113",
+  "published": "2026-10-03T01:17:25.287",
+  "summary": "OpenAPV before 1.1.1.0 has a read_bitstream heap-based buffer overflow.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-79113",
+   "cvss": null,
+   "ref": "https://aswf.io"
+  },
+  "title_vi": "CVE-2026-79113 — OpenAPV trước 1",
+  "key": "67305cf734807205d6200713588740c119e6c575"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-105083 — ImageMagick before 7",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-105083",
+  "published": "2026-10-03T02:17:18.170",
+  "summary": "ImageMagick before 7.1.2-32 and 6.9.13-57 contains a policy bypass vulnerability in LoadPolicyCache that silently skips security policy rules when policy.xml uses an alternate DOCTYPE. A valid DOCTYPE not ending in ']>' makes the parser consume the rest of the file, so no policy rules are applied and restricted operations become allowed.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-105083",
+   "cvss": 3.9,
+   "ref": "https://github.com/ImageMagick/ImageMagick"
+  },
+  "title_vi": "CVE-2026-105083 — ImageMagick trước 7",
+  "key": "9b6d0e658459cc8899c8eac8c3ca5ea6376ffa1b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-105090 — Formbricks before 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-105090",
+  "published": "2026-10-03T02:17:18.370",
+  "summary": "Formbricks before 5.4.4 and 6 before 6.0.1 allows stored XSS. The survey-level Custom Head Scripts feature did not enforce the documented Manage permission boundary. A workspace member holding only readWrite permission could configure Custom Head Scripts on a survey, an operation the documentation restricts to the Manage role. Because the configured scripts execute in the authenticated browser session of any user who opens the affected survey, a lower-privileged member can run arbitrary JavaScript (stored cross-site scripting) in the session of higher-privileged users. Fixed versions require M",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-105090",
+   "cvss": null,
+   "ref": "https://github.com/formbricks/formbricks/pull/9432"
+  },
+  "title_vi": "CVE-2026-105090 — Formbricks trước 5",
+  "key": "0fb4c5946ccb9c063f411787dcd0d3132d76c4ac"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-100180 — The Jeg Kit for Elementor – Powerful Addons for Elementor, Widgets & Templates for WordPress plugin for WordPress is vulnerable to Stored Cross-Site S",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100180",
+  "published": "2026-10-03T03:16:36.713",
+  "summary": "The Jeg Kit for Elementor – Powerful Addons for Elementor, Widgets & Templates for WordPress plugin for WordPress is vulnerable to Stored Cross-Site Scripting via Comment in all versions up to, and including, 3.2.19 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. Immediate persistence without moderator approval is possible when the attacker submits from an email address with at least one previously approved comment, though the wi",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-100180",
+   "cvss": 5.4,
+   "ref": "https://plugins.trac.wordpress.org/browser/jeg-elementor-kit/tags/3.2.19/assets/js/elements/nav-menu.js"
+  },
+  "title_vi": "CVE-2026-100180 — Bộ công cụ Jeg cho Elementor – Tiện ích bổ sung mạnh mẽ cho Elementor, Widget & Mẫu cho WordPress plugin cho WordPress dễ bị tấn công bởi Stored Cross-Site S",
+  "key": "9988db47510953f4462355172776447c041423b1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-92243 — The Ivory Search – WordPress Search Plugin plugin for WordPress is vulnerable to Reflected Cross-Site Scripting via the 's' parameter in all versions ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-92243",
+  "published": "2026-10-03T03:16:36.910",
+  "summary": "The Ivory Search – WordPress Search Plugin plugin for WordPress is vulnerable to Reflected Cross-Site Scripting via the 's' parameter in all versions up to, and including, 5.5.18 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. Exploitation requires that the targeted search form has the 'Highlight Search Terms' option enabled by an administrator, and that the malicious search query returns at least one post result.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-92243",
+   "cvss": 6.1,
+   "ref": "https://plugins.trac.wordpress.org/browser/add-search-to-menu/tags/5.5.18/public/class-is-public.php#L114"
+  },
+  "title_vi": "CVE-2026-92243 — The Ivory Search – Plugin WordPress Search Plugin cho WordPress dễ bị tấn công bởi Reflected Cross-Site Scripting thông qua tham số's'trong tất cả các phiên bản",
+  "key": "45d0eb9458af16d934dd613fbba8970746165ae8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-93428 — The Ultimate Member – User Profile, Registration, Login, Member Directory, Content Restriction & Membership Plugin plugin for WordPress is vulnerable ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-93428",
+  "published": "2026-10-03T03:16:37.067",
+  "summary": "The Ultimate Member – User Profile, Registration, Login, Member Directory, Content Restriction & Membership Plugin plugin for WordPress is vulnerable to authorization bypass in all versions up to, and including, 2.13.1 This is due to the plugin not properly verifying that a user is authorized to perform an action. This makes it possible for unauthenticated attackers to view privacy-restricted member profile field values — including fields explicitly configured as owner-only, members-only, or role-restricted — by querying the publicly accessible wp_ajax_nopriv_um_get_members endpoint. The nonce",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-93428",
+   "cvss": 7.5,
+   "ref": "https://github.com/ultimatemember/ultimatemember/releases/tag/2.14.0"
+  },
+  "title_vi": "CVE-2026-93428 — Thành viên cuối cùng – Hồ sơ người dùng, Đăng ký, Đăng nhập, Thư mục thành viên, Hạn chế nội dung & Plugin thành viên cho WordPress dễ bị tấn công",
+  "key": "565d8e36c22300274f651aa03d12299470bc0c39"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94378 — The SupportCandy – AI Customer Support Ticket System & Live Chatbot Agent plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'n",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94378",
+  "published": "2026-10-03T03:16:37.230",
+  "summary": "The SupportCandy – AI Customer Support Ticket System & Live Chatbot Agent plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'name' parameter in all versions up to, and including, 3.5.3 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with subscriber-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. This exploit chain requires the 'Register user if not exists' setting to be disabled, which is its default configuration.",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94378",
+   "cvss": 6.4,
+   "ref": "https://plugins.svn.wordpress.org/supportcandy/"
+  },
+  "title_vi": "CVE-2026-94378 — SupportCandy – Hệ thống vé hỗ trợ khách hàng AI & Live Chatbot Agent plugin cho WordPress dễ bị tấn công bởi Stored Cross-Site Scripting thông qua 'n",
+  "key": "a841e4e46e5feb26fa75a0c4f282edf8f1754e0a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94539 — The SupportCandy – AI Customer Support Ticket System & Live Chatbot Agent plugin for WordPress is vulnerable to time-based SQL Injection via the 'sort",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94539",
+  "published": "2026-10-03T03:16:37.383",
+  "summary": "The SupportCandy – AI Customer Support Ticket System & Live Chatbot Agent plugin for WordPress is vulnerable to time-based SQL Injection via the 'sort_by' parameter in all versions up to, and including, 3.5.3 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for authenticated attackers, with custom-level access and above, to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database. Exploitation requires the authenticated attacker ",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94539",
+   "cvss": 6.5,
+   "ref": "https://plugins.svn.wordpress.org/supportcandy/"
+  },
+  "title_vi": "CVE-2026-94539 — SupportCandy – Hệ thống vé hỗ trợ khách hàng AI & Live Chatbot Agent plugin cho WordPress dễ bị tấn công SQL Injection dựa trên thời gian thông qua 'sort",
+  "key": "80fbe2dbe60633e231da6097728cd57ff367ecd2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-95865 — The Beaver Builder Page Builder – Drag and Drop Website Builder plugin for WordPress is vulnerable to blind SQL Injection via 'fields[][value]' Parame",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95865",
+  "published": "2026-10-03T03:16:37.533",
+  "summary": "The Beaver Builder Page Builder – Drag and Drop Website Builder plugin for WordPress is vulnerable to blind SQL Injection via 'fields[][value]' Parameter in all versions up to, and including, 2.11.0.5 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for authenticated attackers, with contributor-level access and above, to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database. The vulnerable get_autosuggest_values AJAX endpoint ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-95865",
+   "cvss": 6.5,
+   "ref": "https://plugins.trac.wordpress.org/browser/beaver-builder-lite-version/tags/2.11.0.5/classes/class-fl-builder-ajax.php#L151"
+  },
+  "title_vi": "CVE-2026-95865 — Trình tạo trang Beaver Builder – Plugin Trình tạo trang web kéo và thả cho WordPress dễ bị tấn công SQL Injection mù thông qua 'fields[][value]' Parame",
+  "key": "ccba7a18af0d1e5dcff5d0b5afce5466084def1f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-96270 — The Ultimate Member – User Profile, Registration, Login, Member Directory, Content Restriction & Membership Plugin plugin for WordPress is vulnerable ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96270",
+  "published": "2026-10-03T03:16:37.687",
+  "summary": "The Ultimate Member – User Profile, Registration, Login, Member Directory, Content Restriction & Membership Plugin plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'form_id' parameter in all versions up to, and including, 2.13.1 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. The injected payload is stored in the registering user's 'submitted' usermeta via update_user_meta() and is only triggered when an ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-96270",
+   "cvss": 7.2,
+   "ref": "https://github.com/ultimatemember/ultimatemember/releases/tag/2.14.0"
+  },
+  "title_vi": "CVE-2026-96270 — Thành viên cuối cùng – Hồ sơ người dùng, Đăng ký, Đăng nhập, Thư mục thành viên, Hạn chế nội dung & Plugin thành viên cho WordPress dễ bị tấn công",
+  "key": "a360c866e50874be3bb565a15b6d98cb89490ade"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
   "title": "Công nghệ làm mới hoạt động tình nguyện Hè",
   "link": "https://www.vietnamplus.vn/cong-nghe-lam-moi-hoat-dong-tinh-nguyen-he-post1139735.vnp",
   "published": "2026-10-02T22:52:00+00:00",
@@ -323,7 +836,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Viết blog về mực vào thứ Sáu: EU đang cố gắng chống lại việc đánh bắt mực không được kiểm soát",
   "key": "3acecad81a41773ec5eb0d6f449080588333b7b9"
  },
  {
@@ -407,7 +920,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Nhóm bảo mật RemoteThreat Bets cần kiểm tra những gì xảy ra sau khi phòng thủ không thành công",
   "key": "60c882e15d3769ac6f0cee51c8bcdc12e14da419"
  },
  {
@@ -465,7 +978,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Phản ứng dữ dội của lưỡng đảng đối với ALPRs tăng lên khi hai hóa đơn cao cấp được giới thiệu",
   "key": "00bef0e7bc46bdcbcb12e0004dea6a2f2911161c"
  },
  {
@@ -1010,7 +1523,7 @@
    "cvss": 7.1,
    "ref": "https://github.com/Alanaktion/phproject/releases/tag/v1.8.7"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104991 — Phproject before 1",
   "key": "7e2f841b16a7d5e34d19a82f434d2900cf8cedf0"
  },
  {
@@ -1986,7 +2499,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Sự cố Kiteworks &amp; Citrix cho thấy những thách thức của phản ứng Zero-Day",
   "key": "e8fbde8f98acdd611763513e7828fd111e6c9579"
  },
  {
@@ -2000,7 +2513,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Phần mềm trung gian SWIFT Banking &amp; Government cho phép RCE",
   "key": "942d9226a9c8c39bb3d959bef6f165f6546226f1"
  },
  {
@@ -5354,7 +5867,7 @@
    "cvss": null,
    "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop.html"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-103631 — Tràn bộ đệm trong WebRTC trong Google Chrome trước 154",
   "key": "bbb5f8826454119c663244bcacc4d94ec5ba3c7e"
  },
  {
@@ -5372,7 +5885,7 @@
    "cvss": 9.1,
    "ref": "https://gitlab.com/demsking/image-downloader/-/commit/fb4454304276e2439fb19b98836b3ba903b3aaea"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-103648 - Đường truyền trong trình tải xuống hình ảnh 4",
   "key": "280bd5c509b5a1849e3b2e3a4c860cc22f2b99f6"
  },
  {
@@ -5390,7 +5903,7 @@
    "cvss": null,
    "ref": "https://github.com/astral-sh/uv/commit/67169645278ce082638d619beefa6d062540843b"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104843 — uv là một gói Python và quản lý dự án được viết bằng Rust",
   "key": "e3ccf0f8660ae05b7bcf2b5a22e8e67a83b02eea"
  },
  {
@@ -5408,7 +5921,7 @@
    "cvss": 5.9,
    "ref": "https://github.com/postcss/postcss-selector-parser/commit/62b191792df0a0bc56062e5a875bc74aae2a51cd"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104844 — PostCSS Selector Parser là trình phân tích cú pháp chọn CSS tích hợp với PostCSS nhưng không yêu cầu nó",
   "key": "35df63f463af4657cad98e8a2a596a0aa8f56fd0"
  },
  {
@@ -5426,7 +5939,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/lxsmnsyc/seroval/commit/ac0163e420ac7dcbbefac4d069bcefad300a4851"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104845 - Seroval tạo điều kiện cho chuỗi giá trị JS, bao gồm các cấu trúc phức tạp ngoài JSON",
   "key": "16d04131e100ecab0d7cb67eb73c05e6540f0845"
  },
  {
@@ -5444,7 +5957,7 @@
    "cvss": 9.8,
    "ref": "https://github.com/lxsmnsyc/seroval/commit/f1ffcc96d259f9b5b3d71feb262b58240c90e7b7"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104846 - Seroval tạo điều kiện cho chuỗi giá trị JS, bao gồm các cấu trúc phức tạp ngoài JSON",
   "key": "0d0bb002bb29b286bd24d7c5f2d4f81288eb8781"
  },
  {
@@ -5462,7 +5975,7 @@
    "cvss": null,
    "ref": "https://github.com/ProseMirror/prosemirror-view/commit/20dc0a911a79f8fc6640dbbea5e7d68d3c4784b7"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104847 - Thành phần xem của ProseMirror hiển thị và quản lý giao diện trình duyệt có thể chỉnh sửa cho các tài liệu ProseMirror",
   "key": "ab4cf9bae699daadd20ee4963b9b32ef796c52e7"
  },
  {
@@ -5480,7 +5993,7 @@
    "cvss": null,
    "ref": "https://github.com/MISP/MISP/commit/2a2981a27"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104900 — MISP chứa lỗ hổng tập lệnh chéo (XSS) được lưu trữ trong kết xuất bảng chỉ mục của bản xem trước sự kiện từ xa",
   "key": "b8948b1e08eb06ad90615ccc6c83aee70c9e6dff"
  },
  {
@@ -5499,7 +6012,7 @@
    "cvss": null,
    "ref": "https://github.com/MISP/MISP/commit/bd5e80c84"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104901 — MISP chứa lỗ hổng cross-site scripting (XSS) trong tính năng ID Translator",
   "key": "838022640795db79560b49d638e859e1d5708fdb"
  },
  {
@@ -5517,7 +6030,7 @@
    "cvss": null,
    "ref": "https://github.com/MISP/MISP/commit/1bed4ca0c"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104906 — MISP chứa lỗ hổng cross-site scripting (XSS) trong trình xem đối tượng TAXII",
   "key": "88fb563434070924e007bee3e4657dd16045ad3d"
  },
  {
@@ -5535,7 +6048,7 @@
    "cvss": null,
    "ref": "https://github.com/MISP/MISP/commit/70ad174dd"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104907 — MISP chứa lỗ hổng cross-site scripting (XSS) trong trang xem trước sự kiện từ xa",
   "key": "348631bee92be0cbaeba96948579c669d8201230"
  },
  {
@@ -5553,7 +6066,7 @@
    "cvss": null,
    "ref": "https://github.com/MISP/MISP/commit/70e319e4b"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104908 — MISP chứa lỗ hổng xác thực đầu vào không đúng trong chức năng nhập mô hình phân rã",
   "key": "7cadfec68404fc313a1d4d9947c4e81a1375b3c1"
  },
  {
@@ -5571,7 +6084,7 @@
    "cvss": null,
    "ref": "https://github.com/MISP/MISP/commit/2ffa97f05"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104910 — MISP chứa một đường vòng ủy quyền trong chức năng liệt kê các sự kiện liên quan",
   "key": "401c615e95b9a4e4cde1c491ac5065c981c6c683"
  },
  {
@@ -5589,7 +6102,7 @@
    "cvss": null,
    "ref": "https://github.com/MISP/MISP/commit/100235bd9"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104912 — MISP có lỗ hổng ủy quyền trong việc xử lý tương quan trong quá trình tìm kiếm thuộc tính",
   "key": "87f05c98918d798d15521e8b5cf4dcc498fe28db"
  },
  {
@@ -5607,7 +6120,7 @@
    "cvss": null,
    "ref": "https://github.com/MISP/MISP/commit/bd81c23cf"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104914 - MISP chứa lỗ hổng kiểm soát truy cập không đúng cách trong tìm kiếm thuộc tính và điểm cuối chế độ xem thuộc tính được phân trang",
   "key": "088d215b604904c481e35a49edfc915365803b65"
  },
  {
@@ -5643,7 +6156,7 @@
    "cvss": null,
    "ref": "https://gist.github.com/Ro1ME/c1e18e9c64c324db0bccfaa547eb2d05"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-51899 — Trong SuperAGI v0",
   "key": "bf1b41544715070a4dd3f901d476b47a5e9b1759"
  },
  {
@@ -5661,7 +6174,7 @@
    "cvss": null,
    "ref": "https://gist.github.com/Ro1ME/12fc58befd7fa2693bac98a91a4debf9"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-51901 — SuperAGI lên đến 0",
   "key": "7ccee6fbbc86830fe39721078a694aad95fc1cd6"
  },
  {
@@ -5679,7 +6192,7 @@
    "cvss": null,
    "ref": "https://gist.github.com/Ro1ME/3f712e2a9f643a08c6c825d25fbfe0e0"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-51904 — SuperAGI lên đến v0",
   "key": "1051888aba31ab4c68b7c06bc216d944cea4aef3"
  },
  {
@@ -5697,7 +6210,7 @@
    "cvss": null,
    "ref": "https://gist.github.com/Ro1ME/3430171ed3a7e6c42864f45b59c203cf"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-51906 — Trong tác vụ AI v0",
   "key": "21abd9033f84e3fa406e2680c52246cf06436f6e"
  },
  {
@@ -5715,7 +6228,7 @@
    "cvss": null,
    "ref": "https://gist.github.com/Ro1ME/357950ddd2f65566b1b33525651b5635"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-51907 — Trong tác vụ AI v0",
   "key": "596dd794991fb0a28b59c6c1209fb800f1dcff88"
  },
  {
@@ -5841,7 +6354,7 @@
    "cvss": null,
    "ref": "https://gist.github.com/Ro1ME/78910899a99e2ba702d588e477d0755f"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-51922 — agentcope v1",
   "key": "bfaf935f3edd098b8c2ecaa169f08af4d08d2d9b"
  },
  {
@@ -5860,7 +6373,7 @@
    "cvss": null,
    "ref": "https://github.com/crmne/ruby_llm"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-67989 — crmne/ruby_llm tại commit fa6f279847d6d7027814539d9c0dfc3bbdfd2a83 chứa điều kiện từ chối dịch vụ biểu thức chính quy đa thức thời gian trong Mistral",
   "key": "8be919b8aa106539a2aca8387e429ab66e0462fa"
  },
  {
@@ -5878,7 +6391,7 @@
    "cvss": null,
    "ref": "https://github.com/vercel/next.js/commit/e002ad68bd676bb0ed0c87bb22e3590304763e0b"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-94483 — Tiếp theo",
   "key": "a5d82bcc2967422d3061f581ecb8baab1ca6bc90"
  },
  {
@@ -5896,7 +6409,7 @@
    "cvss": null,
    "ref": "https://github.com/vercel/next.js/commit/52c94abdd2ea5f416f5e8353ea8a2edd3fe311b8"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-94484 — Tiếp theo",
   "key": "79aba10cc5bcf3c993209106b2dad4efe3014a29"
  },
  {
@@ -5914,7 +6427,7 @@
    "cvss": null,
    "ref": "https://github.com/vercel/next.js/commit/2d9f50a409312696145b82b3157aadb6b1fef476"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-94485 — Tiếp theo",
   "key": "6246a6325187d583d552bcc7ab2ebe8b612ff687"
  },
  {
@@ -5932,7 +6445,7 @@
    "cvss": null,
    "ref": "https://github.com/vercel/next.js/commit/2d9f50a409312696145b82b3157aadb6b1fef476"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-94486 — Tiếp theo",
   "key": "62e7ba79aaf65c2e35536b27d6d15fb66531ea16"
  },
  {
@@ -5950,7 +6463,7 @@
    "cvss": null,
    "ref": "https://github.com/vercel/next.js/commit/52c94abdd2ea5f416f5e8353ea8a2edd3fe311b8"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-94543 — Tiếp theo",
   "key": "3fe151cd6e85d0fa327371c16215a3297308e768"
  },
  {
@@ -5968,7 +6481,7 @@
    "cvss": null,
    "ref": "https://github.com/vercel/next.js/commit/bd9214f9a32854a011bf5fe58e481dffe1bbf598"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-94544 — Tiếp theo",
   "key": "09aac5e59c66abd746e1454fd98881c72e0928ae"
  },
  {
@@ -5987,7 +6500,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-274-06.json"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-96613 — Dịch vụ OpenAPI trên nền tảng đám mây Meari IoT dễ bị lỗ hổng ủy quyền cho phép người dùng được xác thực truy cập vào toàn bộ thiết bị",
   "key": "8b046e1c1dd53a86c8795bf44d9a5d1eba56b05d"
  },
  {
@@ -6005,7 +6518,7 @@
    "cvss": null,
    "ref": "https://github.com/tinylibs/tinypool/commit/24df4e730e7d0857a6d226c9b58f8924227404fd"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104848 — Tinypool là một Node tối thiểu",
   "key": "d971d6ea8227cd842811b85f1c5d7c4e2bd590eb"
  },
  {
@@ -6023,7 +6536,7 @@
    "cvss": null,
    "ref": "https://github.com/tinylibs/tinypool/commit/f41411a3e23324c674f35a19a3240f7a7c40ffbf"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104849 — Tinypool là một Node tối thiểu",
   "key": "c8807780d47d6699ae082a4c45258e43e692d044"
  },
  {
@@ -6041,7 +6554,7 @@
    "cvss": 8.8,
    "ref": "https://github.com/fsspec/filesystem_spec/commit/86438783f93b1398ef245b92f0e6063b445b611c"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104851 — fsspec là một đặc tả và khung thực hiện Python cho các giao diện hệ thống tệp",
   "key": "6412a5fec23d9adcd931c661c305978d4951f201"
  },
  {
@@ -6059,7 +6572,7 @@
    "cvss": null,
    "ref": "https://github.com/nrwl/nx/commit/38cd82a0c05e8212e538bdb87ccb198d6504e58f"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104853 — Nx là một giải pháp monorepo cho các cơ sở mã TypeScript và polyglot",
   "key": "ee0b7645433014cbb05319499277536a030bcaf3"
  },
  {
@@ -6078,7 +6591,7 @@
    "cvss": null,
    "ref": "https://github.com/nrwl/nx/commit/3298fd8b2dd066167eb3cc0410643994a59b0bba"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104854 — Nx là một giải pháp monorepo cho các cơ sở mã TypeScript và polyglot",
   "key": "93a8a5e1e16b01a49321ee1b9a1a547d10704fa4"
  },
  {
@@ -73538,545 +74051,5 @@
   },
   "title_vi": "CVE-2026-100775 — Lối thoát Sandbox trong thành phần Đồ họa",
   "key": "8d30d3ef8593af683b4a3cabb8f0f39ad10dc4e1"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-100776 — Use-after-free in the JavaScript: WebAssembly component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100776",
-  "published": "2026-09-29T13:17:42.210",
-  "summary": "Use-after-free in the JavaScript: WebAssembly component. This vulnerability was fixed in Firefox ESR 153.4, Firefox 157, and Firefox ESR 140.17.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-100776",
-   "cvss": 8.8,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2068374"
-  },
-  "title_vi": "CVE-2026-100776 — Use-after-free trong JavaScript: WebAssembly component",
-  "key": "1c2bedfa7ade0d4960d7571e788880f43a6e66d0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-100777 — Use-after-free in the Graphics: Canvas2D component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100777",
-  "published": "2026-09-29T13:17:42.337",
-  "summary": "Use-after-free in the Graphics: Canvas2D component. This vulnerability was fixed in Firefox ESR 153.4, Firefox 157, Firefox ESR 115.42, and Firefox ESR 140.17.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-100777",
-   "cvss": 8.8,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2068375"
-  },
-  "title_vi": "CVE-2026-100777 - Sử dụng sau khi miễn phí trong Đồ họa: Thành phần Canvas2D",
-  "key": "fa004e959ca18d69436b47c0b2e689866995d0ae"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-100778 — Sandbox escape due to use-after-free in the DOM: Core & HTML component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100778",
-  "published": "2026-09-29T13:17:42.577",
-  "summary": "Sandbox escape due to use-after-free in the DOM: Core & HTML component. This vulnerability was fixed in Firefox ESR 153.4, Firefox 157, Firefox ESR 115.42, and Firefox ESR 140.17.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-100778",
-   "cvss": 9.6,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2068406"
-  },
-  "title_vi": "CVE-2026-100778 — Thoát khỏi Sandbox do sử dụng sau khi miễn phí trong thành phần Dom: Core & HTML",
-  "key": "01266ff2a9b4f57428535b8c7c7af9391f5819c9"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-100779 — Use-after-free in the XSLT component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100779",
-  "published": "2026-09-29T13:17:42.690",
-  "summary": "Use-after-free in the XSLT component. This vulnerability was fixed in Firefox ESR 153.4, Firefox 157, Firefox ESR 115.42, and Firefox ESR 140.17.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-100779",
-   "cvss": 8.8,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2068417"
-  },
-  "title_vi": "CVE-2026-100779 - Sử dụng sau khi miễn phí trong thành phần XSLT",
-  "key": "1bc9ae2a904b43d002c03498e8f691daf24c7f97"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-100780 — Use-after-free in the DOM: Core & HTML component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100780",
-  "published": "2026-09-29T13:17:42.900",
-  "summary": "Use-after-free in the DOM: Core & HTML component. This vulnerability was fixed in Firefox ESR 153.4, Firefox 157, Firefox ESR 115.42, and Firefox ESR 140.17.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-100780",
-   "cvss": 8.8,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2068422"
-  },
-  "title_vi": "CVE-2026-100780 — Sử dụng sau khi miễn phí trong thành phần Dom: Core & HTML",
-  "key": "8ef546ae951586c55a2047acde31d478bdb04f69"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-100781 — Sandbox escape due to incorrect boundary conditions in the Graphics: WebRender component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100781",
-  "published": "2026-09-29T13:17:43.023",
-  "summary": "Sandbox escape due to incorrect boundary conditions in the Graphics: WebRender component. This vulnerability was fixed in Firefox ESR 153.4, Firefox 157, Firefox ESR 115.42, and Firefox ESR 140.17.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-100781",
-   "cvss": null,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2068434"
-  },
-  "title_vi": "CVE-2026-100781 — Sandbox thoát do điều kiện ranh giới không chính xác trong thành phần Graphics: WebRender",
-  "key": "d360105d0febf5148f804a087b3ff35cef9684ff"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-100782 — Privilege escalation due to incorrect boundary conditions in the Graphics component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100782",
-  "published": "2026-09-29T13:17:43.137",
-  "summary": "Privilege escalation due to incorrect boundary conditions in the Graphics component. This vulnerability was fixed in Firefox ESR 153.4, Firefox 157, Firefox ESR 115.42, and Firefox ESR 140.17.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-100782",
-   "cvss": 8.8,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2068456"
-  },
-  "title_vi": "CVE-2026-100782 - leo thang đặc quyền do các điều kiện ranh giới không chính xác trong thành phần Đồ họa",
-  "key": "5a97aea8cf6fe50ae8554b6ca881a5dedb90a003"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-100783 — Uninitialized memory in the Audio/Video component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100783",
-  "published": "2026-09-29T13:17:43.247",
-  "summary": "Uninitialized memory in the Audio/Video component. This vulnerability was fixed in Firefox ESR 153.4, Firefox 157, Firefox ESR 115.42, and Firefox ESR 140.17.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-100783",
-   "cvss": 4.3,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2069804"
-  },
-  "title_vi": "CVE-2026-100783 — Bộ nhớ chưa khởi tạo trong thành phần Âm thanh/Video",
-  "key": "9879578df54c8a1a2209270c7314d5f0875809c2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-100784 — Use-after-free in the Layout: Text and Fonts component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100784",
-  "published": "2026-09-29T13:17:43.357",
-  "summary": "Use-after-free in the Layout: Text and Fonts component. This vulnerability was fixed in Firefox ESR 153.4, Firefox 157, Firefox ESR 115.42, and Firefox ESR 140.17.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-100784",
-   "cvss": 8.8,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2070264"
-  },
-  "title_vi": "CVE-2026-100784 - Sử dụng sau khi miễn phí trong bố cục: Thành phần văn bản và phông chữ",
-  "key": "3656985e41a867a352ba08e798899ebe20024051"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-100785 — Use-after-free in the DOM: Core & HTML component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100785",
-  "published": "2026-09-29T13:17:43.470",
-  "summary": "Use-after-free in the DOM: Core & HTML component. This vulnerability was fixed in Firefox ESR 153.4, Firefox 157, Firefox ESR 115.42, and Firefox ESR 140.17.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-100785",
-   "cvss": 8.8,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2071064"
-  },
-  "title_vi": "CVE-2026-100785 — Sử dụng sau khi miễn phí trong thành phần Dom: Core & HTML",
-  "key": "a3f036979c49d8b79c010d93f7d29833bd552e36"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-100786 — Sandbox escape due to use-after-free in the Graphics component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100786",
-  "published": "2026-09-29T13:17:43.583",
-  "summary": "Sandbox escape due to use-after-free in the Graphics component. This vulnerability was fixed in Firefox ESR 153.4, Firefox 157, Firefox ESR 115.42, and Firefox ESR 140.17.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-100786",
-   "cvss": 9.6,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2071067"
-  },
-  "title_vi": "CVE-2026-100786 — Sandbox thoát do sử dụng sau khi miễn phí trong thành phần Đồ họa",
-  "key": "4094f22585f5ca96cbe1f6cc580125608ebd10dd"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-100787 — Sandbox escape in the XUL component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100787",
-  "published": "2026-09-29T13:17:43.700",
-  "summary": "Sandbox escape in the XUL component. This vulnerability was fixed in Firefox ESR 153.4 and Firefox 157.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-100787",
-   "cvss": null,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2071068"
-  },
-  "title_vi": "CVE-2026-100787 — Lối thoát Sandbox trong thành phần XUL",
-  "key": "564a27e0ceca54fbebe3f1b3308f673cc212b214"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-100788 — Invalid pointer in the JavaScript: WebAssembly component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100788",
-  "published": "2026-09-29T13:17:43.817",
-  "summary": "Invalid pointer in the JavaScript: WebAssembly component. This vulnerability was fixed in Firefox ESR 153.4, Firefox 157, and Firefox ESR 140.17.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-100788",
-   "cvss": null,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2072413"
-  },
-  "title_vi": "CVE-2026-100788 — Con trỏ không hợp lệ trong thành phần JavaScript: WebAssembly",
-  "key": "385b54770a9809e78b56c0c67706e0d2e6a55f92"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-100789 — Use-after-free in the Graphics: Canvas2D component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100789",
-  "published": "2026-09-29T13:17:43.927",
-  "summary": "Use-after-free in the Graphics: Canvas2D component. This vulnerability was fixed in Firefox ESR 153.4, Firefox 157, Firefox ESR 115.42, and Firefox ESR 140.17.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-100789",
-   "cvss": 8.8,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2072429"
-  },
-  "title_vi": "CVE-2026-100789 - Sử dụng sau khi miễn phí trong Đồ họa: Thành phần Canvas2D",
-  "key": "f8d214b9fb3f636a82f7b31c8fd39c4fc4372e45"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-100790 — Use-after-free in the XSLT component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100790",
-  "published": "2026-09-29T13:17:44.030",
-  "summary": "Use-after-free in the XSLT component. This vulnerability was fixed in Firefox ESR 153.4, Firefox 157, Firefox ESR 115.42, and Firefox ESR 140.17.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-100790",
-   "cvss": 8.8,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2072432"
-  },
-  "title_vi": "CVE-2026-100790 - Sử dụng sau khi miễn phí trong thành phần XSLT",
-  "key": "24601766daa26fb86b06bbdba491cc4b243a9e12"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-100791 — Use-after-free in the DOM: Core & HTML component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100791",
-  "published": "2026-09-29T13:17:44.133",
-  "summary": "Use-after-free in the DOM: Core & HTML component. This vulnerability was fixed in Firefox ESR 153.4, Firefox 157, Firefox ESR 115.42, and Firefox ESR 140.17.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-100791",
-   "cvss": 8.8,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2072433"
-  },
-  "title_vi": "CVE-2026-100791 — Sử dụng sau khi miễn phí trong Dom: Core & HTML thành phần",
-  "key": "a45a7f417b129711374905c3b5d9b1f41fcb0d61"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-100792 — JIT miscompilation in the JavaScript: WebAssembly component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100792",
-  "published": "2026-09-29T13:17:44.237",
-  "summary": "JIT miscompilation in the JavaScript: WebAssembly component. This vulnerability was fixed in Firefox ESR 153.4, Firefox 157, and Firefox ESR 140.17.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-100792",
-   "cvss": null,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2073266"
-  },
-  "title_vi": "CVE-2026-100792 — Biên dịch sai JIT trong thành phần JavaScript: WebAssembly",
-  "key": "c1404391fe8ef14f9778660dab7bd2e8eeeee575"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-100793 — JIT miscompilation in the JavaScript Engine component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100793",
-  "published": "2026-09-29T13:17:44.340",
-  "summary": "JIT miscompilation in the JavaScript Engine component. This vulnerability was fixed in Firefox 157.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-100793",
-   "cvss": null,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2073268"
-  },
-  "title_vi": "CVE-2026-100793 — Biên dịch sai JIT trong thành phần JavaScript Engine",
-  "key": "87920169f2b77be6635a5d5a8231220603c40929"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-100794 — Sandbox escape due to incorrect boundary conditions in the Internationalization component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100794",
-  "published": "2026-09-29T13:17:44.440",
-  "summary": "Sandbox escape due to incorrect boundary conditions in the Internationalization component. This vulnerability was fixed in Firefox ESR 153.4, Firefox 157, and Firefox ESR 140.17.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-100794",
-   "cvss": null,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2028871"
-  },
-  "title_vi": "CVE-2026-100794 - Thoát khỏi Sandbox do các điều kiện ranh giới không chính xác trong thành phần Quốc tế hóa",
-  "key": "c375a6856f81219b7593a3c2e4568a0512ba46dd"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-100795 — Denial-of-service in the Networking component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100795",
-  "published": "2026-09-29T13:17:44.550",
-  "summary": "Denial-of-service in the Networking component. This vulnerability was fixed in Firefox 157.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-100795",
-   "cvss": 6.5,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2048871"
-  },
-  "title_vi": "CVE-2026-100795 — Từ chối dịch vụ trong thành phần Mạng",
-  "key": "9ae8d59dc0d062c9dc36ee2331c4338997bdd10a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-100796 — Use-after-free in the JavaScript: WebAssembly component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100796",
-  "published": "2026-09-29T13:17:44.650",
-  "summary": "Use-after-free in the JavaScript: WebAssembly component. This vulnerability was fixed in Firefox 157.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-100796",
-   "cvss": 8.8,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2049604"
-  },
-  "title_vi": "CVE-2026-100796 — Use-after-free trong JavaScript: WebAssembly component",
-  "key": "d2c28b32ebba9630a30271b62f9eb6e2d709627d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-100797 — Privilege escalation due to use-after-free in the Graphics: WebRender component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100797",
-  "published": "2026-09-29T13:17:44.760",
-  "summary": "Privilege escalation due to use-after-free in the Graphics: WebRender component. This vulnerability was fixed in Firefox ESR 153.4, Firefox 157, Firefox ESR 115.42, and Firefox ESR 140.17.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-100797",
-   "cvss": 8.8,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2050542"
-  },
-  "title_vi": "CVE-2026-100797 - leo thang đặc quyền do sử dụng sau khi miễn phí trong thành phần Đồ họa: WebRender",
-  "key": "caecc10b93d44ca6204d145ed321795167d255c9"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-100798 — Cryptography misuse in Storage: Quota Manager component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100798",
-  "published": "2026-09-29T13:17:44.870",
-  "summary": "Cryptography misuse in Storage: Quota Manager component. This vulnerability was fixed in Firefox ESR 153.4 and Firefox 157.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-100798",
-   "cvss": null,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2055694"
-  },
-  "title_vi": "CVE-2026-100798 - Lạm dụng mật mã trong lưu trữ: Thành phần Trình quản lý hạn ngạch",
-  "key": "50d4c28faccc6bcebedda04f13b6df8b9f309304"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-100799 — Uninitialized memory in the Graphics: WebGPU component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100799",
-  "published": "2026-09-29T13:17:44.973",
-  "summary": "Uninitialized memory in the Graphics: WebGPU component. This vulnerability was fixed in Firefox 157.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-100799",
-   "cvss": 4.3,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2056217"
-  },
-  "title_vi": "CVE-2026-100799 — Bộ nhớ chưa được khởi tạo trong Đồ họa: Thành phần WebGPU",
-  "key": "b5c53794029210ee7082e3d8ad47faadc43420a2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-100800 — Sandbox escape due to use-after-free in the Disability Access APIs component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100800",
-  "published": "2026-09-29T13:17:45.073",
-  "summary": "Sandbox escape due to use-after-free in the Disability Access APIs component. This vulnerability was fixed in Firefox ESR 153.4 and Firefox 157.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-100800",
-   "cvss": 9.6,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2056767"
-  },
-  "title_vi": "",
-  "key": "b545537776dabb88cf7650b17afc50c922ee2a6a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-100801 — Privilege escalation in the DLL Services component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100801",
-  "published": "2026-09-29T13:17:45.180",
-  "summary": "Privilege escalation in the DLL Services component. This vulnerability was fixed in Firefox ESR 153.4, Firefox 157, and Firefox ESR 140.17.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-100801",
-   "cvss": 8.8,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2057112"
-  },
-  "title_vi": "",
-  "key": "ebdd5c98c973cb98dde3abbb5c51a1d8363ee9dc"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-100802 — Uninitialized memory in the Graphics: WebGPU component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100802",
-  "published": "2026-09-29T13:17:45.287",
-  "summary": "Uninitialized memory in the Graphics: WebGPU component. This vulnerability was fixed in Firefox 157.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-100802",
-   "cvss": 4.3,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2057833"
-  },
-  "title_vi": "",
-  "key": "45443e44a2f7d09141c61feb85ee871154686838"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-100803 — Same-origin policy bypass in the WebExtensions component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100803",
-  "published": "2026-09-29T13:17:45.390",
-  "summary": "Same-origin policy bypass in the WebExtensions component. This vulnerability was fixed in Firefox ESR 153.4, Firefox 157, Firefox ESR 115.42, and Firefox ESR 140.17.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-100803",
-   "cvss": null,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2057988"
-  },
-  "title_vi": "",
-  "key": "22c69cc2a7f9cc0f625248575fd5ae6d47f730f7"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-100804 — Sandbox escape due to use-after-free in the Preferences: Backend component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100804",
-  "published": "2026-09-29T13:17:45.493",
-  "summary": "Sandbox escape due to use-after-free in the Preferences: Backend component. This vulnerability was fixed in Firefox 157.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-100804",
-   "cvss": 9.6,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2058647"
-  },
-  "title_vi": "",
-  "key": "31742c4eb652f5bffbbad7dff349a28dfdf5f1b1"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-100805 — Race condition, use-after-free in the Audio/Video component",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100805",
-  "published": "2026-09-29T13:17:45.600",
-  "summary": "Race condition, use-after-free in the Audio/Video component. This vulnerability was fixed in Firefox 157.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-100805",
-   "cvss": 7.5,
-   "ref": "https://bugzilla.mozilla.org/show_bug.cgi?id=2058785"
-  },
-  "title_vi": "",
-  "key": "70832ab40ca16fda8a1cf5872720476cff00b257"
  }
 ]
