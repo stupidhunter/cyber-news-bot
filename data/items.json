@@ -1,5 +1,291 @@
 [
  {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Triều Tiên tuyên bố phóng thử nghiệm tên lửa siêu vượt âm",
+  "link": "https://www.vietnamplus.vn/trieu-tien-tuyen-bo-phong-thu-nghiem-ten-lua-sieu-vuot-am-post1139930.vnp",
+  "published": "2026-10-04T03:09:48+00:00",
+  "summary": "Ngày 4/10, Triều Tiên đã tiến hành cuộc huấn luyện phóng tên lửa đạn đạo chiến lược tầm trung có khả năng cơ động quỹ đạo và ứng dụng AI, nhằm nâng cao khả năng tác chiến của lực lượng tên lửa. Hàn Quốc xác định Triều Tiên phóng tên lửa đạn đạo ra vùng biển phía Đông Triều Tiên diễn tập phóng vũ khí chiến lược, sử dụng tên lửa tầm trung Triều Tiên thử pháo phản lực nâng cấp tầm bắn 115km",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "8d6c023956d5a4d6c8ce44d6534f23ca900906ac"
+ },
+ {
+  "source": "Thanh Niên Công nghệ",
+  "title": "OpenAI bị điều tra sau khi AI tự vượt h&agrave;ng r&agrave;o bảo mật",
+  "link": "https://thanhnien.vn/openai-bi-dieu-tra-sau-khi-ai-tu-vuot-hang-rao-bao-mat-185261003230617808.htm",
+  "published": "2026-10-04T01:41:00+00:00",
+  "summary": "OpenAI bị y&ecirc;u cầu cung cấp th&ecirc;m th&ocirc;ng tin sau sự cố m&ocirc; h&igrave;nh AI vượt biện ph&aacute;p c&aacute;ch ly, truy cập internet v&agrave; hệ thống b&ecirc;n ngo&agrave;i khi thử nghiệm.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "699bf3b6ae59c67d7e53a061f37b295668f45dce"
+ },
+ {
+  "source": "GenK",
+  "title": "Ai chê cứ chê, iPhone 18 Pro Max vẫn liên tục “cháy hàng”",
+  "link": "https://genk.vn/ai-che-cu-che-iphone-18-pro-max-van-lien-tuc-chay-hang-16526100323224134.chn",
+  "published": "2026-10-04T04:14:33.138158+00:00",
+  "summary": "Nếu những lời chê có thể quyết định doanh số, iPhone 18 Pro Max có lẽ đã không đứng đầu bảng.",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "d21723a7514feac6652930f0951e64b3da8a8735"
+ },
+ {
+  "source": "Znews Công nghệ",
+  "title": "Sếp Intel: 'Đừng giao toàn bộ việc suy nghĩ cho AI'",
+  "link": "https://tech.zingnews.vn/sep-intel-dung-giao-toan-bo-viec-suy-nghi-cho-ai-post1686705.html",
+  "published": "2026-10-04T03:36:05+00:00",
+  "summary": "Ông George Chacko, Tổng giám đốc Intel khu vực Đông Nam Á, Australia và New Zealand nhận định người trẻ cần giữ khả năng phán đoán và ra quyết định.",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "b4f3493790ff10f35808f2f8fa2ae843959835d8"
+ },
+ {
+  "source": "Znews Công nghệ",
+  "title": "Con số gây bất ngờ về mã độc tống tiền",
+  "link": "https://tech.zingnews.vn/con-so-gay-bat-ngo-ve-ma-doc-tong-tien-post1687101.html",
+  "published": "2026-10-04T00:32:12+00:00",
+  "summary": "Hoạt động của các băng nhóm ransomware được ghi nhận tăng mạnh trong tháng 8 với hơn 1.000 nạn nhân trên toàn cầu.",
+  "categories": [
+   "breach",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "95e60cc3c5f94a3db04a99380c1f6fb3a512743f"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "Italy’s Data Protection Authority fines IQVIA €7 million over data protection breach",
+  "link": "https://databreaches.net/2026/10/03/italys-data-protection-authority-fines-iqvia-e7-million-over-data-protection-breach/",
+  "published": "2026-10-03T20:41:36+00:00",
+  "summary": "The following is a machine translation of a press release by Italy&#8217;s privacy guarantor: Healthcare data: The Privacy Guarantor fines IQVIA 7 million euros. The data of one million patients of 800 family doctors are not anonymous. The Italian Data Protection Authority has fined IQVIA Solutions Italy Srl €7 million. The company, part of a... Source",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Cơ quan bảo vệ dữ liệu của Ý phạt IQVIA 7 triệu € vì vi phạm bảo vệ dữ liệu",
+  "key": "c4dcf68124e922d6679d7463008089f130337805"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-105123 — W (vincent-peugnet/wcms) through 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-105123",
+  "published": "2026-10-04T00:16:35.703",
+  "summary": "W (vincent-peugnet/wcms) through 3.18.0 contains a remote code execution vulnerability that allows authenticated editors to write arbitrary files by abusing the unvalidated path in POST /api/v0/media/upload/[*:path]. Attackers can upload .php files executed by the web server, use encoded ../ sequences to write outside the media directory, and delete arbitrary files via DELETE /api/v0/media/[*:path].",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-105123",
+   "cvss": 8.8,
+   "ref": "https://github.com/vincent-peugnet/wcms"
+  },
+  "title_vi": "CVE-2026-105123 — W (vincent-peugnet/wcms) đến 3",
+  "key": "8cf2091da6ec904d97ad29ce9d989244dea21c29"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-105124 — W (vincent-peugnet/wcms) through 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-105124",
+  "published": "2026-10-04T00:16:35.853",
+  "summary": "W (vincent-peugnet/wcms) through 3.18.0 contains a stored cross-site scripting vulnerability that allows unauthenticated attackers to inject scripts via the login user field and visitor comment website field. Attackers can submit failed logins rendered unescaped in the adminlog.php log viewer, or comment URLs echoed into href attributes in editrightbar.php, executing script with administrator or editor privileges.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-105124",
+   "cvss": 6.1,
+   "ref": "https://github.com/vincent-peugnet/wcms"
+  },
+  "title_vi": "CVE-2026-105124 — W (vincent-peugnet/wcms) đến 3",
+  "key": "e529ba08221f8d8e455944a3acbd4cb6e118386c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-105125 — LaraDashboard before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-105125",
+  "published": "2026-10-04T00:16:35.990",
+  "summary": "LaraDashboard before 1.4.8 contains a path traversal vulnerability that allows unauthenticated attackers to read JSON files by manipulating the {lang} route segment. On Windows hosts, attackers can send URL-encoded backslash sequences like ..%5C to escape resources/lang and read composer.json or other application JSON files.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-105125",
+   "cvss": 3.7,
+   "ref": "https://github.com/laradashboard/laradashboard"
+  },
+  "title_vi": "CVE-2026-105125 — LaraDashboard trước 1",
+  "key": "9aa1a064fef966b33eb110492d46b21764a4231b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-105126 — LaraDashboard before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-105126",
+  "published": "2026-10-04T00:16:36.217",
+  "summary": "LaraDashboard before 1.4.8 contains an improper privilege management vulnerability that allows authenticated Admin users to escalate to Superadmin by editing or renaming roles. Attackers with role.edit can rename their role to Superadmin or grant user.login_as permissions to take over accounts and reach core upgrade and module installation functions for code execution.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-105126",
+   "cvss": 7.2,
+   "ref": "https://github.com/laradashboard/laradashboard"
+  },
+  "title_vi": "CVE-2026-105126 — LaraDashboard trước 1",
+  "key": "50d7609c263dabb406c73f04071fc3620d71ccb1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-105127 — LaraDashboard 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-105127",
+  "published": "2026-10-04T00:16:36.397",
+  "summary": "LaraDashboard 1.4.2 before 1.4.8 applies advanced email validation to unauthenticated forgot-password and reset-password requests, triggering DNS lookups and paid AbstractAPI verification calls. Unauthenticated attackers can submit arbitrary addresses to exhaust the verification quota, making validation fail open for all public forms, and probe domain resolution.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-105127",
+   "cvss": 5.3,
+   "ref": "https://github.com/laradashboard/laradashboard"
+  },
+  "title_vi": "CVE-2026-105127 — LaraDashboard 1",
+  "key": "1ac4deced457c15bf927a01e9cb33b615a803fb4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-105128 — LaraDashboard before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-105128",
+  "published": "2026-10-04T00:16:36.563",
+  "summary": "LaraDashboard before 1.4.8 contains an open redirect vulnerability that allows remote attackers to redirect users by supplying an unvalidated redirect_url parameter to EmailTemplateController builder and builderEdit. Attackers can send crafted builder links to logged-in users with email template permissions so saving a template navigates them to attacker-controlled phishing sites.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-105128",
+   "cvss": 5.4,
+   "ref": "https://github.com/laradashboard/laradashboard"
+  },
+  "title_vi": "CVE-2026-105128 — LaraDashboard trước 1",
+  "key": "fb2efea900c4bc3b3d392fb79096c3a9565b998b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-105129 — LaraDashboard before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-105129",
+  "published": "2026-10-04T00:16:36.730",
+  "summary": "LaraDashboard before 1.4.8 contains an incorrect authorization vulnerability that allows authenticated users with only settings.view permission to read stored secrets through the settings API. Attackers can query GET /api/settings or /api/settings/{option_name} to retrieve plaintext AI provider API keys, mail credentials, passwords and tokens.",
+  "categories": [
+   "ai",
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-105129",
+   "cvss": 6.5,
+   "ref": "https://github.com/laradashboard/laradashboard"
+  },
+  "title_vi": "CVE-2026-105129 — LaraDashboard trước 1",
+  "key": "36f18784ec24911c7b57f1b4066d3d7cb8a0c04d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-105130 — LaraDashboard from 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-105130",
+  "published": "2026-10-04T00:16:36.893",
+  "summary": "LaraDashboard from 1.4.0 before 1.4.8 contains a race condition vulnerability in RegisterController::register that allows unauthenticated attackers to bypass the per-IP daily registration limit. Attackers can send many concurrent registration requests from one IP so all pass RegistrationGuardService::hasExceededIpLimit before recordRegistration runs, creating accounts in bulk and defeating anti-automation controls.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-105130",
+   "cvss": 3.7,
+   "ref": "https://github.com/laradashboard/laradashboard"
+  },
+  "title_vi": "CVE-2026-105130 — LaraDashboard từ 1",
+  "key": "5d38d6b41bbea3b9a2ba8cb5cce84ba712c0dd8f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-105096 — A vulnerability was determined in Omega Solution CoinEx Crypto 2025",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-105096",
+  "published": "2026-10-04T02:16:28.740",
+  "summary": "A vulnerability was determined in Omega Solution CoinEx Crypto 2025. This affects an unknown function of the file /customer/ of the component Customer Profile API. Executing a manipulation of the argument ID can lead to authorization bypass. The attack may be launched remotely. The exploit has been publicly disclosed and may be utilized. The product web site does not exist anymore. Maybe the product got retired and/or replaced. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-105096",
+   "cvss": 6.3,
+   "ref": "https://github.com/4m3rr0r/PoCVulDb/issues/24"
+  },
+  "title_vi": "CVE-2026-105096 — Một lỗ hổng đã được xác định trong Omega Solution CoinEx Crypto 2025",
+  "key": "bc2c008954bc6e91ee128357db8144c5abab0a9b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-105131 — ezBookkeeping 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-105131",
+  "published": "2026-10-04T02:16:33.600",
+  "summary": "ezBookkeeping 1.2.0 before 2.0.1 contains a privilege escalation vulnerability that allows attackers holding an API token to obtain a full session token via /api/v1/tokens/refresh.json. Because TokenRefreshHandler never checks token type, attackers can exchange short-lived or IP-restricted API tokens for 30-day normal session tokens that bypass API token expiry and allowlists.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-105131",
+   "cvss": 5.4,
+   "ref": "https://github.com/mayswind/ezbookkeeping"
+  },
+  "title_vi": "CVE-2026-105131 — ezBookkeeping 1",
+  "key": "dcd6406563ddd9313ae7f71166432ebbba2a4fe2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-105097 — A vulnerability was identified in Omega Solution CoinEx Crypto 2025",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-105097",
+  "published": "2026-10-04T03:16:49.460",
+  "summary": "A vulnerability was identified in Omega Solution CoinEx Crypto 2025. This impacts an unknown function of the file /customer-currency/ of the component Customer Information API. The manipulation of the argument ID leads to authorization bypass. Remote exploitation of the attack is possible. The exploit is publicly available and might be used. The product web site does not exist anymore. Maybe the product got retired and/or replaced. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-105097",
+   "cvss": 4.3,
+   "ref": "https://github.com/4m3rr0r/PoCVulDb/issues/25"
+  },
+  "title_vi": "CVE-2026-105097 — Một lỗ hổng đã được xác định trong Omega Solution CoinEx Crypto 2025",
+  "key": "2347b2db88789c296e77cc56535dfea35e513f1e"
+ },
+ {
   "source": "DataBreaches.net",
   "title": "The Italian Italy’s Data Protection Authority fines IQVIA €7 million over data protection breach",
   "link": "https://databreaches.net/2026/10/03/the-italian-italys-data-protection-authority-fines-iqvia-e7-million-over-data-protection-breach/",
@@ -5196,7 +5482,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Các chiến dịch chính trị Mỹ đang sử dụng AI như thế nào và họ đang chi tiêu gì cho các công cụ",
   "key": "133382ef058509024af0f52123bb463220da6d5a"
  },
  {
@@ -5437,7 +5723,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Kẻ lừa đảo tiền điện tử cướp tài khoản X chính thức của Microsoft",
   "key": "ccdd599aa59026d56ce72c87ea69d374f896e047"
  },
  {
@@ -5451,7 +5737,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Trong một động thái hiếm hoi, bị cáo buộc là tin tặc nhà nước Iran bị dẫn độ sang Mỹ",
   "key": "58186921d37e67d55c921273b300af19d3eb337e"
  },
  {
@@ -5480,7 +5766,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Tại sao các CISO gặp khó khăn trong việc trả lời ba câu hỏi khó nhất của Hội đồng quản trị và cách khắc phục báo cáo",
   "key": "3b4e43daacfea0088401b8169bdc744b53ef03ee"
  },
  {
@@ -5971,7 +6257,7 @@
    "cvss": 7.3,
    "ref": "https://github.com/TryGhost/Ghost/security/advisories/GHSA-gfjp-2p8f-94qv"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104411 — Ghost from 6",
   "key": "fac544ff7af3d6920c4f5208e3c6a27f4675dfae"
  },
  {
@@ -5989,7 +6275,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/TryGhost/Ghost/security/advisories/GHSA-4pvx-fwjj-8gpc"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104412 — Ghost 0",
   "key": "1d550b9e76561f4aab711625ed8b398ebd864bd8"
  },
  {
@@ -6007,7 +6293,7 @@
    "cvss": 7.3,
    "ref": "https://github.com/TryGhost/Ghost/security/advisories/GHSA-347q-26qq-h2p6"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104413 — Ghost from 5",
   "key": "b72a8ec90a0f14cbe12cc7bd2d9f89c2b9602d35"
  },
  {
@@ -6025,7 +6311,7 @@
    "cvss": 8.1,
    "ref": "https://github.com/TryGhost/Ghost/security/advisories/GHSA-v3xr-g6p2-fvgv"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104414 — Ghost from 2",
   "key": "9cf361a05c94aed0fe517778791d72e98cdba0f2"
  },
  {
@@ -6061,7 +6347,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/TryGhost/Ghost/security/advisories/GHSA-v6q3-xqxm-6f5v"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104416 — Ghost from 4",
   "key": "a257f950d0eaf918940e0c43ecbc74271c99f014"
  },
  {
@@ -6097,7 +6383,7 @@
    "cvss": 7.2,
    "ref": "https://github.com/TryGhost/Ghost/security/advisories/GHSA-jj74-hc2q-xrvm"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104418 — Ghost from 6",
   "key": "433b55d7b2ec0e2ec9cbb8f05fb9e28c2679de5e"
  },
  {
@@ -6727,7 +7013,7 @@
    "cvss": 5.3,
    "ref": "https://github.com/YesWiki/yeswiki/security/advisories/GHSA-gf57-wg5m-h34q"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104454 — YesWiki trước 4",
   "key": "39018c0358668a73611a61360ae256fbc45186db"
  },
  {
@@ -6745,7 +7031,7 @@
    "cvss": 5.3,
    "ref": "https://github.com/YesWiki/yeswiki/security/advisories/GHSA-89vc-h4r4-h25q"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104455 — YesWiki trước 4",
   "key": "60a5a1ab47498ebccf24638b9440046552b31243"
  },
  {
@@ -6763,7 +7049,7 @@
    "cvss": 7.6,
    "ref": "https://github.com/YesWiki/yeswiki/security/advisories/GHSA-6rw5-62xf-q5xp"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104456 — YesWiki trước 4",
   "key": "9115145e1d355c8caf398f946e8c1e2519bc50d8"
  },
  {
@@ -6781,7 +7067,7 @@
    "cvss": 8.6,
    "ref": "https://github.com/YesWiki/yeswiki/security/advisories/GHSA-p87r-f4x4-8r4g"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104457 — YesWiki trước 4",
   "key": "9aab8fe51cc44b3c048d5e495b975ff1330243d9"
  },
  {
@@ -6799,7 +7085,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/YesWiki/yeswiki/security/advisories/GHSA-85f2-5r47-2pwm"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104458 — YesWiki trước 4",
   "key": "d5acf6faa80f7399d97f159c02c3106f5c73116e"
  },
  {
@@ -6817,7 +7103,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/YesWiki/yeswiki/security/advisories/GHSA-x4mq-qxvc-g82j"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104459 — YesWiki trước 4",
   "key": "de273d667013afa061be7e926ed3b13e154c1c76"
  },
  {
@@ -6835,7 +7121,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/YesWiki/yeswiki/security/advisories/GHSA-4333-x9p4-8xj7"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104460 — YesWiki trước 4",
   "key": "10679cfbe5072da016a9922bb9ccd564efda94a3"
  },
  {
@@ -6853,7 +7139,7 @@
    "cvss": 5.4,
    "ref": "https://github.com/YesWiki/yeswiki/security/advisories/GHSA-67v5-7pfv-pp9m"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104461 — YesWiki trước 4",
   "key": "42bbd81342ca658c6e89c1ad584b5bc105494b96"
  },
  {
@@ -6871,7 +7157,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/YesWiki/yeswiki/security/advisories/GHSA-p9rm-p6pp-8m8c"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104462 — YesWiki trước 4",
   "key": "1a89a438d5adc8776e94e5d2073c99fddd567de2"
  },
  {
@@ -6889,7 +7175,7 @@
    "cvss": 7.0,
    "ref": "https://github.com/YesWiki/yeswiki/security/advisories/GHSA-x623-wwf6-f6wp"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104463 — YesWiki trước 4",
   "key": "2ba6304626ac9d0795e7faa77300d5b65e9fc3c4"
  },
  {
@@ -6907,7 +7193,7 @@
    "cvss": 8.6,
    "ref": "https://github.com/YesWiki/yeswiki/security/advisories/GHSA-wcjp-v62j-p5xm"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104464 — YesWiki trước 4",
   "key": "94e1b670dc8826dd2ce0283614cd21a4d812a8e0"
  },
  {
@@ -6925,7 +7211,7 @@
    "cvss": 6.1,
    "ref": "https://github.com/YesWiki/yeswiki/security/advisories/GHSA-2fc6-rvp3-fgfj"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104465 — YesWiki trước 4",
   "key": "118e9eb430cbf995e2d45cb1ad5de36aa6d0d96c"
  },
  {
@@ -6943,7 +7229,7 @@
    "cvss": 5.4,
    "ref": "https://github.com/YesWiki/yeswiki/security/advisories/GHSA-7pv9-pwm8-cwwr"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104466 — YesWiki trước 4",
   "key": "b76d6e8162835866f370f02a344cd85d38843887"
  },
  {
@@ -6961,7 +7247,7 @@
    "cvss": 8.1,
    "ref": "https://github.com/YesWiki/yeswiki/security/advisories/GHSA-v527-6r4j-j2w2"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104467 — YesWiki trước 4",
   "key": "33982514299d45df6c1d2ede324fdc23bfbb81a8"
  },
  {
@@ -6979,7 +7265,7 @@
    "cvss": 4.8,
    "ref": "https://github.com/YesWiki/yeswiki/security/advisories/GHSA-x3xh-4hx3-rgm7"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104468 — YesWiki trước 4",
   "key": "06d90a28801fd6c9c4f33ef5fafe78061fe6dbcb"
  },
  {
@@ -6997,7 +7283,7 @@
    "cvss": 6.8,
    "ref": "https://github.com/YesWiki/yeswiki/security/advisories/GHSA-7fvc-v2hp-5pwh"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104469 — YesWiki trước 4",
   "key": "31cc8d2a395541f82c1258c4a681099bd48686a1"
  },
  {
@@ -7015,7 +7301,7 @@
    "cvss": 7.4,
    "ref": "https://github.com/YesWiki/yeswiki/security/advisories/GHSA-6rvf-7pwm-6j44"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104470 — YesWiki trước 4",
   "key": "aa11f38a8f8497a9f37d18235ba5a61b980fd72a"
  },
  {
@@ -7033,7 +7319,7 @@
    "cvss": 7.2,
    "ref": "https://github.com/YesWiki/yeswiki/security/advisories/GHSA-v3gq-c7c6-mxw3"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104471 — YesWiki trước 4",
   "key": "245661bdc92b2534e7fdec449b270e4d3b528728"
  },
  {
@@ -7051,7 +7337,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/YesWiki/yeswiki/security/advisories/GHSA-7cj2-9pgf-vcw2"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104472 — YesWiki trước 4",
   "key": "f033df5da1122ff8d816350e20a89a038618a221"
  },
  {
@@ -7069,7 +7355,7 @@
    "cvss": 6.1,
    "ref": "https://github.com/YesWiki/yeswiki/security/advisories/GHSA-5724-x3rh-5qqq"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104473 — YesWiki trước 4",
   "key": "a8596b4171c029712c17bc4c673c52b146fcc4cc"
  },
  {
@@ -7087,7 +7373,7 @@
    "cvss": 7.3,
    "ref": "https://github.com/onetwothreeneth/HospitalManagementSystem/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104609 - Một điểm yếu đã được xác định trong Hệ thống Quản lý Bệnh viện onetwothreeneth lên đến 9ef91ed6007314b6473110ed699dff76d158f61d",
   "key": "446a16823ccfb893b1f1fee8477fd1c384df3ae5"
  },
  {
@@ -7105,7 +7391,7 @@
    "cvss": null,
    "ref": "https://lists.apache.org/thread/33otcgbqd27wf6qq810q56znzbomnhg1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-61373 — Phân bổ tài nguyên không giới hạn hoặc lỗ hổng điều chỉnh trong Apache Thrift Java TSaslNonblockingServer",
   "key": "7b34f77bcf564cf67ec6cfbc1af9a160159b0e21"
  },
  {
@@ -7123,7 +7409,7 @@
    "cvss": null,
    "ref": "https://lists.apache.org/thread/33otcgbqd27wf6qq810q56znzbomnhg1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82458 — Phân bổ bộ nhớ với giá trị kích thước quá mức, Phân bổ tài nguyên không giới hạn hoặc lỗ hổng điều tiết trong Apache Thrift Go, netstd, OCaml, Er",
   "key": "ecd29bed13960a08fcb5ad8ecb754c19449fb0a8"
  },
  {
@@ -7141,7 +7427,7 @@
    "cvss": null,
    "ref": "https://lists.apache.org/thread/33otcgbqd27wf6qq810q56znzbomnhg1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82459 — Integer underflow (wrap or wraparound), Out-of-bound write vulnerability in Apache Thrift C++ 32 bit THeaderTransport",
   "key": "f4a749f42b25c91983e773df1991f1bbb64a4fbf"
  },
  {
@@ -7159,7 +7445,7 @@
    "cvss": null,
    "ref": "https://lists.apache.org/thread/33otcgbqd27wf6qq810q56znzbomnhg1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-85086 — Xác thực chứng chỉ không đúng cách, Khởi tạo tài nguyên có lỗ hổng mặc định không an toàn trong các ràng buộc perl Apache Thrift",
   "key": "db833a73346eba186bb45ead392d297a389d78b6"
  },
  {
@@ -7177,7 +7463,7 @@
    "cvss": null,
    "ref": "https://lists.apache.org/thread/33otcgbqd27wf6qq810q56znzbomnhg1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-85087 — Xác thực chứng chỉ không đúng cách, Trả về lỗ hổng mã trạng thái sai trong các ràng buộc python Apache Thrift",
   "key": "5312e3a75fdd21f82994e80ed725b9e532d4394e"
  },
  {
@@ -7195,7 +7481,7 @@
    "cvss": null,
    "ref": "https://lists.apache.org/thread/33otcgbqd27wf6qq810q56znzbomnhg1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-85088 — Xác thực chứng nhận không đúng cách với máy chủ không khớp trong thư viện C++ và D của Apache Thrift",
   "key": "cbff811956c1cae2f727e9087b7df8b10ac263cb"
  },
  {
@@ -7213,7 +7499,7 @@
    "cvss": null,
    "ref": "https://lists.apache.org/thread/33otcgbqd27wf6qq810q56znzbomnhg1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-86535 - Vòng lặp có điều kiện thoát không thể truy cập ('vòng lặp vô hạn'), sửa đổi các thuộc tính nguyên mẫu đối tượng ('ô nhiễm nguyên mẫu') được kiểm soát không đúng cách",
   "key": "3647493a8a75fa3ea84669949b862b5af5ca926a"
  },
  {
@@ -7231,7 +7517,7 @@
    "cvss": null,
    "ref": "https://lists.apache.org/thread/33otcgbqd27wf6qq810q56znzbomnhg1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-86536 - Sửa đổi không được kiểm soát đúng cách các thuộc tính nguyên mẫu đối tượng ('ô nhiễm nguyên mẫu') dễ bị tổn thương trong Apache Thrift tất cả các liên kết JS",
   "key": "892e70badc6b86f3089b835838ca796ada49cfea"
  },
  {
@@ -7267,7 +7553,7 @@
    "cvss": null,
    "ref": "https://lists.apache.org/thread/33otcgbqd27wf6qq810q56znzbomnhg1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-87117 — lỗ hổng NULL pointer dereference trong Apache Thrift PHP bindings",
   "key": "7fa30d931b150f1b1a246bd6cd15b1f57e2d664a"
  },
  {
@@ -7285,7 +7571,7 @@
    "cvss": null,
    "ref": "https://lists.apache.org/thread/33otcgbqd27wf6qq810q56znzbomnhg1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-90440 - Ngoại lệ không được dạy, xử lý không đúng các điều kiện đặc biệt, lỗ hổng tắt tài nguyên không đúng trong tiết kiệm Apache Thrift D",
   "key": "56a8f77e4bfc1f63d8b9a45da8db94e67a213bae"
  },
  {
@@ -7303,7 +7589,7 @@
    "cvss": null,
    "ref": "https://lists.apache.org/thread/33otcgbqd27wf6qq810q56znzbomnhg1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-92834 — Sử dụng tài nguyên chưa được khởi tạo, Trả về lỗ hổng mã trạng thái sai trong máy chủ Apache Thrift C++ WebSocket",
   "key": "10290ea589cca2a79048aaa57c12477145e520c6"
  },
  {
@@ -7771,7 +8057,7 @@
    "cvss": null,
    "ref": "https://lists.apache.org/thread/33otcgbqd27wf6qq810q56znzbomnhg1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-66859 — NULL Pointer Dereference, Use of Uninitialized Variable vulnerability in Apache Thrift c_glib bindings",
   "key": "8689607cc82667edff901f0947b7b3bdfd1fc18b"
  },
  {
@@ -11870,7 +12156,7 @@
    "cvss": null,
    "ref": "https://lists.apache.org/thread/33otcgbqd27wf6qq810q56znzbomnhg1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-94634 — Phân bổ tài nguyên không giới hạn hoặc điều chỉnh, Khởi tạo tài nguyên có lỗ hổng mặc định không an toàn trong Apache Thrift Python bind",
   "key": "ef45d809e1a71e73ce4ef588f4265c2cd12b8edf"
  },
  {
@@ -11888,7 +12174,7 @@
    "cvss": null,
    "ref": "https://lists.apache.org/thread/33otcgbqd27wf6qq810q56znzbomnhg1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-94635 - Phân bổ tài nguyên không giới hạn hoặc điều chỉnh, Xử lý không đúng cách lỗ hổng không nhất quán tham số độ dài trong các ràng buộc Apache Thrift Lua",
   "key": "dc1fdf6fc8bc51cdaa8837129cba1a4ef0643c05"
  },
  {
@@ -11906,7 +12192,7 @@
    "cvss": null,
    "ref": "https://lists.apache.org/thread/33otcgbqd27wf6qq810q56znzbomnhg1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-94639 - Xử lý không đúng các điều kiện ngoại lệ, Phân bổ tài nguyên không giới hạn hoặc điều tiết, Lỗ hổng ngoại lệ chưa được xử lý trong Apache Thrift J",
   "key": "49d27dc4abc539911af531af4a4a9be9f23e13df"
  },
  {
@@ -11924,7 +12210,7 @@
    "cvss": null,
    "ref": "https://www.incibe.es/en/incibe-cert/notices/aviso/multiple-vulnerabilities-repasat-application"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-95662 — Lỗ hổng Cross-Site Scripting trong ứng dụng Repasat",
   "key": "d22af59b067856f10632196356422e4a9ceb9639"
  },
  {
@@ -11942,7 +12228,7 @@
    "cvss": 6.1,
    "ref": "https://github.com/wp-statistics/wp-statistics/pull/1148"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-97652 — Thống kê WP – Plugin thay thế Google Analytics đơn giản, thân thiện với quyền riêng tư dành cho WordPress dễ bị tấn công bởi Reflected Cross-Site Scripting qua REQ",
   "key": "92a89ad2c3f406ac4a717f7cb4e06ff0f0edf219"
  },
  {
@@ -73771,311 +74057,5 @@
   },
   "title_vi": "",
   "key": "5e2f2705f097e2ebb17e52bd197ced8a8b7578fd"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-76724 — A command injection vulnerability exists in CLI of the affected HPE Networking Instant ON APs that could allow an unauthenticated adjacent attacker to",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76724",
-  "published": "2026-09-29T20:17:24.453",
-  "summary": "A command injection vulnerability exists in CLI of the affected HPE Networking Instant ON APs that could allow an unauthenticated adjacent attacker to perform command injection by sending specially crafted packets. Successful exploitation could allow an attacker to execute arbitrary commands as a privileged user on the underlying operating system.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-76724",
-   "cvss": 9.6,
-   "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05150en_us&docLocale=en_US"
-  },
-  "title_vi": "",
-  "key": "d1ee7b4d2d981e809dd7b83de1a5aa15d5237b98"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-76725 — A vulnerability has been identified in a management protocol of HPE Networking Instant ON APs that could allow an unauthenticated adjacent attacker to",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76725",
-  "published": "2026-09-29T20:17:24.580",
-  "summary": "A vulnerability has been identified in a management protocol of HPE Networking Instant ON APs that could allow an unauthenticated adjacent attacker to circumvent existing authentication controls. Successful exploitation could result in a complete bypass of security restrictions, potentially leading to remote code execution with elevated privileges.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-76725",
-   "cvss": 9.6,
-   "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05150en_us&docLocale=en_US"
-  },
-  "title_vi": "",
-  "key": "8c7a3196d18b7a584d4dc01a125691aa9f6f12be"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-76726 — An authentication bypass vulnerability in the API endpoint of HPE Networking Instant ON could allow an unauthenticated remote attacker to bypass netwo",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76726",
-  "published": "2026-09-29T20:17:24.707",
-  "summary": "An authentication bypass vulnerability in the API endpoint of HPE Networking Instant ON could allow an unauthenticated remote attacker to bypass network access controls if certain preconditions outside of the attacker's control are met. Successful exploitation could allow an attacker to obtain unauthorized access to restricted networks.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-76726",
-   "cvss": 8.1,
-   "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05150en_us&docLocale=en_US"
-  },
-  "title_vi": "",
-  "key": "f2bc221d896ee959a4a92cfbfbca58f59dea2d85"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-76727 — Command injection vulnerabilities exist in the affected interface of HPE Networking Instant ON that could allow an authenticated remote attacker with ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76727",
-  "published": "2026-09-29T20:17:24.827",
-  "summary": "Command injection vulnerabilities exist in the affected interface of HPE Networking Instant ON that could allow an authenticated remote attacker with high privileges to perform command injection. Successful exploitation could allow an attacker to execute arbitrary commands as a privileged user on the underlying operating system.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-76727",
-   "cvss": 7.2,
-   "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05150en_us&docLocale=en_US"
-  },
-  "title_vi": "",
-  "key": "4d19ac885f2e02a5bf4d8c3e62745d9df3a968af"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-76728 — A vulnerability in the API endpoint of HPE Networking Instant ON APs could allow an authenticated remote attacker with high privileges to conduct a se",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76728",
-  "published": "2026-09-29T20:17:24.947",
-  "summary": "A vulnerability in the API endpoint of HPE Networking Instant ON APs could allow an authenticated remote attacker with high privileges to conduct a server-side request forgery (SSRF) attack. Successful exploitation could allow an attacker to execute arbitrary commands as a privileged user on the underlying operating system.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-76728",
-   "cvss": 7.2,
-   "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05150en_us&docLocale=en_US"
-  },
-  "title_vi": "",
-  "key": "f2e862e8e51d7950a0535570a5e1da9da4f4eafe"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-76729 — A format string vulnerability in the API endpoint of HPE Networking Instant ON APs could allow an authenticated remote attacker with high privileges t",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76729",
-  "published": "2026-09-29T20:17:25.073",
-  "summary": "A format string vulnerability in the API endpoint of HPE Networking Instant ON APs could allow an authenticated remote attacker with high privileges to cause memory corruption with a modified input. Successful exploitation could allow an attacker to provoke a denial-of-service condition or remote code execution in the affected system function.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-76729",
-   "cvss": 6.6,
-   "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05150en_us&docLocale=en_US"
-  },
-  "title_vi": "",
-  "key": "4997816d7e6afc8977bdf827d4a4ca5eb63a3ab3"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-76730 — An authentication bypass vulnerability exists in the PAPI protocol of HPE Networking Instant ON APs that could allow an unauthenticated adjacent attac",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76730",
-  "published": "2026-09-29T20:17:25.193",
-  "summary": "An authentication bypass vulnerability exists in the PAPI protocol of HPE Networking Instant ON APs that could allow an unauthenticated adjacent attacker to circumvent existing authentication controls. Successful exploitation could allow an attacker to circumvent certain existing authentication mechanisms and send unauthorized network traffic to the target device.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-76730",
-   "cvss": 6.5,
-   "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05150en_us&docLocale=en_US"
-  },
-  "title_vi": "",
-  "key": "48de08d7f9e3ffbd7e29b87499cb4b706e18378b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-76731 — An authentication bypass vulnerability in the captive portal of HPE Networking Instant On could allow an unauthenticated remote attacker to circumvent",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76731",
-  "published": "2026-09-29T20:17:25.350",
-  "summary": "An authentication bypass vulnerability in the captive portal of HPE Networking Instant On could allow an unauthenticated remote attacker to circumvent existing authentication controls. Successful exploitation could allow an attacker to gain limited access to some data and to make limited changes within the affected component.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-76731",
-   "cvss": 6.5,
-   "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05150en_us&docLocale=en_US"
-  },
-  "title_vi": "",
-  "key": "caf2ff05d406985dc7cef806f56ea12d8abdd165"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-76732 — A local privilege-escalation vulnerability has been discovered in the affected daemon of HPE Networking Instant ON",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76732",
-  "published": "2026-09-29T20:17:25.497",
-  "summary": "A local privilege-escalation vulnerability has been discovered in the affected daemon of HPE Networking Instant ON. Successful exploitation of this vulnerability could allow a local attacker to achieve arbitrary code execution with root privileges if certain preconditions are met outside of the attacker's control.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-76732",
-   "cvss": 6.4,
-   "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05150en_us&docLocale=en_US"
-  },
-  "title_vi": "",
-  "key": "57db62bce516b225bc58f66416907697b2a97b9d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-76733 — A denial-of-service vulnerability exists in the API endpoint of HPE Networking Instant On that could allow an authenticated attacker with administrati",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76733",
-  "published": "2026-09-29T20:17:25.627",
-  "summary": "A denial-of-service vulnerability exists in the API endpoint of HPE Networking Instant On that could allow an authenticated attacker with administrative privileges to cause a denial of service. Successful exploitation could allow an attacker to interrupt the normal operation of the affected service, which resumes without manual intervention.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-76733",
-   "cvss": 4.9,
-   "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05150en_us&docLocale=en_US"
-  },
-  "title_vi": "",
-  "key": "ec1b6fcf0282521ddb17c5bf6997a34d2541e319"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-76734 — A memory corruption vulnerability in the affected interface of HPE Networking Instant On could allow an unauthenticated remote attacker to conduct a d",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76734",
-  "published": "2026-09-29T20:17:25.767",
-  "summary": "A memory corruption vulnerability in the affected interface of HPE Networking Instant On could allow an unauthenticated remote attacker to conduct a denial of service attack. Successful exploitation could allow an attacker to interrupt the normal operation of the affected service and to access some limited information within the affected component.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-76734",
-   "cvss": 4.8,
-   "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05150en_us&docLocale=en_US"
-  },
-  "title_vi": "",
-  "key": "f0362488e30438f973e1a99f58be58f84f016328"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-76735 — A sensitive information disclosure vulnerability exists in the underlying operating system of HPE Networking Instant On",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76735",
-  "published": "2026-09-29T20:17:25.890",
-  "summary": "A sensitive information disclosure vulnerability exists in the underlying operating system of HPE Networking Instant On. Successful exploitation could allow an authenticated local attacker with high privileges to retrieve information which could be used to potentially gain further access to network services supported by HPE Networking Instant On, only if certain preconditions outside of the attacker's control are met.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-76735",
-   "cvss": 4.1,
-   "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05150en_us&docLocale=en_US"
-  },
-  "title_vi": "",
-  "key": "786ca5b7303aac2a1039332927b929c1c2d97029"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-76736 — A buffer overflow vulnerability exists in the underlying operating system of HPE Networking Instant On",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76736",
-  "published": "2026-09-29T20:17:26.027",
-  "summary": "A buffer overflow vulnerability exists in the underlying operating system of HPE Networking Instant On. Successful exploitation could allow a low-privilege authenticated local attacker to interrupt the normal operation of the affected service.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-76736",
-   "cvss": 3.3,
-   "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05150en_us&docLocale=en_US"
-  },
-  "title_vi": "",
-  "key": "8cbc5a8c8aa7ee20040606e0dc5825b5beef1aa6"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-76737 — An authenticated path traversal vulnerability exists in the command line interface of HPE Networking Instant On",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76737",
-  "published": "2026-09-29T20:17:26.150",
-  "summary": "An authenticated path traversal vulnerability exists in the command line interface of HPE Networking Instant On. Successful exploitation could allow an attacker with administrative access to modify a limited set of files on the underlying operating system and to interrupt the normal operation of the affected service.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-76737",
-   "cvss": 3.0,
-   "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05150en_us&docLocale=en_US"
-  },
-  "title_vi": "",
-  "key": "a6a5a86a1129cd305e6288d2f728b60e06f1a017"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-76738 — A buffer overflow vulnerability exists in the API endpoint of HPE Networking Instant On that could allow an authenticated attacker with administrative",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76738",
-  "published": "2026-09-29T20:17:26.277",
-  "summary": "A buffer overflow vulnerability exists in the API endpoint of HPE Networking Instant On that could allow an authenticated attacker with administrative privileges to cause a denial of service. Successful exploitation could allow an attacker to interrupt the normal operation of the affected service, which recovers without manual intervention.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-76738",
-   "cvss": 2.7,
-   "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05150en_us&docLocale=en_US"
-  },
-  "title_vi": "",
-  "key": "7d5671bdc02aea2cb8866f2772522dad9da8c1a0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79348 — KitchenAsty through 0",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79348",
-  "published": "2026-09-29T20:17:26.583",
-  "summary": "KitchenAsty through 0.3.0 contains a broken object level authorization (IDOR) vulnerability in the reservations API. The endpoint GET /api/reservations/:id in packages/server applies the authenticate middleware but performs no ownership or role check, and the getReservation handler in packages/server/src/controllers/reservation.controller.ts returns the record retrieved by the client-supplied identifier without comparing reservation.customerId to the authenticated principal",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79348",
-   "cvss": 4.3,
-   "ref": "https://github.com/mighty840/kitchenasty"
-  },
-  "title_vi": "",
-  "key": "712b662eb59bb6a9d4679ff74268d67cd9092717"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79403 — An issue in Kilo Code before v7",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79403",
-  "published": "2026-09-29T20:17:26.737",
-  "summary": "An issue in Kilo Code before v7.4.1 allows a local attacker to execute arbitrary code via the permission/allow-everything endpoint",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79403",
-   "cvss": null,
-   "ref": "https://gist.github.com/akinerkisa/e345af9f9992b87247a71fdb5b36ac2c"
-  },
-  "title_vi": "",
-  "key": "6860bcab2a98c0486908d9efd707afeeb225981a"
  }
 ]
