@@ -1,5 +1,105 @@
 [
  {
+  "source": "Znews Công nghệ",
+  "title": "Hàn Quốc điều tra nghi vấn AI trong vụ hack hàng loạt ngân hàng",
+  "link": "https://tech.zingnews.vn/han-quoc-dieu-tra-nghi-van-ai-dung-sau-loat-vu-hack-ngan-hang-post1687513.html",
+  "published": "2026-10-04T22:38:18+00:00",
+  "summary": "Loạt sự cố an ninh mạng tại nhiều tổ chức tài chính Hàn Quốc đang làm dấy lên lo ngại về một hình thức tấn công mới, khi AI có thể được dùng để tự động dò tìm và khai thác lỗ hổng.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "26e9860f6d2b78872cd54d2fa809a2917d7b7e56"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "South Korea’s President Lee Jae Myung orders thorough probe into data breaches at local banks",
+  "link": "https://databreaches.net/2026/10/04/south-koreas-president-lee-jae-myung-orders-thorough-probe-into-data-breaches-at-local-banks/",
+  "published": "2026-10-04T19:38:27+00:00",
+  "summary": "Lee Hyo-jin reports: President Lee Jae Myung on Sunday ordered a thorough investigation into a string of recent data breaches at financial institutions, as artificial intelligence (AI)-powered cyberattacks increasingly target them. According to Cheong Wa Dae, Lee was briefed on recent data breaches at financial and public institutions and their responses to the incidents. &#8220;The... Source",
+  "categories": [
+   "ai",
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Tổng thống Hàn Quốc Lee Jae Myung ra lệnh điều tra kỹ lưỡng các vụ vi phạm dữ liệu tại các ngân hàng địa phương",
+  "key": "bb789d06c34274fa8c6bad1aa7bd6a257620822e"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "Slate Valley Unified School District voted not to pay ransom demand; Kairos likely to leak data",
+  "link": "https://databreaches.net/2026/10/04/slate-valley-unified-school-district-voted-not-to-pay-ransom-demand-kairos-likely-to-leak-data/",
+  "published": "2026-10-04T19:12:54+00:00",
+  "summary": "The Slate Valley Unified School District in Fair Haven, Vermont, has been responding to a security incident since September 3. On October 2, Kairos threat actors contacted DataBreaches to alert us to the incident and their response to the district&#8217;s claim that they believed student data had not been compromised. They were also angry that... Source",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Học khu Thống nhất Thung lũng Slate đã bỏ phiếu không trả yêu cầu tiền chuộc; Kairos có khả năng rò rỉ dữ liệu",
+  "key": "b55a125e02d7876b1b58ff8f5cfde559887cd746"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2026-88779 — Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88779",
+  "published": "2026-10-04",
+  "summary": "Citrix NetScaler ADC (formerly Citrix ADC) and Citrix NetScaler Gateway (formerly Citrix Gateway) contain an improper restriction of operations within the bounds of a memory buffer vulnerability that could allow for a denial of service.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88779",
+   "vendor": "Citrix",
+   "product": "NetScaler",
+   "due_date": "2026-10-07",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "CVE-2026-88779 — Citrix NetScaler Hạn chế hoạt động không đúng cách trong giới hạn của lỗ hổng bộ đệm bộ nhớ",
+  "key": "280da2b44d9867ffe7fc092e6e257fceee1e02f5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-105163 — A vulnerability was detected in crossplane crossplane-runtime up to 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-105163",
+  "published": "2026-10-04T22:16:58.763",
+  "summary": "A vulnerability was detected in crossplane crossplane-runtime up to 2.2.2/2.3.2. This vulnerability affects the function Get of the file pkg/xpkg/client.go of the component ImageConfig. The manipulation results in time-of-check time-of-use. The attack may be launched remotely. Upgrading to version 2.2.3, 2.3.3 and 2.4.0-rc.1 is able to resolve this issue. The patch is identified as bee99c6cd6ca81878acca2940a2f0a02169fc208. You should upgrade the affected component.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-105163",
+   "cvss": 5.3,
+   "ref": "https://github.com/advisories/GHSA-mf7q-r4rv-jv94"
+  },
+  "title_vi": "CVE-2026-105163 — Một lỗ hổng được phát hiện trong thời gian chạy đa máy bay lên tới 2",
+  "key": "d0998293dc0c83361e9086cb74f23b9afe7ed925"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-105164 — A flaw has been found in NASA cFS up to 7",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-105164",
+  "published": "2026-10-04T22:16:59.490",
+  "summary": "A flaw has been found in NASA cFS up to 7.0.1. This issue affects the function CFE_FS_ParseInputFileNameEx of the file cfe/modules/fs/fsw/src/cfe_fs_api.c. This manipulation causes out-of-bounds read. Remote exploitation of the attack is possible. The pull request to fix this issue awaits acceptance.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-105164",
+   "cvss": 2.7,
+   "ref": "https://github.com/nasa/cFS/"
+  },
+  "title_vi": "CVE-2026-105164 - Một lỗ hổng đã được tìm thấy trong NASA cFS lên tới 7",
+  "key": "ea0a6074f2b29e62a24a151c7df4e6e911f7fb27"
+ },
+ {
   "source": "VietnamPlus Kinh tế số",
   "title": "Philippines bắt giữ hàng trăm người Trung Quốc khi truy quét lừa đảo trực tuyến",
   "link": "https://www.vietnamplus.vn/philippines-bat-giu-hang-tram-nguoi-trung-quoc-khi-truy-quet-lua-dao-truc-tuyen-post1140019.vnp",
@@ -14696,7 +14796,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Bị cáo buộc KillSec Ransomware chủ mưu một đứa trẻ 16 tuổi",
   "key": "b00c3d6ddbe03c6e765506aaa14deafd248ce991"
  },
  {
@@ -17777,7 +17877,7 @@
    "cvss": null,
    "ref": "https://gist.github.com/Ro1ME/946b670dfefd594a123ed4527de34088"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-51873 — Devika v1",
   "key": "0ed8f7077495ffdf6b2c3f0d275c940a5554c50b"
  },
  {
@@ -17831,7 +17931,7 @@
    "cvss": null,
    "ref": "https://gist.github.com/Ro1ME/c5685936179edcbf942f3fdd745d1473"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-51876 — DeepTutor 1",
   "key": "981cb94c8adea76696a751dd9c0e1f6d8fead14d"
  },
  {
@@ -17849,7 +17949,7 @@
    "cvss": null,
    "ref": "https://gist.github.com/Ro1ME/8f6e32ba67d184e64e80f243c6625f3a"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-51878 — deeptutor 1",
   "key": "e7c7a68d7e5764eda213cae93f62d94d2d2b773c"
  },
  {
@@ -17867,7 +17967,7 @@
    "cvss": null,
    "ref": "https://gist.github.com/Ro1ME/ae1933a56ec31eccd2947fa64c1390e1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-51879 — deeptutor 1",
   "key": "05e68e6d619fbeb4fc84409542465e3858ee8b0a"
  },
  {
@@ -17885,7 +17985,7 @@
    "cvss": null,
    "ref": "https://gist.github.com/Ro1ME/b5ea6ac856a593e1d20042eb72c00fae"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-51880 — deeptutor 1",
   "key": "371405a7bc34644b07f0361bd0987f5c21fc85ee"
  },
  {
@@ -18672,7 +18772,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Thanh thiếu niên bị nghi cầm đầu nhóm đòi tiền chuộc KillSec bị bắt trong hoạt động quốc tế",
   "key": "767bc3b7470c5def952f7675f5237cbef434a5e3"
  },
  {
@@ -18728,7 +18828,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Iran bị buộc tội hack các trường đại học Mỹ bị dẫn độ từ Montenegro",
   "key": "76d5952c638bf1660c4896ad1ed3b8ef1acff7e1"
  },
  {
@@ -18742,7 +18842,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Phần mềm OpenAI đã cố gắng bí mật lấy dữ liệu từ hàng chục trang web nổi tiếng",
   "key": "e20dd02854b9095bdfa07f133e7563f57e313d5a"
  },
  {
@@ -27953,7 +28053,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/FasterXML/jackson-dataformats-binary/blob/2.18/release-notes/VERSION-2.x"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-68496 — Trình phân tích cú pháp Smile trong FasterXML jackson-dataformats-binary không bao giờ gọi StreamReadConstraints",
   "key": "aa1c547c2c3122e2b3a7e88eb81491ea5c612133"
  },
  {
@@ -27972,7 +28072,7 @@
    "cvss": null,
    "ref": "https://github.com/4TUResearchData/djehuty/releases/tag/v26.3.2"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-73976 — djehuty là hệ thống lưu trữ dữ liệu nghiên cứu được phát triển bởi 4TU",
   "key": "db49bdd5dd8f21d8e2b996948f048c083eeca778"
  },
  {
@@ -27990,7 +28090,7 @@
    "cvss": null,
    "ref": "https://www.tp-link.com/en/support/download/tapo-c120/v1.26/#Firmware-Release-Notes"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-78577 — Tapo C120 v1 và C200 V5 chứa lỗ hổng trong chức năng quét tích hợp HTTPS do thiếu xác thực",
   "key": "266e53c369d4857c6ca74a21c151215de4199739"
  },
  {
@@ -28008,7 +28108,7 @@
    "cvss": null,
    "ref": "https://www.tp-link.com/en/support/download/tapo-c120/v1.26/#Firmware-Release-Notes"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-78578 — Tapo C120 v1 và C200 v5 không thực thi xác thực cho các hành động kết nối tích hợp HTTPS bằng phương thức thực hiện sau khi thiết lập lần đầu",
   "key": "86acc191e7e76e9417f23b4cae70ebe110c74b41"
  },
  {
@@ -28027,7 +28127,7 @@
    "cvss": 8.2,
    "ref": "https://aws.amazon.com/security/security-bulletins/2026-121-aws/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-97662 — Sự cố chèn đối số trong hoạt động quét khác biệt trong AWS security-agent-mcp-server trước phiên bản 0",
   "key": "a56c895fae411cfb6b2a69225161965f62d0bd2f"
  },
  {
@@ -28045,7 +28145,7 @@
    "cvss": null,
    "ref": "https://www.tp-link.com/en/support/download/tapo-c120/v1.26/#Firmware-Release-Notes"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-9032 — Tapo C120 v1 và C200 v5 chứa tham chiếu con trỏ NULL trong trình phân tích cú pháp yêu cầu kết nối tích hợp HTTPS",
   "key": "ed1ecee6918bc530da485133e4b16a09423a622a"
  },
  {
@@ -28063,7 +28163,7 @@
    "cvss": null,
    "ref": "https://uziii2208.github.io/post/cve-2026-104056/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104056 — Phiên bản Authlib 1",
   "key": "7e3eadd6d78fc3bb4cfad55a2f6a8bc05f2d372b"
  },
  {
@@ -28081,7 +28181,7 @@
    "cvss": 7.5,
    "ref": "https://gist.github.com/mansurmavlankulov/022bc672583687ccb34dcf4cb31b6188"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104057 — Podgrab chứa lỗ hổng từ chối dịch vụ không được xác thực do truy cập đồng thời không đồng bộ vào các bản đồ được chia sẻ (activePlayers và allCo",
   "key": "b04f009ea26c01a7a17c3a6166a674f2b5e2a373"
  },
  {
@@ -28099,7 +28199,7 @@
    "cvss": 5.3,
    "ref": "https://gist.github.com/mansurmavlankulov/022bc672583687ccb34dcf4cb31b6188"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104058 — Podgrab chứa một lỗ hổng xác thực bị thiếu trong đó tuyến /ws WebSocket được đăng ký trên công cụ root gin thay vì BasicAuth",
   "key": "a9f3e863136e6893ab06aad583e9afc0b5e07e87"
  },
  {
@@ -28117,7 +28217,7 @@
    "cvss": 8.1,
    "ref": "https://gist.github.com/mansurmavlankulov/c7683e3204e84892e442b0196585d5bb"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104059 — Giáo trình 3",
   "key": "c3adb9f5b32a8f39a012cddf3ad6d27da3634d5a"
  },
  {
@@ -28135,7 +28235,7 @@
    "cvss": 7.4,
    "ref": "https://support.confluent.io/hc/en-us/articles/54133146724244-CONFSA-2026-22-CVE-2026-15911-Confluent-Kafka-Python-Client-Vulnerability-TLS-Certificate-verification-disabled-by-default-in-HashiCorp-Vault-KMS-Integration"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-15911 — Tích hợp HashiCorp Vault KMS của máy khách Confluent Kafka Python có thể cho phép kẻ tấn công từ xa lấy được thông tin nhạy cảm do chứng chỉ TLS không đúng",
   "key": "aaf92c54b54c0863477760be736c38535a46a6a4"
  },
  {
@@ -28153,7 +28253,7 @@
    "cvss": null,
    "ref": "https://www.johnsoncontrols.com/trust-center/cybersecurity/security-advisories"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-27872 — - Lỗ hổng Quản lý đặc quyền không phù hợp trong Johnson Controls Easy IO FG cho phép (Brute Force)",
   "key": "67d39000870a2c3161810b639e084783414847a4"
  },
  {
@@ -28171,7 +28271,7 @@
    "cvss": 9.1,
    "ref": "https://github.com/dhis2/dhis2-core/releases/tag/2.42.5.1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-55083 — DHIS2 là một hệ thống thông tin linh hoạt để thu thập, quản lý, xác thực, phân tích và trực quan hóa dữ liệu",
   "key": "1d8ed37c0e9d538583963a464713930baec1c967"
  },
  {
@@ -28189,7 +28289,7 @@
    "cvss": 8.7,
    "ref": "https://github.com/givanz/Vvveb/releases/tag/1.0.8.6"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-55230 — Vvveb là một CMS mạnh mẽ và dễ sử dụng với trình tạo trang để xây dựng trang web, blog hoặc cửa hàng thương mại điện tử",
   "key": "de65f55a0849d0e9c0605cf465ad5c00d2d97041"
  },
  {
@@ -28209,7 +28309,7 @@
    "cvss": 7.2,
    "ref": "https://github.com/givanz/Vvveb/releases/tag/1.0.8.6"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-55231 — Vvveb là một CMS mạnh mẽ và dễ sử dụng với trình tạo trang để xây dựng trang web, blog hoặc cửa hàng thương mại điện tử",
   "key": "8e528bcb5333efd782904fc0432aa3dabba54f37"
  },
  {
@@ -28228,7 +28328,7 @@
    "cvss": 7.6,
    "ref": "https://github.com/givanz/Vvveb/commit/e27d1ef097a8502c33f8cc94271c948407c5dce3"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-55232 — Vvveb là một CMS mạnh mẽ và dễ sử dụng với trình tạo trang để xây dựng trang web, blog hoặc cửa hàng thương mại điện tử",
   "key": "b85d213d926fb398195f48bc63bc47c1a90c9ad0"
  },
  {
@@ -28246,7 +28346,7 @@
    "cvss": null,
    "ref": ""
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-63721 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
   "key": "90cb277d56251b7d42e514f3c1a04f168299a051"
  },
  {
@@ -28264,7 +28364,7 @@
    "cvss": null,
    "ref": ""
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-63724 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
   "key": "bd9bccc158ebbff48754d35a454884bbf63a6ba5"
  },
  {
@@ -28282,7 +28382,7 @@
    "cvss": null,
    "ref": "https://www.tp-link.com/en/support/download/archer-ax90/v1/#Firmware"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-84682 — Tồn tại lỗ hổng chèn lệnh trong dịch vụ TDDPv2 (/usr/bin/tddp) trên Archer AX90 V1",
   "key": "bc56f325a8e70aee2fc52938d44819ac44d4dc16"
  },
  {
@@ -28300,7 +28400,7 @@
    "cvss": null,
    "ref": "https://www.tp-link.com/en/support/download/deco-m9-plus/v2/#Firmware"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-8618 — Lỗ hổng tràn bộ đệm dựa trên ngăn xếp tồn tại trong dịch vụ TDDPv2 (/usr/bin/tddp) trên Deco M9 Plus do không đủ xác thực r được giải mã",
   "key": "fceca7de94b33286d699167083c067f26c39318b"
  },
  {
@@ -28318,7 +28418,7 @@
    "cvss": 6.5,
    "ref": "https://raw.githubusercontent.com/cisagov/CSAF/develop/csaf_files/IT/white/2026/va-26-275-04.json"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-100251 — Lỗ sâu",
   "key": "98be35eb3a360a48f34053eb63f46b7838f1a535"
  },
  {
@@ -28336,7 +28436,7 @@
    "cvss": 9.3,
    "ref": "https://raw.githubusercontent.com/cisagov/CSAF/develop/csaf_files/IT/white/2026/VA-26-275-05.json"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-102628 — Ứng dụng Cadmos LTI được lưu trữ tại cadmos",
   "key": "743c77aacd339016e036e036f8f82a41e5f4d693"
  },
  {
@@ -28356,7 +28456,7 @@
    "cvss": 6.5,
    "ref": "https://raw.githubusercontent.com/cisagov/CSAF/develop/csaf_files/IT/white/2026/VA-26-275-03.json"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-102666 — Ứng dụng Joyland AI chứa thông tin xác thực được mã hóa cứng cho dịch vụ thông báo đẩy GeTui, cho phép kẻ tấn công truy cập API GeTui REST và gửi",
   "key": "dd1c85ce4e968b2c41f09f0f75aade78ef344925"
  },
  {
@@ -28375,7 +28475,7 @@
    "cvss": 8.3,
    "ref": "https://raw.githubusercontent.com/cisagov/CSAF/develop/csaf_files/IT/white/2026/va-26-275-03.json"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-102667 — Ứng dụng Joyland AI cho phép kẻ tấn công có quyền truy cập mạng chia sẻ đưa JavaScript vào nội dung được tải trong WebView",
   "key": "1a496507db7961e5e6ffa15db32d5476c43af844"
  },
  {
@@ -28394,7 +28494,7 @@
    "cvss": 5.3,
    "ref": "https://raw.githubusercontent.com/cisagov/CSAF/develop/csaf_files/IT/white/2026/va-26-275-03.json"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-102668 — Ứng dụng Joyland AI chấp nhận mọi chứng chỉ TLS từ bất kỳ máy chủ nào mà không cần xác thực",
   "key": "cef48148166e96b6e196d79002bdc6c4c12bbbce"
  },
  {
@@ -28413,7 +28513,7 @@
    "cvss": 5.3,
    "ref": "https://raw.githubusercontent.com/cisagov/CSAF/develop/csaf_files/IT/white/2026/va-26-275-03.json"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-102669 — Ứng dụng Joyland AI không xác minh tên máy chủ, cho phép máy chủ độc hại kết nối hoặc chặn tin nhắn trò chuyện",
   "key": "86c8ce1fccbdc284fa949e5075f41b427525c400"
  },
  {
@@ -28432,7 +28532,7 @@
    "cvss": 4.3,
    "ref": "https://raw.githubusercontent.com/cisagov/CSAF/develop/csaf_files/IT/white/2026/va-26-275-03.json"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-102670 — Ứng dụng Joyland AI cho phép rõ ràng lưu lượng HTTP văn bản rõ ràng trên Android 9+ trong đó mặc định là chặn nó",
   "key": "0ad56a21c80af88f7a8f17e0fe44219349e0ef0a"
  },
  {
@@ -28451,7 +28551,7 @@
    "cvss": 5.3,
    "ref": "https://raw.githubusercontent.com/cisagov/CSAF/develop/csaf_files/IT/white/2026/va-26-275-03.json"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-102671 — Ứng dụng Joyland AI chấp nhận chứng chỉ SSL không hợp lệ trong WebView quảng cáo vô hình theo mặc định",
   "key": "e22e168840b2237d5bab9b77b8090d2d827f1b6e"
  },
  {
@@ -28469,7 +28569,7 @@
    "cvss": 8.8,
    "ref": "https://github.com/pgvector/pgvector/commit/ee00d39ab30c2a7cf9510abf9288c624d91db156"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-103484 — Xây dựng chỉ mục IVFFlat trong pgvector trước 0",
   "key": "c39fde98c683020cc36bbf584878c3336802ac5d"
  },
  {
@@ -28487,7 +28587,7 @@
    "cvss": 9.8,
    "ref": "https://fortiguard.fortinet.com/psirt/FG-IR-26-175"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-104286 — Giới hạn không chính xác tên đường dẫn đối với lỗ hổng thư mục bị hạn chế ('path traversal') trong Fortinet FortiMail 8",
   "key": "a07eb2e9d6d62969437c3091c66c5610cf75514a"
  },
  {
@@ -28505,7 +28605,7 @@
    "cvss": null,
    "ref": "https://github.com/mandiant/Vulnerability-Disclosures/blob/master/2026/MNDT-2026-0027.md"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-14983 — Thiếu xác thực trong giao diện web ở các phiên bản Teledyne FLIR Aware2 đến 6",
   "key": "b0a849377dcc812e33f1961a1911b21a4ec8019e"
  },
  {
@@ -28523,7 +28623,7 @@
    "cvss": null,
    "ref": "https://github.com/mandiant/Vulnerability-Disclosures/blob/master/2026/MNDT-2026-0028.md"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-14984 — Truyền văn bản rõ ràng trong các điểm cuối điều khiển chính của các phiên bản Teledyne FLIR Aware2 đến 6",
   "key": "5e9c733e77b5dc5f997fc5fb76f223410acba551"
  },
  {
@@ -28541,7 +28641,7 @@
    "cvss": 9.1,
    "ref": "https://github.com/GetSimpleCMS-CE/GetSimpleCMS-CE/security/advisories/GHSA-vvhx-56q2-gcjq"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-53953 — GetSimple CMS là một hệ thống quản lý nội dung (CMS) và GetSimple CMS CE là phiên bản cộng đồng của CMS đó",
   "key": "347831f9313456851d0a8576e6fe16676be9a22a"
  },
  {
@@ -28560,7 +28660,7 @@
    "cvss": 7.2,
    "ref": "https://github.com/adfinis/document-merge-service/releases/tag/v9.1.0"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-53964 — Dịch vụ hợp nhất tài liệu là dịch vụ hợp nhất mẫu tài liệu cung cấp API để quản lý mẫu và hợp nhất chúng với dữ liệu đã cho",
   "key": "736a02a8076ffc9d87ba610e48a5eeded5a49f34"
  },
  {
@@ -28578,7 +28678,7 @@
    "cvss": 8.7,
    "ref": "https://github.com/sakaiproject/sakai/commit/2696b4b48cbef2e81512f52f84f7477adff78b27"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-54049 — Sakai là Môi trường Hợp tác và Học tập (CLE)",
   "key": "d6057df81065eddc2d501c8539fc1589e7b73a1c"
  },
  {
@@ -28596,7 +28696,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/netbox-community/devicetype-library/commit/f41fc1e48dec8d7d31afba5f13a8c73652ff5796"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-55251 — Thư viện loại thiết bị NetBox là tập hợp các định nghĩa loại thiết bị có nguồn gốc từ cộng đồng để nhập vào NetBox",
   "key": "720c8f88bfcac247673693fc6470af958bfd304f"
  },
  {
@@ -28615,7 +28715,7 @@
    "cvss": null,
    "ref": "https://github.com/openrundev/openrun/commit/709da784fcf1311c85f30f3542cfa3601a78bbf0"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-55252 — OpenRun là nền tảng GitOps mã nguồn mở, tự lưu trữ để triển khai các ứng dụng web và công cụ nội bộ lên Docker hoặc Kubernetes",
   "key": "01d0911d72aa3c9146241b30729111c2a7341eb5"
  },
  {
@@ -28633,7 +28733,7 @@
    "cvss": 9.1,
    "ref": "https://github.com/GetSimpleCMS-CE/GetSimpleCMS-CE/security/advisories/GHSA-q5rx-gppg-768r"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-56660 — GetSimple CMS là một hệ thống quản lý nội dung (CMS) và GetSimple CMS CE là phiên bản cộng đồng của CMS đó",
   "key": "5bb5273ea7dc17ab824cbcdd50f7d97b0387b6c4"
  },
  {
@@ -28651,7 +28751,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/GetSimpleCMS-CE/GetSimpleCMS-CE/security/advisories/GHSA-r7v8-mx29-5q8h"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-56661 — GetSimple CMS là một hệ thống quản lý nội dung (CMS) và GetSimple CMS CE là phiên bản cộng đồng của CMS đó",
   "key": "cb0b340671e34b242b5d10e431fd4ac650ce1005"
  },
  {
@@ -28669,7 +28769,7 @@
    "cvss": 9.6,
    "ref": "https://github.com/GetSimpleCMS-CE/GetSimpleCMS-CE/security/advisories/GHSA-2rxv-4g4m-573w"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-56662 — GetSimple CMS là một hệ thống quản lý nội dung (CMS) và GetSimple CMS CE là phiên bản cộng đồng của CMS đó",
   "key": "6b20b31445ae38ca2d7523d2c49b8992a66857c7"
  },
  {
@@ -28687,7 +28787,7 @@
    "cvss": null,
    "ref": "https://github.com/GetSimpleCMS-CE/GetSimpleCMS-CE/security/advisories/GHSA-p6vf-2xr7-mcf4"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-70650 — GetSimple CMS là một hệ thống quản lý nội dung (CMS) và GetSimple CMS CE là phiên bản cộng đồng của CMS đó",
   "key": "139213ae4dfed93ad90545931f39a970371b7731"
  },
  {
@@ -28705,7 +28805,7 @@
    "cvss": null,
    "ref": "https://github.com/GetSimpleCMS-CE/GetSimpleCMS-CE/security/advisories/GHSA-559q-hqrv-m84x"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-71426 — GetSimple CMS là một hệ thống quản lý nội dung (CMS) và GetSimple CMS CE là phiên bản cộng đồng của CMS đó",
   "key": "463da53504c95161d8ae37b99dc81f542a49a6aa"
  },
  {
@@ -28723,7 +28823,7 @@
    "cvss": null,
    "ref": "https://github.com/GetSimpleCMS-CE/GetSimpleCMS-CE/security/advisories/GHSA-vqfh-838q-xfqh"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-71542 — GetSimple CMS là một hệ thống quản lý nội dung (CMS) và GetSimple CMS CE là phiên bản cộng đồng của CMS đó",
   "key": "1782279a88af1c9df856d3b375ababa11ace732a"
  },
  {
@@ -28743,7 +28843,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/rtlabs-com/c-open/releases/tag/public%2Fv1.1.1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82357 — RT-Labs AB C-Open CANopen chứa tham chiếu con trỏ NULL nếu giao thức LSS được sử dụng để định cấu hình thiết bị",
   "key": "ecef17cf4545a21cdc1827f34483b1e869e4d029"
  },
  {
@@ -28761,7 +28861,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/rtlabs-com/c-open/releases/tag/public%2Fv1.1.1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-82358 — RT-Labs AB C-Open CANopen chứa một đường vòng bảo vệ ghi trong quá trình triển khai máy chủ SDO (Đối tượng dữ liệu dịch vụ) 'src/co_sdo_server",
   "key": "3638182e06ca55dead142f634e05fa882e3b7e6a"
  },
  {
@@ -28779,7 +28879,7 @@
    "cvss": 4.4,
    "ref": "https://en-us.support.motorola.com/app/answers/detail/a_id/193638"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-93832 — Một thành phần của một trong các ứng dụng hệ thống của Motorola đã được xuất khẩu trái phép, cho phép thu hồi quyền thời gian chạy từ các ứng dụng khác",
   "key": "7f9d5b4b6f290f76fdf24419b6a8c5dea0b1bca9"
  },
  {
@@ -73853,115 +73953,5 @@
   },
   "title_vi": "",
   "key": "460d993978f613187b533ef23ed89eac94280f1d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-95372 — Use after free in Chromecast in Google Chrome prior to 154",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95372",
-  "published": "2026-09-29T18:17:31.130",
-  "summary": "Use after free in Chromecast in Google Chrome prior to 154.0.8037.57 allowed a remote attacker who had compromised the renderer process to potentially execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: High)",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-95372",
-   "cvss": 8.3,
-   "ref": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0856730748.html"
-  },
-  "title_vi": "",
-  "key": "58a71113f239aa74b75b2f07746511b2b3c4a478"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-95373 — Use after free in DevTools in Google Chrome prior to 154",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95373",
-  "published": "2026-09-29T18:17:31.250",
-  "summary": "Use after free in DevTools in Google Chrome prior to 154.0.8037.57 allowed a remote attacker leveraging social engineering to execute arbitrary code inside the sandbox via a crafted HTML page. (Chromium security severity: High)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-95373",
-   "cvss": 8.8,
-   "ref": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0856730748.html"
-  },
-  "title_vi": "",
-  "key": "b347db1b8cbac3235033edf485ed9d574ec1a066"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-95374 — Incorrect authorization in Network in Google Chrome prior to 154",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95374",
-  "published": "2026-09-29T18:17:31.373",
-  "summary": "Incorrect authorization in Network in Google Chrome prior to 154.0.8037.57 allowed a remote attacker to bypass web origin policy via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-95374",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0856730748.html"
-  },
-  "title_vi": "",
-  "key": "ef82e9c65883e872ab8e6b6ee06cf5aef60498ef"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-95375 — Incorrect authorization in BrowserTag in Google Chrome prior to 154",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95375",
-  "published": "2026-09-29T18:17:31.493",
-  "summary": "Incorrect authorization in BrowserTag in Google Chrome prior to 154.0.8037.57 allowed a remote attacker who had compromised the renderer process to bypass web origin policy via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-95375",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0856730748.html"
-  },
-  "title_vi": "",
-  "key": "aeac3acf2b2b470a4283d0923f3c0b18ac76e70f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-95376 — Externally controlled reference in DevTools in Google Chrome prior to 154",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95376",
-  "published": "2026-09-29T18:17:31.620",
-  "summary": "Externally controlled reference in DevTools in Google Chrome prior to 154.0.8037.57 allowed an adjacent attacker leveraging social engineering to bypass system access restrictions via crafted network traffic. (Chromium security severity: Medium)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-95376",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0856730748.html"
-  },
-  "title_vi": "",
-  "key": "1e1350e8210a309e82a565689290379fe6bda3ab"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-95380 — Type confusion in V8 in Google Chrome prior to 154",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95380",
-  "published": "2026-09-29T18:17:31.750",
-  "summary": "Type confusion in V8 in Google Chrome prior to 154.0.8037.57 allowed a remote attacker leveraging social engineering to potentially execute arbitrary code inside the sandbox via a crafted HTML page. (Chromium security severity: Low)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-95380",
-   "cvss": 8.8,
-   "ref": "https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_0856730748.html"
-  },
-  "title_vi": "",
-  "key": "3077c6107f15962f579fb229a5b8cf97abdb73c1"
  }
 ]
