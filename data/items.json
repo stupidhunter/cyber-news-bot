@@ -1,6 +1,411 @@
 [
  {
   "source": "VietnamPlus Kinh tế số",
+  "title": "Nhà Trắng công bố báo cáo về ngành sản xuất Mỹ",
+  "link": "https://www.vietnamplus.vn/nha-trang-cong-bo-bao-cao-ve-nganh-san-xuat-my-post1141294.vnp",
+  "published": "2026-10-11T00:24:06+00:00",
+  "summary": "Ngành sản xuất Mỹ tăng thêm 72.000 việc làm từ đầu năm 2026, lĩnh vực hàng hóa tăng 101.000 việc làm, với ngành sản xuất kim loại tăng 21.000 việc làm và thiết bị vận tải tăng 17.000 việc làm.&nbsp; Cố vấn kinh tế Nhà Trắng: Mỹ đã trở thành siêu cường sản xuất dầu Tổng thống Trump yêu cầu Bombardier chuyển hoạt động sản xuất sang Mỹ Mỹ: Thị trường nhà ở ảm đạm, hoạt động sản xuất khởi sắc nhờ AI",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "b80707c5f6c6980a63d0734e1ce0295da4383259"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Từ trái tim Mỹ Latinh lan tỏa khát vọng Việt Nam hùng cường",
+  "link": "https://www.vietnamplus.vn/tu-trai-tim-my-latinh-lan-toa-khat-vong-viet-nam-hung-cuong-post1141289.vnp",
+  "published": "2026-10-10T23:51:39+00:00",
+  "summary": "Những trang viết chứa đựng tư duy, tầm nhìn và quyết sách chiến lược của Việt Nam trong cuốn sách “Khát vọng Việt Nam hùng cường trong kỷ nguyên mới” đã tìm thấy sự đồng điệu sâu sắc tại Mỹ Latinh. TTXVN phối hợp với Đảng lao động Mexico phát hành sách “Khát vọng Việt Nam hùng cường trong kỷ nguyên mới” Toàn văn phát biểu của Tổng Bí thư, Chủ tịch nước Tô Lâm khai mạc Hội nghị lần thứ Tư Ban Chấp hành Trung ương Đảng khóa XIV Từ phát biểu của Tổng Bí thư, Chủ tịch nước Tô Lâm: Làm chủ công nghệ để không ai bị bỏ lại phía sau trong kỷ nguyên AI",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "d12e2689db721e9a7683699f7c0c9714c555ceee"
+ },
+ {
+  "source": "Thanh Niên Công nghệ",
+  "title": "Nguy cơ bị kh&oacute;a t&agrave;i khoản nếu li&ecirc;n tục x&uacute;c phạm AI",
+  "link": "https://thanhnien.vn/nguy-co-bi-khoa-tai-khoan-neu-lien-tuc-xuc-pham-ai-185261011014027676.htm",
+  "published": "2026-10-11T01:56:00+00:00",
+  "summary": "Anthropic vừa bổ sung quy định cấm h&agrave;nh vi lăng mạ AI k&eacute;o d&agrave;i, với c&aacute;c biện ph&aacute;p xử l&yacute; từ chấm dứt cuộc tr&ograve; chuyện đến kh&oacute;a t&agrave;i khoản người d&ugrave;ng.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "f4aa2fa43e6ec4b442348c35873193111478d01a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-104841 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-104841",
+  "published": "2026-10-10T23:16:26.747",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-104841",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2026-104841 — Lý do bị từ chối: ID CVE này đã bị Cơ quan Đánh số CVE từ chối hoặc rút lại",
+  "key": "e3120b53ba53e02f37985037d43e2ec0523d9b07"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-108688 — Eladmin through 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-108688",
+  "published": "2026-10-11T02:16:35.100",
+  "summary": "Eladmin through 2.7 contains a missing authorization vulnerability in the LocalStorageController uploadPicture handler that allows low-privileged authenticated users to bypass the storage:add permission. Attackers can send POST requests with image-named files to /api/localStorage/pictures to write files into server local storage and disclose absolute server paths.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-108688",
+   "cvss": 4.3,
+   "ref": "https://github.com/AnkesKasty/cve-request-poc/blob/a7b6d1423555812d8efa26c91c5d0683164b31e5/eladmin/poc_localStorage_pictures.py"
+  },
+  "title_vi": "CVE-2026-108688 — Eladmin qua 2",
+  "key": "4ce13ef21a3616eebfd80120fbbdf430209583ab"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-108689 — Wukong AICRM through 20260610 contains a missing authorization vulnerability that allows authenticated users to write into other users' AI chat sessio",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-108689",
+  "published": "2026-10-11T02:16:36.887",
+  "summary": "Wukong AICRM through 20260610 contains a missing authorization vulnerability that allows authenticated users to write into other users' AI chat sessions by supplying an arbitrary sessionId to POST /chat/send. Attackers can append messages to a victim's conversation and receive streamed assistant replies built from the victim's last 20 messages, disclosing conversation content.",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-108689",
+   "cvss": 5.4,
+   "ref": "https://github.com/AnkesKasty/cve-request-poc/blob/a7b6d1423555812d8efa26c91c5d0683164b31e5/Wukong-AICRM/poc_chat_send.py"
+  },
+  "title_vi": "CVE-2026-108689 — Wukong AICRM đến 20260610 chứa lỗ hổng xác thực bị thiếu cho phép người dùng được xác thực ghi vào sessio trò chuyện AI của người dùng khác",
+  "key": "a52ebfb809a1b2bbafbfd648460fb6b6ebb4dab7"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-108690 — mall4j through 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-108690",
+  "published": "2026-10-11T02:16:37.057",
+  "summary": "mall4j through 4.0 contains an information disclosure vulnerability that allows authenticated customers to read other shoppers' cart items due to an operator precedence error in the getShopCartExpiryItems SQL filter. Attackers with any storefront account can request GET /p/shopCart/expiryProdList to retrieve off-shelf product basket entries including product, SKU, quantity, shop, and promoter card numbers.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-108690",
+   "cvss": 4.3,
+   "ref": "https://github.com/AnkesKasty/cve-request-poc/blob/a7b6d1423555812d8efa26c91c5d0683164b31e5/mall4j/poc_shopcart_expiry_prodlist.py"
+  },
+  "title_vi": "CVE-2026-108690 — mall4j đến 4",
+  "key": "20189fc4c7ce0ae8a0b03ffcb153d2ce5a5e33df"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-108691 — mall4j through 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-108691",
+  "published": "2026-10-11T02:16:37.210",
+  "summary": "mall4j through 4.0 contains an improper authorization vulnerability that allows authenticated storefront customers to delete other shoppers' cart items through an operator precedence error in the cleanExpiryProdList SQL statement. Attackers can send one DELETE request to /p/shopCart/cleanExpiryProdList to remove every user's cart entries for off-shelf products, which do not return when products are restocked.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-108691",
+   "cvss": 5.4,
+   "ref": "https://github.com/AnkesKasty/cve-request-poc/blob/a7b6d1423555812d8efa26c91c5d0683164b31e5/mall4j/poc_shopcart_clean_expiry_prodlist.py"
+  },
+  "title_vi": "CVE-2026-108691 — mall4j đến 4",
+  "key": "8e05e9019ac2f908e852f56afdae03880a62e790"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-108692 — 1Panel-dev CordysCRM from 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-108692",
+  "published": "2026-10-11T02:16:37.360",
+  "summary": "1Panel-dev CordysCRM from 1.9.0 before 1.9.2 contains a missing authorization vulnerability in eight ModuleFieldController /field/source data-source endpoints lacking permission checks. Authenticated users denied module permission can page through organization-wide leads, contacts, quotations, contracts, payment plans, payment records, orders and invoices owned by other users.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-108692",
+   "cvss": 6.5,
+   "ref": "https://github.com/1Panel-dev/CordysCRM/blob/a0ef69d31fd98c338199579353840f34ef679197/backend/crm/src/main/java/cn/cordys/common/service/DataScopeService.java#L100-L110"
+  },
+  "title_vi": "CVE-2026-108692 — 1Panel-dev CordysCRM từ 1",
+  "key": "4aff6a6e57e3a14f8a1e32d6eddca1f83199e738"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-108693 — ImageMagick on Windows through 7",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-108693",
+  "published": "2026-10-11T02:16:37.607",
+  "summary": "ImageMagick on Windows through 7.1.2-33 and 6.9.13-58 contains an uncontrolled search path vulnerability in NTGhostscriptEXE() that launches gswin64c.exe by bare name when Ghostscript is unregistered. Attackers can plant a malicious gswin64c.exe in the working directory to execute code with ImageMagick privileges when PDF, PostScript, or EPS files are converted.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-108693",
+   "cvss": 7.0,
+   "ref": "https://github.com/ImageMagick/ImageMagick"
+  },
+  "title_vi": "CVE-2026-108693 — ImageMagick trên Windows đến 7",
+  "key": "b1f7c34fec82a34342f7cc061249651e16585f71"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-108694 — ConvertX through 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-108694",
+  "published": "2026-10-11T02:16:37.777",
+  "summary": "ConvertX through 0.19.0 contains an arbitrary file read vulnerability that allows authenticated users to read server files because src/converters/pandoc.ts invokes Pandoc without the --sandbox flag. Attackers can upload a reStructuredText document with an include directive naming an absolute path, convert it, and download output containing the referenced file's contents.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-108694",
+   "cvss": 6.5,
+   "ref": "https://github.com/C4illin/ConvertX"
+  },
+  "title_vi": "CVE-2026-108694 — ConvertX đến 0",
+  "key": "d0b8f0c51a9e1a34f6dc1cdc54fabeab797cfbd8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-108695 — MultiVendorX WordPress plugin through 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-108695",
+  "published": "2026-10-11T02:16:37.957",
+  "summary": "MultiVendorX WordPress plugin through 5.0.19 contains an incorrect authorization vulnerability that allows vendor accounts to modify marketplace-wide settings via the settings REST endpoint. Attackers with the store_owner role can send POST requests to /wp-json/multivendorx/v1/settings, gated only by edit_stores, to overwrite commission, payout, and onboarding settings.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-108695",
+   "cvss": 7.1,
+   "ref": "https://github.com/multivendorx/multivendorx"
+  },
+  "title_vi": "CVE-2026-108695 — Plugin MultiVendorX WordPress thông qua 5",
+  "key": "bc8e682e69e4e342af93efd223ea88d97cde0aa3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-108696 — CoreShop through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-108696",
+  "published": "2026-10-11T02:16:38.123",
+  "summary": "CoreShop through 1.5.5 contains an authorization bypass vulnerability in the OrderController that allows authenticated customers to act on other customers' orders by supplying user-controlled ids. Attackers can omit the data field in OrderConfirm or supply another reshipId to SendReship to confirm receipt of others' orders and overwrite return tracking details.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-108696",
+   "cvss": 4.3,
+   "ref": "https://github.com/CoreUnion/CoreShop"
+  },
+  "title_vi": "CVE-2026-108696 — CoreShop qua 1",
+  "key": "b06f73f454aa736e1e4383b4d3dcdcb507973090"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-108700 — 1Panel-dev CordysCRM before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-108700",
+  "published": "2026-10-11T02:16:38.277",
+  "summary": "1Panel-dev CordysCRM before 1.9.2 contains a missing authorization vulnerability that allows authenticated users to list business titles by calling POST /field/source/business-title without permission checks. Users lacking CONTRACT_BUSINESS_TITLE_READ can retrieve organization invoicing entities, exposing tax identification numbers, bank account numbers, opening banks, registration addresses, and phone numbers.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-108700",
+   "cvss": 6.5,
+   "ref": "https://github.com/1Panel-dev/CordysCRM/blob/a0ef69d31fd98c338199579353840f34ef679197/backend/crm/src/main/java/cn/cordys/crm/system/controller/ModuleFieldController.java#L253-L257"
+  },
+  "title_vi": "CVE-2026-108700 — 1Panel-dev CordysCRM trước 1",
+  "key": "135126a894484cdfc8b98ef65d0d6d6a45c7b983"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-108701 — 1Panel-dev CordysCRM before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-108701",
+  "published": "2026-10-11T02:16:38.437",
+  "summary": "1Panel-dev CordysCRM before 1.9.2 contains a missing authorization vulnerability in the ContractController sortModule handler for POST /contract/sort, which lacks any permission annotation. Authenticated users without contract update permission can supply a dragNodeId, stage and field values to modify any contract, including contracts in other organizations.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-108701",
+   "cvss": 4.3,
+   "ref": "https://github.com/1Panel-dev/CordysCRM/blob/a0ef69d31fd98c338199579353840f34ef679197/backend/crm/src/main/java/cn/cordys/crm/contract/controller/ContractController.java#L279-L283"
+  },
+  "title_vi": "CVE-2026-108701 — 1Panel-dev CordysCRM trước 1",
+  "key": "36bdd20dba0076daf742af920e077724d29b44ba"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-108702 — 1Panel-dev CordysCRM through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-108702",
+  "published": "2026-10-11T02:16:38.627",
+  "summary": "1Panel-dev CordysCRM through 1.9.3 lacks a PROCESS_SETTING permission check on POST /approval-flow/webhook/test, allowing any authenticated user to trigger server-side requests to attacker-supplied URLs. Attackers can redirect GET requests from a controlled host to bypass SSRFValidator and probe internal addresses through success or failure results.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-108702",
+   "cvss": 4.3,
+   "ref": "https://github.com/1Panel-dev/CordysCRM/blob/0d7ae06fe94f4ce33ec7f65b9d82a07ae05c2d94/backend/crm/src/main/java/cn/cordys/crm/approval/controller/ApprovalFlowController.java#L101-L105"
+  },
+  "title_vi": "CVE-2026-108702 — 1Panel-dev CordysCRM đến 1",
+  "key": "c3ac3b6a921df6222ea7c515d767ee5142e4ee61"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-108703 — CordysCRM through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-108703",
+  "published": "2026-10-11T02:16:38.803",
+  "summary": "CordysCRM through 1.9.3 contains a missing authorization vulnerability in POST /approval-resource/push that allows authenticated users to submit any resource for approval without ownership checks. Low-privileged attackers can supply arbitrary resourceId values for contracts, invoices, quotations or orders to alter their approval status and read approval details.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-108703",
+   "cvss": 5.4,
+   "ref": "https://github.com/1Panel-dev/CordysCRM/blob/0d7ae06fe94f4ce33ec7f65b9d82a07ae05c2d94/backend/crm/src/main/java/cn/cordys/crm/approval/controller/ApprovalResourceController.java#L32-L43"
+  },
+  "title_vi": "CVE-2026-108703 — CordysCRM đến 1",
+  "key": "252ab2e73e957e1fec879e2253ff8316a326a798"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-108704 — CordysCRM through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-108704",
+  "published": "2026-10-11T02:16:38.980",
+  "summary": "CordysCRM through 1.9.3 contains an authorization bypass vulnerability that allows low-privileged authenticated users to skip permission checks by setting the owner field to their own user id. Attackers can send requests to the follow/record/add endpoints to add follow-up records and overwrite follow_time and follower on any known customer, clue or opportunity.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-108704",
+   "cvss": 4.3,
+   "ref": "https://github.com/1Panel-dev/CordysCRM/blob/0d7ae06fe94f4ce33ec7f65b9d82a07ae05c2d94/backend/crm/src/main/java/cn/cordys/crm/clue/controller/ClueFollowRecordController.java#L33-L39"
+  },
+  "title_vi": "CVE-2026-108704 — CordysCRM đến 1",
+  "key": "f1627b42c09155170634f0198974cf9ba8e552d0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-108705 — CordysCRM through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-108705",
+  "published": "2026-10-11T02:16:39.160",
+  "summary": "CordysCRM through 1.9.3 contains a missing authorization vulnerability in the POST /custom-form/data/import endpoint that allows authenticated users to import data into any custom form by customFormId. Low-privileged attackers can upload Excel files with importType ADD or UPDATE to create records in, or overwrite existing records of, custom forms they cannot manage.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-108705",
+   "cvss": 4.3,
+   "ref": "https://github.com/1Panel-dev/CordysCRM/blob/0d7ae06fe94f4ce33ec7f65b9d82a07ae05c2d94/backend/crm/src/main/java/cn/cordys/crm/form/controller/CustomFormDataController.java#L148-L154"
+  },
+  "title_vi": "CVE-2026-108705 — CordysCRM đến 1",
+  "key": "f77624de4a76ded5b3e8da7a546d6a792d8f18f0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-108706 — eladmin through commit 55fbf70 contains a missing authorization vulnerability in the downloadS3Storage handler that allows any authenticated user to r",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-108706",
+  "published": "2026-10-11T02:16:39.330",
+  "summary": "eladmin through commit 55fbf70 contains a missing authorization vulnerability in the downloadS3Storage handler that allows any authenticated user to retrieve stored object URLs without storage permissions. Attackers can enumerate sequential ids against GET /api/s3Storage/download/{id} to collect URLs of all uploaded objects, exposing file contents on publicly readable buckets.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-108706",
+   "cvss": 4.3,
+   "ref": "https://github.com/AnkesKasty/cve-request-poc/blob/a7b6d1423555812d8efa26c91c5d0683164b31e5/eladmin/poc_s3Storage_download.py"
+  },
+  "title_vi": "CVE-2026-108706 — eladmin thông qua cam kết 55fbf70 chứa lỗ hổng ủy quyền bị thiếu trong trình xử lý downloadS3Storage cho phép mọi người dùng được xác thực r",
+  "key": "a8d33bddd498f63935e9d2b33833c8f011d2b44a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-108707 — Wukong_HRM through commit 186115e contains an authentication bypass vulnerability in ParamAspect that allows unauthenticated attackers to call every H",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-108707",
+  "published": "2026-10-11T02:16:39.477",
+  "summary": "Wukong_HRM through commit 186115e contains an authentication bypass vulnerability in ParamAspect that allows unauthenticated attackers to call every HRM API endpoint by omitting the AUTH-TOKEN header. Attackers gain HR administrator access to read payslips, salary history and employee personal data, download attachments, and modify or delete company-wide HR records.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-108707",
+   "cvss": 9.8,
+   "ref": "https://github.com/AnkesKasty/cve-request-poc/blob/a7b6d1423555812d8efa26c91c5d0683164b31e5/Wukong_HRM/poc_attachment_download_idor.py"
+  },
+  "title_vi": "CVE-2026-108707 — Wukong_HRM thông qua cam kết 186115e chứa một lỗ hổng bỏ qua xác thực trong ParamAspect cho phép những kẻ tấn công chưa được xác thực gọi mọi H",
+  "key": "685dedc514961259e7ffd3543ad0a8df513b9b4e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-108708 — Wukong_HRM through commit 186115e contains a missing authorization vulnerability because EmployeeAspect assigns every caller the HR administrator role",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-108708",
+  "published": "2026-10-11T02:16:39.650",
+  "summary": "Wukong_HRM through commit 186115e contains a missing authorization vulnerability because EmployeeAspect assigns every caller the HR administrator role and EmployeeUtil data-scope checks return all employees. Any authenticated low-privileged employee can read payslips, salary records, bank cards and personal data, edit bank cards, and delete employees, departments and contracts company-wide.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-108708",
+   "cvss": 8.8,
+   "ref": "https://github.com/AnkesKasty/cve-request-poc/blob/a7b6d1423555812d8efa26c91c5d0683164b31e5/Wukong_HRM/poc_payroll_card_social_security.py"
+  },
+  "title_vi": "CVE-2026-108708 — Wukong_HRM thông qua cam kết 186115e chứa lỗ hổng ủy quyền bị thiếu vì EmployeeAspect chỉ định mỗi người gọi vai trò quản trị viên nhân sự",
+  "key": "08030c4060c957f45aa90e6857c42432b75b11f2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-108521 — A vulnerability has been found in Studio-Saelix Sencho up to 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-108521",
+  "published": "2026-10-11T03:16:39.350",
+  "summary": "A vulnerability has been found in Studio-Saelix Sencho up to 0.97.1. Affected by this issue is the function isValidRemoteUrl of the file backend/src/utils/validation.ts of the component Add Remote Node API Endpoint. Such manipulation leads to server-side request forgery. The attack can be executed remotely. The exploit has been disclosed to the public and may be used. The vendor confirms: \"The node API URL could be configured by an authenticated user with node-management permission and used to initiate server-side requests. [T]he report demonstrates server-side request capability but not arbit",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-108521",
+   "cvss": 4.7,
+   "ref": "https://gist.github.com/jovair1994/db23594d74428d38606e8000beb867d4"
+  },
+  "title_vi": "CVE-2026-108521 — Một lỗ hổng đã được tìm thấy trong Studio-Saelix Sencho lên đến 0",
+  "key": "34d30a329fd91c081b2220374784987b29c2ee08"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
   "title": "Tấn công sân bay Saudi Arabia làm 12 người thiệt mạng và 309 người bị thương",
   "link": "https://www.vietnamplus.vn/tan-cong-san-bay-saudi-arabia-lam-12-nguoi-thiet-mang-va-309-nguoi-bi-thuong-post1141286.vnp",
   "published": "2026-10-10T22:59:54+00:00",
@@ -99,7 +504,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Mật khẩu `123456’ được sử dụng trong vi phạm dữ liệu CPR lớn của Đan Mạch",
   "key": "e3a644cc97925d5640dcdaefdfd6f1df20fa0643"
  },
  {
@@ -3420,7 +3825,7 @@
    "cvss": 8.5,
    "ref": "https://patchstack.com/database/wordpress/plugin/barcode-scanner-lite-pos-to-manage-products-inventory-and-orders/vulnerability/wordpress-barcode-scanner-with-inventory-order-manager-plugin-1-13-1-sql-injection-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-62117 - Tiêm SQL cho Người đăng ký trong Máy quét Mã vạch với Trình quản lý Hàng tồn kho & Đơn hàng <= 1",
   "key": "ea071493ef925ef7001bc24467df3782fbfad12b"
  },
  {
@@ -3438,7 +3843,7 @@
    "cvss": 7.3,
    "ref": "https://patchstack.com/database/wordpress/plugin/barcode-scanner-lite-pos-to-manage-products-inventory-and-orders/vulnerability/wordpress-barcode-scanner-with-inventory-order-manager-plugin-1-13-1-broken-access-control-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-62118 - Kiểm soát truy cập bị hỏng không được xác thực trong Máy quét mã vạch với Quản lý hàng tồn kho & đơn hàng <= 1",
   "key": "a801a7d1291c2fc6a2425d7e38eea2d9c9ac1360"
  },
  {
@@ -3456,7 +3861,7 @@
    "cvss": 9.8,
    "ref": "https://patchstack.com/database/wordpress/theme/law-office/vulnerability/wordpress-law-office-theme-3-20-php-object-injection-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-62120 — PHP Object Injection chưa được xác thực tại Văn phòng Luật <= 3",
   "key": "b49b2a2f1f5d72ffe0458c00e68c326af0f33029"
  },
  {
@@ -3474,7 +3879,7 @@
    "cvss": 9.8,
    "ref": "https://patchstack.com/database/wordpress/theme/invetex/vulnerability/wordpress-invetex-theme-2-18-php-object-injection-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-62123 — Tiêm đối tượng PHP không được xác thực trong Invetex <= 2",
   "key": "8f763e06c1499c100a9292b55024d27ff71dfc9e"
  },
  {
@@ -3492,7 +3897,7 @@
    "cvss": 9.8,
    "ref": "https://patchstack.com/database/wordpress/theme/n7-golf-club/vulnerability/wordpress-n7-golf-club-sports-events-theme-2-21-php-object-injection-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-62124 — Tiêm đối tượng PHP không được xác thực trong N7 | Câu lạc bộ golf Thể thao & Sự kiện <= 2",
   "key": "11350ae7a44b0d11e750bd3505d0ca2fa123fad0"
  },
  {
@@ -3510,7 +3915,7 @@
    "cvss": 9.8,
    "ref": "https://patchstack.com/database/wordpress/theme/asia-garden/vulnerability/wordpress-asia-garden-theme-1-3-1-php-object-injection-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-62125 — Tiêm đối tượng PHP không được xác thực tại Asia Garden <= 1",
   "key": "6ebf409f3a17cc3c65a146505ddb575a29eb919c"
  },
  {
@@ -3528,7 +3933,7 @@
    "cvss": 9.9,
    "ref": "https://patchstack.com/database/wordpress/plugin/creatorlms/vulnerability/wordpress-creator-lms-plugin-1-2-21-arbitrary-file-upload-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-62129 - Tải lên tệp tùy ý của cộng tác viên trong LMS của người tạo <= 1",
   "key": "ee3b8ec974d98771bb968819bb9be7dac57ba10d"
  },
  {
@@ -3546,7 +3951,7 @@
    "cvss": 7.2,
    "ref": "https://patchstack.com/database/wordpress/plugin/woocommerce-multilingual/vulnerability/wordpress-woocommerce-multilingual-multicurrency-plugin-5-5-8-php-object-injection-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-62130 — Quản lý cửa hàng PHP Object Injection trong WooCommerce Đa ngôn ngữ & Đa tiền tệ <= 5",
   "key": "6eb2661d113530b180a2357979ffa6fdc8af55fe"
  },
  {
@@ -3564,7 +3969,7 @@
    "cvss": 7.5,
    "ref": "https://patchstack.com/database/wordpress/plugin/forminator/vulnerability/wordpress-forminator-plugin-1-57-3-arbitrary-content-deletion-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-65459 — Xóa nội dung tùy ý chưa được xác thực trong Forminator <= 1",
   "key": "0db4014e583ccfe58283912ecd5d02d481d86146"
  },
  {
@@ -3582,7 +3987,7 @@
    "cvss": 5.3,
    "ref": "https://patchstack.com/database/wordpress/plugin/yith-woocommerce-product-add-ons/vulnerability/wordpress-yith-woocommerce-product-add-ons-plugin-4-34-0-sensitive-data-exposure-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-66480 - Tiếp xúc với thông tin hệ thống nhạy cảm với lỗ hổng của quả cầu điều khiển trái phép trong tiện ích bổ sung sản phẩm YITH YITH WooCommerce cho phép truy xuất Embe",
   "key": "30afe60d686d7af8d25c849a5193e1aa05273539"
  },
  {
@@ -3600,7 +4005,7 @@
    "cvss": 6.8,
    "ref": "https://patchstack.com/database/wordpress/plugin/presto-player-pro/vulnerability/wordpress-presto-player-pro-plugin-3-0-1-arbitrary-file-deletion-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-66481 — Tác giả Xóa tệp tùy ý trong Presto Player Pro <= 3",
   "key": "04d73d45da9f0f6dd4605fab7d3c6ca8fe24e9cc"
  },
  {
@@ -3618,7 +4023,7 @@
    "cvss": 9.8,
    "ref": "https://patchstack.com/database/wordpress/theme/drone-media/vulnerability/wordpress-drone-media-theme-2-2-0-php-object-injection-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-66482 — PHP Object Injection chưa được xác thực trong Drone Media <= 2",
   "key": "f22684e1024af0d704deb36425f10ea9e8b40252"
  },
  {
@@ -3636,7 +4041,7 @@
    "cvss": 9.8,
    "ref": "https://patchstack.com/database/wordpress/theme/education/vulnerability/wordpress-education-center-theme-3-6-12-php-object-injection-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-66483 — PHP Object Injection chưa được xác thực trong Trung tâm Giáo dục <= 3",
   "key": "2900547a26102830e8c97c9b3ec200661ab13a9e"
  },
  {
@@ -3654,7 +4059,7 @@
    "cvss": 9.8,
    "ref": "https://patchstack.com/database/wordpress/theme/windsor/vulnerability/wordpress-windsor-theme-2-10-php-object-injection-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-66563 — Tiêm đối tượng PHP không được xác thực trong Windsor <= 2",
   "key": "2a30e6c9996afcad4f539f15b84fe57317eabfd4"
  },
  {
@@ -3672,7 +4077,7 @@
    "cvss": 9.8,
    "ref": "https://patchstack.com/database/wordpress/theme/shift-cv/vulnerability/wordpress-shiftcv-theme-3-0-14-php-object-injection-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-66564 — Tiêm đối tượng PHP không được xác thực trong ShiftCV <= 3",
   "key": "cbd7a8e89bfb8729c30ce478166b57c540ef4b2a"
  },
  {
@@ -3690,7 +4095,7 @@
    "cvss": 9.8,
    "ref": "https://patchstack.com/database/wordpress/theme/fcunited/vulnerability/wordpress-fc-united-theme-1-1-1-php-object-injection-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-66565 — PHP Object Injection chưa được xác thực trong FC United <= 1",
   "key": "f7736c86e3ce44895d69423dc432bd61ab69fc6d"
  },
  {
@@ -3708,7 +4113,7 @@
    "cvss": 8.1,
    "ref": "https://patchstack.com/database/wordpress/theme/ambient/vulnerability/wordpress-ambient-theme-1-7-local-file-inclusion-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-66566 - Bao gồm tệp cục bộ không được xác thực trong môi trường xung quanh <= 1",
   "key": "f2117f64bafb883322e29e9c7cbe1a06dc29d500"
  },
  {
@@ -3726,7 +4131,7 @@
    "cvss": 9.8,
    "ref": "https://patchstack.com/database/wordpress/theme/anesta/vulnerability/wordpress-anesta-theme-1-5-3-php-object-injection-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-66567 — PHP Object Injection chưa được xác thực trong Anesta <= 1",
   "key": "5e80f1497b6ffa56c810213d60cbb4ea714c9281"
  },
  {
@@ -3744,7 +4149,7 @@
    "cvss": 9.8,
    "ref": "https://patchstack.com/database/wordpress/theme/original/vulnerability/wordpress-original-theme-1-9-0-php-object-injection-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-66568 — Tiêm đối tượng PHP không được xác thực trong bản gốc <= 1",
   "key": "dc8d1b74cc5aea0929979dfc650c87d18b8524dc"
  },
  {
@@ -3762,7 +4167,7 @@
    "cvss": 9.8,
    "ref": "https://patchstack.com/database/wordpress/theme/kicker/vulnerability/wordpress-kicker-theme-2-2-1-php-object-injection-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-66569 — Tiêm đối tượng PHP không được xác thực trong Kicker <= 2",
   "key": "e4e215c6f85c92ef835e1e616d11fd3bea68fcff"
  },
  {
@@ -3780,7 +4185,7 @@
    "cvss": 9.8,
    "ref": "https://patchstack.com/database/wordpress/theme/alliance/vulnerability/wordpress-alliance-theme-3-11-php-object-injection-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-78529 — Tiêm đối tượng PHP không được xác thực trong Liên minh <= 3",
   "key": "3f6cda2a9d639fba85f7a7438ec1812f497d9458"
  },
  {
@@ -3798,7 +4203,7 @@
    "cvss": 7.7,
    "ref": "https://patchstack.com/database/wordpress/theme/foodbakery/vulnerability/wordpress-foodbakery-theme-4-6-arbitrary-file-deletion-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-78530 — Xóa tệp tùy ý của người đăng ký trong FoodBakery <= 4",
   "key": "9cd22d8fd4113f75a243f4e5577673f8139ce900"
  },
  {
@@ -3816,7 +4221,7 @@
    "cvss": 9.8,
    "ref": "https://patchstack.com/database/wordpress/theme/jacqueline/vulnerability/wordpress-jacqueline-theme-2-22-php-object-injection-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-78531 — Tiêm đối tượng PHP không được xác thực trong Jacqueline <= 2",
   "key": "1a800cb408fcc114c7d38f37bee6697d0c12f869"
  },
  {
@@ -3834,7 +4239,7 @@
    "cvss": 7.1,
    "ref": "https://patchstack.com/database/wordpress/theme/lms/vulnerability/wordpress-lms-theme-8-3-cross-site-scripting-xss-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-78532 — Cross Site Scripting (XSS) chưa được xác thực trong LMS <= 8",
   "key": "188daac8928742c339728724ba927b93341073c9"
  },
  {
@@ -3852,7 +4257,7 @@
    "cvss": 9.8,
    "ref": "https://patchstack.com/database/wordpress/theme/qwery/vulnerability/wordpress-qwery-theme-3-6-1-php-object-injection-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-78533 — PHP Object Injection chưa được xác thực trong Qwery <= 3",
   "key": "7ad15a261c7c5d66033b2812b1c9bd18f3079a09"
  },
  {
@@ -3870,7 +4275,7 @@
    "cvss": 7.1,
    "ref": "https://patchstack.com/database/wordpress/theme/educavo/vulnerability/wordpress-educavo-theme-3-4-2-cross-site-scripting-xss-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-78534 — Kịch bản chéo trang chưa được xác thực (XSS) trong Educavo <= 3",
   "key": "da12cf394522656a0e84fb5082e6d2da3ec45856"
  },
  {
@@ -3888,7 +4293,7 @@
    "cvss": 9.8,
    "ref": "https://patchstack.com/database/wordpress/theme/photolia/vulnerability/wordpress-photolia-theme-1-0-3-php-object-injection-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-78535 — Tiêm đối tượng PHP không được xác thực trong Photolia <= 1",
   "key": "b314729bc3e1e139e6aebc56919777c6ac5dd029"
  },
  {
@@ -3906,7 +4311,7 @@
    "cvss": 9.8,
    "ref": "https://patchstack.com/database/wordpress/theme/buzzstone/vulnerability/wordpress-buzz-stone-magazine-viral-blog-wordpress-theme-theme-1-0-2-php-object-injection-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-81797 — Unauthenticated PHP Object Injection trong Buzz Stone | Tạp chí & Viral Blog WordPress Theme <= 1",
   "key": "278ed965ad9ba479b9608ac10173ddb67d8806b1"
  },
  {
@@ -3924,7 +4329,7 @@
    "cvss": null,
    "ref": "https://cna.erlef.org/cves/CVE-2026-97853.html"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-97853 - Phân bổ bộ nhớ với lỗ hổng Giá trị kích thước quá mức trong số thập phân ericmj cho phép Từ chối dịch vụ",
   "key": "86f012a2b9b8a79cc9026d3e04688f9114768313"
  },
  {
@@ -3943,7 +4348,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/AnkesKasty/cve-request-poc/blob/a7b6d1423555812d8efa26c91c5d0683164b31e5/JeecgBoot/poc_airag_ocr_record_edit.py"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-108605 — JeecgBoot qua 3",
   "key": "0d473152f7432a2a6c957d056bbcd30c09936281"
  },
  {
@@ -3961,7 +4366,7 @@
    "cvss": 5.4,
    "ref": "https://github.com/AnkesKasty/cve-request-poc/blob/a7b6d1423555812d8efa26c91c5d0683164b31e5/JeecgBoot/poc_airag_ocr_record_delete.py"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-108606 — JeecgBoot qua 3",
   "key": "04c21156eca77df944f9aaef214e19ff560ec1d0"
  },
  {
@@ -4018,7 +4423,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/AnkesKasty/cve-request-poc/blob/a7b6d1423555812d8efa26c91c5d0683164b31e5/JeecgBoot/poc_airag_voice_history_read.py"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-108609 — JeecgBoot qua 3",
   "key": "348c1c1e9bdf84f0a20e7ccd634d23924b4e8d79"
  },
  {
@@ -4110,7 +4515,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/AnkesKasty/cve-request-poc/blob/a7b6d1423555812d8efa26c91c5d0683164b31e5/JeecgBoot/poc_airag_extdata_prompts_export.py"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-108614 — JeecgBoot qua 3",
   "key": "8e0324b8026b7eb163aabb513deb05d6d6f7ca64"
  },
  {
@@ -4166,7 +4571,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/AnkesKasty/cve-request-poc/blob/a7b6d1423555812d8efa26c91c5d0683164b31e5/JeecgBoot/poc_c089_messagetemplate_add.py"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-108617 — JeecgBoot qua 3",
   "key": "78df658c9efb6316882eb42988cab7eeec68be51"
  },
  {
@@ -4814,7 +5219,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/AnkesKasty/cve-request-poc/blob/a7b6d1423555812d8efa26c91c5d0683164b31e5/JeecgBoot/poc_openapi_config_and_call_gateway.py"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-108653 — JeecgBoot qua 3",
   "key": "5797ed72cf61ac626d3b22f29a7ea18ce35d457d"
  },
  {
@@ -4832,7 +5237,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/AnkesKasty/cve-request-poc/blob/a7b6d1423555812d8efa26c91c5d0683164b31e5/JeecgBoot/poc_record_query_by_id.py"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-108654 — JeecgBoot qua 3",
   "key": "12a9f2df1ade5450cf4a6716474a2c8b59df93b5"
  },
  {
@@ -4850,7 +5255,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/AnkesKasty/cve-request-poc/blob/a7b6d1423555812d8efa26c91c5d0683164b31e5/JeecgBoot/poc_record_query_by_id.py"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-108655 — JeecgBoot qua 3",
   "key": "fdbd338b5c259a80193cd94b9dd3d7dd20652dcb"
  },
  {
@@ -4868,7 +5273,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/AnkesKasty/cve-request-poc/blob/a7b6d1423555812d8efa26c91c5d0683164b31e5/JeecgBoot/poc_tenant_ownership_and_pack_approval.py"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-108656 — JeecgBoot qua 3",
   "key": "3b463aaa375679e39e3119d63137b1c6756e12d8"
  },
  {
@@ -4922,7 +5327,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/AnkesKasty/cve-request-poc/blob/a7b6d1423555812d8efa26c91c5d0683164b31e5/JeecgBoot/poc_tenant_pack_by_user.py"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-108659 — JeecgBoot qua 3",
   "key": "197c8a716e6aba9cc4e737452a71d5653ac5f7a9"
  },
  {
@@ -73784,428 +74189,5 @@
   },
   "title_vi": "",
   "key": "b04fee02f559131047f8ad6f17ad4cbc5538b734"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-106209 — UI misrepresentation in Mobile in Google Chrome on on iOS prior to 155",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106209",
-  "published": "2026-10-06T19:17:47.300",
-  "summary": "UI misrepresentation in Mobile in Google Chrome on on iOS prior to 155.0.8059.39 allowed a remote attacker leveraging social engineering to spoof address bar via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-106209",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_086471744.html"
-  },
-  "title_vi": "",
-  "key": "a1b147df83e064a222b1ae75a8f6dcdd6456a427"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-106210 — Observable discrepancy in Scroll in Google Chrome prior to 155",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106210",
-  "published": "2026-10-06T19:17:47.413",
-  "summary": "Observable discrepancy in Scroll in Google Chrome prior to 155.0.8059.39 allowed a remote attacker to obtain cross-origin data via a crafted Chrome extension. (Chromium security severity: Medium)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-106210",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_086471744.html"
-  },
-  "title_vi": "",
-  "key": "cb7b63022bbd0047131296f3658cf085871aa172"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-106211 — Use after free in TabStrip in Google Chrome prior to 155",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106211",
-  "published": "2026-10-06T19:17:47.520",
-  "summary": "Use after free in TabStrip in Google Chrome prior to 155.0.8059.39 allowed a remote attacker leveraging social engineering to potentially execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: High)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-106211",
-   "cvss": 9.6,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_086471744.html"
-  },
-  "title_vi": "",
-  "key": "85144a5239a19ea27724e571168e6c92ef09ef44"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-106212 — Incorrect authorization in Autofill in Google Chrome prior to 155",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106212",
-  "published": "2026-10-06T19:17:47.640",
-  "summary": "Incorrect authorization in Autofill in Google Chrome prior to 155.0.8059.39 allowed a remote attacker leveraging social engineering to obtain sensitive information via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-106212",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_086471744.html"
-  },
-  "title_vi": "",
-  "key": "68fe92d929f4971cf961f58509fa9bffc209b2d8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-106213 — Race condition in WebAudio in Google Chrome prior to 155",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106213",
-  "published": "2026-10-06T19:17:47.777",
-  "summary": "Race condition in WebAudio in Google Chrome prior to 155.0.8059.39 allowed a remote attacker to potentially leak cross-origin data via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-106213",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_086471744.html"
-  },
-  "title_vi": "",
-  "key": "d237cb39894688987f1da8b3650f3c429ce348b4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-106214 — Information leak in Proxy in Google Chrome on on Windows prior to 155",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106214",
-  "published": "2026-10-06T19:17:47.983",
-  "summary": "Information leak in Proxy in Google Chrome on on Windows prior to 155.0.8059.39 allowed an adjacent attacker to obtain sensitive information via crafted network traffic. (Chromium security severity: High)",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-106214",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_086471744.html"
-  },
-  "title_vi": "",
-  "key": "4d653607891d9ffa52b87af1cb8a23f87cb545e0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-106215 — Uninitialized resource in ANGLE in Google Chrome on on Windows prior to 155",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106215",
-  "published": "2026-10-06T19:17:48.103",
-  "summary": "Uninitialized resource in ANGLE in Google Chrome on on Windows prior to 155.0.8059.39 allowed a remote attacker to read memory outside the sandbox via a crafted HTML page. (Chromium security severity: High)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-106215",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_086471744.html"
-  },
-  "title_vi": "",
-  "key": "cf4b9185fc1d1ad35a659200cb8a0b50175ff60c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-106216 — Cross-site request forgery in ReadingList in Google Chrome on on Android prior to 155",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106216",
-  "published": "2026-10-06T19:17:48.210",
-  "summary": "Cross-site request forgery in ReadingList in Google Chrome on on Android prior to 155.0.8059.39 allowed a remote attacker leveraging social engineering to bypass web origin policy via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-106216",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_086471744.html"
-  },
-  "title_vi": "",
-  "key": "85b45d98fbfd98e80ac4e73f69e8b82c3fb71d33"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-106217 — Missing authorization in Google Lens in Google Chrome prior to 155",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106217",
-  "published": "2026-10-06T19:17:48.347",
-  "summary": "Missing authorization in Google Lens in Google Chrome prior to 155.0.8059.39 allowed a remote attacker who had compromised the renderer process to leak cross-origin data via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-106217",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_086471744.html"
-  },
-  "title_vi": "",
-  "key": "20064501e3a65c4b0a09356a7d2c3c6a8280af3e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-106220 — Information leak in Passwords in Google Chrome prior to 155",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106220",
-  "published": "2026-10-06T19:17:48.673",
-  "summary": "Information leak in Passwords in Google Chrome prior to 155.0.8059.39 allowed a remote attacker to obtain sensitive information via a crafted HTML page. (Chromium security severity: Low)",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-106220",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_086471744.html"
-  },
-  "title_vi": "",
-  "key": "ada43fefe89b775bb3178005923157aae70f066e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-106221 — Confused deputy in WebAPKs in Google Chrome on on Android prior to 155",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106221",
-  "published": "2026-10-06T19:17:48.783",
-  "summary": "Confused deputy in WebAPKs in Google Chrome on on Android prior to 155.0.8059.39 allowed a remote attacker leveraging social engineering to bypass web origin policy via a crafted HTML page. (Chromium security severity: Low)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-106221",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_086471744.html"
-  },
-  "title_vi": "",
-  "key": "bf78321eb82f356e9dc65887cdd74e7e15b1c0dc"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-106222 — Incorrect authorization in Sync in Google Chrome prior to 155",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106222",
-  "published": "2026-10-06T19:17:48.897",
-  "summary": "Incorrect authorization in Sync in Google Chrome prior to 155.0.8059.39 allowed a remote attacker to obtain sensitive information via crafted network traffic. (Chromium security severity: Medium)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-106222",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_086471744.html"
-  },
-  "title_vi": "",
-  "key": "e99f4b0d4d9bc52831fa69e6ebd3a9878ac0e980"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-106223 — Uninitialized resource in GPU in Google Chrome on on Android prior to 155",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106223",
-  "published": "2026-10-06T19:17:49.007",
-  "summary": "Uninitialized resource in GPU in Google Chrome on on Android prior to 155.0.8059.39 allowed a remote attacker to read memory outside the sandbox via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-106223",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_086471744.html"
-  },
-  "title_vi": "",
-  "key": "17a8bb6b15dc09ebc84ffaf500cbc626b2f13bc3"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-106224 — Missing authorization in Google Lens in Google Chrome prior to 155",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106224",
-  "published": "2026-10-06T19:17:49.117",
-  "summary": "Missing authorization in Google Lens in Google Chrome prior to 155.0.8059.39 allowed a remote attacker who had compromised the renderer process to obtain cross-origin data via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-106224",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_086471744.html"
-  },
-  "title_vi": "",
-  "key": "3b66fbc4ad0cda8bbfa97edeb3b41945d49e2126"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-106225 — Missing authorization in Autofill in Google Chrome prior to 155",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106225",
-  "published": "2026-10-06T19:17:49.230",
-  "summary": "Missing authorization in Autofill in Google Chrome prior to 155.0.8059.39 allowed a remote attacker leveraging social engineering to obtain sensitive information via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-106225",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_086471744.html"
-  },
-  "title_vi": "",
-  "key": "099f42404593acd408dd5c3dd4bff3465ec0ddbe"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-106226 — Improper input validation in Compositing in Google Chrome prior to 155",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106226",
-  "published": "2026-10-06T19:17:49.337",
-  "summary": "Improper input validation in Compositing in Google Chrome prior to 155.0.8059.39 allowed a remote attacker who had compromised the renderer process to spoof address bar via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-106226",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_086471744.html"
-  },
-  "title_vi": "",
-  "key": "367764f0d7ddbdecbeb74d2c988293ddda3129b7"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-106227 — Use after free in Core in Google Chrome prior to 155",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106227",
-  "published": "2026-10-06T19:17:49.450",
-  "summary": "Use after free in Core in Google Chrome prior to 155.0.8059.39 allowed a remote attacker to execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: High)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-106227",
-   "cvss": 9.6,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_086471744.html"
-  },
-  "title_vi": "",
-  "key": "2b07521dd18a454de214b49c14fbbb3c7f851600"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-106228 — Confused deputy in Google Lens in Google Chrome prior to 155",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106228",
-  "published": "2026-10-06T19:17:49.563",
-  "summary": "Confused deputy in Google Lens in Google Chrome prior to 155.0.8059.39 allowed a remote attacker who had compromised the renderer process to potentially execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-106228",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_086471744.html"
-  },
-  "title_vi": "",
-  "key": "72dd2776e6c622d9b7438b4110af1007ab375975"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-106229 — UI misrepresentation in FileSystem in Google Chrome prior to 155",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106229",
-  "published": "2026-10-06T19:17:49.680",
-  "summary": "UI misrepresentation in FileSystem in Google Chrome prior to 155.0.8059.39 allowed a remote attacker leveraging social engineering to bypass system access restrictions via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-106229",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_086471744.html"
-  },
-  "title_vi": "",
-  "key": "950059a6afdab5f0bca9da1a13acb89d22d2edef"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-106230 — Incorrect reference resolution in Offline in Google Chrome on on Android prior to 155",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106230",
-  "published": "2026-10-06T19:17:49.800",
-  "summary": "Incorrect reference resolution in Offline in Google Chrome on on Android prior to 155.0.8059.39 allowed a remote attacker who had compromised the renderer process to obtain sensitive information via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-106230",
-   "cvss": 5.3,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_086471744.html"
-  },
-  "title_vi": "",
-  "key": "a900064e4e81e4f11a44f4fa67c33709a16afb09"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-106231 — Uninitialized resource in Dawn in Google Chrome on on Mac prior to 155",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106231",
-  "published": "2026-10-06T19:17:49.913",
-  "summary": "Uninitialized resource in Dawn in Google Chrome on on Mac prior to 155.0.8059.39 allowed a remote attacker to read memory outside the sandbox via a crafted HTML page. (Chromium security severity: High)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-106231",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_086471744.html"
-  },
-  "title_vi": "",
-  "key": "fbd2d7b0ecb84150b1cd30f7a85b235ab3e38e82"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-106232 — UI misrepresentation in Browser in Google Chrome prior to 155",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106232",
-  "published": "2026-10-06T19:17:50.023",
-  "summary": "UI misrepresentation in Browser in Google Chrome prior to 155.0.8059.39 allowed a remote attacker leveraging social engineering to spoof UI elements via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-106232",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_086471744.html"
-  },
-  "title_vi": "",
-  "key": "0f87aa2d33e8340247f7a1b4cd2899abeede0175"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-106233 — Use after free in Metrics in Google Chrome prior to 155",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106233",
-  "published": "2026-10-06T19:17:50.140",
-  "summary": "Use after free in Metrics in Google Chrome prior to 155.0.8059.39 allowed a remote attacker who had compromised the renderer process to execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: High)",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-106233",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_086471744.html"
-  },
-  "title_vi": "",
-  "key": "3ac5168e25616edd9790e0d5ce6b7f399f1747fb"
  }
 ]
