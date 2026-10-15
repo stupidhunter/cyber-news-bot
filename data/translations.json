@@ -16196,5 +16196,8 @@
  "7f2d4808ba912743a7d2f1bd104763ae175fe362": "CVE-2026-102017 — Lỗ hổng Out-of-bound Write trong quá trình rpd của Juniper Networks Junos OS và Junos OS Evolved cho phép kẻ tấn công không được xác thực gây ra",
  "55fc42a62b73d5d284086db7f2f9f372dd5835d3": "CVE-2026-102018 — Một lỗ hổng NULL Pointer Dereference trong quá trình rpd của Juniper Networks Junos OS và Junos OS Evolved cho phép một attac liền kề chưa được xác thực",
  "630b9a78d6e7bf20fd3eda163dd2f5b59dff9d1f": "CVE-2026-102019 — Xác thực không đúng về số lượng được chỉ định trong lỗ hổng đầu vào trong quy trình rpd của Juniper Networks Junos OS và Junos Evolved cho phép không chính xác",
- "2d3183b2448dacb0943eb3e19cb0fd9fd39fd86f": "CVE-2026-102020 — Lỗ hổng xác nhận có thể tiếp cận trong quy trình rpd của Juniper Networks Junos OS và Junos OS Evolved cho phép attacke dựa trên mạng được xác thực"
+ "2d3183b2448dacb0943eb3e19cb0fd9fd39fd86f": "CVE-2026-102020 — Lỗ hổng xác nhận có thể tiếp cận trong quy trình rpd của Juniper Networks Junos OS và Junos OS Evolved cho phép attacke dựa trên mạng được xác thực",
+ "b8e5e2547adf21fa78fbd75aa456d1db22da1455": "CVE-2026-104935 — Ivanti Connect Secure Authentication Bypass by Spoofing Vulnerability (Bỏ qua xác thực bảo mật Ivanti Connect bằng cách giả mạo lỗ hổng bảo mật)",
+ "4c764d95a1a0f8c7011f3a4ea2f364e56a493bcb": "CVE-2026-104286 — Lỗ hổng Fortinet FortiMail Path Traversal",
+ "3a6c9d028eb760849544f59791d73e3e22d8ab4f": "CVE-2026-7273 — Lỗ hổng tràn bộ đệm dựa trên ngăn xếp Zyxel GS1900 Series"
 }
