@@ -1,5 +1,1519 @@
 [
  {
+  "source": "Thanh Niên Công nghệ",
+  "title": "D&ugrave;ng AI tạo bản sao Microsoft Office miễn ph&iacute; chạy tr&ecirc;n tr&igrave;nh duyệt",
+  "link": "https://thanhnien.vn/dung-ai-tao-ban-sao-microsoft-office-mien-phi-chay-tren-trinh-duyet-18526101708191974.htm",
+  "published": "2026-10-17T02:14:00+00:00",
+  "summary": "Bộ c&ocirc;ng cụ văn ph&ograve;ng miễn ph&iacute; được &#039;vibe-coding&#039; giống Microsoft Office v&agrave; lưu to&agrave;n bộ t&agrave;i liệu v&agrave;o đường dẫn URL c&oacute; g&igrave; đặc biệt?",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "a78ff2fc3030748b0863e19e998a08fa3bf4019a"
+ },
+ {
+  "source": "Thanh Niên Công nghệ",
+  "title": "Học viện C&ocirc;ng nghệ Bưu ch&iacute;nh Viễn th&ocirc;ng v&ocirc; địch cuộc thi Sinh vi&ecirc;n An ninh mạng 2026",
+  "link": "https://thanhnien.vn/hoc-vien-cong-nghe-buu-chinh-vien-thong-vo-dich-cuoc-thi-sinh-vien-an-ninh-mang-2026-185261016200810061.htm",
+  "published": "2026-10-17T00:37:00+00:00",
+  "summary": "Vượt qua 18 đối thủ sau 8 giờ so t&agrave;i thực chiến tại v&ograve;ng chung khảo Bảng A, đội tuyển PTIT.BW đ&atilde; bảo vệ th&agrave;nh c&ocirc;ng ng&ocirc;i vị qu&aacute;n qu&acirc;n, khẳng định năng lực l&agrave;m chủ kỹ thuật của thế hệ nh&acirc;n lực an ninh mạng trẻ.",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "19f15a55fc002860b6a014d9b68527cb583859be"
+ },
+ {
+  "source": "GenK",
+  "title": "Mỹ cấm chip, Huawei hưởng lợi: Nvidia còn 34% thị trường Trung Quốc",
+  "link": "https://genk.vn/my-cam-chip-huawei-huong-loi-nvidia-con-34-thi-truong-trung-quoc-16526101707564533.chn",
+  "published": "2026-10-17T02:55:53.606256+00:00",
+  "summary": "Các lệnh cấm xuất khẩu của Mỹ vốn được dựng lên để kìm hãm năng lực trí tuệ nhân tạo của Trung Quốc, nhưng kết quả trên thị trường lại đang đi theo hướng ngược lại.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "4be2470b24e528c5f6ce528940981f0499d7f23c"
+ },
+ {
+  "source": "GenK",
+  "title": "Cứu doanh số iPhone, Apple gắn AI của Alibaba vào máy bán ở Trung Quốc",
+  "link": "https://genk.vn/cuu-doanh-so-iphone-apple-gan-ai-cua-alibaba-vao-may-ban-o-trung-quoc-165261017075338301.chn",
+  "published": "2026-10-17T02:55:53.606307+00:00",
+  "summary": "Sau thời gian dài để khách hàng tại thị trường tỷ dân phải dùng những chiếc iPhone khuyết tính năng thông minh vì rào cản kiểm duyệt, Apple chuẩn bị tung bản cập nhật iOS 27.3 vào tháng 12 tới với lõi trí tuệ nhân tạo do Alibaba và Baidu cung cấp, nhưng vẫn phải cắt bỏ trợ lý Siri mới.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "2358e04e5a78952dc2a091c721e61dd7d4df33cf"
+ },
+ {
+  "source": "VnExpress Số hóa",
+  "title": "FPT AI EOS cung cấp 'nhân sự số' cho doanh nghiệp",
+  "link": "https://vnexpress.net/hon-1-000-chuyen-gia-cong-nghe-quy-tu-tai-fpt-transform-2026-5132972.html",
+  "published": "2026-10-17T02:00:00+00:00",
+  "summary": "FPT AI EOS có cơ chế con người kết hợp với AI, các nhân sự số có thể làm việc với chức năng chuyên biệt, từ theo dõi tiến độ, rà soát công việc, tổng hợp dữ liệu đến lập báo cáo giúp người dùng không phải tìm kiếm và xử lý dữ liệu thủ công trên từng nền tảng.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "840d38d05f68b4ddd2abb99521f48be451c5db58"
+ },
+ {
+  "source": "VnExpress Số hóa",
+  "title": "Viettel Cyber Security và hai đối tác cung cấp dịch vụ SBOM+ tại Nhật",
+  "link": "https://vnexpress.net/viettel-cyber-security-va-hai-doi-tac-cung-cap-dich-vu-sbom-tai-nhat-5132729.html",
+  "published": "2026-10-17T01:45:00+00:00",
+  "summary": "Viettel Cyber Security hợp tác với hai đối tác Nhật cung cấp dịch vụ SBOM+, nền tảng giúp doanh nghiệp kiểm soát thành phần phần mềm và theo dõi lỗ hổng bảo mật.",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "8a859af9893a2d421b8a2713f836e86e864f84e7"
+ },
+ {
+  "source": "Cloud Security Alliance",
+  "title": "Introducing The Builder Exchange: Inside Security Stories From the Companies Building Fastest With AI",
+  "link": "https://cloudsecurityalliance.org/articles/introducing-the-builder-exchange-inside-security-stories-from-the-companies-building-fastest-with-ai",
+  "published": "2026-10-09T10:43:19+00:00",
+  "summary": "&nbsp; Why the industry needs The Builder Exchange Software development traditionally ran through a narrow channel that involved a defined set of engineers, pipelines, and a review process security could have control over. That model worked because building took experience and effort to execute. Now, AI app generators let anyone in an organization describe an app and ship it to production in an afternoon. The speed at which AI has enabled citizen developers, software builders who don't...",
+  "categories": [
+   "ai",
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "014bcd43cc78ae87577da4ec95829b2192e8db60"
+ },
+ {
+  "source": "Cloud Security Alliance",
+  "title": "Your Roadmap to the Frontier Ready Journey",
+  "link": "https://cloudsecurityalliance.org/articles/your-roadmap-to-the-frontier-ready-journey",
+  "published": "2026-10-08T22:18:34+00:00",
+  "summary": "In April 2026 the Cloud Security Alliance, working with our partners SANS and RSAC, first published The “AI Vulnerability Storm”: Building a “Mythos-ready” Security Program that opened the floodgates on our research for understanding and preparing for the emergence of advanced, adversarial AI. The goal is to determine how we, as defenders, can best prepare our organizations for the inevitable (and not too far off) day where attackers can easily discover Zero day vulnerabilities, weaponize...",
+  "categories": [
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "fdd29ee94001e90b034e81830e6ab7f601461b76"
+ },
+ {
+  "source": "Cloud Security Alliance",
+  "title": "Sanctioned Apps, Unsanctioned AI: Governing the Agents Inside Your SaaS Stack",
+  "link": "https://cloudsecurityalliance.org/articles/sanctioned-apps-unsanctioned-ai-governing-the-agents-inside-your-saas-stack",
+  "published": "2026-10-06T21:55:02+00:00",
+  "summary": "A sparkle icon shows up in the CRM. Nobody in IT deployed it. Account executives start using it to summarize renewal risk across their book, and the help desk is fielding tickets about whether it's allowed. Security can't answer with evidence. This is now the normal state of enterprise SaaS. Zoom gave admins four days in July 2024 to opt out before AI Companion auto-enabled. Microsoft 365 Copilot switches on in the admin center for every admin once a tenant holds one paid license. Google...",
+  "categories": [
+   "ai",
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "0ab90c84e937de8cc904baccb011d16ca569363b"
+ },
+ {
+  "source": "Cloud Security Alliance",
+  "title": "Building a Generative AI Layer into Legacy Business Applications",
+  "link": "https://cloudsecurityalliance.org/articles/building-a-generative-ai-layer-into-legacy-business-applications",
+  "published": "2026-09-29T23:57:50+00:00",
+  "summary": "Enterprise resource planning systems deployed a decade or more ago remain fully capable of tracking inventory, processing invoices, and managing shipping schedules. What these systems typically cannot do is respond to a request to summarize the prior quarter's supplier delays in natural language. This gap between operational reliability and current AI capability is increasingly common across established enterprises. The scale of the underlying exposure is significant. A CSA survey of 418...",
+  "categories": [
+   "ai",
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "2f5ad230c04124a76a3f5e115eee71b84b7a5216"
+ },
+ {
+  "source": "Cloud Security Alliance",
+  "title": "CSA Welcomes NVIDIA Open Agent Safety Platform",
+  "link": "https://cloudsecurityalliance.org/articles/cloud-security-alliance-welcomes-nvidia-open-agent-safety-platform-to-advance-its-mission-of-securing-the-agentic-control-plane",
+  "published": "2026-09-28T20:52:00+00:00",
+  "summary": "Cloud Security Alliance is building industry consensus around governance and security controls for autonomous AI. We welcome the launch of the NVIDIA Open&nbsp;Agent Safety Platform and NVIDIA’s commitment to making autonomous AI safer to deploy at enterprise scale. NVIDIA is bringing its engineering capabilities across software and hardware to one of the most consequential challenges facing our industry: giving agents the freedom to do useful work while maintaining control over their a...",
+  "categories": [
+   "ai",
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "bc656c24529be5be5c2a2fe45f38aec64e1f9af9"
+ },
+ {
+  "source": "Cloud Security Alliance",
+  "title": "From Models to MCP Servers, Skills, and Plugins: Rethinking Trust in the AI Supply Chain",
+  "link": "https://cloudsecurityalliance.org/articles/from-models-to-mcp-servers-skills-and-plugins-rethinking-trust-in-the-ai-supply-chain",
+  "published": "2026-09-25T01:37:40+00:00",
+  "summary": "An enterprise can approve an AI model, authenticate its users, and restrict access to internal systems, yet still expose sensitive data through the components surrounding that model. In September 2025, an MCP server distributed through npm demonstrated how quickly trust can become a liability. The package, postmark-mcp, allowed AI assistants to send email through Postmark. It operated normally across its first 15 versions and reached approximately 1,500 weekly downloads. Then version 1....",
+  "categories": [
+   "ai",
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "421e84523acca495776b39c7f08fc897d909e565"
+ },
+ {
+  "source": "Cloudflare Blog",
+  "title": "Introducing on-demand CPU and memory profiling with flamegraphs for Workers and Durable Objects",
+  "link": "https://blog.cloudflare.com/workers-on-demand-profiling/",
+  "published": "2026-10-09T13:00:00+00:00",
+  "summary": "On-demand CPU and memory profiling for Cloudflare Workers and Durable Objects is now available. Now you can generate interactive flamegraphs directly in production to quickly track down memory leaks and performance bottlenecks.",
+  "categories": [
+   "breach",
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "fac02a6f48168e9d84539194ab8328c3d357d74d"
+ },
+ {
+  "source": "Cloudflare Blog",
+  "title": "Deno is joining Cloudflare",
+  "link": "https://blog.cloudflare.com/deno-joins-cloudflare/",
+  "published": "2026-10-09T12:50:00+00:00",
+  "summary": "The Deno team is joining Cloudflare to radically simplify self-hosting Workers and Durable Objects, so developers can use the same primitives in more places.",
+  "categories": [
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "20fa5b1d71b1e2d511a33f879db1865bf2a2799b"
+ },
+ {
+  "source": "Cloudflare Blog",
+  "title": "Bridging technical depth and usability: The story behind Radar’s redesign",
+  "link": "https://blog.cloudflare.com/radar-redesign/",
+  "published": "2026-10-08T13:00:00+00:00",
+  "summary": "We redesigned Cloudflare Radar to make real-time global traffic and outage data accessible to a wider audience — including journalists, less technical researchers, and everyday users. By introducing an interactive map and standardized components, we simplified navigation while preserving technical depth.",
+  "categories": [
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "fe01fd1678e2366af9636d31e64bf54a066c2446"
+ },
+ {
+  "source": "Cloudflare Blog",
+  "title": "Everything we launched during Birthday Week 2026",
+  "link": "https://blog.cloudflare.com/birthday-week-2026-wrap-up/",
+  "published": "2026-10-05T13:00:00+00:00",
+  "summary": "We celebrated our 16th birthday with 46 announcements across open source, post-quantum security, AI agents, and developer platform upgrades. Here’s a day-by-day roundup of everything we shipped.",
+  "categories": [
+   "ai",
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "8ea142a3af3b1d189b253ef048209f13720b6cf5"
+ },
+ {
+  "source": "Cloudflare Blog",
+  "title": "One year later: the power of 1.1.1.1 interns",
+  "link": "https://blog.cloudflare.com/one-year-later-1111-interns/",
+  "published": "2026-10-05T13:00:00+00:00",
+  "summary": "A year after announcing our goal to hire 1,111 interns, more than 750 early-career builders have shipped real products across 48 teams at Cloudflare. From Birthday Week launches to post-quantum security, our interns prove that AI amplifies human potential instead of replacing it.",
+  "categories": [
+   "ai",
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "a6c828904e2841a5bdc2e4153138316694b46ced"
+ },
+ {
+  "source": "AWS Security Blog",
+  "title": "Part 2 – Cybersecurity journeys: What even is this job?",
+  "link": "https://aws.amazon.com/blogs/security/part-2-cybersecurity-journeys-what-even-is-this-job/",
+  "published": "2026-10-13T20:58:01+00:00",
+  "summary": "If you’ve ever looked at a list of cybersecurity jobs and felt like none of them fit you, you might just be looking at a short list. Most career guides cover the same few roles, like the analyst watching alerts or the pen tester (penetration tester, someone hired to legally break into systems to find […]",
+  "categories": [
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "985216e5e12fa5ee83d569eda9684247cd7bbe77"
+ },
+ {
+  "source": "AWS Security Blog",
+  "title": "ICYMI: August 2026 @AWS Security",
+  "link": "https://aws.amazon.com/blogs/security/icymi-august-2026-aws-security/",
+  "published": "2026-09-23T23:07:36+00:00",
+  "summary": "Read all about the latest AWS security features, compliance updates, and hands-on resources in our monthly digest posts. You’ll find expert blog posts, new service capabilities, code samples, and workshops. AWS Security Blog posts August brought 20 AWS Security Blog posts organized across seven categories. Identity and access management led the month with five posts […]",
+  "categories": [
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "202b8483d85328981269b89b403093ce54e0f6a9"
+ },
+ {
+  "source": "OpenAI News",
+  "title": "How Itaú is building generative AI for its entire customer base",
+  "link": "https://openai.com/index/itau-generative-ai",
+  "published": "2026-10-16T19:00:00+00:00",
+  "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "9ec1e6aa93074bb8ab9516da72ad8caad4e4881c"
+ },
+ {
+  "source": "OpenAI News",
+  "title": "Higgsfield takes AI video from 1 minute to over 10",
+  "link": "https://openai.com/index/higgsfield-longer-videos-voice",
+  "published": "2026-10-13T12:00:00+00:00",
+  "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "d0379e706cf01815782fdb1957a29dd35d393717"
+ },
+ {
+  "source": "OpenAI News",
+  "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+  "link": "https://openai.com/index/sophos",
+  "published": "2026-10-09T07:00:00+00:00",
+  "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "770e51dce9d07744b2b3ecf43907087025b6c0f2"
+ },
+ {
+  "source": "OpenAI News",
+  "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+  "link": "https://openai.com/index/oracle",
+  "published": "2026-10-08T16:00:00+00:00",
+  "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "e7d2d2902f85d4f7a1bbab8336634089dd7018a0"
+ },
+ {
+  "source": "OpenAI News",
+  "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+  "link": "https://openai.com/index/pollo-ai",
+  "published": "2026-10-08T12:00:00+00:00",
+  "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "148dbddd512c69f6f065710426230b37d1e35e26"
+ },
+ {
+  "source": "OpenAI News",
+  "title": "LegalOn halves Codex costs while maintaining development speed",
+  "link": "https://openai.com/index/legalon-halves-codex-costs",
+  "published": "2026-10-08T12:00:00+00:00",
+  "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "0a871a67a4723d75e654d0827175f10af440e3aa"
+ },
+ {
+  "source": "OpenAI News",
+  "title": "Disrupting AI-enabled “false front” operations",
+  "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+  "published": "2026-10-08T00:00:00+00:00",
+  "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "974eb01d335e5bb41f112141d75f9879a3a88d57"
+ },
+ {
+  "source": "OpenAI News",
+  "title": "Our approach to EU text provenance rules",
+  "link": "https://openai.com/index/eu-text-provenance",
+  "published": "2026-10-05T15:00:00+00:00",
+  "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "746c420e89e7bcb231a194feb3cf4f17e06329ae"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "Attackers claim to have stolen 80 million South African patient records in massive Ampath Laboratories data breach (Disputed)",
+  "link": "https://databreaches.net/2026/10/13/attackers-claim-to-have-stolen-80-million-south-african-patient-records-in-massive-ampath-laboratories-data-breach/",
+  "published": "2026-10-13T20:49:32+00:00",
+  "summary": "Luis Monzon reports: Ampath Laboratories, one of South Africa’s largest pathology service providers, has been hit by a cyberattack, with the attacker claiming that more than 80 million patient records have been exfiltrated. Threat actor ByteToBreach, which has attacked other major entities across Africa, including major targets in Nigeria, claimed responsibility for the breach. The... Source",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "bcbd8d850d602fa4e2716e3c2815123102974780"
+ },
+ {
+  "source": "Talos Blog",
+  "title": "Microsoft Patch Tuesday for October 2026 — Snort rules and prominent vulnerabilities",
+  "link": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-october-2026/",
+  "published": "2026-10-13T20:37:58+00:00",
+  "summary": "Microsoft has released its monthly security update for October 2026, which includes 1415 vulnerabilities affecting a range of products, including 85 that Microsoft marked as \"critical.\"",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Microsoft Patch Tuesday cho tháng 10 năm 2026 — Các quy tắc Snort và các lỗ hổng nổi bật",
+  "key": "ff8274beffabe059adad67995a3233718f6b1b5b"
+ },
+ {
+  "source": "Talos Blog",
+  "title": "Making sure the checks get printed",
+  "link": "https://blog.talosintelligence.com/making-sure-the-checks-get-printed/",
+  "published": "2026-10-08T18:00:29+00:00",
+  "summary": "Pierre's debut newsletter explores the messy, real-world side of risk management and how to keep vital systems running when a perfect patch isn't an option.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Đảm bảo in séc",
+  "key": "3fcf847154446417c38ba0c778835a0ec9aaebaa"
+ },
+ {
+  "source": "Talos Blog",
+  "title": "UAT-11985: AI-assisted event lures delivering real-time Google AitM phishing",
+  "link": "https://blog.talosintelligence.com/uat-11985/",
+  "published": "2026-10-08T10:01:06+00:00",
+  "summary": "Cisco Talos identified an APT spear-phishing campaign against individuals affiliated with Taiwan research organizations. The operation leveraged legitimate public event themes and impersonated reputable academic and policy institutions.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "UAT-11985: Sự kiện có sự hỗ trợ của AI thu hút lừa đảo Google AitM theo thời gian thực",
+  "key": "992c72fe3f7464bf45e5a28028141ed55310ef6a"
+ },
+ {
+  "source": "Talos Blog",
+  "title": "Ignore all instructions and read this blog: The state of AI-analysis evasion in malware",
+  "link": "https://blog.talosintelligence.com/ignore-all-instructions-and-read-this-blog-the-state-of-ai-analysis-evasion-in-malware/",
+  "published": "2026-10-08T10:00:14+00:00",
+  "summary": "“AI-analysis evasion” encapsulates the real-world techniques malware authors are developing in attempt to obstruct or defeat any layers of automated AI analysis.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Bỏ qua tất cả các hướng dẫn và đọc blog này: Tình trạng trốn tránh phân tích AI trong phần mềm độc hại",
+  "key": "4b1710e2e8864fa30188aa8233cc0d8bd77fb86d"
+ },
+ {
+  "source": "Unit 42",
+  "title": "The Noise Inside the Network: How an Unsophisticated Attack Exposed a Third-Party Risk",
+  "link": "https://unit42.paloaltonetworks.com/noise-inside-network-third-party-risk/",
+  "published": "2026-10-13T22:00:04+00:00",
+  "summary": "Unit 42 dissects a cyberattack targeting a European bank's IT infrastructure, delivering concrete defense strategies to help organizations detect and counter comparable threats. The post The Noise Inside the Network: How an Unsophisticated Attack Exposed a Third-Party Risk appeared first on Unit 42 .",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Tiếng ồn bên trong mạng: Cách một cuộc tấn công không tinh vi gây ra rủi ro cho bên thứ ba",
+  "key": "e93151e4d1a61044558233359e6f381cab313218"
+ },
+ {
+  "source": "DarkReading",
+  "title": "Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday",
+  "link": "https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday",
+  "published": "2026-10-13T22:29:57+00:00",
+  "summary": "The scary surprises in the largest security update ever include defense bypasses and unauthenticated RCEs.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Zero-Days Lurk trong Microsoft's Overgrown October Patch Tuesday",
+  "key": "d2424dad7d51a265eb1e2741edffad43d9851cab"
+ },
+ {
+  "source": "DarkReading",
+  "title": "North Korea Phishes Ukrainians for War Intel",
+  "link": "https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel",
+  "published": "2026-10-13T21:24:45+00:00",
+  "summary": "The Democratic People's Republic of Korea (DPRK) is trying to get insight into its own war effort in Ukraine, through simple reply-baiting phishing attacks.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Triều Tiên lừa đảo người Ukraine vì tình báo chiến tranh",
+  "key": "e0668a180caafad5f86bb60e57479827abaf960a"
+ },
+ {
+  "source": "DarkReading",
+  "title": "Anthropic Finds Ingredients for Future AI Worms",
+  "link": "https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms",
+  "published": "2026-10-13T20:35:23+00:00",
+  "summary": "Anthropic's latest study combines IoT and network tests to explore AI self-replication, which researchers said would be &quot;challenging&quot; to shut down.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Anthropic Finds Ingredients for Future AI Worms (Nhân chủng học tìm ra thành phần cho giun AI trong tương lai)",
+  "key": "88881da8f6a0127f438c9727a3d3b3fff07f83a5"
+ },
+ {
+  "source": "Krebs on Security",
+  "title": "Microsoft Patches More Than 1,400 Security Flaws",
+  "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+  "published": "2026-10-13T23:24:53+00:00",
+  "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.",
+  "categories": [
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Microsoft vá hơn 1.400 lỗ hổng bảo mật",
+  "key": "8cd447b8cf6f2c976fc692d9564e7ac3856c5981"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2026-96951 — Microsoft Windows Command Injection Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96951",
+  "published": "2026-10-13",
+  "summary": "Microsoft Windows Shell contains a command injection vulnerability that allows an unauthorized attacker to bypass a security feature over a network.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-96951",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2026-10-16",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "CVE-2026-96951 — Lỗ hổng Microsoft Windows Command Injection",
+  "key": "6a2ffb2e67cbbeb3f7771546652c0626c0194f45"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2015-5477 —  ISC BIND Data Processing Errors Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2015-5477",
+  "published": "2026-10-08",
+  "summary": "ISC BIND contains a data processing errors vulnerability that could allow remote attackers to cause a denial of service via TKEY queries.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2015-5477",
+   "vendor": "ISC",
+   "product": "BIND",
+   "due_date": "2026-10-11",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "CVE-2015-5477 —  ISC RÀNG BUỘC Lỗ hổng xử lý dữ liệu",
+  "key": "005eb84a6c5aa3600abbaa3f1427ad2df6fb58e7"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2016-3081 — Apache Struts Command Injection Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2016-3081",
+  "published": "2026-10-08",
+  "summary": "Apache Struts contains a command injection vulnerability that could allow remote attackers to execute arbitrary code via method:prefix when Dynamic Method Invocation is enabled.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2016-3081",
+   "vendor": "Apache",
+   "product": "Struts",
+   "due_date": "2026-10-11",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "CVE-2016-3081 — Lỗ hổng Apache Struts Command Injection",
+  "key": "dd3baab35022fdfadd4ed98e55081d647312e5c3"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2023-22894 — Strapi Cleartext Storage of Sensitive Information Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2023-22894",
+  "published": "2026-10-08",
+  "summary": "Strapi contains a cleartext storage of sensitive information vulnerability that could allow attackers with access to the admin panel to discover sensitive user details via the query filter. The impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). Users are advised to discontinue use and/or transition to a supported version. This vulnerability can be chained with CVE-2023-22621 to achieve remote code execution. ",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2023-22894",
+   "vendor": "Strapi",
+   "product": "Strapi",
+   "due_date": "2026-10-11",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "CVE-2023-22894 — Strapi Cleartext Lưu trữ lỗ hổng thông tin nhạy cảm",
+  "key": "b7bb3630782bb614bfdfa6d81d1f6bde39a3736b"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-3199 — ONLYOFFICE Docs Server Path Traversal Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-3199",
+  "published": "2026-10-08",
+  "summary": "ONLYOFFICE Docs contains a path traversal vulnerability that can occur when JWT is used, via a /.. sequence in an image upload parameter and could allow for remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-3199",
+   "vendor": "ONLYOFFICE",
+   "product": "Docs",
+   "due_date": "2026-10-11",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "CVE-2021-3199 — ONLYOFFICE Đường dẫn máy chủ Lỗ hổng di chuyển",
+  "key": "d81763a6e48fa76c076249298d92416add644b01"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2015-3306 — ProFTPD Improper Access Control Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2015-3306",
+  "published": "2026-10-08",
+  "summary": "ProFTPD contains an improper access control vulnerability that could allow remote attackers to read and write to arbitrary files via the site cpfr and site cpto commands.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2015-3306",
+   "vendor": "ProFTPD",
+   "product": "ProFTPD",
+   "due_date": "2026-10-11",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "CVE-2015-3306 — ProFTPD Lỗ hổng kiểm soát truy cập không đúng cách",
+  "key": "bea2334108ae0dcf546c1e0829f038f9d86ea54f"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2026-88779 — Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88779",
+  "published": "2026-10-04",
+  "summary": "Citrix NetScaler ADC (formerly Citrix ADC) and Citrix NetScaler Gateway (formerly Citrix Gateway) contain an improper restriction of operations within the bounds of a memory buffer vulnerability that could allow for a denial of service.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-88779",
+   "vendor": "Citrix",
+   "product": "NetScaler",
+   "due_date": "2026-10-07",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "CVE-2026-88779 — Citrix NetScaler Hạn chế hoạt động không đúng cách trong giới hạn của lỗ hổng bộ đệm bộ nhớ",
+  "key": "280da2b44d9867ffe7fc092e6e257fceee1e02f5"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2026-86950 — Apple Multiple Products Out-of-Bounds Write Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86950",
+  "published": "2026-09-29",
+  "summary": "Apple iOS, macOS, and iPadOS contain an out-of-bounds write vulnerability in CoreGraphics that may lead to arbitrary code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-86950",
+   "vendor": "Apple",
+   "product": "Multiple Products",
+   "due_date": "2026-10-13",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "CVE-2026-86950 - Lỗ hổng bảo mật ghi ngoài nhiều sản phẩm của Apple",
+  "key": "943c647d1506d7b5999eebbd2d0b4e29b3d0f306"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-11978 — Apache Airflow Command Injection",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-11978",
+  "published": "2022-01-18",
+  "summary": "A remote code/command injection vulnerability was discovered in one of the example DAGs shipped with Airflow.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-11978",
+   "vendor": "Apache",
+   "product": "Airflow",
+   "due_date": "2022-07-18",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2020-11978 — Phun Lệnh Luồng Khí Apache",
+  "key": "7c1b601a4f84d8b6d6b21fa4f46254cf5c178eef"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-13927 — Apache Airflow's Experimental API Authentication Bypass",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-13927",
+  "published": "2022-01-18",
+  "summary": "The previous default setting for Airflow's Experimental API was to allow all API requests without authentication.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-13927",
+   "vendor": "Apache",
+   "product": "Airflow's Experimental API",
+   "due_date": "2022-07-18",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2020-13927 — Bỏ qua xác thực API thử nghiệm của Apache Airflow",
+  "key": "b5f6883ac57b7ea45ed06c6e50adce660464ba47"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-22017 — VMware vCenter Server Improper Access Control",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-22017",
+  "published": "2022-01-10",
+  "summary": "Rhttproxy as used in vCenter Server contains a vulnerability due to improper implementation of URI normalization.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-22017",
+   "vendor": "VMware",
+   "product": "vCenter Server",
+   "due_date": "2022-01-24",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-22017 — VMware vCenter Server Kiểm soát truy cập không đúng cách",
+  "key": "430d835736539e61107c0836438296907e187ce4"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-36260 — Hikvision Improper Input Validation",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-36260",
+  "published": "2022-01-10",
+  "summary": "A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input validation.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-36260",
+   "vendor": "Hikvision",
+   "product": "Security cameras web server",
+   "due_date": "2022-01-24",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-36260 — Xác thực đầu vào không đúng Hikvision",
+  "key": "59a2a6795ece91408d9f1455cb24e8be1bd216b3"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-6572 — Google Chrome Media Use-After-Free Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-6572",
+  "published": "2022-01-10",
+  "summary": "Google Chrome Media contains a use-after-free vulnerability that allows a remote attacker to execute code via a crafted HTML page.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-6572",
+   "vendor": "Google",
+   "product": "Chrome Media",
+   "due_date": "2022-07-10",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2020-6572 — Lỗ hổng Google Chrome Media Use-After-Free",
+  "key": "10611c49acd88c8cdbcaf86931b42047b43da0e1"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-1458 — Microsoft Win32k Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-1458",
+  "published": "2022-01-10",
+  "summary": "A privilege escalation vulnerability exists in Windows when the Win32k component fails to properly handle objects in memory, aka 'Win32k EoP.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-1458",
+   "vendor": "Microsoft",
+   "product": "Win32k",
+   "due_date": "2022-07-10",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2019-1458 — Lỗ hổng leo thang đặc quyền Microsoft Win32k",
+  "key": "376556566d2e782394c44336b8b1f27429547690"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2013-3900 — Microsoft WinVerifyTrust function Remote Code Execution",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2013-3900",
+  "published": "2022-01-10",
+  "summary": "A remote code execution vulnerability exists in the way that the WinVerifyTrust function handles Windows Authenticode signature verification for PE files.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2013-3900",
+   "vendor": "Microsoft",
+   "product": "WinVerifyTrust function",
+   "due_date": "2022-07-10",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2013-3900 — Thực thi mã từ xa chức năng Microsoft WinVerifyTrust",
+  "key": "4a4eb9368a04587202cf63cdad8b945be4e86cf3"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-2725 — Oracle WebLogic Server, Injection",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-2725",
+  "published": "2022-01-10",
+  "summary": "Injection vulnerability in the Oracle WebLogic Server component of Oracle Fusion Middleware (subcomponent: Web Services).",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-2725",
+   "vendor": "Oracle",
+   "product": "WebLogic Server",
+   "due_date": "2022-07-10",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2019-2725 — Máy chủ Oracle WebLogic, Injection",
+  "key": "0cbff3ac244978ef78f0f06529f1e0b5104df9b2"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-9670 — Synacor Zimbra Collaboration Suite (ZCS) Improper Restriction of XML External Entity Reference",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-9670",
+  "published": "2022-01-10",
+  "summary": "Synacor Zimbra Collaboration Suite (ZCS) contains an improper restriction of XML external entity (XXE) vulnerability in the mailboxd component.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-9670",
+   "vendor": "Synacor",
+   "product": "Zimbra Collaboration Suite (ZCS)",
+   "due_date": "2022-07-10",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2019-9670 — Synacor Zimbra Collaboration Suite (ZCS) Hạn chế không đúng đối với tham chiếu thực thể bên ngoài XML",
+  "key": "8eea9924d3222091eccef896a510bff2ba24de1b"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2018-13382 — Fortinet FortiOS and FortiProxy Improper Authorization",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-13382",
+  "published": "2022-01-10",
+  "summary": "An Improper Authorization vulnerability in Fortinet FortiOS and FortiProxy under SSL VPN web portal allows an unauthenticated attacker to modify the password.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2018-13382",
+   "vendor": "Fortinet",
+   "product": "FortiOS and FortiProxy",
+   "due_date": "2022-07-10",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2018-13382 — Fortinet FortiOS và FortiProxy không được ủy quyền",
+  "key": "bcc931b4c8af6b98d772d7fc8aca57fabe23a10e"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2018-13383 — Fortinet FortiOS and FortiProxy Out-of-bounds Write",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-13383",
+  "published": "2022-01-10",
+  "summary": "A heap buffer overflow in Fortinet FortiOS and FortiProxy may cause the SSL VPN web service termination for logged in users.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2018-13383",
+   "vendor": "Fortinet",
+   "product": "FortiOS and FortiProxy",
+   "due_date": "2022-07-10",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2018-13383 — Fortinet FortiOS và FortiProxy Ghi ngoài giới hạn",
+  "key": "9b796440296e09bd7a7ac83ad49c7a049dbd8089"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-1579 — Palo Alto Networks PAN-OS Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-1579",
+  "published": "2022-01-10",
+  "summary": "Remote Code Execution in PAN-OS with GlobalProtect Portal or GlobalProtect Gateway Interface enabled.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-1579",
+   "vendor": "Palo Alto Networks",
+   "product": "PAN-OS",
+   "due_date": "2022-07-10",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2019-1579 — Lỗ hổng thực thi mã từ xa Palo Alto Networks PAN-OS",
+  "key": "4aab60ea58597e04c71a46629affa152476f4e3c"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-10149 — Exim Mail Transfer Agent (MTA) Improper Input Validation",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-10149",
+  "published": "2022-01-10",
+  "summary": "Improper validation of recipient address in deliver_message() function in /src/deliver.c may lead to remote command execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-10149",
+   "vendor": "Exim",
+   "product": "Mail Transfer Agent (MTA)",
+   "due_date": "2022-07-10",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2019-10149 — Xác thực đầu vào không chính xác của Đại lý chuyển thư Exim (MTA)",
+  "key": "16a73caa5fa1850c155194e527c3eed9a3c0c692"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2015-7450 — IBM WebSphere Application Server and Server Hypervisor Edition Code Injection.",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2015-7450",
+  "published": "2022-01-10",
+  "summary": "Serialized-object interfaces in certain IBM analytics, business solutions, cognitive, IT infrastructure, and mobile and social products allow remote attackers to execute arbitrary commands",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2015-7450",
+   "vendor": "IBM",
+   "product": "WebSphere Application Server and Server Hypervisor Edition",
+   "due_date": "2022-07-10",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2015-7450 — IBM WebSphere Application Server và Server Hypervisor Edition Code Injection.",
+  "key": "3e4a7caa63b4a490f596c95abe3d36f36802a316"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2017-1000486 — Primetek Primefaces Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-1000486",
+  "published": "2022-01-10",
+  "summary": "Primetek Primefaces is vulnerable to a weak encryption flaw resulting in remote code execution",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2017-1000486",
+   "vendor": "Primetek",
+   "product": "Primefaces Application",
+   "due_date": "2022-07-10",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2017-1000486 — Lỗ hổng thực thi mã từ xa Primetek Primefaces",
+  "key": "ca79c957cea68df4c7425a07d7b9c40fb002d615"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-7609 — Kibana Arbitrary Code Execution",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-7609",
+  "published": "2022-01-10",
+  "summary": "Kibana contain an arbitrary code execution flaw in the Timelion visualizer.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-7609",
+   "vendor": "Elastic",
+   "product": "Kibana",
+   "due_date": "2022-07-10",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2019-7609 — Thực thi mã tùy ý Kibana",
+  "key": "1069b2b34e84268fe2d753241dff50580bd8d99c"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-27860 — FatPipe WARP, IPVPN, and MPVPN Configuration Upload exploit",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-27860",
+  "published": "2022-01-10",
+  "summary": "A vulnerability in the web management interface of FatPipe WARP, IPVPN, and MPVPN software allows a remote, unauthenticated attacker to upload a file to any location on the filesystem.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-27860",
+   "vendor": "FatPipe",
+   "product": "WARP, IPVPN, and MPVPN software",
+   "due_date": "2022-01-24",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-27860 — Khai thác tải lên cấu hình FatPipe WARP, IPVPN và MPVPN",
+  "key": "a7ec64123fb58d22929f4e33fb989adacb8e386e"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-43890 — Microsoft Windows AppX Installer Spoofing Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-43890",
+  "published": "2021-12-15",
+  "summary": "Microsoft Windows AppX Installer contains a spoofing vulnerability which has a high impacts to confidentiality, integrity, and availability.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-43890",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2021-12-29",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-43890 — Lỗ hổng giả mạo trình cài đặt Microsoft Windows AppX",
+  "key": "31f5960bc805fb5adb92797662a50484b30a9800"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-4102 — Google Chromium V8 Use-After-Free Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-4102",
+  "published": "2021-12-15",
+  "summary": "Google Chromium V8 Engine contains a use-after-free vulnerability that allows a remote attacker to potentially exploit heap corruption via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-4102",
+   "vendor": "Google",
+   "product": "Chromium V8",
+   "due_date": "2021-12-29",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-4102 — Lỗ hổng Google Chromium V8 Use-After-Free",
+  "key": "87d60123a803810e763a8a106046dd78eff7be44"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-44515 — Zoho Desktop Central Authentication Bypass Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-44515",
+  "published": "2021-12-10",
+  "summary": "Zoho Desktop Central contains an authentication bypass vulnerability that could allow an attacker to execute arbitrary code in the Desktop Central MSP server.",
+  "categories": [
+   "cloud",
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-44515",
+   "vendor": "Zoho",
+   "product": "Desktop Central",
+   "due_date": "2021-12-24",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-44515 - Lỗ hổng xác thực trung tâm trên máy tính để bàn Zoho",
+  "key": "fb5956e87516609a3650ed3a1879f6df63dc8ab3"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-13272 — Linux Kernel Improper Privilege Management Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-13272",
+  "published": "2021-12-10",
+  "summary": "Kernel/ptrace.c in Linux kernel mishandles contains an improper privilege management vulnerability that allows local users to obtain root access.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-13272",
+   "vendor": "Linux",
+   "product": "Kernel",
+   "due_date": "2022-06-10",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2019-13272 — Lỗ hổng quản lý đặc quyền không đúng nhân Linux",
+  "key": "be15c752b6c5e27f212633c75eccfab499f46353"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-35394 — Realtek Jungle SDK Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-35394",
+  "published": "2021-12-10",
+  "summary": "RealTek Jungle SDK contains multiple memory corruption vulnerabilities which can allow an attacker to perform remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-35394",
+   "vendor": "Realtek",
+   "product": "Jungle Software Development Kit (SDK)",
+   "due_date": "2021-12-24",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-35394 — Lỗ hổng thực thi mã từ xa Realtek Jungle SDK",
+  "key": "35adfbaaca18793236bf91c7ed7b9cc33466da29"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-7238 — Sonatype Nexus Repository Manager Incorrect Access Control Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-7238",
+  "published": "2021-12-10",
+  "summary": "Sonatype Nexus Repository Manager before 3.15.0 has an incorrect access control vulnerability. Exploitation allows for remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-7238",
+   "vendor": "Sonatype",
+   "product": "Nexus Repository Manager",
+   "due_date": "2022-06-10",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2019-7238 - Trình quản lý kho lưu trữ Sonatype Nexus Lỗ hổng kiểm soát truy cập không chính xác",
+  "key": "fa8d04bfdc77692f64e9ad866704349f3c26574a"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-0193 — Apache Solr DataImportHandler Code Injection Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-0193",
+  "published": "2021-12-10",
+  "summary": "The optional Apache Solr module DataImportHandler contains a code injection vulnerability.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-0193",
+   "vendor": "Apache",
+   "product": "Solr",
+   "due_date": "2022-06-10",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2019-0193 — Lỗ hổng Apache Solr DataImportHandler Code Injection",
+  "key": "956612e99335867f100713fd18d909f7e7c9cc9d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-106549 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106549",
+  "published": "2026-10-16T23:16:58.293",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-106549",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2026-106549 — Lý do bị từ chối: ID CVE này đã bị Cơ quan Đánh số CVE từ chối hoặc rút lại",
+  "key": "292f6ed47bbfea56b2176312260e76191907a48d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-107346 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-107346",
+  "published": "2026-10-16T23:16:58.350",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-107346",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2026-107346 — Lý do bị từ chối: ID CVE này đã bị Cơ quan Đánh số CVE từ chối hoặc rút lại",
+  "key": "ee87dc60c58ccb2a8c9391db2f64087ee69532f4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-110752 — Text::CSV_XS versions before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-110752",
+  "published": "2026-10-16T23:17:00.410",
+  "summary": "Text::CSV_XS versions before 1.65 for Perl allow memory exhaustion by allocating one entry per index of an RFC 7111 selector in fragment.\n\nfragment expands a row= or col= selector into an array with one element per selected index before it reads any data, and it does not clamp an explicit end column in a cell= selector to the row. Only the syntax and order of the ranges are checked, so row=1-400000000 on a two-line file allocates 400 million elements.\n\nAn application that passes a request-supplied fragment to fragment or csv can be made to exhaust memory, which ends the process with an Out of ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-110752",
+   "cvss": null,
+   "ref": "https://github.com/cpan-authors/Text-CSV_XS/commit/d9d3d66f9ff6a8a1bc255a6ef05100f9b102b92b.patch"
+  },
+  "title_vi": "CVE-2026-110752 — Văn bản::CSV_XS phiên bản trước 1",
+  "key": "07453116d1b60e1ff5f249cb5101a16297fe15c8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-110753 — Text::CSV_XS versions from 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-110753",
+  "published": "2026-10-16T23:17:00.530",
+  "summary": "Text::CSV_XS versions from 1.46 before 1.65 for Perl have a use-after-free of bind_columns variables when skip_empty_rows skips an empty line in getline.\n\nWith bind_columns, the parser writes each field into the caller's own scalar without taking a reference to it. When skip_empty_rows skips an empty last line, the parser frees the current field scalar without checking whether it is bound, dropping one reference from the application's variable. The \"eof\" mode does the same on any empty line.\n\nThe variable is then freed while the application still references it, so later code uses freed memory ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-110753",
+   "cvss": null,
+   "ref": "https://github.com/cpan-authors/Text-CSV_XS/commit/f082d5c8aab1b8d16b6181d4f3042a06947e260f.patch"
+  },
+  "title_vi": "CVE-2026-110753 — Văn bản::CSV_XS phiên bản từ 1",
+  "key": "53e88e7ee76ab9660b7b3620336367a5d1528306"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-110754 — Text::CSV_XS versions before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-110754",
+  "published": "2026-10-16T23:17:00.637",
+  "summary": "Text::CSV_XS versions before 1.65 for Perl leak the parsed fields of a record that fails to parse in getline.\n\ngetline collects the fields of a record into a new array and returns a reference to it only when the parse succeeds. When the record has a syntax error, getline returns undef and never frees the array or the fields parsed before the error.\n\nA long-running process parsing untrusted CSV retains every malformed record it is sent, so repeated malformed input exhausts its memory.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-110754",
+   "cvss": null,
+   "ref": "https://github.com/cpan-authors/Text-CSV_XS/commit/eb4f739ffc605bfb1ab710e5330704faa0e89f08.patch"
+  },
+  "title_vi": "CVE-2026-110754 — Văn bản::CSV_XS phiên bản trước 1",
+  "key": "fdfa20e0a3a2310de9daa8d1e570e7dc227e791b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-110755 — Text::CSV_XS versions before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-110755",
+  "published": "2026-10-16T23:17:00.740",
+  "summary": "Text::CSV_XS versions before 1.65 for Perl allow quadratic CPU use by copying the unparsed remainder per record of CR-only input in getline.\n\nWith eol unset, the default, getline reads with Perl's default line separator, so input with CR-only line endings arrives as one chunk. After each record the parser copies the whole unparsed remainder into a new buffer, which the next call parses and copies again, so the work grows with the square of the input size.\n\nA reader with default options that is sent CSV with classic Mac line endings spends seconds of CPU time on a megabyte of input.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-110755",
+   "cvss": null,
+   "ref": "https://github.com/cpan-authors/Text-CSV_XS/commit/f25e00aacd6fc15857b22487cb2e5ca263f377e0.patch"
+  },
+  "title_vi": "CVE-2026-110755 — Văn bản::CSV_XS phiên bản trước 1",
+  "key": "68a8b86c2877807be7f791cda6ae7f6aa195aa2d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-110756 — Text::CSV_XS versions before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-110756",
+  "published": "2026-10-16T23:17:00.847",
+  "summary": "Text::CSV_XS versions before 1.65 for Perl drop the end of a record and its line ending when a UTF-8 flagged field precedes invalid UTF-8 bytes in print.\n\nWhen a record contains a UTF-8 flagged field, print holds back trailing bytes that are not valid UTF-8 at each buffer flush, so that a character split across two flushes can be completed. Nothing writes the held-back bytes after the record's final flush. A record whose last field ends in such a byte loses it, any closing quote and the line ending, while print still returns true. combine is not affected.\n\nThe next record is written onto the s",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-110756",
+   "cvss": null,
+   "ref": "https://github.com/cpan-authors/Text-CSV_XS/commit/0610a8d81262ae6f1ac82a88d73c8a471f38af19.patch"
+  },
+  "title_vi": "CVE-2026-110756 — Văn bản::CSV_XS phiên bản trước 1",
+  "key": "24f64023cb65e0450e1b48f59b5900e58fc76a88"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-110757 — Text::CSV_XS versions before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-110757",
+  "published": "2026-10-16T23:17:00.953",
+  "summary": "Text::CSV_XS versions before 1.65 for Perl allow record splitting by writing strings used as numbers without quotes in combine.\n\ncombine and print do not check whether a field needs quotes when its value has Perl's integer or numeric flag set. Perl sets these flags on a string used in a numeric operation when it parses as a number, which allows leading and trailing whitespace. With binary set, as csv does by default, \"12\\n\" passes a check such as $qty > 0 and is then written unquoted with its newline.\n\nA value validated as a number can end the record early and turn the fields after it into a s",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-110757",
+   "cvss": null,
+   "ref": "https://github.com/cpan-authors/Text-CSV_XS/commit/fcfb796cb50de9cef8b94a70535304ac41a50c56.patch"
+  },
+  "title_vi": "CVE-2026-110757 — Văn bản::CSV_XS phiên bản trước 1",
+  "key": "32a908f1d3a70cb43bc35717ff07f2ba8eb1038d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-110758 — Text::CSV_XS versions before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-110758",
+  "published": "2026-10-16T23:17:01.057",
+  "summary": "Text::CSV_XS versions before 1.65 for Perl read before the start of an all-blank field under allow_whitespace in strip_trail_whitespace.\n\nUnder allow_whitespace, strip_trail_whitespace removes trailing spaces and tabs from each unquoted field without stopping at the start of the field. For a field of only blanks it reads the byte before the field's heap buffer. If that byte is also a space or tab, it may be zeroed and the walk continue backwards, depending on what the allocator placed there.\n\nLeading blanks are normally skipped before a field is stored, but an all-blank field still arrives aft",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-110758",
+   "cvss": null,
+   "ref": "https://github.com/cpan-authors/Text-CSV_XS/commit/efed7ee21177c59a5b69e787f84154e1fcb0d095.patch"
+  },
+  "title_vi": "CVE-2026-110758 — Văn bản::CSV_XS phiên bản trước 1",
+  "key": "180ab59d831f8183e25e50504248092e5dc41aa6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-110759 — Text::CSV_XS versions before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-110759",
+  "published": "2026-10-16T23:17:01.170",
+  "summary": "Text::CSV_XS versions before 1.65 for Perl return a 0xFF byte that is not in the input for an empty last field followed by a lone CR in parse.\n\nWhen the input to parse ends in a separator and a lone CR, the parser treats the end of the input as the next character and stores the end-of-file marker in the field as the byte 0xFF. With binary set, parse(\"a,\\r\") returns the fields \"a\" and \"\\xFF\". On UTF-8 flagged input the last field is a UTF-8 flagged string holding that lone byte, which is malformed UTF-8. The same input with a non-empty last field is rejected as an error.\n\nA CRLF file read line ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-110759",
+   "cvss": null,
+   "ref": "https://github.com/cpan-authors/Text-CSV_XS/commit/7627f1a2bb8ffe4e81d9847318a060822043f7f3.patch"
+  },
+  "title_vi": "CVE-2026-110759 — Văn bản::CSV_XS phiên bản trước 1",
+  "key": "ef6228635ed63ecbdde67d98656698acc0799f66"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-111802 — A flaw was found in Nautilus",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111802",
+  "published": "2026-10-16T23:17:01.277",
+  "summary": "A flaw was found in Nautilus. When a removable drive or disk image is unmounted or ejected, Nautilus prompts the user to empty the trash without verifying whether the trash directory paths are symbolic links. An attacker can exploit this flaw by tricking a user into mounting a crafted storage volume and confirming the prompt to empty the trash, leading to the arbitrary deletion of files accessible to that user.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-111802",
+   "cvss": 6.6,
+   "ref": "https://access.redhat.com/security/cve/CVE-2026-111802"
+  },
+  "title_vi": "CVE-2026-111802 — Một lỗ hổng đã được tìm thấy trong Nautilus",
+  "key": "335770a82e31b3ec277fef9ed482d94c3098daad"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-17591 — A flaw was found in libarchive",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-17591",
+  "published": "2026-10-16T23:17:01.420",
+  "summary": "A flaw was found in libarchive. An attacker can cause a Denial of Service (DoS) or potential information disclosure due to a use-after-free vulnerability, which occurs when a program reads memory that has already been released. This issue arises when the archive_entry_copy_mac_metadata() function deallocates an internal buffer before completing a data copy. An attacker who can supply input to an application utilizing this function can trigger the flaw to crash the application or read uninitialized memory data.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-17591",
+   "cvss": 3.6,
+   "ref": "https://access.redhat.com/security/cve/CVE-2026-17591"
+  },
+  "title_vi": "CVE-2026-17591 — Một lỗ hổng đã được tìm thấy trong libarchive",
+  "key": "59797eef7f1631f63cd44d08fad596fdbfe815e5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-89085 — A flaw was found in parted",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89085",
+  "published": "2026-10-16T23:17:02.553",
+  "summary": "A flaw was found in parted. A heap-based buffer overflow can occur when processing a specially crafted FAT32 filesystem due to an integer calculation error during buffer allocation. A local attacker could exploit this by enticing a user or automated service to open a malicious filesystem image, resulting in an application crash leading to a Denial of Service (DoS) or potential memory corruption.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-89085",
+   "cvss": 6.6,
+   "ref": "https://access.redhat.com/security/cve/CVE-2026-89085"
+  },
+  "title_vi": "CVE-2026-89085 — Một lỗ hổng đã được tìm thấy trong một phần",
+  "key": "591c5cf417f2864fe3f7f27bf3f79f6bc37d3560"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-89088 — A flaw was found in parted",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89088",
+  "published": "2026-10-16T23:17:02.680",
+  "summary": "A flaw was found in parted. A heap-based buffer overflow exists in libparted's file system resizing logic when handling FAT16 volumes. By convincing a user or administrator to resize a specially crafted FAT16 file system image with malformed directory metadata, an attacker can trigger an oversized read into a fixed-size memory buffer. This issue causes memory corruption, resulting in an application crash and a denial of service (DoS).",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-89088",
+   "cvss": 5.5,
+   "ref": "https://access.redhat.com/security/cve/CVE-2026-89088"
+  },
+  "title_vi": "CVE-2026-89088 — Một lỗ hổng đã được tìm thấy trong một phần",
+  "key": "30fe2ef4394c28f12a6bbc560f43d88dab089d44"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-89096 — A flaw was found in nfs-utils",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89096",
+  "published": "2026-10-16T23:17:02.810",
+  "summary": "A flaw was found in nfs-utils. An unauthenticated remote attacker can trigger a Denial of Service (DoS) by sending repeated state notification requests to an exposed rpc.statd service. The service fails to properly release memory allocated during callback processing, leading to continuous memory growth. Sustained requests can exhaust system resources, eventually causing the service to degrade or crash.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-89096",
+   "cvss": 5.9,
+   "ref": "https://access.redhat.com/security/cve/CVE-2026-89096"
+  },
+  "title_vi": "CVE-2026-89096 — Một lỗ hổng đã được tìm thấy trong nfs-utils",
+  "key": "bc38077e338b20eb96f1f5121bc5e51516c22416"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-111823 — Mage OSS through 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111823",
+  "published": "2026-10-17T02:17:18.470",
+  "summary": "Mage OSS through 0.9.80 before 76c4f46 can proceed with session creation upon encountering an unknown OAuth provider.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-111823",
+   "cvss": 9.8,
+   "ref": "https://github.com/mage-ai/mage-ai/pull/6204"
+  },
+  "title_vi": "CVE-2026-111823 — Mage OSS đến 0",
+  "key": "6f5f68ac716ad04dca64b4a73b644c392cb5f395"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-111853 — An issue was discovered on Tektronix 3 Series MDO devices before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111853",
+  "published": "2026-10-17T02:17:18.610",
+  "summary": "An issue was discovered on Tektronix 3 Series MDO devices before 1.21.1. An OS command injection vulnerability exists in the FILESystem:MOUNT:DRIve SCPI command handler. Insufficient neutralization of user-supplied input allows remote attackers to execute arbitrary operating system commands with elevated privileges.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-111853",
+   "cvss": 8.8,
+   "ref": "https://download.tek.com/document/TEK-PSA-002-092026.pdf"
+  },
+  "title_vi": "CVE-2026-111853 — Một vấn đề đã được phát hiện trên các thiết bị MDO Tektronix 3 Series trước 1",
+  "key": "ea48e1ae0f1d3bfd3d2894b40c7d898d3bab3657"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-111854 — An issue was discovered on Tektronix 3 Series MDO devices before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111854",
+  "published": "2026-10-17T02:17:18.750",
+  "summary": "An issue was discovered on Tektronix 3 Series MDO devices before 1.21.1. A path traversal vulnerability in the SCPI FILESystem command interface allows remote attackers to read or modify arbitrary files on the device through insufficient validation of file paths supplied to filesystem access commands.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-111854",
+   "cvss": 8.1,
+   "ref": "https://download.tek.com/document/TEK-PSA-002-092026.pdf"
+  },
+  "title_vi": "CVE-2026-111854 — Một vấn đề đã được phát hiện trên các thiết bị MDO Tektronix 3 Series trước 1",
+  "key": "f1d5fd8be2e219590868e6a2cc130d5385d1aaba"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-111855 — An issue was discovered on Tektronix 3 Series MDO devices before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111855",
+  "published": "2026-10-17T02:17:18.877",
+  "summary": "An issue was discovered on Tektronix 3 Series MDO devices before 1.21.1. A path traversal vulnerability exists in the web management interface of the device. Insufficient validation of user-supplied file paths allows remote attackers to read arbitrary files accessible to the application. Depending on configuration, exploitation may be possible without authentication.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-111855",
+   "cvss": 7.5,
+   "ref": "https://download.tek.com/document/TEK-PSA-002-092026.pdf"
+  },
+  "title_vi": "CVE-2026-111855 — Một vấn đề đã được phát hiện trên các thiết bị MDO Tektronix 3 Series trước 1",
+  "key": "648b4774db6707e089980881112a706c3cc7b971"
+ },
+ {
   "source": "VnExpress Số hóa",
   "title": "'Trợ lý AI lai' chuyên phục vụ giới nhà giàu",
   "link": "https://vnexpress.net/tro-ly-ai-lai-chuyen-phuc-vu-gioi-nha-giau-5131957.html",
@@ -72507,1682 +74021,5 @@
   },
   "title_vi": "",
   "key": "162132c0317f665c4043bebaedbd2860f67dcd36"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2018-15982 — Adobe Flash Player Use-After-Free Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-15982",
-  "published": "2022-02-15",
-  "summary": "Adobe Flash Player com.adobe.tvsdk.mediacore.metadata Use After Free Vulnerability",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2018-15982",
-   "vendor": "Adobe",
-   "product": "Flash Player",
-   "due_date": "2022-08-15",
-   "required_action": "The impacted product is end-of-life and should be disconnected if still in use."
-  },
-  "title_vi": "",
-  "key": "b0e9059d7b0a8ca051637ae431e97feb7db65084"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2017-9841 — PHPUnit Command Injection Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-9841",
-  "published": "2022-02-15",
-  "summary": "PHPUnit allows remote attackers to execute arbitrary PHP code via HTTP POST data beginning with a \"<?php \" substring, as demonstrated by an attack on a site with an exposed /vendor folder, i.e., external access to the /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php URI.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2017-9841",
-   "vendor": "PHPUnit",
-   "product": "PHPUnit",
-   "due_date": "2022-08-15",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "3b61ef9d6bfc87f6cd23e66c73b1a186331f2ef6"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2014-1761 — Microsoft Word Memory Corruption Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2014-1761",
-  "published": "2022-02-15",
-  "summary": "Microsoft Word contains a memory corruption vulnerability which when exploited could allow for remote code execution.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2014-1761",
-   "vendor": "Microsoft",
-   "product": "Word",
-   "due_date": "2022-08-15",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "2de3559bbfb2a04081435f89c7105d2e7dc4245c"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2013-3906 — Microsoft Graphics Component Memory Corruption Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2013-3906",
-  "published": "2022-02-15",
-  "summary": "Microsoft Graphics Component contains a memory corruption vulnerability which can allow for remote code execution.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2013-3906",
-   "vendor": "Microsoft",
-   "product": "Graphics Component",
-   "due_date": "2022-08-15",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "17b9c04e9b49f9c3e274e9a0c680c7a88b2ff644"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2022-22620 — Apple iOS, iPadOS, and macOS Webkit Use-After-Free Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2022-22620",
-  "published": "2022-02-11",
-  "summary": "Apple iOS, iPadOS, and macOS WebKit contain a use-after-free vulnerability that leads to code execution when processing maliciously crafted web content. This vulnerability could impact HTML parsers that use WebKit, including but not limited to Apple Safari and non-Apple products which rely on WebKit for HTML processing.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2022-22620",
-   "vendor": "Apple",
-   "product": "iOS, iPadOS, and macOS",
-   "due_date": "2022-02-25",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "4106a4fab2dda5c3c84c11c5cecad4943663893d"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-36934 — Microsoft Windows SAM Local Privilege Escalation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-36934",
-  "published": "2022-02-10",
-  "summary": "If a Volume Shadow Copy (VSS) shadow copy of the system drive is available, users can read the SAM file which would allow any user to escalate privileges to SYSTEM level.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-36934",
-   "vendor": "Microsoft",
-   "product": "Windows",
-   "due_date": "2022-02-24",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "f91a380d4dc82ba5051a195d0cf37db442a5fd9a"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-0796 — Microsoft SMBv3 Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-0796",
-  "published": "2022-02-10",
-  "summary": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 3.1.1 (SMBv3) protocol handles certain requests. An attacker who successfully exploited the vulnerability could gain the ability to execute code on the target server or client.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-0796",
-   "vendor": "Microsoft",
-   "product": "SMBv3",
-   "due_date": "2022-08-10",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "38ad723873c211e72d9786ace414913ce44704f8"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2018-1000861 — Jenkins Stapler Web Framework Deserialization of Untrusted Data Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-1000861",
-  "published": "2022-02-10",
-  "summary": "A code execution vulnerability exists in the Stapler web framework used by Jenkins",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2018-1000861",
-   "vendor": "Jenkins",
-   "product": "Jenkins Stapler Web Framework",
-   "due_date": "2022-08-10",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "8d265b1c5f46225d2451da1c7cb7af713ce4093f"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2017-9791 — Apache Struts 1 Improper Input Validation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-9791",
-  "published": "2022-02-10",
-  "summary": "The Struts 1 plugin in Apache Struts might allow remote code execution via a malicious field value passed in a raw message to the ActionMessage.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2017-9791",
-   "vendor": "Apache",
-   "product": "Struts 1",
-   "due_date": "2022-08-10",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "1422fa8c13c1839cc3734d11af1ac0b845487266"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2017-8464 — Microsoft Windows Shell (.lnk) Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-8464",
-  "published": "2022-02-10",
-  "summary": "Windows Shell in multiple versions of Microsoft Windows allows local users or remote attackers to execute arbitrary code via a crafted .LNK file",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2017-8464",
-   "vendor": "Microsoft",
-   "product": "Windows",
-   "due_date": "2022-08-10",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "bece2474a6e74ce0b7a78ff47de63f7c0308ff68"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2017-10271 — Oracle Corporation WebLogic Server Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-10271",
-  "published": "2022-02-10",
-  "summary": "Oracle Corporation WebLogic Server contains a vulnerability that allows for remote code execution.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2017-10271",
-   "vendor": "Oracle",
-   "product": "WebLogic Server",
-   "due_date": "2022-08-10",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "ab127a5a83f22f33737ead5e67432f73be2ec9da"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2017-0263 — Microsoft Win32k Privilege Escalation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-0263",
-  "published": "2022-02-10",
-  "summary": "Microsoft Win32k contains a privilege escalation vulnerability due to the Windows kernel-mode driver failing to properly handle objects in memory.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2017-0263",
-   "vendor": "Microsoft",
-   "product": "Win32k",
-   "due_date": "2022-08-10",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "3affb6aa9f0f5db29a20a214e546f8d54042f4b7"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2017-0262 — Microsoft Office Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-0262",
-  "published": "2022-02-10",
-  "summary": "A remote code execution vulnerability exists in Microsoft Office.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2017-0262",
-   "vendor": "Microsoft",
-   "product": "Office",
-   "due_date": "2022-08-10",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "9ff926192e942fde424625d98ba3adb77dc7ebf8"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2017-0145 — Microsoft SMBv1 Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-0145",
-  "published": "2022-02-10",
-  "summary": "The SMBv1 server in multiple Microsoft Windows versions allows remote attackers to execute arbitrary code via crafted packets.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2017-0145",
-   "vendor": "Microsoft",
-   "product": "SMBv1",
-   "due_date": "2022-08-10",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "854e863a13b377e579e3d8b9057f3b0347d650ad"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2017-0144 — Microsoft SMBv1 Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-0144",
-  "published": "2022-02-10",
-  "summary": "The SMBv1 server in multiple Microsoft Windows versions allows remote attackers to execute arbitrary code via crafted packets.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2017-0144",
-   "vendor": "Microsoft",
-   "product": "SMBv1",
-   "due_date": "2022-08-10",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "7b3e2b202ec62256ac4c41101ed761d89f878cfd"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2016-3088 — Apache ActiveMQ Improper Input Validation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2016-3088",
-  "published": "2022-02-10",
-  "summary": "The Fileserver web application in Apache ActiveMQ allows remote attackers to upload and execute arbitrary files via an HTTP PUT followed by an HTTP MOVE request",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2016-3088",
-   "vendor": "Apache",
-   "product": "ActiveMQ",
-   "due_date": "2022-08-10",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "253eb90aaed9a30963ac749d5a467501e757b29c"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2015-2051 — D-Link DIR-645 Router Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2015-2051",
-  "published": "2022-02-10",
-  "summary": "D-Link DIR-645 Wired/Wireless Router allows remote attackers to execute arbitrary commands via a GetDeviceSettings action to the HNAP interface.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2015-2051",
-   "vendor": "D-Link",
-   "product": "DIR-645 Router",
-   "due_date": "2022-08-10",
-   "required_action": "The impacted product is end-of-life and should be disconnected if still in use."
-  },
-  "title_vi": "",
-  "key": "173e1afea25b18ab1ba125e071da52525a7c0846"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2015-1635 — Microsoft HTTP.sys Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2015-1635",
-  "published": "2022-02-10",
-  "summary": "Microsoft HTTP protocol stack (HTTP.sys) contains a vulnerability that allows for remote code execution.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2015-1635",
-   "vendor": "Microsoft",
-   "product": "HTTP.sys",
-   "due_date": "2022-08-10",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "3a3464015aa2e8a38486ab5ea949bc9007f6c891"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2015-1130 — Apple OS X Authentication Bypass Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2015-1130",
-  "published": "2022-02-10",
-  "summary": "The XPC implementation in Admin Framework in Apple OS X before 10.10.3 allows local users to bypass authentication and obtain admin privileges.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2015-1130",
-   "vendor": "Apple",
-   "product": "OS X",
-   "due_date": "2022-08-10",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "2b9a1da4b50420a48c8c1bfd2a9db14532d4c2e6"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2014-4404 — Apple OS X Heap-Based Buffer Overflow Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2014-4404",
-  "published": "2022-02-10",
-  "summary": "Heap-based buffer overflow in IOHIDFamily in Apple OS X, which affects, iOS before 8 and Apple TV before 7, allows attackers to execute arbitrary code in a privileged context.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2014-4404",
-   "vendor": "Apple",
-   "product": "OS X",
-   "due_date": "2022-08-10",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "26b593d2f12c8bf5e8a525101d397b3cc872657e"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2022-21882 — Microsoft Win32k Privilege Escalation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2022-21882",
-  "published": "2022-02-04",
-  "summary": "Microsoft Win32k contains an unspecified vulnerability that allows for privilege escalation.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2022-21882",
-   "vendor": "Microsoft",
-   "product": "Win32k",
-   "due_date": "2022-02-18",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "c3906b06cc1aa42f6ec70c24d0efbcc19d504e21"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2022-22587 — Apple Memory Corruption Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2022-22587",
-  "published": "2022-01-28",
-  "summary": "Apple IOMobileFrameBuffer contains a memory corruption vulnerability which can allow a malicious application to execute arbitrary code with kernel privileges.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2022-22587",
-   "vendor": "Apple",
-   "product": "iOS and macOS",
-   "due_date": "2022-02-11",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "6c142a804de9acf552f3057f9acc3a4305121d9c"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-20038 — SonicWall SMA 100 Appliances Stack-Based Buffer Overflow Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-20038",
-  "published": "2022-01-28",
-  "summary": "SonicWall SMA 100 devies are vulnerable to an unauthenticated stack-based buffer overflow vulnerability where exploitation can result in code execution.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-20038",
-   "vendor": "SonicWall",
-   "product": "SMA 100 Appliances",
-   "due_date": "2022-02-11",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "1f83c2ff8fee36208d92469ead3434a1b0889fd7"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-5722 — Grandstream Networks UCM6200 Series SQL Injection Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-5722",
-  "published": "2022-01-28",
-  "summary": "Grandstream UCM6200 series is vulnerable to an unauthenticated remote SQL injection via crafted HTTP request. Exploitation can allow for code execution as root.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-5722",
-   "vendor": "Grandstream",
-   "product": "UCM6200",
-   "due_date": "2022-07-28",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "2f8c8beffdcf428cd1cf62645a438601e67e5266"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-0787 — Microsoft Windows Background Intelligent Transfer Service (BITS) Improper Privilege Management Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-0787",
-  "published": "2022-01-28",
-  "summary": "Microsoft Windows BITS is vulnerable to to a privilege elevation vulnerability if it improperly handles symbolic links. An actor can exploit this vulnerability to execute arbitrary code with system-level privileges.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-0787",
-   "vendor": "Microsoft",
-   "product": "Windows",
-   "due_date": "2022-07-28",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "d9e47c8c1cf19eb25d5778a7605621815167dfe7"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2017-5689 — Intel Active Management Technology (AMT), Small Business Technology (SBT), and Standard Manageability Privilege Escalation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-5689",
-  "published": "2022-01-28",
-  "summary": "Intel products contain a vulnerability which can allow attackers to perform privilege escalation.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2017-5689",
-   "vendor": "Intel",
-   "product": "Active Management Technology (AMT), Small Business Technology (SBT), and Standard Manageability",
-   "due_date": "2022-07-28",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "f97c7fa2d645554c11b517d447cfe8a1bb3d5447"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2014-1776 — Microsoft Internet Explorer Memory Corruption Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2014-1776",
-  "published": "2022-01-28",
-  "summary": "Microsoft Internet Explorer contains a memory corruption vulnerability that allows remote attackers to execute code in the context of the current user.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2014-1776",
-   "vendor": "Microsoft",
-   "product": "Internet Explorer",
-   "due_date": "2022-07-28",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "a1f4b7effed70b6c5fd258dec897ab002e4ad44a"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2014-6271 — GNU Bourne-Again Shell (Bash) Arbitrary Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2014-6271",
-  "published": "2022-01-28",
-  "summary": "GNU Bash through 4.3 processes trailing strings after function definitions in the values of environment variables, which allows remote attackers to execute code.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2014-6271",
-   "vendor": "GNU",
-   "product": "Bourne-Again Shell (Bash)",
-   "due_date": "2022-07-28",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "1f819159fa020c2490df318e708498a710979a54"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2014-7169 — GNU Bourne-Again Shell (Bash) Arbitrary Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2014-7169",
-  "published": "2022-01-28",
-  "summary": "GNU Bash through 4.3 processes trailing strings after function definitions in the values of environment variables, which allows remote attackers to execute code. This CVE correctly remediates the vulnerability in CVE-2014-6271.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2014-7169",
-   "vendor": "GNU",
-   "product": "Bourne-Again Shell (Bash)",
-   "due_date": "2022-07-28",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "511ffa44a05e2a73b6976929564b5b6e9d73fa68"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2006-1547 — Apache Struts 1 ActionForm Denial-of-Service Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2006-1547",
-  "published": "2022-01-21",
-  "summary": "ActionForm in Apache Struts versions before 1.2.9 with BeanUtils 1.7 contains a vulnerability that allows for denial-of-service (DoS).",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2006-1547",
-   "vendor": "Apache",
-   "product": "Struts 1",
-   "due_date": "2022-07-21",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "9e18cdb117037242135c0f1398619164ee3b7173"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2012-0391 — Apache Struts 2 Improper Input Validation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2012-0391",
-  "published": "2022-01-21",
-  "summary": "The ExceptionDelegator component in Apache Struts 2 before 2.2.3.1 contains an improper input validation vulnerability that allows for remote code execution.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2012-0391",
-   "vendor": "Apache",
-   "product": "Struts 2",
-   "due_date": "2022-07-21",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "1d88af6d21d2f17c2b5e6053378c59e2ab66ea1d"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2018-8453 — Microsoft Win32k Privilege Escalation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-8453",
-  "published": "2022-01-21",
-  "summary": "Microsoft Windows Win32k contains a vulnerability that allows an attacker to escalate privileges.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2018-8453",
-   "vendor": "Microsoft",
-   "product": "Win32k",
-   "due_date": "2022-07-21",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "223e8b93f91ca22e6009677f0c33b7c2b9d010f4"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-35247 — SolarWinds Serv-U Improper Input Validation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-35247",
-  "published": "2022-01-21",
-  "summary": "SolarWinds Serv-U versions 15.2.5 and earlier contain an improper input validation vulnerability that allows attackers to build and send queries without sanitization.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-35247",
-   "vendor": "SolarWinds",
-   "product": "Serv-U",
-   "due_date": "2022-02-04",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "7118a8db5a1766b106e4f4e5ac31087272917d9d"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-32648 — October CMS Improper Authentication",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-32648",
-  "published": "2022-01-18",
-  "summary": "In affected versions of the october/system package an attacker can request an account password reset and then gain access to the account using a specially crafted request.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-32648",
-   "vendor": "October CMS",
-   "product": "October CMS",
-   "due_date": "2022-02-01",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "4df2aea5512291e0354410477401f3247f5ad1a0"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-25296 — Nagios XI OS Command Injection",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-25296",
-  "published": "2022-01-18",
-  "summary": "Nagios XI contains a vulnerability which can lead to OS command injection on the Nagios XI server.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-25296",
-   "vendor": "Nagios",
-   "product": "Nagios XI",
-   "due_date": "2022-02-01",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "87a656e74df3790f706993c36f6a39e9caa593c3"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-25297 — Nagios XI OS Command Injection",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-25297",
-  "published": "2022-01-18",
-  "summary": "Nagios XI contains a vulnerability which can lead to OS command injection on the Nagios XI server.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-25297",
-   "vendor": "Nagios",
-   "product": "Nagios XI",
-   "due_date": "2022-02-01",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "ca281a9417914bda453184c157994e6b0b0aec23"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-25298 — Nagios XI OS Command Injection",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-25298",
-  "published": "2022-01-18",
-  "summary": "Nagios XI contains a vulnerability which can lead to OS command injection on the Nagios XI server.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-25298",
-   "vendor": "Nagios",
-   "product": "Nagios XI",
-   "due_date": "2022-02-01",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "9fa602548ddf953368b2f2e5e42bf244776e5cb0"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-40870 — Aviatrix Controller Unrestricted Upload of File",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-40870",
-  "published": "2022-01-18",
-  "summary": "Unrestricted upload of a file with a dangerous type is possible, which allows an unauthenticated user to execute arbitrary code via directory traversal.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-40870",
-   "vendor": "Aviatrix",
-   "product": "Aviatrix Controller",
-   "due_date": "2022-02-01",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "502078f545e65fb2091e5c0ce5ff1983f2ece94d"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-33766 — Microsoft Exchange Server Information Disclosure",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33766",
-  "published": "2022-01-18",
-  "summary": "Microsoft Exchange Server contains an information disclosure vulnerability which can allow an unauthenticated attacker to steal email traffic from target.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-33766",
-   "vendor": "Microsoft",
-   "product": "Exchange Server",
-   "due_date": "2022-02-01",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "8089cd433129d52d241d59a9cdce4c38a0929f2e"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-21975 — VMware Server Side Request Forgery in vRealize Operations Manager API",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-21975",
-  "published": "2022-01-18",
-  "summary": "Server Side Request Forgery (SSRF) in vRealize Operations Manager API prior to 8.4 may allow a malicious actor with network access to the vRealize Operations Manager API to perform a SSRF attack to steal administrative credentials.",
-  "categories": [
-   "breach",
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-21975",
-   "vendor": "VMware",
-   "product": "vRealize Operations Manager API",
-   "due_date": "2022-02-01",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "7540cc1aba321a5131aa95047da625ed7c8e6f9e"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-21315 — System Information Library for Node.JS Command Injection",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-21315",
-  "published": "2022-01-18",
-  "summary": "In this vulnerability, an attacker can send a malicious payload that will exploit the name parameter. After successful exploitation, attackers can execute remote.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-21315",
-   "vendor": "Npm package",
-   "product": "System Information Library for Node.JS",
-   "due_date": "2022-02-01",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "4eb58f131c542f8dac92a6be11f9ecee6ecaaf29"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-22991 — F5 BIG-IP Traffic Management Microkernel Buffer Overflow",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-22991",
-  "published": "2022-01-18",
-  "summary": "The Traffic Management Microkernel of BIG-IP ASM Risk Engine has a buffer overflow vulnerability, leading to a bypassing of URL-based access controls.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-22991",
-   "vendor": "F5",
-   "product": "BIG-IP Traffic Management Microkernel",
-   "due_date": "2022-02-01",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "d1036fa01f89d31189f69f53b97610ea9c6c83b5"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-14864 — Oracle Business Intelligence Enterprise Edition Path Transversal",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-14864",
-  "published": "2022-01-18",
-  "summary": "Path traversal vulnerability, where an attacker can target the preview FilePath parameter of the getPreviewImage function to get access to arbitrary system file.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-14864",
-   "vendor": "Oracle",
-   "product": "Intelligence Enterprise Edition",
-   "due_date": "2022-07-18",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "f12b20e980d5f8c053b628cbc16a3c890162c2df"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-13671 — Drupal core Un-restricted Upload of File",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-13671",
-  "published": "2022-01-18",
-  "summary": "Improper sanitization in the extension file names is present in Drupal core.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-13671",
-   "vendor": "Drupal",
-   "product": "Drupal core",
-   "due_date": "2022-07-18",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "fe15257c552b7e640e45a8ebe52b422c3978e26f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-76001 — ColdFusion is affected by a Server-Side Request Forgery (SSRF) vulnerability that could result in privilege escalation",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76001",
-  "published": "2026-10-13T21:18:20.730",
-  "summary": "ColdFusion is affected by a Server-Side Request Forgery (SSRF) vulnerability that could result in privilege escalation. A low-privileged attacker could exploit this vulnerability to gain elevated access to internal resources. Exploit depends on conditions beyond the attacker's control. Exploitation of this issue does not require user interaction. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-76001",
-   "cvss": 7.1,
-   "ref": "https://www.adobe.com/trust/security/products/coldfusion/apsb26-144.html"
-  },
-  "title_vi": "CVE-2026-76001 — ColdFusion bị ảnh hưởng bởi lỗ hổng giả mạo yêu cầu phía máy chủ (SSRF) có thể dẫn đến leo thang đặc quyền",
-  "key": "db5495bac23fd8c05b919b8a137311e03747cebf"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-77816 — IBM WebSphere Application Server - Liberty 17",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77816",
-  "published": "2026-10-13T21:18:21.033",
-  "summary": "IBM WebSphere Application Server - Liberty 17.0.0.3 through 26.0.0.9 administrative client could allow man-in-the-middle attacks. An attacker could exploit this vulnerability to obtain sensitive information.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-77816",
-   "cvss": 6.5,
-   "ref": "https://www.ibm.com/support/pages/node/7291394"
-  },
-  "title_vi": "CVE-2026-77816 — Máy chủ ứng dụng IBM WebSphere - Liberty 17",
-  "key": "f9aad3877b49b3ef2043af58bbe15566b7ba8b15"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-78628 — The Okta Credential Provider for Windows does not validate a serialized credential buffer before interpreting it as a Kerberos logon structure",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78628",
-  "published": "2026-10-13T21:18:21.630",
-  "summary": "The Okta Credential Provider for Windows does not validate a serialized credential buffer before interpreting it as a Kerberos logon structure. The buffer size and packed string offsets are not checked. Processing a malformed buffer can cause the credential provider process to terminate unexpectedly or lead to out-of-bounds memory reads and writes, which may result in the disclosure of adjacent process memory into local system logs.",
-  "categories": [
-   "cloud",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-78628",
-   "cvss": 6.0,
-   "ref": "https://trust.okta.com/security-advisories/improper-input-validation-in-the-okta-credential-provider-for-windows-cve-2026-78628"
-  },
-  "title_vi": "CVE-2026-78628 — Nhà cung cấp chứng chỉ Okta cho Windows không xác thực bộ đệm chứng chỉ được tuần tự hóa trước khi giải thích nó dưới dạng cấu trúc đăng nhập Kerberos",
-  "key": "5fe70823ed92c82ab19b748ed2050b92fac9ad7a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-78632 — The Okta RADIUS Agent Windows installer assigns write permissions to the NT SERVICE\\ALL SERVICES and CREATOR OWNER security principals on the director",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78632",
-  "published": "2026-10-13T21:18:21.747",
-  "summary": "The Okta RADIUS Agent Windows installer assigns write permissions to the NT SERVICE\\ALL SERVICES and CREATOR OWNER security principals on the directories containing the agent configuration, AES encryption key, and logs. These permissions allow any local service account on the host to read the AES encryption key and the encrypted Okta API token.",
-  "categories": [
-   "cloud",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-78632",
-   "cvss": 5.3,
-   "ref": "https://trust.okta.com/security-advisories/insecure-default-file-permissions-in-okta-radius-agent-windows-installer-cve-2026-78632"
-  },
-  "title_vi": "CVE-2026-78632 — Trình cài đặt Windows tác nhân RADIUS Okta gán quyền ghi cho DỊCH VỤ NT\\TẤT CẢ các DỊCH VỤ và hiệu trưởng bảo mật của CHỦ SỞ HỮU NGƯỜI SÁNG TẠO cho giám đốc",
-  "key": "73f6dc3d5ebcd277df9a7574e820bca93afac140"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-78633 — The Okta RADIUS Agent does not validate the sub-attribute length when parsing a Vendor-Specific attribute",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78633",
-  "published": "2026-10-13T21:18:21.853",
-  "summary": "The Okta RADIUS Agent does not validate the sub-attribute length when parsing a Vendor-Specific attribute. A sub-attribute length of zero causes the parser to loop indefinitely, resulting in worker-thread exhaustion and denial of new RADIUS authentication requests.",
-  "categories": [
-   "cloud",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-78633",
-   "cvss": 6.5,
-   "ref": "https://trust.okta.com/security-advisories/denial-of-service-in-okta-radius-agent-packet-parser-cve-2026-78633"
-  },
-  "title_vi": "CVE-2026-78633 — Tác nhân RADIUS Okta không xác nhận độ dài thuộc tính phụ khi phân tích cú pháp thuộc tính Vendor-Specific",
-  "key": "715bea24cf00926f251ee8399d7b7e8f3cb8c11b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-79715 — IBM WebSphere Application Server - Liberty 17",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79715",
-  "published": "2026-10-13T21:18:21.970",
-  "summary": "IBM WebSphere Application Server - Liberty 17.0.0.3 through 26.0.0.9 could allow a local attacker to traverse directories on the system. An attacker could use a specially crafted application archive to write files outside the intended directory.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-79715",
-   "cvss": 5.5,
-   "ref": "https://www.ibm.com/support/pages/node/7291394"
-  },
-  "title_vi": "CVE-2026-79715 — Máy chủ ứng dụng IBM WebSphere - Liberty 17",
-  "key": "317c31d845cecbc09535b54af9122bd1efc05c3f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-83661 — Photoshop Desktop is affected by an Integer Overflow or Wraparound vulnerability that could result in arbitrary code execution in the context of the c",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-83661",
-  "published": "2026-10-13T21:18:32.667",
-  "summary": "Photoshop Desktop is affected by an Integer Overflow or Wraparound vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-83661",
-   "cvss": 7.8,
-   "ref": "https://www.adobe.com/trust/security/products/photoshop/apsb26-158.html"
-  },
-  "title_vi": "CVE-2026-83661 — Photoshop Desktop bị ảnh hưởng bởi lỗ hổng Integer Overflow hoặc Wraparound có thể dẫn đến việc thực thi mã tùy ý trong bối cảnh c",
-  "key": "1e1814bc9aaf566774804795b4beb0efcc49db7c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-83945 — Heap-based buffer overflow in SQL Server allows an authorized attacker to execute code over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-83945",
-  "published": "2026-10-13T21:19:09.110",
-  "summary": "Heap-based buffer overflow in SQL Server allows an authorized attacker to execute code over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-83945",
-   "cvss": 6.6,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83945"
-  },
-  "title_vi": "CVE-2026-83945 — Tràn bộ đệm dựa trên Heap trong SQL Server cho phép kẻ tấn công được ủy quyền thực thi mã qua mạng",
-  "key": "76fc8206da51ac77911724b087381d74a43a02a0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-83965 — Substance3D - Sampler is affected by a Stack-based Buffer Overflow vulnerability that could result in arbitrary code execution in the context of the c",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-83965",
-  "published": "2026-10-13T21:19:09.290",
-  "summary": "Substance3D - Sampler is affected by a Stack-based Buffer Overflow vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-83965",
-   "cvss": 7.8,
-   "ref": "https://www.adobe.com/trust/security/products/substance3d-sampler/apsb26-159.html"
-  },
-  "title_vi": "CVE-2026-83965 — Substance3D - Trình lấy mẫu bị ảnh hưởng bởi lỗ hổng Stack-based Buffer Overflow có thể dẫn đến việc thực thi mã tùy ý trong bối cảnh c",
-  "key": "54fd564a4d91655b1445067b7f98756050046114"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-83966 — Substance3D - Sampler is affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in the context of the current ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-83966",
-  "published": "2026-10-13T21:19:09.400",
-  "summary": "Substance3D - Sampler is affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-83966",
-   "cvss": 7.8,
-   "ref": "https://www.adobe.com/trust/security/products/substance3d-sampler/apsb26-159.html"
-  },
-  "title_vi": "CVE-2026-83966 — Substance3D - Trình lấy mẫu bị ảnh hưởng bởi lỗ hổng ghi ngoài giới hạn có thể dẫn đến việc thực thi mã tùy ý trong bối cảnh hiện tại",
-  "key": "ba388cc8509cf089dcd4c300ffe12b821d8acf41"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-85473 — The auth0/java-jwt library may terminate a thread if it receives a JWT with a timestamp claim (exp, nbf, iat) containing an out-of-range value",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85473",
-  "published": "2026-10-13T21:19:19.020",
-  "summary": "The auth0/java-jwt library may terminate a thread if it receives a JWT with a timestamp claim (exp, nbf, iat) containing an out-of-range value. The condition occurs during token parsing, prior to signature verification. Repeated requests of this nature may lead to degraded availability of the affected service.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-85473",
-   "cvss": 5.3,
-   "ref": "https://github.com/auth0/java-jwt/security/advisories/GHSA-cg7w-5cc2-f2xm"
-  },
-  "title_vi": "CVE-2026-85473 — Thư viện auth0/java-jwt có thể chấm dứt một chuỗi nếu nó nhận được JWT với yêu cầu dấu thời gian (exp, nbf, iat) chứa giá trị ngoài phạm vi",
-  "key": "fc9791d0756ea4af98c5f1c7b2df593eac3c5a1f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-85876 — Use after free in SQL Server allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85876",
-  "published": "2026-10-13T21:19:30.767",
-  "summary": "Use after free in SQL Server allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-85876",
-   "cvss": 7.0,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-85876"
-  },
-  "title_vi": "CVE-2026-85876 - Sử dụng sau khi miễn phí trong SQL Server cho phép kẻ tấn công được ủy quyền nâng cao các đặc quyền cục bộ",
-  "key": "61887140b5c6fceb9dfe036cb9071b7b3853a2c2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-85886 — Heap-based buffer overflow in SQL Server allows an authorized attacker to execute code over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85886",
-  "published": "2026-10-13T21:19:31.143",
-  "summary": "Heap-based buffer overflow in SQL Server allows an authorized attacker to execute code over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-85886",
-   "cvss": 8.5,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-85886"
-  },
-  "title_vi": "CVE-2026-85886 — Tràn bộ đệm dựa trên Heap trong SQL Server cho phép kẻ tấn công được ủy quyền thực thi mã qua mạng",
-  "key": "fa06dd4185cd3a8c5ea3f573a7825222a77573f2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-85888 — Out-of-bounds read in SQL Server allows an authorized attacker to disclose information over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85888",
-  "published": "2026-10-13T21:19:31.270",
-  "summary": "Out-of-bounds read in SQL Server allows an authorized attacker to disclose information over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-85888",
-   "cvss": 7.7,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-85888"
-  },
-  "title_vi": "CVE-2026-85888 — Đọc ngoài giới hạn trong SQL Server cho phép kẻ tấn công được ủy quyền tiết lộ thông tin qua mạng",
-  "key": "c51a6e035e7bbb50e3b4ed394fdff7618d0c2218"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-85919 — Heap-based buffer overflow in SQL Server allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85919",
-  "published": "2026-10-13T21:19:34.053",
-  "summary": "Heap-based buffer overflow in SQL Server allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-85919",
-   "cvss": 7.0,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-85919"
-  },
-  "title_vi": "CVE-2026-85919 - Tràn bộ đệm dựa trên Heap trong SQL Server cho phép kẻ tấn công được ủy quyền nâng cao các đặc quyền cục bộ",
-  "key": "3970b34340175d9a7c4bfec137cfa08c99b4f27c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-88081 — Out-of-bounds read in SQL Server allows an authorized attacker to disclose information over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88081",
-  "published": "2026-10-13T21:19:42.563",
-  "summary": "Out-of-bounds read in SQL Server allows an authorized attacker to disclose information over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-88081",
-   "cvss": 7.7,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-88081"
-  },
-  "title_vi": "CVE-2026-88081 — Đọc ngoài giới hạn trong SQL Server cho phép kẻ tấn công được ủy quyền tiết lộ thông tin qua mạng",
-  "key": "a7574d89011e531640d01f5eb7a8e71adf0ef323"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-88082 — Heap-based buffer overflow in SQL Server allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88082",
-  "published": "2026-10-13T21:19:42.693",
-  "summary": "Heap-based buffer overflow in SQL Server allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-88082",
-   "cvss": 7.0,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-88082"
-  },
-  "title_vi": "CVE-2026-88082 - Tràn bộ đệm dựa trên Heap trong SQL Server cho phép kẻ tấn công được ủy quyền nâng cao các đặc quyền cục bộ",
-  "key": "31b8952ba1ed68b899268424a44476d17e58ac6a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-88083 — Stack-based buffer overflow in SQL Server allows an unauthorized attacker to execute code over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88083",
-  "published": "2026-10-13T21:19:42.810",
-  "summary": "Stack-based buffer overflow in SQL Server allows an unauthorized attacker to execute code over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-88083",
-   "cvss": 7.5,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-88083"
-  },
-  "title_vi": "CVE-2026-88083 — Tràn bộ đệm dựa trên ngăn xếp trong SQL Server cho phép kẻ tấn công trái phép thực thi mã qua mạng",
-  "key": "0f2dec294e376f6858b6eea0b747d9f906664017"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-88084 — Allocation of resources without limits or throttling in SQL Server allows an authorized attacker to deny service over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88084",
-  "published": "2026-10-13T21:19:42.933",
-  "summary": "Allocation of resources without limits or throttling in SQL Server allows an authorized attacker to deny service over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-88084",
-   "cvss": 5.3,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-88084"
-  },
-  "title_vi": "CVE-2026-88084 — Phân bổ tài nguyên không giới hạn hoặc điều tiết trong SQL Server cho phép kẻ tấn công được ủy quyền từ chối dịch vụ qua mạng",
-  "key": "71961cfc35f3469d89853413aae2edf982f15971"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-88085 — Heap-based buffer overflow in SQL Server allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88085",
-  "published": "2026-10-13T21:19:43.057",
-  "summary": "Heap-based buffer overflow in SQL Server allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-88085",
-   "cvss": 6.4,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-88085"
-  },
-  "title_vi": "CVE-2026-88085 - Tràn bộ đệm dựa trên Heap trong SQL Server cho phép kẻ tấn công được ủy quyền nâng cao các đặc quyền cục bộ",
-  "key": "4d79b29e575fac28002b216d3b3526bdbc5f07ef"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-88086 — Out-of-bounds read in SQL Server allows an unauthorized attacker to disclose information over an adjacent network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88086",
-  "published": "2026-10-13T21:19:43.183",
-  "summary": "Out-of-bounds read in SQL Server allows an unauthorized attacker to disclose information over an adjacent network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-88086",
-   "cvss": 5.3,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-88086"
-  },
-  "title_vi": "CVE-2026-88086 — Đọc ngoài giới hạn trong SQL Server cho phép kẻ tấn công trái phép tiết lộ thông tin qua mạng liền kề",
-  "key": "7a6681f14468310cdf5323746912b139071f8e8b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-88088 — Integer overflow or wraparound in SQL Server allows an authorized attacker to elevate privileges locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88088",
-  "published": "2026-10-13T21:19:43.307",
-  "summary": "Integer overflow or wraparound in SQL Server allows an authorized attacker to elevate privileges locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-88088",
-   "cvss": 7.0,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-88088"
-  },
-  "title_vi": "CVE-2026-88088 - Tràn số nguyên hoặc bao quanh trong SQL Server cho phép kẻ tấn công được ủy quyền nâng cao các đặc quyền cục bộ",
-  "key": "ab980d09406edf61c48082c40601df4479b0f2ba"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-88089 — Heap-based buffer overflow in SQL Server allows an authorized attacker to execute code locally",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88089",
-  "published": "2026-10-13T21:19:43.430",
-  "summary": "Heap-based buffer overflow in SQL Server allows an authorized attacker to execute code locally.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-88089",
-   "cvss": 6.7,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-88089"
-  },
-  "title_vi": "CVE-2026-88089 — Tràn bộ đệm dựa trên Heap trong SQL Server cho phép kẻ tấn công được ủy quyền thực thi mã cục bộ",
-  "key": "2db81a032ba4f4fbea84b05fb93ea19e9acd113d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90530 — ColdFusion RDS is affected by an Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability that could lead to arbit",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90530",
-  "published": "2026-10-13T21:19:57.273",
-  "summary": "ColdFusion RDS is affected by an Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability that could lead to arbitrary file system read. An attacker could exploit this vulnerability to access sensitive files and directories outside the intended access scope. Exploitation of this issue does not require user interaction. Scope is changed.\n\n\n\n\n\n\n\n\n\nRDS is purely a development feature meant for debugging purposes, and switching ColdFusion to Production Secure Profile automatically disables RDS. The Lockdown Guide outlines the specific step to disable RDS if a Co",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90530",
-   "cvss": 9.3,
-   "ref": "https://guides.adobe.com/coldfusion/en/docs/coldfusion-tools/security-remote-development-services-rds.html"
-  },
-  "title_vi": "CVE-2026-90530 — RDS ColdFusion bị ảnh hưởng bởi lỗ hổng Giới hạn không đúng của Tên đường dẫn đến Thư mục bị hạn chế ('Path Traversal') có thể dẫn đến trọng tài",
-  "key": "18be4557b1fd02807f3d2396633ffe70329b888a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-93895 — IBM WebSphere Application Server - Liberty 20",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-93895",
-  "published": "2026-10-13T21:19:57.743",
-  "summary": "IBM WebSphere Application Server - Liberty 20.0.0.12 through 26.0.0.10 could allow an unauthenticated remote attacker to bypass access controls configured on gRPC service methods.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-93895",
-   "cvss": 9.1,
-   "ref": "https://www.ibm.com/support/pages/node/7292228"
-  },
-  "title_vi": "CVE-2026-93895 — Máy chủ ứng dụng IBM WebSphere - Liberty 20",
-  "key": "4df627b9aae2dec749d5550b3bb5ee986c2eeafe"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-93905 — IBM WebSphere Application Server - Liberty 17",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-93905",
-  "published": "2026-10-13T21:19:57.863",
-  "summary": "IBM WebSphere Application Server - Liberty 17.0.0.3 through 26.0.0.10 could allow an unauthenticated remote attacker to corrupt the persisted status of batch job instances.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-93905",
-   "cvss": 8.2,
-   "ref": "https://www.ibm.com/support/pages/node/7292232"
-  },
-  "title_vi": "CVE-2026-93905 — Máy chủ ứng dụng IBM WebSphere - Liberty 17",
-  "key": "11240622f073378b59179753c1c5ba1b0b161722"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-93909 — IBM WebSphere Application Server - Liberty 17",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-93909",
-  "published": "2026-10-13T21:19:57.977",
-  "summary": "IBM WebSphere Application Server - Liberty 17.0.0.3 through 26.0.0.10 is vulnerable by an authentication bypass vulnerability when samlWeb-2.0 feature is enabled.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-93909",
-   "cvss": 9.1,
-   "ref": "https://www.ibm.com/support/pages/node/7292236"
-  },
-  "title_vi": "CVE-2026-93909 — Máy chủ ứng dụng IBM WebSphere - Liberty 17",
-  "key": "2e49b8a24c5cad232a8106ab29468a7be6f469e4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-94512 — Heap-based buffer overflow in SQL Server allows an authorized attacker to execute code over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94512",
-  "published": "2026-10-13T21:19:58.210",
-  "summary": "Heap-based buffer overflow in SQL Server allows an authorized attacker to execute code over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-94512",
-   "cvss": 8.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-94512"
-  },
-  "title_vi": "CVE-2026-94512 — Tràn bộ đệm dựa trên Heap trong SQL Server cho phép kẻ tấn công được ủy quyền thực thi mã qua mạng",
-  "key": "f14f51b906fe3bd042e2cdbd6455f4ca564ce282"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-94520 — Use of externally-controlled format string in SQL Server allows an authorized attacker to deny service over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94520",
-  "published": "2026-10-13T21:19:58.337",
-  "summary": "Use of externally-controlled format string in SQL Server allows an authorized attacker to deny service over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-94520",
-   "cvss": 4.9,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-94520"
-  },
-  "title_vi": "CVE-2026-94520 — Sử dụng chuỗi định dạng được kiểm soát bên ngoài trong SQL Server cho phép kẻ tấn công được ủy quyền từ chối dịch vụ qua mạng",
-  "key": "5875eb22af48dbe346e8d796e1d2af5ad4b9192f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-95635 — Photoshop Desktop is affected by a Double Free vulnerability that could result in arbitrary code execution in the context of the current user",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95635",
-  "published": "2026-10-13T21:19:58.603",
-  "summary": "Photoshop Desktop is affected by a Double Free vulnerability that could result in arbitrary code execution in the context of the current user. An attacker could exploit this vulnerability to execute arbitrary code. Exploitation of this issue requires user interaction in that a victim must open a malicious file.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-95635",
-   "cvss": 7.8,
-   "ref": "https://www.adobe.com/trust/security/products/photoshop/apsb26-158.html"
-  },
-  "title_vi": "CVE-2026-95635 — Photoshop Desktop bị ảnh hưởng bởi lỗ hổng Double Free có thể dẫn đến việc thực thi mã tùy ý trong bối cảnh người dùng hiện tại",
-  "key": "c0c7cc1bf29da94cca3803627df5bf05d190d688"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-95636 — Photoshop Desktop is affected by an Integer Overflow or Wraparound vulnerability that could result in arbitrary code execution in the context of the c",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95636",
-  "published": "2026-10-13T21:19:58.720",
-  "summary": "Photoshop Desktop is affected by an Integer Overflow or Wraparound vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-95636",
-   "cvss": 7.8,
-   "ref": "https://www.adobe.com/trust/security/products/photoshop/apsb26-158.html"
-  },
-  "title_vi": "CVE-2026-95636 — Photoshop Desktop bị ảnh hưởng bởi lỗ hổng Integer Overflow hoặc Wraparound có thể dẫn đến việc thực thi mã tùy ý trong bối cảnh c",
-  "key": "8525545d5794c3a3ce3a3c6ea868686f4ee0f9c8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-95637 — Photoshop Desktop is affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in the context of the current user",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95637",
-  "published": "2026-10-13T21:19:58.843",
-  "summary": "Photoshop Desktop is affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-95637",
-   "cvss": 7.8,
-   "ref": "https://www.adobe.com/trust/security/products/photoshop/apsb26-158.html"
-  },
-  "title_vi": "CVE-2026-95637 — Photoshop Desktop bị ảnh hưởng bởi lỗ hổng ghi vượt quá giới hạn có thể dẫn đến việc thực thi mã tùy ý trong bối cảnh người dùng hiện tại",
-  "key": "ea5ef1bcc44f3b389c38f6fcffbf5c6378b8bf25"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-95638 — Photoshop Desktop is affected by a Heap-based Buffer Overflow vulnerability that could result in arbitrary code execution in the context of the curren",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95638",
-  "published": "2026-10-13T21:19:58.957",
-  "summary": "Photoshop Desktop is affected by a Heap-based Buffer Overflow vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-95638",
-   "cvss": 7.8,
-   "ref": "https://www.adobe.com/trust/security/products/photoshop/apsb26-158.html"
-  },
-  "title_vi": "CVE-2026-95638 — Photoshop Desktop bị ảnh hưởng bởi lỗ hổng Buffer Overflow dựa trên Heap có thể dẫn đến việc thực thi mã tùy ý trong bối cảnh hiện tại",
-  "key": "5fc48e95e94e55f55c3ec92670fd277e3ceedc0f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-95639 — Photoshop Desktop is affected by an Incorrect Authorization vulnerability that could result in arbitrary code execution in the context of the current ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95639",
-  "published": "2026-10-13T21:19:59.073",
-  "summary": "Photoshop Desktop is affected by an Incorrect Authorization vulnerability that could result in arbitrary code execution in the context of the current user. An attacker could exploit this vulnerability to execute arbitrary code. Exploitation of this issue requires user interaction in that a victim must open a malicious file. Scope is changed.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-95639",
-   "cvss": 8.6,
-   "ref": "https://www.adobe.com/trust/security/products/photoshop/apsb26-158.html"
-  },
-  "title_vi": "CVE-2026-95639 — Photoshop Desktop bị ảnh hưởng bởi lỗ hổng Ủy quyền không chính xác có thể dẫn đến việc thực thi mã tùy ý trong bối cảnh hiện tại",
-  "key": "cc0d2f024cd559da61d6c58abe579d1e3a33964d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-95640 — Photoshop Desktop is affected by a NULL Pointer Dereference vulnerability that could result in an application denial-of-service",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95640",
-  "published": "2026-10-13T21:19:59.190",
-  "summary": "Photoshop Desktop is affected by a NULL Pointer Dereference vulnerability that could result in an application denial-of-service. An attacker could exploit this vulnerability to crash the application, leading to a denial-of-service condition. Exploitation of this issue requires user interaction in that a victim must open a malicious file.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-95640",
-   "cvss": 5.5,
-   "ref": "https://www.adobe.com/trust/security/products/photoshop/apsb26-158.html"
-  },
-  "title_vi": "CVE-2026-95640 — Photoshop Desktop bị ảnh hưởng bởi lỗ hổng NULL Pointer Dereference có thể dẫn đến ứng dụng bị từ chối dịch vụ",
-  "key": "6f1a010979819f79781379dc35d69f483b8dbad6"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-95641 — Photoshop Desktop is affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in the context of the current user",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95641",
-  "published": "2026-10-13T21:19:59.300",
-  "summary": "Photoshop Desktop is affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-95641",
-   "cvss": 7.8,
-   "ref": "https://www.adobe.com/trust/security/products/photoshop/apsb26-158.html"
-  },
-  "title_vi": "CVE-2026-95641 — Photoshop Desktop bị ảnh hưởng bởi lỗ hổng ghi vượt quá giới hạn có thể dẫn đến việc thực thi mã tùy ý trong bối cảnh người dùng hiện tại",
-  "key": "2c51b80c1bbc8467ed9af85c765f7a5096592330"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-95695 — IBM WebSphere Application Server - Liberty 20",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95695",
-  "published": "2026-10-13T21:19:59.413",
-  "summary": "IBM WebSphere Application Server - Liberty 20.0.0.12 through 26.0.0.10 could allow a remote attacker to bypass security restrictions due to incorrect authorization.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-95695",
-   "cvss": 7.4,
-   "ref": "https://www.ibm.com/support/pages/node/7292228"
-  },
-  "title_vi": "CVE-2026-95695 — Máy chủ ứng dụng IBM WebSphere - Liberty 20",
-  "key": "fd23017c510f501339f092bf5ba240e0fa0668ff"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-95696 — IBM WebSphere Application Server - Liberty 20",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-95696",
-  "published": "2026-10-13T21:19:59.530",
-  "summary": "IBM WebSphere Application Server - Liberty 20.0.0.12 through 26.0.0.10 could allow a remote attacker to cause a denial of service due to an uncaught exception.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-95696",
-   "cvss": 6.5,
-   "ref": "https://www.ibm.com/support/pages/node/7292228"
-  },
-  "title_vi": "CVE-2026-95696 — Máy chủ ứng dụng IBM WebSphere - Liberty 20",
-  "key": "9a08c67718ed066fe4350ca9c9fef453bdbc6c75"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-96521 — Photoshop Desktop is affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in the context of the current user",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96521",
-  "published": "2026-10-13T21:20:07.220",
-  "summary": "Photoshop Desktop is affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-96521",
-   "cvss": 7.8,
-   "ref": "https://www.adobe.com/trust/security/products/photoshop/apsb26-158.html"
-  },
-  "title_vi": "CVE-2026-96521 — Photoshop Desktop bị ảnh hưởng bởi lỗ hổng ghi vượt quá giới hạn có thể dẫn đến việc thực thi mã tùy ý trong bối cảnh người dùng hiện tại",
-  "key": "9e23e6faa5d50fc5c119d2ddd2199e03c5e4cd63"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-96522 — Photoshop Desktop is affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in the context of the current user",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96522",
-  "published": "2026-10-13T21:20:07.827",
-  "summary": "Photoshop Desktop is affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-96522",
-   "cvss": 7.8,
-   "ref": "https://www.adobe.com/trust/security/products/photoshop/apsb26-158.html"
-  },
-  "title_vi": "CVE-2026-96522 — Photoshop Desktop bị ảnh hưởng bởi lỗ hổng ghi vượt quá giới hạn có thể dẫn đến việc thực thi mã tùy ý trong bối cảnh người dùng hiện tại",
-  "key": "cad3a91418bbf6e64e4b56f55eac0a08690f09f8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-96523 — Photoshop Desktop is affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in the context of the current user",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96523",
-  "published": "2026-10-13T21:20:07.947",
-  "summary": "Photoshop Desktop is affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-96523",
-   "cvss": 7.8,
-   "ref": "https://www.adobe.com/trust/security/products/photoshop/apsb26-158.html"
-  },
-  "title_vi": "CVE-2026-96523 — Photoshop Desktop bị ảnh hưởng bởi lỗ hổng ghi vượt quá giới hạn có thể dẫn đến việc thực thi mã tùy ý trong bối cảnh người dùng hiện tại",
-  "key": "bf10283fecaf83c3de0340c3f7a800fd81073750"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-96956 — Stack-based buffer overflow in SQL Server allows an authorized attacker to elevate privileges over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96956",
-  "published": "2026-10-13T21:20:14.737",
-  "summary": "Stack-based buffer overflow in SQL Server allows an authorized attacker to elevate privileges over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-96956",
-   "cvss": 8.0,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96956"
-  },
-  "title_vi": "CVE-2026-96956 — Tràn bộ đệm dựa trên ngăn xếp trong SQL Server cho phép kẻ tấn công được ủy quyền nâng cao các đặc quyền trên mạng",
-  "key": "b2e44228d1c7b8ae9c9a4091e5fd0022ca764057"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-97312 — Photoshop Desktop is affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in the context of the current user",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-97312",
-  "published": "2026-10-13T21:20:16.110",
-  "summary": "Photoshop Desktop is affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-97312",
-   "cvss": 7.8,
-   "ref": "https://www.adobe.com/trust/security/products/photoshop/apsb26-158.html"
-  },
-  "title_vi": "CVE-2026-97312 — Photoshop Desktop bị ảnh hưởng bởi lỗ hổng ghi vượt quá giới hạn có thể dẫn đến việc thực thi mã tùy ý trong bối cảnh người dùng hiện tại",
-  "key": "16b85d830aeb8bb182f5eac9e71d46ec633dacc8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-100113 — CAI Content Credentials is affected by an Improper Input Validation vulnerability that could result in a Security feature bypass",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100113",
-  "published": "2026-10-13T22:17:09.967",
-  "summary": "CAI Content Credentials is affected by an Improper Input Validation vulnerability that could result in a Security feature bypass. An attacker could leverage this vulnerability to bypass security measures and gain unauthorized write access. Exploitation of this issue does not require user interaction.",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-100113",
-   "cvss": 7.5,
-   "ref": "https://www.adobe.com/trust/security/products/content-credentials-sdk/apsb26-163.html"
-  },
-  "title_vi": "CVE-2026-100113 - Thông tin xác thực nội dung cai bị ảnh hưởng bởi lỗ hổng Xác thực đầu vào không đúng cách có thể dẫn đến bỏ qua tính năng Bảo mật",
-  "key": "0a3b83564e1c5d706863c14b44b98520ff057ddf"
  }
 ]
