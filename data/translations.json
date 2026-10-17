@@ -16769,5 +16769,6 @@
  "82f7b51c01fa3fb8036bfada59dd6eeb44521450": "CVE-2015-1642 — Lỗ hổng tham nhũng bộ nhớ Microsoft Office",
  "bcce3a17d3d20df91b3f84b171cb6ccdaf76f793": "CVE-2014-4114 — Lỗ hổng thực thi mã từ xa Microsoft Windows Object Linking & Embedding (OLE)",
  "9264f1973b88e7ca4666abfd6ce79795883193df": "CVE-2014-0496 — Lỗ hổng Adobe Reader và Acrobat Use-After-Free",
- "6af678e6ef2402c5791bf684a9af9496951c1051": "CVE-2013-5065 — Lỗ hổng leo thang đặc quyền hạt nhân Microsoft Windows"
+ "6af678e6ef2402c5791bf684a9af9496951c1051": "CVE-2013-5065 — Lỗ hổng leo thang đặc quyền hạt nhân Microsoft Windows",
+ "09a9e91aba8b4b1dcd837898fa515885509f6873": "CVE-2026-109701 — Lỗ hổng trung hòa đầu vào không đúng cách trong quá trình tạo trang web ('Tập lệnh chéo trang') trong PAYCOMET PAYCOMET cho WooC Commerce paytpv-for-woo"
 }
