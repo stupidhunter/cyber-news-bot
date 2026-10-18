@@ -17012,5 +17012,19 @@
  "70cf3eb2cf75c8ba2fd71910f799b5d58a1d225e": "CVE-2026-98496 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net: airoha: npu: cancel wdt_work sau khi phát hành WDT IRQ airoha_npu_remove()",
  "d9ffa7fad8111607be1867c3f92f422d6d252889": "CVE-2026-98497 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net/mlx5e: sửa lỗi mặt nạ chính sách IPv6 IPsec bị hoán đổi Các chính sách IPv6 XFRM có thể sử dụng khác nhau",
  "63b37bc087bb387e8a8da2a88f54a86cbe4c94dd": "CVE-2026-98498 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net/mlx5: Sửa lỗi rò rỉ tham chiếu rev_entry trong mlx5_tc_ct_shared_counter_get() Khi",
- "269d783a0c852a84bde63debd5473a8190b27e54": "CVE-2026-98499 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: HID: wacom: fix OOB read in wacom_wac_pen_serial_enforce() 'wacom_wac_pen_seri"
+ "269d783a0c852a84bde63debd5473a8190b27e54": "CVE-2026-98499 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: HID: wacom: fix OOB read in wacom_wac_pen_serial_enforce() 'wacom_wac_pen_seri",
+ "e3564ae4e7ac939edfdabc5301c7ca5814ac216e": "CVE-2026-104627 — Lệnh gọi lại liên kết Gitea OpenID trong cài đặt bảo mật đã chấp nhận OpenID 2 tích cực",
+ "16f2937bd6c34dfd76db58300206032d91fb384d": "CVE-2026-105661 — Việc yêu cầu `/{username}/-/repositories` cho một người dùng cá nhân thay vì một tổ chức đã khiến tổ chức không còn tham chiếu đến trình xử lý chính nữa",
+ "e79e5ed31fa55cb1ac452b328f449881fb0cb493": "CVE-2026-105964 — Trình xử lý Gitea Actions v4 (Twirp) đọc toàn bộ nội dung yêu cầu vào bộ nhớ mà không giới hạn kích thước",
+ "0405645b8ef903b88f84c7cc8293de6e87e914c1": "CVE-2026-107618 — `POST /{owner}/{repo}/topics` đã được đăng ký mà không có phần mềm trung gian đăng nhập cung cấp tính năng bảo vệ nhiều nguồn gốc, do đó, yêu cầu do bên thứ ba đưa ra",
+ "3f5c857d6260885f3993532a1435b9caabb039c4": "CVE-2026-107686 — Trình xử lý web Gitea để thêm và xóa phản hồi về các vấn đề và nhận xét đã không từ chối các vấn đề bị khóa đối với người dùng không có quyền ghi, mặc dù",
+ "173a84c410b172594e78cd8717ae5b7efb6721d5": "CVE-2026-109553 — Gitea đã giải quyết các nguyên tắc chính của chứng chỉ SSH bằng cách tìm kiếm nội dung của tất cả các khóa chung được lưu trữ thay vì chỉ các khóa chính",
+ "2eb1e60bc38b89f89eaebe72f76f15c674c4df1c": "CVE-2026-109844 — `GET /api/v1/user/subscriptions` trả về siêu dữ liệu của mọi kho lưu trữ mà người dùng đang xem mà không kiểm tra xem người dùng đó có còn quyền truy cập vào kho lưu trữ đó không",
+ "5357f43111baeeb588640b9ee3d3fff3360f4374": "CVE-2026-110311 — Việc tạo bản phát hành nháp thông qua API sẽ trả về danh sách `tài sản` được tạo từ bản phát hành không có ID, khớp với mọi tệp đính kèm có trong đó.",
+ "114699e9dc1145486e3f2ceec680d9b912863848": "CVE-2026-110324 — Việc kiểm tra mức độ hiển thị của hồ sơ người dùng Gitea chỉ được áp dụng cho các yêu cầu GET, trong khi `POST /{username}` (theo dõi và hủy theo dõi) chỉ yêu cầu đăng nhập",
+ "e938ea24c7784acb7ac5ef3940d2ea131e2c97c9": "CVE-2026-110494 — Việc thêm tệp đính kèm vào bản phát hành đã kiểm tra kho lưu trữ và bản phát hành của tệp đính kèm nhưng không xác định liệu nó có được liên kết với một vấn đề hoặc nhận xét hay không",
+ "0b6e57f818af1742641c3b70f356c48898cd6652": "CVE-2026-97204 — Xóa nhãn so sánh ID của kho lưu trữ trong yêu cầu với ID tổ chức của nhãn tổ chức và hai chuỗi ID trùng nhau",
+ "0d14137858129373878993736d0c4cb8e04d448b": "CVE-2026-97859 — Bảy tuyến API Gitea trong `/api/v1/users/{username}` (người theo dõi, đang theo dõi, đang theo dõi/{target}, được gắn dấu sao, đăng ký, khóa và gpg_keys) đã được đăng ký",
+ "d38aeb1cd321d1570b71e201fc1e90f4393e99d8": "CVE-2026-76504 — Lỗ hổng mã hóa Hex của Cisco Catalyst SD-WAN Manager",
+ "0758785e6a1812c1b8aaaf8c5cc0ceee8d6538f0": "CVE-2025-39682 — Kiểm tra không đúng cách nhân Linux để tìm lỗ hổng trong các điều kiện bất thường hoặc đặc biệt"
 }
