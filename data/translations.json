@@ -17622,5 +17622,9 @@
  "476ff50eff62e7ea573fbb57c8c4483fd860663d": "CVE-2026-114391 — ZenTao PMS trước 22",
  "0f9d8ec531bfdd6bdc42ee4e0d2e21fc6c7899cd": "CVE-2026-114392 — Trudesk đến 1",
  "81f2c7f15bec842affc1d5093116de8022ba650d": "CVE-2026-114393 — Trudesk đến 1",
- "61d38c71c382341d071907a5d54d1cddfb8669bc": "CVE-2026-114394 — Trudesk đến 1"
+ "61d38c71c382341d071907a5d54d1cddfb8669bc": "CVE-2026-114394 — Trudesk đến 1",
+ "59ff179d312f33a0481da78cc20d3bf700b1948f": "CVE-2026-105134 — Lỗ hổng chèn lệnh của Ahsay AhsayCBS",
+ "10b494c4aa282c7693f4ff75b980b88664ca3124": "CVE-2026-76519 — Lỗ hổng truyền tải đường dẫn tương đối của cổng email an toàn của Cisco",
+ "d48fa27b1308f77189fa9b2e498c528314795498": "CVE-2026-105133 — Lỗ hổng xác thực không đúng cách Ahsay AhsayCBS",
+ "b2ec502f1ac2522526e460f6ed609643a2d7a251": "CVE-2026-0322 — Lỗ hổng chèn mã PAN-OS của Palo Alto Networks"
 }
