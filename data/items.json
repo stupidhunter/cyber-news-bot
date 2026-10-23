@@ -1,5 +1,332 @@
 [
  {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "CEO Base Phạm Kim Hùng: Đổi mới công nghệ phải tạo ra giá trị thực chất",
+  "link": "https://www.vietnamplus.vn/ceo-base-pham-kim-hung-doi-moi-cong-nghe-phai-tao-ra-gia-tri-thuc-chat-post1143711.vnp",
+  "published": "2026-10-23T03:02:40+00:00",
+  "summary": "Ông Phạm Kim Hùng, Nhà sáng lập kiêm Chủ tịch Base.vn cho rằng doanh nghiệp Việt cần kiên trì tích lũy năng lực, đổi mới sáng tạo và giải quyết những bài toán thực tiễn để nâng cao sức cạnh tranh. Chuyển đổi số kiến tạo nền tảng phát triển mới cho Thủ đô Hà Nội TP Hồ Chí Minh khơi thông nguồn lực, hướng tới 200.000 lượt SME chuyển đổi số VCCI: Thúc đẩy ứng dụng AI, nâng cao năng lực cạnh tranh của doanh nghiệp",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "952721edb293965d0cbdefd3cd67285061f45a93"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Ứng dụng mới giúp mỗi điện thoại thông minh trở thành trạm cảnh báo thiên tai",
+  "link": "https://www.vietnamplus.vn/ung-dung-moi-giup-moi-dien-thoai-thong-minh-tro-thanh-tram-canh-bao-thien-tai-post1143752.vnp",
+  "published": "2026-10-23T01:50:32+00:00",
+  "summary": "Cục Khí tượng Thủy văn, Bộ Nông nghiệp và Môi trường cho ra mắt ứng dụng di động Thời tiết Việt Nam khí tượng thuỷ văn - sản phẩm công nghệ đưa tri thức khoa học khí tượng đến tận tay mỗi người dân. Đưa tin sai lệch về dự báo khí tượng thủy văn có thể bị phạt đến 40 triệu đồng Google ra mắt mô hình AI đầu tiên dự báo thời tiết toàn cầu theo giờ Bước tiến công nghệ của châu Âu trong dự báo thời tiết cực đoan",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "dd72f402c54caa5536f0423bb923ed62c4e4ca7e"
+ },
+ {
+  "source": "Tuổi Trẻ Công nghệ",
+  "title": "AI đọc điện tim khi ngủ, dự báo nguy cơ đột quỵ và suy tim trong 10 năm",
+  "link": "https://tuoitre.vn/ai-doc-dien-tim-khi-ngu-du-bao-nguy-co-dot-quy-va-suy-tim-trong-10-nam-100261022142510683.htm",
+  "published": "2026-10-23T03:19:26.501200+00:00",
+  "summary": "Nghiên cứu tại Mỹ cho thấy AI có thể phân tích điện tim khi ngủ để dự báo nguy cơ đột quỵ, suy tim, rung nhĩ và tử vong trong 10 năm.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "918f4f3fffbb269a6f1f26408a674aff3a761e4f"
+ },
+ {
+  "source": "GenK",
+  "title": "Lời khuyên dành cho tất cả những ai đang sử dụng camera an ninh tại nhà",
+  "link": "https://genk.vn/loi-khuyen-danh-cho-tat-ca-nhung-ai-dang-su-dung-camera-an-ninh-tai-nha-165261023083018204.chn",
+  "published": "2026-10-23T03:19:17.610558+00:00",
+  "summary": "Những thước phim điện ảnh khiến không ít người tin rằng một chiếc bút laser nhỏ bé có thể dễ dàng làm \"mù\" hệ thống giám sát trong chớp mắt.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "1e4dd718cbeac77a6b81c3ce7926519619469d1c"
+ },
+ {
+  "source": "VnExpress Số hóa",
+  "title": "Lỗ hổng PHP2Shell - khi AI làm đảo lộn giới an ninh mạng",
+  "link": "https://vnexpress.net/lo-hong-php2shell-khi-ai-lam-dao-lon-gioi-an-ninh-mang-5135794.html",
+  "published": "2026-10-23T02:00:00+00:00",
+  "summary": "Hai lỗ hổng PHP2Shell đã tồn tại từ lâu và gần như không bị phát hiện, cho đến khi AI giúp phơi bày chúng ra ánh sáng.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "6f0f0d0b994313a999de099eedfe35b5c1ac5561"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-107861 — The system control service on affected Kiloview E3 NDI encoder firmware fails to sanitize the hostname parameter accepted by its device naming endpoin",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-107861",
+  "published": "2026-10-22T23:18:17.190",
+  "summary": "The system control service on affected Kiloview E3 NDI encoder firmware fails to sanitize the hostname parameter accepted by its device naming endpoint, passing it unquoted into a shell command. An authenticated web user with access to this function can embed characters to execute arbitrary operating system commands as root, resulting in full device compromise.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-107861",
+   "cvss": 9.9,
+   "ref": "https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-295-01.json"
+  },
+  "title_vi": "CVE-2026-107861 — Dịch vụ điều khiển hệ thống trên firmware bộ mã hóa NDI Kiloview E3 bị ảnh hưởng không khử trùng được tham số tên máy chủ được chấp nhận bởi thiết bị đặt tên endpoin",
+  "key": "277c34658edb01a6ca6f3bfd2b00e670a62a6066"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-110243 — The network management service on affected Kiloview E3 NDI encoder firmware fails to validate the network interface name accepted by its link maintena",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-110243",
+  "published": "2026-10-22T23:18:22.520",
+  "summary": "The network management service on affected Kiloview E3 NDI encoder firmware fails to validate the network interface name accepted by its link maintenance address configuration endpoint before passing it to a shell command, unlike sibling handlers that perform the same validation. An authenticated web user with permission to configure network settings can exploit this to execute arbitrary operating system commands as root.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-110243",
+   "cvss": 9.9,
+   "ref": "https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-295-01.json"
+  },
+  "title_vi": "CVE-2026-110243 — Dịch vụ quản lý mạng trên firmware bộ mã hóa NDI Kiloview E3 bị ảnh hưởng không xác thực được tên giao diện mạng được LINK Maintena chấp nhận",
+  "key": "40539137ed2f3bdf4379c8df52f068b035df8b04"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-110491 — The ONVIF service on the E3 can be rendered unresponsive by sending malformed or incomplete requests to certain operations",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-110491",
+  "published": "2026-10-22T23:18:22.797",
+  "summary": "The ONVIF service on the E3 can be rendered unresponsive by sending malformed or incomplete requests to certain operations. The affected service stops accepting new connections while the rest of the device continues operating normally, and will recover automatically after a period. This can be triggered repeatedly by any unauthenticated party with network access to the device.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-110491",
+   "cvss": 7.5,
+   "ref": "https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-295-01.json"
+  },
+  "title_vi": "CVE-2026-110491 - Dịch vụ ONVIF trên E3 có thể được hiển thị không phản hồi bằng cách gửi các yêu cầu không đúng định dạng hoặc không đầy đủ đến một số hoạt động nhất định",
+  "key": "4ae75b0c661f5641795272a536c86d9e32760e71"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-110825 — The ONVIF device service on affected Kiloview E3 NDI encoder firmware accepts hostname, DNS, and NTP configuration write operations without requiring ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-110825",
+  "published": "2026-10-22T23:18:22.940",
+  "summary": "The ONVIF device service on affected Kiloview E3 NDI encoder firmware accepts hostname, DNS, and NTP configuration write operations without requiring authentication, regardless of the device's configured authentication setting for this service. A remote, unauthenticated attacker can alter the device hostname, redirect DNS resolution, or modify the configured time source, enabling follow on attacks such as traffic interception or certificate validation bypass.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-110825",
+   "cvss": 7.5,
+   "ref": "https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-295-01.json"
+  },
+  "title_vi": "CVE-2026-110825 — Dịch vụ thiết bị ONVIF trên firmware bộ mã hóa Kiloview E3 NDI bị ảnh hưởng chấp nhận các hoạt động ghi cấu hình tên máy chủ, DNS và NTP mà không yêu cầu",
+  "key": "81a18d66d975115f0a16c07e41044719b660ad63"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-92450 — The authentication framework used by affected Kiloview E3 NDI encoder firmware signs session JSON Web Tokens using an HMAC-SHA256 secret hardcoded as ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-92450",
+  "published": "2026-10-22T23:20:33.703",
+  "summary": "The authentication framework used by affected Kiloview E3 NDI encoder firmware signs session JSON Web Tokens using an HMAC-SHA256 secret hardcoded as a static string within the firmware image, identical across all deployed devices. An attacker with access to the publicly distributed firmware can recover this secret and forge arbitrary session tokens, including administrative tokens, without valid credentials, enabling unauthenticated access to privileged device functions.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-92450",
+   "cvss": 7.5,
+   "ref": "https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-295-01.json"
+  },
+  "title_vi": "CVE-2026-92450 - Khung xác thực được sử dụng bởi bộ mã hóa Kiloview E3 NDI bị ảnh hưởng ký mã chương trình cơ sở JSON Web Tokens phiên sử dụng mã HMAC-SHA256 bí mật được mã hóa cứng như",
+  "key": "1cbed4b20ae835a85360e9c8b5b4f105e03183fc"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115534 — A vulnerability was determined in gedelumbung HospitalManagement up to c2d45543789a3887067d3915f69d44cfc2cf76a8",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115534",
+  "published": "2026-10-23T00:16:49.733",
+  "summary": "A vulnerability was determined in gedelumbung HospitalManagement up to c2d45543789a3887067d3915f69d44cfc2cf76a8. Impacted is the function kirim of the file application/modules/web/controllers/contact.php of the component Contact Form. Executing a manipulation of the argument nama/email/alamat/telepon/pesan can lead to cross site scripting. The attack can be executed remotely. The exploit has been publicly disclosed and may be utilized. This product implements a rolling release for ongoing delivery, which means version information for affected or updated releases is unavailable. The project was",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115534",
+   "cvss": 4.3,
+   "ref": "https://github.com/gedelumbung/HospitalManagement/"
+  },
+  "title_vi": "CVE-2026-115534 — Một lỗ hổng đã được xác định trong Bệnh viện gedelumbungQuản lý lên đến c2d45543789a3887067d3915f69d44cfc2cf76a8",
+  "key": "e8855b6be83dddf524e1623d6dbff4fb18dde63f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115484 — A flaw was found in the iscsiuio component of open-iscsi",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115484",
+  "published": "2026-10-23T01:16:53.670",
+  "summary": "A flaw was found in the iscsiuio component of open-iscsi. The DHCPv4 option parser incorrectly calculates the length of the options data, causing it to read beyond the allocated buffer into adjacent heap memory. An attacker on the same network segment can send a crafted DHCP response to crash the daemon or corrupt its network configuration.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115484",
+   "cvss": 7.6,
+   "ref": "https://access.redhat.com/security/cve/CVE-2026-115484"
+  },
+  "title_vi": "CVE-2026-115484 — Một lỗ hổng đã được tìm thấy trong thành phần iscsiuio của open-iscsi",
+  "key": "8080263ae24b6f03db1d8a78471b53c87ee3b800"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115485 — A flaw was found in the iscsiuio component of open-iscsi",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115485",
+  "published": "2026-10-23T01:16:53.817",
+  "summary": "A flaw was found in the iscsiuio component of open-iscsi. The DHCPv6 option parser calls strlen() on raw network data without ensuring a NUL terminator is present, causing it to read past the buffer into heap memory. This can result in a daemon crash, a 1-byte heap overwrite, or corruption of the iSCSI initiator name. An attacker on the same network segment can trigger this by sending a crafted DHCPv6 Advertise message.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115485",
+   "cvss": 6.3,
+   "ref": "https://access.redhat.com/security/cve/CVE-2026-115485"
+  },
+  "title_vi": "CVE-2026-115485 — Một lỗ hổng đã được tìm thấy trong thành phần iscsiuio của open-iscsi",
+  "key": "856a490a0cc3b0ff33f0d80a2a5e926c56a212f9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115486 — A flaw was found in the iscsiuio component of open-iscsi",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115486",
+  "published": "2026-10-23T01:16:53.943",
+  "summary": "A flaw was found in the iscsiuio component of open-iscsi. The IPv6 Neighbor Discovery handler accesses link-layer address options at a fixed offset without verifying the packet contains them. Additionally, the ARP table is updated unconditionally with attacker-controlled addresses from the packet headers. An attacker on the same network segment can send a minimal Neighbor Advertisement to poison the ARP table and redirect network traffic.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115486",
+   "cvss": 7.1,
+   "ref": "https://access.redhat.com/security/cve/CVE-2026-115486"
+  },
+  "title_vi": "CVE-2026-115486 — Một lỗ hổng đã được tìm thấy trong thành phần iscsiuio của open-iscsi",
+  "key": "cd1688017b3db42a65a2b7e6de6fc0cd24d38fcc"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115535 — A vulnerability was identified in gedelumbung HospitalManagement up to c2d45543789a3887067d3915f69d44cfc2cf76a8",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115535",
+  "published": "2026-10-23T01:16:54.073",
+  "summary": "A vulnerability was identified in gedelumbung HospitalManagement up to c2d45543789a3887067d3915f69d44cfc2cf76a8. The affected element is the function sistem.php::simpan of the file application/modules/admin/controllers/sistem.php of the component Settings Handler. The manipulation of the argument Title leads to cross site scripting. The attack is possible to be carried out remotely. The exploit is publicly available and might be used. This product adopts a rolling release strategy to maintain continuous delivery. Therefore, version details for affected or updated releases cannot be specified. ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115535",
+   "cvss": 2.4,
+   "ref": "https://github.com/gedelumbung/HospitalManagement/"
+  },
+  "title_vi": "CVE-2026-115535 — Một lỗ hổng đã được xác định trong Bệnh viện gedelumbungQuản lý lên đến c2d45543789a3887067d3915f69d44cfc2cf76a8",
+  "key": "591f103e59f17169824926fdf5fe20483757623a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115536 — A security flaw has been discovered in gedelumbung HospitalManagement up to c2d45543789a3887067d3915f69d44cfc2cf76a8",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115536",
+  "published": "2026-10-23T02:16:57.203",
+  "summary": "A security flaw has been discovered in gedelumbung HospitalManagement up to c2d45543789a3887067d3915f69d44cfc2cf76a8. The impacted element is the function simpan of the file application/modules/admin/controllers/routing_pages.php of the component Admin Routing Page. The manipulation of the argument content results in cross site scripting. The attack may be performed from remote. The exploit has been released to the public and may be used for attacks. This product utilizes a rolling release system for continuous delivery, and as such, version information for affected or updated releases is not ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115536",
+   "cvss": 4.3,
+   "ref": "https://github.com/gedelumbung/HospitalManagement/"
+  },
+  "title_vi": "CVE-2026-115536 — Một lỗ hổng bảo mật đã được phát hiện trong Bệnh viện gedelumbungQuản lý lên đến c2d45543789a3887067d3915f69d44cfc2cf76a8",
+  "key": "d003d34648f5f4778fa46b669d7140a4a334cb4d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115537 — A weakness has been identified in gedelumbung HospitalManagement up to c2d45543789a3887067d3915f69d44cfc2cf76a8",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115537",
+  "published": "2026-10-23T02:16:57.387",
+  "summary": "A weakness has been identified in gedelumbung HospitalManagement up to c2d45543789a3887067d3915f69d44cfc2cf76a8. This affects the function simpan of the file application/modules/admin/controllers/routing_pages.php of the component URL Validation. This manipulation of the argument url_route causes open redirect. It is possible to initiate the attack remotely. The exploit has been made available to the public and could be used for attacks. This product is using a rolling release to provide continious delivery. Therefore, no version details for affected nor updated releases are available. The pro",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115537",
+   "cvss": 4.3,
+   "ref": "https://github.com/gedelumbung/HospitalManagement/"
+  },
+  "title_vi": "CVE-2026-115537 — Một điểm yếu đã được xác định trong Bệnh viện gedelumbungQuản lý lên đến c2d45543789a3887067d3915f69d44cfc2cf76a8",
+  "key": "78955757dd5937ac9e782d4507b07fe2842048f3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-19677 — An authentication bypass vulnerability in the public onPhase/ frevvo registration form version 11",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19677",
+  "published": "2026-10-23T02:16:57.560",
+  "summary": "An authentication bypass vulnerability in the public onPhase/ frevvo registration form version 11.0.14 allows an unauthenticated remote attacker to authenticate as an arbitrary tenant user, obtain TenantAdmin and Designer privileges, and execute arbitrary operating system commands via manipulation of registration parameters containing a valid tenant name and existing user identifier.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-19677",
+   "cvss": null,
+   "ref": "https://frevvo-docs.atlassian.net/wiki/spaces/frevvo110/overview?homepageId=1069252609"
+  },
+  "title_vi": "CVE-2026-19677 — Lỗ hổng bỏ qua xác thực công khai trên biểu mẫu đăng ký onPhase/frevvo phiên bản 11",
+  "key": "192fd5054dbe16bb86c1b86134da259aa56f92bd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-19678 — A server-side request forgery (SSRF) vulnerability in the unauthenticated form service in version 11",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19678",
+  "published": "2026-10-23T02:16:57.700",
+  "summary": "A server-side request forgery (SSRF) vulnerability in the unauthenticated form service in version 11.0.14 in onPhase Forms allows an unauthenticated remote attacker to access sensitive internal Apache Solr data via an attacker-controlled URL supplied to a publicly accessible form.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-19678",
+   "cvss": null,
+   "ref": "https://frevvo-docs.atlassian.net/wiki/spaces/frevvo110/overview?homepageId=1069252609"
+  },
+  "title_vi": "CVE-2026-19678 — Lỗ hổng giả mạo yêu cầu phía máy chủ (SSRF) trong dịch vụ biểu mẫu chưa được xác thực trong phiên bản 11",
+  "key": "ba6cd933b90d608b4c453db04345b92c924257d3"
+ },
+ {
   "source": "VnExpress Số hóa",
   "title": "Startup Mỹ dùng virus do AI thiết kế điều trị bệnh",
   "link": "https://vnexpress.net/startup-my-dung-virus-do-ai-thiet-ke-dieu-tri-benh-5135702.html",
@@ -81,7 +408,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Microsoft liên kết Storm-0940 với ConnectWise Supply Chain Attack",
   "key": "32be5128cfe128dc1732753757525f726e274e8b"
  },
  {
@@ -95,7 +422,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Những gì chúng tôi đã bỏ lỡ: Feds Lasso Texas Laptop Farms",
   "key": "39d37c244555d4809db5b5e398653adb2261a158"
  },
  {
@@ -109,7 +436,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Les supermarchés de l 'UE paient d' un firmware de réfrigérateur non mis à jour",
   "key": "203962b8ee91af7f9eae806ba7c74d36a5b94480"
  },
  {
@@ -123,7 +450,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Toronto Crime tips ORG đóng băng các hoạt động sau khi các chi tiết về vi phạm dữ liệu được đưa ra ánh sáng",
   "key": "92627c9497d536e7562f97d2d83c0b7455461791"
  },
  {
@@ -3193,7 +3520,7 @@
    "cvss": 7.0,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-95713 - Không có mô tả được cung cấp",
   "key": "839f1e9a74998843ca7cf9e5570e702272b3b8b8"
  },
  {
@@ -3211,7 +3538,7 @@
    "cvss": 6.8,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-95714 - Không có mô tả được cung cấp",
   "key": "f0b2df9fe554b871c873453fc4d49a0da95567c2"
  },
  {
@@ -3229,7 +3556,7 @@
    "cvss": 6.8,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-95715 - Không có mô tả được cung cấp",
   "key": "0ce790bddae7894d9fdbbad48c7f33ee99f36eed"
  },
  {
@@ -3247,7 +3574,7 @@
    "cvss": 6.5,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-95716 - Không có mô tả được cung cấp",
   "key": "67d7cd4c63d0e51a88b70500623ec04a9a200301"
  },
  {
@@ -3265,7 +3592,7 @@
    "cvss": 5.5,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-95717 - Không có mô tả được cung cấp",
   "key": "aa3cae176e6c251bb40ea4cea7b18ee6ba43848b"
  },
  {
@@ -3283,7 +3610,7 @@
    "cvss": 5.3,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-95718 - Không có mô tả được cung cấp",
   "key": "88963b1dbd2961e77f8a4ebc3f1cc3b06e5d8c21"
  },
  {
@@ -3301,7 +3628,7 @@
    "cvss": 4.9,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-95719 - Không có mô tả được cung cấp",
   "key": "0a0bca988d6940b2cedabc408647efd28b6071f1"
  },
  {
@@ -3319,7 +3646,7 @@
    "cvss": 4.4,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-95720 - Không có mô tả được cung cấp",
   "key": "9c1032082dcee6117a4c8671d350d41dbcc5e96c"
  },
  {
@@ -3337,7 +3664,7 @@
    "cvss": 3.3,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-95721 - Không có mô tả được cung cấp",
   "key": "e4120f5007b78c83ce300948950942650bcf1267"
  },
  {
@@ -3355,7 +3682,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/GDATASoftwareAG/motornet/commit/c45559c78e6925f53e192f8896880a622282effe"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-112330 — Động cơ",
   "key": "43d2c1886a5431b92f0ffaa8c4ec706d286f47b8"
  },
  {
@@ -3373,7 +3700,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/GDATASoftwareAG/motornet/commit/b4b6979f5dd7447dd02312e27d766ae2e9d050c2"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-112331 — Động cơ",
   "key": "a6e6b3ed5141b7b6539a034f10dcf2e65049ec7c"
  },
  {
@@ -3391,7 +3718,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/GDATASoftwareAG/motornet/commit/d5aee7db8e0de3cec95bf8744c499c2ff6019c0c"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-112332 — Động cơ",
   "key": "7819bf1606b3f6c84d034c4e641122d17e956b48"
  },
  {
@@ -3409,7 +3736,7 @@
    "cvss": 5.5,
    "ref": "https://github.com/NationalSecurityAgency/ghidra"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-115398 — Ghidra trước 12 tuổi",
   "key": "28dcf1d848d5533e596c228219c294ccee6e6b59"
  },
  {
@@ -3427,7 +3754,7 @@
    "cvss": 5.5,
    "ref": "https://github.com/NationalSecurityAgency/ghidra"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-115503 — Ghidra trước 12 tuổi",
   "key": "9e6019d4bfcce0c7cc44f7063e28885093449c3d"
  },
  {
@@ -3445,7 +3772,7 @@
    "cvss": 7.8,
    "ref": "https://gist.github.com/yure1432/98f15c7e8f48dc90ae65646f926aa176"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-115504 — CFITSIO đến 4",
   "key": "123d9527af91d7bd0164208926c3d8ca906137d9"
  },
  {
@@ -3463,7 +3790,7 @@
    "cvss": 7.6,
    "ref": "https://github.com/sahlberg/libsmb2"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-115505 — libsmb2 trước 6",
   "key": "469a4a5643e56d1fcd78c631aed105fb0109bcd1"
  },
  {
@@ -3481,7 +3808,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/hannob/lololol"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-115506 — libexpat qua 2",
   "key": "dc0794c3fec4153c460e4ed1bd7acd47bbe23733"
  },
  {
@@ -3536,7 +3863,7 @@
    "cvss": 4.2,
    "ref": "https://github.com/jitsucom/jitsu"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-115509 — Bảng điều khiển Jitsu trước 2",
   "key": "460c796765988534ad473b847bad43b6eb6b6425"
  },
  {
@@ -3572,7 +3899,7 @@
    "cvss": 2.6,
    "ref": "https://github.com/authlib/authlib/commit/95ad1f90acf0c7b9cf2a8f25e6eb3f1135b8dc70"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-114614 — Authlib là một thư viện Python xây dựng các máy chủ OAuth và OpenID Connect",
   "key": "5203856200cbbf2baedbe62fce99001611b0de5d"
  },
  {
@@ -3590,7 +3917,7 @@
    "cvss": 9.9,
    "ref": "https://www.arista.com/en/support/advisories-notices/security-advisory/24838-security-advisory-0199"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-114625 — VeloCloud Orchestrator (VCO) tại chỗ có vấn đề bảo mật mà vấn đề này có thể cho phép kẻ tấn công từ xa truy cập chức năng nội bộ đặc quyền và",
   "key": "b59a63881366ee11a179779930600c9d3d597c72"
  },
  {
@@ -3609,7 +3936,7 @@
    "cvss": 7.5,
    "ref": "https://aws.amazon.com/security/security-bulletins/2026-147-aws/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-115417 — Phân bổ bộ nhớ với giá trị kích thước quá mức trong MQTT 3",
   "key": "0abf6c97d4ac5ec986bac1025dbce7f80f50acdc"
  },
  {
@@ -3627,7 +3954,7 @@
    "cvss": 8.1,
    "ref": "https://aws.amazon.com/security/security-bulletins/2026-146-aws/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-115419 — Thành phần máy chủ A2A trong Amazon Strands Agents SDK cho Python trước 1",
   "key": "39cd0ddffc4f69306725332d215342425b0b8b5d"
  },
  {
@@ -3646,7 +3973,7 @@
    "cvss": 9.1,
    "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-105014"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-105014 — Trung hòa không đúng cách các yếu tố đặc biệt được sử dụng trong một lệnh ('command injection') trong Azure Pipelines cho phép kẻ tấn công trái phép thực thi mã",
   "key": "96eb4970db776a940e0d19f2b15a33651041c1a4"
  },
  {
@@ -3664,7 +3991,7 @@
    "cvss": 5.3,
    "ref": "https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-295-01.json"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-105265 — Một lỗ hổng tồn tại trong tham số múi giờ và không xác thực đúng đầu vào của người dùng, điều này có thể cho phép người dùng được xác thực gây ra /etc/l",
   "key": "761b9f1aba560b9a8968d6d53131dc854c6597c9"
  },
  {
@@ -3684,7 +4011,7 @@
    "cvss": 7.7,
    "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-108456"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-108456 — Giả mạo yêu cầu phía máy chủ (ssrf) trong Azure AI Foundry cho phép kẻ tấn công được ủy quyền nâng cao đặc quyền qua mạng",
   "key": "b331bfa7d74f6e3c7dc7ae3dee9dcefe2a87b8bb"
  },
  {
@@ -3703,7 +4030,7 @@
    "cvss": 9.1,
    "ref": "https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-295-01.json"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-109122 — Dịch vụ quản lý mạng trên firmware bộ mã hóa NDI Kiloview E3 bị ảnh hưởng không khử trùng được một trường được sử dụng khi định cấu hình các tuyến tĩnh thông qua",
   "key": "36137be415bcb856e1f671f70a25adfdf534ac31"
  },
  {
@@ -3722,7 +4049,7 @@
    "cvss": 10.0,
    "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-110063"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-110063 — Giải quyết liên kết không đúng cách trước khi truy cập tệp ('liên kết sau') trong VM Inspector for Azure Virtual Machines cho phép kẻ tấn công trái phép nâng cao p",
   "key": "7ef09385b566a1501e1a11d49372f30c3df3e008"
  },
  {
@@ -3740,7 +4067,7 @@
    "cvss": 5.3,
    "ref": "https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-295-01.json"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-111100 — Dịch vụ thiết bị ONVIF trên E3 đáp ứng các yêu cầu thông tin nhất định mà không yêu cầu xác thực",
   "key": "531058edb977374ea06888461ba2ad8cfc354127"
  },
  {
@@ -3758,7 +4085,7 @@
    "cvss": 8.1,
    "ref": "https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=GSA_manage_superserver"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-111594 — InterSystems IRIS for Health đã tắt mã hóa TLS/SSL theo mặc định, điều này có thể cho phép kẻ tấn công xem dữ liệu được truyền và sử dụng dữ liệu đó để",
   "key": "3aed9b9a3357e5bb284de845f046f3df1efe4772"
  },
  {
@@ -3776,7 +4103,7 @@
    "cvss": 7.4,
    "ref": "https://github.com/authlib/authlib/commit/e3bd41cb29dcfee434453b135ffb487884baeedf"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-114615 — Authlib là một thư viện Python xây dựng các máy chủ OAuth và OpenID Connect",
   "key": "897631b82c79d27899c70eda94704e86853c182d"
  },
  {
@@ -3794,7 +4121,7 @@
    "cvss": 7.4,
    "ref": "https://github.com/authlib/authlib/commit/4ff30db442c70e29486e1982cb0ad37c037f5f4b"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-114616 — Authlib là một thư viện Python xây dựng các máy chủ OAuth và OpenID Connect",
   "key": "087500da228b518c285b7f3e4fefee09c67a3855"
  },
  {
@@ -3812,7 +4139,7 @@
    "cvss": 4.2,
    "ref": "https://github.com/authlib/authlib/commit/6563f6f7a8c2f71d2f85ee7511d72a4fbae3acc0"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-114617 — Authlib là một thư viện Python xây dựng các máy chủ OAuth và OpenID Connect",
   "key": "19a79ca094937da6904dfa70e05e604329646c0a"
  },
  {
@@ -3830,7 +4157,7 @@
    "cvss": 6.8,
    "ref": "https://github.com/authlib/authlib/commit/e3bd41cb29dcfee434453b135ffb487884baeedf"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-114618 — Authlib là một thư viện Python xây dựng các máy chủ OAuth và OpenID Connect",
   "key": "a9250a5b6049bf7e65ef8cd7bcfd7289744001e8"
  },
  {
@@ -3848,7 +4175,7 @@
    "cvss": 4.6,
    "ref": "https://github.com/authlib/authlib/commit/e3bd41cb29dcfee434453b135ffb487884baeedf"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-114619 — Authlib là một thư viện Python xây dựng các máy chủ OAuth và OpenID Connect",
   "key": "70e627a60109536415f1c0c33934d3c411370303"
  },
  {
@@ -3866,7 +4193,7 @@
    "cvss": 5.4,
    "ref": "https://github.com/authlib/authlib/commit/6563f6f7a8c2f71d2f85ee7511d72a4fbae3acc0"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-114620 — Authlib là một thư viện Python xây dựng các máy chủ OAuth và OpenID Connect",
   "key": "8e9c27ada683f205ca297c79e23e44663210ab28"
  },
  {
@@ -3884,7 +4211,7 @@
    "cvss": 5.4,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-115221"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-115221 — Một lỗ hổng đã được tìm thấy trong FreeIPA",
   "key": "a276b23010af633ccccffbd6580ffb3414cc3c95"
  },
  {
@@ -3903,7 +4230,7 @@
    "cvss": 5.5,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-115424"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-115424 — Một lỗ hổng đã được tìm thấy trong máy khách OpenShift oc",
   "key": "547d35a834e5f52bfddec51ed0f655321f025b9b"
  },
  {
@@ -3922,7 +4249,7 @@
    "cvss": 3.5,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-115449"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-115449 — Một lỗ hổng đã được tìm thấy trong libslirp",
   "key": "2ef274eb52ed5d6fd0f33334c7275f6f52fa9495"
  },
  {
@@ -3941,7 +4268,7 @@
    "cvss": 10.0,
    "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83938"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-83938 — Thiếu xác thực cho chức năng quan trọng trong Dịch vụ cấu hình Azure Kubernetes cho phép kẻ tấn công trái phép nâng cao các đặc quyền đối với một",
   "key": "80a1274fd5b4b1a26610f55908f25a4119c1c136"
  },
  {
@@ -3959,7 +4286,7 @@
    "cvss": 7.5,
    "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-96185"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-96185 — Tràn bộ đệm dựa trên ngăn xếp trong Microsoft Exchange Online cho phép kẻ tấn công được ủy quyền thực thi mã qua mạng",
   "key": "c98f2c07ab430390a462946515bb64a782eb0485"
  },
  {
@@ -3977,7 +4304,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-295-01.json"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-96616 — Mã thông báo xác thực do giao diện quản lý web của E3 phát hành khi đăng nhập được cung cấp thời gian hết hạn vượt xa bất kỳ thời hạn phiên hợp lý nào, ví dụ",
   "key": "bad9f4c8ff53571d464d2eacb822afbcbb9dd55d"
  },
  {
@@ -3995,7 +4322,7 @@
    "cvss": 10.0,
    "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-97785"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-97785 — Xác thực không đúng trong AAD App Proxy cho phép kẻ tấn công trái phép nâng cao đặc quyền qua mạng",
   "key": "09827ceaa258201f32760a9b7e7966872a813304"
  },
  {
@@ -73997,348 +74324,5 @@
   },
   "title_vi": "",
   "key": "631bffca5f5675119d871ebc25d170e9a3f4516f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-113159 — Improper access control in DevTools in Google Chrome prior to 156",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113159",
-  "published": "2026-10-20T22:19:08.450",
-  "summary": "Improper access control in DevTools in Google Chrome prior to 156.0.8078.47 allowed a remote attacker to potentially leak sensitive information via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-113159",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_02018666648.html"
-  },
-  "title_vi": "",
-  "key": "bd9a362cbcca0114c18528255cc3044dfcd04b4d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-113160 — Use after free in Turbolev in Google Chrome prior to 156",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113160",
-  "published": "2026-10-20T22:19:08.563",
-  "summary": "Use after free in Turbolev in Google Chrome prior to 156.0.8078.47 allowed a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. (Chromium security severity: High)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-113160",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_02018666648.html"
-  },
-  "title_vi": "",
-  "key": "096e1217b78fcd279e3d916d9a023a579fc3dc70"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-113161 — Use after free in WebRTC in Google Chrome prior to 156",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113161",
-  "published": "2026-10-20T22:19:08.673",
-  "summary": "Use after free in WebRTC in Google Chrome prior to 156.0.8078.47 allowed a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. (Chromium security severity: High)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-113161",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_02018666648.html"
-  },
-  "title_vi": "",
-  "key": "399ffb9337d4cacd501856952b616d320e37c4cb"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-113162 — Improper input validation in Actor in Google Chrome prior to 156",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113162",
-  "published": "2026-10-20T22:19:08.787",
-  "summary": "Improper input validation in Actor in Google Chrome prior to 156.0.8078.47 allowed a remote attacker to potentially execute arbitrary code inside the sandbox via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-113162",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_02018666648.html"
-  },
-  "title_vi": "",
-  "key": "3da360d96a936eaaad70b206394b54fa5052d3a2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-113163 — Use after free in WebGL in Google Chrome on on Android prior to 156",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113163",
-  "published": "2026-10-20T22:19:08.903",
-  "summary": "Use after free in WebGL in Google Chrome on on Android prior to 156.0.8078.47 allowed a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. (Chromium security severity: High)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-113163",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_02018666648.html"
-  },
-  "title_vi": "",
-  "key": "956880ab0552d2d2d12a505f4b34a72793a8c98c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-113164 — Memory corruption in Voice in Google Chrome on on Android prior to 156",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113164",
-  "published": "2026-10-20T22:19:09.020",
-  "summary": "Memory corruption in Voice in Google Chrome on on Android prior to 156.0.8078.47 allowed a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-113164",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_02018666648.html"
-  },
-  "title_vi": "",
-  "key": "f63ba5bd131f0af2fd1168167ff820f89502e3c2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-113165 — Use after free in Core in Google Chrome on on Mac prior to 156",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113165",
-  "published": "2026-10-20T22:19:09.123",
-  "summary": "Use after free in Core in Google Chrome on on Mac prior to 156.0.8078.47 allowed a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-113165",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_02018666648.html"
-  },
-  "title_vi": "",
-  "key": "14b210d4159757689e75a8c115dc682a1e73bf73"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-113166 — Memory corruption in History in Google Chrome on on Android prior to 156",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113166",
-  "published": "2026-10-20T22:19:09.233",
-  "summary": "Memory corruption in History in Google Chrome on on Android prior to 156.0.8078.47 allowed a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-113166",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_02018666648.html"
-  },
-  "title_vi": "",
-  "key": "912ab98ede03cda3cccbf5e6729deb396deb57ab"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-113167 — Memory corruption in Network in Google Chrome prior to 156",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113167",
-  "published": "2026-10-20T22:19:09.340",
-  "summary": "Memory corruption in Network in Google Chrome prior to 156.0.8078.47 allowed a remote attacker to potentially execute arbitrary code inside the sandbox via a crafted HTML page. (Chromium security severity: Low)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-113167",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_02018666648.html"
-  },
-  "title_vi": "",
-  "key": "e07023a9fc6bfa431586a75de6fc7d698f01ae3c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-113168 — Use after free in Permissions in Google Chrome prior to 156",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113168",
-  "published": "2026-10-20T22:19:09.450",
-  "summary": "Use after free in Permissions in Google Chrome prior to 156.0.8078.47 allowed a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. (Chromium security severity: Low)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-113168",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_02018666648.html"
-  },
-  "title_vi": "",
-  "key": "17c114ca99cdb790d50442cd62900bebdb01c7b9"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-113169 — Memory corruption in WebAppInstalls in Google Chrome on on Android prior to 156",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113169",
-  "published": "2026-10-20T22:19:09.557",
-  "summary": "Memory corruption in WebAppInstalls in Google Chrome on on Android prior to 156.0.8078.47 allowed a remote attacker to execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: Low)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-113169",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_02018666648.html"
-  },
-  "title_vi": "",
-  "key": "4d801cabebea0268d273f4291443dd73fd8cc64a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-113170 — Use after free in Autofill in Google Chrome on on Android prior to 156",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113170",
-  "published": "2026-10-20T22:19:09.667",
-  "summary": "Use after free in Autofill in Google Chrome on on Android prior to 156.0.8078.47 allowed a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-113170",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_02018666648.html"
-  },
-  "title_vi": "",
-  "key": "55e10e5fcd4fea218b84005edb30923736cf1406"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-113171 — Memory corruption in Prompts in Google Chrome on on Android prior to 156",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113171",
-  "published": "2026-10-20T22:19:09.780",
-  "summary": "Memory corruption in Prompts in Google Chrome on on Android prior to 156.0.8078.47 allowed a remote attacker to potentially execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-113171",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_02018666648.html"
-  },
-  "title_vi": "",
-  "key": "ffc9f3a07906cda3dbdd137f113f340af265196e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-113172 — Memory corruption in ServiceWorker in Google Chrome prior to 156",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113172",
-  "published": "2026-10-20T22:19:09.890",
-  "summary": "Memory corruption in ServiceWorker in Google Chrome prior to 156.0.8078.47 allowed a remote attacker to potentially execute arbitrary code inside the sandbox via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-113172",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_02018666648.html"
-  },
-  "title_vi": "",
-  "key": "c5951642a5ddbe46aea8173be695145b0c308985"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-113173 — Improper input validation in UI in Google Chrome on on Android prior to 156",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113173",
-  "published": "2026-10-20T22:19:09.997",
-  "summary": "Improper input validation in UI in Google Chrome on on Android prior to 156.0.8078.47 allowed a remote attacker to potentially execute arbitrary code inside the sandbox via a crafted HTML page. (Chromium security severity: Low)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-113173",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_02018666648.html"
-  },
-  "title_vi": "",
-  "key": "a5d5f0128f7f24c9366c109dbf513f0bb08b5768"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-113174 — Use after free in Extensions in Google Chrome prior to 156",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113174",
-  "published": "2026-10-20T22:19:10.110",
-  "summary": "Use after free in Extensions in Google Chrome prior to 156.0.8078.47 allowed a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-113174",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_02018666648.html"
-  },
-  "title_vi": "",
-  "key": "12883bc2f6cd990420c8cf6edf2d09a67a57468c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-113175 — Improper input validation in FileSystem in Google Chrome prior to 156",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113175",
-  "published": "2026-10-20T22:19:10.213",
-  "summary": "Improper input validation in FileSystem in Google Chrome prior to 156.0.8078.47 allowed a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. (Chromium security severity: High)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-113175",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_02018666648.html"
-  },
-  "title_vi": "",
-  "key": "35728e6053187465a23b10fb492cac67cc79068e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-113176 — Memory corruption in Omnibox in Google Chrome prior to 156",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113176",
-  "published": "2026-10-20T22:19:10.320",
-  "summary": "Memory corruption in Omnibox in Google Chrome prior to 156.0.8078.47 allowed a remote attacker to potentially execute arbitrary code inside the sandbox via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-113176",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_02018666648.html"
-  },
-  "title_vi": "",
-  "key": "b0c8646958ed47ecb9690710f5bad8e5e94890db"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-113177 — Use after free in FileSystem in Google Chrome prior to 156",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113177",
-  "published": "2026-10-20T22:19:10.427",
-  "summary": "Use after free in FileSystem in Google Chrome prior to 156.0.8078.47 allowed a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. (Chromium security severity: Medium)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-113177",
-   "cvss": null,
-   "ref": "https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_02018666648.html"
-  },
-  "title_vi": "",
-  "key": "65ce62ab547db17d1aca205203b41cf2a3f0b7e5"
  }
 ]
