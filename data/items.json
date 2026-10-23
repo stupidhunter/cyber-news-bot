@@ -1,6 +1,1343 @@
 [
  {
   "source": "VietnamPlus Kinh tế số",
+  "title": "Nga: Toàn bộ 4 sân bay tại Moskva tạm ngừng hoạt động do báo động không kích",
+  "link": "https://www.vietnamplus.vn/nga-toan-bo-4-san-bay-tai-moskva-tam-ngung-hoat-dong-do-bao-dong-khong-kich-post1143941.vnp",
+  "published": "2026-10-23T22:47:59+00:00",
+  "summary": "Bốn sân bay quốc tế phục vụ thủ đô Moskva đồng loạt hạn chế hoạt động bay trước nguy cơ tấn công bằng thiết bị bay không người lái, khiến hàng loạt chuyến bay bị đình trệ, hoãn hoặc hủy. Nhà Trắng: Nga và Ukraine nhất trí ngừng bắn cục bộ Nga-Ukraine-Mỹ sẽ sớm đàm phán an ninh tại Abu Dhabi Nga tuyên bố đánh chặn 630 UAV hướng về Moskva",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "137981418c5532d57b934433984ee2af18e2cf83"
+ },
+ {
+  "source": "Cloudflare Blog",
+  "title": "Origin Range Requests: Serving large files without range-request tuning",
+  "link": "https://blog.cloudflare.com/origin-range-requests/",
+  "published": "2026-10-23T18:22:59+00:00",
+  "summary": "Naive byte-range caching can waste gigabytes of origin bandwidth on small requests. We rebuilt our cache architecture in Pingora to coordinate partial fetches automatically, cutting R2 p99 latency in half.",
+  "categories": [
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "3caa24e7a3d197bdc1be278f379d116f14bb2d70"
+ },
+ {
+  "source": "Cloudflare Blog",
+  "title": "Bringing post-quantum cryptography to geographically fenced key management",
+  "link": "https://blog.cloudflare.com/post-quantum-geo-key-manager/",
+  "published": "2026-10-23T18:06:56+00:00",
+  "summary": "Cloudflare's new post-quantum GeoKey Manager protects geographically fenced decryption keys from harvest now, decrypt later attacks. Learn how we redesigned our cryptography stack to support strict data sovereignty in a post-quantum world.",
+  "categories": [
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "f2632ee01eaba57b3c6941817cd7d82785409277"
+ },
+ {
+  "source": "OpenAI News",
+  "title": "Securing our frontier model training environment",
+  "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+  "published": "2026-10-23T10:00:00+00:00",
+  "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "e459cd17f09103ac9ce2e92523c13fa1b39379e6"
+ },
+ {
+  "source": "DarkReading",
+  "title": "Trust Is Not What It Seems — And Fraudsters Are Counting on It",
+  "link": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
+  "published": "2026-10-23T20:57:56+00:00",
+  "summary": "Threat actors don't need to rely on malware to breach organizations anymore. They're simply calling help desks and politely asking for access, with a little help from artificial intelligence.",
+  "categories": [
+   "ai",
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "1035648a32037994f882633560bc9d20c1139ec3"
+ },
+ {
+  "source": "DarkReading",
+  "title": "Exposed to PHP2Shell? Cyber Experts Weigh in With Advice",
+  "link": "https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice",
+  "published": "2026-10-23T19:41:23+00:00",
+  "summary": "Fixing the critical PHP flaws is not as simple as clicking &quot;Update.&quot; Here's how to assess your risk, and what you can do to protect yourself.",
+  "categories": [
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "1eb06da7006bf2e98d74c282b609cba0ae5f1b32"
+ },
+ {
+  "source": "DarkReading",
+  "title": "AI Tools Are Generating Massive Attacks for Little Cost",
+  "link": "https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost",
+  "published": "2026-10-23T17:26:59+00:00",
+  "summary": "One campaign targets 105 sites using open-weight models; in another, public models gained full domain control for $12. Cyber-defense will have to change.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "24f5ac4926ceb4acd54725884c2fbaa8880359a6"
+ },
+ {
+  "source": "The Record",
+  "title": "FCC bans two devices with surveillance chips linked to Huawei",
+  "link": "https://therecord.media/fcc-bans-devices-huawei-surveillance-chips",
+  "published": "2026-10-23T17:28:00+00:00",
+  "summary": "The banned items — a wireless video transmitter and dashboard camera — are made with chips manufactured by Huawei subsidiary HiSilicon, which markets its products as “designed for the surveillance market.”",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "05ec48ccabe24bf646ba6d9288b5bd9e1176066a"
+ },
+ {
+  "source": "The Record",
+  "title": "Reports of PHP bug exploitation attempts grow as experts downplay viability of exploits",
+  "link": "https://therecord.media/php-php2shell-exploitation-attempts-pocs",
+  "published": "2026-10-23T04:00:00+00:00",
+  "summary": "The headline-grabbing bugs known colloquially as PHP2Shell are giving cyber analysts a lot to track — and a lot to debunk.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "e8af4eded1f3386794b081e6e66bb352198c8ade"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+  "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+  "published": "2026-10-23T18:50:13+00:00",
+  "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to be orchestrated by a China-linked state-sponsored hacking group known as APT41, Kaspersky said in a technical report",
+  "categories": [
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "3c1e7d033c8676790dfc5583a57a8a36f819af93"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
+  "link": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
+  "published": "2026-10-23T17:54:08+00:00",
+  "summary": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past month. GitLab found that a specially crafted pattern could corrupt memory while Ruby compiles it, potentially leading to code execution on its own servers. Ruby says any",
+  "categories": [
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "0d1dd88c3dfef7df756b332d4a5190c65c5a7cfc"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+  "link": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
+  "published": "2026-10-23T17:50:47+00:00",
+  "summary": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an \"Autonomous Red Team Kill Chain Framework\" referred to as Phantom. The threat actor is assessed to be Russian-speaking and functions both as an intrusion and data-extortion operator, as well as an",
+  "categories": [
+   "ai",
+   "breach",
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "",
+  "key": "7153257bd2ee8aa985b9d98b6d81b2d2e5b3148a"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2026-114625 — Arista VeloCloud Orchestrator SQL Injection Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-114625",
+  "published": "2026-10-23",
+  "summary": "Arista VeloCloud Orchestrator on-prem contains a SQL injection vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise the confidentiality, integrity, and availability of the orchestrator and data managed by the orchestrator.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-114625",
+   "vendor": "Arista",
+   "product": "VeloCloud Orchestrator",
+   "due_date": "2026-10-26",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "",
+  "key": "517f0aafa77c6f4bd6140602e7ee592bd01a0942"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2026-110447 — Collabora Online – Built-in CODE Server OS Command Injection Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-110447",
+  "published": "2026-10-23",
+  "summary": "Collabora Collabora Online – Built-in CODE Server when used within the NextCloud platform contains an OS command injection vulnerability that allows for remote code execution when the CODE server isn't running.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-110447",
+   "vendor": "Collabora",
+   "product": "Collabora Online – Built-in CODE Server",
+   "due_date": "2026-10-26",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "",
+  "key": "f996590aa97f1026e739866284b333e1a26ae7c4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-105481 — A flaw in Node",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-105481",
+  "published": "2026-10-23T17:17:19.250",
+  "summary": "A flaw in Node.js HTTP Agent connection reuse can cause a client to accept as valid a response that was sent before the client has sent the request. This is an incomplete fix of CVE-2026-48931.\n\nThe guard that destroys idle keep-alive sockets when unexpected data arrives only runs when the event loop polls for I/O. If an unsolicited response has already reached the socket but has not been read yet when the socket is handed to a new request, for example because the event loop was busy with synchronous work, the guard is removed without seeing it and the data is parsed as the response to the new",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-105481",
+   "cvss": 6.5,
+   "ref": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases"
+  },
+  "title_vi": "CVE-2026-105481 — Một lỗ hổng trong Node",
+  "key": "c3d5772e2f65ebe97152e956d3b67840c9b111a4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-105482 — A flaw in Node",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-105482",
+  "published": "2026-10-23T17:17:19.427",
+  "summary": "A flaw in Node.js DNS resolution allows hostnames containing a NUL byte to be silently truncated by the dns.resolve*() functions and dns.reverse(). This is an incomplete fix of CVE-2026-48930, which only covered dns.lookup() and the net/tls host options.\r\n\r\nBecause the name is passed to c-ares as a C string, resolving attacker.example\\0.trusted.example queries attacker.example and returns its records without any error. Applications that validate a hostname, for example against a domain allowlist, and then resolve it with dns.resolve*() can act on records for a different name than the one they ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-105482",
+   "cvss": 7.4,
+   "ref": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases"
+  },
+  "title_vi": "CVE-2026-105482 — Một lỗ hổng trong Node",
+  "key": "ed02a6354e3699ea304c8216902884575614fe2c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-105483 — A flaw in Node",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-105483",
+  "published": "2026-10-23T17:17:19.573",
+  "summary": "A flaw in Node.js TLS hostname verification allows a certificate without a matching IP address SAN to authenticate a connection to an IPv4 address when the host is written with non-ASCII characters, such as fullwidth digits (`１２７.0.0.1`).\n\n`tls.checkServerIdentity()` did not recognize such hosts as IP addresses, even though they normalize and resolve to a regular IPv4 address, and matched them against the certificate DNS names and Common Name instead. A certificate containing `DNS:127.0.0.1` or `DNS:*.0.0.1` could therefore be accepted for an IP endpoint it was not issued for. This is a regres",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-105483",
+   "cvss": 7.4,
+   "ref": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases"
+  },
+  "title_vi": "CVE-2026-105483 — Một lỗ hổng trong Node",
+  "key": "179851a5c0b7d61b5ca65f49da0c84ea24417886"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-106069 — A flaw in Node",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106069",
+  "published": "2026-10-23T17:17:19.740",
+  "summary": "A flaw in Node.js TLS hostname verification can cause a server certificate to be validated against a different IP address than the one the client connected to, when the host is a non-canonical IPv4 literal with a leading zero, such as `0127.0.0.1`.\n\n`tls.checkServerIdentity()` normalizes the host following the WHATWG URL rules, which read a leading-zero octet as octal (`0127.0.0.1` becomes `87.0.0.1`), while the connection is made through the operating system resolver, which on some platforms such as macOS reads it as decimal (`127.0.0.1`). A server at the connected address can then be authent",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-106069",
+   "cvss": 7.4,
+   "ref": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases"
+  },
+  "title_vi": "CVE-2026-106069 — Một lỗ hổng trong Node",
+  "key": "8845d962f889ded1e0ad6068db83b0f4773194e3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-106070 — A flaw in the Node",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106070",
+  "published": "2026-10-23T17:17:19.917",
+  "summary": "A flaw in the Node.js `zlib.ZipFile` API can cause it to return bytes that do not belong to the requested entry after the local and central header validation fails.\n\nWhen `zipEntry.modified` is read on an archive whose local header does not match its central directory, either directly or while compacting the archive, the validation error is caught but the parsed local header is left cached without a content offset. A later content read then returns attacker-controlled bytes from the start of the file instead of rejecting the archive, and CRC-32 verification still passes because the attacker co",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-106070",
+   "cvss": 3.7,
+   "ref": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases"
+  },
+  "title_vi": "CVE-2026-106070 — Một lỗ hổng trong Node",
+  "key": "ec0b3f55855f5e5d4970c6efd41bbeb467e724a0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-106071 — A flaw in Node",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106071",
+  "published": "2026-10-23T17:17:20.060",
+  "summary": "A flaw in Node.js Permission Model filesystem enforcement can grant access to paths that do not match a wildcard `--allow-fs-read` or `--allow-fs-write` rule.\n\nWhen the requested path is shorter than the prefix of a wildcard grant, the radix tree lookup stops comparing early and treats the path as a match. For example, `--allow-fs-read=/etc/passwd.*` also allows reading `/etc/passwd`. This requires the wildcard grant to sit directly under the root of the permission tree, for example when it is the only grant for that scope. This is a different root cause from CVE-2026-58043.\n\nThis vulnerabilit",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-106071",
+   "cvss": 3.6,
+   "ref": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases"
+  },
+  "title_vi": "CVE-2026-106071 — Một lỗ hổng trong Node",
+  "key": "13d4df51b054b0297ad116a4842d0a87ce4fc0c6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-106072 — A flaw in Node",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106072",
+  "published": "2026-10-23T17:17:20.203",
+  "summary": "A flaw in Node.js TLS hostname verification allows a certificate with only a DNS SAN to authenticate an IP endpoint when the client connects using a non-canonical IPv4 spelling, such as `0177.0.0.1`, `0x7f.0.0.1`, `2130706433` or `127.1`.\n\n`tls.checkServerIdentity()` did not classify these hosts as IP addresses, but normalized them to their canonical form and matched the result against the certificate DNS names. A certificate containing `DNS:127.0.0.1` and no `IP Address:127.0.0.1` SAN was therefore accepted, while the same certificate is correctly rejected for `127.0.0.1`. Exploitation requir",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-106072",
+   "cvss": 6.7,
+   "ref": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases"
+  },
+  "title_vi": "CVE-2026-106072 — Một lỗ hổng trong Node",
+  "key": "f7cc706dbfcaa3c7708cc196f22dbea08212bee3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-106073 — A flaw in Node",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106073",
+  "published": "2026-10-23T17:17:20.343",
+  "summary": "A flaw in Node.js Permission Model filesystem enforcement leaves `fs.realpathSync()` without the required read permission checks. This is an incomplete fix of CVE-2026-21715, which only covered `fs.realpathSync.native()`.\n\nAs a result, code running under `--permission` with restricted `--allow-fs-read` can still use `fs.realpathSync()` to check file existence, resolve symlink targets, and enumerate filesystem paths outside of permitted directories.\n\nThis vulnerability affects Node.js **26.x**, **24.x**, and **22.x**.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-106073",
+   "cvss": 3.3,
+   "ref": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases"
+  },
+  "title_vi": "CVE-2026-106073 — Một lỗ hổng trong Node",
+  "key": "10e67db9b4af215a275caf41b9d26ce98ee06b5f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-106074 — A flaw in Node",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106074",
+  "published": "2026-10-23T17:17:20.473",
+  "summary": "A flaw in Node.js `crypto` causes the internal entropy caches used by `crypto.randomUUID()`, `crypto.randomUUIDv7()`, and `crypto.randomInt()` to be saved into user-land startup snapshots (`--build-snapshot`) and single executable applications built with `useSnapshot`.\n\nIf any of these functions, or an API that relies on them such as `URL.createObjectURL()`, is called while the snapshot is built, every process started from that snapshot returns the same values until the cache is refilled: up to 127 UUIDs and about 1,000 `randomInt()` values. Identifiers expected to be unique can collide across",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-106074",
+   "cvss": 4.8,
+   "ref": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases"
+  },
+  "title_vi": "CVE-2026-106074 — Một lỗ hổng trong Node",
+  "key": "1354b03481305683c2bcd08c09ff0945f9c1694d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115810 — Tandoor Recipes before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115810",
+  "published": "2026-10-23T17:17:21.380",
+  "summary": "Tandoor Recipes before 2.7.0 contains a server-side request forgery vulnerability in the Pestle importer that allows authenticated low-privileged users to force the server to issue GET requests to arbitrary internal or external hosts by crafting a malicious image URL in a Pestle JSON import file. Attackers can exploit the raw requests.get call in cookbook/integration/pestle.py, which bypasses the application's centralized requests-hardened SSRF filter, to reach internal-only endpoints, perform port/service discovery, and exfiltrate internal responses via the stored recipe image.",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115810",
+   "cvss": 7.7,
+   "ref": "https://github.com/TandoorRecipes/recipes/releases/tag/2.7.0"
+  },
+  "title_vi": "CVE-2026-115810 — Công thức nấu Tandoor trước 2",
+  "key": "3b93b2dcefc6bd9c823030fcf3f60d4275a479f3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-87901 — Improper sanitization in the registration module allows reflected Cross-Site Scripting",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87901",
+  "published": "2026-10-23T17:17:22.137",
+  "summary": "Improper sanitization in the registration module allows reflected Cross-Site Scripting.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-87901",
+   "cvss": 8.3,
+   "ref": "https://www.phpbb.com/community/viewtopic.php?t=2675305"
+  },
+  "title_vi": "CVE-2026-87901 — Việc vệ sinh không đúng cách trong mô-đun đăng ký cho phép phản ánh Tập lệnh chéo trang",
+  "key": "0ddc5e061b3031be9e30fa82490e9f286bd46e2e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-110975 — A flaw was found in Kruize Autotune",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-110975",
+  "published": "2026-10-23T18:17:20.503",
+  "summary": "A flaw was found in Kruize Autotune. Its REST API ships without an authentication layer, and the endpoints that return datasource configuration — the list-datasources endpoint (GET /datasources) and the datasource-metadata endpoint — serialized datasource objects using a default Gson configuration with no field-exclusion strategy. As a result, the authentication secrets stored for each configured monitoring datasource (basic-auth passwords, bearer tokens, API keys, and OAuth2 client secrets) were returned in cleartext to any client able to reach the service. An attacker with network access to ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-110975",
+   "cvss": 7.4,
+   "ref": "https://access.redhat.com/security/cve/CVE-2026-110975"
+  },
+  "title_vi": "CVE-2026-110975 — Một lỗ hổng được tìm thấy trong Kruize Autotune",
+  "key": "b0916c5b592395a584f9af056c69ef9dd8a8a158"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115567 — Tokio is a runtime for writing applications with Rust",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115567",
+  "published": "2026-10-23T18:17:21.303",
+  "summary": "Tokio is a runtime for writing applications with Rust. In 1.54.0, a race condition between tokio::time::Interval::poll_tick (including .tick().await) and the multi-threaded runtime's time driver could drop an internal timer entry without synchronizing with the driver thread that was firing it. The race caused a use-after-free on the timer's waker and task state in safe Rust, which could produce assertion panics, task reference-count corruption, or heap memory corruption. This issue is fixed in 1.54.1.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115567",
+   "cvss": null,
+   "ref": "https://github.com/tokio-rs/tokio/commit/2b4eba7833864c04ecd2f3e5f4a97ff4f6fa28d0"
+  },
+  "title_vi": "CVE-2026-115567 — Tokio là thời gian chạy để viết ứng dụng với Rust",
+  "key": "70c028aaad1aecff200403d530a7b64754fec1eb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115812 — Relative path traversal during model archive extraction in Amazon Web Services Multi Model Server 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115812",
+  "published": "2026-10-23T18:17:21.460",
+  "summary": "Relative path traversal during model archive extraction in Amazon Web Services Multi Model Server 1.1.11 and earlier might allow remote actors to execute arbitrary code via a crafted model archive.\n\n\n\nMulti Model Server is end of life and no fixed version is available. Users should discontinue use of Multi Model Server and migrate to a supported model serving solution.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115812",
+   "cvss": 9.8,
+   "ref": "https://aws.amazon.com/security/security-bulletins/2026-148-aws/"
+  },
+  "title_vi": "CVE-2026-115812 — Truyền tải đường dẫn tương đối trong quá trình trích xuất kho lưu trữ mô hình trong Amazon Web Services Multi Model Server 1",
+  "key": "2163f9e5591ec950a2cbe100aaf051c06258d090"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115813 — Server-side request forgery in the model download path in Amazon Web Services Multi Model Server 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115813",
+  "published": "2026-10-23T18:17:21.617",
+  "summary": "Server-side request forgery in the model download path in Amazon Web Services Multi Model Server 1.1.11 and earlier might allow remote actors to send requests to internal network destinations via a crafted model URL.\n\n\n\nMulti Model Server is end of life and no fixed version is available. Users should discontinue use of Multi Model Server and migrate to a supported model serving solution.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115813",
+   "cvss": 5.8,
+   "ref": "https://aws.amazon.com/security/security-bulletins/2026-148-aws/"
+  },
+  "title_vi": "CVE-2026-115813 — Giả mạo yêu cầu phía máy chủ trong đường dẫn tải xuống mô hình trong Amazon Web Services Multi Model Server 1",
+  "key": "c1c1655c82ba50a9ab1c4e7b42d957ad05f43099"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115863 — ConnMan through 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115863",
+  "published": "2026-10-23T18:17:21.757",
+  "summary": "ConnMan through 2.0 has a stack-based buffer overflow via a DHCPv6 Reply message. This occurs in get_domains in gdhcp/client.c. It copies a fixed NS_MAXDNAME (1025) bytes from a DHCPv6 DOMAIN_LIST (option 24) value into a 1026-byte stack buffer dns_name regardless of the actual option length, then walks DNS labels with an unbounded \"c += jump + 1\" loop. A crafted DHCPv6 REPLY with a DOMAIN_LIST option of >= 1025 non-zero bytes makes the label walk leave the buffer and read/write '.' past its end in attacker-chosen strides. An on-link attacker can trigger this without authentication via a forge",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115863",
+   "cvss": 7.6,
+   "ref": "https://git.kernel.org/pub/scm/network/connman/connman.git/commit/?id=bb06c47101ca243fa5c04fb4b03fe2a12420d280"
+  },
+  "title_vi": "CVE-2026-115863 — ConnMan đến 2",
+  "key": "3f5d9bf7d0f9675a52841fed96c2c6eb2e6b2a19"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-112342 — Tandoor Recipes before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-112342",
+  "published": "2026-10-23T19:17:43.203",
+  "summary": "Tandoor Recipes before 2.7.0 contains an improper cache-key design in cookbook/helper/permission_helper.py that allows authenticated users to retain stale group-based permissions across different spaces by exploiting a cache key keyed only on user id while omitting the active space, with the cached entry's TTL refreshed on every request. Attackers can create their own space to obtain an admin group designation, then switch their active space to a victim space where they hold lesser privileges, causing the stale cached admin decision to authorize elevated access and bypass group revocations or ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-112342",
+   "cvss": 7.1,
+   "ref": "https://github.com/TandoorRecipes/recipes/commit/1285f5009aa166c0d6f8658849eed5686294d5e9"
+  },
+  "title_vi": "CVE-2026-112342 — Công thức nấu Tandoor trước 2",
+  "key": "9b8e8331f43f0dd9e8c297714eaf23faa172f041"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115569 — Fallow is a codebase intelligence tool for TypeScript and JavaScript",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115569",
+  "published": "2026-10-23T19:17:44.320",
+  "summary": "Fallow is a codebase intelligence tool for TypeScript and JavaScript. From 2.68.0 until 3.34.0, Fallow follows attacker-controlled Jest projects paths outside the project root through absolute paths, parent segments, dot-prefixed wildcard globs, or symlinks. In version 3.33.1, the same behavior also affects Vitest test.projects paths, Vitest inline-project extends paths, and symlinked script --config paths. Fallow parses the outside files as test-runner configuration and uses them to credit dependencies, setup files, and JSX import sources, which can change unused dependency and unused file fi",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115569",
+   "cvss": 3.3,
+   "ref": "https://github.com/fallow-rs/fallow/commit/75c0c60948a53ddfe042e65b446343989f4c5649"
+  },
+  "title_vi": "CVE-2026-115569 — Fallow là một công cụ thông minh cơ sở mã cho TypeScript và JavaScript",
+  "key": "565f934f178868e862993e8eb393dd58aa7eb6f6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115570 — Electron is a framework for writing cross-platform desktop applications using JavaScript, HTML and CSS",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115570",
+  "published": "2026-10-23T19:17:44.470",
+  "summary": "Electron is a framework for writing cross-platform desktop applications using JavaScript, HTML and CSS. Prior to 42.11.16, 43.8.1, 44.9.1, and 45.0.0-beta.6, Electron does not block compromised eMudhra intermediate certificates in Chromium networking, Node.js tls, Node.js https, or Node.js fetch. An attacker who holds a certificate issued through one of these intermediates and can intercept network traffic can impersonate a TLS server to an affected application. This issue is fixed in versions 42.11.16, 43.8.1, 44.9.1, and 45.0.0-beta.6.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115570",
+   "cvss": 7.4,
+   "ref": "https://github.com/electron/electron/commit/093583c71be71c85453e6e225137bf2af755fbcc"
+  },
+  "title_vi": "CVE-2026-115570 — Electron là một framework để viết các ứng dụng máy tính để bàn đa nền tảng sử dụng JavaScript, HTML và CSS",
+  "key": "b60ccd836eabdf0308b02710aed548c676971f2a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115845 — An incomplete list of disallowed inputs in the Python code validator of the run_script tool in AWS MCP Server might allow an authenticated remote user",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115845",
+  "published": "2026-10-23T19:17:44.643",
+  "summary": "An incomplete list of disallowed inputs in the Python code validator of the run_script tool in AWS MCP Server might allow an authenticated remote user to execute arbitrary code within their own isolated session environment via a crafted script.\n\n\n\nAWS fixed this issue service-side. No customer action is required.",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115845",
+   "cvss": 6.4,
+   "ref": "https://aws.amazon.com/security/security-bulletins/2026-149-aws/"
+  },
+  "title_vi": "CVE-2026-115845 — Danh sách không đầy đủ các đầu vào không được phép trong trình xác thực mã Python của công cụ run_script trong AWS MCP Server có thể cho phép người dùng từ xa được xác thực",
+  "key": "620a89209e9b2a22ad31d3d5f2b96b655194f921"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-91093 — A potential security vulnerability has been identified in HP One Agent for certain HP PC products, which might allow for escalation of privilege and/o",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-91093",
+  "published": "2026-10-23T19:17:45.287",
+  "summary": "A potential security vulnerability has been identified in HP One Agent for certain HP PC products, which might allow for escalation\n               of privilege and/or arbitrary code execution. HP is releasing software updates to mitigate the potential vulnerability.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-91093",
+   "cvss": null,
+   "ref": "https://support.hp.com/us-en/document/ish_15886229-15886255-16/hpsbhf04150"
+  },
+  "title_vi": "CVE-2026-91093 — Một lỗ hổng bảo mật tiềm ẩn đã được xác định trong HP One Agent đối với một số sản phẩm PC của HP, lỗ hổng này có thể cho phép leo thang đặc quyền và/o",
+  "key": "5693fda15b84d03cfe46a5fc2d7a7601c10ad64f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115572 — pypdf is a free and open-source pure-python PDF library",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115572",
+  "published": "2026-10-23T20:17:20.940",
+  "summary": "pypdf is a free and open-source pure-python PDF library. Prior to 6.21.2, an attacker can craft a PDF that repeatedly references the same nonexistent indirect object, causing relevant file parts such as pages to trigger repeated full-file recovery loads and long runtimes when accessed. This issue is fixed in version 6.21.2.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115572",
+   "cvss": null,
+   "ref": "https://github.com/py-pdf/pypdf/commit/68a0e5046cc9e14a6c24a21a713f3c7fbde18b4b"
+  },
+  "title_vi": "CVE-2026-115572 — pypdf là thư viện PDF thuần Python mã nguồn mở và miễn phí",
+  "key": "e4fb0d6def934266b8c87e7f40f8495df9175557"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115580 — pypdf is a free and open-source pure-python PDF library",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115580",
+  "published": "2026-10-23T20:17:21.087",
+  "summary": "pypdf is a free and open-source pure-python PDF library. Prior to 6.21.2, an attacker can craft a PDF with a standard cross-reference table whose declared entry count exceeds what the file can contain, causing excessive processing and long runtimes when the file is opened. This issue is fixed in version 6.21.2.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115580",
+   "cvss": null,
+   "ref": "https://github.com/py-pdf/pypdf/commit/a3061e34b169d34478d520f5f049c53cfb1482b2"
+  },
+  "title_vi": "CVE-2026-115580 — pypdf là thư viện PDF thuần Python mã nguồn mở và miễn phí",
+  "key": "ed9ec2bc23175e34a7ff6486207897c5b32eed51"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115585 — pypdf is a free and open-source pure-python PDF library",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115585",
+  "published": "2026-10-23T20:17:21.230",
+  "summary": "pypdf is a free and open-source pure-python PDF library. Prior to 6.21.2, an incomplete remediation for repeated malformed cross-reference entries in GHSA-55h5-xmcq-c37v could still trigger a complete PDF stream reload during each recovery attempt even when a recovery cache was present, causing crafted cross-reference streams to produce long runtimes. This issue is fixed in version 6.21.2.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115585",
+   "cvss": null,
+   "ref": "https://github.com/py-pdf/pypdf/commit/68a0e5046cc9e14a6c24a21a713f3c7fbde18b4b"
+  },
+  "title_vi": "CVE-2026-115585 — pypdf là thư viện PDF thuần Python mã nguồn mở và miễn phí",
+  "key": "0d408f389a6f43266dd6e85de922fc173fffeb5b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115586 — virtualenv is a tool for creating isolated virtual python environments",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115586",
+  "published": "2026-10-23T20:17:21.363",
+  "summary": "virtualenv is a tool for creating isolated virtual python environments. From 21.14.9 until 21.14.13, the bash bin/activate script can copy an attacker-controlled --prompt value into PS1 without escaping dollar signs or backticks when both promptvars and POSIX mode are disabled during activation. Re-enabling promptvars, running set -o posix, or starting an interactive child bash that inherits the exported PS1 can then expand command substitution in the stored VIRTUAL_ENV_PROMPT value and execute commands as the user who activates the environment. This issue is fixed in version 21.14.13.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115586",
+   "cvss": null,
+   "ref": "https://github.com/pypa/virtualenv/commit/3598e201f6f044e389136b2347a8a919ac03c5f4"
+  },
+  "title_vi": "CVE-2026-115586 - virtualenv là một công cụ để tạo môi trường python ảo bị cô lập",
+  "key": "d64d593f82b10f30fbe2b34bd831c281fed35492"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115796 — A security flaw has been discovered in Tenda F6 12",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115796",
+  "published": "2026-10-23T20:17:21.507",
+  "summary": "A security flaw has been discovered in Tenda F6 12.02.01.73. This impacts an unknown function of the component Web Management Interface. Performing a manipulation results in cross-site request forgery. The attack may be initiated remotely. The exploit has been released to the public and may be used for attacks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115796",
+   "cvss": 4.3,
+   "ref": "https://github.com/0xWKZER/tenda-f6-vulnerabilities/blob/main/01-csrf.md"
+  },
+  "title_vi": "CVE-2026-115796 — Một lỗ hổng bảo mật đã được phát hiện trong Tenda F6 12",
+  "key": "47768f81139de131273bc1a76959e4bb7473d1b9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115797 — A weakness has been identified in Tenda F6 12",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115797",
+  "published": "2026-10-23T20:17:21.693",
+  "summary": "A weakness has been identified in Tenda F6 12.02.01.73. Affected is an unknown function of the component Web Management Interface. Executing a manipulation of the argument ecos_pw can lead to cleartext transmission of sensitive information. The attack may be launched remotely. This attack is characterized by high complexity. The exploitability is told to be difficult. The exploit has been made available to the public and could be used for attacks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115797",
+   "cvss": 3.7,
+   "ref": "https://github.com/0xWKZER/tenda-f6-vulnerabilities/edit/main/02-Cleartext_Transmission.md"
+  },
+  "title_vi": "CVE-2026-115797 — Một điểm yếu đã được xác định trong Tenda F6 12",
+  "key": "8f8e484a459bd93e41aca44c0bdaa3eee022e8f9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-19741 — Zephyr's OpenThread integration defined CONFIG_OPENTHREAD_JOINER_PSKD with default \"J01NME\" in modules/openthread/Kconfig",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19741",
+  "published": "2026-10-23T20:17:21.867",
+  "summary": "Zephyr's OpenThread integration defined CONFIG_OPENTHREAD_JOINER_PSKD with default \"J01NME\" in modules/openthread/Kconfig.thread (previously subsys/net/l2/openthread/Kconfig, then subsys/net/l2/openthread/Kconfig.thread). J01NME is the example Joining Device Credential used throughout the public OpenThread and Thread commissioning documentation, including Zephyr's own samples/net/sockets/echo_client/README.rst, so it is not a secret. A firmware image built with CONFIG_OPENTHREAD_JOINER_AUTOSTART=y that never overrode the PSKd therefore shipped with a publicly known joining credential compiled ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-19741",
+   "cvss": 7.5,
+   "ref": "https://github.com/zephyrproject-rtos/zephyr/commit/acb3e514d7fab2bc9672acaba8019d2dc91b187c"
+  },
+  "title_vi": "CVE-2026-19741 — Tích hợp OpenThread của Zephyr được xác định CONFIG_OPENTHREAD_JOINER_PSKD với \"J01NME\" mặc định trong mô-đun/openthread/Kconfig",
+  "key": "5b6c7f33b29ad70a5653936106aac52546bea285"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-79977 — The WireGuard VPN service in subsys/net/lib/wireguard/wg",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79977",
+  "published": "2026-10-23T20:17:27.523",
+  "summary": "The WireGuard VPN service in subsys/net/lib/wireguard/wg.c updated the peer endpoint from a message it could not authenticate. In handle_transport_data(), when the 32-bit receiver index of an incoming transport-data message matched no session, the code both scheduled a new handshake and copied the datagram's source address into peer->endpoint with memcpy(&peer->endpoint, peer_addr, sizeof(peer->endpoint)). Because the receiver index is unknown, there is no key with which such a message could be verified, so the address written into peer->endpoint is entirely attacker-supplied. Every other endp",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-79977",
+   "cvss": 8.2,
+   "ref": "https://github.com/zephyrproject-rtos/zephyr/commit/cbaaf3e9dbe08be21f01bd23142e1ffe91fd4db6"
+  },
+  "title_vi": "CVE-2026-79977 — Dịch vụ WireGuard VPN trong subsys/net/lib/wireguard/wg",
+  "key": "e2d1f75ed9d5e5c1d3db768d723fc75a23447de1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-79978 — The RTIO streaming completion callback adxl345_process_fifo_samples_cb() in drivers/sensor/adi/adxl345/adxl345_stream",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79978",
+  "published": "2026-10-23T20:17:27.657",
+  "summary": "The RTIO streaming completion callback adxl345_process_fifo_samples_cb() in drivers/sensor/adi/adxl345/adxl345_stream.c clamps the amount of FIFO data it will report (read_len = MIN(fifo_bytes, buf_avail)) to the space actually returned by rtio_sqe_rx_buf(), but then queues one 6-byte bus read per hardware FIFO entry at consecutive offsets from read_buf, bounded by the device-reported entry count rather than by the clamp. When the allocated buffer is smaller than a full batch, the driver writes up to 186 bytes past the end of the allocation; a companion defect left data->fifo_total_bytes un-re",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-79978",
+   "cvss": 3.6,
+   "ref": "https://github.com/zephyrproject-rtos/zephyr/commit/3451bb1e1e9165844060551164adb8a756e7b6b7"
+  },
+  "title_vi": "CVE-2026-79978 — Lệnh gọi lại hoàn thành phát trực tuyến RTIO adxl345_process_fifo_samples_cb() trong trình điều khiển/cảm biến/adi/adxl345/adxl345_stream",
+  "key": "d5658226511158756f429408aeb5e5b7586d5bb6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-79979 — The arm64 MMU backend invalidates a single virtual address from the TLB with invalidate_tlb_page() in arch/arm64/core/mmu",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79979",
+  "published": "2026-10-23T20:17:27.783",
+  "summary": "The arm64 MMU backend invalidates a single virtual address from the TLB with invalidate_tlb_page() in arch/arm64/core/mmu.c, which issued TLBI VAE1{IS} with an operand of virt >> 12. That operand encodes the ASID in bits [63:48], so the invalidation only ever matched ASID 0 (the kernel page tables) and global entries. Memory domains, however, are allocated ASIDs starting at 1 in arch_mem_domain_init(), and every domain-private leaf created by private_map() is mapped with MT_NG, i.e. non-global. A domain's cached translation therefore survived the invalidation.\n\nAll callers of invalidate_tlb_pa",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-79979",
+   "cvss": 7.8,
+   "ref": "https://github.com/zephyrproject-rtos/zephyr/commit/d732e9f808f16911d06769b3f756246f3528669f"
+  },
+  "title_vi": "CVE-2026-79979 — Phần phụ trợ MMU arm64 vô hiệu hóa một địa chỉ ảo duy nhất từ ​​TLB với không hợp lệ_tlb_page() trong Arch/arm64/core/mmu",
+  "key": "b0e5b3d2535df9bc3cbb76692a13199dfb7ecd96"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-79980 — The DHCPv4 client in subsys/net/lib/dhcpv4/dhcpv4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79980",
+  "published": "2026-10-23T20:17:27.913",
+  "summary": "The DHCPv4 client in subsys/net/lib/dhcpv4/dhcpv4.c maintained its transaction identifier (iface->config.dhcpv4.xid) as a counter rather than as a per-transaction random value. It was seeded once with sys_rand32_get() in dhcpv4_start_internal(), incremented by one in dhcpv4_send_discover() and dhcpv4_send_decline(), and never changed by dhcpv4_send_request() — so every RENEWING and REBINDING exchange reused, unchanged, the identifier that had already appeared on the wire in the broadcast DHCPDISCOVER at boot, and where the identifier did move it moved predictably by one. RFC 2131 4.1 requires ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-79980",
+   "cvss": 5.6,
+   "ref": "https://github.com/zephyrproject-rtos/zephyr/commit/6a96770a1ea8c38a54a45f892c3e97be0f7dac41"
+  },
+  "title_vi": "CVE-2026-79980 — Máy khách DHCPv4 trong subsys/net/lib/dhcpv4/dhcpv4",
+  "key": "fc794dc71618abb3577df0de0acd31ecf3498536"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-79981 — The DNS stub resolver in subsys/net/lib/dns/resolve",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79981",
+  "published": "2026-10-23T20:17:28.040",
+  "summary": "The DNS stub resolver in subsys/net/lib/dns/resolve.c binds one UDP socket per configured server when the resolver context is initialised (dns_resolve_init_locked() -> register_dispatcher() -> dns_dispatcher_register()), with the local port left at 0 so the stack picks an ephemeral port exactly once. dns_write() then sends every subsequent query from that same socket without re-binding, so the source port is constant for the lifetime of the resolver context while only the 16-bit transaction identifier (ctx->queries[i].id, drawn with sys_rand16_get()) varies per query. RFC 5452 section 9.2 requ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-79981",
+   "cvss": 6.5,
+   "ref": "https://github.com/zephyrproject-rtos/zephyr/commit/289c14b9103b44cf05b3ecf20eaec6153b7dc3ef"
+  },
+  "title_vi": "CVE-2026-79981 — Trình phân giải sơ khai DNS trong subsys/net/lib/dns/resolve",
+  "key": "2a66f9c1155daa7007241d3d2ccf6609bebf9e4f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-79982 — The Bluetooth HCI USB transport class of the new USB device stack, subsys/usb/device_next/class/bt_hci",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-79982",
+  "published": "2026-10-23T20:17:28.167",
+  "summary": "The Bluetooth HCI USB transport class of the new USB device stack, subsys/usb/device_next/class/bt_hci.c, copies every controller-to-host HCI packet into a USB transfer buffer before enqueuing it on an endpoint. bt_hci_tx_sync_in() allocated that buffer from bt_hci_ep_pool, a fixed pool whose slots are only USBD_MAX_BULK_MPS bytes (64 on full-speed-only builds), and then performed net_buf_add_mem(buf, bt_buf->data, bt_buf->len) with no length check. HCI event and ACL buffers are sized by CONFIG_BT_BUF_EVT_RX_SIZE and CONFIG_BT_BUF_ACL_RX_SIZE and can be far larger, so the copy runs past the en",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-79982",
+   "cvss": 8.8,
+   "ref": "https://github.com/zephyrproject-rtos/zephyr/commit/0419defd2391652edc27689d206fcd9c48439d4a"
+  },
+  "title_vi": "CVE-2026-79982 — Lớp truyền tải Bluetooth HCI USB của ngăn xếp thiết bị USB mới, subsys/usb/device_next/class/bt_hci",
+  "key": "b9d7e6650f6458bd5dab70559942eda45ba0f7fa"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-113877 — HTTP::Headers::ActionPack versions before 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113877",
+  "published": "2026-10-23T21:17:21.597",
+  "summary": "HTTP::Headers::ActionPack versions before 0.10 for Perl allow CPU exhaustion via Accept-Language ranges matched as regular expressions.\n\n_language_match interpolates each Accept-Language range into the pattern `/^$range\\-/i` without escaping it, so regular expression syntax in the header reaches the regex engine. A 12-byte range such as `(a?|b?){26}z` backtracks for seconds, and each increment of the quantifier doubles the time. An invalid range such as `(` fails to compile.\n\nA remote attacker can exhaust CPU, or make choose_language die, in any application that passes an untrusted Accept-Lang",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-113877",
+   "cvss": null,
+   "ref": "https://github.com/robrwo/perl-HTTP-Headers-ActionPack/commit/77f0deb23f3de872c2e64befd72750e0f0f4bec9.patch"
+  },
+  "title_vi": "CVE-2026-113877 — HTTP::Headers::ActionPack phiên bản trước 0",
+  "key": "29d61eea337b65f0004cb32db90ff38e3f229fe6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-113951 — If an attacker can write to the filesystem of a container k8s cluster container, they can plant an exec credential plugin in /etc/kubernetes/admin",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113951",
+  "published": "2026-10-23T21:17:21.717",
+  "summary": "If an attacker can write to the filesystem of a container k8s cluster container, they can plant an exec credential plugin in /etc/kubernetes/admin.conf. kubectl will run that plugin as the macOS host user the next time someone pulls the cluster's kubeconfig onto the host with container k8s write-config or create and then runs kubectl against it — turning filesystem access inside an untrusted Linux container into arbitrary command execution on the host. This vulnerability is addressed in Container version 1.5.0.",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-113951",
+   "cvss": null,
+   "ref": "https://github.com/apple/container/security/advisories/GHSA-44v5-vx46-ghv6"
+  },
+  "title_vi": "CVE-2026-113951 — Nếu kẻ tấn công có thể ghi vào hệ thống tệp của vùng chứa cụm k8s container, chúng có thể tạo plugin thông tin xác thực thực thi trong /etc/kubernetes/admin",
+  "key": "b6920aa2df546dd2ea937d4d4a9e6108c07fb4a1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115774 — Twisted is an event-based framework for internet applications, supporting Python 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115774",
+  "published": "2026-10-23T21:17:22.900",
+  "summary": "Twisted is an event-based framework for internet applications, supporting Python 3.6+. Prior to 26.10.0rc1, twisted.mail.imap4.IMAP4Server reaches twisted.mail.imap4.parseNestedParens with a negative literal size in an authenticated SEARCH command after the client enters the selected mailbox state. The negative size moves the parser cursor below zero, and Python's negative indexing prevents the synchronous scanning loop from terminating. The loop freezes the single-threaded reactor, stopping other IMAP connections and any SMTP or POP3 services hosted in the same process until restart. This iss",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115774",
+   "cvss": 4.9,
+   "ref": "https://github.com/twisted/twisted/commit/3d125548bcbe955007cb97f480bb699a5e074741"
+  },
+  "title_vi": "CVE-2026-115774 — Twisted là một framework dựa trên sự kiện dành cho các ứng dụng internet, hỗ trợ Python 3",
+  "key": "26a5481160762feb59d2329c98761078accedd84"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115775 — Twisted is an event-based framework for internet applications, supporting Python 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115775",
+  "published": "2026-10-23T21:17:23.050",
+  "summary": "Twisted is an event-based framework for internet applications, supporting Python 3.6+. Prior to 26.10.0rc1, the twisted.words.xish.domish ExpatElementStream parser allows an unauthenticated remote peer to keep a container element open while continuously adding child elements. The parser retains the unfinished stanza as an in-memory tree without a byte or element-count limit, and XMPP pre-authentication stream parsing exposes this behavior before credentials are accepted. A single connection can therefore exhaust server memory and terminate the process. This issue is fixed in version 26.10.0rc1",
+  "categories": [
+   "breach",
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115775",
+   "cvss": null,
+   "ref": "https://github.com/twisted/twisted/commit/8873814bec8288e2466fad4d2c4d64039beb88b0"
+  },
+  "title_vi": "CVE-2026-115775 — Twisted là một framework dựa trên sự kiện dành cho các ứng dụng internet, hỗ trợ Python 3",
+  "key": "46095f490cec9412aeb56110f55278318e3c1541"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115776 — Twisted is an event-based framework for internet applications, supporting Python 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115776",
+  "published": "2026-10-23T21:17:23.180",
+  "summary": "Twisted is an event-based framework for internet applications, supporting Python 3.6+. Prior to 26.10.0rc1, twisted.words.protocols.irc.IRC.dataReceived retains all bytes received without a line feed in its per-connection buffer and applies no maximum line length. The twisted.words.service.IRCUser server subclass inherits this behavior, and buffering occurs before PASS, NICK, or USER authentication commands. An unauthenticated connection can continuously grow the buffer until the shared server process runs out of memory and drops all users. This issue is fixed in version 26.10.0rc1.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115776",
+   "cvss": 7.5,
+   "ref": "https://github.com/twisted/twisted/commit/01f8cff7753c1edac132380b2ea939fa6bdbab30"
+  },
+  "title_vi": "CVE-2026-115776 — Twisted là một framework dựa trên sự kiện dành cho các ứng dụng internet, hỗ trợ Python 3",
+  "key": "3289ad6c7d4224b8a06ada16033d765d4256ccd0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115778 — Twisted is an event-based framework for internet applications, supporting Python 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115778",
+  "published": "2026-10-23T21:17:23.320",
+  "summary": "Twisted is an event-based framework for internet applications, supporting Python 3.6+. Prior to 26.10.0rc1, twisted.conch.telnet.Telnet.dataReceived appends every byte received after IAC SB to a persistent subnegotiation buffer until IAC SE is received, without applying a maximum length. Telnet option negotiation occurs before authentication, so an unauthenticated peer can omit the terminator and continuously grow the buffer. The resulting memory exhaustion can terminate the process and every service it hosts. This issue is fixed in version 26.10.0rc1.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115778",
+   "cvss": 7.5,
+   "ref": "https://github.com/twisted/twisted/commit/073ba878c6c07d569cb61abc5ae76d46eff1b529"
+  },
+  "title_vi": "CVE-2026-115778 — Twisted là một framework dựa trên sự kiện dành cho các ứng dụng internet, hỗ trợ Python 3",
+  "key": "01767d45e81e400c73d167553daeeeca1df4b648"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115800 — A vulnerability was identified in UbiquitousLearning mllm up to 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115800",
+  "published": "2026-10-23T21:17:23.467",
+  "summary": "A vulnerability was identified in UbiquitousLearning mllm up to 2.0.2. The affected element is the function load_model of the file pymllm/mobile/convertor/__init__.py of the component Convertor. The manipulation of the argument shard_file leads to path traversal. The attack needs to be performed locally. The exploit is publicly available and might be used. The project was informed of the problem early through an issue report but has not responded yet.",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115800",
+   "cvss": 5.3,
+   "ref": "https://github.com/UbiquitousLearning/mllm/"
+  },
+  "title_vi": "CVE-2026-115800 — Một lỗ hổng được xác định trong UbiquitousLearning mllm lên tới 2",
+  "key": "f2ba194e027c3720ef3828a7656875b319288582"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115877 — Twisted is an event-based framework for internet applications, supporting Python 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115877",
+  "published": "2026-10-23T21:17:23.643",
+  "summary": "Twisted is an event-based framework for internet applications, supporting Python 3.6+. Prior to 26.10.0rc1, twisted.web.http.HTTPChannel.headerReceived rejects a NUL byte in an HTTP header value but accepts a bare carriage return or bare line feed. Because Twisted splits header lines only on CRLF, a hidden Content-Length header can remain folded into another value while a lenient front end treats the bare character as a line terminator. The resulting framing disagreement can smuggle a following request past front-end access controls, poison a shared connection or cache, and expose a later clie",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115877",
+   "cvss": 5.4,
+   "ref": "https://github.com/twisted/twisted/commit/022b6f7feb5980166c71f54e2c0d8f4f21ff6e1a"
+  },
+  "title_vi": "CVE-2026-115877 — Twisted là một khung dựa trên sự kiện cho các ứng dụng internet, hỗ trợ Python 3",
+  "key": "524db7823d81a2144918a0c02be343b3dd0871f4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-57849 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-57849",
+  "published": "2026-10-23T21:17:24.407",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-57849",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2026-57849 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
+  "key": "85f6c7290df97e44505c2131132eb122a3d4d65c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-58202 — OpenReception's appointment booking software provides an end-to-end encrypted appointment booking platform",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-58202",
+  "published": "2026-10-23T21:17:24.473",
+  "summary": "OpenReception's appointment booking software provides an end-to-end encrypted appointment booking platform. Prior to version 2.0.0, the account-confirmation link in emails is built from the request Host header, with no allowlist. The unauthenticated POST /api/auth/resend-confirmation rotates a pending invitee's confirmation token and emails a link whose host comes from the request. An attacker who sends one resend-confirmation with Host: attacker.example and a pending invitee's email causes that invitee to receive a confirmation email whose only link points to the attacker. If the invitee clic",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-58202",
+   "cvss": 8.3,
+   "ref": "https://github.com/open-reception/appointment-booking-software/commit/df5432776a1a5b47c3a64d64e9d05dbe2b7a7819"
+  },
+  "title_vi": "CVE-2026-58202 — Phần mềm đặt lịch hẹn của OpenReception cung cấp nền tảng đặt lịch hẹn được mã hóa hai đầu",
+  "key": "d7fbe01337c0aeab9869c57cfe9831e3f2708032"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-65824 — OpenReception's appointment booking software provides an end-to-end encrypted appointment booking platform",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-65824",
+  "published": "2026-10-23T21:17:24.730",
+  "summary": "OpenReception's appointment booking software provides an end-to-end encrypted appointment booking platform. Prior to version 2.2.1, an attacker who captures a pending invite token can replay it to obtain a passkey-registration credential and register their own passkey on the invited account, taking control of that account. For a staff or tenant-admin invite this yields access to the tenant context tied to that account. This issue has been patched in version 2.2.1.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-65824",
+   "cvss": 7.4,
+   "ref": "https://github.com/open-reception/appointment-booking-software/commit/da921eb9d36953276577c0a6deb9267bfec03622"
+  },
+  "title_vi": "CVE-2026-65824 — Phần mềm đặt lịch hẹn của OpenReception cung cấp nền tảng đặt lịch hẹn được mã hóa hai đầu",
+  "key": "785bb64572b1e3a254e53f0f0c5b72c97c289e50"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-65825 — OpenReception's appointment booking software provides an end-to-end encrypted appointment booking platform",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-65825",
+  "published": "2026-10-23T21:17:24.870",
+  "summary": "OpenReception's appointment booking software provides an end-to-end encrypted appointment booking platform. In versions 2.1.0 and prior, a returning client's six-digit booking PIN can be brute-forced online in the victim tenant. A successful guess yields the client's booking access token, granting access to that client's appointment tunnel, which holds their end-to-end-encrypted appointment data, and the ability to act as the client, for example adding or cancelling appointments in the tunnel. The bypass is cross-tenant: state owned by one tenant removes an authentication protection of a diffe",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-65825",
+   "cvss": 7.5,
+   "ref": "https://github.com/open-reception/appointment-booking-software/security/advisories/GHSA-v4q4-xmqf-gmq8"
+  },
+  "title_vi": "CVE-2026-65825 — Phần mềm đặt lịch hẹn của OpenReception cung cấp nền tảng đặt lịch hẹn được mã hóa hai đầu",
+  "key": "943f2453ecbcd6152b2c36816352878938c3a532"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75524 — OpenReception's appointment booking software provides an end-to-end encrypted appointment booking platform",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75524",
+  "published": "2026-10-23T21:17:25.010",
+  "summary": "OpenReception's appointment booking software provides an end-to-end encrypted appointment booking platform. Prior to version 2.2.2, an attacker overbooks an agent, placing multiple appointments into a single time slot that the system is designed to keep exclusive. The number of overlapping appointments equals the number of concurrent requests, and one booking token is enough because the token is consumed after the insert. This results in the integrity of the booking-calendar breaking and availability being denied to other clients. This issue has been patched in version 2.2.2.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75524",
+   "cvss": 5.4,
+   "ref": "https://github.com/open-reception/appointment-booking-software/commit/73663288a8d4ad2ad31d897dc1f494ace2f0e452"
+  },
+  "title_vi": "CVE-2026-75524 — Phần mềm đặt lịch hẹn của OpenReception cung cấp nền tảng đặt lịch hẹn được mã hóa hai đầu",
+  "key": "7b0e260014567977457ed8577833a38d7e8ff1eb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75525 — OpenReception's appointment booking software provides an end-to-end encrypted appointment booking platform",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75525",
+  "published": "2026-10-23T21:17:25.150",
+  "summary": "OpenReception's appointment booking software provides an end-to-end encrypted appointment booking platform. In versions 2.1.0 and prior, an unauthenticated attacker can store an arbitrary ML-KEM-768 public key under any existing user's identity in any tenant's staff-crypto recipient directory. The product's design guarantees that appointment data is end-to-end encrypted to staff members and that the staff recipient directory is not attacker-writable, so that even administrators and the operator cannot read patient data. This endpoint breaks that guarantee for an unauthenticated remote actor: i",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75525",
+   "cvss": 5.3,
+   "ref": "https://github.com/open-reception/appointment-booking-software/security/advisories/GHSA-qc72-9fg9-h66h"
+  },
+  "title_vi": "CVE-2026-75525 — Phần mềm đặt lịch hẹn của OpenReception cung cấp nền tảng đặt lịch hẹn được mã hóa hai đầu",
+  "key": "74a14a45be37ad53b74166eb682b39d374aefc34"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-83813 — Twisted is an event-based framework for internet applications, supporting Python 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-83813",
+  "published": "2026-10-23T21:17:25.287",
+  "summary": "Twisted is an event-based framework for internet applications, supporting Python 3.6+. Prior to 26.10.0rc1, twisted.names.dns.DNSDatagramProtocol accepts a UDP DNS response for a pending query when its 16-bit transaction ID matches but does not verify that the response came from the queried host and port. An attacker able to deliver a packet to the resolver's listening port with the correct transaction ID can inject a forged answer. The standard twisted.names.client.Resolver uses a new random source port for each query, increasing off-path attack complexity, while applications that reuse a DNS",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-83813",
+   "cvss": 3.1,
+   "ref": "https://github.com/twisted/twisted/commit/b53e1c3477c209b5609a1c74cf9e48373b5879ac"
+  },
+  "title_vi": "CVE-2026-83813 — Twisted là một framework dựa trên sự kiện dành cho các ứng dụng internet, hỗ trợ Python 3",
+  "key": "5633a47c8fb3f247c0a006a27fc15ea73dd8e637"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115801 — A security flaw has been discovered in Kakao khaiii up to 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115801",
+  "published": "2026-10-23T22:16:57.613",
+  "summary": "A security flaw has been discovered in Kakao khaiii up to 0.4. The impacted element is the function khaiii::nn::Linear::open of the file src/main/cpp/khaiii/nn/Linear.cpp of the component JSON Config File Handler. The manipulation of the argument hidden_dim/class_num results in out-of-bounds read. The attack requires a local approach. The exploit has been released to the public and may be used for attacks. The vendor explains: \"khaiii treats the resource directory (--rsc-dir) as trusted input, like a binary or a shared library. To use this defect, an attacker must already be able to write to t",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115801",
+   "cvss": 5.3,
+   "ref": "https://github.com/kakao/khaiii/"
+  },
+  "title_vi": "CVE-2026-115801 — Một lỗ hổng bảo mật đã được phát hiện trong Kakao khaiii lên tới 0",
+  "key": "7a66c503c1eb1529c5ecf42c26d6b367e50a32c4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115883 — LangGraph checkpoint savers provide Postgres- and SQLite-backed state persistence for LangGraph workflows and agents",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115883",
+  "published": "2026-10-23T22:16:57.820",
+  "summary": "LangGraph checkpoint savers provide Postgres- and SQLite-backed state persistence for LangGraph workflows and agents. Prior to langgraph-checkpoint-postgres 3.1.3 and langgraph-checkpoint-sqlite 3.1.2, PostgresStore, AsyncPostgresStore, SqliteStore, and AsyncSqliteStore flatten namespace labels with \".\".join(namespace), while BaseStore validates labels only for put and aput. Unvalidated dotted labels passed through get, search, delete, list_namespaces, their asynchronous equivalents, or direct batch and abatch operations can resolve to another tenant's stored namespace, allowing cross-namespac",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115883",
+   "cvss": null,
+   "ref": "https://github.com/langchain-ai/langgraph/commit/bfcfea554ed5c7f7be562cebf8825e911b493ab1"
+  },
+  "title_vi": "CVE-2026-115883 — Trình bảo vệ điểm kiểm tra LangGraph cung cấp khả năng duy trì trạng thái được Postgres và SQLite hỗ trợ cho các tác nhân và quy trình công việc của LangGraph",
+  "key": "29bc71e5840a6c6e56ea2c51e6425fed596de081"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115885 — The LangGraph CLI is the official command-line interface for LangGraph",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115885",
+  "published": "2026-10-23T22:16:57.970",
+  "summary": "The LangGraph CLI is the official command-line interface for LangGraph. From 0.4.15 until 0.4.32, langgraph deploy --verbose passes a temporary registry push token on standard input to docker login --password-stdin, but the CLI subprocess helper prints command input in verbose mode. Anyone who can read resulting CI logs or terminal recordings before the token's maximum 12-hour expiration can pull deployment images or push images to that deployment's image repository. Deployments without --verbose and remote image builds are not affected, and the token alone cannot update a deployment to execut",
+  "categories": [
+   "cloud",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115885",
+   "cvss": null,
+   "ref": "https://github.com/langchain-ai/langgraph/commit/1afaca35a0d4962fb0203a0e9133a07ffd6a553c"
+  },
+  "title_vi": "CVE-2026-115885 — LangGraph CLI là giao diện dòng lệnh chính thức cho LangGraph",
+  "key": "5f0e1f6dcfc92e301dbeebe3666a3b615ad007b9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115886 — MLflow is an open source AI engineering platform for agents, large language models, and machine learning models",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115886",
+  "published": "2026-10-23T22:16:58.110",
+  "summary": "MLflow is an open source AI engineering platform for agents, large language models, and machine learning models. From 3.12.0rc0 until 3.17.0, the scorer invoke, register, and GenAI evaluate endpoints, including unauthenticated POST /ajax-api/3.0/mlflow/scorer/invoke, accept serialized third-party scorer data that Scorer.model_validate_json resolves using a module-path allowlist without constraining the selected class or its constructor arguments. When optional trulens and trulens-providers-litellm packages are installed, an attacker can select mlflow.genai.scorers.trulens, choose a model URI o",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115886",
+   "cvss": 6.5,
+   "ref": "https://github.com/mlflow/mlflow/commit/bac30b4148c4f40045b4d4db07ae60ab3838803f"
+  },
+  "title_vi": "CVE-2026-115886 — MLflow là nền tảng kỹ thuật AI nguồn mở dành cho các tổng đài viên, mô hình ngôn ngữ lớn và mô hình học máy",
+  "key": "cdda47f128c6d6a2289329d46f312f121ebc63db"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115887 — GraphQL Scalars is a library of custom GraphQL scalars for creating precise type-safe GraphQL schemas",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115887",
+  "published": "2026-10-23T22:16:58.253",
+  "summary": "GraphQL Scalars is a library of custom GraphQL scalars for creating precise type-safe GraphQL schemas. From 1.24.1 until 2.0.1, GraphQLPhoneNumber in src/scalars/PhoneNumber.ts uses ambiguous nested digit quantifiers that backtrack exponentially when a PhoneNumber value contains a run of digits followed by a character that makes the match fail. GraphQL evaluates parseLiteral during document validation and parseValue during variable coercion before resolver authentication or authorization, so a small unauthenticated request can block the Node.js event loop and stall the server process. serializ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115887",
+   "cvss": 7.5,
+   "ref": "https://github.com/graphql-hive/graphql-scalars/commit/210fd2485641afa2452800c00144245c74361701"
+  },
+  "title_vi": "CVE-2026-115887 — Biểu đồ vô hướng GraphQL là một thư viện gồm các biểu đồ vô hướng GraphQL tùy chỉnh để tạo các lược đồ GraphQL an toàn loại chính xác",
+  "key": "5dc93fd5d86c2104dc2ba9787cce2837c483e4d1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115889 — Wasmtime is a runtime for WebAssembly",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115889",
+  "published": "2026-10-23T22:16:58.400",
+  "summary": "Wasmtime is a runtime for WebAssembly. Prior to 36.0.19 and 43.0.0, the Cranelift compiler backend bit-packs SSA value indices in a way that can silently overflow in release builds when compiling a sufficiently large or specially crafted Wasm function with many SSA values. The overflow can make Cranelift reference incorrect IR values, causing arbitrary miscompilation, type confusion, and other attacker-controlled effects that may escape the Wasm sandbox on any architecture using the default Cranelift backend. This issue is fixed in versions 36.0.19 and 43.0.0.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115889",
+   "cvss": 9.9,
+   "ref": "https://github.com/bytecodealliance/wasmtime/commit/ba8f7d70caa1825b7f64fa75cd9d03f4a438dae0"
+  },
+  "title_vi": "CVE-2026-115889 — Wasmtime là thời gian chạy cho WebAssugging",
+  "key": "be42ea1154fa301791d9849bd68a48663791912e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115892 — Wasmtime is a runtime for WebAssembly",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115892",
+  "published": "2026-10-23T22:16:58.633",
+  "summary": "Wasmtime is a runtime for WebAssembly. From 46.0.0 until 48.0.7 and 49.0.4, lowering a host-created component-model stream or future into a guest can omit a required payload-type check after the value passes through guest code and returns through StreamAny, FutureAny, Val::Stream, Val::Future, or an equivalent typed reader. A malicious guest that controls exported function types or returned values can cause the host to pass the type-erased value to a guest expecting a different payload type, which panics the Wasmtime host. This issue is fixed in versions 48.0.7 and 49.0.4.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115892",
+   "cvss": null,
+   "ref": "https://github.com/bytecodealliance/wasmtime/commit/222ff3a65dab9aa7011f8c246937751a0bac5abd"
+  },
+  "title_vi": "CVE-2026-115892 — Wasmtime là thời gian chạy cho WebAssugging",
+  "key": "34828003cd49f0b45b410dd322a2eef443da817a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115893 — Wasmtime is a runtime for WebAssembly",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115893",
+  "published": "2026-10-23T22:16:58.820",
+  "summary": "Wasmtime is a runtime for WebAssembly. Prior to 36.0.19, 48.0.7, and 49.0.4, the Cranelift compiler backend on aarch64 can compile a Wasm br_table instruction with more than approximately 256,000 targets so that it has an incorrect conditional branch target. The branch can then jump to arbitrary other code at a user-controlled offset, allowing a user-controlled Wasm module to escape the sandbox on aarch64 engines using the default Cranelift backend. This issue is fixed in versions 36.0.19, 48.0.7, and 49.0.4.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115893",
+   "cvss": 9.9,
+   "ref": "https://github.com/bytecodealliance/wasmtime/commit/222ff3a65dab9aa7011f8c246937751a0bac5abd"
+  },
+  "title_vi": "CVE-2026-115893 — Wasmtime là thời gian chạy cho WebAssugging",
+  "key": "aef9d44ae0da1ed711a121feaa4ce1a50127b992"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115895 — Happy DOM is a JavaScript implementation of a web browser without its graphical user interface",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115895",
+  "published": "2026-10-23T22:16:58.987",
+  "summary": "Happy DOM is a JavaScript implementation of a web browser without its graphical user interface. From 17.0.0 until 21.0.4, packages/happy-dom/src/module/ECMAScriptModuleCompiler.ts accepts a named ESM import alias without validating that it is a JavaScript binding identifier before inserting it into a generated destructuring binding. With enableJavaScriptEvaluation enabled, attacker-controlled HTML or module source can use an invalid alias that becomes a valid default initializer after compilation, causing the generated JavaScript to execute in the Node.js host process. The demonstrated reachab",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115895",
+   "cvss": 8.8,
+   "ref": "https://github.com/capricorn86/happy-dom/commit/fd163520b74d9fa146be91f7b4e4f46d6cccbe13"
+  },
+  "title_vi": "CVE-2026-115895 — Happy DOM là một triển khai JavaScript của trình duyệt web không có giao diện đồ họa người dùng",
+  "key": "1001fa811525e877c800be5592886556e6767b73"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115897 — Serialize JavaScript serializes JavaScript values to a superset of JSON that includes regular expressions and functions",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115897",
+  "published": "2026-10-23T22:16:59.153",
+  "summary": "Serialize JavaScript serializes JavaScript values to a superset of JSON that includes regular expressions and functions. Prior to 7.1.3, the function-source escaping logic does not neutralize a bare closing-script prefix when attacker-influenced function source text ends exactly at that prefix. Because each function body is escaped independently, a delimiter supplied by surrounding serialized output can terminate an HTML script element, and a later serialized value supplies injected markup that becomes a live element in the page. Exploitation requires control of a serialized function's source ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115897",
+   "cvss": null,
+   "ref": "https://github.com/yahoo/serialize-javascript/commit/2864b3c6260a3bfd52d2db3e70d1a079de108a61"
+  },
+  "title_vi": "CVE-2026-115897 — Tuần tự hóa JavaScript tuần tự hóa các giá trị JavaScript thành siêu tập hợp JSON bao gồm các biểu thức và hàm thông thường",
+  "key": "1273b8eff86b9b4200c204dc2f3b9faa432ad093"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115935 — The app/process-api-response-headers action accepts fake Craft API response headers from any authenticated control panel user",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115935",
+  "published": "2026-10-23T22:16:59.290",
+  "summary": "The app/process-api-response-headers action accepts fake Craft API response headers from any authenticated control panel user.\n\n\n\nA non-admin user with only accessCp can place newline characters in X-Craft-Plugin-Licenses. Craft passes this value to its .env writer without removing the newlines.\n\n\n\nThis lets the user insert a new attacker-known CRAFT_SECURITY_KEY into .env. After Craft loads that key, the user can forge a signed login redirect containing a Twig system() callback.\n\n\n\nThis is different from the previous report. That report reads the existing key through a Twig sandbox bypass. Th",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115935",
+   "cvss": 8.8,
+   "ref": "https://github.com/craftcms/cms"
+  },
+  "title_vi": "CVE-2026-115935 — Hành động app/process-api-response-headers chấp nhận các tiêu đề phản hồi API Craft giả mạo từ bất kỳ người dùng bảng điều khiển được xác thực nào",
+  "key": "33861d18e13b5af22e2759484e3f885ae16f0a4f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115937 — The Mollie webhook endpoint accepts two independent, attacker-controlled parameters and never verifies that they belong together: * commerceTransactio",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115937",
+  "published": "2026-10-23T22:16:59.453",
+  "summary": "The Mollie webhook endpoint accepts two independent, attacker-controlled parameters and never verifies that they belong together:\n\n  *  commerceTransactionHash — selects which Craft Commerce transaction is completed\n  *  id — selects which Mollie payment is queried for its status\n\n\n\n\nAn unauthenticated attacker holding any paid Mollie payment ID from the merchant’s account can pair it with any transaction hash.\n\n\n\nCommerce queries Mollie, sees status: paid, and marks the target transaction successful for that transaction’s full\namount, regardless of how much was actually paid.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115937",
+   "cvss": 7.5,
+   "ref": "https://github.com/craftcms/commerce-mollie"
+  },
+  "title_vi": "",
+  "key": "1c073cf581da31ce273f1bf5791e1f529b9fe7ea"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115938 — Craft CMS allows any authenticated control panel user to submit an element-search condition whose element selector is evaluated as a sandboxed Twig ob",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115938",
+  "published": "2026-10-23T22:16:59.597",
+  "summary": "Craft CMS allows any authenticated control panel user to submit an element-search condition whose element selector is evaluated as a sandboxed Twig object template. Craft’s allowed column filter delegates property lookup to Yii ArrayHelper, outside Twig’s SecurityPolicy. Repeated single-segment lookups therefore bypass the sandbox’s empty property/method allowlists.\n\n\n\nThe vulnerable condition value is ultimately cast to an integer. That does not protect the secret: the template can return author ID 1 when a guessed key character is correct and an impossible ID otherwise. The JSON endpoint ret",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115938",
+   "cvss": 8.8,
+   "ref": "https://github.com/craftcms/cms"
+  },
+  "title_vi": "",
+  "key": "0417ae4fc968ae1229f81b714028647b527d8230"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
   "title": "Pháp và Anh lần đầu diễn tập kịch bản tấn công hạt nhân",
   "link": "https://www.vietnamplus.vn/phap-va-anh-lan-dau-dien-tap-kich-ban-tan-cong-hat-nhan-post1143919.vnp",
   "published": "2026-10-23T14:01:43+00:00",
@@ -72791,1374 +74128,5 @@
   },
   "title_vi": "",
   "key": "585526258d472a8e73b84a7258597019c9613afc"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101452 — Vulnerability in Oracle Autonomous Health Framework (component: AHF Instant Diagnostic Replay)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101452",
-  "published": "2026-10-20T22:17:53.873",
-  "summary": "Vulnerability in Oracle Autonomous Health Framework (component: AHF Instant Diagnostic Replay).  Supported versions that are affected are 26.3-26.8. Easily exploitable vulnerability allows low privileged attacker with logon to the infrastructure where Oracle Autonomous Health Framework executes to compromise Oracle Autonomous Health Framework.  Successful attacks of this vulnerability can result in takeover of Oracle Autonomous Health Framework. CVSS 3.1 Base Score 7.8 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101452",
-   "cvss": 7.8,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "a859e486d61f22222decb109d1647ab1f3adca76"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101453 — Vulnerability in the Siebel CRM Deployment product of Oracle Siebel CRM (component: Server Infrastructure)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101453",
-  "published": "2026-10-20T22:17:53.990",
-  "summary": "Vulnerability in the Siebel CRM Deployment product of Oracle Siebel CRM (component: Server Infrastructure).  Supported versions that are affected are 17.0-26.9. Easily exploitable vulnerability allows high privileged attacker with logon to the infrastructure where Siebel CRM Deployment executes to compromise Siebel CRM Deployment.  Successful attacks of this vulnerability can result in takeover of Siebel CRM Deployment. CVSS 3.1 Base Score 6.7 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101453",
-   "cvss": 6.7,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "46c11ab7daa41ca31e6ab17fb132e527db59a7e5"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101454 — Vulnerability in the Siebel CRM Development product of Oracle Siebel CRM (component: Configuration Tools)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101454",
-  "published": "2026-10-20T22:17:54.103",
-  "summary": "Vulnerability in the Siebel CRM Development product of Oracle Siebel CRM (component: Configuration Tools).  Supported versions that are affected are 17.0-26.9. Easily exploitable vulnerability allows low privileged attacker with logon to the infrastructure where Siebel CRM Development executes to compromise Siebel CRM Development.  Successful attacks of this vulnerability can result in  unauthorized creation, deletion or modification access to critical data or all Siebel CRM Development accessible data as well as  unauthorized read access to a subset of Siebel CRM Development accessible data. ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101454",
-   "cvss": 6.1,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "72fab9d921f7137f08e76aa08f264b1bade54bb0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101455 — Vulnerability in the Siebel CRM Development product of Oracle Siebel CRM (component: Integration - Scripting)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101455",
-  "published": "2026-10-20T22:17:54.213",
-  "summary": "Vulnerability in the Siebel CRM Development product of Oracle Siebel CRM (component: Integration - Scripting).  Supported versions that are affected are 17.0-26.9. Difficult to exploit vulnerability allows low privileged attacker with logon to the infrastructure where Siebel CRM Development executes to compromise Siebel CRM Development.  Successful attacks of this vulnerability can result in  unauthorized creation, deletion or modification access to critical data or all Siebel CRM Development accessible data as well as  unauthorized access to critical data or complete access to all Siebel CRM ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101455",
-   "cvss": 6.3,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "f5f627a6c22638bfe9bbd362f712747827ccf2d8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101456 — Vulnerability in the Siebel CRM Development product of Oracle Siebel CRM (component: Configuration Tools)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101456",
-  "published": "2026-10-20T22:17:54.327",
-  "summary": "Vulnerability in the Siebel CRM Development product of Oracle Siebel CRM (component: Configuration Tools).  Supported versions that are affected are 17.0-26.9. Easily exploitable vulnerability allows high privileged attacker with logon to the infrastructure where Siebel CRM Development executes to compromise Siebel CRM Development.  Successful attacks of this vulnerability can result in  unauthorized creation, deletion or modification access to critical data or all Siebel CRM Development accessible data as well as  unauthorized access to critical data or complete access to all Siebel CRM Devel",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101456",
-   "cvss": 6.0,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "0721284dd5a36965c66931e72fc69fb5fc1be068"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101457 — Vulnerability in the Siebel Apps - Life Sciences product of Oracle Siebel CRM (component: eDetailing)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101457",
-  "published": "2026-10-20T22:17:54.440",
-  "summary": "Vulnerability in the Siebel Apps - Life Sciences product of Oracle Siebel CRM (component: eDetailing).  Supported versions that are affected are 17.0-26.9. Easily exploitable vulnerability allows low privileged attacker with network access via SQL to compromise Siebel Apps - Life Sciences.  Successful attacks of this vulnerability can result in takeover of Siebel Apps - Life Sciences. CVSS 3.1 Base Score 8.8 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101457",
-   "cvss": 8.8,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "bcbd64c960649f792d597defe47c193eb107b533"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101458 — Vulnerability in the Siebel CRM Deployment product of Oracle Siebel CRM (component: Server Infrastructure)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101458",
-  "published": "2026-10-20T22:17:54.557",
-  "summary": "Vulnerability in the Siebel CRM Deployment product of Oracle Siebel CRM (component: Server Infrastructure).  Supported versions that are affected are 17.0-26.9. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Siebel CRM Deployment.  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all Siebel CRM Deployment accessible data as well as  unauthorized update, insert or delete access to some of Siebel CRM Deployment accessible data. CVSS 3.1 Base Score 8.2 (Confidentiality an",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101458",
-   "cvss": 8.2,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "31be1850d48ef0af31575a7936485a76dfede52a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101459 — Vulnerability in the Siebel CRM Deployment product of Oracle Siebel CRM (component: Server Infrastructure)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101459",
-  "published": "2026-10-20T22:17:54.670",
-  "summary": "Vulnerability in the Siebel CRM Deployment product of Oracle Siebel CRM (component: Server Infrastructure).  Supported versions that are affected are 17.0-26.9. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise Siebel CRM Deployment.  Successful attacks of this vulnerability can result in  unauthorized creation, deletion or modification access to critical data or all Siebel CRM Deployment accessible data as well as  unauthorized access to critical data or complete access to all Siebel CRM Deployment accessible data and unauthorized abili",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101459",
-   "cvss": 8.3,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "89edf3ce4ce8e0b8cfa8163962be1f181274243a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101460 — Vulnerability in the Siebel CRM Deployment product of Oracle Siebel CRM (component: Server Infrastructure)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101460",
-  "published": "2026-10-20T22:17:54.793",
-  "summary": "Vulnerability in the Siebel CRM Deployment product of Oracle Siebel CRM (component: Server Infrastructure).  Supported versions that are affected are 17.0-26.9. Easily exploitable vulnerability allows unauthenticated attacker with network access via TLS to compromise Siebel CRM Deployment.  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all Siebel CRM Deployment accessible data. CVSS 3.1 Base Score 7.5 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101460",
-   "cvss": 7.5,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "08ca1b4bef4500acc98f3e62c5d68c6fa311704f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101461 — Vulnerability in the Siebel CRM Deployment product of Oracle Siebel CRM (component: Server Infrastructure)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101461",
-  "published": "2026-10-20T22:17:54.910",
-  "summary": "Vulnerability in the Siebel CRM Deployment product of Oracle Siebel CRM (component: Server Infrastructure).  Supported versions that are affected are 17.0-26.9. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Siebel CRM Deployment.  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all Siebel CRM Deployment accessible data. CVSS 3.1 Base Score 7.5 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101461",
-   "cvss": 7.5,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "bf649a692e0cefb0a78ade9195698f693b82c0c2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101462 — Vulnerability in the Siebel CRM Deployment product of Oracle Siebel CRM (component: Server Infrastructure)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101462",
-  "published": "2026-10-20T22:17:55.020",
-  "summary": "Vulnerability in the Siebel CRM Deployment product of Oracle Siebel CRM (component: Server Infrastructure).  Supported versions that are affected are 17.0-26.9. Easily exploitable vulnerability allows low privileged attacker with logon to the infrastructure where Siebel CRM Deployment executes to compromise Siebel CRM Deployment.  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all Siebel CRM Deployment accessible data. CVSS 3.1 Base Score 5.5 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101462",
-   "cvss": 5.5,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "13e456b6adb1ae645039bbae1a93fbabbb6b7dff"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101463 — Vulnerability in the Siebel CRM End User product of Oracle Siebel CRM (component: UIF Open UI)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101463",
-  "published": "2026-10-20T22:17:55.130",
-  "summary": "Vulnerability in the Siebel CRM End User product of Oracle Siebel CRM (component: UIF Open UI).  Supported versions that are affected are 17.0-26.9. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Siebel CRM End User.  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all Siebel CRM End User accessible data. CVSS 3.1 Base Score 7.5 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101463",
-   "cvss": 7.5,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "97d28e4c12849205bb25a9ec3fa7e3d8c67f3ffe"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101464 — Vulnerability in the Siebel CRM Deployment product of Oracle Siebel CRM (component: Server Infrastructure)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101464",
-  "published": "2026-10-20T22:17:55.240",
-  "summary": "Vulnerability in the Siebel CRM Deployment product of Oracle Siebel CRM (component: Server Infrastructure).  Supported versions that are affected are 17.0-26.9. Easily exploitable vulnerability allows low privileged attacker with logon to the infrastructure where Siebel CRM Deployment executes to compromise Siebel CRM Deployment.  Successful attacks of this vulnerability can result in  unauthorized creation, deletion or modification access to critical data or all Siebel CRM Deployment accessible data as well as  unauthorized access to critical data or complete access to all Siebel CRM Deployme",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101464",
-   "cvss": 7.1,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "e1ad67d2d78d4c2895d70d0c3892f26ad394f7a3"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101465 — Vulnerability in the Siebel CRM Deployment product of Oracle Siebel CRM (component: Server Infrastructure)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101465",
-  "published": "2026-10-20T22:17:55.357",
-  "summary": "Vulnerability in the Siebel CRM Deployment product of Oracle Siebel CRM (component: Server Infrastructure).  Supported versions that are affected are 17.0-26.9. Difficult to exploit vulnerability allows low privileged attacker with logon to the infrastructure where Siebel CRM Deployment executes to compromise Siebel CRM Deployment.  Successful attacks of this vulnerability can result in  unauthorized creation, deletion or modification access to critical data or all Siebel CRM Deployment accessible data as well as  unauthorized access to critical data or complete access to all Siebel CRM Deploy",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101465",
-   "cvss": 6.3,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "904fd5ad012032a79be603d4f681cb5cc1ea3cd7"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101466 — Vulnerability in the Oracle EDI Gateway product of Oracle E-Business Suite (component: All Miscellaneous EDI Issues)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101466",
-  "published": "2026-10-20T22:17:55.473",
-  "summary": "Vulnerability in the Oracle EDI Gateway product of Oracle E-Business Suite (component: All Miscellaneous EDI Issues).  Supported versions that are affected are 12.2.3-12.2.15. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle EDI Gateway.  Successful attacks of this vulnerability can result in takeover of Oracle EDI Gateway. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101466",
-   "cvss": 7.2,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "ab3ed80aa695c7d4649e469e98602c8bb3eddc48"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101467 — Vulnerability in the Siebel CRM End User product of Oracle Siebel CRM (component: Portal Framework)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101467",
-  "published": "2026-10-20T22:17:55.593",
-  "summary": "Vulnerability in the Siebel CRM End User product of Oracle Siebel CRM (component: Portal Framework).  Supported versions that are affected are 17.0-26.9. Difficult to exploit vulnerability allows unauthenticated attacker with network access via HTTPS to compromise Siebel CRM End User.  Successful attacks of this vulnerability can result in  unauthorized creation, deletion or modification access to critical data or all Siebel CRM End User accessible data as well as  unauthorized access to critical data or complete access to all Siebel CRM End User accessible data. CVSS 3.1 Base Score 7.4 (Confi",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101467",
-   "cvss": 7.4,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "c935f2699bd6358fed5904150e2c23e15340e656"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101468 — Vulnerability in the Siebel CRM Deployment product of Oracle Siebel CRM (component: Cloud Gateway)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101468",
-  "published": "2026-10-20T22:17:55.710",
-  "summary": "Vulnerability in the Siebel CRM Deployment product of Oracle Siebel CRM (component: Cloud Gateway).  Supported versions that are affected are 17.0-26.9. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Siebel CRM Deployment.  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all Siebel CRM Deployment accessible data. CVSS 3.1 Base Score 7.5 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101468",
-   "cvss": 7.5,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "6a805b0eacae80fed89a673968dc679bddaf3ba7"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101469 — Vulnerability in the Oracle Product Lifecycle Analytics product of Oracle Supply Chain (component: Installation Issues)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101469",
-  "published": "2026-10-20T22:17:55.820",
-  "summary": "Vulnerability in the Oracle Product Lifecycle Analytics product of Oracle Supply Chain (component: Installation Issues).   The supported version that is affected is 3.6.1. Difficult to exploit vulnerability allows low privileged attacker with network access via SQL to compromise Oracle Product Lifecycle Analytics.  Successful attacks of this vulnerability can result in takeover of Oracle Product Lifecycle Analytics. CVSS 3.1 Base Score 7.5 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101469",
-   "cvss": 7.5,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "8bb516d38476979c40735c776d55c5898f843302"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101470 — Vulnerability in the Oracle Product Lifecycle Analytics product of Oracle Supply Chain (component: Installation Issues)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101470",
-  "published": "2026-10-20T22:17:55.937",
-  "summary": "Vulnerability in the Oracle Product Lifecycle Analytics product of Oracle Supply Chain (component: Installation Issues).   The supported version that is affected is 3.6.1. Easily exploitable vulnerability allows high privileged attacker with logon to the infrastructure where Oracle Product Lifecycle Analytics executes to compromise Oracle Product Lifecycle Analytics.  Successful attacks of this vulnerability can result in  unauthorized creation, deletion or modification access to critical data or all Oracle Product Lifecycle Analytics accessible data as well as  unauthorized access to critical",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101470",
-   "cvss": 6.0,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "49ce5a3b736cc4c940e53556d0d6d921b0effd8b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101471 — Vulnerability in the Oracle Product Lifecycle Analytics product of Oracle Supply Chain (component: Installation Issues)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101471",
-  "published": "2026-10-20T22:17:56.050",
-  "summary": "Vulnerability in the Oracle Product Lifecycle Analytics product of Oracle Supply Chain (component: Installation Issues).   The supported version that is affected is 3.6.1. Easily exploitable vulnerability allows low privileged attacker with logon to the infrastructure where Oracle Product Lifecycle Analytics executes to compromise Oracle Product Lifecycle Analytics.  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all Oracle Product Lifecycle Analytics accessible data and unauthorized ability to cause a partial denial of servic",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101471",
-   "cvss": 6.1,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "68d1141e4f2adde59f2c2062526a1e60c2ab63e5"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101472 — Vulnerability in the Oracle Product Lifecycle Analytics product of Oracle Supply Chain (component: Installation Issues)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101472",
-  "published": "2026-10-20T22:17:56.163",
-  "summary": "Vulnerability in the Oracle Product Lifecycle Analytics product of Oracle Supply Chain (component: Installation Issues).   The supported version that is affected is 3.6.1. Easily exploitable vulnerability allows low privileged attacker with logon to the infrastructure where Oracle Product Lifecycle Analytics executes to compromise Oracle Product Lifecycle Analytics.  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all Oracle Product Lifecycle Analytics accessible data. CVSS 3.1 Base Score 5.5 (Confidentiality impacts).  CVSS Ve",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101472",
-   "cvss": 5.5,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "ddadbfe8af665c9575d055e6628d170aaaf980a7"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101473 — Vulnerability in the Oracle Agile Product Lifecycle Management for Process product of Oracle Supply Chain (component: Product Quality Management)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101473",
-  "published": "2026-10-20T22:17:56.273",
-  "summary": "Vulnerability in the Oracle Agile Product Lifecycle Management for Process product of Oracle Supply Chain (component: Product Quality Management).   The supported version that is affected is 6.2.4. Difficult to exploit vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Agile Product Lifecycle Management for Process.  Successful attacks of this vulnerability can result in takeover of Oracle Agile Product Lifecycle Management for Process. CVSS 3.1 Base Score 8.1 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:H/P",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101473",
-   "cvss": 8.1,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "c2d15c90dd73ffe84bb8f1e3552a4cdf734f428b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101474 — Vulnerability in the Oracle Agile Product Lifecycle Management for Process product of Oracle Supply Chain (component: Product Quality Management)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101474",
-  "published": "2026-10-20T22:17:56.390",
-  "summary": "Vulnerability in the Oracle Agile Product Lifecycle Management for Process product of Oracle Supply Chain (component: Product Quality Management).   The supported version that is affected is 6.2.4. Difficult to exploit vulnerability allows low privileged attacker with network access via HTTP to compromise Oracle Agile Product Lifecycle Management for Process.  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all Oracle Agile Product Lifecycle Management for Process accessible data and unauthorized ability to cause a partial deni",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101474",
-   "cvss": 5.9,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "048ce251e1d767c73be5cc63f65205db35107d2c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101475 — Vulnerability in the Primavera Unifier product of Oracle Construction and Engineering (component: Logging)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101475",
-  "published": "2026-10-20T22:17:56.503",
-  "summary": "Vulnerability in the Primavera Unifier product of Oracle Construction and Engineering (component: Logging).  Supported versions that are affected are 21.12.0-21.12.17, 22.12.0-22.12.15, 23.12.0-23.12.16, 24.12.0-24.12.16 and  25.12.0-25.12.9. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise Primavera Unifier.  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all Primavera Unifier accessible data. CVSS 3.1 Base Score 6.5 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/A",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101475",
-   "cvss": 6.5,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "2dd747ab0d10c2cd6f99ff5d9f65e5fc7585330f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101476 — Vulnerability in the Siebel Apps - Marketing product of Oracle Siebel CRM (component: Marketing)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101476",
-  "published": "2026-10-20T22:17:56.620",
-  "summary": "Vulnerability in the Siebel Apps - Marketing product of Oracle Siebel CRM (component: Marketing).  Supported versions that are affected are 17.0-26.9. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Siebel Apps - Marketing.  Successful attacks require human interaction from a person other than the attacker. Successful attacks of this vulnerability can result in  unauthorized update, insert or delete access to some of Siebel Apps - Marketing accessible data. CVSS 3.1 Base Score 4.3 (Integrity impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101476",
-   "cvss": 4.3,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "64f64f419ad01f91ead50d7f7057a8f587f919a7"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101477 — Vulnerability in Oracle Autonomous Health Framework (component: Trace File Analyzer)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101477",
-  "published": "2026-10-20T22:17:56.730",
-  "summary": "Vulnerability in Oracle Autonomous Health Framework (component: Trace File Analyzer).  Supported versions that are affected are 26.3-26.8. Easily exploitable vulnerability allows low privileged attacker with logon to the infrastructure where Oracle Autonomous Health Framework executes to compromise Oracle Autonomous Health Framework.  Successful attacks of this vulnerability can result in takeover of Oracle Autonomous Health Framework. CVSS 3.1 Base Score 7.8 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101477",
-   "cvss": 7.8,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "17c37953ac7d00ca4b389663ccb05a07bde72c78"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101478 — Vulnerability in Oracle Autonomous Health Framework (component: Trace File Analyzer)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101478",
-  "published": "2026-10-20T22:17:56.840",
-  "summary": "Vulnerability in Oracle Autonomous Health Framework (component: Trace File Analyzer).  Supported versions that are affected are 26.3-26.8. Easily exploitable vulnerability allows low privileged attacker with logon to the infrastructure where Oracle Autonomous Health Framework executes to compromise Oracle Autonomous Health Framework.  Successful attacks of this vulnerability can result in takeover of Oracle Autonomous Health Framework. CVSS 3.1 Base Score 7.8 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101478",
-   "cvss": 7.8,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "3b35b1df7634a24c2e114e916ae0a79601d890fc"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101479 — Vulnerability in Oracle Secure Backup (component: Backup and Restore)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101479",
-  "published": "2026-10-20T22:17:56.950",
-  "summary": "Vulnerability in Oracle Secure Backup (component: Backup and Restore).  Supported versions that are affected are 19.1.0.0.0 and   19.1.0.1.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via TCP to compromise Oracle Secure Backup.  While the vulnerability is in Oracle Secure Backup, attacks may significantly impact additional products (scope change).  Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of Oracle Secure Backup. CVSS 3.1 Base Score 8.6 (Availability impac",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101479",
-   "cvss": 8.6,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "72509cf69c0c7a9b9a70005239659080e70e0da9"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101480 — Vulnerability in Oracle Secure Backup (component: NDMP daemon)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101480",
-  "published": "2026-10-20T22:17:57.063",
-  "summary": "Vulnerability in Oracle Secure Backup (component: NDMP daemon).  Supported versions that are affected are 19.1.0.0.0 and   19.1.0.1.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via TCP to compromise Oracle Secure Backup.  Successful attacks of this vulnerability can result in  unauthorized read access to a subset of Oracle Secure Backup accessible data. CVSS 3.1 Base Score 5.3 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101480",
-   "cvss": 5.3,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "c99a2b862cf9624d1f7615ce3d465fa1c233c9d7"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101481 — Vulnerability in Oracle Secure Backup (component: Device Management and Support)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101481",
-  "published": "2026-10-20T22:17:57.170",
-  "summary": "Vulnerability in Oracle Secure Backup (component: Device Management and Support).  Supported versions that are affected are 19.1.0.0.0 and   19.1.0.1.0. Easily exploitable vulnerability allows low privileged attacker with logon to the infrastructure where Oracle Secure Backup executes to compromise Oracle Secure Backup.  While the vulnerability is in Oracle Secure Backup, attacks may significantly impact additional products (scope change).  Successful attacks of this vulnerability can result in takeover of Oracle Secure Backup. CVSS 3.1 Base Score 8.8 (Confidentiality, Integrity and Availabili",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101481",
-   "cvss": 8.8,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "af8619ee174e86257fa4fb5edcfdfdf81826ad4a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101482 — Vulnerability in Oracle Secure Backup (component: Device Management and Support)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101482",
-  "published": "2026-10-20T22:17:57.283",
-  "summary": "Vulnerability in Oracle Secure Backup (component: Device Management and Support).  Supported versions that are affected are 19.1.0.0.0 and   19.1.0.1.0. Easily exploitable vulnerability allows low privileged attacker with logon to the infrastructure where Oracle Secure Backup executes to compromise Oracle Secure Backup.  Successful attacks of this vulnerability can result in takeover of Oracle Secure Backup. CVSS 3.1 Base Score 7.8 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101482",
-   "cvss": 7.8,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "01623461f3d2595799061ca85500806430fe84e4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101483 — Vulnerability in Oracle Secure Backup (component: Device Management and Support)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101483",
-  "published": "2026-10-20T22:17:57.393",
-  "summary": "Vulnerability in Oracle Secure Backup (component: Device Management and Support).  Supported versions that are affected are 19.1.0.0.0 and   19.1.0.1.0. Easily exploitable vulnerability allows low privileged attacker with logon to the infrastructure where Oracle Secure Backup executes to compromise Oracle Secure Backup.  While the vulnerability is in Oracle Secure Backup, attacks may significantly impact additional products (scope change).  Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of Oracle Secure ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101483",
-   "cvss": 6.5,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "b9fd799a9eff0a23e867d99a8aa5eb3eca94b8eb"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101484 — Vulnerability in Oracle Secure Backup (component: Backup and Restore)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101484",
-  "published": "2026-10-20T22:17:57.507",
-  "summary": "Vulnerability in Oracle Secure Backup (component: Backup and Restore).  Supported versions that are affected are 19.1.0.0.0 and   19.1.0.1.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via TCP to compromise Oracle Secure Backup.  Successful attacks of this vulnerability can result in takeover of Oracle Secure Backup. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101484",
-   "cvss": 9.8,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "0657c37acd89cd7283806eccba3f858da413deb0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101485 — Vulnerability in Oracle Autonomous Health Framework (component: Trace File Analyzer)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101485",
-  "published": "2026-10-20T22:17:57.617",
-  "summary": "Vulnerability in Oracle Autonomous Health Framework (component: Trace File Analyzer).  Supported versions that are affected are 26.3-26.8. Easily exploitable vulnerability allows low privileged attacker with logon to the infrastructure where Oracle Autonomous Health Framework executes to compromise Oracle Autonomous Health Framework.  While the vulnerability is in Oracle Autonomous Health Framework, attacks may significantly impact additional products (scope change).  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all Oracle A",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101485",
-   "cvss": 6.5,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "8c1946dc2d13e529bd66d6ba041197f797266df1"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101486 — Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Fluid Core)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101486",
-  "published": "2026-10-20T22:17:57.737",
-  "summary": "Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Fluid Core).  Supported versions that are affected are 8.61-8.63. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise PeopleSoft Enterprise PeopleTools.  Successful attacks require human interaction from a person other than the attacker and while the vulnerability is in PeopleSoft Enterprise PeopleTools, attacks may significantly impact additional products (scope change). Successful attacks of this vulnerability can result in  unauthorized updat",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101486",
-   "cvss": 5.4,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "4d7a94a60185f8b2bb202791c430c2e35c7d27d5"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101487 — Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Portal)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101487",
-  "published": "2026-10-20T22:17:57.853",
-  "summary": "Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Portal).  Supported versions that are affected are 8.61-8.63. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise PeopleSoft Enterprise PeopleTools.  Successful attacks require human interaction from a person other than the attacker and while the vulnerability is in PeopleSoft Enterprise PeopleTools, attacks may significantly impact additional products (scope change). Successful attacks of this vulnerability can result in  unauthorized update, i",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101487",
-   "cvss": 5.4,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "25ab362d6c55913c88a681dd6fe137323ec95360"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101488 — Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Business Interlink)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101488",
-  "published": "2026-10-20T22:17:57.970",
-  "summary": "Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Business Interlink).  Supported versions that are affected are 8.61-8.63. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise PeopleSoft Enterprise PeopleTools.  Successful attacks of this vulnerability can result in  unauthorized read access to a subset of PeopleSoft Enterprise PeopleTools accessible data and unauthorized ability to cause a partial denial of service (partial DOS) of PeopleSoft Enterprise PeopleTools. CVSS 3.1 Base Score 6.5 (C",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101488",
-   "cvss": 6.5,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "3d18423ca06b8099d9dc644355a845b8beaf6f23"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101489 — Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Portal)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101489",
-  "published": "2026-10-20T22:17:58.083",
-  "summary": "Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Portal).  Supported versions that are affected are 8.61-8.63. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise PeopleSoft Enterprise PeopleTools.  Successful attacks of this vulnerability can result in  unauthorized read access to a subset of PeopleSoft Enterprise PeopleTools accessible data. CVSS 3.1 Base Score 4.3 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:N/A:N).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101489",
-   "cvss": 4.3,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "4c2c60455a3fad606f84b1bda2c1b186ee208a2c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101490 — Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Fluid Core)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101490",
-  "published": "2026-10-20T22:17:58.193",
-  "summary": "Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Fluid Core).  Supported versions that are affected are 8.61-8.63. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise PeopleSoft Enterprise PeopleTools.  Successful attacks require human interaction from a person other than the attacker and while the vulnerability is in PeopleSoft Enterprise PeopleTools, attacks may significantly impact additional products (scope change). Successful attacks of this vulnerability can result in  unauthorized upda",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101490",
-   "cvss": 6.1,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "ddf4694d536b414c15e18150e5ddc3eefb6c8525"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101491 — Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Query)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101491",
-  "published": "2026-10-20T22:17:58.310",
-  "summary": "Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Query).  Supported versions that are affected are 8.61-8.63. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise PeopleSoft Enterprise PeopleTools.  While the vulnerability is in PeopleSoft Enterprise PeopleTools, attacks may significantly impact additional products (scope change).  Successful attacks of this vulnerability can result in  unauthorized read access to a subset of PeopleSoft Enterprise PeopleTools accessible data. CVSS 3.1 Base Scor",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101491",
-   "cvss": 5.0,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "0c928fb21f14c1e27abeaa28f62c1a24d591d894"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101492 — Vulnerability in the Siebel CRM Integration product of Oracle Siebel CRM (component: Open Integration)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101492",
-  "published": "2026-10-20T22:17:58.420",
-  "summary": "Vulnerability in the Siebel CRM Integration product of Oracle Siebel CRM (component: Open Integration).  Supported versions that are affected are 25.12-26.9. Difficult to exploit vulnerability allows unauthenticated attacker with network access via HTTP to compromise Siebel CRM Integration.  Successful attacks require human interaction from a person other than the attacker and while the vulnerability is in Siebel CRM Integration, attacks may significantly impact additional products (scope change). Successful attacks of this vulnerability can result in  unauthorized update, insert or delete acc",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101492",
-   "cvss": 4.7,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "d2174b6366f115c569ca0ae633f99a5a1ebf523b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101493 — Vulnerability in Oracle REST Data Services (component: Core)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101493",
-  "published": "2026-10-20T22:17:58.537",
-  "summary": "Vulnerability in Oracle REST Data Services (component: Core).  Supported versions that are affected are 24.2.0-26.2.1. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise Oracle REST Data Services.  Successful attacks of this vulnerability can result in  unauthorized update, insert or delete access to some of Oracle REST Data Services accessible data as well as  unauthorized read access to a subset of Oracle REST Data Services accessible data. CVSS 3.1 Base Score 5.4 (Confidentiality and Integrity impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101493",
-   "cvss": 5.4,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "64af097ff277a9159727993b96e32395b1a45bb9"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101494 — Vulnerability in Oracle REST Data Services (component: Core)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101494",
-  "published": "2026-10-20T22:17:58.650",
-  "summary": "Vulnerability in Oracle REST Data Services (component: Core).  Supported versions that are affected are 24.2.0-26.2.2. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise Oracle REST Data Services.  While the vulnerability is in Oracle REST Data Services, attacks may significantly impact additional products (scope change).  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all Oracle REST Data Services accessible data. CVSS 3.1 Base Score 7.7 (Confidentiality impacts).  CVSS ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101494",
-   "cvss": 7.7,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "f9d54f4bce8933fbf7c995899b3fa343702f2283"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101495 — Vulnerability in the Siebel CRM Development product of Oracle Siebel CRM (component: Siebel Approval Manager)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101495",
-  "published": "2026-10-20T22:17:58.760",
-  "summary": "Vulnerability in the Siebel CRM Development product of Oracle Siebel CRM (component: Siebel Approval Manager).  Supported versions that are affected are 17.0-26.9. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Siebel CRM Development.  Successful attacks require human interaction from a person other than the attacker. Successful attacks of this vulnerability can result in takeover of Siebel CRM Development. CVSS 3.1 Base Score 8.8 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101495",
-   "cvss": 8.8,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "eeb162c989e0884db7b4560cb5c1ae93b907c6d4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101497 — Vulnerability in the Oracle Identity Manager product of Oracle Fusion Middleware (component: Connector Framework)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101497",
-  "published": "2026-10-20T22:17:58.870",
-  "summary": "Vulnerability in the Oracle Identity Manager product of Oracle Fusion Middleware (component: Connector Framework).  Supported versions that are affected are 12.2.1.4.0 and  14.1.2.1.0. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise Oracle Identity Manager.  Successful attacks of this vulnerability can result in unauthorized ability to cause a partial denial of service (partial DOS) of Oracle Identity Manager. CVSS 3.1 Base Score 4.3 (Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:L).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101497",
-   "cvss": 4.3,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "be4db9794f121d8bf2c63f7773632b53cb0dcf04"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101498 — Vulnerability in Oracle Trusted Answer Search (component: PLSQL package)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101498",
-  "published": "2026-10-20T22:17:58.987",
-  "summary": "Vulnerability in Oracle Trusted Answer Search (component: PLSQL package).   The supported version that is affected is 26.1. Difficult to exploit vulnerability allows unauthenticated attacker with network access via Oracle Net to compromise Oracle Trusted Answer Search.  Successful attacks of this vulnerability can result in takeover of Oracle Trusted Answer Search. CVSS 3.1 Base Score 8.1 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101498",
-   "cvss": 8.1,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "93b9485e606c5a99908e43df0e2e8fd9d17513f2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101499 — Vulnerability in the Oracle WebCenter Sites product of Oracle Fusion Middleware (component: WebCenter Sites)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101499",
-  "published": "2026-10-20T22:17:59.093",
-  "summary": "Vulnerability in the Oracle WebCenter Sites product of Oracle Fusion Middleware (component: WebCenter Sites).  Supported versions that are affected are 12.2.1.4.0 and  14.1.2.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebCenter Sites.  Successful attacks of this vulnerability can result in takeover of Oracle WebCenter Sites. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101499",
-   "cvss": 9.8,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "85a0620507f3e9af08f140fde13ffae8e4af35b2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101500 — Vulnerability in the Oracle Global Lifecycle Management OPatchAuto product of Oracle Global Lifecycle Management (component: Database extensions)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101500",
-  "published": "2026-10-20T22:17:59.210",
-  "summary": "Vulnerability in the Oracle Global Lifecycle Management OPatchAuto product of Oracle Global Lifecycle Management (component: Database extensions).  Supported versions that are affected are 12.2.0.1.16-12.2.0.1.52. Easily exploitable vulnerability allows high privileged attacker with logon to the infrastructure where Oracle Global Lifecycle Management OPatchAuto executes to compromise Oracle Global Lifecycle Management OPatchAuto.  Successful attacks require human interaction from a person other than the attacker. Successful attacks of this vulnerability can result in takeover of Oracle Global ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101500",
-   "cvss": 6.5,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "9ea0b5a6c8414eb1434ac714079addfcf8f99504"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101501 — Vulnerability in Oracle Trusted Answer Search (component: PLSQL package)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101501",
-  "published": "2026-10-20T22:17:59.323",
-  "summary": "Vulnerability in Oracle Trusted Answer Search (component: PLSQL package).   The supported version that is affected is 26.1. Easily exploitable vulnerability allows low privileged attacker with network access via Oracle Net to compromise Oracle Trusted Answer Search.  While the vulnerability is in Oracle Trusted Answer Search, attacks may significantly impact additional products (scope change).  Successful attacks of this vulnerability can result in  unauthorized creation, deletion or modification access to critical data or all Oracle Trusted Answer Search accessible data as well as  unauthoriz",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101501",
-   "cvss": 9.9,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "c2f131e652c3cbe0589583a44314d615673b7291"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101502 — Vulnerability in Oracle Trusted Answer Search (component: PLSQL package)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101502",
-  "published": "2026-10-20T22:17:59.440",
-  "summary": "Vulnerability in Oracle Trusted Answer Search (component: PLSQL package).   The supported version that is affected is 26.1. Difficult to exploit vulnerability allows low privileged attacker with logon to the infrastructure where Oracle Trusted Answer Search executes to compromise Oracle Trusted Answer Search.  Successful attacks require human interaction from a person other than the attacker and while the vulnerability is in Oracle Trusted Answer Search, attacks may significantly impact additional products (scope change). Successful attacks of this vulnerability can result in  unauthorized upd",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101502",
-   "cvss": 5.0,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "b5b9db607530c9eccdb8e475e89bce8a1f0978f7"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101503 — Vulnerability in Oracle Trusted Answer Search (component: PLSQL package)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101503",
-  "published": "2026-10-20T22:17:59.557",
-  "summary": "Vulnerability in Oracle Trusted Answer Search (component: PLSQL package).   The supported version that is affected is 26.1. Easily exploitable vulnerability allows low privileged attacker with network access via Oracle Net to compromise Oracle Trusted Answer Search.  While the vulnerability is in Oracle Trusted Answer Search, attacks may significantly impact additional products (scope change).  Successful attacks of this vulnerability can result in takeover of Oracle Trusted Answer Search. CVSS 3.1 Base Score 9.9 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101503",
-   "cvss": 9.9,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "2e6ab09797582335a248fbf2106c12ad23fcb1e4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101504 — Vulnerability in Oracle Trusted Answer Search (component: Application expert UI)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101504",
-  "published": "2026-10-20T22:17:59.670",
-  "summary": "Vulnerability in Oracle Trusted Answer Search (component: Application expert UI).   The supported version that is affected is 26.1. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise Oracle Trusted Answer Search.  Successful attacks require human interaction from a person other than the attacker and while the vulnerability is in Oracle Trusted Answer Search, attacks may significantly impact additional products (scope change). Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101504",
-   "cvss": 7.6,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "d4e3d2d39f07c789ace74a938ef769880960a86f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101505 — Vulnerability in Oracle Trusted Answer Search (component: Application expert UI)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101505",
-  "published": "2026-10-20T22:17:59.777",
-  "summary": "Vulnerability in Oracle Trusted Answer Search (component: Application expert UI).   The supported version that is affected is 26.1. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise Oracle Trusted Answer Search.  Successful attacks require human interaction from a person other than the attacker and while the vulnerability is in Oracle Trusted Answer Search, attacks may significantly impact additional products (scope change). Successful attacks of this vulnerability can result in  unauthorized creation, deletion or modification access to ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101505",
-   "cvss": 8.7,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "ec6270b2e5c5b695c31fbf82505dacc2651f6cdc"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101506 — Vulnerability in Oracle Trusted Answer Search (component: Application expert UI)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101506",
-  "published": "2026-10-20T22:17:59.890",
-  "summary": "Vulnerability in Oracle Trusted Answer Search (component: Application expert UI).   The supported version that is affected is 26.1. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise Oracle Trusted Answer Search.  While the vulnerability is in Oracle Trusted Answer Search, attacks may significantly impact additional products (scope change).  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all Oracle Trusted Answer Search accessible data. CVSS 3.1 Base Score 7.7 (Confidenti",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101506",
-   "cvss": 7.7,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "81038dcc37a4b24fafb6ae4d8d0287c50d8c1946"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101507 — Vulnerability in Oracle Trusted Answer Search (component: PLSQL package)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101507",
-  "published": "2026-10-20T22:18:00.007",
-  "summary": "Vulnerability in Oracle Trusted Answer Search (component: PLSQL package).   The supported version that is affected is 26.1. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise Oracle Trusted Answer Search.  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all Oracle Trusted Answer Search accessible data. CVSS 3.1 Base Score 6.5 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101507",
-   "cvss": 6.5,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "d374fb8592774114c7d795eee3c05275aebf13c8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101508 — Vulnerability in the Siebel CRM Integration product of Oracle Siebel CRM (component: EAI)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101508",
-  "published": "2026-10-20T22:18:00.120",
-  "summary": "Vulnerability in the Siebel CRM Integration product of Oracle Siebel CRM (component: EAI).  Supported versions that are affected are 17.0-26.9. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Siebel CRM Integration.  Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of Siebel CRM Integration. CVSS 3.1 Base Score 7.5 (Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101508",
-   "cvss": 7.5,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "87b3c4abafd2e2a3a46bb93f6066e62f943aa77d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101510 — Vulnerability in the Oracle Net Services component of Oracle Database Server",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101510",
-  "published": "2026-10-20T22:18:00.240",
-  "summary": "Vulnerability in the Oracle Net Services component of Oracle Database Server.  Supported versions that are affected are 19.3-19.32, 21.3-21.23 and  23.4.0-23.26.3. Easily exploitable vulnerability allows high privileged attacker having None privilege with logon to the infrastructure where Oracle Net Services executes to compromise Oracle Net Services.  Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of Oracle Net Services. CVSS 3.1 Base Score 4.4 (Availability impacts).  CVSS Vector: (CVSS:3.1/AV:L/AC:L/P",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101510",
-   "cvss": 4.4,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "906558a716c063a590f57ecd4620b42a494f3015"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101511 — Vulnerability in the Oracle Enterprise Manager Base Platform product of Oracle Enterprise Manager (component: Metadata Plugin)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101511",
-  "published": "2026-10-20T22:18:00.363",
-  "summary": "Vulnerability in the Oracle Enterprise Manager Base Platform product of Oracle Enterprise Manager (component: Metadata Plugin).  Supported versions that are affected are 13.5 and  24.1. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise Oracle Enterprise Manager Base Platform.  Successful attacks of this vulnerability can result in  unauthorized read access to a subset of Oracle Enterprise Manager Base Platform accessible data. CVSS 3.1 Base Score 4.3 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:N/A:N).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101511",
-   "cvss": 4.3,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "696df3cdf51b8ec80936769872597308bc1911c9"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101512 — Vulnerability in the RDBMS component of Oracle Database Server",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101512",
-  "published": "2026-10-20T22:18:00.480",
-  "summary": "Vulnerability in the RDBMS component of Oracle Database Server.  Supported versions that are affected are 23.4.0-23.26.3. Easily exploitable vulnerability allows low privileged attacker having None privilege with network access via HTTP to compromise RDBMS.  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all RDBMS accessible data. CVSS 3.1 Base Score 6.5 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101512",
-   "cvss": 6.5,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "b186b9d380fd4df5fec49254e669542f0203bb05"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101513 — Vulnerability in the MySQL Cluster product of Oracle MySQL (component: InnoDB)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101513",
-  "published": "2026-10-20T22:18:00.590",
-  "summary": "Vulnerability in the MySQL Cluster product of Oracle MySQL (component: InnoDB).  Supported versions that are affected are 8.0.0-8.0.37. Difficult to exploit vulnerability allows physical access to compromise MySQL Cluster.  Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Cluster. CVSS 3.1 Base Score 3.8 (Availability impacts).  CVSS Vector: (CVSS:3.1/AV:P/AC:H/PR:H/UI:N/S:U/C:N/I:N/A:H).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101513",
-   "cvss": 3.8,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "315715fb750f9c6c3617ba25024f6e96544d42f4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101515 — Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Centralized Thirdparty Jars)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101515",
-  "published": "2026-10-20T22:18:00.743",
-  "summary": "Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Centralized Thirdparty Jars).  Supported versions that are affected are 12.2.1.4.0, 14.1.1.0.0, 14.1.2.0.0 and  15.1.1.0.0. Difficult to exploit vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle WebLogic Server.  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all Oracle WebLogic Server accessible data. CVSS 3.1 Base Score 5.9 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:H/PR:N/",
-  "categories": [
-   "cloud",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101515",
-   "cvss": 5.9,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "b665b8e7cf02e42ba947f898bf5ddc3a57a180aa"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101516 — Vulnerability in the Oracle Java SE, Oracle GraalVM for JDK, Oracle GraalVM Enterprise Edition product of Oracle Java SE (component: Libraries)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101516",
-  "published": "2026-10-20T22:18:00.867",
-  "summary": "Vulnerability in the Oracle Java SE, Oracle GraalVM for JDK, Oracle GraalVM Enterprise Edition product of Oracle Java SE (component: Libraries).  Supported versions that are affected are Oracle Java SE: 8u503, 8u503-perf, 11.0.32.1, 17.0.20.1, 21.0.12.1, 25.0.4.1, 27; Oracle GraalVM for JDK: 17.0.20.1 and  21.0.12.1; Oracle GraalVM Enterprise Edition: 21.3.19.1.1. Easily exploitable vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise Oracle Java SE, Oracle GraalVM for JDK, Oracle GraalVM Enterprise Edition.  Successful attacks of this vulnerab",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101516",
-   "cvss": 6.5,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "d5b4e96c84f976da3834f961380d7bac4b4c87f1"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101517 — Vulnerability in the Oracle Utilities Network Management System product of Oracle Utilities Applications (component: System Wide)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101517",
-  "published": "2026-10-20T22:18:00.993",
-  "summary": "Vulnerability in the Oracle Utilities Network Management System product of Oracle Utilities Applications (component: System Wide).  Supported versions that are affected are 2.4.0.1.0-2.4.0.1.33, 2.5.0.1.0-2.5.0.1.18, 2.5.0.2.0-2.5.0.2.11, 2.6.0.1.0-2.6.0.1.12, 2.6.0.2.0-2.6.0.2.9 and  25.12.0.0.0-25.12.0.0.2. Easily exploitable vulnerability allows low privileged attacker with logon to the infrastructure where Oracle Utilities Network Management System executes to compromise Oracle Utilities Network Management System.  Successful attacks of this vulnerability can result in  unauthorized access",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101517",
-   "cvss": 5.5,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "eb52c441cf210f0653c675e5f7d54140a6375000"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101518 — Vulnerability in the Oracle Enterprise Manager Base Platform product of Oracle Enterprise Manager (component: Agent Next Gen)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101518",
-  "published": "2026-10-20T22:18:01.117",
-  "summary": "Vulnerability in the Oracle Enterprise Manager Base Platform product of Oracle Enterprise Manager (component: Agent Next Gen).  Supported versions that are affected are 13.5 and  24.1. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise Oracle Enterprise Manager Base Platform.  Successful attacks of this vulnerability can result in takeover of Oracle Enterprise Manager Base Platform. CVSS 3.1 Base Score 8.8 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101518",
-   "cvss": 8.8,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "dd524b257ca27b954352b90131589b39b5cee332"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101519 — Vulnerability in the Oracle EDI Gateway product of Oracle E-Business Suite (component: All Miscellaneous EDI Issues)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101519",
-  "published": "2026-10-20T22:18:01.240",
-  "summary": "Vulnerability in the Oracle EDI Gateway product of Oracle E-Business Suite (component: All Miscellaneous EDI Issues).  Supported versions that are affected are 12.2.3-12.2.15. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle EDI Gateway.  Successful attacks of this vulnerability can result in takeover of Oracle EDI Gateway. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101519",
-   "cvss": 7.2,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "33227cc33175414c1013b0894438e26c0aadcb5a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101520 — Vulnerability in the Oracle Global Lifecycle Management NextGen OUI Framework product of Oracle Fusion Middleware (component: NextGen Installer)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101520",
-  "published": "2026-10-20T22:18:01.353",
-  "summary": "Vulnerability in the Oracle Global Lifecycle Management NextGen OUI Framework product of Oracle Fusion Middleware (component: NextGen Installer).  Supported versions that are affected are 12.2.1.4.0, 14.1.1.0.0, 14.1.2.0.0, 14.1.2.1.0 and  15.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Global Lifecycle Management NextGen OUI Framework.  Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of Oracle Global Lifecycle Management NextG",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101520",
-   "cvss": 7.5,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "2f366c4158885f14cb71bfabf9522e51c0fa332e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101521 — Vulnerability in Oracle APEX (component: General)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101521",
-  "published": "2026-10-20T22:18:01.470",
-  "summary": "Vulnerability in Oracle APEX (component: General).  Supported versions that are affected are 24.1.0-24.1.21, 24.2.0-24.2.20 and  26.1.0-26.1.4. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTPS to compromise Oracle APEX.  Successful attacks of this vulnerability can result in takeover of Oracle APEX. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101521",
-   "cvss": 9.8,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "abdc875de61b29904611bbdf043060771225326b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101522 — Vulnerability in Oracle TimesTen In-Memory Database (component: TimesTen IMDB)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101522",
-  "published": "2026-10-20T22:18:01.590",
-  "summary": "Vulnerability in Oracle TimesTen In-Memory Database (component: TimesTen IMDB).  Supported versions that are affected are 22.1-22.1.1.43.0. Easily exploitable vulnerability allows low privileged attacker with logon to the infrastructure where Oracle TimesTen In-Memory Database executes to compromise Oracle TimesTen In-Memory Database.  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all Oracle TimesTen In-Memory Database accessible data. CVSS 3.1 Base Score 5.5 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:L/U",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101522",
-   "cvss": 5.5,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "8eba9eba09e7f983dd48d9f38db4a586f1c9f710"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101524 — Vulnerability in the Oracle Enterprise Manager Base Platform product of Oracle Enterprise Manager (component: Security Framework)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101524",
-  "published": "2026-10-20T22:18:01.713",
-  "summary": "Vulnerability in the Oracle Enterprise Manager Base Platform product of Oracle Enterprise Manager (component: Security Framework).  Supported versions that are affected are 13.5 and  24.1. Difficult to exploit vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Enterprise Manager Base Platform.  Successful attacks of this vulnerability can result in  unauthorized update, insert or delete access to some of Oracle Enterprise Manager Base Platform accessible data as well as  unauthorized read access to a subset of Oracle Enterprise Manager Base Platform",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101524",
-   "cvss": 5.6,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "db7dccb0ce73f260710c1c4f71716a25294774e8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101525 — Vulnerability in the Oracle Enterprise Manager for Siebel product of Oracle Enterprise Manager (component: Configuration Management)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101525",
-  "published": "2026-10-20T22:18:01.830",
-  "summary": "Vulnerability in the Oracle Enterprise Manager for Siebel product of Oracle Enterprise Manager (component: Configuration Management).  Supported versions that are affected are 13.5 and  24.1. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise Oracle Enterprise Manager for Siebel.  Successful attacks of this vulnerability can result in takeover of Oracle Enterprise Manager for Siebel. CVSS 3.1 Base Score 8.8 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101525",
-   "cvss": 8.8,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "93a6c93eced0ae47d5c7ed09fe1c7976ce80336f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101526 — Vulnerability in the Oracle Enterprise Manager for Siebel product of Oracle Enterprise Manager (component: Configuration Management)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101526",
-  "published": "2026-10-20T22:18:01.950",
-  "summary": "Vulnerability in the Oracle Enterprise Manager for Siebel product of Oracle Enterprise Manager (component: Configuration Management).  Supported versions that are affected are 13.5 and  24.1. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise Oracle Enterprise Manager for Siebel.  Successful attacks of this vulnerability can result in takeover of Oracle Enterprise Manager for Siebel. CVSS 3.1 Base Score 8.8 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101526",
-   "cvss": 8.8,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "b6079da0e6f0486376ee64771fa6fe46127a28ef"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101527 — Vulnerability in the Oracle Enterprise Manager Base Platform product of Oracle Enterprise Manager (component: Enterprise Manager Install)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101527",
-  "published": "2026-10-20T22:18:02.060",
-  "summary": "Vulnerability in the Oracle Enterprise Manager Base Platform product of Oracle Enterprise Manager (component: Enterprise Manager Install).  Supported versions that are affected are 13.5 and  24.1. Easily exploitable vulnerability allows low privileged attacker with logon to the infrastructure where Oracle Enterprise Manager Base Platform executes to compromise Oracle Enterprise Manager Base Platform.  Successful attacks of this vulnerability can result in takeover of Oracle Enterprise Manager Base Platform. CVSS 3.1 Base Score 7.8 (Confidentiality, Integrity and Availability impacts).  CVSS Ve",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101527",
-   "cvss": 7.8,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "2e97957de904611ce291b7428b0b7eaa8940fc24"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101528 — Vulnerability in the Oracle Enterprise Manager for Oracle Database product of Oracle Enterprise Manager (component: Data Guard Management)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101528",
-  "published": "2026-10-20T22:18:02.180",
-  "summary": "Vulnerability in the Oracle Enterprise Manager for Oracle Database product of Oracle Enterprise Manager (component: Data Guard Management).  Supported versions that are affected are 13.5 and  24.1. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise Oracle Enterprise Manager for Oracle Database.  While the vulnerability is in Oracle Enterprise Manager for Oracle Database, attacks may significantly impact additional products (scope change).  Successful attacks of this vulnerability can result in takeover of Oracle Enterprise Manager for Ora",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101528",
-   "cvss": 9.9,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "3cf80eae9eadda9045c0bad7d09d6f7f4bc27f98"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101529 — Vulnerability in the Oracle Enterprise Manager for Oracle Database product of Oracle Enterprise Manager (component: Data Guard Management)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101529",
-  "published": "2026-10-20T22:18:02.293",
-  "summary": "Vulnerability in the Oracle Enterprise Manager for Oracle Database product of Oracle Enterprise Manager (component: Data Guard Management).  Supported versions that are affected are 13.5 and  24.1. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise Oracle Enterprise Manager for Oracle Database.  While the vulnerability is in Oracle Enterprise Manager for Oracle Database, attacks may significantly impact additional products (scope change).  Successful attacks of this vulnerability can result in takeover of Oracle Enterprise Manager for Ora",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101529",
-   "cvss": 9.9,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "3d36d4c48810b9a170701ef706389687c41decc7"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101531 — Vulnerability in the Oracle Business Intelligence Enterprise Edition product of Oracle Analytics (component: Analytics Server)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101531",
-  "published": "2026-10-20T22:18:02.410",
-  "summary": "Vulnerability in the Oracle Business Intelligence Enterprise Edition product of Oracle Analytics (component: Analytics Server).  Supported versions that are affected are 8.2.0.0.0 and  26.01.0.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Oracle Business Intelligence Enterprise Edition.  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all Oracle Business Intelligence Enterprise Edition accessible data. CVSS 3.1 Base Score 7.5 (Confidentiality impacts).  CVSS Vec",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101531",
-   "cvss": 7.5,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "0d78180b335b23948588d0255793c41b40dabbcd"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101532 — Vulnerability in the Oracle EDI Gateway product of Oracle E-Business Suite (component: All Miscellaneous EDI Issues)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101532",
-  "published": "2026-10-20T22:18:02.527",
-  "summary": "Vulnerability in the Oracle EDI Gateway product of Oracle E-Business Suite (component: All Miscellaneous EDI Issues).  Supported versions that are affected are 12.2.3-12.2.15. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle EDI Gateway.  Successful attacks of this vulnerability can result in takeover of Oracle EDI Gateway. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101532",
-   "cvss": 7.2,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "ef0179ddd680d23b36f45f561d2532a3c2fee914"
  }
 ]
