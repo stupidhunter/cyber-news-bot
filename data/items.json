@@ -1,5 +1,77 @@
 [
  {
+  "source": "NVD",
+  "title": "CVE-2026-115969 — A flaw has been found in Travisun Opptrix 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115969",
+  "published": "2026-10-24T16:16:25.343",
+  "summary": "A flaw has been found in Travisun Opptrix 0.4.0. This affects an unknown function of the file /api/auth/setup of the component Schedule API. This manipulation causes command injection. It is possible to initiate the attack remotely. The exploit has been published and may be used. The project has been completely taken offline and deprecated. The project maintainer explains: \"The mentioned security risk was a design flaw that manifested primarily in local environments during earlier stages of version development. We previously addressed and resolved this specific risk; however, because the proje",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115969",
+   "cvss": 7.3,
+   "ref": "https://drive.google.com/drive/folders/1-ENuA8hKauFSTrn55IRYPQBeKwMV9xwR?usp=sharing"
+  },
+  "title_vi": "CVE-2026-115969 — Một lỗ hổng đã được tìm thấy trong Travisun Opptrix 0",
+  "key": "53d88e2c639d6955defdb01a9dd7f7305b32f8d7"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115970 — A vulnerability has been found in Travisun Opptrix 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115970",
+  "published": "2026-10-24T18:16:48.367",
+  "summary": "A vulnerability has been found in Travisun Opptrix 0.4.0. This impacts an unknown function of the file /api/system-update/import of the component Import Endpoint. Such manipulation leads to code injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The project has been completely taken offline and deprecated. The project maintainer explains: \"The mentioned security risk was a design flaw that manifested primarily in local environments during earlier stages of version development. We previously addressed and resolved this specific",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115970",
+   "cvss": 7.3,
+   "ref": "https://drive.google.com/drive/folders/1ni6zbp75v4803pGCG_GGZwEkA0CtaLjl?usp=sharing"
+  },
+  "title_vi": "CVE-2026-115970 — Một lỗ hổng đã được tìm thấy trong Travisun Opptrix 0",
+  "key": "b1cd318ce64c5819d05a37adc9b0225ba4bc1c9f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115971 — A vulnerability was found in Travisun Opptrix 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115971",
+  "published": "2026-10-24T18:16:48.550",
+  "summary": "A vulnerability was found in Travisun Opptrix 0.4.0. Affected is the function Buffer.concat of the file /api/channels/webhook/ of the component preParsing handler. Performing a manipulation results in denial of service. The attack can be initiated remotely. The exploit has been made public and could be used. The project has been completely taken offline and deprecated. The project maintainer explains: \"The mentioned security risk was a design flaw that manifested primarily in local environments during earlier stages of version development. We previously addressed and resolved this specific ris",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115971",
+   "cvss": 5.3,
+   "ref": "https://drive.google.com/drive/folders/1-crbh2joNwFbpXSQ4Iz1U0dSPy4ZTSf_?usp=sharing"
+  },
+  "title_vi": "CVE-2026-115971 — Một lỗ hổng đã được tìm thấy trong Travisun Opptrix 0",
+  "key": "854a1f018fc45aeab4bbeed7f8d83db37e00a1e3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115972 — A vulnerability was determined in FaveoSuite Faveo Helpdesk up to 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115972",
+  "published": "2026-10-24T18:16:48.730",
+  "summary": "A vulnerability was determined in FaveoSuite Faveo Helpdesk up to 2.0.3. Affected by this vulnerability is the function UnAuthController.changeStatus/UnAuthController.close/UnAuthController.open/UnAuthController.resolve of the file app/Http/Controllers/Client/helpdesk/UnAuthController.php. Executing a manipulation of the argument id/status can lead to missing authorization. The attack can be launched remotely. The vendor was contacted early about this disclosure.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115972",
+   "cvss": 5.3,
+   "ref": "https://vuldb.com/cve/CVE-2026-115972"
+  },
+  "title_vi": "CVE-2026-115972 — Một lỗ hổng đã được xác định trong FaveoSuite Faveo Helpdesk lên đến 2",
+  "key": "8c7dbbb9a69d6d3e2f09601b20dd0a5748c66540"
+ },
+ {
   "source": "VietnamPlus Kinh tế số",
   "title": "Lâm Đồng: Trâu xổng chuồng tấn công khiến 6 người bị thương",
   "link": "https://www.vietnamplus.vn/lam-dong-trau-xong-chuong-tan-cong-khien-6-nguoi-bi-thuong-post1144079.vnp",
@@ -7527,7 +7599,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/08e90633377f1b2567ab5ad6810b74c552246a07"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99008 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: Bluetooth: RFCOMM: Fix NULL tty_dev dereference in rfcomm_dev_shutdown syzbot hit",
   "key": "75c6846d117e65f19326b2cb298abfa818fcc67e"
  },
  {
@@ -7545,7 +7617,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/4dc3d5a004b8fd59f3c905631dbb18cb601b1b41"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99009 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: Bluetooth: RFCOMM: kết nối ổ cắm phiên mà không có rfcomm_mutex Một conne RFCOMM",
   "key": "668d2e82210b592104d703a3b30e1088cf2230fd"
  },
  {
@@ -7563,7 +7635,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/4f46de658ce61968aef5ea7ae809d1c180330544"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99010 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: Bluetooth: RFCOMM: giải phóng skb khi DLC không có chủ sở hữu rfcomm_recv_data() tay",
   "key": "eeb60722c83ca28511fd1fc1aa5a64f491877438"
  },
  {
@@ -7581,7 +7653,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/816fb1590a4c8cf8d05cd076057616be02e276f0"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99011 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: Bluetooth: SCO: serialise sco_conn lifetime against sco_recv_scodata() sco_recv_sc",
   "key": "1464b00c2ac753564d94e61f1daee6734ef9a4d8"
  },
  {
@@ -7599,7 +7671,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/1adcfe232c0f58890c2538211a841100ad0512bd"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99012 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: Bluetooth: ISO: Serialize concurrent connect calls iso_sock_connect() kiểm tra",
   "key": "24e16a64235f792055e145be1c924209982c9d46"
  },
  {
@@ -7617,7 +7689,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/555ff78fa719f50ff4cdbdb40aa1acc6e8e327d3"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99013 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: Bluetooth: ISO: Từ chối thiết lập trình nghe BIS đồng thời iso_sock_listen() bỏ dấu phẩy",
   "key": "34d96b8d69d0599cf48dc2b45623328036257aa7"
  },
  {
@@ -7635,7 +7707,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/119ba8070b3f112dd36c897f4f70ea5bb7d370b8"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99014 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: Bluetooth: hci_sync: Sửa lệnh skb lifetime trong quá trình thiết lập quét Trong quá trình đồng bộ PA sca",
   "key": "d75ea1b658a37c1ad84bfd2e343e6513cfbecd3e"
  },
  {
@@ -7653,7 +7725,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/37cef0c8fb537f40600910d2c2e5f2d5509305f3"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99015 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: Bluetooth: hci_sock: Serialize dead-device detachment Rebinding an HCI socket afte",
   "key": "1d471987eb95c115fb84b1365396d69ad008fc4f"
  },
  {
@@ -7671,7 +7743,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/2e5c80bbc062a8dda33e687ebf7be8f074ee4f7d"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99016 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: riscv: futex: bỏ gắn thẻ con trỏ người dùng trước khi truy cập truy cập nguyên tử access_ok() kiểm tra u",
   "key": "52852a74e43eda13f86c0f6d650e74e9c84d5536"
  },
  {
@@ -7689,7 +7761,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/298510bbc7c3017c0faf481c6ea66f1065b657b4"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99017 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: riscv: errata: select RISCV_ALTERNATIVE_EARLY cho THEAD GHOSTWRITE errata_Probe_gh",
   "key": "44a69874979bf7572c6c79773ebc31b2f5a80579"
  },
  {
@@ -7707,7 +7779,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/37b4401ee6fa06046446d55e97e8d11784080843"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99018 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: riscv: entry: gate shadow call stack reload trên sstatus",
   "key": "c01fd8590a4ca7ad632fe2b8ef63511a99f585d7"
  },
  {
@@ -7725,7 +7797,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/1d35a17f1c2ed4154731895694a1a3557f0da766"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99019 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: scsi: ch: Không giữ tham chiếu đến các thiết bị phần tử truyền dữ liệu ch_readconfig()",
   "key": "03d47f5bbdb638c44c3ef2a77aa4b3d335f9acc4"
  },
  {
@@ -7743,7 +7815,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/1ea151615a82fd94f25e38b2cc7eeac49112508b"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99020 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: regulator: tps6594-regulator: Fix n_linear_ranges for TPS65224 BUCK2-4 TPS6522",
   "key": "ae4d4fa05027b03fc67e71d6a57fb1d5f110d395"
  },
  {
@@ -7761,7 +7833,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/82ac8c4939bdbd064b4f54a580fbe4baf0d60e41"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99021 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: regulator: of: điền tên cung cấp trong of_regulator_bulk_get_all() of_regulator_bu",
   "key": "de073a0fa79dc221948582976ce36db67f422ff7"
  },
  {
@@ -7779,7 +7851,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/199a62d70314d21f06a9a6faaa3ef54d0404910c"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99022 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: regulator: ltc3676: không đọc các thanh ghi HRST và CLIRQ chỉ ghi HRST (0x1e)",
   "key": "6ad2a1ec75a380bd24090c182e86c8ca857b4969"
  },
  {
@@ -7798,7 +7870,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0d6c5794fd633427f0d4ad8b51d94061295649da"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99023 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: power: sequencing: pcie-m2: Khắc phục mảng rò rỉ từ of_regulator_bulk_get_all() của_",
   "key": "bfdf63a6926bad6efe6a2bdfc96808bd21b72a0e"
  },
  {
@@ -7816,7 +7888,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/262062c01f5a817104c88bf6eacb7c6ffdc7018d"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99024 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: optee: register TEE devices only once fully initialized optee_probe() called TEE_D",
   "key": "73f11b8f37cecf4570286b6c467a84e6db19a5d6"
  },
  {
@@ -7834,7 +7906,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/55f12552b00a34ca7ab5cf2d2b5ed02f8f06a965"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99025 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: openvswitch: fix soft lockup in the netlink flow dump A production compute node ca",
   "key": "186b9b7358deab8cc1bb5b6a8c0afd97f592d455"
  },
  {
@@ -7852,7 +7924,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/489114c9ecae44e523361a4b3e610ee5ebd9189c"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99026 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net: team: free skb khi phát sóng không có cổng txable bc_transmit() gửi orig",
   "key": "32672725e63b86284d707220fed4688ef8c379f4"
  },
  {
@@ -7870,7 +7942,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/07a48cfceb3d0555710a9acb87c949500a7b4523"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99027 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net: team: dừng sử dụng lại skb sau khi ghi đè hàng đợi Kết quả dev_queue_xmit() khác 0",
   "key": "9a9cfded682192e74e334f213bfc157a63d69de6"
  },
  {
@@ -7889,7 +7961,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/079396129da5e7cb40ca0920aa1b9525bef6097c"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99028 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net: xilinx: axienet: Bộ đệm DMA nổi bật miễn phí trên dmaengine stop Trong dmaeng",
   "key": "473ee10b92dca4dee5d546baa06858296e5c7ef6"
  },
  {
@@ -7909,7 +7981,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/2b82e16d6084cbc651e3c902198f1945408ee1a5"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99029 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net: sparx5: giải phóng mục nhập matchall trên destroy sparx5_tc_matchall_replace() alloc",
   "key": "f87eab98dcd50daae6de3a4417b355c2d56c4420"
  },
  {
@@ -7927,7 +7999,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/39d1a6b601831237c6038b5e3ac8dbb883c1700a"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99030 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: net: skbuff: không để các byte cũ trong skb_copy_and_csum_bits() Khi skb_copy_and",
   "key": "4dbd1569234f7c24706d6255f2c020f5f2f0f540"
  },
  {
@@ -7945,7 +8017,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/2fb87c6025f90191516bee3ce14b42eb3e1cfed7"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99031 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: net: bridge: avoid recursive multicast port cleanup br_multicast_sg_del_exclude_po",
   "key": "049e432bd1699621d2191882eca2c6c1fefa094c"
  },
  {
@@ -7963,7 +8035,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/1512e3714b3946bda75a160a34f22a51710daa43"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99032 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: net/smc: protect clcsock lifetime in smc_getname smc_getname() dereferences smc->c",
   "key": "85ee86ff9ecfa1c11f62b6251d6d65e4107b8d2a"
  },
  {
@@ -7981,7 +8053,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/00fbf71e74115f7628fc0880b855434b1e70c40c"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99033 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net/packet: guard the ll header push in packet_rcv_spkt() packet_rcv_spkt() restor",
   "key": "ba6e14abb457db731156d5f1641b83a81080b2a6"
  },
  {
@@ -7999,7 +8071,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/03244b8713d044425db5dbee08037ecd79b684f9"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99034 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: mmc: sdhci-sprd: vô hiệu hóa PM thời gian chạy trên remove sdhci_sprd_probe() cho phép thời gian chạy P",
   "key": "10f803d96b8d68fe79a971aa313e21a086abc3da"
  },
  {
@@ -8017,7 +8089,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/46e75703ca3f00fb8c935b3ce35b90836e34e8af"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99035 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: mmc: mtk-sd: Hủy yêu cầu hết thời gian chờ khi xóa Hàng đợi trình điều khiển req_timeout w",
   "key": "49d8c8c0ea17d4ba16a1f7718957c0541d02bf59"
  },
  {
@@ -8035,7 +8107,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/281f68d6cf8acb2547ebf0a849b8beae8fb0ec3c"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99036 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: dm: sửa lỗi đọc bộ nhớ trống trong do_resume Khi do_resume gọi dm_table_get_mode(ne",
   "key": "6e6cffcd6f99cb0790006ef1580bcba4aeb1c69e"
  },
  {
@@ -8053,7 +8125,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/3195e0daf590683992edb4eed32269e569e04924"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99037 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: dm-crypt: từ chối chế độ lmk IV với mật mã AEAD Dòng bảng A \"capi:\" ghép nối",
   "key": "62ba0e3833f6d749afe7289a03c2b00d390fc5fe"
  },
  {
@@ -8071,7 +8143,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/5616da0f92339328fa1472876df51555e15ad340"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99038 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: memstick: rtsx_usb_ms: hoàn thành các yêu cầu sau khi đẩy ra thay vì thả chúng mems",
   "key": "c7fce96c39f3921e618e2e8158ab7a0f0c90947d"
  },
  {
@@ -8089,7 +8161,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/3af81770e2011c6ac7bb597a4af2e4f3591f928c"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99039 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: memstick: core: wait for request completion before freeing card In memstick_alloc_",
   "key": "2c19de83f214ef91a3527fdf1fe8456e13c2cc9a"
  },
  {
@@ -8107,7 +8179,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/11516a0c402a6c1fa52254aa70d8d65fb921e59e"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99040 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: các PHÍM: Fix add_key() race with keyring restriction __key_create_or_update() snapsho",
   "key": "5f906f8a1ab61706cab0fa5dc96000217e502da6"
  },
  {
@@ -8125,7 +8197,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/2d06cb25a497d3a7034ef9d172626c2d6620a0f1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99041 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: ip6_gre: remove obsolete ERSPAN PMTU update A tc tunnel_key can attach a ME",
   "key": "003b2e65158a487bfca8932492982c84be42f81f"
  },
  {
@@ -8143,7 +8215,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/596a955d2d01b7e29d9fed60ebcf7c4ba518b8e5"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99042 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: io_uring/net: điền các trường bộ lọc KẾT NỐI cho 24 byte sockaddr_in6 io_connect_b",
   "key": "8669c0313ae1eb1fd92fb03469b8ad001e9f1e81"
  },
  {
@@ -8161,7 +8233,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/1f263235651775f93c15d90c9f25c3f4a4ef6512"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99043 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: Ice: fix metadata_dst xử lý đếm lại trên representor teardown Ice_eswitch_releas",
   "key": "dfb71d81282c8e393320b4144997980093a4c7d4"
  },
  {
@@ -8179,7 +8251,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/1402fc67d2f4e2e1fc7bf8ee0825b8ad994557ff"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99044 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: Ice: fix use-after-free trong dynamic port cleanup Ice_dealloc_dynamic_port() sử dụng dy",
   "key": "7b4687d09d3ada48b4b1e5a71ccf8db63d3f6562"
  },
  {
@@ -8197,7 +8269,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/a065bd31ec462f6f9c267026b708dd020f122723"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99045 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: ibmveth: h_free logical lan on open-fail after register ibmveth_open() registers t",
   "key": "aa1be077c622890250ff29d2b027958928196e94"
  },
  {
@@ -8217,7 +8289,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/06656aaa7e43ae62b673c2244d27099b8b94a70d"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99046 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: gve: fix XSK buffer leak on error descriptor Khi bit lỗi được đặt trong RX c",
   "key": "29b020c6285b6e67d3daddcfc9ff02258a3f48be"
  },
  {
@@ -8236,7 +8308,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/506f9de069d07a72b9887ce3edd2fdf32f4953aa"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99047 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: gve: fix XSK buffer leak when rings are stopped GVE does not free XSK buffers when",
   "key": "8001febfcc14782fac50330c8a953eb4ad16fd7f"
  },
  {
@@ -8254,7 +8326,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0cb6939a4dfefa822007b7a71986e06bc4f61f54"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99048 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: gve: fix napi_disable deadlock khi cố gắng vô hiệu hóa các nhóm XSK Khi vô hiệu hóa",
   "key": "12b930c792a6dbd88fadd79c640be17ee4549d29"
  },
  {
@@ -8273,7 +8345,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/2fd6ecda5d1f47cffcfadddb35ee49402162c724"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99049 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: gpio: xilinx: fix runtime PM leak on request error path pm_runtime_get_sync() leav",
   "key": "55fa71aaf9040d149b333141e63fc1c324bfbe5e"
  },
  {
@@ -8291,7 +8363,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/76390ac0bca7e5058b7482eb4d951c3bda5df812"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99050 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: gpio: mpsse: fix race khi trang bị vũ khí cho nhân viên phòng phiếu IRQ gpio_mpsse_irq_enable() arms",
   "key": "d5a862247b0174daa1471274b5326c156afcb234"
  },
  {
@@ -8309,7 +8381,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/e58c3805ed325fe2d4ae2dd467c0486cc860b733"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99051 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: fsverity: RCU - trì hoãn việc giải phóng struct fsverity_info __ fsverity_get_info() call",
   "key": "9198cf5618df2c130d443ff53045749007144a71"
  },
  {
@@ -8327,7 +8399,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/28b7260548af3d35773477993ad4e4de41578dd7"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99052 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: selinux: preserve NATIVE_LABELS trên sb đã được khởi tạo trong set_mnt_opts Khi một",
   "key": "1a6e978367eddca4974336fc2cc99b403053fa73"
  },
  {
@@ -8345,7 +8417,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/1428c5f1d346a2e1ac9156713975a72246957009"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99053 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: tipc: giữ tham chiếu đến các nút được tìm thấy bởi tên liên kết tipc_node_find_by_name() return",
   "key": "5cd74c96f59a7a7cbcba75d578822236fd623a56"
  },
  {
@@ -8363,7 +8435,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0af8780bdfdfc91fb9127bddb9c48fab67dc9d9e"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99054 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: tipc: phá hủy các công việc topsrv trước khi đóng kết nối tipc_topsrv_stop() clos",
   "key": "8c02940997c94e8ab4ac124a1f0394d1da6945c7"
  },
  {
@@ -8381,7 +8453,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/1c7463ac0e99cc91c4eecc1b69a740ef1a619932"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99055 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: tcp: reject net_iov trong zerocopy nhận gợi ý ánh xạ Sau khi sao chép một pre có thể đọc được",
   "key": "5d6d5ee375ed095c825307c6695ef0aebfe8278c"
  },
  {
@@ -8399,7 +8471,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0984ebc631792acf8fff105112ee74a6b8f1efcc"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99056 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: strparser: đảm bảo __strp_recv không chạy trước khi xé trình phân tích cú pháp",
   "key": "61ead591e9bd98ed3a38d2cf7aaa028049b8e0cc"
  },
  {
@@ -8418,7 +8490,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/086944c1c2cbb683543bc3ff08637847b03c8009"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99057 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: xen/netfront: không làm rò rỉ skb khi xennet_fill_frags() không thành công Khi phản hồi ch",
   "key": "8fe395f452ac439b100a54bdae93f96045d6cd15"
  },
  {
@@ -8436,7 +8508,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/1a2668682e998039a027796b236319b380078a6a"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99058 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: workqueue: Fix NULL CURRENT_pwq deref trong chuỗi work check CURRENT_wq_worker() trên",
   "key": "13959e65021c6a9950d5fab833f97ac08709b0f5"
  },
  {
@@ -8454,7 +8526,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/3bec3d32c2a3afd164fc87f95457df2cf9049c20"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99059 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: wireguard: noise: reject response consumption after intermediate initiation",
   "key": "5407e7f4b325d09f808267ae141b78c88590b6c6"
  },
  {
@@ -8472,7 +8544,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/19d6fa087dcf242223645828b8282d4040bad168"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99060 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: wifi: mt76: mt7603: khởi tạo trạm toàn cầu WCID mt7603 sử dụng gl driver-private",
   "key": "dbf18ddd4b9fc2ca5007f923b5396a1783e5e816"
  },
  {
@@ -8490,7 +8562,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/08a3f02fea636e97a7422d1512f76dacdb5b0887"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99061 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: wifi: brcmfmac: fix P2P device removal race in brcmf_detach() Khi trình điều khiển r",
   "key": "821a9494ace563e459bf0403137cc9186f1f4c40"
  },
  {
@@ -8508,7 +8580,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/38bad3930b1185dd6c98db3dd342ddc123c6f3ef"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99062 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: vsock/virtio: account only unread bytes in read_skb() After a partial stream recei",
   "key": "e70c78839d244a22abf05c38cbb2ddd878a9969d"
  },
  {
@@ -8526,7 +8598,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/5680b6fb3054677d4ee65d3baba24b649f1b430e"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-99063 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: dm ioctl: không để data_start chạy qua bộ đệm struct dm_ioctl có 7 byte",
   "key": "47333a789977142203c9392f6c3d7b8dfb29b5bf"
  },
  {
@@ -73959,77 +74031,5 @@
   },
   "title_vi": "",
   "key": "72562093029ca66c45af12d902ba93465b7eb8a8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-9660 — Multiple exploitable stack-based buffer overflow vulnerabilities exist in the boa formFilter functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-9660",
-  "published": "2026-10-20T21:17:22.613",
-  "summary": "Multiple exploitable stack-based buffer overflow vulnerabilities exist in the boa formFilter functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1.0.0-B20250421.1327). A specially crafted HTTP request can lead to arbitrary code execution. An attacker can make an authenticated HTTP request to trigger these vulnerabilities. This vulnerability deals with the vpnPassword parameter.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-9660",
-   "cvss": 9.1,
-   "ref": "https://talosintelligence.com/vulnerability_reports/TALOS-2026-2425"
-  },
-  "title_vi": "",
-  "key": "b3a56408508fb785e4c56ecb3317492883c6804a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-9814 — An OS command injection vulnerability exists in the boa formWizard newPass functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-9814",
-  "published": "2026-10-20T21:17:22.773",
-  "summary": "An OS command injection vulnerability exists in the boa formWizard newPass functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1.0.0-B20250421.1327). A specially crafted HTTP request can lead to arbitrary code execution. An attacker can make an authenticated HTTP request to trigger this vulnerability.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-9814",
-   "cvss": 9.1,
-   "ref": "https://talosintelligence.com/vulnerability_reports/TALOS-2026-2428"
-  },
-  "title_vi": "",
-  "key": "74bb8c4b3a3073d7842da975a27cadf2e5095f73"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-9817 — A stack-based buffer overflow vulnerability exists in the boa formUploadFile functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-9817",
-  "published": "2026-10-20T21:17:22.900",
-  "summary": "A stack-based buffer overflow vulnerability exists in the boa formUploadFile functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1.0.0-B20250421.1327). A specially crafted HTTP request can lead to arbitrary code execution. An attacker can make an authenticated HTTP request to trigger this vulnerability.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-9817",
-   "cvss": 9.1,
-   "ref": "https://talosintelligence.com/vulnerability_reports/TALOS-2026-2429"
-  },
-  "title_vi": "",
-  "key": "6f73e98973701bc23a31481f1a365d85d8e2e308"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-9827 — A arbitrary file write vulnerability exists in the boa formUploadFile functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-9827",
-  "published": "2026-10-20T21:17:23.020",
-  "summary": "A arbitrary file write vulnerability exists in the boa formUploadFile functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1.0.0-B20250421.1327). A specially crafted HTTP request can lead to arbitrary code execution. An attacker can make an authenticated HTTP request to trigger this vulnerability.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-9827",
-   "cvss": 9.1,
-   "ref": "https://talosintelligence.com/vulnerability_reports/TALOS-2026-2430"
-  },
-  "title_vi": "",
-  "key": "7c4f32776794d87bfb369235ccaebd1d2ec07329"
  }
 ]
