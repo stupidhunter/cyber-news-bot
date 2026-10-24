@@ -1,6 +1,728 @@
 [
  {
   "source": "VietnamPlus Kinh tế số",
+  "title": "Bank of America: Thị trường trung tâm dữ liệu sẽ vượt 2.000 tỷ USD vào năm 2028",
+  "link": "https://www.vietnamplus.vn/bank-of-america-thi-truong-trung-tam-du-lieu-se-vuot-2000-ty-usd-vao-nam-2028-post1144016.vnp",
+  "published": "2026-10-24T08:31:24+00:00",
+  "summary": "BofA dự báo chi tiêu cho trung tâm dữ liệu toàn cầu đạt 2.100 tỷ USD vào năm 2028, khi nhu cầu AI thúc đẩy đầu tư vào máy chủ, chip và hạ tầng phụ trợ. Meta gặp rắc rối với khoản miễn giảm thuế dành cho trung tâm dữ liệu AI Siêu dự án trung tâm dữ liệu của Google tại Ấn Độ vấp làn sóng phản đối Amazon sẽ đầu tư 1 tỷ USD cho các địa phương đặt trung tâm dữ liệu tại Mỹ",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "d7cce43a731f79a1fead9d59dc144e19dc8ef47a"
+ },
+ {
+  "source": "Thanh Niên Công nghệ",
+  "title": "Hạ tầng năng lượng số trước &aacute;p lực an ninh mạng v&agrave; y&ecirc;u cầu chuyển đổi xanh",
+  "link": "https://thanhnien.vn/ha-tang-nang-luong-so-truoc-ap-luc-an-ninh-mang-va-yeu-cau-chuyen-doi-xanh-185261023211651126.htm",
+  "published": "2026-10-24T06:06:00+00:00",
+  "summary": "Khi hệ thống năng lượng phụ thuộc v&agrave;o dữ liệu v&agrave; c&ocirc;ng nghệ điều khiển tự động, an ninh mạng kh&ocirc;ng c&ograve;n l&agrave; b&agrave;i to&aacute;n của khối IT m&agrave; trở th&agrave;nh điều kiện ti&ecirc;n quyết để bảo đảm vận h&agrave;nh li&ecirc;n tục cho hạ tầng quốc gia.",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "0403bba08b09c7ff56387843ae73718d0f12ed8f"
+ },
+ {
+  "source": "GenK",
+  "title": "Luvi GEO giúp doanh nghiệp Việt không “biến mất” khi người dùng chuyển sang hỏi AI",
+  "link": "https://genk.vn/luvi-geo-giup-doanh-nghiep-viet-khong-bien-mat-khi-nguoi-dung-chuyen-sang-hoi-ai-165261024113554226.chn",
+  "published": "2026-10-24T08:37:07.751683+00:00",
+  "summary": "Khi ngày càng nhiều người hỏi trực tiếp ChatGPT, Gemini hay Google AI Overviews thay vì lướt qua danh sách link, việc thương hiệu có được AI nhắc tên hay không đang trở thành bài toán mới của doanh nghiệp. VCCorp vừa giới thiệu Luvi GEO, giải pháp giúp theo dõi, phân tích và cải thiện mức độ hiện diện đó, với thuật toán được huấn luyện riêng cho ngữ cảnh tiếng Việt.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "d46bd1c488c99591a4b14925f733f363d663cd98"
+ },
+ {
+  "source": "VnExpress Số hóa",
+  "title": "Sam Altman: Giới toán học chuyển từ tuyệt vọng sang chấp nhận AI",
+  "link": "https://vnexpress.net/sam-altman-gioi-toan-hoc-chuyen-tu-tuyet-vong-sang-chap-nhan-ai-5136180.html",
+  "published": "2026-10-24T08:00:00+00:00",
+  "summary": "Sam Altman, CEO OpenAI, tin rằng các nhà toán học đang đón nhận AI với thái độ tích cực hơn dù công nghệ này gây nhiều tranh cãi.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "a6a86777c9aab6baa1b3ebd171e7015f1503469b"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+  "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+  "published": "2026-10-24T06:25:57+00:00",
+  "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild. The critical-severity vulnerabilities are listed below - CVE-2026-110447 (CVSS score: 9.2) - An operating",
+  "categories": [
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "CISA gắn cờ hai lỗ hổng nghiêm trọng được khai thác tích cực trong Collabora Online và Arista VeloCloud",
+  "key": "bf34b5eb6312f9e12d76a5f1daf4e9fee75a3c2a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115806 — The Prime Mover – Backup and Migration plugin for WordPress is vulnerable to PHP Object Injection in all versions up to, and including, 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115806",
+  "published": "2026-10-24T05:17:04.900",
+  "summary": "The Prime Mover – Backup and Migration plugin for WordPress is vulnerable to PHP Object Injection in all versions up to, and including, 2.2.1 via deserialization of untrusted input in the migration search-and-replace routine (recursiveUnserializeReplace()). An unauthenticated attacker can store a crafted, base64-encoded serialized object in wp_comments.comment_content through the standard comment-submission endpoint (wp-comments-post.php). When an administrator subsequently performs a routine Prime Mover export or restore, the plugin base64-decodes that stored value and passes it to unserializ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115806",
+   "cvss": 9.8,
+   "ref": "https://plugins.trac.wordpress.org/browser/prime-mover/tags/2.2.1/utilities/PrimeMoverSearchReplace.php#L1281"
+  },
+  "title_vi": "CVE-2026-115806 — Plugin Prime Mover – Sao lưu và di chuyển cho WordPress dễ bị tấn công bởi PHP Object Inserting ở tất cả các phiên bản lên đến và bao gồm cả 2",
+  "key": "d926b95fe2364476e861bcd54f094a4ca04493b0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115807 — The User Profile Builder – Beautiful User Registration Forms, User Profiles & User Role Editor plugin for WordPress is vulnerable to Limited Privilege",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115807",
+  "published": "2026-10-24T05:17:06.500",
+  "summary": "The User Profile Builder – Beautiful User Registration Forms, User Profiles & User Role Editor plugin for WordPress is vulnerable to Limited Privilege Escalation in all versions up to, and including, 4.0.3. This is due to the Gutenberg Register block passing the attacker-controlled Assigned Role attribute directly into the `[wppb-register]` shortcode without server-side authorization. The role guard in the form builder only downgrades roles that carry the manage_options or remove_users capability, leaving the Editor role and other privileged non-Administrator roles completely unrestricted. Thi",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115807",
+   "cvss": 7.1,
+   "ref": "https://plugins.trac.wordpress.org/changeset/3741133/profile-builder"
+  },
+  "title_vi": "CVE-2026-115807 — Trình tạo hồ sơ người dùng – Biểu mẫu đăng ký người dùng đẹp, Hồ sơ người dùng & Trình chỉnh sửa vai trò người dùng cho WordPress dễ bị ảnh hưởng bởi Đặc quyền hạn chế",
+  "key": "890c10f097677869e0011842fa1f675e24b54409"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-105199 — The Pixel Tag Manager for WooCommerce WordPress plugin before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-105199",
+  "published": "2026-10-24T06:16:34.453",
+  "summary": "The Pixel Tag Manager for WooCommerce  WordPress plugin before 2.2.3 does not perform a capability check in one of its AJAX actions, and exposes the nonce protecting it to any user able to access the admin dashboard, allowing users with a role as low as Contributor to overwrite the Pixel Tag Manager for WooCommerce  WordPress plugin before 2.2.3's tracking configuration and have arbitrary JavaScript executed in the browsers of all visitors, including administrators.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-105199",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/69d7c59c-77d1-422d-8ad7-6066dad59013/"
+  },
+  "title_vi": "CVE-2026-105199 — Trình quản lý thẻ Pixel cho plugin WordPress WooC Commerce trước 2",
+  "key": "c82b2dc9b562d0f0324c9b866ed136de36793063"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-107887 — The Advanced Twenty Seventeen WordPress plugin through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-107887",
+  "published": "2026-10-24T06:16:35.727",
+  "summary": "The Advanced Twenty Seventeen WordPress plugin through 1.3.1 does not perform any capability or nonce check on the action that creates and activates its bundled child , allowing any authenticated user such as a subscriber to switch the site's active  site-wide, and allowing the same action to be triggered against any logged-in user including an administrator via CSRF.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-107887",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/e252c7ee-368d-4bfb-a964-06804747c162/"
+  },
+  "title_vi": "CVE-2026-107887 — Plugin WordPress Twenty Seventeen nâng cao đến 1",
+  "key": "c5b064407a331c6a68be320a3938e1b03517ee5b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-107907 — The MAS Videos WordPress plugin through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-107907",
+  "published": "2026-10-24T06:16:35.877",
+  "summary": "The MAS Videos WordPress plugin through 1.3.4 does not perform any capability or ownership check when handling its front-end video and playlist deletion requests, and the nonce it verifies is tied only to a static action rather than to the targeted object, allowing any authenticated user with a minimal role to permanently delete arbitrary posts, pages, attachments and other content belonging to other users.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-107907",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/00de2695-275a-471e-bd64-9a8c54235c23/"
+  },
+  "title_vi": "CVE-2026-107907 — Plugin MAS Video WordPress cho đến phiên bản 1",
+  "key": "86cbd519b8c031b37d338e29c2ed89328f0e04d7"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-110956 — The asVereinbase WordPress plugin before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-110956",
+  "published": "2026-10-24T06:16:36.010",
+  "summary": "The asVereinbase  WordPress plugin before 1.1.8 does not require a valid password or a genuine second factor before authenticating a user, treating an empty stored value as a match, so an unauthenticated attacker can log in as any user, including an administrator.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-110956",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/95501052-9f20-4391-9171-184cd2e4a445/"
+  },
+  "title_vi": "CVE-2026-110956 — Plugin asVereinbase WordPress trước 1",
+  "key": "36f856feedce277428fb8152b7eb90b19440a3ea"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-112207 — The Download Monitor WordPress plugin before 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-112207",
+  "published": "2026-10-24T06:16:36.143",
+  "summary": "The Download Monitor WordPress plugin before 5.3.4 does not properly validate that a clicked link belongs to the site before fetching it client-side and rendering part of the response in the page, which allows unauthenticated attackers to execute arbitrary JavaScript in the browser of any user who is tricked into clicking a crafted link.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-112207",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/03d5e83b-3119-4862-b1be-8c6fe53f9963/"
+  },
+  "title_vi": "CVE-2026-112207 — Plugin WordPress Download Monitor trước phiên bản 5",
+  "key": "13b9275639402af14f0f5e013e2b289e5fe45cc4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-113489 — The GeoDirectory WordPress plugin before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113489",
+  "published": "2026-10-24T06:16:36.260",
+  "summary": "The GeoDirectory  WordPress plugin before 2.8.194 does not verify that a referenced attachment belongs to the listing being saved, allowing users with Subscriber-level access and above to modify the title, caption, moderation status and featured flag of images belonging to other users' listings, and to claim another user's image as their own featured image.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-113489",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/2f539d43-6f95-494f-b399-21697145591e/"
+  },
+  "title_vi": "CVE-2026-113489 — Plugin GeoDirectory cho WordPress trước phiên bản 2",
+  "key": "7f035ade77cfdff476864da2487f166bcfbaf042"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-113490 — The GeoDirectory WordPress plugin before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113490",
+  "published": "2026-10-24T06:16:36.383",
+  "summary": "The GeoDirectory  WordPress plugin before 2.8.194 does not perform any status or ownership check when rendering a listing's map-popup through one of its single-item REST routes, allowing unauthenticated users to read the title, permalink and card fields of non-public (draft, pending, private and trashed) listings by supplying the listing ID.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-113490",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/2901f8f3-0b35-4565-b248-6c0dfc5de894/"
+  },
+  "title_vi": "CVE-2026-113490 — Plugin GeoDirectory cho WordPress trước phiên bản 2",
+  "key": "0bbeb5b7cb4b4d4d5d0390d71f43f6782f9a1e26"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-113491 — The GeoDirectory WordPress plugin before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113491",
+  "published": "2026-10-24T06:16:36.503",
+  "summary": "The GeoDirectory  WordPress plugin before 2.8.194 does not validate a user-supplied image URL before using it as a local file path when saving a front-end listing, allowing users with Subscriber-level access and above to read files from outside the web root and to delete files on the server, limited to file names that carry an allowed media extension. A disclosed file is re-published at a public URL and its original is deleted as a side effect.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-113491",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/ba2114a5-01e3-40e7-a7f6-673674b6501d/"
+  },
+  "title_vi": "CVE-2026-113491 — Plugin GeoDirectory cho WordPress trước phiên bản 2",
+  "key": "92f07f3544f014695d40369884d18efd4aa58aad"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-113492 — The GeoDirectory WordPress plugin before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113492",
+  "published": "2026-10-24T06:16:36.617",
+  "summary": "The GeoDirectory  WordPress plugin before 2.8.194 does not perform status, ownership or password checks when loading listings for one of its unauthenticated AJAX handlers, allowing unauthenticated users to disclose the content of non-public (draft, pending and private) listings by supplying their IDs.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-113492",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/5a1c17a0-c513-4f64-91c7-09c0f1878c71/"
+  },
+  "title_vi": "CVE-2026-113492 — Plugin GeoDirectory cho WordPress trước phiên bản 2",
+  "key": "561f4c63cf1a31ce391a8070d727f454aee68c0b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-113493 — The GeoDirectory WordPress plugin before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113493",
+  "published": "2026-10-24T06:16:36.773",
+  "summary": "The GeoDirectory  WordPress plugin before 2.8.194 does not sanitise and escape some of its map shortcode attributes before outputting them within a style attribute, allowing users with the Contributor role and above to perform Stored Cross-Site Scripting attacks that execute in the context of any user viewing the affected content.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-113493",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/a46bd6e9-4037-4213-b36d-e418a2ed41b7/"
+  },
+  "title_vi": "CVE-2026-113493 — Plugin GeoDirectory cho WordPress trước phiên bản 2",
+  "key": "a82c9e0489c2ff2f87cf4b0361a0c3a65e30a543"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-113673 — The GeoDirectory WordPress plugin before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113673",
+  "published": "2026-10-24T06:16:36.907",
+  "summary": "The GeoDirectory  WordPress plugin before 2.8.194 does not properly escape administrator-defined text before writing it into a generated PHP file in its own folder, allowing high privilege users such as a subsite administrator on a multisite network, who cannot otherwise run code, to achieve Remote Code Execution that any unauthenticated visitor can trigger.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-113673",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/7ef117ed-1fd6-48e6-b242-87a7b65d3477/"
+  },
+  "title_vi": "CVE-2026-113673 — Plugin GeoDirectory cho WordPress trước phiên bản 2",
+  "key": "09fe459602fbcf724b609485943fb786bf87f740"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-113674 — The GeoDirectory WordPress plugin before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113674",
+  "published": "2026-10-24T06:16:37.027",
+  "summary": "The GeoDirectory  WordPress plugin before 2.8.194 does not correctly verify ownership of listings submitted by logged-out users before allowing them to be edited, allowing unauthenticated attackers to modify, unpublish, attach images to, or reassign any guest-submitted listing when guest posting is enabled.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-113674",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/23e66ca1-50eb-4ac1-9f5f-f830235c5af0/"
+  },
+  "title_vi": "CVE-2026-113674 — Plugin GeoDirectory cho WordPress trước phiên bản 2",
+  "key": "729ae1e6880f622dbb0b1317c7aea94980448290"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-114429 — The WPVR WordPress plugin before 9",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-114429",
+  "published": "2026-10-24T06:16:37.173",
+  "summary": "The WPVR  WordPress plugin before 9.0.3 does not properly sanitise and escape some of its tour hotspot content before storing it and outputting it on the front end, which could allow users with the Contributor role and above to perform Stored Cross-Site Scripting attacks that execute in the browser of any user viewing the affected tour.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-114429",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/30409336-b8ed-49f7-bc40-96c21f494155/"
+  },
+  "title_vi": "CVE-2026-114429 — Plugin WPVR WordPress trước phiên bản 9",
+  "key": "67bacb62a51dba360b17c11482aa4cffea47e5f7"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-87835 — The Front End Users WordPress plugin through 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87835",
+  "published": "2026-10-24T06:16:37.320",
+  "summary": "The Front End Users WordPress plugin through 3.2.35 does not restrict which account attributes a visitor may set when registering through its front-end forms, allowing unauthenticated users to assign themselves an arbitrary membership level and to mark their own account as approved, confirmed and paid, bypassing the Front End Users WordPress plugin through 3.2.35's content restrictions and its registration gating.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-87835",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/9a761c19-1608-43f7-9ab3-f92f3fc0aadf/"
+  },
+  "title_vi": "CVE-2026-87835 — Plugin WordPress dành cho Người dùng Front End cho đến phiên bản 3",
+  "key": "d9fb6a0bf10a0809678a9f112299525b8443aef2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-97352 — The News Kit Addons For Elementor WordPress plugin before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-97352",
+  "published": "2026-10-24T06:16:37.443",
+  "summary": "The News Kit Addons For Elementor WordPress plugin before 1.4.9 does not perform a capability check on one of its AJAX actions, allowing authenticated users with subscriber-level access and above to install and activate a specific News Kit Addons For Elementor WordPress plugin before 1.4.9 from the WordPress.org repository.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-97352",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/36f192be-f684-494c-8b37-9dd006407b6f/"
+  },
+  "title_vi": "CVE-2026-97352 — Tiện ích bổ sung Bộ công cụ tin tức dành cho Elementor WordPress trước phiên bản 1",
+  "key": "1ef6e4b5eacf16c5d281218786ddc6fe197f9241"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-97353 — The News Kit Addons For Elementor WordPress plugin through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-97353",
+  "published": "2026-10-24T06:16:37.610",
+  "summary": "The News Kit Addons For Elementor WordPress plugin through 1.4.7 does not perform capability or ownership checks before updating post metadata in one of its authenticated AJAX actions, allowing users with subscriber-level access and above to write arbitrary post meta, under attacker-chosen keys, to any post including those owned by other users. This can be used to overwrite protected core metadata and tamper with content created by higher-privileged users.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-97353",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/4114e6a4-d8ed-4456-a15f-4d47034ae75f/"
+  },
+  "title_vi": "CVE-2026-97353 — Tiện ích bổ sung Bộ công cụ tin tức dành cho Elementor WordPress cho đến phiên bản 1",
+  "key": "e4b83359da624d78ac547a37a90427e074f9d422"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-108013 — BigFix Platform uses Mozilla CA certificate bundle (PEM)",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-108013",
+  "published": "2026-10-24T07:16:44.990",
+  "summary": "BigFix Platform uses Mozilla CA certificate bundle (PEM). Versions of the bundle dated before 2026/10/20 still trust certificates whose private keys have been compromised. When BigFix Platform validates servers using such a bundle, an on-path attacker can impersonate remote servers and tamper with files downloaded by the application. The issue is resolved by using bundle version 2026/10/20 or later. The fixed bundle is available starting from BES Support v1520.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-108013",
+   "cvss": 6.8,
+   "ref": "https://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0134758"
+  },
+  "title_vi": "CVE-2026-108013 — Nền tảng BigFix sử dụng gói chứng chỉ Mozilla CA (PEM)",
+  "key": "c63f27e587e24f2d3d7559f9efe42f7e409b704b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115802 — A weakness has been identified in InternScience InternAgent 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115802",
+  "published": "2026-10-24T07:16:46.273",
+  "summary": "A weakness has been identified in InternScience InternAgent 1.5.0. This affects the function train of the file tasks/AutoChem/code/experiment.py of the component LoRA Loading. This manipulation of the argument base_model_name_or_path causes inclusion of functionality from untrusted control sphere. The attack may be initiated remotely. The exploit has been made available to the public and could be used for attacks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115802",
+   "cvss": 4.3,
+   "ref": "https://github.com/InternScience/InternAgent/"
+  },
+  "title_vi": "CVE-2026-115802 — Một điểm yếu đã được xác định trong InternScience InternAgent 1",
+  "key": "50c72288d67710ae7932c9fd22406872fe6ef09f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115803 — A flaw has been found in Scada-LTS 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115803",
+  "published": "2026-10-24T07:16:46.637",
+  "summary": "A flaw has been found in Scada-LTS 2.8.0. Affected by this vulnerability is the function HttpServletRequest.getParameter of the file AmChartValuesAPI.java of the component AmCharts Data API. Executing a manipulation of the argument ids can lead to authorization bypass. The attack can be executed remotely. The exploit has been published and may be used. The vendor announces: \"At this moment we are working on new release with security enhancements which will be introduced to the community soon.\"",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115803",
+   "cvss": 4.3,
+   "ref": "https://vuldb.com/cve/CVE-2026-115803"
+  },
+  "title_vi": "CVE-2026-115803 — Đã tìm thấy lỗ hổng trong Scada-LTS 2",
+  "key": "6dbc372179b854c6e9dd0683711ad861d39e450a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-110892 — Missing Authorization vulnerability in Brainstorm Force SureDash suredash allows Exploiting Incorrectly Configured Access Control Security Levels",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-110892",
+  "published": "2026-10-24T08:16:49.753",
+  "summary": "Missing Authorization vulnerability in Brainstorm Force SureDash suredash allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects SureDash: from n/a through 1.12.2.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-110892",
+   "cvss": 6.5,
+   "ref": "https://patchstack.com/database/wordpress/plugin/suredash/vulnerability/wordpress-suredash-plugin-1-12-2-broken-access-control-vulnerability-3?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-110892 — Lỗ hổng ủy quyền bị thiếu trong Brainstorm Force SureDash SureDash cho phép khai thác các cấp độ bảo mật kiểm soát truy cập được định cấu hình không chính xác",
+  "key": "774e7c6a30b3d201162852cdcff8e94e5aefa824"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-111402 — Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Tribulant Software Newsletters newsletters-lite ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111402",
+  "published": "2026-10-24T08:16:50.877",
+  "summary": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Tribulant Software Newsletters newsletters-lite allows SQL Injection.This issue affects Newsletters: from n/a through 4.18.1.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-111402",
+   "cvss": 9.3,
+   "ref": "https://patchstack.com/database/wordpress/plugin/newsletters-lite/vulnerability/wordpress-newsletters-plugin-4-18-1-sql-injection-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-111402 — Việc vô hiệu hóa không đúng cách các phần tử đặc biệt được sử dụng trong lỗ hổng SQL Command ('SQL SQL') trong Bản tin phần mềm Tribulant bản tin-lite",
+  "key": "42c61966ccc98317b06c26f1e3216d325de33b34"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-112844 — Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Arraytics WP Event Solution wp-event-solution al",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-112844",
+  "published": "2026-10-24T08:16:51.160",
+  "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Arraytics WP Event Solution wp-event-solution allows Stored XSS.This issue affects WP Event Solution: from n/a through 4.1.26.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-112844",
+   "cvss": 7.1,
+   "ref": "https://patchstack.com/database/wordpress/plugin/wp-event-solution/vulnerability/wordpress-wp-event-solution-plugin-4-1-26-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-112844 — Lỗ hổng trung hòa đầu vào không đúng cách trong quá trình tạo trang web ('Cross-site Scripting') trong Arraytics WP Event Solution wp-event-solution al",
+  "key": "4f268f4e1daf9a9c9a7c9794f34b6b99401b4f56"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-112866 — Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in WPFactory Product Filter by WBW woo-product-filt",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-112866",
+  "published": "2026-10-24T08:16:51.303",
+  "summary": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in WPFactory Product Filter by WBW woo-product-filter allows Blind SQL Injection.This issue affects Product Filter by WBW: from n/a through 3.4.6.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-112866",
+   "cvss": 9.3,
+   "ref": "https://patchstack.com/database/wordpress/plugin/woo-product-filter/vulnerability/wordpress-product-filter-by-wbw-plugin-3-4-6-sql-injection-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-112866 — Việc trung hòa không đúng cách các thành phần đặc biệt được sử dụng trong lỗ hổng SQL Command ('SQL Insert') trong Bộ lọc sản phẩm WPFactory của WBW woo-product-filt",
+  "key": "9bfa63962e16909202713d628601933a16275760"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-112869 — Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Noah Hearle We’re Open! opening-hours allows Ref",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-112869",
+  "published": "2026-10-24T08:16:51.437",
+  "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Noah Hearle We’re Open! opening-hours allows Reflected XSS.This issue affects We’re Open!: from n/a through 2.6.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-112869",
+   "cvss": 7.1,
+   "ref": "https://patchstack.com/database/wordpress/plugin/opening-hours/vulnerability/wordpress-we-re-open-plugin-2-6-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-112869 — Lỗ hổng trung hòa đầu vào không đúng cách trong quá trình tạo trang web ('Tập lệnh chéo trang') trong Noah Hearle Chúng tôi đang mở! giờ mở cửa cho phép tham khảo",
+  "key": "c315fc80b62b2da358647eeb8199c3065fd4ca98"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-114178 — Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Bold Grid W3 Total Cache w3-total-cache allows S",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-114178",
+  "published": "2026-10-24T08:16:51.567",
+  "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Bold Grid W3 Total Cache w3-total-cache allows Stored XSS.This issue affects W3 Total Cache: from n/a through 2.10.7.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-114178",
+   "cvss": 7.1,
+   "ref": "https://patchstack.com/database/wordpress/plugin/w3-total-cache/vulnerability/wordpress-w3-total-cache-plugin-2-10-7-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-114178 — Lỗ hổng trung hòa đầu vào không đúng cách trong quá trình tạo trang web ('Cross-site Scripting') trong Bold Grid W3 Total Cache w3-total-cache cho phép S",
+  "key": "0abfa3a9366fa338f057fa23b84590ac3c0ea7a9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-114179 — Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in wordplus BP Better Messages bp-better-messages a",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-114179",
+  "published": "2026-10-24T08:16:51.700",
+  "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in wordplus BP Better Messages bp-better-messages allows DOM-Based XSS.This issue affects BP Better Messages: from n/a through 3.1.3.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-114179",
+   "cvss": 7.1,
+   "ref": "https://patchstack.com/database/wordpress/plugin/bp-better-messages/vulnerability/wordpress-bp-better-messages-plugin-3-1-3-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-114179 — Lỗ hổng trung hòa đầu vào không đúng cách trong quá trình tạo trang web ('Tập lệnh chéo trang') trong wordplus BP Better Messages bp-better-messages a",
+  "key": "67fbcf57dbf14e3e6b75e69f044be7e32221ff77"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-114190 — Insertion of Sensitive Information Into Sent Data vulnerability in Hai Zheng / Lite Speed Cache LiteSpeed Cache litespeed-cache allows Retrieve Embedd",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-114190",
+  "published": "2026-10-24T08:16:51.830",
+  "summary": "Insertion of Sensitive Information Into Sent Data vulnerability in Hai Zheng / Lite Speed Cache LiteSpeed Cache litespeed-cache allows Retrieve Embedded Sensitive Data.This issue affects LiteSpeed Cache: from n/a through 7.9.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-114190",
+   "cvss": 5.9,
+   "ref": "https://patchstack.com/database/wordpress/plugin/litespeed-cache/vulnerability/wordpress-litespeed-cache-plugin-7-9-sensitive-data-exposure-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-114190 — Chèn thông tin nhạy cảm vào lỗ hổng dữ liệu đã gửi trong Hai Zheng / Lite Speed ​​Cache LiteSpeed ​​Cache LiteSpeed ​​Cache litespeed-cache cho phép truy xuất Embedd",
+  "key": "3ce4ccd7dd9a671a1526ec49279a287e8775cfe4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-114196 — Deserialization of Untrusted Data vulnerability in paytiumsupport Paytium paytium allows Object Injection",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-114196",
+  "published": "2026-10-24T08:16:51.963",
+  "summary": "Deserialization of Untrusted Data vulnerability in paytiumsupport Paytium paytium allows Object Injection.This issue affects Paytium: from n/a through 5.0.5.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-114196",
+   "cvss": 9.8,
+   "ref": "https://patchstack.com/database/wordpress/plugin/paytium/vulnerability/wordpress-paytium-plugin-5-0-5-php-object-injection-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-114196 — Giải tuần tự hóa lỗ hổng dữ liệu không đáng tin cậy trong paytiumsupport Paytium paytium cho phép tiêm đối tượng",
+  "key": "e087392f51aab4294aa44aab3c7914045141e298"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-114693 — Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Plugins360 Labs All-in-One Video Gallery all-in-",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-114693",
+  "published": "2026-10-24T08:16:52.093",
+  "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Plugins360 Labs All-in-One Video Gallery all-in-one-video-gallery allows Stored XSS.This issue affects All-in-One Video Gallery: from n/a through 4.9.7.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-114693",
+   "cvss": 6.5,
+   "ref": "https://patchstack.com/database/wordpress/plugin/all-in-one-video-gallery/vulnerability/wordpress-all-in-one-video-gallery-plugin-4-9-7-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-114693 — Lỗ hổng trung hòa đầu vào không đúng cách trong quá trình tạo trang web ('Tập lệnh chéo trang') trong Thư viện video tất cả trong một của Plugins360 Labs-",
+  "key": "6f8516d37e3a7f6a8e98de489d03821cd9ac5f81"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-114694 — Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Pixelite Events Manager events-manager allows Re",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-114694",
+  "published": "2026-10-24T08:16:52.230",
+  "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Pixelite Events Manager events-manager allows Reflected XSS.This issue affects Events Manager: from n/a through 7.4.8.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-114694",
+   "cvss": 7.1,
+   "ref": "https://patchstack.com/database/wordpress/plugin/events-manager/vulnerability/wordpress-events-manager-plugin-7-4-8-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-114694 — Lỗ hổng trung hòa đầu vào không đúng cách trong quá trình tạo trang web ('Tập lệnh chéo trang') trong trình quản lý sự kiện Pixelite Events Manager cho phép Re",
+  "key": "6cd28352ce8e7b9b1d542980e5bf851d225cbf5e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-114695 — Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Infomaniak Network VOD Infomaniak vod-infomaniak",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-114695",
+  "published": "2026-10-24T08:16:52.360",
+  "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Infomaniak Network VOD Infomaniak vod-infomaniak allows Stored XSS.This issue affects VOD Infomaniak: from n/a through 1.5.14.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-114695",
+   "cvss": 7.1,
+   "ref": "https://patchstack.com/database/wordpress/plugin/vod-infomaniak/vulnerability/wordpress-vod-infomaniak-plugin-1-5-14-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-114695 — Lỗ hổng trung hòa đầu vào không đúng cách trong quá trình tạo trang web ('Cross-site Scripting') trong Infomaniak Network VOD Infomaniak vod-infomaniak",
+  "key": "5813639b915eaa1ef4cb4db8f6d19131378f1925"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-114697 — Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in QuarkA QA Analytics qa-heatmap-analytics allows ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-114697",
+  "published": "2026-10-24T08:16:52.490",
+  "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in QuarkA QA Analytics qa-heatmap-analytics allows Stored XSS.This issue affects QA Analytics: from n/a through 5.3.0.1.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-114697",
+   "cvss": 7.1,
+   "ref": "https://patchstack.com/database/wordpress/plugin/qa-heatmap-analytics/vulnerability/wordpress-qa-analytics-plugin-5-3-0-1-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-114697 — Lỗ hổng trung hòa đầu vào không đúng cách trong quá trình tạo trang web ('Tập lệnh chéo trang') trong QuarkA QA Analytics qa-heatmap-analytics cho phép",
+  "key": "51a4938512f65a46e7c2d180650a2a05d4cb9bd8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115975 — Broken access control in JiraController in Cervantes version v1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115975",
+  "published": "2026-10-24T08:16:52.630",
+  "summary": "Broken access control in JiraController in Cervantes version v1.3-beta could allow an attacker to create, edit, or delete Jira tickets for vulnerabilities in other projects",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115975",
+   "cvss": 7.1,
+   "ref": "https://www.grayback.es/advisories"
+  },
+  "title_vi": "CVE-2026-115975 — Kiểm soát truy cập bị hỏng trong JiraController ở phiên bản Cervantes v1",
+  "key": "27ce9afc84da9335873ef8a217f6227d0fe120c4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94075 — Deserialization of Untrusted Data vulnerability in Tribulant Software Newsletters newsletters-lite allows Object Injection",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94075",
+  "published": "2026-10-24T08:16:52.790",
+  "summary": "Deserialization of Untrusted Data vulnerability in Tribulant Software Newsletters newsletters-lite allows Object Injection.This issue affects Newsletters: from n/a through 4.18.1.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94075",
+   "cvss": 9.8,
+   "ref": "https://patchstack.com/database/wordpress/plugin/newsletters-lite/vulnerability/wordpress-newsletters-plugin-4-18-1-php-object-injection-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-94075 — Giải tuần tự hóa lỗ hổng dữ liệu không đáng tin cậy trong Bản tin phần mềm Tribulant bản tin-lite cho phép chèn đối tượng",
+  "key": "d611e21846738d7e351c319a1de7d68361409961"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
   "title": "Sửa đổi Luật Điện ảnh: Tháo gỡ điểm nghẽn, khơi thông nguồn lực phát triển",
   "link": "https://www.vietnamplus.vn/sua-doi-luat-dien-anh-thao-go-diem-nghen-khoi-thong-nguon-luc-phat-trien-post1143951.vnp",
   "published": "2026-10-24T00:57:13+00:00",
@@ -7592,7 +8314,7 @@
    "cvss": null,
    "ref": "https://cyber-defence-campus.github.io/projects/vulnerabilities/CVE-2026-114354"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-114354 — Thiếu ủy quyền trong dịch vụ liên kết gốc 'android",
   "key": "7b0c5153cdccf9253d2d3d7c6ca628f0914a53e6"
  },
  {
@@ -7610,7 +8332,7 @@
    "cvss": null,
    "ref": "https://cyber-defence-campus.github.io/projects/vulnerabilities/CVE-2026-114355"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-114355 — Chèn lệnh hệ điều hành vào trình trợ giúp 'hardware_monitor' có đặc quyền gốc trong phần mềm DJI CrystalSky ZS600C v0",
   "key": "edf29b8d48f10e6187d466ec126763ae67cb439e"
  },
  {
@@ -7628,7 +8350,7 @@
    "cvss": null,
    "ref": "https://cyber-defence-campus.github.io/projects/vulnerabilities/CVE-2026-114356"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-114356 — Thiếu ủy quyền trong liên kết 'DJIUpdateService' đặc quyền của hệ thống trong firmware DJI CrystalSky ZS600C v0",
   "key": "e4eb46cc7fbbb860d2e32d9cdba6dba00eab48f1"
  },
  {
@@ -7646,7 +8368,7 @@
    "cvss": null,
    "ref": "https://cyber-defence-campus.github.io/projects/vulnerabilities/CVE-2026-114357"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-114357 — Thiếu xác thực cho một chức năng quan trọng trong daemon Cầu gỡ lỗi Android (adbd) trong firmware DJI CrystalSky ZS600C v0",
   "key": "ee89540b668ce3a2488ac90919c8e86fa54eb261"
  },
  {
@@ -7664,7 +8386,7 @@
    "cvss": 8.8,
    "ref": "https://github.com/baserproject/basercms/commit/344de2aa975eda6d85dc1fa4647ba094caf8dcb6"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-114621 — baserCMS là một khung phát triển trang web",
   "key": "d28a87ca5fba0add120c1e8ec456688366a148f2"
  },
  {
@@ -7682,7 +8404,7 @@
    "cvss": 7.2,
    "ref": "https://github.com/baserproject/basercms/commit/53ecf177dfb10eb1fb89c4b42d313983329aa162"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-114622 — baserCMS là một khung phát triển trang web",
   "key": "d6a37fd3651b323fe15d4e6be17506283e6518be"
  },
  {
@@ -7700,7 +8422,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/baserproject/basercms/commit/53ecf177dfb10eb1fb89c4b42d313983329aa162"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-114623 — baserCMS là một khung phát triển trang web",
   "key": "d36a76880e07c2ce267b9c7c1f2141faf1205420"
  },
  {
@@ -7718,7 +8440,7 @@
    "cvss": 7.2,
    "ref": "https://github.com/baserproject/basercms/commit/38c778e92688e7f5d620a4c6b47ad7fb9e2c1529"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-114624 — baserCMS là một khung phát triển trang web",
   "key": "7370bcf5b7ce95995d7c903f27a91f6f7f19ef82"
  },
  {
@@ -7736,7 +8458,7 @@
    "cvss": 7.1,
    "ref": "https://github.com/baserproject/basercms/commit/bec4776ab497457fac76da7ae67d2dd0ad964eec"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-115457 — baserCMS là một khung phát triển trang web",
   "key": "8e5e63aa49955a713d2d36c6038b4e620e79d615"
  },
  {
@@ -7754,7 +8476,7 @@
    "cvss": 5.3,
    "ref": "https://github.com/baserproject/basercms/commit/99e6257c9d5e2fa2bff2351defcb9fb37f69daf1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-115479 — baserCMS là một khung phát triển trang web",
   "key": "089479fb4fdc4869ee558855fc56e545e9a54803"
  },
  {
@@ -7772,7 +8494,7 @@
    "cvss": 5.3,
    "ref": "https://github.com/baserproject/basercms/commit/3444154ca40f308ade8991e54459248f866dcf61"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-115480 — baserCMS là khung phát triển trang web",
   "key": "6fac7ddfc15788c0c1359e17571a6f9a79ee164e"
  },
  {
@@ -7790,7 +8512,7 @@
    "cvss": null,
    "ref": "https://github.com/baserproject/basercms/commit/2ed19c878add5c26fc765572e0e77173c1f1fdb5"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-115481 — baserCMS là một khung phát triển trang web",
   "key": "62d5b6f7b90af152354f7d601990810029907a15"
  },
  {
@@ -7808,7 +8530,7 @@
    "cvss": 4.7,
    "ref": "https://github.com/yahoo/serialize-javascript/commit/2864b3c6260a3bfd52d2db3e70d1a079de108a61"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-115754 — tuần tự hóa-javascript từ 7",
   "key": "093e3eba2644001e29e5a8228eaf944a29c866bd"
  },
  {
@@ -7826,7 +8548,7 @@
    "cvss": 4.3,
    "ref": "https://wiki.zimbra.com/wiki/Zimbra_Security_Advisories"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-115785 — Lỗ hổng chèn lệnh SMTP trong chức năng kiểm tra nguồn dữ liệu của Bộ cộng tác Zimbra (ZCS) cho phép xác thực thông thường",
   "key": "2055c288fbe7adb3f4bae8be23bae5fc6b84b038"
  },
  {
@@ -7844,7 +8566,7 @@
    "cvss": 6.5,
    "ref": "https://wiki.zimbra.com/wiki/Zimbra_Security_Advisories"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-115786 — Lỗ hổng tính hạn ngạch hộp thư trong Zimbra Collaboration Suite (ZCS) cho phép người dùng được xác thực sử dụng hạn ngạch hộp thư của người dùng khác bằng r",
   "key": "00c49867a0f28821315ae99b178fca467932b999"
  },
  {
@@ -7862,7 +8584,7 @@
    "cvss": 8.7,
    "ref": "https://wiki.zimbra.com/wiki/Zimbra_Security_Advisories"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-50053 — Lỗ hổng ghi đè thuộc tính yêu cầu trong Zimbra Collaboration Suite (ZCS) cho phép các yêu cầu không được xác thực tới /h/* để điền các thuộc tính servlet",
   "key": "3d11eca275fe527ae57e178498d02b6ba0a31f90"
  },
  {
@@ -7880,7 +8602,7 @@
    "cvss": 7.8,
    "ref": "https://wiki.zimbra.com/wiki/Zimbra_Security_Advisories"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-50056 — Lỗ hổng leo thang đặc quyền cục bộ trong trình khởi chạy zmmailboxdmgr của Zimbra Collaboration Suite (ZCS) cho phép tài khoản Unix zimbra thực thi",
   "key": "53268736fcc602b36f03d27368c05a4840911b02"
  },
  {
@@ -7898,7 +8620,7 @@
    "cvss": 7.8,
    "ref": "https://wiki.zimbra.com/wiki/Zimbra_Security_Advisories"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-50057 — Lỗ hổng leo thang đặc quyền cục bộ trong gói MTA Zimbra Collaboration Suite (ZCS) cho phép tài khoản Unix zimbra thực thi lệnh com tùy ý.",
   "key": "9ef866ea58ee7bf29f28ddc63f9b49a36589abb6"
  },
  {
@@ -7916,7 +8638,7 @@
    "cvss": null,
    "ref": "https://github.com/openwrt/odhcpd/commit/26b122007030ebf192376aff8f98d428b25e2a93"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-53918 — odhcpd là DHCPv6, DHCPv4 và máy chủ quảng cáo bộ định tuyến được OpenWrt sử dụng",
   "key": "2fd6088a77dba28d59b79ecdfa78793a403356dd"
  },
  {
@@ -7934,7 +8656,7 @@
    "cvss": null,
    "ref": "https://github.com/openwrt/odhcpd/commit/719fc3abc0d7e7059871f9f572fb05ada86b8ff2"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-53920 — odhcpd là DHCPv6, DHCPv4 và máy chủ quảng cáo bộ định tuyến được OpenWrt sử dụng",
   "key": "c4a01ab49eaac57e9b4f1c95cab97dd4f04ef8cb"
  },
  {
@@ -7952,7 +8674,7 @@
    "cvss": 9.8,
    "ref": "https://github.com/openwrt/odhcpd/commit/0320032ae313452f3c8cb8725c621dd06c36dc03"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-53921 - odhcpd là DHCPv6, DHCPv4 và máy chủ quảng cáo bộ định tuyến được OpenWrt sử dụng",
   "key": "cd6b1368bf8f877c270e249f8e1842dd06b7ab41"
  },
  {
@@ -8513,7 +9235,7 @@
    "cvss": null,
    "ref": "https://github.com/kitodo/kitodo-production/releases/tag/kitodo-production-3.9.2"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-54668 — Kitodo",
   "key": "a21c3cdbc34dbbc84f81fd12d53a3e28dd60c387"
  },
  {
@@ -8711,7 +9433,7 @@
    "cvss": null,
    "ref": "https://github.com/brynax/CVE-2026-50787"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-50787 — e-SIC Livre (esiclivre) v0",
   "key": "1f6a737a8d6f9759241d65ed04637a64b8236aab"
  },
  {
@@ -73363,743 +74085,5 @@
   },
   "title_vi": "",
   "key": "ab81b7df4c4165244aef122c652f9cc6d80d55b0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101397 — Vulnerability in the Siebel Apps - Marketing product of Oracle Siebel CRM (component: Marketing)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101397",
-  "published": "2026-10-20T22:17:47.567",
-  "summary": "Vulnerability in the Siebel Apps - Marketing product of Oracle Siebel CRM (component: Marketing).  Supported versions that are affected are 17.0-26.9. Difficult to exploit vulnerability allows high privileged attacker with network access via HTTP to compromise Siebel Apps - Marketing.  Successful attacks of this vulnerability can result in  unauthorized read access to a subset of Siebel Apps - Marketing accessible data. CVSS 3.1 Base Score 2.2 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:H/PR:H/UI:N/S:U/C:L/I:N/A:N).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101397",
-   "cvss": 2.2,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "ecafda2824b3c2e98c6f8367db58b41b74fcfeca"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101398 — Vulnerability in the Oracle Capacity product of Oracle E-Business Suite (component: Internal Operations)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101398",
-  "published": "2026-10-20T22:17:47.680",
-  "summary": "Vulnerability in the Oracle Capacity product of Oracle E-Business Suite (component: Internal Operations).  Supported versions that are affected are 12.2.3-12.2.15. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise Oracle Capacity.  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all Oracle Capacity accessible data as well as  unauthorized update, insert or delete access to some of Oracle Capacity accessible data and unauthorized ability to cause a partial denial of servic",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101398",
-   "cvss": 7.6,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "e646a4626a2ff9a4948787526399901443fe128a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101399 — Vulnerability in the Siebel Apps - Marketing product of Oracle Siebel CRM (component: Marketing)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101399",
-  "published": "2026-10-20T22:17:47.793",
-  "summary": "Vulnerability in the Siebel Apps - Marketing product of Oracle Siebel CRM (component: Marketing).  Supported versions that are affected are 17.0-26.9. Easily exploitable vulnerability allows unauthenticated attacker with network access via SMTP to compromise Siebel Apps - Marketing.  Successful attacks of this vulnerability can result in unauthorized ability to cause a partial denial of service (partial DOS) of Siebel Apps - Marketing. CVSS 3.1 Base Score 5.3 (Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101399",
-   "cvss": 5.3,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "fb68cf33f3e6502b8c7559671f4340636139f64c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101400 — Vulnerability in the Siebel Apps - Marketing product of Oracle Siebel CRM (component: Marketing)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101400",
-  "published": "2026-10-20T22:17:47.910",
-  "summary": "Vulnerability in the Siebel Apps - Marketing product of Oracle Siebel CRM (component: Marketing).  Supported versions that are affected are 17.0-26.9. Difficult to exploit vulnerability allows unauthenticated attacker with logon to the infrastructure where Siebel Apps - Marketing executes to compromise Siebel Apps - Marketing.  Successful attacks of this vulnerability can result in unauthorized ability to cause a partial denial of service (partial DOS) of Siebel Apps - Marketing. CVSS 3.1 Base Score 2.9 (Availability impacts).  CVSS Vector: (CVSS:3.1/AV:L/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:L).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101400",
-   "cvss": 2.9,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "9865f1195b1208649a82e9f36256c018b2a01553"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101401 — Vulnerability in the Siebel Apps - Marketing product of Oracle Siebel CRM (component: Marketing)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101401",
-  "published": "2026-10-20T22:17:48.020",
-  "summary": "Vulnerability in the Siebel Apps - Marketing product of Oracle Siebel CRM (component: Marketing).  Supported versions that are affected are 17.0-26.9. Difficult to exploit vulnerability allows unauthenticated attacker with logon to the infrastructure where Siebel Apps - Marketing executes to compromise Siebel Apps - Marketing.  Successful attacks of this vulnerability can result in unauthorized ability to cause a partial denial of service (partial DOS) of Siebel Apps - Marketing. CVSS 3.1 Base Score 2.9 (Availability impacts).  CVSS Vector: (CVSS:3.1/AV:L/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:L).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101401",
-   "cvss": 2.9,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "119c0d7c84d6f1122f44883066402b584b7a2549"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101402 — Vulnerability in the Siebel Apps - Marketing product of Oracle Siebel CRM (component: Email Marketing)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101402",
-  "published": "2026-10-20T22:17:48.133",
-  "summary": "Vulnerability in the Siebel Apps - Marketing product of Oracle Siebel CRM (component: Email Marketing).  Supported versions that are affected are 17.0-26.9. Difficult to exploit vulnerability allows unauthenticated attacker with network access via HTTP to compromise Siebel Apps - Marketing.  Successful attacks of this vulnerability can result in unauthorized ability to cause a partial denial of service (partial DOS) of Siebel Apps - Marketing. CVSS 3.1 Base Score 3.7 (Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:L).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101402",
-   "cvss": 3.7,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "d026512e4308f3075740eb178df9bf1cf9bb7f11"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101403 — Vulnerability in the Siebel Apps - Marketing product of Oracle Siebel CRM (component: Email Marketing)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101403",
-  "published": "2026-10-20T22:17:48.247",
-  "summary": "Vulnerability in the Siebel Apps - Marketing product of Oracle Siebel CRM (component: Email Marketing).  Supported versions that are affected are 17.0-26.9. Difficult to exploit vulnerability allows unauthenticated attacker with network access via HTTP to compromise Siebel Apps - Marketing.  Successful attacks require human interaction from a person other than the attacker. Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all Siebel Apps - Marketing accessible data as well as  unauthorized update, insert or delete access to some",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101403",
-   "cvss": 5.9,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "cb559aad00f067c64c4ec63c5f2a2603485c75e3"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101404 — Vulnerability in the Siebel Apps - Marketing product of Oracle Siebel CRM (component: Marketing)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101404",
-  "published": "2026-10-20T22:17:48.353",
-  "summary": "Vulnerability in the Siebel Apps - Marketing product of Oracle Siebel CRM (component: Marketing).  Supported versions that are affected are 17.0-26.9. Difficult to exploit vulnerability allows high privileged attacker with logon to the infrastructure where Siebel Apps - Marketing executes to compromise Siebel Apps - Marketing.  Successful attacks of this vulnerability can result in  unauthorized update, insert or delete access to some of Siebel Apps - Marketing accessible data as well as  unauthorized read access to a subset of Siebel Apps - Marketing accessible data and unauthorized ability t",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101404",
-   "cvss": 3.9,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "44801d0c707812ac8320c643d08cc98426cdba73"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101405 — Vulnerability in the Siebel Apps - Marketing product of Oracle Siebel CRM (component: Marketing)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101405",
-  "published": "2026-10-20T22:17:48.467",
-  "summary": "Vulnerability in the Siebel Apps - Marketing product of Oracle Siebel CRM (component: Marketing).  Supported versions that are affected are 17.0-26.9. Difficult to exploit vulnerability allows unauthenticated attacker with network access via HTTPS to compromise Siebel Apps - Marketing.  Successful attacks of this vulnerability can result in  unauthorized update, insert or delete access to some of Siebel Apps - Marketing accessible data as well as  unauthorized read access to a subset of Siebel Apps - Marketing accessible data. CVSS 3.1 Base Score 4.8 (Confidentiality and Integrity impacts).  C",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101405",
-   "cvss": 4.8,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "6a65b4ca19af329bea1fc8cc862c99a9a2a92f6a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101406 — Vulnerability in the Siebel Apps - Marketing product of Oracle Siebel CRM (component: Marketing)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101406",
-  "published": "2026-10-20T22:17:48.580",
-  "summary": "Vulnerability in the Siebel Apps - Marketing product of Oracle Siebel CRM (component: Marketing).  Supported versions that are affected are 17.0-26.9. Difficult to exploit vulnerability allows unauthenticated attacker with network access via HTTP to compromise Siebel Apps - Marketing.  Successful attacks of this vulnerability can result in  unauthorized read access to a subset of Siebel Apps - Marketing accessible data. CVSS 3.1 Base Score 3.7 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:N).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101406",
-   "cvss": 3.7,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "a45194b7769ea412cb65d7fc56715e0e3f625c9a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101407 — Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Updates Change Assistant)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101407",
-  "published": "2026-10-20T22:17:48.697",
-  "summary": "Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Updates Change Assistant).  Supported versions that are affected are 8.61-8.63. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise PeopleSoft Enterprise PeopleTools.  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all PeopleSoft Enterprise PeopleTools accessible data and unauthorized ability to cause a partial denial of service (partial DOS) of PeopleSoft Enterprise PeopleTool",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101407",
-   "cvss": 5.5,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "9eb3cb87d8103534bfdb23cbd78fa0a110b746b2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101408 — Vulnerability in the Siebel Apps - Marketing product of Oracle Siebel CRM (component: Email Marketing)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101408",
-  "published": "2026-10-20T22:17:48.830",
-  "summary": "Vulnerability in the Siebel Apps - Marketing product of Oracle Siebel CRM (component: Email Marketing).  Supported versions that are affected are 17.0-26.9. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise Siebel Apps - Marketing.  Successful attacks require human interaction from a person other than the attacker and while the vulnerability is in Siebel Apps - Marketing, attacks may significantly impact additional products (scope change). Successful attacks of this vulnerability can result in  unauthorized update, insert or delete acce",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101408",
-   "cvss": 6.1,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "d5649494a9959ace74f47fc19ed4a6f1adc3afcb"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101409 — Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Report Distribution)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101409",
-  "published": "2026-10-20T22:17:48.943",
-  "summary": "Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Report Distribution).  Supported versions that are affected are 8.61-8.63. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise PeopleSoft Enterprise PeopleTools.  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all PeopleSoft Enterprise PeopleTools accessible data. CVSS 3.1 Base Score 7.5 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101409",
-   "cvss": 7.5,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "86c2dd5bc6339da0c25f14b34fb5d4ba6f457736"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101410 — Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Business Interlink)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101410",
-  "published": "2026-10-20T22:17:49.057",
-  "summary": "Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Business Interlink).  Supported versions that are affected are 8.61-8.63. Difficult to exploit vulnerability allows low privileged attacker with network access via HTTP to compromise PeopleSoft Enterprise PeopleTools.  Successful attacks of this vulnerability can result in takeover of PeopleSoft Enterprise PeopleTools. CVSS 3.1 Base Score 7.5 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101410",
-   "cvss": 7.5,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "58c664e7c6308bc692011a56bbe78d0709044a9f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101411 — Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Business Interlink)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101411",
-  "published": "2026-10-20T22:17:49.167",
-  "summary": "Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Business Interlink).  Supported versions that are affected are 8.61-8.63. Difficult to exploit vulnerability allows unauthenticated attacker with network access via HTTP to compromise PeopleSoft Enterprise PeopleTools.  Successful attacks of this vulnerability can result in takeover of PeopleSoft Enterprise PeopleTools. CVSS 3.1 Base Score 8.1 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101411",
-   "cvss": 8.1,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "a157a0fe50284c008c10d6c0db32773593cb406b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101412 — Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Analytic Server)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101412",
-  "published": "2026-10-20T22:17:49.280",
-  "summary": "Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Analytic Server).  Supported versions that are affected are 8.61-8.63. Difficult to exploit vulnerability allows low privileged attacker with logon to the infrastructure where PeopleSoft Enterprise PeopleTools executes to compromise PeopleSoft Enterprise PeopleTools.  Successful attacks of this vulnerability can result in  unauthorized creation, deletion or modification access to critical data or all PeopleSoft Enterprise PeopleTools accessible data as well as  unauthorized read access to a subset o",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101412",
-   "cvss": 5.8,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "bcf03caeaff3f268299ca26ab6c8992578c121e1"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101413 — Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Analytic Server)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101413",
-  "published": "2026-10-20T22:17:49.393",
-  "summary": "Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Analytic Server).  Supported versions that are affected are 8.61-8.63. Difficult to exploit vulnerability allows low privileged attacker with network access via HTTP to compromise PeopleSoft Enterprise PeopleTools.  Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of PeopleSoft Enterprise PeopleTools. CVSS 3.1 Base Score 5.3 (Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:N/I:N/A:H).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101413",
-   "cvss": 5.3,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "f6ffdb394acb3487c1694379e3617a558ea3077a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101414 — Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Porting)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101414",
-  "published": "2026-10-20T22:17:49.507",
-  "summary": "Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Porting).  Supported versions that are affected are 8.61-8.63. Difficult to exploit vulnerability allows unauthenticated attacker with logon to the infrastructure where PeopleSoft Enterprise PeopleTools executes to compromise PeopleSoft Enterprise PeopleTools.  Successful attacks of this vulnerability can result in  unauthorized update, insert or delete access to some of PeopleSoft Enterprise PeopleTools accessible data. CVSS 3.1 Base Score 2.9 (Integrity impacts).  CVSS Vector: (CVSS:3.1/AV:L/AC:H/",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101414",
-   "cvss": 2.9,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "bb6dc3c217d91fa8d11568ff0a1c696190f6535c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101415 — Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Analytic Server)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101415",
-  "published": "2026-10-20T22:17:49.617",
-  "summary": "Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Analytic Server).  Supported versions that are affected are 8.61-8.63. Difficult to exploit vulnerability allows low privileged attacker with network access via HTTP to compromise PeopleSoft Enterprise PeopleTools.  Successful attacks of this vulnerability can result in unauthorized ability to cause a partial denial of service (partial DOS) of PeopleSoft Enterprise PeopleTools. CVSS 3.1 Base Score 3.1 (Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:N/I:N/A:L).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101415",
-   "cvss": 3.1,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "2a1bb3ec104e60ca9884af55c5b67ead67332bc6"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101416 — Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: PsAdmin)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101416",
-  "published": "2026-10-20T22:17:49.730",
-  "summary": "Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: PsAdmin).  Supported versions that are affected are 8.61-8.63. Difficult to exploit vulnerability allows unauthenticated attacker with access to the physical communication segment attached to the hardware where the PeopleSoft Enterprise PeopleTools executes to compromise PeopleSoft Enterprise PeopleTools.  Successful attacks of this vulnerability can result in takeover of PeopleSoft Enterprise PeopleTools. CVSS 3.1 Base Score 7.5 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101416",
-   "cvss": 7.5,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "3701fd922777cc754350159e36ace0638b63dd51"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101417 — Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Tuxedo)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101417",
-  "published": "2026-10-20T22:17:49.847",
-  "summary": "Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Tuxedo).  Supported versions that are affected are 8.61-8.63. Difficult to exploit vulnerability allows unauthenticated attacker with network access via HTTP to compromise PeopleSoft Enterprise PeopleTools.  Successful attacks of this vulnerability can result in  unauthorized read access to a subset of PeopleSoft Enterprise PeopleTools accessible data. CVSS 3.1 Base Score 3.7 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:N).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101417",
-   "cvss": 3.7,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "978ce9029a2b9de273bb128788edf28cfd018ce0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101418 — Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Report Distribution)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101418",
-  "published": "2026-10-20T22:17:49.960",
-  "summary": "Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Report Distribution).  Supported versions that are affected are 8.61-8.63. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise PeopleSoft Enterprise PeopleTools.  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all PeopleSoft Enterprise PeopleTools accessible data. CVSS 3.1 Base Score 6.5 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101418",
-   "cvss": 6.5,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "f125238de749cca627291d4de5bfe2c1d31bfa1c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101419 — Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: SQR)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101419",
-  "published": "2026-10-20T22:17:50.083",
-  "summary": "Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: SQR).  Supported versions that are affected are 8.61-8.63. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise PeopleSoft Enterprise PeopleTools.  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all PeopleSoft Enterprise PeopleTools accessible data. CVSS 3.1 Base Score 6.5 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101419",
-   "cvss": 6.5,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "cc14a7b5b333ae4bd204e5699bfb2891f7938200"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101420 — Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: SQR)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101420",
-  "published": "2026-10-20T22:17:50.200",
-  "summary": "Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: SQR).  Supported versions that are affected are 8.61-8.63. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise PeopleSoft Enterprise PeopleTools.  While the vulnerability is in PeopleSoft Enterprise PeopleTools, attacks may significantly impact additional products (scope change).  Successful attacks of this vulnerability can result in  unauthorized creation, deletion or modification access to critical data or all PeopleSoft Enterprise PeopleTool",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101420",
-   "cvss": 9.6,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "9135fabec0d28008ebec4e2656335f22e3549d3b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101421 — Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: SQR)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101421",
-  "published": "2026-10-20T22:17:50.313",
-  "summary": "Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: SQR).  Supported versions that are affected are 8.61-8.63. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise PeopleSoft Enterprise PeopleTools.  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all PeopleSoft Enterprise PeopleTools accessible data. CVSS 3.1 Base Score 7.5 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101421",
-   "cvss": 7.5,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "38825aab2cbdb5adf1a8ab2ce135431a5afb33f3"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101422 — Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Report Distribution)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101422",
-  "published": "2026-10-20T22:17:50.430",
-  "summary": "Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Report Distribution).  Supported versions that are affected are 8.61-8.63. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise PeopleSoft Enterprise PeopleTools.  Successful attacks of this vulnerability can result in  unauthorized creation, deletion or modification access to critical data or all PeopleSoft Enterprise PeopleTools accessible data and unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of PeopleSoft ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101422",
-   "cvss": 8.1,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "26274f2a75ad395a27f983f1ccca7c8ea349de41"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101423 — Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Report Distribution)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101423",
-  "published": "2026-10-20T22:17:50.557",
-  "summary": "Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Report Distribution).  Supported versions that are affected are 8.61-8.63. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise PeopleSoft Enterprise PeopleTools.  Successful attacks of this vulnerability can result in  unauthorized read access to a subset of PeopleSoft Enterprise PeopleTools accessible data. CVSS 3.1 Base Score 4.3 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:N/A:N).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101423",
-   "cvss": 4.3,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "4c7d210af56d3acee3dd63b660c1b456ad2f1594"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101424 — Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Report Distribution)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101424",
-  "published": "2026-10-20T22:17:50.673",
-  "summary": "Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Report Distribution).  Supported versions that are affected are 8.61-8.63. Difficult to exploit vulnerability allows high privileged attacker with network access via HTTP to compromise PeopleSoft Enterprise PeopleTools.  While the vulnerability is in PeopleSoft Enterprise PeopleTools, attacks may significantly impact additional products (scope change).  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all PeopleSoft Enterprise PeopleT",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101424",
-   "cvss": 5.8,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "db4a090b3e32be924954bb78341a1a3cb994b752"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101425 — Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: SQR)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101425",
-  "published": "2026-10-20T22:17:50.790",
-  "summary": "Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: SQR).  Supported versions that are affected are 8.61-8.63. Difficult to exploit vulnerability allows low privileged attacker with logon to the infrastructure where PeopleSoft Enterprise PeopleTools executes to compromise PeopleSoft Enterprise PeopleTools.  Successful attacks of this vulnerability can result in  unauthorized read access to a subset of PeopleSoft Enterprise PeopleTools accessible data. CVSS 3.1 Base Score 2.5 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101425",
-   "cvss": 2.5,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "866d355d0e39b747bacafba5602a2cd326eb2883"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101426 — Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: SQR)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101426",
-  "published": "2026-10-20T22:17:50.900",
-  "summary": "Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: SQR).  Supported versions that are affected are 8.61-8.63. Difficult to exploit vulnerability allows high privileged attacker with logon to the infrastructure where PeopleSoft Enterprise PeopleTools executes to compromise PeopleSoft Enterprise PeopleTools.  Successful attacks require human interaction from a person other than the attacker and while the vulnerability is in PeopleSoft Enterprise PeopleTools, attacks may significantly impact additional products (scope change). Successful attacks of thi",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101426",
-   "cvss": 6.9,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "c6f2a2cbb4d3843207f1e8f912e2c79d5f7b31e7"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101427 — Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Report Distribution)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101427",
-  "published": "2026-10-20T22:17:51.017",
-  "summary": "Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Report Distribution).  Supported versions that are affected are 8.61-8.63. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise PeopleSoft Enterprise PeopleTools.  Successful attacks require human interaction from a person other than the attacker. Successful attacks of this vulnerability can result in  unauthorized creation, deletion or modification access to critical data or all PeopleSoft Enterprise PeopleTools accessible data and unauthorized",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101427",
-   "cvss": 8.1,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "11a771906ecac365ac8e5401f23c935995a8e914"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101428 — Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: SQR)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101428",
-  "published": "2026-10-20T22:17:51.130",
-  "summary": "Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: SQR).  Supported versions that are affected are 8.61-8.63. Difficult to exploit vulnerability allows low privileged attacker with network access via HTTP to compromise PeopleSoft Enterprise PeopleTools.  Successful attacks of this vulnerability can result in takeover of PeopleSoft Enterprise PeopleTools. CVSS 3.1 Base Score 7.5 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101428",
-   "cvss": 7.5,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "80ece9ecc17fbcdbd585557ec20a5d3fee527b66"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101429 — Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: SQR)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101429",
-  "published": "2026-10-20T22:17:51.247",
-  "summary": "Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: SQR).  Supported versions that are affected are 8.61-8.63. Difficult to exploit vulnerability allows unauthenticated attacker with logon to the infrastructure where PeopleSoft Enterprise PeopleTools executes to compromise PeopleSoft Enterprise PeopleTools.  Successful attacks require human interaction from a person other than the attacker. Successful attacks of this vulnerability can result in takeover of PeopleSoft Enterprise PeopleTools. CVSS 3.1 Base Score 7.0 (Confidentiality, Integrity and Avai",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101429",
-   "cvss": 7.0,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "90274d09a3be78659fd379f451ed0df4eb731d6c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101430 — Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Test Framework)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101430",
-  "published": "2026-10-20T22:17:51.363",
-  "summary": "Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Test Framework).  Supported versions that are affected are 8.61-8.63. Easily exploitable vulnerability allows unauthenticated attacker with logon to the infrastructure where PeopleSoft Enterprise PeopleTools executes to compromise PeopleSoft Enterprise PeopleTools.  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all PeopleSoft Enterprise PeopleTools accessible data. CVSS 3.1 Base Score 6.2 (Confidentiality impacts).  CVSS Vector: (C",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101430",
-   "cvss": 6.2,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "f84c0411ab03822613826cedd59c5ecb052f6f4d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101431 — Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Test Framework)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101431",
-  "published": "2026-10-20T22:17:51.473",
-  "summary": "Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Test Framework).  Supported versions that are affected are 8.61-8.63. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise PeopleSoft Enterprise PeopleTools.  Successful attacks require human interaction from a person other than the attacker and while the vulnerability is in PeopleSoft Enterprise PeopleTools, attacks may significantly impact additional products (scope change). Successful attacks of this vulnerability can result in  unauthorized c",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101431",
-   "cvss": 8.7,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "934826e2efb554836d2fda43dc019b6450f57113"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101432 — Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Test Framework)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101432",
-  "published": "2026-10-20T22:17:51.590",
-  "summary": "Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Test Framework).  Supported versions that are affected are 8.61-8.63. Easily exploitable vulnerability allows low privileged attacker with logon to the infrastructure where PeopleSoft Enterprise PeopleTools executes to compromise PeopleSoft Enterprise PeopleTools.  Successful attacks of this vulnerability can result in  unauthorized update, insert or delete access to some of PeopleSoft Enterprise PeopleTools accessible data as well as  unauthorized read access to a subset of PeopleSoft Enterprise Pe",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101432",
-   "cvss": 5.3,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "d3a9063ed7d0d3d32fe83f11c05f9074a33f122b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101433 — Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Test Framework)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101433",
-  "published": "2026-10-20T22:17:51.707",
-  "summary": "Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Test Framework).  Supported versions that are affected are 8.61-8.63. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise PeopleSoft Enterprise PeopleTools.  Successful attacks of this vulnerability can result in  unauthorized read access to a subset of PeopleSoft Enterprise PeopleTools accessible data. CVSS 3.1 Base Score 5.3 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N).",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101433",
-   "cvss": 5.3,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "8a02324cc5054b2028acdd3d2a01dfcd8ab2accd"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101434 — Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Database Server)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101434",
-  "published": "2026-10-20T22:17:51.820",
-  "summary": "Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Database Server).  Supported versions that are affected are 8.61-8.63. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise PeopleSoft Enterprise PeopleTools.  Successful attacks require human interaction from a person other than the attacker. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of PeopleSoft Enterprise PeopleTools as well as  unauthorized updat",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101434",
-   "cvss": 7.6,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "2b3bb99f03150cb1990e7daa16f817781ac004f7"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101435 — Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Porting)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101435",
-  "published": "2026-10-20T22:17:51.937",
-  "summary": "Vulnerability in the PeopleSoft Enterprise PeopleTools product of Oracle PeopleSoft (component: Porting).  Supported versions that are affected are 8.61-8.63. Easily exploitable vulnerability allows low privileged attacker with logon to the infrastructure where PeopleSoft Enterprise PeopleTools executes to compromise PeopleSoft Enterprise PeopleTools.  Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of PeopleSoft Enterprise PeopleTools as well as  unauthorized update, insert or delete access to some of Pe",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101435",
-   "cvss": 6.6,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "38a88a229f691f61d10b711324ed32855431cf72"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101436 — Vulnerability in the Siebel CRM Cloud Applications product of Oracle Siebel CRM (component: Siebel Cloud Manager)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101436",
-  "published": "2026-10-20T22:17:52.047",
-  "summary": "Vulnerability in the Siebel CRM Cloud Applications product of Oracle Siebel CRM (component: Siebel Cloud Manager).  Supported versions that are affected are 22.3-26.9. Difficult to exploit vulnerability allows high privileged attacker with logon to the infrastructure where Siebel CRM Cloud Applications executes to compromise Siebel CRM Cloud Applications.  Successful attacks of this vulnerability can result in  unauthorized access to critical data or complete access to all Siebel CRM Cloud Applications accessible data. CVSS 3.1 Base Score 4.1 (Confidentiality impacts).  CVSS Vector: (CVSS:3.1/",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101436",
-   "cvss": 4.1,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "4989d2d1c5d5190c4b9b16c49c77ff658dbafb73"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-101437 — Vulnerability in the Siebel CRM Cloud Applications product of Oracle Siebel CRM (component: Siebel Cloud Manager)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101437",
-  "published": "2026-10-20T22:17:52.163",
-  "summary": "Vulnerability in the Siebel CRM Cloud Applications product of Oracle Siebel CRM (component: Siebel Cloud Manager).  Supported versions that are affected are 22.3-26.9. Difficult to exploit vulnerability allows high privileged attacker with network access via HTTP to compromise Siebel CRM Cloud Applications.  While the vulnerability is in Siebel CRM Cloud Applications, attacks may significantly impact additional products (scope change).  Successful attacks of this vulnerability can result in  unauthorized creation, deletion or modification access to critical data or all Siebel CRM Cloud Applica",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-101437",
-   "cvss": 6.6,
-   "ref": "https://www.oracle.com/security-alerts/cpuoct2026.html"
-  },
-  "title_vi": "",
-  "key": "efb6df8a222434d2de78b9f8b05d536c3cb38954"
  }
 ]
