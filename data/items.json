@@ -1,5 +1,527 @@
 [
  {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Mỹ cập nhật cảnh báo du lịch đối với các quốc gia Trung Đông",
+  "link": "https://www.vietnamplus.vn/my-cap-nhat-canh-bao-du-lich-doi-voi-cac-quoc-gia-trung-dong-post1144143.vnp",
+  "published": "2026-10-25T07:17:48+00:00",
+  "summary": "Sân bay Quốc tế King Khalid ở thủ đô Riyadh của Saudi Arabia đã hai lần bị nhắm mục tiêu, trong khi các cuộc tấn công khác nhằm vào những mục tiêu bao gồm các cơ sở của tập đoàn Saudi Aramco. Ai Cập, Saudi Arabia, Pakistan và Thổ Nhĩ Kỳ kêu gọi \"hạ nhiệt\" căng thẳng Xung đột tại Trung Đông: Quân đội Israel phá dỡ nhiều công trình tại Bờ Tây Iran kêu gọi Hội đồng Bảo an Liên hợp quốc lên án lệnh phong tỏa hàng hải của Mỹ",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "da1a30d6089283af673e19ec379b791681e4e477"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Chuyển đổi số nâng cao hiệu quả vận hành bộ máy sau sắp xếp",
+  "link": "https://www.vietnamplus.vn/chuyen-doi-so-nang-cao-hieu-qua-van-hanh-bo-may-sau-sap-xep-post1144139.vnp",
+  "published": "2026-10-25T06:49:01+00:00",
+  "summary": "Việc đẩy mạnh cải cách hành chính gắn với chuyển đổi số, chuẩn hóa và kết nối dữ liệu, ứng dụng KPI và AI có kiểm soát nhằm đổi mới phương thức quản lý, nâng cao trách nhiệm cán bộ. Chuyển đổi số ngân hàng: Lấy AI làm động lực, niềm tin làm nền tảng Nghị quyết số 57: Tạo giá trị từ hợp tác công nghệ và chuyển đổi số Chuyển đổi số kiến tạo nền tảng phát triển mới cho Thủ đô Hà Nội",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "2c5ccd84551093b6125aec4cb45cb69aa6ee8c76"
+ },
+ {
+  "source": "GenK",
+  "title": "Amazon mua GPU AI trị giá hàng tỷ USD rồi để trong kho vì chưa có điện để bật",
+  "link": "https://genk.vn/amazon-mua-gpu-ai-tri-gia-hang-ty-usd-roi-de-trong-kho-vi-chua-co-dien-de-bat-165262510100508148.chn",
+  "published": "2026-10-25T08:56:07.778907+00:00",
+  "summary": "AWS được cho là đang nhận hàng tỷ USD máy chủ Nvidia mỗi tháng, dù một số trung tâm dữ liệu chưa hoàn thiện hoặc chưa có đủ điện để vận hành số GPU này.",
+  "categories": [
+   "ai",
+   "cloud",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "e7f2d3734240458051d96e0e5300df2509b22059"
+ },
+ {
+  "source": "Znews Công nghệ",
+  "title": "BLV Anh Quân xin lỗi khán giả vì lạm dụng AI",
+  "link": "https://tech.zingnews.vn/blv-anh-quan-xin-loi-khan-gia-vi-lam-dung-ai-post1691932.html",
+  "published": "2026-10-25T06:23:56+00:00",
+  "summary": "Sau thời gian sử dụng AI để tái tạo giọng đọc cho các video bóng đá, BLV Anh Quân quyết định quay lại tự thu âm, dù có thể ảnh hưởng đến tiến độ đăng tải nội dung.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "ce638865bf2079665799e9490e2dfabc728f9c8c"
+ },
+ {
+  "source": "VnExpress Số hóa",
+  "title": "AI đấu với con người trong cuộc đua drone tốc độ cao",
+  "link": "https://vnexpress.net/ai-dau-voi-con-nguoi-trong-cuoc-dua-drone-toc-do-cao-5134728.html",
+  "published": "2026-10-25T04:00:00+00:00",
+  "summary": "Drone do AI điều khiển học bay từ đầu và hoàn thành đường đua ở tốc độ trên 96 km/h, vượt qua những phi công hàng đầu thế giới.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "f4b31503185ade29569089f10f10011d59666376"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+  "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+  "published": "2026-10-25T06:54:29+00:00",
+  "summary": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. \"Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Các tác nhân AI OpenAI thể hiện khả năng thoát VM và liên lạc hộp cát chéo bí mật",
+  "key": "8dfa4c01da706a7bce7075cf4cc85758f927aa60"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-116000 — A security flaw has been discovered in Zylon PrivateGPT 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-116000",
+  "published": "2026-10-25T03:16:26.617",
+  "summary": "A security flaw has been discovered in Zylon PrivateGPT 1.0.0/1.0.1. This vulnerability affects the function load_file_from_uri of the file private_gpt/server/ingest/uri_loader.py of the component URI Artifact Loader. Performing a manipulation of the argument Value results in server-side request forgery. It is possible to initiate the attack remotely. The exploit has been released to the public and may be used for attacks. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-116000",
+   "cvss": 7.3,
+   "ref": "https://github.com/zylon-ai/private-gpt/issues/2269"
+  },
+  "title_vi": "CVE-2026-116000 — Một lỗ hổng bảo mật đã được phát hiện trong Zylon PrivateGPT 1",
+  "key": "6a8d4a3fc99d39579d7b9f991819889f4c43838f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-116004 — A security vulnerability has been detected in onyx-dot-app Onyx up to 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-116004",
+  "published": "2026-10-25T03:16:27.717",
+  "summary": "A security vulnerability has been detected in onyx-dot-app Onyx up to 5.0.0. Impacted is an unknown function of the file web/src/app/craft/components/output-panel/PreviewTab.tsx. The manipulation leads to cross site scripting. The attack can be initiated remotely. The exploit has been disclosed publicly and may be used. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-116004",
+   "cvss": 3.5,
+   "ref": "https://github.com/onyx-dot-app/onyx/"
+  },
+  "title_vi": "CVE-2026-116004 — Một lỗ hổng bảo mật đã được phát hiện trong ứng dụng onyx-dot Onyx lên đến 5",
+  "key": "c4f9c03752daaf69998f95c918f35d20e49d836b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-116006 — A vulnerability was detected in YunaiV/zhijiantianya ruoyi-vue-pro up to 2026",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-116006",
+  "published": "2026-10-25T04:17:34.083",
+  "summary": "A vulnerability was detected in YunaiV/zhijiantianya ruoyi-vue-pro up to 2026.09. The affected element is an unknown function of the file AuthController.java of the component SMS Code Verification. The manipulation of the argument mobile/code results in improper authentication. The attack can be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-116006",
+   "cvss": 7.3,
+   "ref": "https://gist.github.com/Fulucky0-yuri/1ad8a1f166af7cb85c498473753a8636"
+  },
+  "title_vi": "CVE-2026-116006 — Một lỗ hổng đã được phát hiện trong YunaiV/zhijiantianya ruoyi-vue-pro cho đến năm 2026",
+  "key": "33b0f6350921482217d8a68b88ecf40994b749ef"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-116007 — A flaw has been found in YunaiV/zhijiantianya ruoyi-vue-pro up to 2026",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-116007",
+  "published": "2026-10-25T04:17:34.610",
+  "summary": "A flaw has been found in YunaiV/zhijiantianya ruoyi-vue-pro up to 2026.09. The impacted element is the function SmsCodeServiceImpl.validateSmsCode0 of the file /service/sms/SmsCodeServiceImpl.java of the component SMS Code Verification. This manipulation causes improper restriction of excessive authentication attempts. The attack may be initiated remotely. The complexity of an attack is rather high. The exploitability is regarded as difficult. The exploit has been published and may be used. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-116007",
+   "cvss": 3.7,
+   "ref": "https://gist.github.com/Fulucky0-yuri/63e3a697ec79ffd41c1cbfdbb1fcd5b4"
+  },
+  "title_vi": "CVE-2026-116007 — Một lỗ hổng đã được tìm thấy trong YunaiV/zhijiantianya ruoyi-vue-pro cho đến năm 2026",
+  "key": "2227274020e132a32424a464e2d26285f8225397"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2025-15705 — The Contact Form by Supsystic WordPress plugin before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-15705",
+  "published": "2026-10-25T06:16:29.603",
+  "summary": "The Contact Form by Supsystic  WordPress plugin before 1.8.0 does not sanitise and escape a form name, allowing users with access to the form editor to inject arbitrary web scripts that execute when another user views the form. On multisite installations, where administrators do not hold the unfiltered_html capability, this crosses a privilege boundary.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2025-15705",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/7b592632-614d-4792-8372-a38e667e547b/"
+  },
+  "title_vi": "CVE-2025-15705 — Biểu mẫu liên hệ của plugin Supsystic WordPress trước 1",
+  "key": "b8198eca259dca07df952cb1fc1c0971b5d96994"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-110285 — The WP Stripe Checkout WordPress plugin before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-110285",
+  "published": "2026-10-25T06:16:31.020",
+  "summary": "The WP Stripe Checkout WordPress plugin before 1.2.2.62 does not verify the Stripe webhook signature when no signing secret is configured, which is its default state, allowing unauthenticated attackers to forge a payment completion notification and create a completed order without paying.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-110285",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/0f32d471-2806-4271-9a82-87895ef903ae/"
+  },
+  "title_vi": "CVE-2026-110285 — Plugin WP Stripe Checkout WordPress trước 1",
+  "key": "f6bdd72d333c7aa6cc84fc68d570bc6f502e2973"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-111976 — The GiveWP WordPress plugin before 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111976",
+  "published": "2026-10-25T06:16:31.150",
+  "summary": "The GiveWP  WordPress plugin before 4.19.0.1 does not perform any status or capability check when rendering a donation form on a public front-end route, allowing unauthenticated visitors to view the content and settings of unpublished (draft, pending, private and scheduled) donation forms that WordPress core otherwise keeps non-public.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-111976",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/f304401f-886c-4706-9629-d8f7a7146b78/"
+  },
+  "title_vi": "CVE-2026-111976 — Plugin WordPress GiveWP trước 4",
+  "key": "da8b7dbbe724c5d832da06fa4b5ca9a61ee2d218"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-111978 — The GiveWP WordPress plugin before 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111978",
+  "published": "2026-10-25T06:16:31.273",
+  "summary": "The GiveWP  WordPress plugin before 4.19.0.1 does not properly validate a user-supplied filename before reading it from disk, allowing users with a high-privilege custom role to perform path traversal, disclose the contents of JSON-parseable files anywhere on the server, and overwrite the GiveWP  WordPress plugin before 4.19.0.1's stored configuration.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-111978",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/ab77a13e-491e-47a9-a50d-839a8ad341aa/"
+  },
+  "title_vi": "CVE-2026-111978 — Plugin WordPress GiveWP trước 4",
+  "key": "e5494050113d4d3bb6a5d8abb190f55e9781bc3e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-111979 — The GiveWP WordPress plugin before 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111979",
+  "published": "2026-10-25T06:16:31.387",
+  "summary": "The GiveWP  WordPress plugin before 4.19.0.1 does not properly sanitise and escape one of its donation form template settings before outputting it inside an HTML attribute, allowing users with a custom form-editing GiveWP  WordPress plugin before 4.19.0.1 role to inject arbitrary web scripts that execute in the browser of any visitor or administrator who opens the affected donation form.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-111979",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/59b1b0ff-fbfb-4bb8-883e-94b5f2cee5a4/"
+  },
+  "title_vi": "CVE-2026-111979 — Plugin WordPress GiveWP trước 4",
+  "key": "09afb65237e7318bd317d57ff147f5233ff3fb74"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-111980 — The GiveWP WordPress plugin before 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111980",
+  "published": "2026-10-25T06:16:31.490",
+  "summary": "The GiveWP  WordPress plugin before 4.19.0.1 does not correctly determine which page a page-capability request applies to, allowing users with a custom fundraising role to edit, publish and read pages owned by other users, including administrators.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-111980",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/7664c532-7a74-47de-8ae1-df4862067689/"
+  },
+  "title_vi": "CVE-2026-111980 — Plugin GiveWP WordPress trước 4",
+  "key": "6b97aa3d15b06797edbde47db439330247a7e6f0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-111981 — The GiveWP WordPress plugin before 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111981",
+  "published": "2026-10-25T06:16:31.597",
+  "summary": "The GiveWP  WordPress plugin before 4.19.0.1 does not perform a capability check when handling donor address changes, allowing users who have been granted donor-report (view) access but not donor-edit access to add, modify, or delete the stored address of any donor on the site.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-111981",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/9fae25ff-51e6-4137-83d6-e752374dae57/"
+  },
+  "title_vi": "CVE-2026-111981 — Plugin WordPress GiveWP trước 4",
+  "key": "23bacd0ffc02e2a5779ea5553f5e0f675fa756fa"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-114740 — The WPVR WordPress plugin before 9",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-114740",
+  "published": "2026-10-25T06:16:31.703",
+  "summary": "The WPVR  WordPress plugin before 9.1.3 does not correctly check user capabilities when creating a tour through its setup wizard, allowing users with the Contributor role and above to create and publish tour content and set arbitrary post metadata they could not otherwise create or publish.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-114740",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/ac47bef6-b870-49ae-b9ad-ace83687280d/"
+  },
+  "title_vi": "CVE-2026-114740 — Plugin WPVR WordPress trước 9",
+  "key": "761fafb1b4e3f1af8f59e2154fdd8358cba823a3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-114741 — The WPVR WordPress plugin before 9",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-114741",
+  "published": "2026-10-25T06:16:31.820",
+  "summary": "The WPVR  WordPress plugin before 9.0.3 does not perform object-level authorization checks when reading and updating virtual tours, allowing users with contributor-level access and above to read and modify tours created by other users.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-114741",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/bfa704b5-b934-4615-aa75-d50b28baedf7/"
+  },
+  "title_vi": "CVE-2026-114741 — Plugin WPVR WordPress trước 9",
+  "key": "dc76dc01781f54bcb8b7ef253e2753610c1c1ed8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-114742 — The WPVR WordPress plugin before 9",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-114742",
+  "published": "2026-10-25T06:16:31.930",
+  "summary": "The WPVR  WordPress plugin before 9.0.3 does not perform object-level ownership checks when updating virtual tours, allowing users with contributor-level access and above to modify, reconfigure and publish tours created by other users.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-114742",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/201b0ca5-366d-446e-a92f-6962cd200bd7/"
+  },
+  "title_vi": "CVE-2026-114742 — Plugin WPVR WordPress trước 9",
+  "key": "e928ff0d10f8c880613e4abb6a60f25a13b4dd03"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-114743 — The InstaWP Connect WordPress plugin before 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-114743",
+  "published": "2026-10-25T06:16:32.037",
+  "summary": "The InstaWP Connect  WordPress plugin before 0.1.4.2 does not perform a capability check on its InstaWP Connect  WordPress plugin before 0.1.4.2-settings update action, verifying only a nonce, allowing an authenticated user holding a low-privileged role that an administrator has granted access to the InstaWP Connect  WordPress plugin before 0.1.4.2's sync feature to overwrite the InstaWP Connect  WordPress plugin before 0.1.4.2's settings, including the setting controlling which roles may access that feature. The role grant is not enabled by default.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-114743",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/b94671c5-c5b5-418d-ac9c-af21c7cbc6a4/"
+  },
+  "title_vi": "CVE-2026-114743 — Trình cắm InstaWP Connect WordPress trước 0",
+  "key": "4531f4deb37b94b54b9361a0194d183e44667e40"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115183 — The Qi Addons For Elementor WordPress plugin before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115183",
+  "published": "2026-10-25T06:16:32.143",
+  "summary": "The Qi Addons For Elementor WordPress plugin before 1.11.2 does not properly sanitise a widget's heading text after decoding HTML entities in it, allowing users with the Contributor role and above to embed live HTML forms, including password fields that submit to an external host, into posts where WordPress would otherwise strip them.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115183",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/a9cd8675-25f3-4d81-b768-4f20ef9208a8/"
+  },
+  "title_vi": "CVE-2026-115183 — Bổ trợ Qi cho Elementor WordPress plugin before 1",
+  "key": "fe0e551164ce567358cf2e43affb544218b0ac62"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115214 — The Datawiza Proxy Auth Plugin WordPress plugin before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115214",
+  "published": "2026-10-25T06:16:32.263",
+  "summary": "The Datawiza Proxy Auth Plugin  WordPress plugin before 1.1.1 does not verify that the user-identity and role HTTP request headers it trusts originate from a trusted reverse proxy, allowing unauthenticated attackers to create and authenticate as a WordPress administrator.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115214",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/2c6c7d10-2281-4a98-a0d6-769da5cce416/"
+  },
+  "title_vi": "CVE-2026-115214 — Plugin Datawiza Proxy Auth Plugin WordPress trước 1",
+  "key": "eeeed17916b98d8ad5e3d9ccb88389182ecc4021"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115251 — The Duplicator WordPress plugin before 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115251",
+  "published": "2026-10-25T06:16:32.373",
+  "summary": "The Duplicator  WordPress plugin before 5.0.0 does not restrict its one-click upgrade routine to users allowed to install Duplicator  WordPress plugin before 5.0.0, and additionally exposes the routine without authentication, allowing an administrator of a multisite child site who is not a network administrator to install and run arbitrary PHP in the network-wide shared Duplicator  WordPress plugin before 5.0.0 directory.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115251",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/c4512e96-6d96-474e-90c0-ad784eb1c145/"
+  },
+  "title_vi": "CVE-2026-115251 — Trình sao chép WordPress plugin trước 5",
+  "key": "451161f381c68d45be1eb92451c657a84b8b3198"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-116044 — A security vulnerability has been detected in prasathmani TinyFileManager up to 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-116044",
+  "published": "2026-10-25T06:16:32.500",
+  "summary": "A security vulnerability has been detected in prasathmani TinyFileManager up to 2.6. Affected by this issue is some unknown functionality of the file tinyfilemanager.php of the component Remote URL File Upload Module. The manipulation leads to unrestricted upload. It is possible to initiate the attack remotely. The exploit has been disclosed publicly and may be used. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-116044",
+   "cvss": 6.3,
+   "ref": "https://drive.google.com/file/d/1db5JeUDltknuzWMaFQB0cYYDVpmFWpl7/view"
+  },
+  "title_vi": "CVE-2026-116044 — Một lỗ hổng bảo mật đã được phát hiện trong prasathmani TinyFileManager lên đến 2",
+  "key": "dcd49a6e6f4418abdd66ba587567fef5365d0150"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-94295 — The Chikkili- Google Pay India for Woocommerce WordPress plugin through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94295",
+  "published": "2026-10-25T06:16:33.037",
+  "summary": "The Chikkili- Google Pay India for Woocommerce WordPress plugin through 1.0.6 does not verify that a payment notification actually originated from the payment provider before marking the associated order as paid, allowing unauthenticated attackers to mark arbitrary orders as paid without any payment being made.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-94295",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/d6ee17a1-0db1-4610-8c96-96e98fb734ec/"
+  },
+  "title_vi": "CVE-2026-94295 — Chikkili- Google Pay Ấn Độ cho Woocommerce WordPress plugin thông qua 1",
+  "key": "a0ebc0591ccba8eb3a1ac3744c27dfeeaef848a7"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-116045 — A vulnerability was detected in 1999AZZAR designer-mcp up to 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-116045",
+  "published": "2026-10-25T07:16:46.983",
+  "summary": "A vulnerability was detected in 1999AZZAR designer-mcp up to 2.1.0. This affects the function get_reference of the file skills/motion-designer/references/motion-dev-guidelines.md of the component MCP Interface. The manipulation of the argument Name results in path traversal. It is possible to launch the attack remotely. The exploit is now public and may be used. This product takes the approach of rolling releases to provide continious delivery. Therefore, version details for affected and updated releases are not available. The patch is identified as c8c2951dcbed9b1710a745993f028317f10a3f10. Ap",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-116045",
+   "cvss": 4.3,
+   "ref": "https://github.com/1999AZZAR/designer-mcp/"
+  },
+  "title_vi": "CVE-2026-116045 — Một lỗ hổng đã được phát hiện vào năm 1999AZZAR designer-mcp lên đến 2",
+  "key": "c83b17edbd90dc13f86c2c3dd52a2f44454a9d6f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-116046 — A flaw has been found in eventcatalog sdk up to 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-116046",
+  "published": "2026-10-25T07:16:47.180",
+  "summary": "A flaw has been found in eventcatalog sdk up to 2.29.0. This vulnerability affects the function getCustomDoc/writeCustomDoc/rmCustomDoc of the file packages/sdk/src/custom-docs.ts of the component Custom Documentation Helpers. This manipulation of the argument options.path causes path traversal. It is possible to launch the attack on the local host. Upgrading to version 2.30.0 is able to resolve this issue. Patch name: a4f072a03f440d58230092e88d8b4893f4c6d6ca. The affected component should be upgraded. The vendor was contacted early, responded in a very professional manner and quickly released",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-116046",
+   "cvss": 5.3,
+   "ref": "https://github.com/event-catalog/eventcatalog/commit/a4f072a03f440d58230092e88d8b4893f4c6d6ca"
+  },
+  "title_vi": "CVE-2026-116046 — Một lỗ hổng đã được tìm thấy trong eventcatalog sdk lên đến 2",
+  "key": "5772a3e2aaa5e5a4f7fdc691fc6befb2a75f0211"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-116047 — A vulnerability has been found in Privoce Vocechat up to 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-116047",
+  "published": "2026-10-25T08:16:26.583",
+  "summary": "A vulnerability has been found in Privoce Vocechat up to 0.9.121. This issue affects some unknown processing of the file widget.html of the component Query Parameter Handler. Such manipulation of the argument welcome leads to cross site scripting. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-116047",
+   "cvss": 4.3,
+   "ref": "https://github.com/H1ck1y/Vulnerabilities/blob/main/Vocechat_DomXss.md"
+  },
+  "title_vi": "CVE-2026-116047 — Một lỗ hổng đã được tìm thấy trong Privoce Vocechat lên đến 0",
+  "key": "67d77e83d1bb0907437e47fe9affeedfe5c30b90"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-116048 — A vulnerability was detected in krupalshah EmployeeRecruitmentSystem up to 922ff6d208278282e7c8e36d70d9ae356adec9fe",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-116048",
+  "published": "2026-10-25T08:16:26.780",
+  "summary": "A vulnerability was detected in krupalshah EmployeeRecruitmentSystem up to 922ff6d208278282e7c8e36d70d9ae356adec9fe. Affected by this vulnerability is the function mysql_query of the file /source/registerform1.php of the component Registration. Performing a manipulation of the argument firstname/middlename/lastname/gender/birthdate/state/statespecify/city/cityspecify results in sql injection. It is possible to initiate the attack remotely. The exploit is now public and may be used. This product is using a rolling release to provide continious delivery. Therefore, no version details for affecte",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-116048",
+   "cvss": 7.3,
+   "ref": "https://github.com/ubfbuz3/cve/issues/59"
+  },
+  "title_vi": "CVE-2026-116048 — Một lỗ hổng đã được phát hiện trong krupalshah EmployeeRecruitmentSystem lên đến 922ff6d208278282e7c8e36d70d9ae356adec9fe",
+  "key": "a83a0be98e41c8cbe848db5f8179ee922e312d1a"
+ },
+ {
   "source": "GenK",
   "title": "Hàng trăm card RTX 5090 bị tháo lấy chip để phục vụ máy chủ AI tại Trung Quốc",
   "link": "https://genk.vn/hang-tram-card-rtx-5090-bi-thao-lay-chip-de-phuc-vu-may-chu-ai-tai-trung-quoc-16526241016511310.chn",
@@ -3646,7 +4168,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Quest Diagnostics cảnh báo về hành vi trộm cắp dữ liệu tiềm ẩn sau khi tấn công vào hệ thống dịch vụ phòng thí nghiệm",
   "key": "63ab4dccd5420bd26bf7ea053e8975aa2f3321bc"
  },
  {
@@ -3675,7 +4197,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Các nhà khai thác Mirai Botnet tham gia các cuộc tấn công PHP2Shell khi khai thác bỏ qua ASLR xuất hiện",
   "key": "44bf7b5536e299cd8e46c09884177b3b17b7d09a"
  },
  {
@@ -5329,7 +5851,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/02273054b2e94e53065ea5644265bb9d8f7ee2a7"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98903 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: mailbox: imx: Thêm trường tắt kênh sashiko phàn nàn về khả năng bị rách",
   "key": "ab4f6bca2a42df2ddee74fcf361fb98b803d0bec"
  },
  {
@@ -5347,7 +5869,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/1f602619e408b6e9655ee76656a2a5ab6e89c5e4"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98904 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: mailbox: imx: Sử dụng devm_pm_runtime_enable() sashiko phàn nàn về việc sử dụng sớm",
   "key": "7325e850c4df3c1ce0b8e2bde7ef318ec27e6f91"
  },
  {
@@ -5365,7 +5887,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/20a5e7ffdfecddc34c60a6b4483f42acf3d8731d"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98905 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: drm/amdkfd: Thu thập đúng bộ đệm hàng đợi trong khôi phục CRIU Khi kfd_queue_acquire_",
   "key": "ed8a332faa961b4666585f7d54cebf23e485dbc1"
  },
  {
@@ -5383,7 +5905,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/3883898ddc26308497dbba8068951ab5eddbd111"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98906 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net: lan966x: khôi phục trạng thái RX khi tải lại lỗi lan966x_fdma_reload() sao lưu rx",
   "key": "5841fb7b3edbc799092aef3b8d7cd806d4f4b06e"
  },
  {
@@ -5401,7 +5923,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/123b9a545f4d0348e81f558a032bf2a93ee5722f"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98907 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: btrfs: protect sb_write_pointer() với khóa không hợp lệ sb_write_pointer() đọc thứ",
   "key": "39f7a3bc0055526ed6795d37c7ca0adae81b984c"
  },
  {
@@ -5419,7 +5941,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/46e50367338702abe3df661df7795bdada40fef7"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98908 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: net: microchip: sparx5: dọn dẹp tài nguyên PSFP khi lỗi thiết lập hoa sparx5_tc_",
   "key": "deff6e355c22f5e1332bb824304785c956aa4046"
  },
  {
@@ -5437,7 +5959,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0a44945b0d3422f5d81b49c97e293f3e21a8c585"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98909 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net: cpsw_new: unregister devlink on port registration failure cpsw_probe() regist",
   "key": "8625fa897d58520f66531a6688bf1993c01ffc6c"
  },
  {
@@ -5455,7 +5977,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/01112e241e37f9ac98b6f418d93ce2e0b87b7ee0"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98910 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: drm/amdkfd: Unwind debug trap enable on copy_to_user failure If kfd_dbg_trap_enabl",
   "key": "371d55bb20e2b476959094ded984d9d628c211b0"
  },
  {
@@ -5473,7 +5995,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/259ad6093204b999d41e7e6d0ad90ef9a71a44ab"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98911 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: dpaa2-switch: sửa đường dẫn lỗi trong dpaa2_switch_rx() Trong trường hợp có lỗi trong dpaa2",
   "key": "1fcaab688d5663dea60a23f9dccc46d1c1108569"
  },
  {
@@ -5491,7 +6013,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/20b8520d1ef996173065f7abdde47b99136c0785"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98912 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ALSA: seq: oss: Từ chối đọc không thể phù hợp với sự kiện tiếp theo snd_seq_oss_read() che",
   "key": "6d304614d7e367a7ee5ec9c84d7899af0f11dcc6"
  },
  {
@@ -5510,7 +6032,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/2bcf59eefb9f00a2b1d426b639ee49c305a80695"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98913 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net: thunderx: fix PTP device ref leak in nicvf_probe() cavium_ptp_get() acquires",
   "key": "bf0fb24486232a740baea9bc2e21c64454eb8fa3"
  },
  {
@@ -5528,7 +6050,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/27ef1795bc4e47cae838e0a3ced531c549f9b23d"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98914 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: drm/amdgpu: cap ATOM command table nesting depth Cap nesting at 32 levels with exe",
   "key": "be7a4c379bb0efc40c5b6e32e27b9421519847f0"
  },
  {
@@ -5546,7 +6068,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/56384b486b80ce4a2bc93689aae49995f908f90d"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98915 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: media: video-i2c: use vb2_video_unregister_device khi xóa trình điều khiển Việc sử dụng trình điều khiển",
   "key": "3164726519f21ba557099407383e4a79bdbe9d84"
  },
  {
@@ -5564,7 +6086,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/51423d370739aa3f701fdfbfcc52ecf321dfd71a"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98916 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: wifi: nl80211: check link is beaconing for color change When trying to do a color",
   "key": "453f2924597a770e2bcd4cdc9fded2bbedd41433"
  },
  {
@@ -5582,7 +6104,7 @@
    "cvss": 9.8,
    "ref": "https://patchstack.com/database/wordpress/theme/save-life/vulnerability/wordpress-save-life-theme-1-2-14-php-object-injection-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-112846 — Deserialization của lỗ hổng dữ liệu không đáng tin cậy trong ThemeREX Group Save Life cho phép Object Injection",
   "key": "c664abbb3bfcd340f5f055185f511928f2e0b44b"
  },
  {
@@ -5600,7 +6122,7 @@
    "cvss": 9.8,
    "ref": "https://patchstack.com/database/wordpress/theme/zensoul/vulnerability/wordpress-zensoul-theme-1-13-php-object-injection-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-112847 — Deserialization của lỗ hổng dữ liệu không đáng tin cậy trong ThemeREX ZenSoul zensoul cho phép Object Injection",
   "key": "14e356f53e557d5155b285762e453e9b0eeace66"
  },
  {
@@ -5618,7 +6140,7 @@
    "cvss": 9.8,
    "ref": "https://patchstack.com/database/wordpress/theme/hostmev2/vulnerability/wordpress-hostme-v2-theme-7-0-php-object-injection-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-112848 — Deserialization của lỗ hổng dữ liệu không đáng tin cậy trong AivahThemes Hostme v2 hostmev2 cho phép Object Injection",
   "key": "506831c8db589292fa4070620ca38860445ed9ee"
  },
  {
@@ -5636,7 +6158,7 @@
    "cvss": 7.1,
    "ref": "https://patchstack.com/database/wordpress/theme/hostmev2/vulnerability/wordpress-hostme-v2-theme-7-0-cross-site-scripting-xss-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-112849 — Trung hòa đầu vào không đúng cách trong quá trình tạo trang web ('Cross-site Scripting') lỗ hổng trong AivahThemes Hostme v2 hostmev2 cho phép dựa trên Dom",
   "key": "5d8f150d2d1eead8af648b992f02ae33cc085495"
  },
  {
@@ -5654,7 +6176,7 @@
    "cvss": 8.1,
    "ref": "https://patchstack.com/database/wordpress/theme/your-dress/vulnerability/wordpress-your-dress-theme-1-4-1-local-file-inclusion-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-112850 — Kiểm soát tên tệp không đúng cách đối với lỗ hổng Include/Require Statement in PHP Program ('PHP Remote File Inclusion') trong AncoraThemes Your Dress your-",
   "key": "8b6ebf207581aefe80e699bc6ccb26c4e70ac07d"
  },
  {
@@ -5672,7 +6194,7 @@
    "cvss": 9.8,
    "ref": "https://patchstack.com/database/wordpress/theme/hotlock/vulnerability/wordpress-hotlock-theme-1-3-9-php-object-injection-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-112851 — Deserialization của lỗ hổng dữ liệu không đáng tin cậy trong ThemeREX Group HotLock hotlock cho phép Object Injection",
   "key": "6847fcc71554669cfd77d6f02756e5e91e6ff008"
  },
  {
@@ -5690,7 +6212,7 @@
    "cvss": 8.1,
    "ref": "https://patchstack.com/database/wordpress/theme/helion/vulnerability/wordpress-helion-theme-1-1-12-php-object-injection-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-112852 — Deserialization của lỗ hổng dữ liệu không đáng tin cậy trong ThemeREX Group Helion helion cho phép Object Injection",
   "key": "a66c91fef989874db9f9e73cec1f42bb9f3f6011"
  },
  {
@@ -5708,7 +6230,7 @@
    "cvss": 9.8,
    "ref": "https://patchstack.com/database/wordpress/theme/hallelujah/vulnerability/wordpress-hallelujah-theme-1-1-1-php-object-injection-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-112853 - Deserialization của lỗ hổng dữ liệu không đáng tin cậy trong các tiên đề Hallelujah hallelujah cho phép Object Injection",
   "key": "b2ac9a1974f93a9e10ace36881a377392d2cb234"
  },
  {
@@ -5726,7 +6248,7 @@
    "cvss": 9.8,
    "ref": "https://patchstack.com/database/wordpress/theme/holistic-center/vulnerability/wordpress-holistic-center-theme-1-2-6-php-object-injection-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-112854 — Deserialization of Untrusted Data vulnerability in axiomthemes Holistic Center holistic centre allows Object Injection",
   "key": "2ace9555619daa8d1cae8176abb660cb4532f931"
  },
  {
@@ -5744,7 +6266,7 @@
    "cvss": 9.8,
    "ref": "https://patchstack.com/database/wordpress/theme/redy/vulnerability/wordpress-redy-theme-1-3-5-php-object-injection-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-112855 - Deserialization của lỗ hổng dữ liệu không đáng tin cậy trong các tiên đề Redy redy cho phép Object Injection",
   "key": "7801c2e50668011661da02fdb860c3a74f73679c"
  },
  {
@@ -5762,7 +6284,7 @@
    "cvss": 9.8,
    "ref": "https://patchstack.com/database/wordpress/theme/vagabonds/vulnerability/wordpress-vagabonds-theme-1-3-10-php-object-injection-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-112856 — Deserialization của lỗ hổng dữ liệu không đáng tin cậy trong ThemeREX Group Vagabonds vagabonds cho phép Object Injection",
   "key": "42d73ef4b50a5850c23e30a91b14db092afa03b5"
  },
  {
@@ -5780,7 +6302,7 @@
    "cvss": 9.8,
    "ref": "https://patchstack.com/database/wordpress/theme/reprizo/vulnerability/wordpress-reprizo-theme-1-0-8-php-object-injection-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-112857 - Deserialization của lỗ hổng dữ liệu không đáng tin cậy trong các tiên đề Reprizo reprizo cho phép Object Injection",
   "key": "4f587067dd71b59a944020f9304f24ced1d08374"
  },
  {
@@ -5798,7 +6320,7 @@
    "cvss": 9.8,
    "ref": "https://patchstack.com/database/wordpress/theme/rhodos/vulnerability/wordpress-rhodos-theme-1-3-3-php-object-injection-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-112858 — Deserialization của lỗ hổng dữ liệu không đáng tin cậy trong tiên đề Rhodos rhodos cho phép Object Injection",
   "key": "990242d32922a37cab87a628f46d54060afaa29d"
  },
  {
@@ -5816,7 +6338,7 @@
    "cvss": 9.8,
    "ref": "https://patchstack.com/database/wordpress/theme/little-birdies/vulnerability/wordpress-little-birdies-theme-1-3-16-php-object-injection-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-112859 — Deserialization của lỗ hổng dữ liệu không đáng tin cậy trong ThemeREX Group Little Birdies little-birdies cho phép Object Injection",
   "key": "4eeb5b42509fad6d68b5e8f8cc0356a0d602a551"
  },
  {
@@ -5834,7 +6356,7 @@
    "cvss": 7.1,
    "ref": "https://patchstack.com/database/wordpress/theme/kallyas/vulnerability/wordpress-kallyas-theme-4-25-0-cross-site-scripting-xss-vulnerability?_s_id=cve"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-112863 — Trung hòa đầu vào không đúng cách trong quá trình tạo trang web ('Cross-site Scripting') lỗ hổng trong Hogash KALLYAS Kallyas cho phép Reflected XSS",
   "key": "1afcc64d59e7008d8a284ec457a12927b005bd3b"
  },
  {
@@ -5852,7 +6374,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/hapijs/content/blob/v6.0.2/lib/index.js#L96"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-115728 — @hapi/nội dung từ 6",
   "key": "b850bdbf013582fa276c497f5d6a06699bc6efff"
  },
  {
@@ -5870,7 +6392,7 @@
    "cvss": 6.8,
    "ref": "https://github.com/pdfme/pdfme/commit/d03d0bc4994ce6921e152879793c5ff52c5600a6"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-115729 — @pdfme/phổ biến từ 5",
   "key": "04818a47f9edd919f427d6bcc5688fb462ff1b11"
  },
  {
@@ -5906,7 +6428,7 @@
    "cvss": 3.3,
    "ref": "https://github.com/hydra-ecosystem/hydra/commit/46e2fdaecd54dbfc041616b1229bd1614b73d765"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-115749 - súng phóng tia thủy lực 1",
   "key": "d9bbdaa97433b8280bc85c911c2302e178660583"
  },
  {
@@ -5924,7 +6446,7 @@
    "cvss": 3.7,
    "ref": "https://github.com/agentfront/mcp-from-openapi/commit/47fb7a655de33958b0c923490ab244343eb5fc44"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-115750 — mcp-from-openapi từ 2",
   "key": "2fda1a7a226e4a6c73c876dabb4db0a4b0a492db"
  },
  {
@@ -73463,546 +73985,5 @@
   },
   "title_vi": "",
   "key": "8ce9987ffdf6a230fc8e2a6ff8c7cb735f4b9aed"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-105960 — PEAK-System PCAN contains a vulnerable operation involving a variable-length receive-record copy",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-105960",
-  "published": "2026-10-20T21:17:15.160",
-  "summary": "PEAK-System PCAN contains a vulnerable operation involving a variable-length receive-record copy. The driver uses a requested or queued record count without sufficiently capping the copy to the actual caller-supplied output length.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-105960",
-   "cvss": 5.5,
-   "ref": "https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-293-01.json"
-  },
-  "title_vi": "",
-  "key": "082acc67d3aa6d75c54acfc4ce3e7c251232f57d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-107928 — When curl is built with GnuTLS, a malicious WebSocket server can make curl send memory past its send buffer",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-107928",
-  "published": "2026-10-20T21:17:15.470",
-  "summary": "When curl is built with GnuTLS, a malicious WebSocket server can make curl\nsend memory past its send buffer. This is due to an out of bounds read\nfollowing when `gnutls_record_send()` returns a number of bytes sent **greater\nthan the number of bytes it was given to send**. GnuTLS does that after a\nblocked send.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-107928",
-   "cvss": null,
-   "ref": "https://curl.se/docs/CVE-2026-107928.html"
-  },
-  "title_vi": "",
-  "key": "f26e93fbcbff4c8cf08c9c11d1ddf20cbed0c5ca"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-107929 — When `CURLOPT_INTERFACE` (or the command line tool's `--interface` option) is set with one of the documented prefixes (`if!`, `host!`, `ifhost!`), tha",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-107929",
-  "published": "2026-10-20T21:17:15.593",
-  "summary": "When `CURLOPT_INTERFACE` (or the command line tool's `--interface` option) is\nset with one of the documented prefixes (`if!`, `host!`, `ifhost!`), that\nbinding is not part of the connection reuse key, so a later transfer asking\nfor a different source can silently reuse an existing connection and go out\nfrom the earlier transfer's source address",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-107929",
-   "cvss": null,
-   "ref": "https://curl.se/docs/CVE-2026-107929.html"
-  },
-  "title_vi": "",
-  "key": "5a2d6a055571c0a935d9261ff3547a2ef634b7d9"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-109576 — The parser in PEAK-System PCAN driver correctly detected the malformed record, but the loop iterating the record list advanced its processed-bytes cou",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-109576",
-  "published": "2026-10-20T21:17:15.710",
-  "summary": "The parser in PEAK-System PCAN driver correctly detected the malformed record, but the loop iterating the record list advanced its processed-bytes counter even when a record had been rejected as invalid.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-109576",
-   "cvss": 5.5,
-   "ref": "https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-293-01.json"
-  },
-  "title_vi": "",
-  "key": "03cbf4fa429052d5897238dbdfe7e731f3a70f75"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-10131 — An OS command injection vulnerability exists in the boa formPasswordSetup functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-10131",
-  "published": "2026-10-20T21:17:15.853",
-  "summary": "An OS command injection vulnerability exists in the boa formPasswordSetup functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1.0.0-B20250421.1327). A specially crafted HTTP request can lead to arbitrary code execution. An attacker can make an authenticated HTTP request to trigger this vulnerability.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-10131",
-   "cvss": 9.1,
-   "ref": "https://talosintelligence.com/vulnerability_reports/TALOS-2026-2432"
-  },
-  "title_vi": "",
-  "key": "341b6077a211b0b1c5f209fbafae447bddce79a6"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-10132 — A stack-based buffer overflow vulnerability exists in the boa formIpQos mac functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-10132",
-  "published": "2026-10-20T21:17:15.993",
-  "summary": "A stack-based buffer overflow vulnerability exists in the boa formIpQos mac functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1.0.0-B20250421.1327). A specially crafted HTTP request can lead to arbitrary code execution. An attacker can make an authenticated HTTP request to trigger this vulnerability.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-10132",
-   "cvss": 9.1,
-   "ref": "https://talosintelligence.com/vulnerability_reports/TALOS-2026-2433"
-  },
-  "title_vi": "",
-  "key": "a48efa2b00c87aaea3e49eac4d25f5111d33e6b3"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-10133 — A stack-based buffer overflow vulnerability exists in the batchupg functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-10133",
-  "published": "2026-10-20T21:17:16.117",
-  "summary": "A stack-based buffer overflow vulnerability exists in the batchupg functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1.0.0-B20250421.1327). A specially crafted HTTP request can lead to arbitrary code execution. An attacker can make an authenticated HTTP request to trigger this vulnerability.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-10133",
-   "cvss": 9.1,
-   "ref": "https://talosintelligence.com/vulnerability_reports/TALOS-2026-2434"
-  },
-  "title_vi": "",
-  "key": "3ccc3b7a594a7ad9b4ecaffd715bcf9448f68017"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-10135 — A OS command injection vulnerability exists in the batchupg functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-10135",
-  "published": "2026-10-20T21:17:16.240",
-  "summary": "A OS command injection vulnerability exists in the batchupg functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1.0.0-B20250421.1327). A specially crafted HTTP request can lead to arbitrary code execution. An attacker can make an authenticated HTTP request to trigger this vulnerability.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-10135",
-   "cvss": 9.1,
-   "ref": "https://talosintelligence.com/vulnerability_reports/TALOS-2026-2435"
-  },
-  "title_vi": "",
-  "key": "9a6bb6ee7e3fb3fd853525439ec4de06884bc389"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-10136 — A heap-based buffer overflow vulnerability exists in the boa formUpload() functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-10136",
-  "published": "2026-10-20T21:17:16.360",
-  "summary": "A heap-based buffer overflow vulnerability exists in the boa formUpload() functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1.0.0-B20250421.1327). A specially crafted HTTP request can lead to arbitrary code execution. An attacker can make an authenticated HTTP request to trigger this vulnerability.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-10136",
-   "cvss": 9.1,
-   "ref": "https://talosintelligence.com/vulnerability_reports/TALOS-2026-2436"
-  },
-  "title_vi": "",
-  "key": "7ea29208edfc75e046c9b6fbeb67a6ee6d8f56c9"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-10137 — A stack-based buffer overflow vulnerability exists in the boa formUpload() functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-10137",
-  "published": "2026-10-20T21:17:16.480",
-  "summary": "A stack-based buffer overflow vulnerability exists in the boa formUpload() functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1.0.0-B20250421.1327). A specially crafted HTTP request can lead to arbitrary code execution. An attacker can make an authenticated HTTP request to trigger this vulnerability.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-10137",
-   "cvss": 9.1,
-   "ref": "https://talosintelligence.com/vulnerability_reports/TALOS-2026-2437"
-  },
-  "title_vi": "",
-  "key": "c29c738a86fcf5b1e65a961a8f21062a157f8b59"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-10138 — A OS command injection vulnerability exists in the boa formUpload() functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-10138",
-  "published": "2026-10-20T21:17:16.597",
-  "summary": "A OS command injection vulnerability exists in the boa formUpload() functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1.0.0-B20250421.1327). A specially crafted HTTP request can lead to arbitrary code execution. An attacker can make an authenticated HTTP request to trigger this vulnerability.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-10138",
-   "cvss": 9.1,
-   "ref": "https://talosintelligence.com/vulnerability_reports/TALOS-2026-2438"
-  },
-  "title_vi": "",
-  "key": "5204dfc850219ecd6993dfcc4127583b9e672003"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-10139 — A stack-based buffer overflow vulnerability exists in the Mcli functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-10139",
-  "published": "2026-10-20T21:17:16.720",
-  "summary": "A stack-based buffer overflow vulnerability exists in the Mcli functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1.0.0-B20250421.1327). A specially crafted HTTP request can lead to arbitrary code execution. An attacker can make an authenticated HTTP request to trigger this vulnerability.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-10139",
-   "cvss": 9.1,
-   "ref": "https://talosintelligence.com/vulnerability_reports/TALOS-2026-2439"
-  },
-  "title_vi": "",
-  "key": "41a7f0c507ae51fbf651c291f75778b1d38a9db1"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-10141 — A Unsigned Firmware vulnerability exists in the boa Firmware Update functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-10141",
-  "published": "2026-10-20T21:17:16.843",
-  "summary": "A Unsigned Firmware vulnerability exists in the boa Firmware Update functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1.0.0-B20250421.1327). A specially crafted firmware binary can lead to arbitrary firmware update. An attacker can make an authenticated HTTP request to trigger this vulnerability.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-10141",
-   "cvss": 9.1,
-   "ref": "https://talosintelligence.com/vulnerability_reports/TALOS-2026-2440"
-  },
-  "title_vi": "",
-  "key": "e051b69590e66366f48c7a4e3d569a1c5f59d186"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-110322 — The PEAK-System PCAN type 0x4030 processing path fails to validate a selected/returned object pointer before dereferencing fixed fields during post-pr",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-110322",
-  "published": "2026-10-20T21:17:16.970",
-  "summary": "The PEAK-System PCAN type 0x4030 processing path fails to validate a selected/returned object pointer before dereferencing fixed fields during post-processing.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-110322",
-   "cvss": 5.5,
-   "ref": "https://github.com/cisagov/CSAF/blob/develop/csaf_files/OT/white/2026/icsa-26-293-01.json"
-  },
-  "title_vi": "",
-  "key": "898e83b9d5cd95096471bff407f3440345b70140"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-111758 — markdown-it is a Markdown parser",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111758",
-  "published": "2026-10-20T21:17:17.110",
-  "summary": "markdown-it is a Markdown parser. From versions 14.1.0 to before 14.3.3, and 15.0.0 to before 15.0.3, a link reference definition whose label or title is never closed is O(n²) with default options. Continuation lines are pulled lazily with str += lineContent in src/rules_block/reference.ts, and the subsequent charCodeAt and slice calls flatten the V8 cons-string, copying everything collected so far; this runs before the rule decides the definition is invalid. No options are required to trigger it. This issue has been patched in versions 14.3.3 and 15.0.3.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-111758",
-   "cvss": 7.5,
-   "ref": "https://github.com/markdown-it/markdown-it/commit/48fbc465812c440020c663f040ab22deaf8f1eca"
-  },
-  "title_vi": "",
-  "key": "78d69eadb54d7e1f8e154c05e4cdb8538dff578e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-112407 — Incorrect privilege assignment in the IAM policy of AWS CICD-toolchain-for-serverless-applications 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-112407",
-  "published": "2026-10-20T21:17:17.773",
-  "summary": "Incorrect privilege assignment in the IAM policy of AWS CICD-toolchain-for-serverless-applications 1.0.7 through 1.0.10 allows remote authenticated users with push access to the application source repository to escalate privileges and access or modify resources outside the application stack in the same AWS account via application templates deployed by the toolchain pipeline.\n\n\n\nTo remediate this issue, users should upgrade existing toolchain stacks to version 1.0.11 or later.",
-  "categories": [
-   "cloud",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-112407",
-   "cvss": 8.8,
-   "ref": "https://aws.amazon.com/security/security-bulletins/2026-141-aws/"
-  },
-  "title_vi": "",
-  "key": "15dfd4dd4017a10addae26a5bfc278bc7121f9b4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-112712 — @fastify/middie is the Express-style middleware engine for Fastify",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-112712",
-  "published": "2026-10-20T21:17:17.910",
-  "summary": "@fastify/middie is the Express-style middleware engine for Fastify. In versions from 9.0.0 through 9.3.5, the use() function joined a path-scoped middleware's mount path to the plugin scope prefix in a way that could diverge from the path Fastify's router serves, most often when the scope prefix ended in a slash, and also for array mount paths and for mount paths written without a leading slash. When the two paths disagreed, the middleware was silently skipped while the route handler still ran, so path-scoped middleware such as authentication, authorization, or rate limiting could be bypassed ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-112712",
-   "cvss": 9.1,
-   "ref": "https://cna.openjsf.org/security-advisories.html"
-  },
-  "title_vi": "",
-  "key": "da481ceca914fddfc864e62deef65f6aa130e85a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-28763 — A stack-based buffer overflow vulnerability exists in the boa formMapDelDevice hostname functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-28763",
-  "published": "2026-10-20T21:17:18.037",
-  "summary": "A stack-based buffer overflow vulnerability exists in the boa formMapDelDevice hostname functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1.0.0-B20250421.1327). A specially crafted HTTP request can lead to arbitrary code execution. An attacker can make an authenticated HTTP request to trigger this vulnerability.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-28763",
-   "cvss": 9.1,
-   "ref": "https://talosintelligence.com/vulnerability_reports/TALOS-2026-2389"
-  },
-  "title_vi": "",
-  "key": "896f921b70671e62ba603e94196e025369ccc1a6"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-33568 — A OS command injection vulnerability exists in the boa formMapDelDevice macstr functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-33568",
-  "published": "2026-10-20T21:17:18.157",
-  "summary": "A OS command injection vulnerability exists in the boa formMapDelDevice macstr functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1.0.0-B20250421.1327). A specially crafted HTTP request can lead to arbitrary code execution. An attacker can make an authenticated HTTP request to trigger this vulnerability.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-33568",
-   "cvss": 9.1,
-   "ref": "https://talosintelligence.com/vulnerability_reports/TALOS-2026-2391"
-  },
-  "title_vi": "",
-  "key": "3a8bf5147a09234de8b6774ee8ca3fd59e69f649"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-35499 — An os command injection vulnerability exists in the boa formWsc peerRptPin functionality of Totolink X2000R TOTOLINK-X2000R-Gh-V1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-35499",
-  "published": "2026-10-20T21:17:18.277",
-  "summary": "An os command injection vulnerability exists in the boa formWsc peerRptPin functionality of Totolink X2000R TOTOLINK-X2000R-Gh-V1.0.0-B20250421.1327. A specially crafted HTTP request can lead to arbitrary code execution. An attacker can make an authenticated HTTP request to trigger this vulnerability.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-35499",
-   "cvss": 9.1,
-   "ref": "https://talosintelligence.com/vulnerability_reports/TALOS-2026-2387"
-  },
-  "title_vi": "",
-  "key": "a8b9806b6631e67f443efb2571b29d2e6c5f14ee"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-40615 — A stack-based buffer overflow vulnerability exists in the boa formParentControl deviceName functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-40615",
-  "published": "2026-10-20T21:17:18.393",
-  "summary": "A stack-based buffer overflow vulnerability exists in the boa formParentControl deviceName functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1.0.0-B20250421.1327). A specially crafted HTTP request can lead to arbitrary code execution. An attacker can make an authenticated HTTP request to trigger this vulnerability.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-40615",
-   "cvss": 9.1,
-   "ref": "https://talosintelligence.com/vulnerability_reports/TALOS-2026-2393"
-  },
-  "title_vi": "",
-  "key": "017c656b684077833d62ce4abc758335595a9d8c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-40627 — An os command injection vulnerability exists in the boa formWsc targetAPSsid functionality of Totolink X2000R TOTOLINK-X2000R-Gh-V1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-40627",
-  "published": "2026-10-20T21:17:18.517",
-  "summary": "An os command injection vulnerability exists in the boa formWsc targetAPSsid functionality of Totolink X2000R TOTOLINK-X2000R-Gh-V1.0.0-B20250421.1327. A specially crafted HTTP request can lead to arbitrary code execution. An attacker can make an authenticated HTTP request to trigger this vulnerability.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-40627",
-   "cvss": 9.1,
-   "ref": "https://talosintelligence.com/vulnerability_reports/TALOS-2026-2388"
-  },
-  "title_vi": "",
-  "key": "18804c27bbe90deb0cc592bf69d18a78eba9e19e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-41222 — A stack-based buffer overflow vulnerability exists in the boa formParentControl url functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-41222",
-  "published": "2026-10-20T21:17:18.653",
-  "summary": "A stack-based buffer overflow vulnerability exists in the boa formParentControl url functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1.0.0-B20250421.1327). A specially crafted HTTP request can lead to arbitrary code execution. An attacker can make an authenticated HTTP request to trigger this vulnerability.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-41222",
-   "cvss": 9.1,
-   "ref": "https://talosintelligence.com/vulnerability_reports/TALOS-2026-2392"
-  },
-  "title_vi": "",
-  "key": "ca7adffe411c65c0a7e155948244d9614c3260c9"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-41223 — A stack-based buffer overflow vulnerability exists in the boa formMapDelDevice macstr functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-41223",
-  "published": "2026-10-20T21:17:18.783",
-  "summary": "A stack-based buffer overflow vulnerability exists in the boa formMapDelDevice macstr functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1.0.0-B20250421.1327). A specially crafted HTTP request can lead to arbitrary code execution. An attacker can make an authenticated HTTP request to trigger this vulnerability.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-41223",
-   "cvss": 9.1,
-   "ref": "https://talosintelligence.com/vulnerability_reports/TALOS-2026-2390"
-  },
-  "title_vi": "",
-  "key": "03243a52bee0d4c8c70c63730c50ba29384e475a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-42019 — Multiple stack-based buffer overflow vulnerabilities exist in the boa formIpv6Setup pppoe functionality of Totolink X2000R TOTOLINK-X2000R-Gh-V1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-42019",
-  "published": "2026-10-20T21:17:18.903",
-  "summary": "Multiple stack-based buffer overflow vulnerabilities exist in the boa formIpv6Setup pppoe functionality of Totolink X2000R TOTOLINK-X2000R-Gh-V1.0.0-B20250421.1327. A specially crafted HTTP request can lead to arbitrary code execution. An attacker can make an authenticated HTTP request to trigger these vulnerabilities. This vulnerability concerns the pppoe_dns1 parameter.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-42019",
-   "cvss": 9.1,
-   "ref": "https://talosintelligence.com/vulnerability_reports/TALOS-2026-2394"
-  },
-  "title_vi": "",
-  "key": "841043ae5312c01815713acf72a58cbb111da5d8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-42020 — Multiple stack-based buffer overflow vulnerabilities exist in the boa formIpv6Setup pppoe functionality of Totolink X2000R TOTOLINK-X2000R-Gh-V1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-42020",
-  "published": "2026-10-20T21:17:19.020",
-  "summary": "Multiple stack-based buffer overflow vulnerabilities exist in the boa formIpv6Setup pppoe functionality of Totolink X2000R TOTOLINK-X2000R-Gh-V1.0.0-B20250421.1327. A specially crafted HTTP request can lead to arbitrary code execution. An attacker can make an authenticated HTTP request to trigger these vulnerabilities. This vulnerability concerns the pppoe_dns2 parameter.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-42020",
-   "cvss": 9.1,
-   "ref": "https://talosintelligence.com/vulnerability_reports/TALOS-2026-2394"
-  },
-  "title_vi": "",
-  "key": "d0ddb9a4c151c1d679cda04b4df9fda254f074ec"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-42021 — Multiple stack-based buffer overflow vulnerabilities exist in the boa formIpv6Setup static network configuration functionality of Totolink X2000R TOTO",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-42021",
-  "published": "2026-10-20T21:17:19.140",
-  "summary": "Multiple stack-based buffer overflow vulnerabilities exist in the boa formIpv6Setup static network configuration functionality of Totolink X2000R TOTOLINK-X2000R-Gh-V1.0.0-B20250421.1327. A specially crafted HTTP request can lead to arbitrary code execution. An attacker can make an authenticated HTTP request to trigger these vulnerabilities. This vulnerability concerns the static_dns1 parameter.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-42021",
-   "cvss": 9.1,
-   "ref": "https://talosintelligence.com/vulnerability_reports/TALOS-2026-2395"
-  },
-  "title_vi": "",
-  "key": "907b5ed17f2512b652c9c9c26de04315d5454425"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-42022 — Multiple stack-based buffer overflow vulnerabilities exist in the boa formIpv6Setup static network configuration functionality of Totolink X2000R TOTO",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-42022",
-  "published": "2026-10-20T21:17:19.257",
-  "summary": "Multiple stack-based buffer overflow vulnerabilities exist in the boa formIpv6Setup static network configuration functionality of Totolink X2000R TOTOLINK-X2000R-Gh-V1.0.0-B20250421.1327. A specially crafted HTTP request can lead to arbitrary code execution. An attacker can make an authenticated HTTP request to trigger these vulnerabilities. This vulnerability concerns the static_dns2 parameter.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-42022",
-   "cvss": 9.1,
-   "ref": "https://talosintelligence.com/vulnerability_reports/TALOS-2026-2395"
-  },
-  "title_vi": "",
-  "key": "4651abe3e2208be5dc04cace9b04fdac8cc3629d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-42023 — Multiple stack-based buffer overflow vulnerabilities exist in the boa formIpv6Setup static network configuration functionality of Totolink X2000R TOTO",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-42023",
-  "published": "2026-10-20T21:17:19.373",
-  "summary": "Multiple stack-based buffer overflow vulnerabilities exist in the boa formIpv6Setup static network configuration functionality of Totolink X2000R TOTOLINK-X2000R-Gh-V1.0.0-B20250421.1327. A specially crafted HTTP request can lead to arbitrary code execution. An attacker can make an authenticated HTTP request to trigger these vulnerabilities. This vulnerability concerns the static_ipv6 parameter.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-42023",
-   "cvss": 9.1,
-   "ref": "https://talosintelligence.com/vulnerability_reports/TALOS-2026-2395"
-  },
-  "title_vi": "",
-  "key": "350f5174b640b9431d9abc5c2f9646073ef3b723"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-42024 — Multiple stack-based buffer overflow vulnerabilities exist in the boa formIpv6Setup static network configuration functionality of Totolink X2000R TOTO",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-42024",
-  "published": "2026-10-20T21:17:19.490",
-  "summary": "Multiple stack-based buffer overflow vulnerabilities exist in the boa formIpv6Setup static network configuration functionality of Totolink X2000R TOTOLINK-X2000R-Gh-V1.0.0-B20250421.1327. A specially crafted HTTP request can lead to arbitrary code execution. An attacker can make an authenticated HTTP request to trigger these vulnerabilities. This vulnerability concerns the static_gw parameter.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-42024",
-   "cvss": 9.1,
-   "ref": "https://talosintelligence.com/vulnerability_reports/TALOS-2026-2395"
-  },
-  "title_vi": "",
-  "key": "4d30938c041e16222eaec217b5b636bbb707b409"
  }
 ]
