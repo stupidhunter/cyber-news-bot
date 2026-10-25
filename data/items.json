@@ -1,5 +1,199 @@
 [
  {
+  "source": "CISA KEV",
+  "title": "CVE-2026-106931 — EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106931",
+  "published": "2026-10-20",
+  "summary": "EG Secure Solutions SiteGuard Server Edition contains an OS command injection vulnerability which may allow an attacker to execute arbitrary OS commands with root or SYSTEM privileges on the system running the affected product.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-106931",
+   "vendor": "EG Secure Solutions",
+   "product": "SiteGuard Server Edition",
+   "due_date": "2026-10-23",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "CVE-2026-106931 - EG Giải pháp bảo mật SiteGuard Phiên bản máy chủ Hệ điều hành Lỗ hổng tiêm lệnh",
+  "key": "a3a49a55151e89b5ef82d28de72e395460497f99"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2026-96656 — Plex Media Server External Control of File Name or Path Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96656",
+  "published": "2026-10-20",
+  "summary": "Plex Media Server contains an external control of file name or path vulnerability which can allow an admin user to write arbitrary files that may be executed on load. This vulnerability can be chained with CVE-2026-96652, CVE-2026-96654, and CVE-2026-96655.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-96656",
+   "vendor": "Plex",
+   "product": "Media Server",
+   "due_date": "2026-10-23",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "CVE-2026-96656 — Máy chủ truyền thông Plex Kiểm soát bên ngoài tên tệp hoặc lỗ hổng đường dẫn",
+  "key": "d6f59db4f9cf2f998cd4a10554c807caee8ffde8"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2026-96655 — Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96655",
+  "published": "2026-10-20",
+  "summary": "Plex Media Server contains a server-side request forgery (SSRF) vulnerability that could allow an authenticated user to request arbitrary internal or external addresses via the '/video/:/transcode/universal' path parameter. This vulnerability can be chained with CVE-2026-96652, CVE-2026-96654, and CVE-2026-96656.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-96655",
+   "vendor": "Plex",
+   "product": "Media Server",
+   "due_date": "2026-11-03",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "CVE-2026-96655 — Lỗ hổng giả mạo yêu cầu phía máy chủ Plex Media Server (SSRF)",
+  "key": "ee314f52a67db8d06a56208a8b84ce787d16d203"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2026-96654 — Plex Media Server Improper Neutralization of Encoded URI Schemes in a Web Page Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96654",
+  "published": "2026-10-20",
+  "summary": "Plex Media Server contains an improper neutralization of encoded URI schemes in a web page vulnerability that could allow an attacker to call other plugins' functions and supply their own parameters. This vulnerability can be chained with CVE-2026-96652, CVE-2026-96655, and CVE-2026-96656.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-96654",
+   "vendor": "Plex",
+   "product": "Media Server",
+   "due_date": "2026-10-23",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "CVE-2026-96654 — Máy chủ truyền thông Plex Trung hòa không đúng các sơ đồ URI được mã hóa trong lỗ hổng trang web",
+  "key": "a3e0369c5363a7da4ac0613823530e6c725b253c"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2026-96652 — Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96652",
+  "published": "2026-10-20",
+  "summary": "Plex Media Server contains a server-side request forgery (SSRF) vulnerability which could allow an attacker using any X-Plex-Token value to include a full URL in the 'protocol' parameter and force the Plex server to POST to the attacker's chosen destination. This vulnerability can be chained with CVE-2026-96654, CVE-2026-96655, and CVE-2026-96656. ",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-96652",
+   "vendor": "Plex",
+   "product": "Media Server",
+   "due_date": "2026-11-03",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "CVE-2026-96652 — Lỗ hổng giả mạo yêu cầu phía máy chủ Plex Media Server (SSRF)",
+  "key": "6c229ad87eeba17755a93ad1d73e4e95670e73b4"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2026-110936 — Siemens Software Center Uncontrolled Search Path Element Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-110936",
+  "published": "2026-10-20",
+  "summary": "Siemens Software Center contains an uncontrolled search path element vulnerability that could allow an authenticated local attacker to place a specially crafted DLL in a directory that the application searches, leading to arbitrary code execution with the privileges of the affected application.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-110936",
+   "vendor": "Siemens",
+   "product": "Software Center",
+   "due_date": "2026-11-03",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "CVE-2026-110936 - Lỗ hổng phần tử tìm kiếm không kiểm soát được trong Trung tâm phần mềm Siemens",
+  "key": "e0ed3f476aab4e270ee4c22cbbe5f680a0ddcb63"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2026-21589 — Atlassian Multiple Products Files or Directories Accessible to External Parties Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-21589",
+  "published": "2026-10-15",
+  "summary": "Multiple Atlassian products (Bitbucket Data Center ,Confluence Data Center, Jira Service Management Data Center, Jira Software Data Center, Bamboo Data Center, Crowd Data Center, Crucible and Fisheye) contain a files or directories accessible to external parties vulnerability which could allow an unauthenticated attacker to access specific files within the web application root directory in affected versions.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-21589",
+   "vendor": "Atlassian",
+   "product": "Multiple Products",
+   "due_date": "2026-10-18",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "CVE-2026-21589 - Atlassian Nhiều tệp hoặc thư mục sản phẩm có thể truy cập vào lỗ hổng của bên ngoài",
+  "key": "68cb343b57f43fe5539a2aa446d114d3caeecd27"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-114214 — Incorrect Authorization vulnerability in ash-project ash allows a client to read destination records unrelated to the source record through a through ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-114214",
+  "published": "2026-10-25T20:16:31.920",
+  "summary": "Incorrect Authorization vulnerability in ash-project ash allows a client to read destination records unrelated to the source record through a through relationship.\n\nWhen a has_many relationship declared with through: was loaded for a single record with a limit of 1, or an unsorted has_one through relationship was loaded with a limit of 1, lateral_join?/4 in lib/ash/actions/read/relationships.ex chose the path that reads the destination without any filter linking it to the source. The load returned the first destination record by sort, or any other record with an offset. The read still runs the",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-114214",
+   "cvss": null,
+   "ref": "https://cna.erlef.org/cves/CVE-2026-114214.html"
+  },
+  "title_vi": "CVE-2026-114214 — Lỗ hổng Cấp phép không chính xác trong Ash Project cho phép khách hàng đọc các bản ghi đích không liên quan đến bản ghi nguồn thông qua",
+  "key": "f5223e83babf3228dbe6972025e140e278c74678"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115627 — Incorrect Authorization vulnerability in ash-project ash_postgres allows a user to load destination records linked to a source record only through ano",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115627",
+  "published": "2026-10-25T20:16:32.110",
+  "summary": "Incorrect Authorization vulnerability in ash-project ash_postgres allows a user to load destination records linked to a source record only through another tenant's join rows.\n\nWhen a many_to_many relationship, or a through relationship, is loaded with a lateral join (for example with a per-record limit or sort), AshPostgres.DataLayer builds the query for the join resource, and for each resource along a through path, in lateral_join_query/3 and through_step_queries/4 without running that resource's read action, which is where attribute multitenancy is applied. When those resources use strategy ",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115627",
+   "cvss": null,
+   "ref": "https://cna.erlef.org/cves/CVE-2026-115627.html"
+  },
+  "title_vi": "CVE-2026-115627 — Lỗ hổng Cấp phép không chính xác trong ash-project ash_postgres cho phép người dùng tải các bản ghi đích được liên kết với bản ghi nguồn chỉ thông qua ano",
+  "key": "01275338b54b95df9d845529bd4d51fa1820d9e4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115635 — Incorrect Authorization vulnerability in ash-project ash_postgres allows a user to read another tenant's record through a skipped upsert",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115635",
+  "published": "2026-10-25T20:16:32.293",
+  "summary": "Incorrect Authorization vulnerability in ash-project ash_postgres allows a user to read another tenant's record through a skipped upsert.\n\nWhen Ash.bulk_create/4 or a single create runs as an upsert with return_skipped_upsert?: true and the upsert is skipped (for example because its upsert_condition does not hold), AshPostgres.DataLayer reads the existing row back by the upsert identity in do_bulk_create/3 and upsert/4. That lookup did not apply the resource's attribute multitenancy, so on a resource using strategy :attribute it could match and return the row of another tenant with the same id",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115635",
+   "cvss": null,
+   "ref": "https://cna.erlef.org/cves/CVE-2026-115635.html"
+  },
+  "title_vi": "CVE-2026-115635 - Lỗ hổng ủy quyền không chính xác trong ash-project ash_postgres cho phép người dùng đọc hồ sơ của một người thuê nhà khác thông qua một lần nâng cấp bị bỏ qua",
+  "key": "ac6b29af0561bb88df5dc10b1a47393a77c8fc48"
+ },
+ {
   "source": "VietnamPlus Kinh tế số",
   "title": "Iran tuyên bố giữ nguyên lập trường trước nguy cơ Mỹ nối lại tấn công quân sự",
   "link": "https://www.vietnamplus.vn/iran-tuyen-bo-giu-nguyen-lap-truong-truoc-nguy-co-my-noi-lai-tan-cong-quan-su-post1144182.vnp",
@@ -1862,7 +2056,7 @@
    "cvss": 9.1,
    "ref": "https://github.com/YesWiki/yeswiki/security/advisories/GHSA-ccp2-6q93-hggh"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-116207 — YesWiki 4",
   "key": "f077d13244701cc2b388b221d696dd51dbe5c73b"
  },
  {
@@ -1898,7 +2092,7 @@
    "cvss": 8.2,
    "ref": "https://github.com/YesWiki/yeswiki/security/advisories/GHSA-wjf7-hrf3-9gcx"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-116211 — YesWiki 4",
   "key": "6a45dc7bccdca9e4a6606c900ebfaacd64e8a3e9"
  },
  {
@@ -4551,7 +4745,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Bảo vệ môi trường đào tạo mô hình tiên phong của chúng tôi",
   "key": "e459cd17f09103ac9ce2e92523c13fa1b39379e6"
  },
  {
@@ -4622,7 +4816,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Các báo cáo về nỗ lực khai thác lỗi PHP tăng lên khi các chuyên gia hạ thấp khả năng khai thác",
   "key": "e8af4eded1f3386794b081e6e66bb352198c8ade"
  },
  {
@@ -4686,7 +4880,7 @@
    "due_date": "2026-10-26",
    "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-114625 — Arista VeloCloud Orchestrator Lỗ hổng SQL Injection",
   "key": "517f0aafa77c6f4bd6140602e7ee592bd01a0942"
  },
  {
@@ -4706,7 +4900,7 @@
    "due_date": "2026-10-26",
    "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-110447 — Collabora Online – MÃ máy chủ tích hợp Hệ điều hành Command Injection Vulnerability",
   "key": "f996590aa97f1026e739866284b333e1a26ae7c4"
  },
  {
@@ -6149,7 +6343,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Trung Quốc APT Sử dụng công cụ AI Pentest Artex trong các cuộc tấn công ConnectWise",
   "key": "b04d9a98fed06da793484b0d5025db2eecf5c26a"
  },
  {
@@ -6163,7 +6357,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Những kẻ tấn công khai thác Arista VCO Zero-Day thứ ba trong bốn tháng",
   "key": "50c91cde86292211a4a64c0f6a8ccd19a881679e"
  },
  {
@@ -6191,7 +6385,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "PHP cảnh báo về một rủi ro RCE chưa được vá khác hai ngày sau các bản vá PHP2Shell khẩn cấp",
   "key": "4c7ac59e25565bd39025c41da64c909ec4a4c19d"
  },
  {
@@ -6205,7 +6399,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Các tin tặc liên kết với Nga đã sử dụng cửa hậu mạng lưới mới trong cuộc tấn công phá hoại Ukraine",
   "key": "0c4cb52f67a4b7514ebd30a9e7d159955afd9e7d"
  },
  {
@@ -6219,7 +6413,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Lỗ hổng nghiêm trọng trong Thư viện hình ảnh gối phổ biến của Python cho phép thực thi mã thông qua hình ảnh được tạo thủ công",
   "key": "1fb3ab061dc5bf28ac1a1f2cd4a633dbd30a8c47"
  },
  {
@@ -6233,7 +6427,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Lỗ hổng SDK x402 nghiêm trọng có thể khiến các API độc hại làm cạn kiệt số dư mã thông báo của đại lý AI",
   "key": "d9406a657ec1d3c575bed69c167a49d6fd540f05"
  },
  {
@@ -6668,7 +6862,7 @@
    "cvss": null,
    "ref": "https://github.com/eclipse-keypont/gose/security/advisories/GHSA-xx6h-2jgg-93m2"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-89312 — `AesGcmCryptor",
   "key": "7a1f2b0e88b931559e5224edd6be99255eccdcb6"
  },
  {
@@ -6686,7 +6880,7 @@
    "cvss": null,
    "ref": "https://github.com/eclipse-keypont/gose/security/advisories/GHSA-v7r8-g6h9-99vv"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-89313 — `JwksTrustStore",
   "key": "0164963c11d576319176b76bb03163cebc9693b7"
  },
  {
@@ -6704,7 +6898,7 @@
    "cvss": null,
    "ref": "https://github.com/eclipse-keypont/gose/security/advisories/GHSA-r56w-f43c-828p"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-89314 — `jwkFields",
   "key": "2c282806313002eac1cbaa117de9d8287a394568"
  },
  {
@@ -6722,7 +6916,7 @@
    "cvss": null,
    "ref": "https://github.com/eclipse-keypont/gose/security/advisories/GHSA-hwm6-rwv6-xgq8"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-89315 — `JwtClaims",
   "key": "0f3166bc82e17da9c15f2b51c6813a325a2763d6"
  },
  {
@@ -6776,7 +6970,7 @@
    "cvss": null,
    "ref": "https://github.com/eclipse-keypont/gose/security/advisories/GHSA-265w-83cm-777q"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-89318 — `JweRsaKeyEncryptionDecryptorImpl",
   "key": "e0a10a586f53e7c751e72c7471f9d9728c6bae5a"
  },
  {
@@ -6794,7 +6988,7 @@
    "cvss": null,
    "ref": "https://github.com/eclipse-keypont/gose/security/advisories/GHSA-4gj8-hg2r-gw6q"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-89319 — `JweDirectDecryptorBlock",
   "key": "dab9652d9901e6bafbe9e6fe41b539b26fcf5b39"
  },
  {
@@ -6812,7 +7006,7 @@
    "cvss": null,
    "ref": "https://github.com/eclipse-keypont/gose/security/advisories/GHSA-h6w5-722x-2h3m"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-89320 — `HmacShaCryptor",
   "key": "49fea0ee2c5ab7fbc717de8f5cd475953c31d9cd"
  },
  {
@@ -17246,7 +17440,7 @@
    "cvss": 9.3,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-79875 - Không có mô tả nào được cung cấp",
   "key": "26be692e804e0676cb45ca74d87df7a37a870028"
  },
  {
@@ -17264,7 +17458,7 @@
    "cvss": 9.3,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-79876 - Không có mô tả được cung cấp",
   "key": "67a2700bd98ffcb36aef7fe5e1c229fbdd2f1c5c"
  },
  {
@@ -17282,7 +17476,7 @@
    "cvss": 8.8,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-79877 - Không có mô tả được cung cấp",
   "key": "91417d14c22c72a473c1aeb422d32b6ed063bae8"
  },
  {
@@ -17300,7 +17494,7 @@
    "cvss": 8.8,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-79878 - Không có mô tả nào được cung cấp",
   "key": "bbf7491d680edbe061cb36f276619b55fadf801e"
  },
  {
@@ -17318,7 +17512,7 @@
    "cvss": 8.8,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-79879 - Không có mô tả nào được cung cấp",
   "key": "16545b3157bedf5b05da49816d7201c6da148e96"
  },
  {
@@ -17336,7 +17530,7 @@
    "cvss": 8.7,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-79880 - Không có mô tả được cung cấp",
   "key": "1496031c00c6ea67737b71fd2ac48a70c376b282"
  },
  {
@@ -17354,7 +17548,7 @@
    "cvss": 8.3,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-79881 - Không có mô tả được cung cấp",
   "key": "bc2a5f54a00eb1b861a0978ed07ca8990a31e894"
  },
  {
@@ -17372,7 +17566,7 @@
    "cvss": 8.3,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-79882 - Không có mô tả được cung cấp",
   "key": "3eb236975c22ccc617e9ec849691cec85ed8569a"
  },
  {
@@ -17390,7 +17584,7 @@
    "cvss": 8.3,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-79883 - Không có mô tả được cung cấp",
   "key": "4df85d6b00cc753669d727bbb33ebfa717f4e3d0"
  },
  {
@@ -17408,7 +17602,7 @@
    "cvss": 8.2,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-79884 - Không có mô tả được cung cấp",
   "key": "3d881b12f26e36a93eea9f7a6b7193db246e2959"
  },
  {
@@ -17426,7 +17620,7 @@
    "cvss": 8.2,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-79885 - Không có mô tả được cung cấp",
   "key": "b24a12169770547a359d15db9cf84bc917effd07"
  },
  {
@@ -17444,7 +17638,7 @@
    "cvss": 8.2,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-79886 - Không có mô tả được cung cấp",
   "key": "d10c06a28f70d7ade120c071cedf7319800ed47b"
  },
  {
@@ -17462,7 +17656,7 @@
    "cvss": 8.1,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-79887 - Không có mô tả được cung cấp",
   "key": "f6ac4be553e81836615f5e25cba38b37d8e63a4f"
  },
  {
@@ -17480,7 +17674,7 @@
    "cvss": 8.1,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-79888 - Không có mô tả được cung cấp",
   "key": "62d1579b472d370bddba3c1035c20c227dcae0c2"
  },
  {
@@ -17498,7 +17692,7 @@
    "cvss": 8.1,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-79889 - Không có mô tả được cung cấp",
   "key": "6e88b4fba3eb068a21db949735f20123d2b10a33"
  },
  {
@@ -17516,7 +17710,7 @@
    "cvss": 8.1,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-79890 - Không có mô tả nào được cung cấp",
   "key": "d4bbed6dcd4e784e89ae886854a3e042169255cc"
  },
  {
@@ -17534,7 +17728,7 @@
    "cvss": 8.1,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-79891 - Không có mô tả nào được cung cấp",
   "key": "d31fd7f6e544958a5b3dd8dabddb1429369af1c8"
  },
  {
@@ -17552,7 +17746,7 @@
    "cvss": 7.8,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-79892 - Không có mô tả nào được cung cấp",
   "key": "57f734a0029741154952a62b4f40f73353cbbc7a"
  },
  {
@@ -17570,7 +17764,7 @@
    "cvss": 7.5,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-79893 - Không có mô tả được cung cấp",
   "key": "2b78ac28be6ae149df85ae5db5fc01adcc54356a"
  },
  {
@@ -17588,7 +17782,7 @@
    "cvss": 7.5,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-79894 - Không có mô tả nào được cung cấp",
   "key": "161c618d186d84ad180c1a65e48d15e64e0bc904"
  },
  {
@@ -17606,7 +17800,7 @@
    "cvss": 7.5,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-79895 - Không có mô tả nào được cung cấp",
   "key": "9390546571e6d36aedf916447a46e82cf127b73d"
  },
  {
@@ -17624,7 +17818,7 @@
    "cvss": 7.5,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-79955 - Không có mô tả được cung cấp",
   "key": "82cb679eb6bd07596a23bc7f3fb57bf896e21a24"
  },
  {
@@ -17642,7 +17836,7 @@
    "cvss": 7.2,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-79956 - Không có mô tả nào được cung cấp",
   "key": "49c1ff37e8d1d5a5545b0cb13c875d6323fac0ea"
  },
  {
@@ -17660,7 +17854,7 @@
    "cvss": 7.2,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-95704 - Không có mô tả được cung cấp",
   "key": "e87a247b066f8bd910ad3493f1e73a47822077e4"
  },
  {
@@ -17678,7 +17872,7 @@
    "cvss": 7.2,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-95705 - Không có mô tả được cung cấp",
   "key": "4d379972e6a89aace44c2d756cdd50f373ebf7b0"
  },
  {
@@ -17696,7 +17890,7 @@
    "cvss": 7.2,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-95706 - Không có mô tả được cung cấp",
   "key": "10b727f4c54a2dc79abfb2b39ae87fcd8bca0874"
  },
  {
@@ -17714,7 +17908,7 @@
    "cvss": 7.2,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-95707 - Không có mô tả được cung cấp",
   "key": "d5499ed166aedb12f32cfd084069fd10dc6937c7"
  },
  {
@@ -17732,7 +17926,7 @@
    "cvss": 7.2,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-95708 - Không có mô tả được cung cấp",
   "key": "241839e729a2653ceea578d407358f1fcee1a76f"
  },
  {
@@ -17750,7 +17944,7 @@
    "cvss": 7.2,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-95709 - Không có mô tả nào được cung cấp",
   "key": "b7f32552b927e77a8ee2cf576b8cc3064d44639c"
  },
  {
@@ -17768,7 +17962,7 @@
    "cvss": 7.1,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-95710 - Không có mô tả được cung cấp",
   "key": "dcbb62c0a93e38428a4b19ff65d597194eea193f"
  },
  {
@@ -17786,7 +17980,7 @@
    "cvss": 7.1,
    "ref": "https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-95711 - Không có mô tả được cung cấp",
   "key": "9d4cdf513126d931581cadc140d81ea001e5969c"
  },
  {
@@ -73801,146 +73995,5 @@
   "extra": {},
   "title_vi": "",
   "key": "aeae127ab316becfd72655b165c182f3a8687baf"
- },
- {
-  "source": "DarkReading",
-  "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys",
-  "link": "https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys",
-  "published": "2026-10-20T21:45:47+00:00",
-  "summary": "Google, Mozilla, Apple, the Go project and others moved swiftly to block the affected certificates from the Indian CA, though it's unclear how the keys were compromised.",
-  "categories": [
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "e4ccbe79a018349faaee421c4f6f1d07f78acca7"
- },
- {
-  "source": "DarkReading",
-  "title": "Ex-OpenAI Engineer Detained After Planting Secret Recorder at HQ",
-  "link": "https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties",
-  "published": "2026-10-20T19:16:49+00:00",
-  "summary": "The perp, who has Saudi ties, was arrested for allegedly bugging an OpenAI conference room, highlighting a preventable insider threat vector.",
-  "categories": [
-   "ai"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "ff5e3e089585cd09a502ff74c957d45c37c49e60"
- },
- {
-  "source": "DarkReading",
-  "title": "SecTor 2026 Reveals a Rapidly Shifting Cybersecurity Landscape",
-  "link": "https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape",
-  "published": "2026-10-15T22:10:08+00:00",
-  "summary": "The event closed in Toronto last week, with experts sharing critical perspectives on emerging risks, drawing record attendance and marking 22% growth.",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "54c6fb88f64997a5fe1f344ed4b6624dcc9278c5"
- },
- {
-  "source": "DarkReading",
-  "title": "F-Secure Launches Victim-First Scam Encyclopedia Covering 50+ Types of Consumer Fraud",
-  "link": "https://www.darkreading.com/threat-intelligence/f-secure-launches-victim-first-scam-encyclopedia-covering-50-types-of-consumer-fraud",
-  "published": "2026-10-15T21:55:07+00:00",
-  "summary": "Built from decades of threat intelligence research, the new resource explains scams from the victims' perspective and tracks emerging forms of cyber crime.",
-  "categories": [
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "0cc3099e69dd0ae75c83d96a8a231d3179c7d164"
- },
- {
-  "source": "DarkReading",
-  "title": "AI Slop Isn't Just for Social Media; It's Ruining Cyberattacks, Too",
-  "link": "https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks",
-  "published": "2026-10-15T20:43:20+00:00",
-  "summary": "Don't buy the hype! AI has been dumbing down cyberattacks, and serious threat actors are barely touching it.",
-  "categories": [
-   "ai",
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "cfd0037ecb80820a113baf8309c9eb6e7eeb225b"
- },
- {
-  "source": "The Record",
-  "title": "FBI says SafePay ransomware gang ‘among most active’ with more than 600 victims since 2024",
-  "link": "https://therecord.media/fbi-says-safepay-ransomware-gang-among-most-active-600-victims",
-  "published": "2026-10-20T20:27:00+00:00",
-  "summary": "The FBI and cyber agencies in the UK and Germany said SafePay is targeting businesses and critical infrastructure by guessing passwords, exploiting vulnerabilities and using phishing attacks.",
-  "categories": [
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "05ad38026fb46a7d58f8dc19bb96927e3e936436"
- },
- {
-  "source": "The Record",
-  "title": "California warns all public school students of data stolen in contractor breach",
-  "link": "https://therecord.media/california-warns-all-public-school-students-of-data-breach",
-  "published": "2026-10-20T19:20:00+00:00",
-  "summary": "The CDE released multiple statements over the last week warning the state’s students that assessment contractor Educational Testing Service (ETS) suffered a months-long data breach.",
-  "categories": [
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "ac327236ddef69e51f414ec10de0f2a6a0af0602"
- },
- {
-  "source": "The Record",
-  "title": "23andMe successor settles with California for $6 million over cybersecurity failings",
-  "link": "https://therecord.media/23andme-california-data-breach-settlement",
-  "published": "2026-10-20T18:32:00+00:00",
-  "summary": "California Attorney General Rob Bonta announced a settlement under which 23andMe's successor will pay $6 million to resolve allegations that the company did not properly protect customers' data before a 2023 breach.",
-  "categories": [
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "9bc3db637a8d60b94d6bfb88db35f46f0b164b90"
- },
- {
-  "source": "The Record",
-  "title": "Nigerian national given 8-year sentence for tax business hacks",
-  "link": "https://therecord.media/nigerian-given-8-year-sentenc-tax-hacks",
-  "published": "2026-10-20T17:14:00+00:00",
-  "summary": "A Nigerian national who worked with a group to hack tax prep businesses and conduct millions of dollars in fraud using customer data was sentenced this week.",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "de7d491e6f8bcd34f5566612f7f2e4efe5f045f1"
- },
- {
-  "source": "The Hacker News",
-  "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
-  "link": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
-  "published": "2026-10-20T17:09:53+00:00",
-  "summary": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised,&nbsp;Mozilla&nbsp;and&nbsp;Google's Chrome Root Program&nbsp;confirms on October 20. An intermediate CA signs the certificates that websites present, so anyone holding one of these keys could issue a certificate for any website that a browser would accept. A researcher reported the",
-  "categories": [
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "c6c6b36629af0047ec4d6a48c95e9833e924ce90"
  }
 ]
