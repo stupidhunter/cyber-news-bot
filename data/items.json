@@ -1,6 +1,265 @@
 [
  {
   "source": "VietnamPlus Kinh tế số",
+  "title": "Iran tuyên bố giữ nguyên lập trường trước nguy cơ Mỹ nối lại tấn công quân sự",
+  "link": "https://www.vietnamplus.vn/iran-tuyen-bo-giu-nguyen-lap-truong-truoc-nguy-co-my-noi-lai-tan-cong-quan-su-post1144182.vnp",
+  "published": "2026-10-25T15:33:30+00:00",
+  "summary": "Iran tuyên bố sẽ không thay đổi chính sách ngay cả khi Mỹ và Israel nối lại các cuộc tấn công, khẳng định việc quản lý hoạt động hàng hải qua Eo biển Hormuz sẽ không thể trở lại như trước xung đột. Iran kêu gọi Hội đồng Bảo an Liên hợp quốc lên án lệnh phong tỏa hàng hải của Mỹ Mỹ gia tăng sức ép, Iran đứng trước lựa chọn nào? Iran cảnh báo tấn công căn cứ Mỹ tại Trung Đông",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "fb6aff5658577541c10fe7cd902923f538378261"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+  "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+  "published": "2026-10-25T17:44:09+00:00",
+  "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack requires two things: Tailscale SSH set up to allow port forwarding, and an attacker who already controls one device that the network's access rules permit to connect to the target. The findings were",
+  "categories": [
+   "breach",
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Các lỗ hổng SSH chưa được vá có thể cho phép thiết bị bị tấn công truy cập root trên các máy chủ khác",
+  "key": "5b83a33e8a1a6f8ff04748379de98a560bfafb90"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+  "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+  "published": "2026-10-25T17:19:46+00:00",
+  "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. \"In one case, the attackers targeted a government entity in Europe and within two hours of the initial exploitation they had successfully accessed password hashes and multi-factor",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Khai thác PHP2Shell tấn công tổ chức chính phủ trong bối cảnh quét toàn cầu và các dấu hiệu của việc hack có sự hỗ trợ của AI",
+  "key": "8677cd3bc60bb8848f84aff8f558cc667d3abca4"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-116056 — A flaw has been found in KodCloud KodExplorer up to 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-116056",
+  "published": "2026-10-25T16:16:49.070",
+  "summary": "A flaw has been found in KodCloud KodExplorer up to 4.56. Affected is the function request_url_safe of the file app/function/web.function.php of the component Remote Download. This manipulation causes server-side request forgery. It is possible to initiate the attack remotely. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-116056",
+   "cvss": 6.3,
+   "ref": "https://vuldb.com/cve/CVE-2026-116056"
+  },
+  "title_vi": "CVE-2026-116056 — Đã tìm thấy một lỗ hổng trong KodCloud KodExplorer lên tới 4",
+  "key": "061b9454fd1426b04d1378caac0a29bf30da1bb9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-116057 — A vulnerability has been found in KodCloud KodExplorer up to 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-116057",
+  "published": "2026-10-25T16:16:50.167",
+  "summary": "A vulnerability has been found in KodCloud KodExplorer up to 4.55. Affected by this vulnerability is an unknown functionality of the file app/controller/editor.class.php of the component Online Editor Save Endpoint. Such manipulation of the argument path/filestr leads to unrestricted upload. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-116057",
+   "cvss": 6.3,
+   "ref": "https://vuldb.com/cve/CVE-2026-116057"
+  },
+  "title_vi": "CVE-2026-116057 — Một lỗ hổng đã được tìm thấy trong KodCloud KodExplorer lên tới 4",
+  "key": "374f0d770dceb969840ba7892858914010d7f882"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-116058 — A vulnerability was found in Alfresco Activiti up to 7",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-116058",
+  "published": "2026-10-25T16:16:50.350",
+  "summary": "A vulnerability was found in Alfresco Activiti up to 7.21.0-rc.692. Affected by this issue is the function JuelScriptEngine.eval of the file JuelScriptEngine.java. Performing a manipulation results in code injection. The attack can be initiated remotely. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-116058",
+   "cvss": 6.3,
+   "ref": "https://vuldb.com/cve/CVE-2026-116058"
+  },
+  "title_vi": "CVE-2026-116058 — Một lỗ hổng được tìm thấy trong Alfresco Activiti lên tới 7",
+  "key": "5fcd308027fe64ff06c54cd802bbb59be7356a99"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115817 — Starman versions before 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115817",
+  "published": "2026-10-25T17:17:00.940",
+  "summary": "Starman versions before 0.4019 for Perl allow a stalled request body to hold a worker indefinitely, as read_timeout covers only the headers.\n\nContent-Length and chunked request bodies are read with blocking reads and no deadline. A client that sends complete headers and then stalls or trickles the body keeps the worker waiting until it disconnects.\n\nA remote attacker can take every worker with a few such connections, five with the default worker count, so the server stops answering requests.\n\nVersion 0.4019 applies read_timeout to each wait for body data and adds a body_timeout limit, 300 seco",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115817",
+   "cvss": null,
+   "ref": "https://github.com/miyagawa/Starman/commit/89dffd3bdc9baa1cbe1b48a43615586ba2588558.patch"
+  },
+  "title_vi": "CVE-2026-115817 — Phiên bản Starman trước 0",
+  "key": "2570ad5f501beee1866f5fb39939eabccedf1278"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115822 — Starman versions before 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115822",
+  "published": "2026-10-25T17:17:01.637",
+  "summary": "Starman versions before 0.4019 for Perl allow CPU exhaustion via quadratic regex backtracking when parsing chunked request bodies.\n\nStarman decodes chunked request bodies before calling the application, matching each chunk-size line with `s/^(([0-9a-fA-F]+).*\\015\\012)//`. A line of hex digits followed by a bare LF and then CRLF never matches, because `.` does not match LF, and each failed attempt backtracks in time quadratic in the length of the hex run. Nothing limits the length of the line.\n\nA remote attacker can exhaust worker CPU by sending such requests to any route.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115822",
+   "cvss": null,
+   "ref": "https://github.com/miyagawa/Starman/commit/0f33f9b132b5e410d6cce722ff71988e22476acf.patch"
+  },
+  "title_vi": "CVE-2026-115822 — Phiên bản Starman trước 0",
+  "key": "8f8c3249a7eadf7bdde4d058df00ef6bea5af9f7"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115823 — Starman versions before 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115823",
+  "published": "2026-10-25T17:17:01.743",
+  "summary": "Starman versions before 0.4019 for Perl send response bodies for HEAD requests, desynchronizing responses on keep-alive connections.\n\nFor a HEAD request Starman omits chunked framing but still writes the body returned by the application, on both the array and streaming response paths. Responses with a 1xx, 204 or 304 status also carry the body.\n\nOn a keep-alive or pipelined connection the client reads those bytes as the start of the next response. A front-end proxy that reuses upstream connections may then pair responses with the wrong requests.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115823",
+   "cvss": null,
+   "ref": "https://github.com/miyagawa/Starman/commit/91c47c529cd1e100f938486896ea9083ec3ec7bf.patch"
+  },
+  "title_vi": "CVE-2026-115823 — Phiên bản Starman trước 0",
+  "key": "19d7616fe662754f0cd55d2eba01ee2d0f6c832b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115824 — Starman versions before 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115824",
+  "published": "2026-10-25T17:17:01.853",
+  "summary": "Starman versions before 0.4019 for Perl allow memory exhaustion via unbounded buffering of chunked request bodies.\n\nThe chunked body decoder keeps each chunk in memory until the whole chunk and its CRLF have arrived, and sets no limit on the length of a chunk-size line. A client that declares a huge chunk size and streams data, or sends a chunk-size line that never ends, grows the buffer for as long as it keeps sending.\n\nA remote attacker can exhaust worker memory with a single connection.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115824",
+   "cvss": null,
+   "ref": "https://github.com/miyagawa/Starman/commit/0f33f9b132b5e410d6cce722ff71988e22476acf.patch"
+  },
+  "title_vi": "CVE-2026-115824 — Phiên bản Starman trước 0",
+  "key": "9eda68c04bd7883e66204685ae48e0393b35f5ba"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115825 — HTTP::Server::PSGI versions before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115825",
+  "published": "2026-10-25T17:17:01.990",
+  "summary": "HTTP::Server::PSGI versions before 1.0056 for Perl allow a single request to crash the server by declaring a large Content-Length.\n\nThe request body is read with sysread() calls sized by the remaining Content-Length. Perl grows the read buffer to the requested length before any data arrives, so the server tries to allocate as much memory as the client declares.\n\nA remote attacker can send one request with a large Content-Length and a few body bytes, and perl exits with an out-of-memory error before the application is called. HTTP::Server::PSGI runs as a single process, so the server stays down",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115825",
+   "cvss": null,
+   "ref": "https://github.com/plack/Plack/commit/11545871cadc5df1b744cebb429cfeb4ebc1069a.patch"
+  },
+  "title_vi": "CVE-2026-115825 — HTTP::Server::PSGI phiên bản trước 1",
+  "key": "9b6abc9d3d074797746a0ae3ac351489857b3cd1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-116060 — A vulnerability was determined in SourceCodester Performance Indicator System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-116060",
+  "published": "2026-10-25T17:17:02.123",
+  "summary": "A vulnerability was determined in SourceCodester Performance Indicator System 1.0. This affects an unknown part of the file /opils/staff/adddealer.php. Executing a manipulation of the argument Contact can lead to sql injection. The attack can be launched remotely. The exploit has been publicly disclosed and may be utilized.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-116060",
+   "cvss": 7.3,
+   "ref": "https://github.com/hubdk01/cve/issues/11"
+  },
+  "title_vi": "CVE-2026-116060 — Một lỗ hổng đã được xác định trong Hệ thống Chỉ báo Hiệu suất SourceCodester 1",
+  "key": "60b928111dcff3a49bc06c3747fea3c4c115a312"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-116061 — A vulnerability was identified in SourceCodester Performance Indicator System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-116061",
+  "published": "2026-10-25T18:16:46.790",
+  "summary": "A vulnerability was identified in SourceCodester Performance Indicator System 1.0. This vulnerability affects unknown code of the file /opils/staff/edit_dealer.php. The manipulation of the argument Contact leads to sql injection. The attack may be initiated remotely. The exploit is publicly available and might be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-116061",
+   "cvss": 7.3,
+   "ref": "https://github.com/hubdk01/cve/issues/12"
+  },
+  "title_vi": "CVE-2026-116061 — Một lỗ hổng đã được xác định trong Hệ thống Chỉ báo Hiệu suất SourceCodester 1",
+  "key": "e3817c87e991e212137dc059dc8ddb14484afa61"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-116062 — A security flaw has been discovered in SourceCodester Performance Indicator System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-116062",
+  "published": "2026-10-25T18:16:46.950",
+  "summary": "A security flaw has been discovered in SourceCodester Performance Indicator System 1.0. This issue affects some unknown processing of the file /opils/staff/save_profile.php. The manipulation of the argument Contact results in sql injection. The attack may be launched remotely. The exploit has been released to the public and may be used for attacks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-116062",
+   "cvss": 7.3,
+   "ref": "https://github.com/hubdk01/cve/issues/13"
+  },
+  "title_vi": "CVE-2026-116062 — Một lỗ hổng bảo mật đã được phát hiện trong Hệ thống chỉ báo hiệu suất SourceCodester 1",
+  "key": "2b1cb7a5a805619b0976ebc942675e9c5d944df0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-116063 — A weakness has been identified in DedeCMS up to 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-116063",
+  "published": "2026-10-25T18:16:47.110",
+  "summary": "A weakness has been identified in DedeCMS up to 5.7.118. Impacted is the function require_once of the file dede/update_guide.php. This manipulation of the argument vtime causes code injection. Remote exploitation of the attack is possible. The exploit has been made available to the public and could be used for attacks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-116063",
+   "cvss": 4.7,
+   "ref": "https://github.com/SDshadow/cve"
+  },
+  "title_vi": "CVE-2026-116063 — Một điểm yếu đã được xác định trong DedeCMS lên đến 5",
+  "key": "e6aabb8cc6d7cb72e0e76d65538bca94aa7bc47e"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
   "title": "Pháp lập kỷ lục đặt hàng vũ khí, đẩy nhanh chương trình tái vũ trang",
   "link": "https://www.vietnamplus.vn/phap-lap-ky-luc-dat-hang-vu-khi-day-nhanh-chuong-trinh-tai-vu-trang-post1144169.vnp",
   "published": "2026-10-25T12:25:21+00:00",
@@ -84,7 +343,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Cựu nhân viên Unit 8200 huy động 34 triệu $ cho Agentic SecOps Startup Mave",
   "key": "1303ba2e6d59f99bc9c08486868d874339af8d42"
  },
  {
@@ -283,7 +542,7 @@
    "cvss": 5.9,
    "ref": "https://github.com/projectsend/projectsend"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-116136 — ProjectSend 2",
   "key": "7c6936085615dcc87e085cd1542eaa53c6671077"
  },
  {
@@ -355,7 +614,7 @@
    "cvss": 5.4,
    "ref": "https://github.com/WWBN/AVideo/commit/f13587c59346b4bf0f449273021d29b869594559"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-116139 — WWBN AVideo 26",
   "key": "e88b17bd1f99a57a2a07b5b7e82d380f21f6de89"
  },
  {
@@ -851,7 +1110,7 @@
    "cvss": 6.8,
    "ref": "https://github.com/siyuan-note/siyuan/security/advisories/GHSA-hpj5-f7cj-vvwr"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-116166 — SiYuan 3",
   "key": "72e577ced84cfd58782250b111ead16aa8efb999"
  },
  {
@@ -941,7 +1200,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/siyuan-note/siyuan/security/advisories/GHSA-6gmc-424x-xgpm"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-116171 — SiYuan 3",
   "key": "a0ef6a51ce3314ff5e94298e7b76ad1d19c10f0a"
  },
  {
@@ -1276,7 +1535,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/rclone/rclone/security/advisories/GHSA-w33h-3qgq-8mv8"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-116189 — nhân bản từ 1",
   "key": "e13a53f583e24844e9d60eb8ab36c1a7317d4ea8"
  },
  {
@@ -1294,7 +1553,7 @@
    "cvss": 3.7,
    "ref": "https://github.com/rclone/rclone/security/advisories/GHSA-3rqf-7h69-gg5v"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-116190 — bản sao từ v1",
   "key": "9b449abca26f906cc5885f7b553e88bb63c56014"
  },
  {
@@ -1312,7 +1571,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/rclone/rclone/security/advisories/GHSA-44pm-2q5p-fm63"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-116191 — Nhân bản trước 1",
   "key": "dd200012b29693e55f4fce1e29fc68db9f72db3e"
  },
  {
@@ -1330,7 +1589,7 @@
    "cvss": 5.9,
    "ref": "https://github.com/rclone/rclone/security/advisories/GHSA-xqmq-v4wj-rw5m"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-116192 — nhân bản từ 1",
   "key": "3604b8f17f1fa5e6489f1d1c6cd6f37925d48934"
  },
  {
@@ -1348,7 +1607,7 @@
    "cvss": 5.3,
    "ref": "https://github.com/rclone/rclone/security/advisories/GHSA-gj73-fh6v-92fj"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-116193 — Nhân bản từ 1",
   "key": "6d8c8b5b7300f73c02c58a59435455515be1e809"
  },
  {
@@ -1366,7 +1625,7 @@
    "cvss": 6.8,
    "ref": "https://github.com/rclone/rclone/security/advisories/GHSA-hvpr-p4pv-4f46"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-116194 — Nhân bản từ 1",
   "key": "4da227e43e19096f2c0af97e80aaf85057b024e6"
  },
  {
@@ -1384,7 +1643,7 @@
    "cvss": 6.1,
    "ref": "https://github.com/rclone/rclone/security/advisories/GHSA-55qp-jrwr-x827"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-116195 — Nhân bản trước 1",
   "key": "df4b78b7c9ea8afc4c6a78bbda6a0ebd9749d698"
  },
  {
@@ -1403,7 +1662,7 @@
    "cvss": 5.3,
    "ref": "https://github.com/rclone/rclone/security/advisories/GHSA-gpw7-77cq-9f72"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-116196 — Nhân bản trước v1",
   "key": "d52ee0aa930ecaf69016089072304e88da28dcbf"
  },
  {
@@ -1422,7 +1681,7 @@
    "cvss": 2.6,
    "ref": "https://github.com/edgelesssys/contrast/security/advisories/GHSA-w4p9-c7h8-jvgr"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-116197 - Tương phản hệ thống vô định hình từ 1",
   "key": "51896481fdc41a34a99b96e603f309def818ad91"
  },
  {
@@ -1440,7 +1699,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/grokability/snipe-it/security/advisories/GHSA-jh4g-98fm-jcqc"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-116198 — Snipe-IT trước 8",
   "key": "ab49f5147c59ba7ebc501773a9625fdfd050549a"
  },
  {
@@ -1458,7 +1717,7 @@
    "cvss": 8.1,
    "ref": "https://github.com/grokability/snipe-it/security/advisories/GHSA-xf36-wx48-5rqp"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-116199 — Snipe-IT trước 8",
   "key": "0a31ae5872c18af753cb2d59841dfdd340a755ca"
  },
  {
@@ -1477,7 +1736,7 @@
    "cvss": 5.9,
    "ref": "https://github.com/grokability/snipe-it/security/advisories/GHSA-wx48-r3qh-jvh5"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-116200 — Snipe-IT trước 8",
   "key": "98b15945a5a35410de9135edff810212ce33de05"
  },
  {
@@ -1495,7 +1754,7 @@
    "cvss": 8.8,
    "ref": "https://github.com/grokability/snipe-it/security/advisories/GHSA-w49g-f2jc-qxhg"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-116201 — Snipe-IT trước 8",
   "key": "80df51cf2e9282f2efb51c2fc5d4e56bbece7f85"
  },
  {
@@ -1513,7 +1772,7 @@
    "cvss": 5.4,
    "ref": "https://github.com/YesWiki/yeswiki/security/advisories/GHSA-c5q6-7233-3v6g"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-116202 — YesWiki trước 4",
   "key": "a86cf7c0b77750d6934c8f195d3abdd928624c94"
  },
  {
@@ -1531,7 +1790,7 @@
    "cvss": 6.1,
    "ref": "https://github.com/YesWiki/yeswiki/security/advisories/GHSA-f53x-3gqx-xq76"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-116203 — YesWiki trước 4",
   "key": "b73c8509a8c8dcca62bce8d31d8a54e19dd1d70a"
  },
  {
@@ -1549,7 +1808,7 @@
    "cvss": 8.1,
    "ref": "https://github.com/YesWiki/yeswiki/security/advisories/GHSA-cv88-hx5q-vq72"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-116204 — YesWiki trước 4",
   "key": "c3c47efeae313690087d8e63184c88bb82f60492"
  },
  {
@@ -1567,7 +1826,7 @@
    "cvss": 5.3,
    "ref": "https://github.com/YesWiki/yeswiki/security/advisories/GHSA-x9j5-r988-9jcc"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-116205 — YesWiki trước 4",
   "key": "cf1e10b8cea6d682d66b54a5db02c6f37b1d43d8"
  },
  {
@@ -1585,7 +1844,7 @@
    "cvss": 6.4,
    "ref": "https://github.com/YesWiki/yeswiki/security/advisories/GHSA-wq96-vjjh-hfc6"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-116206 — YesWiki từ 4",
   "key": "d47dcac5dbca272827709fe116293c6001dac2ec"
  },
  {
@@ -1621,7 +1880,7 @@
    "cvss": 8.1,
    "ref": "https://github.com/YesWiki/yeswiki/security/advisories/GHSA-cr64-h6xp-9g2j"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-116208 — YesWiki từ 4",
   "key": "697c3bbe2326fb9cc7dd232f5969780a270a5023"
  },
  {
@@ -1657,7 +1916,7 @@
    "cvss": 2.2,
    "ref": "https://medium.com/@warlleyfreire/sh3-public-management-system-stored-user-credentials-using-a-reversible-xor-based-mechanism-6aa3793804a2?postPublishedType=initial"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-116054 — Một lỗ hổng bảo mật đã được phát hiện trong SH3",
   "key": "7f6ee3d98b210bf9718940a4451b904e7180481b"
  },
  {
@@ -1675,7 +1934,7 @@
    "cvss": 6.3,
    "ref": "https://github.com/hubdk01/cve/issues/5"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-116055 — Một lỗ hổng đã được phát hiện trong Hệ thống Chỉ báo Hiệu suất SourceCodester 1",
   "key": "95553f27453dffe3b91a34351e4e601102c88aea"
  },
  {
@@ -5805,7 +6064,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Các đại lý AI như các mối đe dọa nội bộ: Bên trong đặt cược của Microsoft vào một ngăn xếp bảo mật hợp nhất",
   "key": "bc6cca7304d1ee1aaa4eb84c1939eefb19a76ea7"
  },
  {
@@ -7206,7 +7465,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/2f29f880e98bf0087215726c45a485afd15b42cf"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98885 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: lỗi ima: return sớm nếu không thể thay đổi tệp xattr Trong quá trình khởi động sớm, tệp fil",
   "key": "28fe9ec7ec181f5de8812d2ddc675313f516e1b6"
  },
  {
@@ -7224,7 +7483,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/09a950950e7e4e74e021e60941c8e816ef1b4f71"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98886 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: drm/gma500: lỗi trả về từ Oaktrail HDMI I2C đọc xfer_read() chờ H",
   "key": "47fdaf7aa561051f619e43041a9f1bc0b23c29e9"
  },
  {
@@ -7242,7 +7501,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/13edd8ea7ff2ce6a964b290ef2034cd8cbed96c7"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98887 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: wifi: mac80211_hwsim: từ chối HWSIM_ATTR_TX_INFO hwsim_tx_info_frame_rec",
   "key": "5e6097dc43ab263b7d75f0cad501ebc66474462c"
  },
  {
@@ -7260,7 +7519,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/1f342b3e44c3035a837b53b217d816f7511c0d0a"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98888 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: arm64: kprobes: Cho phép nhập lại kprobes trong khi có thể nhấn một bước A kprobe",
   "key": "50805a7a986ab24d17e477a87f2acbaa0aa3eff0"
  },
  {
@@ -7278,7 +7537,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/05f79cea3b15cfe600b205ddcfd51ebee15d908a"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98889 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: wifi: iwlwifi: mvm: fix sched scan IE sizing Scheduled scan built the probe reques",
   "key": "b25078a2e3567fd6a735fe4deae01f318679520a"
  },
  {
@@ -7296,7 +7555,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/13ff543e0b2c713aedeaadadde686686e949dc78"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98890 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: wifi: libertas: reject short monitor TX frames Trong chế độ monitor, lbs_hard_start_xmi",
   "key": "79a4bbd33606d5d8debcc4572bc1f8031b6b52d3"
  },
  {
@@ -7314,7 +7573,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/4a360c6e18dfa9d70006c7247a6a8cc8dfe0d60f"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98891 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: wifi: mac80211: xác thực độ dài khung deauth trước lý do truy cập ieee80211_rx_mgm",
   "key": "eb8b4654fe3bfcc41669c8d9b6ccc6edd54628a1"
  },
  {
@@ -7332,7 +7591,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/28d65a0a46435d48b96b6943c518095dff1602a1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98892 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: firmware: ARM_scmi: Xác thực BASE_ERROR_EVENT kích thước tải trọng BASE_ERROR_EVENT CARRIE",
   "key": "b46219e652330014953a0701f4a4993566269861"
  },
  {
@@ -7350,7 +7609,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/1bbe431fc59704d012660647516f6f94ddd82564"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98893 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: firmware: ARM_scmi: Validate SENSOR_UPDATE payload size SENSOR_UPDATE carries one",
   "key": "78c5aadf09b18bac2e552e66697645e0fa187188"
  },
  {
@@ -7368,7 +7627,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/4d695e66d7027a0c78302e47ac76293675fbbb4d"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98894 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: drm/amd/ras: reset CPER ring on corrupt entry size When CPER ring overflow handlin",
   "key": "293eecaf9dfcd1221c60df1b1d18c6e262542a7c"
  },
  {
@@ -7386,7 +7645,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/16b81428f7b5f253ab30a998bc4f4ecd1c8823f8"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98895 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net/mlx5: HWS, Handle destroying table that has a miss table If a table has a miss",
   "key": "d514f867110f852f89f148a2d51f5c2347e4ee49"
  },
  {
@@ -7404,7 +7663,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/04df2985159e381c88a923fae1bec2f8d0272412"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98896 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: thunderbolt: Giữ tham chiếu miền trong khi xử lý hotplug Chúng tôi xử lý hotplug",
   "key": "1bece67a12a21f5beb61f46a5180d96ac3266f07"
  },
  {
@@ -7422,7 +7681,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/27a9bc968d4ae809a3f5ca2f2b136856ee613cb4"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98897 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ksmbd: không giữ ci- >m_lock trong khi chờ nghỉ hợp đồng thuê ACK Khi một cifs",
   "key": "60dc210c5dbba5b6d5e2465804838da33777e44e"
  },
  {
@@ -7440,7 +7699,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/2750f52b58d92ca52a5496c00db8abf925103a27"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98898 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: drm/amd/pm/si: Không lên lịch làm việc nhiệt khi hàng đợi không được khởi tạo Khi DPM i",
   "key": "0b732fc11ff8acb0ae5091df2db58d0561c3530c"
  },
  {
@@ -7458,7 +7717,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0c46c9ce24130657ec7460c27fba5d445f5abd06"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98899 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: netfilter: ipset: mark the rcu locked areas properly When we bump the uref counter",
   "key": "72023e47e2c0e6b517f54854f0364a1dd11ad122"
  },
  {
@@ -7476,7 +7735,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/2299822f3f466b5dcad2377bf63986199f881a6b"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98900 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: xen/gntalloc: xác thực số lượng trợ cấp trước khi phân bổ gntalloc_ioctl_alloc() alloca",
   "key": "4eee703b5cd52594b7e275657c62c5ec28fd26c4"
  },
  {
@@ -7494,7 +7753,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/17699905a381621c1cee5b6528feb05acedc86a4"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98901 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ksmbd: fix lease break and ack state handling Do not skip valid lease states conta",
   "key": "52eb4694fe0ef7348ba1119dcbab46e4a80efe63"
  },
  {
@@ -7512,7 +7771,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/00e93faf4cea9e8802ac5dfee0952d84fc95c40f"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98902 — Trong nhân Linux, lỗ hổng bảo mật sau đã được giải quyết: md/RAID5: let stripe batch bm_seq comparison wrap-safe Once the 32-bit seq wraps,",
   "key": "4996172f3d4cf80a3c5e56ffa01e11a4d45dabf9"
  },
  {
@@ -8089,7 +8348,7 @@
    "cvss": 3.1,
    "ref": "https://github.com/i18next/i18next-http-backend/commit/042c3d4e4e9d73b2ae3aa76b22cb45d48f1e35b7"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-115730 — i18next-http-backend 4",
   "key": "a2296ed4c808dd5cc47056bc9ff7d6019ccc0e61"
  },
  {
@@ -73683,291 +73942,5 @@
   "extra": {},
   "title_vi": "",
   "key": "c6c6b36629af0047ec4d6a48c95e9833e924ce90"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2026-106931 — EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106931",
-  "published": "2026-10-20",
-  "summary": "EG Secure Solutions SiteGuard Server Edition contains an OS command injection vulnerability which may allow an attacker to execute arbitrary OS commands with root or SYSTEM privileges on the system running the affected product.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-106931",
-   "vendor": "EG Secure Solutions",
-   "product": "SiteGuard Server Edition",
-   "due_date": "2026-10-23",
-   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
-  },
-  "title_vi": "",
-  "key": "a3a49a55151e89b5ef82d28de72e395460497f99"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2026-96656 — Plex Media Server External Control of File Name or Path Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96656",
-  "published": "2026-10-20",
-  "summary": "Plex Media Server contains an external control of file name or path vulnerability which can allow an admin user to write arbitrary files that may be executed on load. This vulnerability can be chained with CVE-2026-96652, CVE-2026-96654, and CVE-2026-96655.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-96656",
-   "vendor": "Plex",
-   "product": "Media Server",
-   "due_date": "2026-10-23",
-   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
-  },
-  "title_vi": "",
-  "key": "d6f59db4f9cf2f998cd4a10554c807caee8ffde8"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2026-96655 — Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96655",
-  "published": "2026-10-20",
-  "summary": "Plex Media Server contains a server-side request forgery (SSRF) vulnerability that could allow an authenticated user to request arbitrary internal or external addresses via the '/video/:/transcode/universal' path parameter. This vulnerability can be chained with CVE-2026-96652, CVE-2026-96654, and CVE-2026-96656.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-96655",
-   "vendor": "Plex",
-   "product": "Media Server",
-   "due_date": "2026-11-03",
-   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
-  },
-  "title_vi": "",
-  "key": "ee314f52a67db8d06a56208a8b84ce787d16d203"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2026-96654 — Plex Media Server Improper Neutralization of Encoded URI Schemes in a Web Page Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96654",
-  "published": "2026-10-20",
-  "summary": "Plex Media Server contains an improper neutralization of encoded URI schemes in a web page vulnerability that could allow an attacker to call other plugins' functions and supply their own parameters. This vulnerability can be chained with CVE-2026-96652, CVE-2026-96655, and CVE-2026-96656.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-96654",
-   "vendor": "Plex",
-   "product": "Media Server",
-   "due_date": "2026-10-23",
-   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
-  },
-  "title_vi": "",
-  "key": "a3e0369c5363a7da4ac0613823530e6c725b253c"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2026-96652 — Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96652",
-  "published": "2026-10-20",
-  "summary": "Plex Media Server contains a server-side request forgery (SSRF) vulnerability which could allow an attacker using any X-Plex-Token value to include a full URL in the 'protocol' parameter and force the Plex server to POST to the attacker's chosen destination. This vulnerability can be chained with CVE-2026-96654, CVE-2026-96655, and CVE-2026-96656. ",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-96652",
-   "vendor": "Plex",
-   "product": "Media Server",
-   "due_date": "2026-11-03",
-   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
-  },
-  "title_vi": "",
-  "key": "6c229ad87eeba17755a93ad1d73e4e95670e73b4"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2026-110936 — Siemens Software Center Uncontrolled Search Path Element Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-110936",
-  "published": "2026-10-20",
-  "summary": "Siemens Software Center contains an uncontrolled search path element vulnerability that could allow an authenticated local attacker to place a specially crafted DLL in a directory that the application searches, leading to arbitrary code execution with the privileges of the affected application.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-110936",
-   "vendor": "Siemens",
-   "product": "Software Center",
-   "due_date": "2026-11-03",
-   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
-  },
-  "title_vi": "",
-  "key": "e0ed3f476aab4e270ee4c22cbbe5f680a0ddcb63"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2026-21589 — Atlassian Multiple Products Files or Directories Accessible to External Parties Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-21589",
-  "published": "2026-10-15",
-  "summary": "Multiple Atlassian products (Bitbucket Data Center ,Confluence Data Center, Jira Service Management Data Center, Jira Software Data Center, Bamboo Data Center, Crowd Data Center, Crucible and Fisheye) contain a files or directories accessible to external parties vulnerability which could allow an unauthenticated attacker to access specific files within the web application root directory in affected versions.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-21589",
-   "vendor": "Atlassian",
-   "product": "Multiple Products",
-   "due_date": "2026-10-18",
-   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
-  },
-  "title_vi": "",
-  "key": "68cb343b57f43fe5539a2aa446d114d3caeecd27"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-112957 — ApostropheCMS is an open-source Node",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-112957",
-  "published": "2026-10-20T17:17:33.047",
-  "summary": "ApostropheCMS is an open-source Node.js content management system. Prior to 4.34.0, the getOne REST endpoint for pages does not apply viewRole type-level restrictions or viewPermission field-level redaction. An editor-level user who knows a document _id can read the full content of admin-only pages and their privileged fields, while the getAll endpoint correctly enforces both restrictions. This issue is fixed in version 4.34.0.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-112957",
-   "cvss": 4.3,
-   "ref": "https://github.com/apostrophecms/apostrophe/commit/06e4b377f3c360f9e89c32dccd7e505ad5ddf498"
-  },
-  "title_vi": "CVE-2026-112957 — ApostropheCMS là một Node mã nguồn mở",
-  "key": "8da2d405e1d538a6b0547bfe2f3a531e5efe3b1e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-112958 — ApostropheCMS is an open-source Node",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-112958",
-  "published": "2026-10-20T17:17:33.190",
-  "summary": "ApostropheCMS is an open-source Node.js content management system. Prior to 4.34.0, a project-defined free-form widget style field can carry an editor-controlled quote into an inline style attribute because the wrapper serializer does not apply HTML-attribute encoding. The quote can terminate the style attribute and inject executable attributes when published content, or an affected draft viewed by a higher-privileged user, is rendered. This issue is fixed in version 4.34.0.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-112958",
-   "cvss": 5.4,
-   "ref": "https://github.com/apostrophecms/apostrophe/commit/06e4b377f3c360f9e89c32dccd7e505ad5ddf498"
-  },
-  "title_vi": "CVE-2026-112958 — ApostropheCMS là một Node mã nguồn mở",
-  "key": "eb62b64d7f0da0484acd74c34eaaf3e9ec234197"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-113505 — A flaw has been found in aaPanel up to 8",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113505",
-  "published": "2026-10-20T17:17:34.410",
-  "summary": "A flaw has been found in aaPanel up to 8.25.0. Impacted is the function send_file of the file BTPanel/routes/v2.py of the component Download Endpoint. Executing a manipulation of the argument filename can lead to path traversal. The attack can be executed remotely. The exploit has been published and may be used. The vendor confirms: \"The reported RCE and LFI vulnerabilities require authentication.\"",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-113505",
-   "cvss": 4.3,
-   "ref": "https://github.com/JdExploit/aapanel-cve-2026/tree/master/aapanel-lfi"
-  },
-  "title_vi": "CVE-2026-113505 — Một lỗ hổng đã được tìm thấy trong aaPanel lên đến 8",
-  "key": "d1181b70aff63e94a189e2d6a3cc6952730cf210"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-113648 — ApostropheCMS is an open-source Node",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113648",
-  "published": "2026-10-20T17:17:35.537",
-  "summary": "ApostropheCMS is an open-source Node.js content management system. Prior to 3.7.1 of the import-export module, the API endpoint POST /api/v1/@apostrophecms/import-export/clean-export in @apostrophecms/import-export lacks authentication and authorization checks. Any client—including unauthenticated anonymous users who have obtained the standard CSRF cookie from visiting the site—can directly invoke this route and trigger the underlying self.cleanExport(req) method. This issue is fixed in version 3.7.1.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-113648",
-   "cvss": 3.1,
-   "ref": "https://github.com/apostrophecms/apostrophe/commit/06e4b377f3c360f9e89c32dccd7e505ad5ddf498"
-  },
-  "title_vi": "CVE-2026-113648 — ApostropheCMS là một Node mã nguồn mở",
-  "key": "0083d13993d31ef3c9099426602599bbb5d0986c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-113649 — ApostropheCMS is an open-source Node",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113649",
-  "published": "2026-10-20T17:17:35.670",
-  "summary": "ApostropheCMS is an open-source Node.js content management system. Prior to 3.7.1 of the import-export module and 4.34.0 of core ApostropheCMS, an editor who can import an enabled content type but lacks its stronger publication role can cause import write helpers to create, replace, or remove published variants without the normal publish permission and lifecycle checks. This issue is fixed in import-export 3.7.1 and ApostropheCMS 4.34.0.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-113649",
-   "cvss": 6.5,
-   "ref": "https://github.com/apostrophecms/apostrophe/commit/06e4b377f3c360f9e89c32dccd7e505ad5ddf498"
-  },
-  "title_vi": "CVE-2026-113649 — ApostropheCMS là một Node mã nguồn mở",
-  "key": "1de231ce8dbdd18542d794c7057c9ad076ee941d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-113650 — ApostropheCMS is an open-source Node",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113650",
-  "published": "2026-10-20T17:17:35.807",
-  "summary": "ApostropheCMS is an open-source Node.js content management system. In sanitize-html 2.18.0, when an <iframe> is not allowed and disallowedTagsMode is 'discard' (the defaults), its raw-text content is re-sanitized by a recursive call to sanitizeHtml(text, options). The recursion has no bound and starts each nested call with a fresh state. This vulnerability is fixed in 2.18.1.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-113650",
-   "cvss": 5.3,
-   "ref": "https://github.com/apostrophecms/apostrophe/commit/06e4b377f3c360f9e89c32dccd7e505ad5ddf498"
-  },
-  "title_vi": "CVE-2026-113650 — ApostropheCMS là một Node mã nguồn mở",
-  "key": "335756b25ef40204a9e4f863dcf1e5e1f8ad9e05"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-113651 — ApostropheCMS is an open-source Node",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113651",
-  "published": "2026-10-20T17:17:35.940",
-  "summary": "ApostropheCMS is an open-source Node.js content management system, and uploadfs is its file storage library. Prior to uploadfs 1.28.0, attacker-controlled paths that reach the local backend can contain parent-directory segments that escape the configured upload directory and affect file reads, writes, and deletion on the host filesystem. Exploitability depends on an application exposing the relevant uploadfs operations to untrusted path. This issue is fixed in uploadfs 1.28.0.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-113651",
-   "cvss": 3.3,
-   "ref": "https://github.com/apostrophecms/apostrophe/commit/9500b8b0e1d630d5e07fbb5fd2c25ed0943845ce"
-  },
-  "title_vi": "CVE-2026-113651 — ApostropheCMS là một Node mã nguồn mở",
-  "key": "c4df8881868c30ed6747a54ec8aae120fc71b721"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-113652 — ApostropheCMS is an open-source Node",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113652",
-  "published": "2026-10-20T17:17:36.080",
-  "summary": "ApostropheCMS is an open-source Node.js content management system. From 1.25.0 until 1.28.0, uploadfs Azure backend leaks account-level SAS token into every public attachment URL. When uploadfs is configured with the Azure backend and sas: true, createContainer() builds the BlobServiceClient from a URL that embeds the full SAS query string, and Azure SDK v12 derived clients inherit that query string. This issue is fixed in version 1.28.0.",
-  "categories": [
-   "breach",
-   "cloud",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-113652",
-   "cvss": 5.6,
-   "ref": "https://github.com/apostrophecms/apostrophe/commit/9500b8b0e1d630d5e07fbb5fd2c25ed0943845ce"
-  },
-  "title_vi": "CVE-2026-113652 — ApostropheCMS là một Node mã nguồn mở",
-  "key": "91d750863d654080ed71a75ffd78420ef032e298"
  }
 ]
