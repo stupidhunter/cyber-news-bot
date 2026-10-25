@@ -1,5 +1,272 @@
 [
  {
+  "source": "GenK",
+  "title": "Hàng trăm card RTX 5090 bị tháo lấy chip để phục vụ máy chủ AI tại Trung Quốc",
+  "link": "https://genk.vn/hang-tram-card-rtx-5090-bi-thao-lay-chip-de-phuc-vu-may-chu-ai-tai-trung-quoc-16526241016511310.chn",
+  "published": "2026-10-25T03:07:37.249283+00:00",
+  "summary": "Hàng trăm RTX 5090 được cho là đang bị tháo rời tại Trung Quốc, lấy chip GPU và 32 GB GDDR7 để chuyển thành bộ tăng tốc cho máy chủ AI.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "aca429c5d2a1eaddf62c986a34f726cf89406c06"
+ },
+ {
+  "source": "GenK",
+  "title": "Công cụ miễn phí giúp kiểm tra nguy cơ từ lỗ hổng PHP",
+  "link": "https://genk.vn/cong-cu-mien-phi-giup-kiem-tra-nguy-co-tu-lo-hong-php-165261025082501751.chn",
+  "published": "2026-10-25T03:07:37.249336+00:00",
+  "summary": "VTV.vn - Công ty an ninh mạng Piolink của Hàn Quốc ra mắt công cụ miễn phí giúp kiểm tra nguy cơ website bị ảnh hưởng bởi các lỗ hổng bảo mật PHP chỉ trong vài giây.",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "a50e6b9f295d95f6a8afad161269e56701ddaece"
+ },
+ {
+  "source": "GenK",
+  "title": "'AI ngày càng giỏi, ô tô càng dễ bị hack'",
+  "link": "https://genk.vn/ai-ngay-cang-gioi-o-to-cang-de-bi-hack-165261025081432783.chn",
+  "published": "2026-10-25T03:07:37.249381+00:00",
+  "summary": "AI đang giúp ô tô ngày càng thông minh, nhưng cũng có thể trở thành công cụ để tin tặc phát hiện lỗ hổng bảo mật. Các hãng xe Nhật Bản đã lên tiếng về nguy cơ này, đồng thời thúc đẩy phát triển công nghệ lái xe tự động an toàn hơn.",
+  "categories": [
+   "ai",
+   "breach",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "973df0af8aa542774f5de031090c2d315d0b50aa"
+ },
+ {
+  "source": "Znews Công nghệ",
+  "title": "Những người sắp kiếm bộn tiền nhờ Claude",
+  "link": "https://tech.zingnews.vn/nhung-nguoi-sap-kiem-bon-tien-nho-anthropic-post1691645.html",
+  "published": "2026-10-25T01:55:29+00:00",
+  "summary": "Thương vụ IPO của Anthropic, công ty sở hữu AI Claude có thể mang lại khoản lợi nhuận khổng lồ cho những nhà đầu tư sớm, khi giá trị một số khoản góp vốn đã tăng hơn 90 lần.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "965b200b35988be9a70c1612c50fc2182327cd5b"
+ },
+ {
+  "source": "VnExpress Số hóa",
+  "title": "Kỷ nguyên tấn công mạng AI: 'Sẽ nếm trải cảm giác bầu trời sắp sụp'",
+  "link": "https://vnexpress.net/ky-nguyen-tan-cong-mang-ai-se-nem-trai-cam-giac-bau-troi-sap-sup-5136542.html",
+  "published": "2026-10-25T02:00:00+00:00",
+  "summary": "Sau khi AI giúp phát hiện lỗ hổng PHP, giới chuyên gia cảnh báo làn sóng sự cố bảo mật và tấn công mạng có thể gây khủng hoảng thời gian tới.",
+  "categories": [
+   "ai",
+   "breach",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "e97c42571b102560df19ebaa8c6020426d2ebe73"
+ },
+ {
+  "source": "VnExpress Số hóa",
+  "title": "Sau toán học, AI có thể chinh phục những đỉnh cao mới",
+  "link": "https://vnexpress.net/sau-toan-hoc-ai-co-the-chinh-phuc-nhung-dinh-cao-moi-5132856.html",
+  "published": "2026-10-23T17:00:00+00:00",
+  "summary": "Các nhà nghiên cứu ở Viện Công nghệ Massacusetts dự đoán AI sẽ cách mạng hóa xác suất thống kê, lý thuyết kinh tế, vũ trụ học, vật lý lượng tử sau loạt thành tựu toán học gần đây.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "c210fbaae8e4a6380e136572887cddd9d1c0c8da"
+ },
+ {
+  "source": "VnExpress Số hóa",
+  "title": "Bảo đảm an ninh mạng cho hạ tầng năng lượng",
+  "link": "https://vnexpress.net/bao-dam-an-ninh-mang-cho-ha-tang-nang-luong-5136187.html",
+  "published": "2026-10-24T04:00:00+00:00",
+  "summary": "Hệ thống điều khiển công nghiệp, dữ liệu vận hành và các kênh truy cập từ xa là những điểm cần được bảo vệ để tránh gián đoạn hoạt động của hạ tầng năng lượng.",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "6fa40c4c49eec5db43f1174c07ab7a45b5964ca8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115981 — A security vulnerability has been detected in phpIPAM up to 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115981",
+  "published": "2026-10-24T22:16:27.453",
+  "summary": "A security vulnerability has been detected in phpIPAM up to 1.8.3. Affected by this vulnerability is an unknown functionality of the file upgrade/index.php. Such manipulation of the argument REQUEST_URI leads to cross site scripting. The attack may be launched remotely. The exploit has been disclosed publicly and may be used. The vendor was contacted early about this disclosure.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115981",
+   "cvss": 2.4,
+   "ref": "https://gist.github.com/KHr00t/f9351510717a5dac4797920fe532fe1e"
+  },
+  "title_vi": "CVE-2026-115981 — Một lỗ hổng bảo mật đã được phát hiện trong phpIPAM lên tới 1",
+  "key": "e94c2f11923d7e1a5f96772310a85570e1a2563b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115982 — A vulnerability was detected in phpIPAM up to 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115982",
+  "published": "2026-10-24T22:16:27.647",
+  "summary": "A vulnerability was detected in phpIPAM up to 1.8.3. Affected by this issue is the function create_rack_link of the file app/tools/racks/show-rack-popup.php of the component Rack Link Creation. Performing a manipulation of the argument deviceid results in cross site scripting. Remote exploitation of the attack is possible. The exploit is now public and may be used. The vendor was contacted early about this disclosure.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115982",
+   "cvss": 4.3,
+   "ref": "https://gist.github.com/KHr00t/a7f3b2eea71d30ad7ccf65e1d47e502f"
+  },
+  "title_vi": "CVE-2026-115982 — Một lỗ hổng được phát hiện trong phpIPAM lên tới 1",
+  "key": "acd57548e31a05becdb74a184236eda03deec663"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-109111 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-109111",
+  "published": "2026-10-24T23:16:57.663",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-109111",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2026-109111 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
+  "key": "42cb5b04f35bfe91dbc674f48e00e10495082229"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-111326 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111326",
+  "published": "2026-10-24T23:16:58.260",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-111326",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2026-111326 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
+  "key": "b734530df558551aabf1f0b7e39d4f0c0321764a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115995 — A security vulnerability has been detected in Unitree Robotics Unitree Go2 up to 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115995",
+  "published": "2026-10-24T23:16:58.323",
+  "summary": "A security vulnerability has been detected in Unitree Robotics Unitree Go2 up to 1.1.11.4. The impacted element is the function set_volume of the file gpt_thread.py of the component chat_go. Such manipulation of the argument Value leads to os command injection. The attack can be launched remotely. Upgrading to version 1.1.11.5 is sufficient to resolve this issue. You should upgrade the affected component. The vendor confirmed early: \"Submission 990502 corresponds to our internal ticket #474 (Go2 chat_go set_volume OS command injection, CWE-78).\"",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115995",
+   "cvss": 9.6,
+   "ref": "https://unitree-firmware.oss-cn-hangzhou.aliyuncs.com/firmware/release/package_1.1.11.5_GO2_Edu_Max_Pro_X_1761128358872.upk"
+  },
+  "title_vi": "CVE-2026-115995 — Một lỗ hổng bảo mật đã được phát hiện trong Unitree Robotics Unitree Go2 lên đến 1",
+  "key": "029b444a02f86c374772f8e33c0d423644d2dcc0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115996 — A vulnerability was detected in Unitree Robotics Unitree Go2 up to 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115996",
+  "published": "2026-10-24T23:16:58.907",
+  "summary": "A vulnerability was detected in Unitree Robotics Unitree Go2 up to 1.1.13/1.1.14.1/1.1.15.1. This affects the function WebSocketClient.connect of the file websocket.py of the component chat_go. Performing a manipulation results in improper certificate validation. The attack may be initiated remotely. The attack's complexity is rated as high. The exploitability is reported as difficult. The vendor confirmed early: \"These issues were previously submitted by the researcher through our Security Response Center platform and are tracked internally as follows: Submission 990504 corresponds to our int",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115996",
+   "cvss": 3.7,
+   "ref": "https://vuldb.com/cve/CVE-2026-115996"
+  },
+  "title_vi": "CVE-2026-115996 — Một lỗ hổng được phát hiện trong Unitree Robotics Unitree Go2 lên tới 1",
+  "key": "3e5acda112b4065c701ffa5339e9880ac8f1a4f8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-89284 — Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-89284",
+  "published": "2026-10-24T23:16:59.293",
+  "summary": "Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-89284",
+   "cvss": null,
+   "ref": ""
+  },
+  "title_vi": "CVE-2026-89284 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
+  "key": "eb63267ae695d39f5e236473919716165bb94414"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115997 — A flaw has been found in pig-mesh pig up to 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115997",
+  "published": "2026-10-25T00:16:45.047",
+  "summary": "A flaw has been found in pig-mesh pig up to 4.1.0. This impacts the function orderItem.getColumn of the file pig-common/pig-common-data/src/main/java/com/pig4cloud/pig/common/data/resolver/SqlFilterArgumentResolver.java. Executing a manipulation of the argument ascs/descs can lead to sql injection. The attack may be launched remotely. The exploit has been published and may be used. Upgrading to version 4.1.1 will fix this issue. This patch is called 9b6311161e346d7626c81d993044072fed2dca07. It is suggested to upgrade the affected component. The vendor was contacted early about this disclosure.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115997",
+   "cvss": 6.3,
+   "ref": "https://github.com/pig-mesh/pig/"
+  },
+  "title_vi": "CVE-2026-115997 — Một lỗ hổng đã được tìm thấy ở lợn lưới lên đến 4 con",
+  "key": "dd6bbe8a73c203cf7729b7a9673fd2830cdc3236"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115999 — A vulnerability has been found in mansi-k Restaurant_IMS d7ad49f61ab7cc1ec6eb359ac2b5378bdbde0694",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115999",
+  "published": "2026-10-25T02:16:26.913",
+  "summary": "A vulnerability has been found in mansi-k Restaurant_IMS d7ad49f61ab7cc1ec6eb359ac2b5378bdbde0694. Affected is the function mysqli_connect of the file lsmodal.php. The manipulation of the argument login_id/epsw leads to sql injection. Remote exploitation of the attack is possible. This product follows a rolling release approach for continuous delivery, so version details for affected or updated releases are not provided. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115999",
+   "cvss": 7.3,
+   "ref": "https://vuldb.com/cve/CVE-2026-115999"
+  },
+  "title_vi": "CVE-2026-115999 — Đã tìm thấy lỗ hổng trong mansi-k Restaurant_IMS d7ad49f61ab7cc1ec6eb359ac2b5378bdbde0694",
+  "key": "a9e64b1af74998037e497cddd3276f23a407b16e"
+ },
+ {
   "source": "VnExpress Số hóa",
   "title": "Smartphone giá rẻ đang 'chết'",
   "link": "https://vnexpress.net/smartphone-gia-re-dang-chet-5134841.html",
@@ -5675,7 +5942,7 @@
    "cvss": 3.7,
    "ref": "https://github.com/agentfront/mcp-from-openapi/commit/47fb7a655de33958b0c923490ab244343eb5fc44"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-115751 — Agentfront mcp-from-openapi từ 2",
   "key": "12c5925eaeef47af6dacde9ead532c335a21e52f"
  },
  {
@@ -5693,7 +5960,7 @@
    "cvss": 4.2,
    "ref": "https://github.com/SignalK/signalk-server/commit/535104f655304c697d535252da397948e5101dc6"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-115752 — Máy chủ Signal K từ 2",
   "key": "f490d1df911acf63c31c746072f14d82f49d02d4"
  },
  {
@@ -5711,7 +5978,7 @@
    "cvss": null,
    "ref": "https://github.com/Aiven-Open/pghoard/releases/tag/2.7.1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-54711 — pghoard là công cụ khôi phục và daemon sao lưu PostgreSQL lưu trữ dữ liệu sao lưu trong các kho lưu trữ đối tượng trên đám mây",
   "key": "48be73f403252c07e3ff45652e2664532e56288c"
  },
  {
@@ -5729,7 +5996,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/eventschedule/eventschedule/security/advisories/GHSA-664j-55hw-p8fm"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-55190 — Lịch sự kiện là một nền tảng nguồn mở để chia sẻ sự kiện, bán vé và gắn kết cộng đồng lại với nhau",
   "key": "835e6aea3d1970403cdd79185fa3f82cef5a13fa"
  },
  {
@@ -5747,7 +6014,7 @@
    "cvss": 4.6,
    "ref": "https://github.com/conda-forge/conda-forge.github.io/security/advisories/GHSA-r5vj-wgjv-r524"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-55422 — conda-forge là một tổ chức GitHub chứa các kho công thức nấu ăn conda",
   "key": "abbba73b04c44006fd6176093a8d50a5a73a06ba"
  },
  {
@@ -5765,7 +6032,7 @@
    "cvss": null,
    "ref": "https://github.com/flatpak/xdg-desktop-portal/releases/tag/1.22.1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-55888 — XDG Desktop Portal là một cổng tích hợp máy tính để bàn",
   "key": "850e064616ec442a194208c80dcb93848ad70d7e"
  },
  {
@@ -5783,7 +6050,7 @@
    "cvss": null,
    "ref": "https://github.com/flatpak/xdg-desktop-portal/releases/tag/1.22.1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-55889 — XDG Desktop Portal là một cổng tích hợp máy tính để bàn",
   "key": "8bb4991802989cf3dd9c5c1c6035539ee4b94708"
  },
  {
@@ -5801,7 +6068,7 @@
    "cvss": 8.1,
    "ref": "https://github.com/MervinPraison/PraisonAI/security/advisories/GHSA-f44v-7qgw-9gh9"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-57113 — PraisonAI là hệ thống nhóm đa tác nhân",
   "key": "6d48f806b6c3f0d172fd106bcbd9feb750eafae5"
  },
  {
@@ -5819,7 +6086,7 @@
    "cvss": 7.2,
    "ref": "https://github.com/MervinPraison/PraisonAI/security/advisories/GHSA-rjvw-7vvw-549v"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-57114 — PraisonAI là hệ thống nhóm đa tác nhân",
   "key": "2775ed7ac930403cb65cc6a9c00d6a506b01f984"
  },
  {
@@ -5837,7 +6104,7 @@
    "cvss": 9.8,
    "ref": "https://github.com/MervinPraison/PraisonAI/security/advisories/GHSA-892r-p3jq-jp24"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-57116 — PraisonAI là hệ thống nhóm đa tác nhân",
   "key": "7f7147b6e57a00edf7ab22bcaee9f2969f7932db"
  },
  {
@@ -5855,7 +6122,7 @@
    "cvss": 8.8,
    "ref": "https://github.com/MervinPraison/PraisonAI/security/advisories/GHSA-w6h2-fr4q-xvxv"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-57117 — PraisonAI là hệ thống nhóm đa tác nhân",
   "key": "2cf677063a444d69e76768c5fd517a2ce8de34c9"
  },
  {
@@ -5874,7 +6141,7 @@
    "cvss": 8.1,
    "ref": "https://github.com/MervinPraison/PraisonAI/security/advisories/GHSA-rh39-9c67-59mh"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-57121 — PraisonAI là hệ thống nhóm đa tác nhân",
   "key": "dbf68c940beed9d4cd710e0f86480012d93e4a48"
  },
  {
@@ -5892,7 +6159,7 @@
    "cvss": 7.8,
    "ref": "https://github.com/MervinPraison/PraisonAI/security/advisories/GHSA-7qw2-w5rc-37x2"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-57142 — PraisonAI là hệ thống nhóm đa tác nhân",
   "key": "2390640040fc4b4a70878409cb8ca9734d9c5a65"
  },
  {
@@ -5910,7 +6177,7 @@
    "cvss": 8.8,
    "ref": "https://github.com/MervinPraison/PraisonAI/security/advisories/GHSA-6jcq-6546-qrrw"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-57144 — PraisonAI là hệ thống nhóm đa tác nhân",
   "key": "54d36dd2cd487d1ed2adb37192feecb62ae81f34"
  },
  {
@@ -5928,7 +6195,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/MervinPraison/PraisonAI/security/advisories/GHSA-jxcw-qp4h-6jfq"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-57146 — PraisonAI là hệ thống nhóm đa tác nhân",
   "key": "ae074e24b5473546d55684222e98c822a4276f15"
  },
  {
@@ -5946,7 +6213,7 @@
    "cvss": null,
    "ref": "https://github.com/dadrus/heimdall/releases/tag/v0.17.17"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-57209 — Heimdall là dịch vụ Quyết định kiểm soát truy cập và Proxy nhận dạng danh tính gốc trên nền tảng đám mây",
   "key": "a92ef2d98165f81ed9a4233825692435e130fe7f"
  },
  {
@@ -5964,7 +6231,7 @@
    "cvss": null,
    "ref": "https://github.com/dadrus/heimdall/releases/tag/v0.17.17"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-57210 — Heimdall là dịch vụ Quyết định kiểm soát truy cập và Proxy nhận dạng danh tính gốc trên nền tảng đám mây",
   "key": "067d15c0a9ef4b26598a18adc1f13201f5cc4ddc"
  },
  {
@@ -5983,7 +6250,7 @@
    "cvss": 8.4,
    "ref": "https://github.com/Aiven-Open/pghoard/releases/tag/2.7.2"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-63120 — pghoard là công cụ khôi phục và daemon sao lưu PostgreSQL lưu trữ dữ liệu sao lưu trong kho lưu trữ đối tượng trên đám mây",
   "key": "77367e8d983a7342696e958885b26e65f786f4ab"
  },
  {
@@ -6001,7 +6268,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/5023c70853ad9829c53d8e9def5ee969b4e1b931"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98917 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: parisc: Tăng kích thước ngăn xếp hạt nhân lên 32kb Đối với nhân Linux 64-bit, hãy tăng kích thước ngăn xếp hạt nhân lên 32kb.",
   "key": "d6dae836b83edeaffe63bdd9d74b45c942fce19a"
  },
  {
@@ -6019,7 +6286,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/d5208de0799c506d3315b6f96d034c38e4509dbb"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98918 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: mm/damon/ops-common: sử dụng địa chỉ được căn chỉnh theo trang trong damon_ptep_mkold() __damon_va_p",
   "key": "9d62cf66451d4c98e73457791513464cba5fcd12"
  },
  {
@@ -6037,7 +6304,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/2bcbfc5e7bfa9cc76818c54db698da5bdc13d9ff"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98919 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: drm/xe: harden adjustment_idledly() chống chia cho 0 và tràn adjustment_idledly",
   "key": "28d1cd14b3d391a6b43c73faadcaf19a8d6baa65"
  },
  {
@@ -6055,7 +6322,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/37a2042748bc880df03ff8315db86ed82991fbb8"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98920 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: netfs: Sửa lỗi thiếu gắn thẻ phân bổ của phân bổ mempool trực tiếp Cam kết 1d78d56c43ef",
   "key": "f1c31fbbbfbf98f5ddf936ef769a9abf625ee44f"
  },
  {
@@ -6073,7 +6340,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/719bd33ab359c539a68a278c15a97deb77565cdb"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98921 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ovl: fix UAF in ovl_do_mkdir() debug print ovl_do_mkdir() in nha khoa đầu vào",
   "key": "267147ec87f2519db75b2e748724b4baf6f5e8e9"
  },
  {
@@ -6091,7 +6358,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/7c9f391ec89cb621d7af375ace2eb9a6248e5b9d"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98922 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: net: emac: di chuyển cài đặt của netops để khắc phục sự cố khắc phục sự cố sau trên trình điều khiển",
   "key": "750a283e880690102307ad3b59bca2bc0de12a45"
  },
  {
@@ -6109,7 +6376,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0b04af3d88bb7fc69b2d92457890608860e42365"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98923 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: arm64: io: Từ chối bảo vệ những người không phải người dùng trong ioremap_prot() Ánh xạ một trang xếp chồng v",
   "key": "476c5354bbcbfd43e8bdb1cd36415ce3e6e7fcb5"
  },
  {
@@ -6127,7 +6394,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/3cdc6e12ff79f0f8a3ba62d7e61474ae4b5e119a"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98924 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: fs: tránh quét lặp lại trong evict_inodes() Chúng tôi đã quan sát thấy các tác vụ bị treo khi người dùng cố gắng",
   "key": "cd619a315d60831d56c0b970e1a3281b77a4a790"
  },
  {
@@ -6145,7 +6412,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/490a83d6386eec1d29f470c8d7331677fb46c3b7"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98925 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: bpf, sockmap: Fix self-redirectcopy_seq double-counting When a BPF streaming_verdi",
   "key": "d16e713aad3842c65abb73406f9c3b746d3b8183"
  },
  {
@@ -6163,7 +6430,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0b1eebd359685dd681f6e0df5540a5bb985a27bf"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98926 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: drm/amd/display: Loại bỏ mức sử dụng sink khỏi DPMS [Tại sao] stream->sink là tùy chọn và ca",
   "key": "dc5592ad5d0bb1ad4c7540452258aedb7ff4b974"
  },
  {
@@ -6181,7 +6448,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/33346f8960c7bb6a3b4e273b5cfe25c5a8be349f"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98927 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: KVM: arm64: nv: Sửa vòng đời của mảng Nested_mmus Mảng Nested_mmus giữ",
   "key": "30754f526f8c9befd47c2b701fd589fac343e4d9"
  },
  {
@@ -6199,7 +6466,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/4efda204087145d40a84344edec7e9d3885ad3ab"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98928 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: KVM: arm64: Lấy GUEST_HAS_SVE từ bit tính năng SVE tại EL2 pkvm_init_feature",
   "key": "4a19d56103abe534b2fdc2705acfcf2a971b0f5b"
  },
  {
@@ -6217,7 +6484,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/2b42adf3b8ee9a0e1d2629aca3c5a02a1c438066"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98929 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: macsec: khởi tạo SecY trước khi đăng ký netdevice Tạo thiết bị MACsec",
   "key": "b56ecf74da256015e497be0665326c4aa0846488"
  },
  {
@@ -6235,7 +6502,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/3bd77c59576b1d447fd56cc689ae9523a334b924"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98930 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: KVM: s390: Sửa lỗi tiêm IRQ bằng trạng thái dừng và lưu trữ SIGP khi __inject_sigp_st",
   "key": "276aa464aa8863bd65ef9ad90b2520c97aa3b769"
  },
  {
@@ -6253,7 +6520,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/3c765fd5212c1bbc71568b1518a7ec963a7040b4"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98931 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: mtd: spinand: sửa lỗi vô hiệu hóa con trỏ NULL không có công cụ ECC Khi \"nand-no-ecc-en",
   "key": "582350d725e3d5754a7178baf754b2abceb0a799"
  },
  {
@@ -6271,7 +6538,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/865f3bdebbc9b34012358c377c9b15154f95f33b"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98932 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: EDAC/altera: Sửa lỗi use-after-free trong cả hai đường dẫn lỗi Trong cả altr_edac_a10_device_add()",
   "key": "119c8562dedc56b2316a4c1d955a5d15daeeb648"
  },
  {
@@ -6289,7 +6556,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/29480b05e6e226594dc11ccf2a036fbd5cdd0e42"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98933 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: usb: hub: sử dụng thời gian giữ lại bài đăng ngắn hơn 120ms cho các hub gốc SS Giữ hub USB3 P",
   "key": "127e8e1d565c9df744bd60bcc832f76a15880521"
  },
  {
@@ -6307,7 +6574,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/086e8acb3a0e55f6d22d29fae2a4a3b1561bb766"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98934 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ipv6: sr: use skb_get_hash_net() in seg6_make_flowlabel() Kể từ khi xác nhận d58e468b111",
   "key": "793bddcb24b58f5524f15f9a7bb4a5d40c328868"
  },
  {
@@ -6326,7 +6593,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/00dc50cede96738dadc64b20e671186cddb8a58d"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98935 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: rtc: dev: zero-initialize struct rtc_wkalrm để ngăn chặn rò rỉ thông tin Cấu trúc",
   "key": "a997bf71e37a2b34d452c188f319e79265dbc572"
  },
  {
@@ -6344,7 +6611,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/60142eb2afda34508e640a3ff2a54c90e51525cc"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98936 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: wifi: ath11k: reset ar->num_stations khi khởi động phần cứng Khi (nhiều) hw khởi động lại",
   "key": "d04cdf409a92033c65a7c04166cf2d7a716b3449"
  },
  {
@@ -6362,7 +6629,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/132bee76097be421ab3012130b5b506324cf2be1"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98937 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: perf/core: Kiểm tra quyền truy cập kernel khi chuỗi lệnh gọi kernel được yêu cầu perf_event_ope",
   "key": "518b90bb96f71239d317b5d49e02b96cffe25771"
  },
  {
@@ -6380,7 +6647,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/9a7931e847f338a687e96cde9f37e0cff83ddd84"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98938 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: Rust: irq: chuyển RegistrationInner dưới dạng cookie tới request_irq Với cam kết ba268514ea1",
   "key": "4d9ba522b3f892352f0568086ac7e1b9a8f1d6da"
  },
  {
@@ -6398,7 +6665,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/d3c2d2692bdf4af94bb27bc7a3aa0a348a567606"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98939 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: x86/mm: Bỏ bản sao trang PMD không cần thiết khi giải phóng Trên hộp có GPU rời,",
   "key": "123519db022163aa9da48d51ef80151b610f3b5b"
  },
  {
@@ -6416,7 +6683,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/6833f1893ac2ec40016c348779af63debf3700d2"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98940 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ASoC: qcom: lpass-cpu: sử dụng chỉ mục bảng DAI cho các hạn chế phát lại ID DAI là",
   "key": "7e478261b14edc18497ff6f10f5ff0b9d82cd89b"
  },
  {
@@ -6434,7 +6701,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/40554d1221e3d2ff2e0d192b74a05d89eb3620e7"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98941 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: ext4: không kích hoạt các folio lớn trên các inode được mã hóa Commit 709f0f1f1bf5 (\"ext4: ad",
   "key": "e4086df3750bdd5f65ed6166b7d9b1b93096ca59"
  },
  {
@@ -6452,7 +6719,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0e1a74369bdbc357d3d9713734418d914a981553"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98942 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: sched_ext: Xây dựng các bảng cid một cách riêng tư và xuất bản chúng với RCU Các bảng cid",
   "key": "6c80ba20dc493f1eb351e750094254a06e0c4b6e"
  },
  {
@@ -6470,7 +6737,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/6bce4b221dc0e144180c333123dbb82d1dc3a500"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98943 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: HID: steam: Dọn dẹp khóa Tính năng này giúp giải quyết một số vấn đề về hành vi khóa,",
   "key": "cebcc6d6d2ff034b5850755299c43752c7152f29"
  },
  {
@@ -6488,7 +6755,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/2b15e10aff95c78dbacc4fa32fa90c9098213e03"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98944 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: HID: steam: Đăng ký tái cấu trúc Điều này tái cấu trúc và đơn giản hóa việc đăng ký/u",
   "key": "fec501f600705a6eb7d71d140fbe1bf195594cda"
  },
  {
@@ -6506,7 +6773,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/81a8209c09f9be7eef860ca6cc154749a6b4d243"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98945 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: HID: steam: Sắp xếp lại trình tự xé nát Điều này khắc phục một cửa sổ hẹp trong quá trình xé",
   "key": "3ecd99e13887e0b924d8b6d2ff0bd2527ae85495"
  },
  {
@@ -6524,7 +6791,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/6abc8e4dcfbc1d26a94c0ac037dfb3716f686b1f"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98946 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: drm/vc4: Vô hiệu hóa ngắt V3D trong suốt thời gian chạy mặt nạ vc4_irq_disable()",
   "key": "688c0a26eee8d6ac227c7113e495cfcffe069d35"
  },
  {
@@ -6543,7 +6810,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/0f8e2b2045355a0ee2008125e573435504b13cee"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98947 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: vsock: Sửa lỗi rò rỉ bộ nhớ trong vmci_transport_recv_dgram_cb() Trong quá trình đóng một d",
   "key": "21f898989e970a5d233ef512f387b7cddd2da7b0"
  },
  {
@@ -6562,7 +6829,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/3938430f0237c59ca08d6a366e7657b2b7f8d0bb"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98948 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: mlxsw: Spectrum_flower: Sửa lỗi rò rỉ thanh ghi phạm vi cổng trong tmplt_create() mlxsw_sp_fl",
   "key": "455a4f1f866d9fb15f47bbc3c8ff173dfb711dcf"
  },
  {
@@ -6581,7 +6848,7 @@
    "cvss": null,
    "ref": "https://git.kernel.org/stable/c/196d4d10c1b33ae176685ff42a9994a5952b1d0f"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-98949 — Trong nhân Linux, lỗ hổng sau đã được giải quyết: drm/imagination: Fix tham chiếu và xử lý vm_bo trong remap() Khi bản đồ chồng lên nhau p",
   "key": "8afd3dbefa46fa9c40f3f0687d02150114fa6f4b"
  },
  {
@@ -73737,295 +74004,5 @@
   },
   "title_vi": "",
   "key": "4d30938c041e16222eaec217b5b636bbb707b409"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-42025 — Multiple exploitable stack-based buffer overflow vulnerabilities exist in the boa formIpv6Setup dhcp_dns functionality of X2000R (version(s): TOTOLINK",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-42025",
-  "published": "2026-10-20T21:17:19.610",
-  "summary": "Multiple exploitable stack-based buffer overflow vulnerabilities exist in the boa formIpv6Setup dhcp_dns functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1.0.0-B20250421.1327). A specially crafted HTTP request can lead to arbitrary code execution. An attacker can make an authenticated HTTP request to trigger these vulnerabilities. This vulnerability concerns the dhcp_dns1 parameter.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-42025",
-   "cvss": 9.1,
-   "ref": "https://talosintelligence.com/vulnerability_reports/TALOS-2026-2396"
-  },
-  "title_vi": "",
-  "key": "c120e2c7a98ca6aa39ca25f2869b4f2f0abef041"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-42026 — Multiple exploitable stack-based buffer overflow vulnerabilities exist in the boa formIpv6Setup dhcp_dns functionality of X2000R (version(s): TOTOLINK",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-42026",
-  "published": "2026-10-20T21:17:19.730",
-  "summary": "Multiple exploitable stack-based buffer overflow vulnerabilities exist in the boa formIpv6Setup dhcp_dns functionality of X2000R (version(s): TOTOLINK-X2000R-Gh-V1.0.0-B20250421.1327). A specially crafted HTTP request can lead to arbitrary code execution. An attacker can make an authenticated HTTP request to trigger these vulnerabilities. This vulnerability concerns the dhcp_dns2 parameter.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-42026",
-   "cvss": 9.1,
-   "ref": "https://talosintelligence.com/vulnerability_reports/TALOS-2026-2396"
-  },
-  "title_vi": "",
-  "key": "7f0d88937707fe0308a23f8f613ba44b3c6e51f5"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-86414 — An HTTP proxy can trick libcurl into sending the origin's credentials (Basic password, or a Negotiate/Kerberos ticket) to the proxy itself, by answeri",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86414",
-  "published": "2026-10-20T21:17:19.947",
-  "summary": "An HTTP proxy can trick libcurl into sending the origin's credentials (Basic\npassword, or a Negotiate/Kerberos ticket) to the proxy itself, by answering\nthe `CONNECT` tunnel request with 401 `WWW-Authenticate:` instead of the\nexpected 407 `Proxy-Authenticate:`.",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-86414",
-   "cvss": null,
-   "ref": "https://curl.se/docs/CVE-2026-86414.html"
-  },
-  "title_vi": "",
-  "key": "4d400e2c644389f85bd2142a54a359b300632802"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-86415 — libcurl's connection cache match function never considers the automatic client certificate option, so a cached, already authenticated Schannel connect",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86415",
-  "published": "2026-10-20T21:17:20.067",
-  "summary": "libcurl's connection cache match function never considers the automatic client\ncertificate option, so a cached, already authenticated Schannel connection can\nbe handed to a transfer that got redirected to a different origin, even though\nthe code explicitly switched off the auto client cert option for that transfer\nto prevent exactly this.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-86415",
-   "cvss": null,
-   "ref": "https://curl.se/docs/CVE-2026-86415.html"
-  },
-  "title_vi": "",
-  "key": "745731955f217e659e55d437925cf39fb511e4f6"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-87861 — When using ambient user credentials, an HTTP request directed to one origin may be dispatched over a connection previously authenticated via Negotiate",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87861",
-  "published": "2026-10-20T21:17:20.167",
-  "summary": "When using ambient user credentials, an HTTP request directed to one origin\nmay be dispatched over a connection previously authenticated via Negotiate for\na different origin, leaving the request's intended credentials unused.",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-87861",
-   "cvss": null,
-   "ref": "https://curl.se/docs/CVE-2026-87861.html"
-  },
-  "title_vi": "",
-  "key": "07432665559a5975729832e506e69815bab2887c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-87862 — Importing a `includeSubDomains` parent HSTS entry before a longer-lived child entry, silently drops the child",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87862",
-  "published": "2026-10-20T21:17:20.270",
-  "summary": "Importing a `includeSubDomains` parent HSTS entry before a longer-lived child\nentry, silently drops the child. Consequently, when the parent expires, the\nchild's valid HSTS policy is lost, causing curl to issue unencrypted HTTP\nrequests rather than upgrading to HTTPS.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-87862",
-   "cvss": null,
-   "ref": "https://curl.se/docs/CVE-2026-87862.html"
-  },
-  "title_vi": "",
-  "key": "5a5914c00a33385ad50442c69f347bb7a740c36e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-87863 — An authenticated HTTPS origin can supply an HSTS `max-age` value that the parser accepts, but time serialization later fails to process",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87863",
-  "published": "2026-10-20T21:17:20.380",
-  "summary": "An authenticated HTTPS origin can supply an HSTS `max-age` value that the\nparser accepts, but time serialization later fails to process. On 64-bit\nsystems, extreme max-age values compute an absolute expiry within standard\ntime integer limits that exceeds calendar time structure bounds. During cache\nsaves, the original HSTS file is truncated before writing a temporary\nreplacement; when serialization fails, the temporary file is deleted, leaving\nan empty or partial cache. Because the save error is silently ignored during\ncleanup, curl exits successfully despite the data loss.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-87863",
-   "cvss": null,
-   "ref": "https://curl.se/docs/CVE-2026-87863.html"
-  },
-  "title_vi": "",
-  "key": "17712bc97e4d5825faed9c01604a24654a1f4a12"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-87864 — Enabling `CURLOPT_CRLF` causes curl to advertise the raw input byte count in the `IMAP APPEND {N}` literal while transmitting line-ending expanded dat",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87864",
-  "published": "2026-10-20T21:17:20.497",
-  "summary": "Enabling `CURLOPT_CRLF` causes curl to advertise the raw input byte count in\nthe `IMAP APPEND {N}` literal while transmitting line-ending expanded data.\nThe server reads only $N$ bytes for the payload, causing the remaining\noverflow bytes to be interpreted and executed as pipelined IMAP commands\nwithin the authenticated session.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-87864",
-   "cvss": null,
-   "ref": "https://curl.se/docs/CVE-2026-87864.html"
-  },
-  "title_vi": "",
-  "key": "a9306a29f4a043b68ae377d07c6d3fcac37dd0c2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-87865 — When libcurl uses libssh2 with a hashed `known_hosts` file, an unrelated initial entry can cause host key validation to report a key *mismatch* as a *",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87865",
-  "published": "2026-10-20T21:17:20.693",
-  "summary": "When libcurl uses libssh2 with a hashed `known_hosts` file, an unrelated\ninitial entry can cause host key validation to report a key *mismatch* as a\n*missing* key to the `CURLOPT_SSH_KEYFUNCTION` callback.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-87865",
-   "cvss": null,
-   "ref": "https://curl.se/docs/CVE-2026-87865.html"
-  },
-  "title_vi": "",
-  "key": "d31a6c97d0094ffa1cc9ad44d22e720c9efca719"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-87866 — When built with wolfSSL, curl can successfully validate a pinned public key hash against a key the TLS peer does not possess",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87866",
-  "published": "2026-10-20T21:17:20.833",
-  "summary": "When built with wolfSSL, curl can successfully validate a pinned public key\nhash against a key the TLS peer does not possess. During the TLS handshake,\nwolfSSL validates the connection, but curl's subsequent re-parsing of the same\ncertificate - tricked by a manipulated validity length field - extracts and\nmatches a different embedded key, incorrectly authorizing the pinned public\nkey.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-87866",
-   "cvss": null,
-   "ref": "https://curl.se/docs/CVE-2026-87866.html"
-  },
-  "title_vi": "",
-  "key": "854f426751ffd009be5c42e760a7f2d188ee73bb"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-92386 — When writing a long cookie name and value to a Netscape cookie jar, a remote HTTP server can make `curl` write a record that exceeds its line-length p",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-92386",
-  "published": "2026-10-20T21:17:21.017",
-  "summary": "When writing a long cookie name and value to a Netscape cookie jar, a remote\nHTTP server can make `curl` write a record that exceeds its line-length\nparsing limit. Consequently, any subsequent `curl` invocation reading from\nthat same cookie jar using `--cookie` silently aborts parsing prematurely upon\nencountering the too long line, ignoring all subsequent valid cookies in the\nfile.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-92386",
-   "cvss": null,
-   "ref": "https://curl.se/docs/CVE-2026-92386.html"
-  },
-  "title_vi": "",
-  "key": "15cfd5133aec34538413e9dcb4dad55d9431bf50"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-92387 — By permanently omitting the final control-response line, a malicious FTP, IMAP, POP3, or SMTP server can exploit libcurl and completely bypass its con",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-92387",
-  "published": "2026-10-20T21:17:21.133",
-  "summary": "By permanently omitting the final control-response line, a malicious FTP,\nIMAP, POP3, or SMTP server can exploit libcurl and completely bypass its\nconfigured transfer timeout mechanism, indefinitely blocking all concurrent\ntransfers bound to the same multi-handle.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-92387",
-   "cvss": null,
-   "ref": "https://curl.se/docs/CVE-2026-92387.html"
-  },
-  "title_vi": "",
-  "key": "5873f1c66062bd37ca4a42cfb414f38496f498fd"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-92388 — When an FTP wildcard `LIST` operation fails, libcurl omits the restoration path meant for successful listings, leaving the write callback set to the i",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-92388",
-  "published": "2026-10-20T21:17:21.243",
-  "summary": "When an FTP wildcard `LIST` operation fails, libcurl omits the restoration\npath meant for successful listings, leaving the write callback set to the\ninternal listing parser and the write callback data pointing directly to the\neasy handle. Subsequent reuse of this handle triggers an immediate crash, and\ncloning it via `curl_easy_duphandle()` copies this corrupted state into the\nduplicate. If the original handle is subsequently freed, executing a transfer\non the cloned handle causes a heap use-after-free read against the dangling\nhandle reference; alternatively, reusing the original or cloned ha",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-92388",
-   "cvss": null,
-   "ref": "https://curl.se/docs/CVE-2026-92388.html"
-  },
-  "title_vi": "",
-  "key": "089d76aa1fbc892623a83ea06a8c21026653cf2d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-92389 — libcurl's TFTP state machine fails to validate state transitions against the requested transfer direction, accepting opening server responses for both",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-92389",
-  "published": "2026-10-20T21:17:21.457",
-  "summary": "libcurl's TFTP state machine fails to validate state transitions against the\nrequested transfer direction, accepting opening server responses for both\nreads and writes interchangeably. A malicious TFTP server can respond to a\ndownload request in a way that forces the client into transmit mode, prompting\nlibcurl to consume and transmit data from the handle's persistent\n`CURLOPT_READDATA` pointer - including data remaining from unrelated prior\noperations, such as an HTTP POST request executed on a reused handle.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-92389",
-   "cvss": null,
-   "ref": "https://curl.se/docs/CVE-2026-92389.html"
-  },
-  "title_vi": "",
-  "key": "36151509aadf3e3a91f520fd0f64be5ba52c5cb4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-92390 — When invoked with `--remote-header-name` (`-J`), curl fails to preserve its documented anti-clobbering protection if an intermediate 103 Early Hints r",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-92390",
-  "published": "2026-10-20T21:17:21.703",
-  "summary": "When invoked with `--remote-header-name` (`-J`), curl fails to preserve its\ndocumented anti-clobbering protection if an intermediate 103 Early Hints\nresponse precedes the final HTTP response, or if an `ETag` header is processed\nbefore `Content-Disposition` under `--etag-save`. This flaw allows an HTTP(S)\nserver to overwrite an existing local file specified in the\n`Content-Disposition` header despite the presence of the `-J` non-overwrite\nconstraint.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-92390",
-   "cvss": null,
-   "ref": "https://curl.se/docs/CVE-2026-92390.html"
-  },
-  "title_vi": "",
-  "key": "87e874feffd58dc5e1cea4a73645e1438c19942f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-92391 — A deeply nested multipart MIME structure constructed via the public API causes a stack overflow in libcurl during normal cleanup operations",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-92391",
-  "published": "2026-10-20T21:17:21.920",
-  "summary": "A deeply nested multipart MIME structure constructed via the public API causes\na stack overflow in libcurl during normal cleanup operations. An excessive\nrecursion depth within `curl_mime_free` leads to unbounded stack frame\nallocation during structure traversal, ultimately crashing the host process.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-92391",
-   "cvss": null,
-   "ref": "https://curl.se/docs/CVE-2026-92391.html"
-  },
-  "title_vi": "",
-  "key": "ca7ec7d383f99c735c6a47edb1d9002c8348bbec"
  }
 ]
