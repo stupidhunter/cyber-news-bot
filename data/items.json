@@ -1,6 +1,297 @@
 [
  {
   "source": "VietnamPlus Kinh tế số",
+  "title": "Mỹ chấm dứt khoản viện trợ an ninh 3,8 tỷ USD mỗi năm cho Israel",
+  "link": "https://www.vietnamplus.vn/my-cham-dut-khoan-vien-tro-an-ninh-38-ty-usd-moi-nam-cho-israel-post1145991.vnp",
+  "published": "2026-11-03T23:16:39+00:00",
+  "summary": "Trả lời chương trình thời sự “Fox and Friends” của kênh Fox News, Tổng thống Trump cho biết đã nhất trí với Thủ tướng Netanyahu về việc chấm dứt khoản viện trợ. Bầu cử Israel: Bốn đảng đối lập thống nhất ủng hộ ông Eisenkot lập chính phủ mới IS gia tăng âm mưu tấn công Israel kể từ khi xung đột Gaza bùng phát Israel tiếp tục không kích Gaza, Liban siết quản lý các trại tị nạn Palestine",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "acb08ce9593714a73779418c7fe762aa6a7e3c51"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Nvidia đầu tư 1 tỷ USD vào công ty công nghệ Hàn Quốc",
+  "link": "https://www.vietnamplus.vn/nvidia-dau-tu-1-ty-usd-vao-cong-ty-cong-nghe-han-quoc-post1145968.vnp",
+  "published": "2026-11-03T23:04:00+00:00",
+  "summary": "Ngày 3/11, tập đoàn công nghệ Nvidia của Mỹ xác nhận khoản đầu tư trị giá 1.341,2 tỷ won (khoảng 1 tỷ USD) vào Naver - Tập đoàn công nghệ hàng đầu Hàn Quốc. Apple giữ ngôi vương thương hiệu toàn cầu, Nvidia bứt phá Nvidia mở rộng sang thị trường máy tính cá nhân với chip AI mới Nvidia thông qua kế hoạch mua lại cổ phiếu với giá trị kỷ lục 150 tỷ USD",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "1f2139fcf87101dfda09de08729c54ee41cd6ba2"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Quốc hội làm việc về Luật An ninh dữ liệu, Luật Định danh và xác thực điện tử",
+  "link": "https://www.vietnamplus.vn/quoc-hoi-lam-viec-ve-luat-an-ninh-du-lieu-luat-dinh-danh-va-xac-thuc-dien-tu-post1145953.vnp",
+  "published": "2026-11-03T23:00:00+00:00",
+  "summary": "Trong phiên làm việc buổi sáng 4/11, Quốc hội thảo luận ở hội trường về dự án Luật An ninh dữ liệu. Bộ trưởng Bộ Công an phát biểu giải trình, làm rõ một số vấn đề đại biểu Quốc hội nêu. Mã định danh điện tử hướng tới minh bạch thị trường bất động sản Xử lý dứt điểm nguy cơ chồng chéo Luật An ninh dữ liệu với các luật liên quan Chủ động kiểm soát, phòng ngừa, ứng phó nguy cơ lộ lọt, tấn công dữ liệu",
+  "categories": [
+   "breach",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "fb8efbaae7b04493494be02b24470cf68052a5e5"
+ },
+ {
+  "source": "OpenAI News",
+  "title": "How Cisco defends at machine speed with OpenAI",
+  "link": "https://openai.com/index/cisco-cyber",
+  "published": "2026-11-03T08:00:00+00:00",
+  "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Cách Cisco bảo vệ ở tốc độ máy bằng OpenAI",
+  "key": "41466aacd67d56e177a45022db4cbf9a95a8a47f"
+ },
+ {
+  "source": "OpenAI News",
+  "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+  "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+  "published": "2026-11-03T00:00:00+00:00",
+  "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "OpenAI bổ nhiệm Jill Hazelbaker làm Giám đốc đối ngoại doanh nghiệp",
+  "key": "2e69317e5f9dd43032e3401c046de0588f9240f9"
+ },
+ {
+  "source": "OpenAI News",
+  "title": "Evernote turns AI-driven discovery into paid subscriptions",
+  "link": "https://openai.com/ads/customers/evernote",
+  "published": "2026-10-28T19:40:49+00:00",
+  "summary": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.",
+  "categories": [
+   "ai"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Evernote biến khả năng khám phá dựa trên AI thành đăng ký trả phí",
+  "key": "b1a38be48b9f94c26d49f59625162f884809b1ad"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "AU: Criminal investigation after NSW Health hit by cyber breach",
+  "link": "https://databreaches.net/2026/11/03/au-criminal-investigation-after-nsw-health-hit-by-cyber-breach/",
+  "published": "2026-11-03T22:29:14+00:00",
+  "summary": "Richard Wood reports: A major cyber breach has been declared at NSW Health, but officials say patient data has not been affected. A spokesperson for Cyber Security NSW says investigations are under way. “Cyber Security NSW is responding to a cyber breach impacting an isolated server within NSW Health. “The breach has been declared a...",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "AU: Điều tra hình sự sau khi Bộ Y tế NSW bị tấn công mạng",
+  "key": "21490d2503bccfda0e64f948f82aff623cbac783"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "Ukraine and Russia both report fake emergency alerts after cyberattacks target apps as limited ceasefire ends",
+  "link": "https://databreaches.net/2026/11/03/ukraine-and-russia-both-report-fake-emergency-alerts-after-cyberattacks-target-apps-as-limited-ceasefire-ends/",
+  "published": "2026-11-03T20:07:11+00:00",
+  "summary": "AP reports: Authorities in Ukraine and Russia said their emergency alert mobile apps had been targeted by cyberattacks, with users in Ukraine receiving false warnings of an imminent nuclear threat. It was not clear if the attacks late Sunday were related. Ukraine said its service, which residents rely on to seek safety amid daily Russian...",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Ukraine và Nga đều báo cáo cảnh báo khẩn cấp giả sau khi các cuộc tấn công mạng nhắm vào các ứng dụng khi lệnh ngừng bắn có giới hạn kết thúc",
+  "key": "6cdee23343f975aabd6971c3ab3323b97fbad12d"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "Nine health systems affected by AI company data breach",
+  "link": "https://databreaches.net/2026/11/03/nine-health-systems-affected-by-ai-company-data-breach/",
+  "published": "2026-11-03T20:02:54+00:00",
+  "summary": "Giles Bruce reports: A data breach involving healthcare AI company Xsolis has ensnared at least nine health systems and 1.4 million patients. Xsolis, which provides utilization management and care coordination technology for health systems, reported the targeted phishing attack June 5, noting that on Jan. 20 an unauthorized person accessed portions of the company’s IT...",
+  "categories": [
+   "ai",
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Chín hệ thống y tế bị ảnh hưởng do vi phạm dữ liệu của công ty AI",
+  "key": "45c4da87bb087805e862f141dc97bffe592cb9a1"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "JPN: More companies seeking cyber insurance following high-profile data breaches",
+  "link": "https://databreaches.net/2026/11/03/jpn-more-companies-seeking-cyber-insurance-following-high-profile-data-breaches/",
+  "published": "2026-11-03T19:58:51+00:00",
+  "summary": "Maddie Baker reports: &#8220;Cybersecurity insurance normally covers compensation for costs arising from data breaches such as hacking, internally caused cyber leaks and, in some cases, IT security assessments to prevent similar data compromises from happening in the future. It also covers costs for conducting digital forensic analysis to identify cyberattackers and where vulnerabilities lie in...",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "JPN: Nhiều công ty tìm kiếm bảo hiểm mạng sau các vụ vi phạm dữ liệu cấp cao",
+  "key": "55335f7ce8efc6066fe088ad4a9d03bdf9cdb8eb"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "KR: Presidential office holds emergency meeting over leak of personal data of president, trip entourage",
+  "link": "https://databreaches.net/2026/11/03/kr-presidential-office-holds-emergency-meeting-over-leak-of-personal-data-of-president-trip-entourage/",
+  "published": "2026-11-03T19:57:32+00:00",
+  "summary": "Park Boram reports: The presidential office held an emergency meeting Tuesday to address the leak of personal information of President Lee Jae Myung and members of an entourage that accompanied him on his overseas trip in June. The meeting, presided over by presidential chief of staff Lim Kwang-hyun, followed news reports that a computer file...",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "KR: Văn phòng tổng thống họp khẩn cấp về rò rỉ dữ liệu cá nhân của tổng thống và đoàn tùy tùng",
+  "key": "3895311f256100130cc090a87d623b6783ae5f40"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "Syrian Man Sentenced for Wide-Ranging Hacking Conspiracy Conducted on Behalf of the Bashar Al Assad Regime",
+  "link": "https://databreaches.net/2026/11/03/syrian-man-sentenced-for-wide-ranging-hacking-conspiracy-conducted-on-behalf-of-the-bashar-al-assad-regime/",
+  "published": "2026-11-03T19:55:45+00:00",
+  "summary": "Ahmad Umar Agha (also known as Th3Pr0) had spent more than a decade as a fugitive for targeting of Western media entities, businesses, NGOs, and U.S. and allied government entities October 29 &#8211; Today a federal district court in the Eastern District of Virginia sentenced Ahmad Umar Agha to 42 months in prison for his...",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Người đàn ông Syria bị kết án vì âm mưu hack trên diện rộng được tiến hành thay mặt cho chế độ Bashar Al Assad",
+  "key": "da1d0364fb776894bd82fa6d02f4ad2c1d1d99ab"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+  "link": "https://databreaches.net/2026/11/03/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+  "published": "2026-11-03T19:55:26+00:00",
+  "summary": "Vittoria Elliott reports: Earlier this year, sources tell WIRED, a contractor caused a security incident at the Department of Defense by connecting a secure centralized system used by multiple intelligence agencies to their personal account for Claude Code, Anthropic’s AI coding agent. It appears that the agent used by the contractor, who is employed by...",
+  "categories": [
+   "ai",
+   "breach",
+   "cloud"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Một nhà thầu quốc phòng đã cấp cho đặc vụ AI cá nhân của họ quyền truy cập vào hệ thống Lầu Năm Góc an toàn",
+  "key": "0f0d4b863203609d0f89b93b5708820347a8a7d4"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "Hackers hit UNM hospital, then apologize and offer patients $2,500. In a new statement, they reveal more about the incident.",
+  "link": "https://databreaches.net/2026/11/03/hackers-hit-unm-hospital-then-apologize-and-offer-patients-2500-in-a-new-statement-they-reveal-more-about-the-incident/",
+  "published": "2026-11-03T19:55:17+00:00",
+  "summary": "In more than 20 years of blogging about breaches, DataBreaches has never seen ransomware threat actors offer monetary compensation to patients affected by their attack. We have seen threat actors regret hitting a hospital or a facility providing direct patient care and then offer them a free decryptor and drop the ransom demands, but this...",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Tin tặc tấn công bệnh viện UNM, sau đó xin lỗi và đưa cho bệnh nhân 2.500 USD Trong một tuyên bố mới, họ tiết lộ thêm về vụ việc.",
+  "key": "9a9848410bb51ce6929665f16102e132442831e1"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "HHS’ Office for Civil Rights Settles Ransomware Investigation of Lehigh Valley Health Network",
+  "link": "https://databreaches.net/2026/11/03/hhs-office-for-civil-rights-settles-ransomware-investigation-of-lehigh-valley-health-network/",
+  "published": "2026-11-03T19:55:03+00:00",
+  "summary": "DataBreaches.net previously covered the 2023 Lehigh Valley Health Network breach by AlphV (aka &#8220;BlackCat&#8221;). The breach garnered a lot of public attention when the threat actors crossed a line by posting nude pictures of patients on their leak site. In 2024, patients settled civil litigation for $65 million. Now HHS has settled its own charges...",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Văn phòng Dân quyền của HHS giải quyết cuộc điều tra về phần mềm tống tiền của Mạng lưới Y tế Thung lũng Lehigh",
+  "key": "acdc0d4bb4c4c6f2bcd9f35fcc2e97ca0dc1b8b5"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "UK: Second Liverpool hospital investigates staff over breach of Southport attack patient records",
+  "link": "https://databreaches.net/2026/11/03/uk-second-liverpool-hospital-investigates-staff-over-breach-of-southport-attack-patient-records/",
+  "published": "2026-11-03T19:54:55+00:00",
+  "summary": "ITV reports yet more insider snooping by hopsital employees in the wake of the Southport terror attack: A second hospital in Liverpool is carrying out an investigation into two potential instances of staff accessing medical records connected with the Southport terror attack. The cases were detected at Liverpool Heart and Chest Hospital as part of...",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Anh: Bệnh viện thứ hai ở Liverpool điều tra nhân viên vi phạm hồ sơ bệnh nhân vụ tấn công Southport",
+  "key": "8bf618878bddcdff5c3c137d2d7d74baffa58e94"
+ },
+ {
+  "source": "DarkReading",
+  "title": "Fresh European Fridge Attacks Put Cold-Chain Security in Focus",
+  "link": "https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security",
+  "published": "2026-11-03T22:16:49+00:00",
+  "summary": "Beyond food storage, the same combination of Internet connectivity, remote access, and inadequate security practices can put temperature-controlled infrastructure across other critical sectors at risk.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Các cuộc tấn công tủ lạnh mới ở châu Âu đặt trọng tâm vào an ninh chuỗi lạnh",
+  "key": "a49e4e6d32ad6f8714b5b754447c374d0dfd2699"
+ },
+ {
+  "source": "DarkReading",
+  "title": "Germany Busts 'Crime-as-a-Service' Investment Fraud Outfit",
+  "link": "https://www.darkreading.com/cybersecurity-operations/germany-crime-service-investment-fraud",
+  "published": "2026-11-03T21:57:12+00:00",
+  "summary": "German police led a multinational probe that exposed an alleged crime-as-a-service provider supplying fraudulent trading platforms to investment scammers.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Đức phá vỡ trang phục gian lận đầu tư 'tội phạm như một dịch vụ'",
+  "key": "7d56d76dd27c64d4684746a41ac7867808178364"
+ },
+ {
+  "source": "The Record",
+  "title": "Google dismantles massive botnet hidden in Android TV boxes",
+  "link": "https://therecord.media/google-dismantles-botnet-hidden-android-tv-boxes",
+  "published": "2026-11-03T19:48:00+00:00",
+  "summary": "The overwhelming majority of the infected devices in the X.CPE botnet are Android TV set-top boxes, Google said, adding that they observed a number of other infected Android-based IoT devices, including telehealth devices, karaoke machines and digital signage devices.",
+  "categories": [
+   "general"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Google triệt phá mạng botnet khổng lồ ẩn trong hộp Android TV",
+  "key": "2b3a9f719f17d1f400afee905b2179244d90ee9a"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2026-119977 — WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-119977",
+  "published": "2026-11-03",
+  "summary": "WordPress WordPress Core contains a time-of-check time-of-use (TOCTOU) race condition vulnerability that could allow unauthenticated attackers to execute code on the server during the upgrade window. This is due to predictable, web-accessible staging paths used during full-package core upgrades.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-119977",
+   "vendor": "WordPress",
+   "product": "WordPress Core",
+   "due_date": "2026-11-06",
+   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
+  },
+  "title_vi": "CVE-2026-119977 — Lỗ hổng điều kiện đua theo thời gian kiểm tra lõi của WordPress WordPress (TOCTOU)",
+  "key": "0918d1c36ebaa66b9e98b2447b9804bdd788b3d8"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
   "title": "Tập đoàn FPT khai trương Văn phòng FPT Poland tại Ba Lan",
   "link": "https://www.vietnamplus.vn/tap-doan-fpt-khai-truong-van-phong-fpt-poland-tai-ba-lan-post1145976.vnp",
   "published": "2026-11-03T15:40:44+00:00",
@@ -1307,7 +1598,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Heimstaden đang thay đổi việc quản lý bất động sản nhà ở bằng AI",
   "key": "af6788fe0819838e037b9dfd9196dfd4afdf6e7a"
  },
  {
@@ -1434,7 +1725,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Các công ty công nghệ loại bỏ Botnet đã biến 1,3 triệu hộp TV thành proxy",
   "key": "cc05e2794e3e2436b55fc18dbc7f845753b5e66f"
  },
  {
@@ -1491,7 +1782,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Hơn 100 cửa hàng châu Âu bị tấn công khi tủ lạnh siêu thị quay trở lại",
   "key": "c4cc30ce3795f0be32510bf3d03306655f139d0c"
  },
  {
@@ -1505,7 +1796,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Tin tặc khai thác lỗ hổng máy chủ BTCPay để đánh cắp Bitcoin và Litecoin từ ví nóng",
   "key": "84d5338b2ac949fa8d5a0b6858d42ef6d2d45eee"
  },
  {
@@ -1519,7 +1810,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Các thiết bị NAS Synology bị nhắm mục tiêu trong các cuộc tấn công ransomware Khai thác lỗ hổng DSM đã vá",
   "key": "923a6f68d1dc2a2670546b814cadc2638bdce6cf"
  },
  {
@@ -1533,7 +1824,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Làn sóng tấn công điện lạnh mới tấn công các siêu thị trên khắp châu Âu, buộc các cửa hàng phải rút thực phẩm",
   "key": "107529b15dfba5a05d371c977d2f24023d782794"
  },
  {
@@ -1547,7 +1838,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Kẻ tấn công khai thác lỗ hổng nghiêm trọng của Siemens IoT2050 để tạo ra các cửa hậu lệnh từ xa",
   "key": "cd17200bec849aeed5dec1cb53b2b876eab8c617"
  },
  {
@@ -1561,7 +1852,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Những kẻ tấn công nhắm vào lỗ hổng cổng thanh toán tiền điện tử chưa được vá có thể làm lộ thông tin xác thực của ví",
   "key": "e08a0f4a75e1e9e79be3eb52b06955e6295ffb97"
  },
  {
@@ -5642,7 +5933,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Người đàn ông Syria bị kết án vì âm mưu hack trên diện rộng được tiến hành thay mặt cho chế độ Bashar Al Assad",
   "key": "d5bec9337ff68d569f30a479f13b7e933a1bfe58"
  },
  {
@@ -5658,7 +5949,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Một nhà thầu quốc phòng đã cấp cho đặc vụ AI cá nhân của họ quyền truy cập vào hệ thống Lầu Năm Góc an toàn",
   "key": "41c4be20b4e1ac40047f66507d743db842ca5430"
  },
  {
@@ -5672,7 +5963,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Tin tặc tấn công bệnh viện UNM, sau đó xin lỗi và đưa cho bệnh nhân 2.500 USD Trong một tuyên bố mới, họ tiết lộ thêm về vụ việc.",
   "key": "c4145ca1d48b214b117920e83d90562447078f23"
  },
  {
@@ -5686,7 +5977,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Văn phòng Dân quyền của HHS giải quyết cuộc điều tra về phần mềm tống tiền của Mạng lưới Y tế Thung lũng Lehigh",
   "key": "e1ff52fbef46eeb3fc1b00b8ff65d8ad15420cfa"
  },
  {
@@ -5700,7 +5991,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Anh: Bệnh viện thứ hai ở Liverpool điều tra nhân viên vi phạm hồ sơ bệnh nhân vụ tấn công Southport",
   "key": "2801cef3facd393ed5aacd522a075b06cdedf2ae"
  },
  {
@@ -5714,7 +6005,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Tủ đông siêu thị khắp châu Âu bị nghi ngờ bị tấn công mạng lần thứ hai",
   "key": "b8f204dd395c9f4074cb120346723fbc308c2c83"
  },
  {
@@ -5728,7 +6019,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Nhật Bản: Suntory Holdings cho biết dữ liệu cá nhân của khoảng 100.000 người bị rò rỉ",
   "key": "9c24446e938fe7f67ef68b42aea709f0a9d1a5da"
  },
  {
@@ -5742,7 +6033,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Cơ quan giám sát quyền riêng tư của Hồng Kông điều tra rò rỉ dữ liệu liên quan đến các hãng hàng không và nhà bán lẻ lớn",
   "key": "9b108498f9f49c2484df1481b150c602e49178d2"
  },
  {
@@ -5756,7 +6047,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "CT: Killingly Public Schools – Thông báo về sự cố dữ liệu",
   "key": "1322c1b221422cfc2d093082046966b1573d97f1"
  },
  {
@@ -5770,7 +6061,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "KR: Vi phạm dữ liệu HYBE làm lộ hồ sơ y tế của nhân viên, chi tiết tài chính",
   "key": "6d468671e1e4cf074a675dd00929f16f6f614d7d"
  },
  {
@@ -5784,7 +6075,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Điểm nổi bật của Thông tin về Mối đe dọa Đơn vị 42 - Ngày 2 tháng 11 năm 2026",
   "key": "8ec5f7686d9ad3892f3649fe6b08f3f68597f9cb"
  },
  {
@@ -5798,7 +6089,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Một máy tính xách tay bị xâm nhập, hàng tỷ USD bị mất: Cảnh báo đường dẫn tấn công Binance",
   "key": "f1139b92f034597ed3e304e2c6f5061d4889a86b"
  },
  {
@@ -5827,7 +6118,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Vương quốc Anh phải đối mặt với 'sự gia tăng chưa từng có' trong các cuộc tấn công mạng trong những tháng tới, giám đốc mạng cảnh báo",
   "key": "c704a64146e782493531473cfdf4b477633f7937"
  },
  {
@@ -5841,7 +6132,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Sàn giao dịch tiền điện tử lớn nhất ở Brazil xác nhận cuộc tấn công mạng khi hàng triệu người rời khỏi nền tảng",
   "key": "edb1c8b9239b7a755f2ae507748ab6e27a8c480e"
  },
  {
@@ -9436,7 +9727,7 @@
    "cvss": null,
    "ref": "https://source.android.com/docs/security/bulletin/aaos/2026/2026-11-01"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-49903 — `Dịch vụ kết xuất cụm",
   "key": "011eb7cd4ea0844a4deac01afe62d923d7ec6285"
  },
  {
@@ -9454,7 +9745,7 @@
    "cvss": null,
    "ref": "https://source.android.com/docs/security/bulletin/aaos/2026/2026-11-01"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-49906 — Một ứng dụng không có đặc quyền có thể vượt qua `android",
   "key": "6dccb6257073296e69436ae2c65e8392b97ba6b2"
  },
  {
@@ -9472,7 +9763,7 @@
    "cvss": 8.4,
    "ref": "https://source.android.com/docs/security/bulletin/xr/2026/2026-11-01"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-58873 — Trong addDragDropListener của WindowManagerService",
   "key": "adb413b3237d3773d6f59d050600052426c7c734"
  },
  {
@@ -9490,7 +9781,7 @@
    "cvss": null,
    "ref": "https://source.android.com/docs/security/bulletin/aaos/2026/2026-11-01"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-58915 — Người cư trú thực tế trên màn hình dành cho hành khách đa màn hình (MUMD) của Android Automotive OS (AAOS) có thể xem Thông báo cảnh báo nhạy cảm (HUN)",
   "key": "2de83b8152047c68d09ce6f23f049e53fad6d270"
  },
  {
@@ -9509,7 +9800,7 @@
    "cvss": null,
    "ref": "https://source.android.com/docs/security/bulletin/aaos/2026/2026-11-01"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-58924 — Lỗ hổng này nằm ngoài giới hạn được đọc trong phương thức `getStreamList()` của EVS HAL",
   "key": "1a96b6cb1343f7ba9d4b22765099026c98534d80"
  },
  {
@@ -9527,7 +9818,7 @@
    "cvss": null,
    "ref": "https://source.android.com/docs/security/bulletin/aaos/2026/2026-11-01"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-58925 — Báo cáo mô tả chi tiết về lỗ hổng Use-After-Free (UAF) trong `android",
   "key": "ed010d2d9539ea3061e0a63c57f595c0a9c8a36e"
  },
  {
@@ -9546,7 +9837,7 @@
    "cvss": null,
    "ref": "https://source.android.com/docs/security/bulletin/aaos/2026/2026-11-01"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-58926 — Lỗ hổng Use-After-Free (UAF) tồn tại trong EVS HAL, cho phép khách hàng có đặc quyền giải phóng `buffer_handle_t` trong khi chuỗi sản xuất vẫn hoạt động",
   "key": "73de8c015f00cc787fdbe3810c67cdca1b876968"
  },
  {
@@ -9564,7 +9855,7 @@
    "cvss": null,
    "ref": "https://source.android.com/docs/security/bulletin/aaos/2026/2026-11-01"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-58927 — Lỗ hổng bảo mật là Use-After-Free (UAF) trong EVS AIDL HAL, phát sinh từ cuộc chạy đua dữ liệu trên `std::weak_ptr` không đồng bộ trong `EvsEnumerator::",
   "key": "cc6c30baf96609c39340b72f7f410a5f152d248a"
  },
  {
@@ -9582,7 +9873,7 @@
    "cvss": null,
    "ref": "https://source.android.com/docs/security/bulletin/aaos/2026/2026-11-01"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-58930 — Một ứng dụng không có đặc quyền có thể khai thác việc thiếu xác thực gói/chữ ký trong `RemoteQCController` của SystemUI khi giải quyết một `nội dung được mã hóa cứng:",
   "key": "829868918617af9c993182550829d26967d036b7"
  },
  {
@@ -9600,7 +9891,7 @@
    "cvss": null,
    "ref": "https://source.android.com/docs/security/bulletin/wear/2026/2026-11-01"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-58977 — Trong is_valid_header của timed_cache_item",
   "key": "e1bc4fd7d57c0e15cc61a2c7ee8fd0e6c012bb2d"
  },
  {
@@ -9618,7 +9909,7 @@
    "cvss": null,
    "ref": "https://github.com/eclipse-threadx/netxduo/security/advisories/GHSA-3p2g-x7hh-3w4c"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-115215 — Trong Eclipse ThreadX NetX Duo phiên bản 6",
   "key": "4e3ed14b045770bd63d473f7d1123ec28d5ff861"
  },
  {
@@ -9636,7 +9927,7 @@
    "cvss": null,
    "ref": "https://github.com/eclipse-threadx/netxduo/security/advisories/GHSA-9w9h-x3fh-m3fp"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-115403 — Trong Eclipse ThreadX NetX Duo phiên bản 6",
   "key": "fc7433366a4f30d22ecbc8f4f9386a689e56f7c7"
  },
  {
@@ -9655,7 +9946,7 @@
    "cvss": 6.1,
    "ref": "https://aws.amazon.com/security/security-bulletins/2026-164-aws/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-116635 — Giới hạn không chính xác tên đường dẫn đến thư mục bị hạn chế trong thành phần trạng thái triển khai của Máy chủ MCP AWS Serverless (aws-serverless-mcp-se",
   "key": "d8b1f1602fdcf5e8c3bfcff47ba63e1fbb4be94d"
  },
  {
@@ -9674,7 +9965,7 @@
    "cvss": null,
    "ref": "https://github.com/temporalio/temporal-auto-scaled-workers/pull/165"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-120091 — Máy chủ tạm thời biên dịch mô-đun Phiên bản bộ điều khiển công nhân, hãy bắt đầu",
   "key": "f2bd5e4bea75f092692e6d35ef5a57f328035513"
  },
  {
@@ -9692,7 +9983,7 @@
    "cvss": 2.0,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-120740"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-120740 — Một lỗ hổng được tìm thấy trong Hivex",
   "key": "2f0cfc9c40d6a7d881f0539f6ba773487016f1fb"
  },
  {
@@ -9710,7 +10001,7 @@
    "cvss": 9.8,
    "ref": "https://plugins.trac.wordpress.org/browser/s2member/tags/260829/src/includes/classes/paypal-notify-in-subscr-or-wa-w-level.inc.php#L514"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-86596 — Plugin s2Member dành cho WordPress dễ bị tấn công bởi Thực thi mã từ xa ở tất cả các phiên bản lên đến và bao gồm <= 260927 thông qua tham số 'item_name'",
   "key": "c0008da73d7ec1482d134b7d67be57fe88bcebe0"
  },
  {
@@ -9728,7 +10019,7 @@
    "cvss": null,
    "ref": ""
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-111565 — Lý do bị từ chối: ID CVE này đã bị Cơ quan đánh số CVE từ chối hoặc thu hồi",
   "key": "a3640fa39487249190a157afec9ab0e93596a981"
  },
  {
@@ -9746,7 +10037,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/bevennyamande/welcart-poc"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-120597 — Một lỗ hổng được xác định trong Plugin thương mại điện tử Welcart lên tới 2",
   "key": "a30c93c25f817d5893b217bd4171d879a89da64d"
  },
  {
@@ -9782,7 +10073,7 @@
    "cvss": null,
    "ref": "https://www.johnsoncontrols.com/trust-center/cybersecurity/security-advisories"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-71450 — Bỏ qua xác thực bằng cách sử dụng lỗ hổng đường dẫn hoặc kênh thay thế trong Johnson Controls EasyIO Neo EC và CW Edge Controller cho phép Xác thực",
   "key": "2b3b4b2a86d08dcd9f12a8477ff257eb304a25c0"
  },
  {
@@ -9802,7 +10093,7 @@
    "cvss": 7.4,
    "ref": "https://access.redhat.com/security/cve/CVE-2026-120830"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-120830 — Đã tìm thấy lỗ hổng trong libslirp trong icmp_forward_error()",
   "key": "7b2c186abe5e25d2d9bb85d260032fa65b5c2f0c"
  },
  {
@@ -9838,7 +10129,7 @@
    "cvss": 7.8,
    "ref": "https://github.com/usnistgov/labbench"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-120833 — labbench trước 0",
   "key": "51e3d47ff820329be16adac189f618db40e9cb5a"
  },
  {
@@ -73569,366 +73860,5 @@
   },
   "title_vi": "",
   "key": "3dfccbb6f872637ec7302b63ea0d240a39961c6b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84295 — Improper authentication in Progress Software WS_FTP Server versions prior to 2024",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84295",
-  "published": "2026-10-29T16:19:29.860",
-  "summary": "Improper authentication in Progress Software WS_FTP Server versions prior to 2024.0.6 and 2025.0.3 on Windows could allow an unauthenticated remote attacker to access sensitive information, including administrative credentials.",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84295",
-   "cvss": 10.0,
-   "ref": "https://progress.lightning.force.com/lightning/r/Knowledge__kav/ka7Pb000001vl86IAA/view"
-  },
-  "title_vi": "",
-  "key": "b5f21e58640cf1a72c2a4540cb2905266c0c7aed"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84296 — Multi-Factor Authentication Bypass vulnerability in SSH component in Progress Software WS_FTP Server versions prior to 2024",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84296",
-  "published": "2026-10-29T16:19:29.980",
-  "summary": "Multi-Factor Authentication Bypass vulnerability in SSH component in Progress Software WS_FTP Server versions prior to 2024.0.6, and 2025.0.3 on Windows allows authenticated users to bypass MFA requirements through improper association of authentication factors between accounts.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84296",
-   "cvss": 6.8,
-   "ref": "https://progress.lightning.force.com/lightning/r/Knowledge__kav/ka7Pb000001vl86IAA/view"
-  },
-  "title_vi": "",
-  "key": "edb1108270485f09080f62b1f790a3e73c872b42"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-85330 — Incorrect authorization in Microsoft Edge for Android allows an unauthorized attacker to bypass a security feature over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85330",
-  "published": "2026-10-29T16:19:31.123",
-  "summary": "Incorrect authorization in Microsoft Edge for Android allows an unauthorized attacker to bypass a security feature over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-85330",
-   "cvss": 4.3,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-85330"
-  },
-  "title_vi": "",
-  "key": "141241a76194d096dc7c205ac3e07256bef30b01"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-85890 — Double free in Microsoft Edge (Chromium-based) allows an unauthorized attacker to execute code over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85890",
-  "published": "2026-10-29T16:19:45.017",
-  "summary": "Double free in Microsoft Edge (Chromium-based) allows an unauthorized attacker to execute code over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-85890",
-   "cvss": 8.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-85890"
-  },
-  "title_vi": "",
-  "key": "d717337e1f65c2c9501e8e514dda75b6959a9053"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-85897 — Heap-based buffer overflow in Microsoft Edge (Chromium-based) allows an unauthorized attacker to execute code over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85897",
-  "published": "2026-10-29T16:19:45.220",
-  "summary": "Heap-based buffer overflow in Microsoft Edge (Chromium-based) allows an unauthorized attacker to execute code over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-85897",
-   "cvss": 8.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-85897"
-  },
-  "title_vi": "",
-  "key": "65df9950e5ce32a73c32a8a6a9f862746c8eb057"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-85899 — Use after free in Microsoft Edge (Chromium-based) allows an authorized attacker to elevate privileges over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85899",
-  "published": "2026-10-29T16:19:45.410",
-  "summary": "Use after free in Microsoft Edge (Chromium-based) allows an authorized attacker to elevate privileges over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-85899",
-   "cvss": 8.1,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-85899"
-  },
-  "title_vi": "",
-  "key": "7582634ff4a241fd120f3b4f516752dd89475f50"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-88077 — Integer overflow or wraparound in Microsoft Edge (Chromium-based) allows an unauthorized attacker to elevate privileges over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88077",
-  "published": "2026-10-29T16:19:52.807",
-  "summary": "Integer overflow or wraparound in Microsoft Edge (Chromium-based) allows an unauthorized attacker to elevate privileges over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-88077",
-   "cvss": 8.8,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-88077"
-  },
-  "title_vi": "",
-  "key": "75a22fd23a6534230d509d43c4293f85567dc881"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-88078 — Improper verification of cryptographic signature in Microsoft Edge (Chromium-based) allows an unauthorized attacker to perform spoofing over a network",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88078",
-  "published": "2026-10-29T16:19:53.440",
-  "summary": "Improper verification of cryptographic signature in Microsoft Edge (Chromium-based) allows an unauthorized attacker to perform spoofing over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-88078",
-   "cvss": 4.3,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-88078"
-  },
-  "title_vi": "",
-  "key": "25113aec4c9a2bc08ea32cb8931827e758fda364"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-88090 — Access of resource using incompatible type ('type confusion') in Microsoft Edge (Chromium-based) allows an unauthorized attacker to elevate privileges",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88090",
-  "published": "2026-10-29T16:19:54.280",
-  "summary": "Access of resource using incompatible type ('type confusion') in Microsoft Edge (Chromium-based) allows an unauthorized attacker to elevate privileges over a network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-88090",
-   "cvss": 5.4,
-   "ref": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-88090"
-  },
-  "title_vi": "",
-  "key": "d071ea6c056668684dc7d380523a89e6018a7114"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90861 — Progress Software WS_FTP Server versions prior to 2024",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90861",
-  "published": "2026-10-29T16:20:04.097",
-  "summary": "Progress Software WS_FTP Server versions prior to 2024.0.7 and 2025.0.4 on Windows may expose a user's password in clear text to another administrator, who could use it to gain broader administrative access to the server.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90861",
-   "cvss": 6.6,
-   "ref": "https://progress.lightning.force.com/lightning/r/Knowledge__kav/ka7Pb000001vl86IAA/view"
-  },
-  "title_vi": "",
-  "key": "986bebb3246addf3d12eff2adb652d1deb97573b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90862 — Improper authentication in the Web Transfer Module of Progress Software WS_FTP Server versions prior to 2024",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90862",
-  "published": "2026-10-29T16:20:04.220",
-  "summary": "Improper authentication in the Web Transfer Module of Progress Software WS_FTP Server versions prior to 2024.0.7 and 2025.0.4 on Windows could allow an attacker with a user’s password to access certain files associated with that account without satisfying multi-factor authentication requirements.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90862",
-   "cvss": 4.3,
-   "ref": "https://progress.lightning.force.com/lightning/r/Knowledge__kav/ka7Pb000001vl86IAA/view"
-  },
-  "title_vi": "",
-  "key": "aeed0f5c877cfd3f56becb82c65b66b68c1e26b7"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90863 — Missing authorization in the administrative interface of Progress Software WS_FTP Server versions prior to 2024",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90863",
-  "published": "2026-10-29T16:20:04.337",
-  "summary": "Missing authorization in the administrative interface of Progress Software WS_FTP Server versions prior to 2024.0.7 and 2025.0.4 on Windows could allow a delegated Host Administrator to exceed their authorized scope, potentially enabling arbitrary command execution with elevated privileges and complete compromise of the underlying server.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90863",
-   "cvss": 9.1,
-   "ref": "https://progress.lightning.force.com/lightning/r/Knowledge__kav/ka7Pb000001vl86IAA/view"
-  },
-  "title_vi": "",
-  "key": "8b8ef8e4ac1985c250980e11d1baa8bd2cfba5f4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90864 — A path traversal vulnerability in Progress Software WS_FTP Server versions prior to 2024",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90864",
-  "published": "2026-10-29T16:20:04.453",
-  "summary": "A path traversal vulnerability in Progress Software WS_FTP Server versions prior to 2024.0.7 and 2025.0.4 on Windows could allow a delegated Host Administrator to access or modify files outside their authorized scope.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90864",
-   "cvss": 9.1,
-   "ref": "https://progress.lightning.force.com/lightning/r/Knowledge__kav/ka7Pb000001vl86IAA/view"
-  },
-  "title_vi": "",
-  "key": "6814e8a820f32e2b7395143fc490127c2d046ca8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90865 — An OS command injection vulnerability in Progress Software WS_FTP Server versions prior to 2024",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90865",
-  "published": "2026-10-29T16:20:04.570",
-  "summary": "An OS command injection vulnerability in Progress Software WS_FTP Server versions prior to 2024.0.7 and 2025.0.4 on Windows could allow arbitrary command execution with elevated privileges under certain configurations.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90865",
-   "cvss": 9.0,
-   "ref": "https://progress.lightning.force.com/lightning/r/Knowledge__kav/ka7Pb000001vl86IAA/view"
-  },
-  "title_vi": "",
-  "key": "3f7dfff2d295386f2712ea487a26f84d14261070"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90866 — A path traversal vulnerability in Progress Software WS_FTP Server versions prior to 2024",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90866",
-  "published": "2026-10-29T16:20:04.690",
-  "summary": "A path traversal vulnerability in Progress Software WS_FTP Server versions prior to 2024.0.7 and 2025.0.4 on Windows could allow a delegated Host Administrator to access locations outside their authorized scope, potentially enabling remote code execution.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90866",
-   "cvss": 9.1,
-   "ref": "https://progress.lightning.force.com/lightning/r/Knowledge__kav/ka7Pb000001vl86IAA/view"
-  },
-  "title_vi": "",
-  "key": "f6387af056cfde73edf669ebce1c2b716082a7e6"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90867 — Improper access control in the Web Admin console of Progress Software WS_FTP Server versions prior to 2024",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90867",
-  "published": "2026-10-29T16:20:04.827",
-  "summary": "Improper access control in the Web Admin console of Progress Software WS_FTP Server versions prior to 2024.0.7 and 2025.0.4 on Windows could expose administrative functionality to remote authentication attempts.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90867",
-   "cvss": 8.1,
-   "ref": "https://progress.lightning.force.com/lightning/r/Knowledge__kav/ka7Pb000001vl86IAA/view"
-  },
-  "title_vi": "",
-  "key": "baed0408665f43c85a5718959ff06140d17bdb87"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90868 — An OS command injection vulnerability in Progress Software WS_FTP Server versions prior to 2024",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90868",
-  "published": "2026-10-29T16:20:04.963",
-  "summary": "An OS command injection vulnerability in Progress Software WS_FTP Server versions prior to 2024.0.7 and 2025.0.4 on Windows could allow arbitrary command execution under certain configurations.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90868",
-   "cvss": 9.9,
-   "ref": "https://progress.lightning.force.com/lightning/r/Knowledge__kav/ka7Pb000001vl86IAA/view"
-  },
-  "title_vi": "",
-  "key": "c66edcbf2fe4dfa17dbda107a26a1d123e64669d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90869 — A remote attacker who knows a valid account's enrolled SSH public key can terminate the shared SSH service in Progress Software WS_FTP Server versions",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90869",
-  "published": "2026-10-29T16:20:05.080",
-  "summary": "A remote attacker who knows a valid account's enrolled SSH public key can terminate the shared SSH service in Progress Software WS_FTP Server versions prior to 2024.0.7 and 2025.0.4 on Windows.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90869",
-   "cvss": 7.5,
-   "ref": "https://progress.lightning.force.com/lightning/r/Knowledge__kav/ka7Pb000001vl86IAA/view"
-  },
-  "title_vi": "",
-  "key": "b3be50443f25abdb5395525ded3391d449c27235"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90870 — A missing release of backend receiver sessions in the Ad Hoc Transfer component of Progress Software WS_FTP Server versions prior to 2024",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90870",
-  "published": "2026-10-29T16:20:05.190",
-  "summary": "A missing release of backend receiver sessions in the Ad Hoc Transfer component of Progress Software WS_FTP Server versions prior to 2024.0.7 and 2025.0.4 on Windows could lead to server resource exhaustion and service degradation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90870",
-   "cvss": 5.3,
-   "ref": "https://progress.lightning.force.com/lightning/r/Knowledge__kav/ka7Pb000001vl86IAA/view"
-  },
-  "title_vi": "",
-  "key": "a5d07d4aeba8ce1a7e7ace4ecdc4e8bd347fdf2c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90871 — Improper limitation of a pathname to a restricted directory in Progress Software WS_FTP Server versions prior to 2024",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90871",
-  "published": "2026-10-29T16:20:05.307",
-  "summary": "Improper limitation of a pathname to a restricted directory in Progress Software WS_FTP Server versions prior to 2024.0.7 and 2025.0.4 on Windows could allow an unauthenticated attacker to affect files outside the intended directory.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90871",
-   "cvss": 5.3,
-   "ref": "https://progress.lightning.force.com/lightning/r/Knowledge__kav/ka7Pb000001vl86IAA/view"
-  },
-  "title_vi": "",
-  "key": "92582489f883505c49e9477344827c6fc49410e4"
  }
 ]
