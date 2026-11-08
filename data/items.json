@@ -1,6 +1,1930 @@
 [
  {
   "source": "VietnamPlus Kinh tế số",
+  "title": "Va chạm tàu hỏa tại Ai Cập khiến hơn 100 người thương vong",
+  "link": "https://www.vietnamplus.vn/va-cham-tau-hoa-tai-ai-cap-khien-hon-100-nguoi-thuong-vong-post1147001.vnp",
+  "published": "2026-11-08T15:07:19+00:00",
+  "summary": "Ít nhất 4 người thiệt mạng và 88 người bị thương khi 2 đoàn tàu va chạm ở khu vực phía Nam thủ đô Cairo ngày 8/11, khiến một số toa tàu trật khỏi đường ray. Anh: Hai tàu hỏa va chạm gần Bedford, 90 người thương vong Tai nạn tàu hỏa và xe buýt tại Thái Lan khiến 8 người thiệt mạng Tai nạn kinh hoàng giữa tàu hỏa và xe buýt ở trung tâm Bangkok",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "602ac8e6109a548a18a3d26ed0427fe17a35dd3e"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2017-6627 — Cisco IOS Software and Cisco IOS XE Software UDP Packet Processing Denial-of-Service Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-6627",
+  "published": "2022-03-03",
+  "summary": "A vulnerability in the UDP processing code of Cisco IOS and IOS XE could allow an unauthenticated, remote attacker to cause the input queue of an affected system to hold UDP packets, causing an interface queue wedge and denial of service.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2017-6627",
+   "vendor": "Cisco",
+   "product": "IOS and IOS XE Software",
+   "due_date": "2022-03-24",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2017-6627 — Phần mềm Cisco IOS và Phần mềm Cisco IOS XE Xử lý gói UDP Lỗ hổng từ chối dịch vụ",
+  "key": "90c8bdde1375a57572b59926e1049685bcae5b5a"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2017-12319 — Cisco IOS XE Software Ethernet Virtual Private Network Border Gateway Protocol Denial-of-Service Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-12319",
+  "published": "2022-03-03",
+  "summary": "A vulnerability in the Border Gateway Protocol (BGP) over an Ethernet Virtual Private Network (EVPN) for Cisco IOS XE Software could allow an unauthenticated, remote attacker to cause the device to reload, resulting in a denial of service (DoS) condition, or potentially corrupt the BGP routing table, which could result in network instability.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2017-12319",
+   "vendor": "Cisco",
+   "product": "IOS XE Software",
+   "due_date": "2022-03-24",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "d678c340665bd8a94dcdb143212700e6451cc13d"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2017-12240 — Cisco IOS and IOS XE Software DHCP Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-12240",
+  "published": "2022-03-03",
+  "summary": "The Dynamic Host Configuration Protocol (DHCP) relay subsystem of Cisco IOS and Cisco IOS XE Software contains a vulnerability that could allow an unauthenticated, remote attacker to execute arbitrary code and gain full control of an affected system.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2017-12240",
+   "vendor": "Cisco",
+   "product": "IOS and IOS XE Software",
+   "due_date": "2022-03-24",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "5b2497bd1f72596cab8b40093f6c5ccb950d7f87"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2017-12238 — Cisco Catalyst 6800 Series Switches VPLS Denial-of-Service Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-12238",
+  "published": "2022-03-03",
+  "summary": "A vulnerability in the Virtual Private LAN Service (VPLS) code of Cisco IOS for Cisco Catalyst 6800 Series Switches could allow an unauthenticated, adjacent attacker to cause a denial of service.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2017-12238",
+   "vendor": "Cisco",
+   "product": "Catalyst 6800 Series Switches",
+   "due_date": "2022-03-24",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "95ad08e63a05f6123792a01ebb1a444a7e67a8cf"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2017-12237 — Cisco IOS and IOS XE Software Internet Key Exchange Denial-of-Service Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-12237",
+  "published": "2022-03-03",
+  "summary": "A vulnerability in the Internet Key Exchange Version 2 (IKEv2) module of Cisco IOS and Cisco IOS XE could allow an unauthenticated, remote attacker to cause high CPU utilization, traceback messages, or a reload of an affected device that leads to a denial of service.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2017-12237",
+   "vendor": "Cisco",
+   "product": "IOS and IOS XE Software",
+   "due_date": "2022-03-24",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "27d3563abb857c153aece7110785a87522391fbe"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2017-12235 — Cisco IOS Software for Cisco Industrial Ethernet Switches PROFINET Denial-of-Service Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-12235",
+  "published": "2022-03-03",
+  "summary": "A vulnerability in the implementation of the PROFINET Discovery and Configuration Protocol (PN-DCP) for Cisco IOS could allow an unauthenticated, remote attacker to cause an affected device to reload, resulting in a denial of service.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2017-12235",
+   "vendor": "Cisco",
+   "product": "IOS software",
+   "due_date": "2022-03-24",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "c2c08c8e150f37bdb1bf195e12449cee7f58e05c"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2017-12234 — Cisco IOS Software Common Industrial Protocol Request Denial-of-Service Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-12234",
+  "published": "2022-03-03",
+  "summary": "There is a vulnerability in the implementation of the Common Industrial Protocol (CIP) feature in Cisco IOS could allow an unauthenticated, remote attacker to cause an affected device to reload, resulting in a denial of service.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2017-12234",
+   "vendor": "Cisco",
+   "product": "IOS software",
+   "due_date": "2022-03-24",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "7ae42ecf8377274cb7d0340f02564140888f2e66"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2017-12233 — Cisco IOS Software Common Industrial Protocol Request Denial-of-Service Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-12233",
+  "published": "2022-03-03",
+  "summary": "There is a vulnerability in the implementation of the Common Industrial Protocol (CIP) feature in Cisco IOS could allow an unauthenticated, remote attacker to cause an affected device to reload, resulting in a denial of service.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2017-12233",
+   "vendor": "Cisco",
+   "product": "IOS software",
+   "due_date": "2022-03-24",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "5e694ff125689cdf2337fc2cbced770beee7adae"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2017-12232 — Cisco IOS Software for Cisco Integrated Services Routers Denial-of-Service Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-12232",
+  "published": "2022-03-03",
+  "summary": "A vulnerability in the implementation of a protocol in Cisco Integrated Services Routers Generation 2 (ISR G2) Routers running Cisco IOS could allow an unauthenticated, adjacent attacker to cause an affected device to reload, resulting in a denial of service.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2017-12232",
+   "vendor": "Cisco",
+   "product": "IOS software",
+   "due_date": "2022-03-24",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "a350a912515865dc8234a34548ac7d4fd7c1f4e1"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2017-12231 — Cisco IOS Software Network Address Translation Denial-of-Service Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-12231",
+  "published": "2022-03-03",
+  "summary": "A vulnerability in the implementation of Network Address Translation (NAT) functionality in Cisco IOS could allow an unauthenticated, remote attacker to cause a denial of service.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2017-12231",
+   "vendor": "Cisco",
+   "product": "IOS software",
+   "due_date": "2022-03-24",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "3b706370170c6506c7c150470b5b5a943d88f0d5"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2017-11826 — Microsoft Office Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-11826",
+  "published": "2022-03-03",
+  "summary": "A remote code execution vulnerability exists in Microsoft Office software when the software fails to properly handle objects in memory. An attacker who successfully exploited the vulnerability could run arbitrary code in the context of the current user.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2017-11826",
+   "vendor": "Microsoft",
+   "product": "Office",
+   "due_date": "2022-03-24",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "90b97581363e16f443195b36e6bb6392176571d5"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2017-11292 — Adobe Flash Player Type Confusion Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-11292",
+  "published": "2022-03-03",
+  "summary": "Adobe Flash Player contains a type confusion vulnerability which can allow for remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2017-11292",
+   "vendor": "Adobe",
+   "product": "Flash Player",
+   "due_date": "2022-03-24",
+   "required_action": "The impacted product is end-of-life and should be disconnected if still in use."
+  },
+  "title_vi": "",
+  "key": "0ee101040526af4559d59307ff7b9349bad92bac"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2017-0261 — Microsoft Office Use-After-Free Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-0261",
+  "published": "2022-03-03",
+  "summary": "Microsoft Office contains a use-after-free vulnerability which can allow for remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2017-0261",
+   "vendor": "Microsoft",
+   "product": "Office",
+   "due_date": "2022-03-24",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "b57eaaebfa5eb543d8dca418bddc1b9c95a1f6bc"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2017-0001 — Microsoft Graphics Device Interface (GDI) Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-0001",
+  "published": "2022-03-03",
+  "summary": "The Graphics Device Interface (GDI) in Microsoft Windows Vista SP2; Windows Server 2008 SP2 and R2 SP1; Windows 7 SP1; Windows 8.1; Windows Server 2012 Gold and R2; Windows RT 8.1; and Windows 10 Gold, 1511, and 1607 allows local users to gain privileges",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2017-0001",
+   "vendor": "Microsoft",
+   "product": "Graphics Device Interface (GDI)",
+   "due_date": "2022-03-24",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "a17918c41e263cc84e19edc746c7d8897c00c68b"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2016-8562 — Siemens SIMATIC CP 1543-1 Improper Privilege Management Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2016-8562",
+  "published": "2022-03-03",
+  "summary": "An improper privilege management vulnerability exists within the Siemens SIMATIC Communication Processor (CP) that allows a privileged attacker to remotely cause a denial of service.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2016-8562",
+   "vendor": "Siemens",
+   "product": "SIMATIC CP",
+   "due_date": "2022-03-24",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "f035e23df1493ee265e6aa900860c5eaf4aef95c"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2016-7855 — Adobe Flash Player Use-After-Free Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2016-7855",
+  "published": "2022-03-03",
+  "summary": "Use-after-free vulnerability in Adobe Flash Player Windows and OS and Linux allows remote attackers to execute arbitrary code.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2016-7855",
+   "vendor": "Adobe",
+   "product": "Flash Player",
+   "due_date": "2022-03-24",
+   "required_action": "The impacted product is end-of-life and should be disconnected if still in use."
+  },
+  "title_vi": "",
+  "key": "a47f9426fe57414e34483447005673d35be49cd7"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2016-7262 — Microsoft Office Security Feature Bypass Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2016-7262",
+  "published": "2022-03-03",
+  "summary": "A security feature bypass vulnerability exists when Microsoft Office improperly handles input. An attacker who successfully exploited the vulnerability could execute arbitrary commands.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2016-7262",
+   "vendor": "Microsoft",
+   "product": "Excel",
+   "due_date": "2022-03-24",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "8632d6d0db9c985a0a9857212a19020fcfd79d02"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-124553 — BabelDOC from 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-124553",
+  "published": "2026-11-08T15:16:51.460",
+  "summary": "BabelDOC from 0.3.61 before 0.7.0 contains a resource exhaustion vulnerability that allows remote attackers to exhaust CPU and memory by supplying unbounded bfrange and cidrange spans. Attackers can submit a crafted PDF whose embedded ToUnicode CMap declares a huge range, driving billions of loop iterations and stalling the translation worker.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-124553",
+   "cvss": 7.5,
+   "ref": "https://github.com/funstory-ai/BabelDOC/blob/main/docs/release-notes/v0.7.0.md"
+  },
+  "title_vi": "CVE-2026-124553 — BabelDOC từ 0",
+  "key": "28b412733e64c17bc2158b95733673d42a65a1dd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2024-41786 — IBM Engineering Requirements Management DOORS Next 7",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-41786",
+  "published": "2026-11-08T16:16:35.413",
+  "summary": "IBM Engineering Requirements Management DOORS Next 7.1, and 7.2 could allow a remote attacker to force the Web server to return contents of a sensitive requested file due to improper input validation.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2024-41786",
+   "cvss": 5.3,
+   "ref": "https://www.ibm.com/support/pages/node/7294385"
+  },
+  "title_vi": "CVE-2024-41786 — CỬA Quản lý Yêu cầu Kỹ thuật của IBM Next 7",
+  "key": "5472196b1f44f72639205c040ac370e3763a1fdd"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2025-0166 — IBM watsonx Orchestrate Cartridge for Cloud Pak for Data 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-0166",
+  "published": "2026-11-08T16:16:35.597",
+  "summary": "IBM watsonx Orchestrate Cartridge for Cloud Pak for Data 4.8.4 through 4.8.5, and 5.0.0 through 5.4.2 could disclose sensitive source code information that should not be accessible.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2025-0166",
+   "cvss": 2.7,
+   "ref": "https://www.ibm.com/support/pages/node/7293785"
+  },
+  "title_vi": "CVE-2025-0166 — IBM watsonx Orchestrate Cartridge cho Cloud Pak cho Dữ liệu 4",
+  "key": "40d743d67b7ba3baf8c48b531b19a280fe30ef54"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2025-1837 — IBM watsonx Orchestrate Cartridge for Cloud Pak for Data 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-1837",
+  "published": "2026-11-08T16:16:35.760",
+  "summary": "IBM watsonx Orchestrate Cartridge for Cloud Pak for Data 4.8.4 through 4.8.5, and 5.0.0 through 5.4.2 could allow an authenticated user to perform unauthorized actions due to improper trust of server-side permission methods.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2025-1837",
+   "cvss": 5.4,
+   "ref": "https://www.ibm.com/support/pages/node/7293785"
+  },
+  "title_vi": "CVE-2025-1837 — IBM watsonx Orchestrate Cartridge cho Cloud Pak cho Dữ liệu 4",
+  "key": "ba9ebaa4e164413a367858cc6b53d3243ff9d9bb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2025-36075 — IBM Safer Payments 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-36075",
+  "published": "2026-11-08T16:16:35.930",
+  "summary": "IBM Safer Payments 6.4.0.00 through 6.4.2.11, 6.5.0.00 through 6.5.0.09, 6.6.0.00 through 6.6.0.07, 6.7.0.00 through 6.7.0.03, and 6.8.0.00 could allow an authenticated user to obtain sensitive information, caused by improper user input validation. By using a set of API requests the user could exploit this vulnerability to decrypt sensitive information.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2025-36075",
+   "cvss": 5.3,
+   "ref": "https://www.ibm.com/support/pages/node/7293213"
+  },
+  "title_vi": "CVE-2025-36075 - Thanh toán an toàn hơn của IBM 6",
+  "key": "053beafe0ccf94b5bc85f336fbd49380e1cdc9c8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-101117 — IBM WebSphere Extreme Scale 8",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-101117",
+  "published": "2026-11-08T16:16:36.103",
+  "summary": "IBM WebSphere Extreme Scale 8.6.1.0 through 8.6.2.2 could allow a remote attacker to bypass security restrictions due to improper Content Security Policy configuration.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-101117",
+   "cvss": 9.1,
+   "ref": "https://www.ibm.com/support/pages/node/7293764"
+  },
+  "title_vi": "",
+  "key": "a18022829b9c4dde9f3dcaea9213d99bc6b50c38"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-102618 — IBM i 7",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-102618",
+  "published": "2026-11-08T16:16:36.283",
+  "summary": "IBM i 7.6, 7.5, 7.4, and 7.3 could allow an authenticated user to indirectly disable system auditing, which they otherwise don't have authority to disable.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-102618",
+   "cvss": 3.6,
+   "ref": "https://www.ibm.com/support/pages/node/7295136"
+  },
+  "title_vi": "",
+  "key": "be5b14dba49b8543e53750810864d60718038d32"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-103320 — IBM WebSphere Application Server Liberty 17",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-103320",
+  "published": "2026-11-08T16:16:36.443",
+  "summary": "IBM WebSphere Application Server Liberty 17.0.0.3 through 26.0.0.10 could allow an authenticated user with the Reader role to obtain sensitive information.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-103320",
+   "cvss": 4.3,
+   "ref": "https://www.ibm.com/support/pages/node/7295268"
+  },
+  "title_vi": "CVE-2026-103320 — Máy chủ ứng dụng IBM WebSphere Liberty 17",
+  "key": "805978568b72f126fdd5552ecc36523bd55c463d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-109899 — Missing Authorization vulnerability in Melapress Melapress Role Editor melapress-role-editor allows Exploiting Incorrectly Configured Access Control S",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-109899",
+  "published": "2026-11-08T16:16:36.603",
+  "summary": "Missing Authorization vulnerability in Melapress Melapress Role Editor melapress-role-editor allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Melapress Role Editor: from n/a through 1.3.0.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-109899",
+   "cvss": 7.1,
+   "ref": "https://patchstack.com/database/wordpress/plugin/melapress-role-editor/vulnerability/wordpress-melapress-role-editor-plugin-1-3-0-broken-access-control-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-109899 — Thiếu lỗ hổng Ủy quyền trong Melapress Melapress Role Editor melapress-role-editor cho phép Khai thác kiểm soát truy cập cấu hình không chính xác S",
+  "key": "01f90dd6498def1053021891c3f8cbe5a1803295"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-109900 — Incorrect Privilege Assignment vulnerability in Melapress Melapress Role Editor melapress-role-editor allows Privilege Escalation",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-109900",
+  "published": "2026-11-08T16:16:36.773",
+  "summary": "Incorrect Privilege Assignment vulnerability in Melapress Melapress Role Editor melapress-role-editor allows Privilege Escalation.This issue affects Melapress Role Editor: from n/a through 1.3.0.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-109900",
+   "cvss": 9.6,
+   "ref": "https://patchstack.com/database/wordpress/plugin/melapress-role-editor/vulnerability/wordpress-melapress-role-editor-plugin-1-3-0-privilege-escalation-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-109900 - Lỗ hổng chuyển nhượng đặc quyền không chính xác trong Melapress Melapress Role Editor melapress-role-editor cho phép nâng cấp đặc quyền",
+  "key": "873bd0c85c9105710e49bdbd81e108f94d50f235"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-114186 — Missing Authorization vulnerability in WPVibes AnyWhere Elementor anywhere-elementor allows Exploiting Incorrectly Configured Access Control Security ",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-114186",
+  "published": "2026-11-08T16:16:36.930",
+  "summary": "Missing Authorization vulnerability in WPVibes AnyWhere Elementor anywhere-elementor allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects AnyWhere Elementor: from n/a through 1.3.0.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-114186",
+   "cvss": 6.5,
+   "ref": "https://patchstack.com/database/wordpress/plugin/anywhere-elementor/vulnerability/wordpress-anywhere-elementor-plugin-1-3-0-broken-access-control-vulnerability-2?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-114186 - Thiếu lỗ hổng ủy quyền trong WPVibes AnyWhere Elementor anywhere-elementor cho phép khai thác bảo mật kiểm soát truy cập được cấu hình không chính xác",
+  "key": "01c3a7e46c60790d8ebba63730ffbfe1c9382af2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-114188 — Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in WPVibes AnyWhere Elementor anywhere-elementor al",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-114188",
+  "published": "2026-11-08T16:16:37.090",
+  "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in WPVibes AnyWhere Elementor anywhere-elementor allows Stored XSS.This issue affects AnyWhere Elementor: from n/a through 1.3.0.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-114188",
+   "cvss": 6.5,
+   "ref": "https://patchstack.com/database/wordpress/plugin/anywhere-elementor/vulnerability/wordpress-anywhere-elementor-plugin-1-3-0-cross-site-scripting-xss-vulnerability-2?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-114188 — Trung hòa đầu vào không đúng cách trong quá trình tạo trang web ('Cross-site Scripting') dễ bị tổn thương trong WPVibes AnyWhere Elementor anywhere-elementor al",
+  "key": "b95cfd1e86c301f16c22c36b51f92cf9e6f20872"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-114189 — Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in WPVibes AnyWhere Elementor anywhere-elementor al",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-114189",
+  "published": "2026-11-08T16:16:37.247",
+  "summary": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in WPVibes AnyWhere Elementor anywhere-elementor allows Blind SQL Injection.This issue affects AnyWhere Elementor: from n/a through 1.3.0.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-114189",
+   "cvss": 8.5,
+   "ref": "https://patchstack.com/database/wordpress/plugin/anywhere-elementor/vulnerability/wordpress-anywhere-elementor-plugin-1-3-0-sql-injection-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-114189 — Trung hòa không đúng các yếu tố đặc biệt được sử dụng trong một lỗ hổng SQL Command ('SQL Injection') trong WPVibes AnyWhere Elementor anywhere-elementor al",
+  "key": "f5a279569e8df3afcdecb9d06ba7271692f8ded5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-120858 — Missing Authorization vulnerability in WP ManageNinja LLC FluentForm fluentform allows Exploiting Incorrectly Configured Access Control Security Level",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-120858",
+  "published": "2026-11-08T16:16:37.400",
+  "summary": "Missing Authorization vulnerability in WP ManageNinja LLC FluentForm fluentform allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects FluentForm: from n/a through 6.2.16.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-120858",
+   "cvss": 6.5,
+   "ref": "https://patchstack.com/database/wordpress/plugin/fluentform/vulnerability/wordpress-fluentform-plugin-6-2-16-broken-access-control-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-120858 - Thiếu lỗ hổng Authorization trong WP ManageNinja LLC FluentForm fluentform cho phép khai thác cấp độ bảo mật kiểm soát truy cập được cấu hình không chính xác",
+  "key": "12679ceb84c2a981c955439eaa5dfd5c2a9018ae"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-61987 — Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in WC Lovers WCFM – Frontend Manager for WooCommerc",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-61987",
+  "published": "2026-11-08T16:16:37.573",
+  "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in WC Lovers WCFM – Frontend Manager for WooCommerce wc-frontend-manager allows Stored XSS.This issue affects WCFM – Frontend Manager for WooCommerce: from n/a through 6.8.1.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-61987",
+   "cvss": 6.5,
+   "ref": "https://patchstack.com/database/wordpress/plugin/wc-frontend-manager/vulnerability/wordpress-wcfm-frontend-manager-for-woocommerce-plugin-6-8-1-cross-site-scripting-xss-vulnerability?_s_id=cve"
+  },
+  "title_vi": "CVE-2026-61987 — Lỗ hổng trung hòa đầu vào không đúng cách trong quá trình tạo trang web ('Cross-site Scripting') trong WC Lovers WCFM – Frontend Manager cho WooCommerc",
+  "key": "918daa45892b9bb1ef51873ae23439de3e517cab"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-105467 — IBM QRadar 7",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-105467",
+  "published": "2026-11-08T17:16:35.120",
+  "summary": "IBM QRadar 7.5.0 through 7.5.0 Update Pack 16 Interim Fix 02, and 7.6.0.0 through 7.6.0.5 is vulnerable to Reflected XSS. A victim must open a specifically crafted URL while authenticated to QRadar to trigger this.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-105467",
+   "cvss": 8.1,
+   "ref": "https://www.ibm.com/support/pages/node/7295450"
+  },
+  "title_vi": "",
+  "key": "cded0aeea7120e41e58b44794a026b9e2c91b1b2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-105473 — IBM QRadar 7",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-105473",
+  "published": "2026-11-08T17:16:35.267",
+  "summary": "IBM QRadar 7.5.0 through 7.5.0 Update Pack 16 Interim Fix 02, and 7.6.0.0 through 7.6.0.5 is vulnerable to Open Redirect. A victim must open a specifically crafted URL while authenticated to QRadar to trigger this.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-105473",
+   "cvss": 4.6,
+   "ref": "https://www.ibm.com/support/pages/node/7295450"
+  },
+  "title_vi": "",
+  "key": "f3c8a67bff4878807cd2efbe5f8e7b690f9836d5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-107330 — IBM DataStage on Cloud Pak for Data 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-107330",
+  "published": "2026-11-08T17:16:35.407",
+  "summary": "IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to obtain sensitive information due to a Server-Side Request Forgery (SSRF) vulnerability.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-107330",
+   "cvss": 7.7,
+   "ref": "https://www.ibm.com/support/pages/node/7294270"
+  },
+  "title_vi": "CVE-2026-107330 — IBM DataStage trên Cloud Pak cho Dữ liệu 5",
+  "key": "1eebdc037d957b66d2fdaf48a0d8c49d3bf0eec5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-107331 — IBM DataStage on Cloud Pak for Data 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-107331",
+  "published": "2026-11-08T17:16:35.550",
+  "summary": "IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to obtain sensitive information due to an absolute-path traversal vulnerability.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-107331",
+   "cvss": 9.9,
+   "ref": "https://www.ibm.com/support/pages/node/7294270"
+  },
+  "title_vi": "CVE-2026-107331 — IBM DataStage trên Cloud Pak cho Dữ liệu 5",
+  "key": "8bd6d3d2759a63422b0cfff8346b61ead199cc8f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-108284 — IBM WebSphere Application Server Liberty 17",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-108284",
+  "published": "2026-11-08T17:16:35.697",
+  "summary": "IBM WebSphere Application Server Liberty 17.0.0.3 through 26.0.0.10 could allow an authenticated user with the Reader role to obtain sensitive information.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-108284",
+   "cvss": 6.5,
+   "ref": "https://www.ibm.com/support/pages/node/7295268"
+  },
+  "title_vi": "CVE-2026-108284 — Máy chủ ứng dụng IBM WebSphere Liberty 17",
+  "key": "8e38416ad6895dc4b8bb5caf8166f1d41f8f4c3a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-108292 — IBM Process Mining 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-108292",
+  "published": "2026-11-08T17:16:35.837",
+  "summary": "IBM Process Mining 2.0.0 through 2.2.1 could allow an authenticated user to upload a file with dangerous types that could be executed by another user if opened.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-108292",
+   "cvss": 5.5,
+   "ref": "https://www.ibm.com/support/pages/node/7294875"
+  },
+  "title_vi": "CVE-2026-108292 — Khai thác quy trình IBM 2",
+  "key": "7fb5a6f0feb54972ee04d103e0e72a53b0f392d1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-10844 — IBM WebSphere Application Server Liberty 17",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-10844",
+  "published": "2026-11-08T17:16:35.990",
+  "summary": "IBM WebSphere Application Server Liberty 17.0.0.3 through 26.0.0.10 could allow a remote attacker to conduct phishing attacks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-10844",
+   "cvss": 4.3,
+   "ref": "https://www.ibm.com/support/pages/node/7295268"
+  },
+  "title_vi": "CVE-2026-10844 — Máy chủ ứng dụng IBM WebSphere Liberty 17",
+  "key": "2a531f732ec619f01cb8f557ad6a87b3d5d3322c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-110273 — IBM TRIRIGA Application Platform 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-110273",
+  "published": "2026-11-08T17:16:36.130",
+  "summary": "IBM TRIRIGA Application Platform 5.0.0 through 5.0.9 IBM TRIRIGA could allow a remote authenticated attacker to execute arbitrary code due to improper neutralization of special elements used in an OS command.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-110273",
+   "cvss": 8.8,
+   "ref": "https://www.ibm.com/support/pages/node/7295737"
+  },
+  "title_vi": "CVE-2026-110273 — Nền tảng ứng dụng IBM TRIRIGA 5",
+  "key": "cdc12bde9a98f39089d52efbdb777bc3ee3fd873"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-112369 — IBM Process Mining 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-112369",
+  "published": "2026-11-08T17:16:36.277",
+  "summary": "IBM Process Mining 2.0.0 through 2.2.1 could allow an authenticated user to perform unauthorized actions due to client-side enforcement of sever side security mechanisms.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-112369",
+   "cvss": 4.3,
+   "ref": "https://www.ibm.com/support/pages/node/7294875"
+  },
+  "title_vi": "CVE-2026-112369 — Khai thác quy trình IBM 2",
+  "key": "0784f02386ad70bc4358f7ed335594b8ca112785"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-113698 — IBM Db2 11",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-113698",
+  "published": "2026-11-08T17:16:36.427",
+  "summary": "IBM Db2 11.5.0 through 11.5.9, and 12.1.0 through 12.1.5 is vulnerable to a denial of service when executing a specially crafted query with a Materialized Query Table.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-113698",
+   "cvss": 6.5,
+   "ref": "https://www.ibm.com/support/pages/node/7291614"
+  },
+  "title_vi": "",
+  "key": "fe09507871c92fae3f817b3c27724e51955b03b9"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-114464 — IBM Process Mining 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-114464",
+  "published": "2026-11-08T17:16:36.583",
+  "summary": "IBM Process Mining 2.0.0 through 2.2.1 could allow a remote attacker to obtain sensitive information due to improper access control.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-114464",
+   "cvss": 9.3,
+   "ref": "https://www.ibm.com/support/pages/node/7294875"
+  },
+  "title_vi": "CVE-2026-114464 — Khai thác quy trình IBM 2",
+  "key": "d8b4e2b8bcba1a07eeac6d8406f845bb36200b45"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-115554 — IBM Tivoli Netcool/OMNIbus 8",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115554",
+  "published": "2026-11-08T17:16:36.730",
+  "summary": "IBM Tivoli Netcool/OMNIbus 8.1.0 through 8.1.0.41 is vulnerable to stored cross-site scripting. This vulnerability allows an authenticated user to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-115554",
+   "cvss": 6.4,
+   "ref": "https://www.ibm.com/support/pages/node/7295828"
+  },
+  "title_vi": "",
+  "key": "5d20d15389b4bd3ae0e29b87d2f9909d4406b0a7"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-116499 — IBM Qiskit SDK 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-116499",
+  "published": "2026-11-08T17:16:36.870",
+  "summary": "IBM Qiskit SDK 1.4.2 through 2.6.2 could allow a local attacker to execute arbitrary code due to deserialization of untrusted data.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-116499",
+   "cvss": 8.4,
+   "ref": "https://www.ibm.com/support/pages/node/7295238"
+  },
+  "title_vi": "",
+  "key": "2938efaaa95535c3db7e0995a757c11293c7679e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-116500 — IBM Qiskit SDK 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-116500",
+  "published": "2026-11-08T17:16:37.007",
+  "summary": "IBM Qiskit SDK 2.4.0 through 2.6.1 could allow a local attacker to cause a denial of service due to unbound recursion during deserialization of untrusted QPY payloads.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-116500",
+   "cvss": 6.2,
+   "ref": "https://www.ibm.com/support/pages/node/7295235"
+  },
+  "title_vi": "",
+  "key": "fb5678bfdf36d66a83d77605e3cc5183fc44e9ac"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-116501 — IBM Qiskit SDK 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-116501",
+  "published": "2026-11-08T17:16:37.143",
+  "summary": "IBM Qiskit SDK 2.4.0 through 2.6.1 could allow a local attacker to execute arbitrary code due to an out-of-bounds write caused by improper input validation when accessing a corrupted unitary matrix.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-116501",
+   "cvss": 8.4,
+   "ref": "https://www.ibm.com/support/pages/node/7295237"
+  },
+  "title_vi": "",
+  "key": "a44be3b068cc2dfd0f06074c39696e1ee5f42831"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-117545 — IBM webMethods Integration Server 12",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-117545",
+  "published": "2026-11-08T17:16:37.277",
+  "summary": "IBM webMethods Integration Server 12.1 could allow a remote authenticated attacker to bypass security restrictions due to improper authentication.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-117545",
+   "cvss": 8.8,
+   "ref": "https://www.ibm.com/support/pages/node/7295298"
+  },
+  "title_vi": "CVE-2026-117545 — Máy chủ tích hợp webMethods của IBM 12",
+  "key": "37adc47d53964de79296d326a2ba35527a73c0bb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-119670 — IBM Storage Copy Data Management 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-119670",
+  "published": "2026-11-08T17:16:37.420",
+  "summary": "IBM Storage Copy Data Management 2.2 could allow an authenticated user to execute arbitrary commands with normal user privileges on the system due to improper validation of user supplied input.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-119670",
+   "cvss": 6.3,
+   "ref": "https://www.ibm.com/support/pages/node/7295286"
+  },
+  "title_vi": "CVE-2026-119670 - Quản lý dữ liệu sao chép lưu trữ của IBM 2",
+  "key": "6f8d01deb1a453201ee9535dd4995a7d55992efa"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-11547 — IBM WebSphere Application Server Liberty 17",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-11547",
+  "published": "2026-11-08T17:16:37.580",
+  "summary": "IBM WebSphere Application Server Liberty 17.0.0.3 through 26.0.0.10 is affected by a server-side request forgery vulnerability in the Admin Center deploy validation endpoint.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-11547",
+   "cvss": 4.3,
+   "ref": "https://www.ibm.com/support/pages/node/7295268"
+  },
+  "title_vi": "CVE-2026-11547 — Máy chủ ứng dụng IBM WebSphere Liberty 17",
+  "key": "624ae5e22bf21868acb789a0a7906de85cb7dc45"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-120113 — IBM Aspera Connect 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-120113",
+  "published": "2026-11-08T18:17:00.837",
+  "summary": "IBM Aspera Connect 1.6.1 through 4.2.19 could allow a remote attacker to obtain sensitive information and modify host trust configuration due to missing authentication and overly permissive cross-origin access controls in the local HTTP service. By persuading a victim to visit a malicious web page, an attacker could perform unauthorized cross-origin requests to read and modify configuration.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-120113",
+   "cvss": 6.4,
+   "ref": "https://www.ibm.com/support/pages/node/7295714"
+  },
+  "title_vi": "",
+  "key": "9f7099a44ed84d03bfa373b01b368b1cbebe913a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-120115 — IBM Aspera Connect 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-120115",
+  "published": "2026-11-08T18:17:00.990",
+  "summary": "IBM Aspera Connect 1.6.1 through 4.2.19 fails to consistently enforce origin verification across all REST API endpoints. An attacker who convinces a user to visit a malicious website could delete or inspect account configurations.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-120115",
+   "cvss": 6.3,
+   "ref": "https://www.ibm.com/support/pages/node/7295714"
+  },
+  "title_vi": "",
+  "key": "612a3e3837759508bd4a090610eea4604aeed3ec"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-12735 — IBM Controller Disclosure Management 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-12735",
+  "published": "2026-11-08T18:17:01.143",
+  "summary": "IBM Controller Disclosure Management 1.0.0.0 could allow an attacker to obtain sensitive EXIF metadata from uploaded images due to improper removal of sensitive information before storage.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-12735",
+   "cvss": 4.3,
+   "ref": "https://www.ibm.com/support/pages/node/7294527"
+  },
+  "title_vi": "CVE-2026-12735 - Quản lý tiết lộ bộ điều khiển IBM 1",
+  "key": "73513f3aefbd89a58136e871a12f06b0a86a8af0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-12737 — IBM Sterling B2B Integrator 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-12737",
+  "published": "2026-11-08T18:17:01.290",
+  "summary": "IBM Sterling B2B Integrator 6.2.2.0 through 6.2.2.1_1 and IBM Sterling File Gateway 6.2.2.0 through 6.2.2.1_1 stores potentially sensitive information in log files that could be read by a local privileged user.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-12737",
+   "cvss": 4.4,
+   "ref": "https://www.ibm.com/support/pages/node/7293719"
+  },
+  "title_vi": "",
+  "key": "beb5d50620920b5b3ebdab3b6dce76fe7ef226e7"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-14375 — IBM Storage Scale 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-14375",
+  "published": "2026-11-08T18:17:01.437",
+  "summary": "IBM Storage Scale 5.2.3.0 through 5.2.3.8, and 6.0.1.0 does not validate or improperly validates TLS certificate validation when communicating with remote cluster GUI interfaces, which could allow an attacker to inject forged JSON responses using man in the middle techniques.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-14375",
+   "cvss": 5.9,
+   "ref": "https://www.ibm.com/support/pages/node/7291325"
+  },
+  "title_vi": "CVE-2026-14375 — Thang đo lưu trữ IBM 5",
+  "key": "a55bc6aa615a5c5938ca2ca4c40d2a2f640d3281"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-14377 — IBM Turbonomic kubeturbo agent 8",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-14377",
+  "published": "2026-11-08T18:17:01.590",
+  "summary": "IBM Turbonomic kubeturbo agent 8.16.0 through 8.21.2 is vulnerable to server-side request forgery (SSRF). This may allow an authenticated attacker to send unauthorized requests from the system, potentially leading to network enumeration or facilitating other attacks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-14377",
+   "cvss": 5.4,
+   "ref": "https://www.ibm.com/support/pages/node/7293164"
+  },
+  "title_vi": "CVE-2026-14377 — Đại lý kubeturbo IBM Turbonomic 8",
+  "key": "a4bf5da51d78f1726141b9df03b5c6a95c426cf0"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-14434 — IBM Turbonomic kubeturbo agent 8",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-14434",
+  "published": "2026-11-08T18:17:01.727",
+  "summary": "IBM Turbonomic kubeturbo agent 8.16.0 through 8.21.2 does not validate or improperly validates TLS certificate validation, which could allow an attacker to obtain sensitive information using man in the middle techniques.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-14434",
+   "cvss": 5.9,
+   "ref": "https://www.ibm.com/support/pages/node/7290680"
+  },
+  "title_vi": "CVE-2026-14434 — Đại lý kubeturbo IBM Turbonomic 8",
+  "key": "20fc955ed9faf5f248fdea7ae3476676035ee5e6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-14435 — IBM Turbonomic kubeturbo agent 8",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-14435",
+  "published": "2026-11-08T18:17:01.870",
+  "summary": "IBM Turbonomic kubeturbo agent 8.16.0 through 8.20.3 does not validate or improperly validates TLS certificate validation, which could allow an attacker to obtain sensitive information using man in the middle techniques.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-14435",
+   "cvss": 5.9,
+   "ref": "https://www.ibm.com/support/pages/node/7290683"
+  },
+  "title_vi": "CVE-2026-14435 — Đại lý kubeturbo IBM Turbonomic 8",
+  "key": "fe66ed05f33915407fe324446a1a96aabd7d7520"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-14437 — IBM Storage Scale 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-14437",
+  "published": "2026-11-08T18:17:02.010",
+  "summary": "IBM Storage Scale 5.2.3.0 through 5.2.3.9 and 6.0.1.0 could allow a remote attacker to traverse directories on the system. An attacker could send a specially crafted URL request containing \"dot dot\" sequences (/../) to view arbitrary files on the system.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-14437",
+   "cvss": 6.5,
+   "ref": "https://www.ibm.com/support/pages/node/7291295"
+  },
+  "title_vi": "CVE-2026-14437 — Thang đo lưu trữ IBM 5",
+  "key": "d90481e23e95265a24c6b4e2479251c018a366e1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-14469 — IBM Storage Scale 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-14469",
+  "published": "2026-11-08T18:17:02.157",
+  "summary": "IBM Storage Scale 5.2.3.0 through 5.2.3.9 and 6.0.1.0  could allow an authenticated attacker to access and manipulate filesets beyond their control due to improper authorization.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-14469",
+   "cvss": 5.4,
+   "ref": "https://www.ibm.com/support/pages/node/7291295"
+  },
+  "title_vi": "CVE-2026-14469 — Thang đo lưu trữ IBM 5",
+  "key": "c823e28e0b2665b9173f1531c9b4e0849e9c475b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-14963 — IBM Cognos Command Center 10",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-14963",
+  "published": "2026-11-08T18:17:02.303",
+  "summary": "IBM Cognos Command Center 10.2.4.1 and 10.2.5 could allow a remote attacker to execute unauthorized processes due to cross-site request forgery.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-14963",
+   "cvss": 4.3,
+   "ref": "https://www.ibm.com/support/pages/node/7290010"
+  },
+  "title_vi": "CVE-2026-14963 — Trung tâm Chỉ huy IBM Cognos 10",
+  "key": "d8175cf91b841acf8f929cee6ac28fc1c49d3c50"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-15266 — IBM Concert 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-15266",
+  "published": "2026-11-08T18:17:02.450",
+  "summary": "IBM Concert 1.0 through 3.0.1.1 contains components that allow potentially unsafe command execution, which could be exploited to run arbitrary system commands on the host.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-15266",
+   "cvss": 9.8,
+   "ref": "https://www.ibm.com/support/pages/node/7294607"
+  },
+  "title_vi": "",
+  "key": "f43c7a8c80ca358d5f254c6cc964ddfdcd7a9e9c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-16325 — IBM DataStage on Cloud Pak for Data 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-16325",
+  "published": "2026-11-08T18:17:02.593",
+  "summary": "IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to execute arbitrary scripts due to improper neutralization of input in the X-Forwarded-Host header.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-16325",
+   "cvss": 4.4,
+   "ref": "https://www.ibm.com/support/pages/node/7294270"
+  },
+  "title_vi": "CVE-2026-16325 — IBM DataStage trên Cloud Pak cho Dữ liệu 5",
+  "key": "74d016b749ce6d05831491b18e323cbd99d0d9e6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-16427 — IBM DataStage on Cloud Pak for Data 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-16427",
+  "published": "2026-11-08T18:17:02.733",
+  "summary": "IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to write arbitrary files due to a path traversal vulnerability.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-16427",
+   "cvss": 6.5,
+   "ref": "https://www.ibm.com/support/pages/node/7294270"
+  },
+  "title_vi": "CVE-2026-16427 — IBM DataStage trên Cloud Pak cho Dữ liệu 5",
+  "key": "98d83648f11317d3474313ddc15256b4295fbd79"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-16433 — IBM DataStage on Cloud Pak for Data 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-16433",
+  "published": "2026-11-08T18:17:02.870",
+  "summary": "IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to write arbitrary files due to a path traversal vulnerability.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-16433",
+   "cvss": 6.5,
+   "ref": "https://www.ibm.com/support/pages/node/7294270"
+  },
+  "title_vi": "CVE-2026-16433 — IBM DataStage trên Cloud Pak cho Dữ liệu 5",
+  "key": "f4ab0614f7985bd4363ffbada95311a52f75e761"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-16699 — IBM Netezza Appliance 11",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-16699",
+  "published": "2026-11-08T18:17:03.010",
+  "summary": "IBM Netezza Appliance 11.3.0.2 Interim Fix 002 through 11.3.1.3 Interim Fix 006 could allow a remote authenticated attacker to change the passwords of other users due to improper authorization.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-16699",
+   "cvss": 6.5,
+   "ref": "https://www.ibm.com/support/pages/node/7295200"
+  },
+  "title_vi": "CVE-2026-16699 — Thiết bị IBM Netezza 11",
+  "key": "270e4b6af11e62682de406be154b4cfd06eaae2a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-17437 — IBM App Connect Enterprise 13",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-17437",
+  "published": "2026-11-08T18:17:03.153",
+  "summary": "IBM App Connect Enterprise 13.0.1.0 through 13.0.8.2, and 12.0.1.0 through 12.0.12.29 could allow a local attacker to perform an arbitrary file write due to improper validation of pathnames during archive extraction.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-17437",
+   "cvss": 5.5,
+   "ref": "https://www.ibm.com/support/pages/node/7293001"
+  },
+  "title_vi": "",
+  "key": "ee1f12cf32004aab27bb11f17ce21df3d0f7765f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-17466 — IBM Optim 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-17466",
+  "published": "2026-11-08T18:17:03.303",
+  "summary": "IBM Optim 1.0.0, 1.1.0, and 1.2.0 could allow a remote authenticated attacker to obtain sensitive information due to path traversal.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-17466",
+   "cvss": 9.1,
+   "ref": "https://www.ibm.com/support/pages/node/7289719"
+  },
+  "title_vi": "",
+  "key": "14fc1c416b846e228c577363a2650f3cc8a6f396"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18093 — IBM App Connect Enterprise 13",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18093",
+  "published": "2026-11-08T18:17:03.440",
+  "summary": "IBM App Connect Enterprise 13.0.1.0 through 13.0.8.2 could allow a remote attacker to obtain sensitive information due to broken access control.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18093",
+   "cvss": 7.5,
+   "ref": "https://www.ibm.com/support/pages/node/7295806"
+  },
+  "title_vi": "",
+  "key": "45ea9e78f3e875caeb9554d8efdd9ba3c24020ad"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18194 — IBM App Connect Enterprise 13",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18194",
+  "published": "2026-11-08T18:17:03.580",
+  "summary": "IBM App Connect Enterprise 13.0.1.0 through 13.0.8.2 could allow a remote attacker to perform unauthorized actions due to missing anti-clickjacking controls.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18194",
+   "cvss": 2.5,
+   "ref": "https://www.ibm.com/support/pages/node/7291780"
+  },
+  "title_vi": "",
+  "key": "737aeb4b35ba6d12dee63f614afc11ffd48e937f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18195 — IBM App Connect Enterprise 13",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18195",
+  "published": "2026-11-08T18:17:03.730",
+  "summary": "IBM App Connect Enterprise 13.0.1.0 through 13.0.8.2, and 12.0.1.0 through 12.0.12.30 could allow a remote attacker to perform content spoofing due to improper output encoding of error messages.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18195",
+   "cvss": 4.2,
+   "ref": "https://www.ibm.com/support/pages/node/7293505"
+  },
+  "title_vi": "",
+  "key": "f05edbe7181801870ab3016318aba249785038eb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18196 — IBM App Connect Enterprise 13",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18196",
+  "published": "2026-11-08T18:17:03.870",
+  "summary": "IBM App Connect Enterprise 13.0.1.0 through 13.0.8.2, and 12.0.1.0 through 12.0.12.30 could allow a remote attacker to inject arbitrary HTML due to improper output neutralization.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18196",
+   "cvss": 5.4,
+   "ref": "https://www.ibm.com/support/pages/node/7293505"
+  },
+  "title_vi": "",
+  "key": "9d339b9c859b81b2c0b20ed0f4f3518e9e18e5e2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18484 — IBM ContextForge MCP Gateway 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18484",
+  "published": "2026-11-08T18:17:04.010",
+  "summary": "IBM ContextForge MCP Gateway 1.0.0 through 1.0.11 could allow a remote authenticated attacker to cause a denial of service due to improper slug normalization causing tool name collisions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18484",
+   "cvss": 6.5,
+   "ref": "https://www.ibm.com/support/pages/node/7294233"
+  },
+  "title_vi": "CVE-2026-18484 — Cổng MCP ContextForge của IBM 1",
+  "key": "2682b9844e37dc5dcd2c650cae382ddb5012f7f2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18525 — IBM Secure Proxy 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18525",
+  "published": "2026-11-08T18:17:04.160",
+  "summary": "IBM Secure Proxy 6.1.0.0 through 6.2.1.2 could allow a remote authenticated attacker to cause a denial of service due to improper validation of listener IP address and port.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18525",
+   "cvss": 4.9,
+   "ref": "https://www.ibm.com/support/pages/node/7289712"
+  },
+  "title_vi": "",
+  "key": "edc89732144a3a521d08bcfef3864de659ebaea2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18546 — IBM CockroachDB PostgreSQL for IBM VPC 26",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18546",
+  "published": "2026-11-08T18:17:04.307",
+  "summary": "IBM CockroachDB PostgreSQL for IBM VPC 26.2.0 through 26.2.3, 25.4.0 through 25.4.12, and 25.2.0 through 25.2.20 is vulnerable to server-side request forgery (SSRF). This may allow an authenticated attacker to send unauthorized requests from the system, potentially leading to network enumeration or facilitating other attacks.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18546",
+   "cvss": 5.4,
+   "ref": "https://www.ibm.com/support/pages/node/7293292"
+  },
+  "title_vi": "CVE-2026-18546 — IBM CockroachDB PostgreSQL cho IBM VPC 26",
+  "key": "f885a24f213f0b88350e395bdcaf73aab5a917d6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18668 — IBM Sterling File Gateway 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18668",
+  "published": "2026-11-08T18:17:04.483",
+  "summary": "IBM Sterling File Gateway 6.2.1.0 through 6.2.1.2_1 and  6.2.2.0 - 6.2.2.1_1 could allow a remote attacker to perform protocol downgrade attacks due to a security misconfiguration.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18668",
+   "cvss": 6.5,
+   "ref": "https://www.ibm.com/support/pages/node/7294084"
+  },
+  "title_vi": "",
+  "key": "c30d8bd88f4e7432c35abe30034966554d456710"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-76052 — IBM Storage Scale System 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76052",
+  "published": "2026-11-08T18:17:04.827",
+  "summary": "IBM Storage Scale System 6.2.3.0 through 6.2.3.6, and 7.0.0.0 through 7.0.1.0 and IBM Storage Scale 6.0.0.0 through 6.0.1.0, and 5.2.3.0 through 5.2.3.8 could allow an attacker to leverage an undocumented flag to gain access to an unauthenticated path in the REST API.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-76052",
+   "cvss": 6.0,
+   "ref": "https://www.ibm.com/support/pages/node/7295211"
+  },
+  "title_vi": "CVE-2026-76052 — Hệ thống quy mô lưu trữ IBM 6",
+  "key": "00e7952f323feba9a2cf6736438462ece63ccfd7"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-18893 — IBM CockroachDB PostgreSQL for IBM VPC 26",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-18893",
+  "published": "2026-11-08T19:17:38.380",
+  "summary": "IBM CockroachDB PostgreSQL for IBM VPC 26.2.0 through 26.2.3, 25.4.0 through 25.4.12, and 25.2.0 through 25.2.20 is vulnerable to privilege escalation via user-defined function.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-18893",
+   "cvss": 7.1,
+   "ref": "https://www.ibm.com/support/pages/node/7293292"
+  },
+  "title_vi": "CVE-2026-18893 — IBM CockroachDB PostgreSQL cho IBM VPC 26",
+  "key": "b926e780a40cf9244568eda724e45192e8c533ec"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-19133 — IBM Storage TS4500 Library 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19133",
+  "published": "2026-11-08T19:17:38.537",
+  "summary": "IBM Storage TS4500 Library 1.1.1.6 through 1.12.0.3 could allow a remote authenticated attacker to perform unauthorized account takeover due to improper authorization.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-19133",
+   "cvss": 8.1,
+   "ref": "https://www.ibm.com/support/pages/node/7292609"
+  },
+  "title_vi": "",
+  "key": "bf2bc5f54f747be4cd0c9b1b1a77132cfbbee2b3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-19307 — IBM Sterling B2B Integrator 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19307",
+  "published": "2026-11-08T19:17:38.697",
+  "summary": "IBM Sterling B2B Integrator 6.2.1.0 through 6.2.1.2_1 and 6.2.2.0 through 6.2.2.1_1, and IBM Sterling File Gateway 6.2.1.0 through 6.2.1.2_1 and 6.2.2.0 through 6.2.2.1_1 Standard Edition could allow a remote authenticated attacker to access unauthorized pages due to improper authorization.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-19307",
+   "cvss": 4.3,
+   "ref": "https://www.ibm.com/support/pages/node/7293157"
+  },
+  "title_vi": "",
+  "key": "221f58c987dcda92c5643b01d7125b5d5fd6d1aa"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-2477 — IBM watsonx Orchestrate Cartridge for Cloud Pak for Data 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-2477",
+  "published": "2026-11-08T19:17:39.377",
+  "summary": "IBM watsonx Orchestrate Cartridge for Cloud Pak for Data 4.8.4 through 4.8.5, and 5.0.0 through 5.4.2 fails to enforce backend authorization checks, allowing low‑privileged users to directly invoke administrative API endpoints. This bypasses UI‑level access restrictions and may lead to unauthorized execution of privileged functions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-2477",
+   "cvss": 6.5,
+   "ref": "https://www.ibm.com/support/pages/node/7293785"
+  },
+  "title_vi": "CVE-2026-2477 — IBM watsonx Orchestrate Cartridge cho Cloud Pak cho Dữ liệu 4",
+  "key": "bd2723f23e36447196655e65388c2b559f07a9ef"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-2700 — IBM watsonx Orchestrate Cartridge for Cloud Pak for Data 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-2700",
+  "published": "2026-11-08T19:17:39.540",
+  "summary": "IBM watsonx Orchestrate Cartridge for Cloud Pak for Data 4.8.4 through 4.8.5, and 5.0.0 through 5.4.2 allows low-privileged users to execute administrative functions by directly invoking backend APIs.As a result, UI-level access restrictions are ineffective, as the backend fails to enforce role-based access control.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-2700",
+   "cvss": 4.3,
+   "ref": "https://www.ibm.com/support/pages/node/7293785"
+  },
+  "title_vi": "CVE-2026-2700 — IBM watsonx Orchestrate Cartridge cho Cloud Pak cho Dữ liệu 4",
+  "key": "83df9fae70e65e43c247c234373b87e7256bfe49"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-3684 — IBM Cloud Pak for Data System 11",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-3684",
+  "published": "2026-11-08T19:17:39.690",
+  "summary": "IBM Cloud Pak for Data System 11.3.1.2 Interim Fix 001 through - 11.3.1.2 Interim Fix 002 could allow a user with administrative privileges to read and write arbitrary files on the system due to incorrect permission assignments.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-3684",
+   "cvss": 6.5,
+   "ref": "https://www.ibm.com/support/pages/node/7293239"
+  },
+  "title_vi": "CVE-2026-3684 — IBM Cloud Pak cho hệ thống dữ liệu 11",
+  "key": "a4fafaa3d56b12937e5416488b2287b958b8af31"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-6715 — IBM Concert 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-6715",
+  "published": "2026-11-08T19:17:39.980",
+  "summary": "IBM Concert 1.0 through 3.0.1.1 allows an attacker can supply crafted input that is incorporated into an operating system command without adequate validation or sanitization. Successful exploitation allows remote attackers to execute arbitrary commands on the underlying operating system with the privileges of the affected service.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-6715",
+   "cvss": 9.8,
+   "ref": "https://www.ibm.com/support/pages/node/7294607"
+  },
+  "title_vi": "",
+  "key": "380a6a65eb9dba3cadcc00752a9fdcb5b6ff98ab"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-75879 — IBM Content Navigator 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-75879",
+  "published": "2026-11-08T19:17:40.133",
+  "summary": "IBM Content Navigator 3.0.15.0, 26.0.0.0, 3.1.0.0, and 3.2.0.0 is vulnerable to LDAP injection. A remote authenticated attacker could send a specially crafted request that could allow enumeration of LDAP directory information.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-75879",
+   "cvss": 4.3,
+   "ref": "https://www.ibm.com/support/pages/node/7295227"
+  },
+  "title_vi": "CVE-2026-75879 — Bộ điều hướng nội dung IBM 3",
+  "key": "b8bede81d6af308b2ca5f4c6fc14e6c49157c50d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-77153 — IBM i 7",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-77153",
+  "published": "2026-11-08T19:17:40.290",
+  "summary": "IBM i 7.6, 7.5, 7.4, and 7.3 could allow a remote unauthenticated attacker to obtain sensitive information from the Host-Based Printer Subsystem due to no authorization check. A bad actor could use this vulnerability to print files they should not be able to access.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-77153",
+   "cvss": 4.8,
+   "ref": "https://www.ibm.com/support/pages/node/7294253"
+  },
+  "title_vi": "",
+  "key": "0c56d7eca4b91a722f7a20198560daeaeb67bd3a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78537 — IBM Guardium Key Lifecycle Manager 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78537",
+  "published": "2026-11-08T19:17:40.457",
+  "summary": "IBM Guardium Key Lifecycle Manager 4.1, 4.1.1, 4.2, 4.2.1, 5.0, and 5.1 could allow a local attacker to obtain sensitive information due to the use of a weak cryptographic algorithm.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78537",
+   "cvss": 6.8,
+   "ref": "https://www.ibm.com/support/pages/node/7292031"
+  },
+  "title_vi": "CVE-2026-78537 — Quản lý Vòng đời Khóa IBM Guardium 4",
+  "key": "1f456faecf99a1ef0dbbf0bd5d78c13f8c2bc463"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-78636 — IBM WebSphere Application Server Liberty 17",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-78636",
+  "published": "2026-11-08T19:17:40.620",
+  "summary": "IBM WebSphere Application Server Liberty 17.0.0.3 through 26.0.0.10 is affected by an information disclosure vulnerability due to unsafe class reflection in the JMX REST connector body parser.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-78636",
+   "cvss": 4.3,
+   "ref": "https://www.ibm.com/support/pages/node/7295268"
+  },
+  "title_vi": "CVE-2026-78636 — Máy chủ ứng dụng IBM WebSphere Liberty 17",
+  "key": "ff0e629fafc5e1fea5a2b75eba8e9ab9773dff61"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-80435 — IBM DataStage on Cloud Pak for Data 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-80435",
+  "published": "2026-11-08T19:17:40.773",
+  "summary": "IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to obtain sensitive information due to an XML external entity (XXE) injection flaw.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-80435",
+   "cvss": 5.0,
+   "ref": "https://www.ibm.com/support/pages/node/7294270"
+  },
+  "title_vi": "CVE-2026-80435 — IBM DataStage trên Cloud Pak cho Dữ liệu 5",
+  "key": "6ee68faa98a9a950d821d8fb611341d458966892"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81209 — IBM Sterling B2B Integrator 6",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81209",
+  "published": "2026-11-08T19:17:40.927",
+  "summary": "IBM Sterling B2B Integrator 6.2.1.0 through 6.2.1.2_1, 6.2.2.0 - 6.2.2.1_1 and IBM Sterling File Gateway 6.2.1.0 through 6.2.1.2_1, 6.2.2.0 - 6.2.2.1_1 Standard Edition could allow a remote authenticated attacker to obtain sensitive information due to improper logging of sensitive credentials.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81209",
+   "cvss": 4.9,
+   "ref": "https://www.ibm.com/support/pages/node/7293291"
+  },
+  "title_vi": "",
+  "key": "85157723c69eb9e3c21f2bcf6c235cfe4f97f92f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-81542 — IBM DataStage on Cloud Pak for Data 5",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-81542",
+  "published": "2026-11-08T19:17:41.090",
+  "summary": "IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to delete arbitrary files due to path traversal.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-81542",
+   "cvss": 6.4,
+   "ref": "https://www.ibm.com/support/pages/node/7294270"
+  },
+  "title_vi": "CVE-2026-81542 — IBM DataStage trên Cloud Pak cho Dữ liệu 5",
+  "key": "adaeb589a0cdb87c00bda9406ce484c64f3aa01e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-82830 — IBM Guardium Data Protection 12",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-82830",
+  "published": "2026-11-08T19:17:41.240",
+  "summary": "IBM Guardium Data Protection 12.2.4 could allow a remote authenticated attacker to execute arbitrary commands due to improper neutralization of argument delimiters.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-82830",
+   "cvss": 6.7,
+   "ref": "https://www.ibm.com/support/pages/node/7295791"
+  },
+  "title_vi": "CVE-2026-82830 — Bảo vệ dữ liệu IBM Guardium 12",
+  "key": "d2720ec28495a7bc68314adbac4c46f2c15c59fc"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84030 — IBM Guardium Data Protection 12",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84030",
+  "published": "2026-11-08T19:17:41.390",
+  "summary": "IBM Guardium Data Protection 12.2.4 could allow a remote attacker to execute arbitrary SQL commands due to improper neutralization of special elements used in an SQL command.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84030",
+   "cvss": 5.6,
+   "ref": "https://www.ibm.com/support/pages/node/7295791"
+  },
+  "title_vi": "CVE-2026-84030 — Bảo vệ dữ liệu IBM Guardium 12",
+  "key": "26ec9cbf1009e5ef59b40875d2ad6fd41c8608b5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84228 — IBM Guardium Data Protection 12",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84228",
+  "published": "2026-11-08T19:17:41.557",
+  "summary": "IBM Guardium Data Protection 12.2.4 could allow a remote authenticated attacker to obtain sensitive information due to improper input validation.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84228",
+   "cvss": 3.1,
+   "ref": "https://www.ibm.com/support/pages/node/7295791"
+  },
+  "title_vi": "CVE-2026-84228 — Bảo vệ dữ liệu IBM Guardium 12",
+  "key": "e86041b220c76665ab91a56c88ad064ef8f04845"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84229 — IBM Guardium Data Protection 12",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84229",
+  "published": "2026-11-08T19:17:41.710",
+  "summary": "IBM Guardium Data Protection 12.2.4 could allow a remote attacker to bypass security restrictions due to improper validation of CSRF tokens for GET requests.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84229",
+   "cvss": 6.5,
+   "ref": "https://www.ibm.com/support/pages/node/7295791"
+  },
+  "title_vi": "CVE-2026-84229 — Bảo vệ dữ liệu IBM Guardium 12",
+  "key": "8b5607c7f0621175da281df71d3006825832b838"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-84237 — IBM Guardium Data Protection 12",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84237",
+  "published": "2026-11-08T19:17:41.853",
+  "summary": "IBM Guardium Data Protection 12.2.4 could allow a remote authenticated attacker to obtain sensitive information due to improper limitation of a pathname to a restricted directory.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-84237",
+   "cvss": 3.1,
+   "ref": "https://www.ibm.com/support/pages/node/7295791"
+  },
+  "title_vi": "CVE-2026-84237 — Bảo vệ dữ liệu IBM Guardium 12",
+  "key": "05b026b429ee65a3fcd270cd48c1e13bd06d0fd3"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-8639 — IBM Security Verify Directory 10",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-8639",
+  "published": "2026-11-08T19:17:42.573",
+  "summary": "IBM Security Verify Directory 10.0.0 through 10.0.4 and IBM Verify Directory 11.0.0 is vulnerable to session fixation. An attacker can establish a session and, after the victim authenticates, hijack the authenticated session to gain unauthorized access to the directory management console.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-8639",
+   "cvss": 8.8,
+   "ref": "https://www.ibm.com/support/pages/node/7293828"
+  },
+  "title_vi": "CVE-2026-8639 - Thư mục xác minh bảo mật của IBM 10",
+  "key": "0f709934d0dba0586e9e894f363a8f68fde2ee7c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-8640 — IBM Security Verify Directory 10",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-8640",
+  "published": "2026-11-08T19:17:42.723",
+  "summary": "IBM Security Verify Directory 10.0.0 through 10.0.4 and IBM Verify Directory 11.0.0 does not set the SameSite attribute on session cookies, making it vulnerable to Cross-Site Request Forgery (CSRF) attacks. An attacker can cause authenticated users' browsers to send unauthorized requests to the application.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-8640",
+   "cvss": 3.5,
+   "ref": "https://www.ibm.com/support/pages/node/7293828"
+  },
+  "title_vi": "CVE-2026-8640 - Thư mục xác minh bảo mật của IBM 10",
+  "key": "e67eca0a90abeb31a3810f9aa160e8af250f8f6b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-8642 — IBM Security Verify Directory 10",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-8642",
+  "published": "2026-11-08T19:17:42.870",
+  "summary": "IBM Security Verify Directory 10.0.0 through 10.0.4 and IBM Verify Directory 11.0.0 exposes debug endpoints that disclose system information including server versions and session identifiers. This information can be used to identify vulnerable software versions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-8642",
+   "cvss": 4.3,
+   "ref": "https://www.ibm.com/support/pages/node/7293828"
+  },
+  "title_vi": "CVE-2026-8642 - Thư mục xác minh bảo mật của IBM 10",
+  "key": "a22c7444a917545dc0050788b80b5cf662f9d170"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-8860 — IBM Security Verify Directory 10",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-8860",
+  "published": "2026-11-08T19:17:43.020",
+  "summary": "IBM Security Verify Directory 10.0.0 through 10.0.4 and IBM Verify Directory 11.0.0 accepts GET requests for authentication, allowing credentials to be passed as URL parameters. This causes passwords to be exposed in browser history and server logs.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-8860",
+   "cvss": 6.5,
+   "ref": "https://www.ibm.com/support/pages/node/7293828"
+  },
+  "title_vi": "CVE-2026-8860 - Thư mục xác minh bảo mật của IBM 10",
+  "key": "33e6305c9b7f79a77b063a803d4f264ef849a102"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-93005 — IBM Process Mining 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-93005",
+  "published": "2026-11-08T19:17:43.177",
+  "summary": "IBM Process Mining 2.0.0 through 2.2.1 could allow an authenticated attacker to cause a denial of service through insufficient rate limiting of email notifications, resulting in excessive emails being sent to targeted recipients.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-93005",
+   "cvss": 6.5,
+   "ref": "https://www.ibm.com/support/pages/node/7294875"
+  },
+  "title_vi": "CVE-2026-93005 — Khai thác quy trình IBM 2",
+  "key": "e68d04d4c320c605981becb0fbbe671f987efad8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-93879 — Hibernate Validator could allow a remote attacker to cause a denial of service due to uncontrolled resource consumption resulting from improper escapi",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-93879",
+  "published": "2026-11-08T19:17:43.763",
+  "summary": "Hibernate Validator could allow a remote attacker to cause a denial of service due to uncontrolled resource consumption resulting from improper escaping of user-controlled data in Expression Language (EL) expressions.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-93879",
+   "cvss": 7.5,
+   "ref": "https://www.ibm.com/support/pages/node/7293301"
+  },
+  "title_vi": "CVE-2026-93879 — Trình xác thực Hibernate có thể cho phép kẻ tấn công từ xa gây ra từ chối dịch vụ do tiêu thụ tài nguyên không kiểm soát được do thoát không đúng cách",
+  "key": "a6ce5fa0bd70dc0d803bac39b488339241946702"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-97677 — IBM Langflow OSS 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-97677",
+  "published": "2026-11-08T19:17:54.077",
+  "summary": "IBM Langflow OSS 1.0.0 through 1.12.2 An authenticated flow author could write attacker-controlled file content into any directory writable by the service account, bypassing the platform's local file access isolation safeguard. Via a crafted on-disk index, the attacker could also read the contents of arbitrary files accessible to the service process — including configuration files, secrets, or database files stored under the application's data directory.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-97677",
+   "cvss": 8.1,
+   "ref": "https://www.ibm.com/support/pages/node/7290694"
+  },
+  "title_vi": "",
+  "key": "73e3e3926b7544c0e939e7e7d76e2a2d9ef7734c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-9764 — IBM Bob 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-9764",
+  "published": "2026-11-08T19:17:54.247",
+  "summary": "IBM Bob 1.0.4 through 2.0.1 could allow a remote attacker to inject arbitrary code on the system, due to the improper control of user input code.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-9764",
+   "cvss": 8.8,
+   "ref": "https://www.ibm.com/support/pages/node/7291535"
+  },
+  "title_vi": "",
+  "key": "223046a16ee00b96268f3275f6baec963240d694"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
   "title": "Doanh nghiệp Hàn Quốc đánh giá Việt Nam sẽ tiếp tục là trung tâm kinh doanh toàn cầu",
   "link": "https://www.vietnamplus.vn/doanh-nghiep-han-quoc-danh-gia-viet-nam-se-tiep-tuc-la-trung-tam-kinh-doanh-toan-cau-post1146996.vnp",
   "published": "2026-11-08T14:26:56+00:00",
@@ -72423,1870 +74347,5 @@
   },
   "title_vi": "CVE-2026-48176 — Lỗ hổng hỏng bộ nhớ do xác thực tin nhắn không đúng cách",
   "key": "4127ee937766d41ea81ace8a33e77ab9b613777a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-48178 — Out of bound access in PPC due to race condition in global variable access",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-48178",
-  "published": "2026-11-05T03:17:28.013",
-  "summary": "Out of bound access in PPC due to race condition in global variable access",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-48178",
-   "cvss": null,
-   "ref": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/"
-  },
-  "title_vi": "CVE-2026-48178 — Truy cập ngoài giới hạn trong PPC do điều kiện chủng tộc trong truy cập biến toàn cầu",
-  "key": "09b79c66edaea7d3c7233a47234bf47efe17ad7a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-48179 — In the Exynos modem's IMS stack, improper handling of SDP payload leads to a Denial of Service",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-48179",
-  "published": "2026-11-05T03:17:28.130",
-  "summary": "In the Exynos modem's IMS stack, improper handling of SDP payload leads to a Denial of Service",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-48179",
-   "cvss": null,
-   "ref": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/"
-  },
-  "title_vi": "CVE-2026-48179 — Trong ngăn xếp IMS của modem Exynos, việc xử lý không đúng cách tải trọng SDP dẫn đến Từ chối Dịch vụ",
-  "key": "f6d42fd281da0551e492c37ddc55f120b6b2a07c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-48183 — Improper permission handling during buffer operations allows untrusted applications to create memory mappings with inappropriate permissions",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-48183",
-  "published": "2026-11-05T03:17:28.250",
-  "summary": "Improper permission handling during buffer operations allows untrusted applications to create memory mappings with inappropriate permissions",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-48183",
-   "cvss": null,
-   "ref": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/"
-  },
-  "title_vi": "CVE-2026-48183 - Xử lý quyền không đúng cách trong quá trình hoạt động bộ đệm cho phép các ứng dụng không đáng tin cậy tạo ánh xạ bộ nhớ với các quyền không phù hợp",
-  "key": "764bde97e8838ecb6f76b2b072f73d44565fb0d4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-48186 — Improper handling of messages before AS security activation can cause unexpected behavior",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-48186",
-  "published": "2026-11-05T03:17:28.367",
-  "summary": "Improper handling of messages before AS security activation can cause unexpected behavior",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-48186",
-   "cvss": null,
-   "ref": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/"
-  },
-  "title_vi": "CVE-2026-48186 - Xử lý tin nhắn không đúng cách trước khi kích hoạt bảo mật AS có thể gây ra hành vi bất ngờ",
-  "key": "ec633562cff3452390600e87b1244b170ac52e22"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-68984 — In the Samsung Exynos NPU kernel driver, an integer overflow allows an unprivileged application to trigger memory corruption",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-68984",
-  "published": "2026-11-05T03:17:31.133",
-  "summary": "In the Samsung Exynos NPU kernel driver, an integer overflow allows an unprivileged application to trigger memory corruption.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-68984",
-   "cvss": null,
-   "ref": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/"
-  },
-  "title_vi": "CVE-2026-68984 — Trong trình điều khiển hạt nhân Samsung Exynos NPU, tràn số nguyên cho phép một ứng dụng không đặc quyền kích hoạt tham nhũng bộ nhớ",
-  "key": "fd8c59f67e3e1658a00d424c60a8e5f5d84ef994"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-68985 — In the Samsung Exynos NPU driver, improper validation of user input in the ioctl handler can lead to an out-of-bounds write, which causes a denial of ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-68985",
-  "published": "2026-11-05T03:17:31.263",
-  "summary": "In the Samsung Exynos NPU driver, improper validation of user input in the ioctl handler can lead to an out-of-bounds write, which causes a denial of service.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-68985",
-   "cvss": null,
-   "ref": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/"
-  },
-  "title_vi": "CVE-2026-68985 — Trong trình điều khiển NPU Samsung Exynos, việc xác nhận không đúng đầu vào của người dùng trong trình xử lý ioctl có thể dẫn đến việc ghi vượt quá giới hạn, điều này gây ra sự từ chối",
-  "key": "26c16647351a3a302c0d98c8ecf23b07c2b2bfb9"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-68990 — In the Samsung Exynos H-Arx DRM plugin, improper input validation during buffer operations can cause memory corruption, potentially leading to denial ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-68990",
-  "published": "2026-11-05T03:17:31.400",
-  "summary": "In the Samsung Exynos H-Arx DRM plugin, improper input validation during buffer operations can cause memory corruption, potentially leading to denial of service or privilege escalation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-68990",
-   "cvss": null,
-   "ref": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/"
-  },
-  "title_vi": "CVE-2026-68990 - Trong plugin Samsung Exynos H-Arx DRM, việc xác thực đầu vào không đúng cách trong quá trình hoạt động bộ đệm có thể gây hỏng bộ nhớ, có khả năng dẫn đến từ chối",
-  "key": "d5345893460c7d5ce58e9135efe19b0bd18202d2"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-68991 — In the Samsung Exynos ENN NeuralNetworks HAL, improper input validation during request processing can cause memory corruption and lead to a denial of ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-68991",
-  "published": "2026-11-05T03:17:31.520",
-  "summary": "In the Samsung Exynos ENN NeuralNetworks HAL, improper input validation during request processing can cause memory corruption and lead to a denial of service condition.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-68991",
-   "cvss": null,
-   "ref": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/"
-  },
-  "title_vi": "CVE-2026-68991 — Trong Samsung Exynos ENN NeuralNetworks HAL, việc xác thực đầu vào không đúng cách trong quá trình xử lý yêu cầu có thể gây ra hỏng bộ nhớ và dẫn đến việc từ chối",
-  "key": "ab87aa2a5821c2510643eb25851980035fad4e00"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-68993 — A double free vulnerability in NPU driver due to improper pointer management (940)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-68993",
-  "published": "2026-11-05T03:17:31.643",
-  "summary": "A double free vulnerability in NPU driver due to improper pointer management  (940)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-68993",
-   "cvss": null,
-   "ref": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/"
-  },
-  "title_vi": "CVE-2026-68993 — Lỗ hổng miễn phí kép trong trình điều khiển NPU do quản lý con trỏ không đúng cách (940)",
-  "key": "a692612b0c9f8f313caac9ff4a8368466095a74d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-68994 — A double free vulnerability in NPU driver due to improper pointer management (941)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-68994",
-  "published": "2026-11-05T03:17:31.767",
-  "summary": "A double free vulnerability in NPU driver due to improper pointer management (941)",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-68994",
-   "cvss": null,
-   "ref": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/"
-  },
-  "title_vi": "CVE-2026-68994 — Lỗ hổng miễn phí kép trong trình điều khiển NPU do quản lý con trỏ không đúng cách (941)",
-  "key": "c938ae601e4235318d060124b527213d798cc739"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69002 — Incorrect authorization in Samsung framework services due to missing permission checks",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69002",
-  "published": "2026-11-05T03:17:31.877",
-  "summary": "Incorrect authorization in Samsung framework services due to missing permission checks",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69002",
-   "cvss": null,
-   "ref": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/"
-  },
-  "title_vi": "",
-  "key": "d3986b9bba802707398af00e57e7ead70e303c2f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69005 — Integer overflow in NPU driver parameter processing due to insufficient bounds checking",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69005",
-  "published": "2026-11-05T03:17:32.000",
-  "summary": "Integer overflow in NPU driver parameter processing due to insufficient bounds checking.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69005",
-   "cvss": null,
-   "ref": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/"
-  },
-  "title_vi": "",
-  "key": "52935e4f2e59d34679d5d1830002a142eea52a7e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69006 — Insufficient validation of length fields in the GNSS firmware loader can result in kernel‑memory corruption",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69006",
-  "published": "2026-11-05T03:17:32.120",
-  "summary": "Insufficient validation of length fields in the GNSS firmware loader can result in kernel‑memory corruption.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69006",
-   "cvss": null,
-   "ref": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/"
-  },
-  "title_vi": "",
-  "key": "493f018109931cca7666313e07eed849992d113e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69025 — In the Exynos NPU driver, improper validation of user input in the ioctl handler can lead to an out-of-bounds write, which causes a denial of service",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69025",
-  "published": "2026-11-05T03:17:32.243",
-  "summary": "In the Exynos NPU driver, improper validation of user input in the ioctl handler can lead to an out-of-bounds write, which causes a denial of service",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69025",
-   "cvss": null,
-   "ref": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/"
-  },
-  "title_vi": "",
-  "key": "60bffc37565895fd8d6943416f0c17002ac813e4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69043 — In the Samsung Exynos GPU driver, improper synchronization during buffer object creation and closing can lead to memory corruption",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69043",
-  "published": "2026-11-05T03:17:32.357",
-  "summary": "In the Samsung Exynos GPU driver, improper synchronization during buffer object creation and closing can lead to memory corruption",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69043",
-   "cvss": null,
-   "ref": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/"
-  },
-  "title_vi": "",
-  "key": "91f551cf2bc1a1fe1ab5559f4f1feace918990d8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69044 — In the Samsung GPU driver, improper reference count handling during command submission can lead to memory corruption",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69044",
-  "published": "2026-11-05T03:17:32.483",
-  "summary": "In the Samsung GPU driver, improper reference count handling during command submission can lead to memory corruption.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69044",
-   "cvss": null,
-   "ref": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/"
-  },
-  "title_vi": "",
-  "key": "b0e1ef1f14ebf000b0bc228126c7191583f63832"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69050 — Out-of-bounds memory access in a device driver due to improper resource state tracking",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69050",
-  "published": "2026-11-05T03:17:32.600",
-  "summary": "Out-of-bounds memory access in a device driver due to improper resource state tracking.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69050",
-   "cvss": null,
-   "ref": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/"
-  },
-  "title_vi": "",
-  "key": "ebc86123e84a11ed0e0c65ce1f6c2b583a4ea1d9"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69066 — Memory corruption in GPU driver due to improper validation of VMID reservation",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69066",
-  "published": "2026-11-05T03:17:32.723",
-  "summary": "Memory corruption in GPU driver due to improper validation of VMID reservation.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69066",
-   "cvss": null,
-   "ref": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/"
-  },
-  "title_vi": "",
-  "key": "414c401080d08bc3135e954fe5563837f2c92765"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-69068 — Insufficient length validation in the GNSS firmware loader may lead to corruption of kernel memory",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-69068",
-  "published": "2026-11-05T03:17:32.850",
-  "summary": "Insufficient length validation in the GNSS firmware loader may lead to corruption of kernel memory.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-69068",
-   "cvss": null,
-   "ref": "https://semiconductor.samsung.com/support/quality-support/product-security-updates/"
-  },
-  "title_vi": "",
-  "key": "90d08794cc21cfe8e4a9d78a048634ad25832b16"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-122190 — A vulnerability was found in SourceCodester Online Food Ordering System 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-122190",
-  "published": "2026-11-05T04:17:12.170",
-  "summary": "A vulnerability was found in SourceCodester Online Food Ordering System 1.0. The impacted element is an unknown function of the file admin/add_category.php of the component Category Management. Performing a manipulation of the argument category_title results in cross site scripting. The attack may be initiated remotely. The exploit has been made public and could be used.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-122190",
-   "cvss": 2.4,
-   "ref": "https://gist.github.com/shamillshaanuh/f5e39643e1504536f55bf02bb51c3598"
-  },
-  "title_vi": "",
-  "key": "9ee16b368d520b27fe043a0b342fd28e89f471b4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-122191 — A vulnerability was determined in itsourcecode Airline Reservation System 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-122191",
-  "published": "2026-11-05T04:17:12.390",
-  "summary": "A vulnerability was determined in itsourcecode Airline Reservation System 1.0. This affects an unknown function of the file /admin/manage_booked.php. Executing a manipulation of the argument ID can lead to sql injection. The attack may be launched remotely. The exploit has been publicly disclosed and may be utilized.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-122191",
-   "cvss": 6.3,
-   "ref": "https://github.com/sequritte/submit/issues/1"
-  },
-  "title_vi": "",
-  "key": "7adf137f9bac40223473b96af3eefb484602e166"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-122236 — A vulnerability has been found in OpenHands up to 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-122236",
-  "published": "2026-11-05T04:17:12.663",
-  "summary": "A vulnerability has been found in OpenHands up to 1.24.0. This impacts an unknown function of the component Landing Page. Such manipulation leads to missing authentication. The attack must be carried out from within the local network. The exploit has been disclosed to the public and may be used. Upgrading to version 1.25.0 will fix this issue. The name of the patch is c5efa3ae415def0a903c82d2b17b748e663b1995. Upgrading the affected component is recommended.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-122236",
-   "cvss": 6.3,
-   "ref": "https://github.com/OpenHands/OpenHands/"
-  },
-  "title_vi": "",
-  "key": "76c6baf08b075b75956e1707c15787f821153f38"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-104812 — The Redux Framework plugin for WordPress is vulnerable to Stored Cross-Site Scripting via 'multi_media' Field Array Key in all versions due to insuffi",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-104812",
-  "published": "2026-11-05T05:18:18.550",
-  "summary": "The Redux Framework plugin for WordPress is vulnerable to Stored Cross-Site Scripting via 'multi_media' Field Array Key in all versions due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with subscriber-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. The wp_kses_post sanitization applied at save time operates only on array leaf values, leaving array keys entirely unsanitized; the injected key is then rendered directly into an id=\"filelist-<KEY>\" HTML attrib",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-104812",
-   "cvss": 6.4,
-   "ref": "https://plugins.trac.wordpress.org/browser/redux-framework/trunk/redux-core/inc/classes/class-redux-helpers.php#L1126"
-  },
-  "title_vi": "",
-  "key": "6b886c21e2b858f5b6eece662e688f70373ee830"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-116617 — The Motors – Car Dealership & Classified Listings Plugin plugin for WordPress is vulnerable to File Deletion in all versions up to, and including, 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-116617",
-  "published": "2026-11-05T05:18:19.240",
-  "summary": "The Motors – Car Dealership & Classified Listings Plugin plugin for WordPress is vulnerable to File Deletion in all versions up to, and including, 1.4.128 The vulnerability exists because `stm_save_user_extra_fields()`, hooked to `personal_options_update`, writes the attacker-controlled `stm_dealer_logo_path` parameter directly to user meta without an ownership check binding the submitted path to the submitting user — unlike the `stm_payment_status` and `stm_lost_password_hash` fields, this field is not gated by a `manage_options` or `edit_users` capability check. This makes it possible for au",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-116617",
-   "cvss": 8.1,
-   "ref": "https://plugins.svn.wordpress.org/motors-car-dealership-classified-listings/"
-  },
-  "title_vi": "",
-  "key": "7a8368fa6dffe3aa3e5f5ea13b3118742cccd77b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-118193 — The GiveWP – Donation Plugin and Fundraising Platform plugin for WordPress is vulnerable to Privilege Escalation in all versions up to, and including,",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-118193",
-  "published": "2026-11-05T05:18:19.427",
-  "summary": "The GiveWP – Donation Plugin and Fundraising Platform plugin for WordPress is vulnerable to Privilege Escalation in all versions up to, and including, 4.19.1 via the `donor_default_user_role` parameter. This is due to the `sanitize_option_donor_default_user_role()` function applying only a narrow literal check against the string `'administrator'` rather than enforcing the plugin's own `give_get_donor_safe_user_roles()` allowlist on save, and due to the `give_core_settings_import_callback()` AJAX handler writing imported JSON directly into the `give_settings` option via `update_option()` withou",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-118193",
-   "cvss": 8.8,
-   "ref": "https://plugins.trac.wordpress.org/browser/give/tags/4.19.0/includes/admin/admin-actions.php#L971"
-  },
-  "title_vi": "",
-  "key": "ac288b0070a10109518af018135947edebf3fbda"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-120533 — The Redux Framework plugin for WordPress is vulnerable to Stored Cross-Site Scripting via theme_opts Parameter via User Profile in all versions up to,",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-120533",
-  "published": "2026-11-05T05:18:20.427",
-  "summary": "The Redux Framework plugin for WordPress is vulnerable to Stored Cross-Site Scripting via theme_opts Parameter via User Profile in all versions up to, and including, 4.5.16 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with subscriber-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. Successful exploitation requires the host theme to have registered a Redux field of a CSS-emitting type (such as link_color, border, or typography) with an output CSS select",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-120533",
-   "cvss": 6.4,
-   "ref": "https://github.com/reduxframework/redux-framework/pull/4124/"
-  },
-  "title_vi": "",
-  "key": "a909eb0e06410560f4c2c8ce5a586260359471b4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-120553 — The Customer Reviews for WooCommerce plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'slides_to_show' parameter in all versi",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-120553",
-  "published": "2026-11-05T05:18:20.623",
-  "summary": "The Customer Reviews for WooCommerce plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'slides_to_show' parameter in all versions up to, and including, 5.126.0 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-120553",
-   "cvss": 6.4,
-   "ref": "https://plugins.trac.wordpress.org/browser/customer-reviews-woocommerce/tags/5.126.0/includes/blocks/class-cr-reviews-slider.php#L328"
-  },
-  "title_vi": "",
-  "key": "f11c36a1c927a750a98f091e493d03666ce5a954"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-123010 — @twilio-labs/netlify-okta-auth through 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123010",
-  "published": "2026-11-05T05:18:36.383",
-  "summary": "@twilio-labs/netlify-okta-auth through 1.0.2 relies on an unverified iss claim. This affects an outbound HTTP request to retrieve a public signing key. There may be other impacts in a misconfiguration where oktaUrl isn't set.",
-  "categories": [
-   "cloud",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-123010",
-   "cvss": 7.2,
-   "ref": "https://github.com/twilio-labs/netlify-okta-auth/blob/b9b160ec25d5ebff80509cd673f8e67ea6f8c617/src/auth.ts#L38-L46"
-  },
-  "title_vi": "",
-  "key": "4b0f4ddbef6ffc070049a1b63a7ac252d96f1e9f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-123011 — STMicroelectronics st-mems-android-linux-sensors-hal before 7bdf334 does not check whether the allowed number of channels is exceeded",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123011",
-  "published": "2026-11-05T05:18:36.587",
-  "summary": "STMicroelectronics st-mems-android-linux-sensors-hal before 7bdf334 does not check whether the allowed number of channels is exceeded.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-123011",
-   "cvss": 4.2,
-   "ref": "https://github.com/STMicroelectronics/st-mems-android-linux-sensors-hal/commit/7bdf334e2dcb942f1bc0695d18b97029bf5b2da5"
-  },
-  "title_vi": "",
-  "key": "47c4f0381bbfca15cdb39cbc7906f4e9675ed192"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-123012 — In Gogs 0",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123012",
-  "published": "2026-11-05T05:18:36.790",
-  "summary": "In Gogs 0.14.3, the Git Smart HTTP authorization layer in internal/route/repo/http.go allows a push when only read access was intended, a different vulnerability than CVE-2026-52810. This occurs because of inconsistency about whether a verb is checked in a case-sensitive manner.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-123012",
-   "cvss": null,
-   "ref": "https://github.com/gogs/gogs/blob/3ba8aca90e17e5410b7e8b227c9f29256ac3e875/internal/route/repo/http.go#L415-L418"
-  },
-  "title_vi": "",
-  "key": "887d5bcfc955e53eed86e9287aea41a0d02209a9"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-93389 — The LiteSpeed Cache plugin for WordPress is vulnerable to unauthenticated disclosure of sensitive WooCommerce customer data in all versions up to, and",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-93389",
-  "published": "2026-11-05T05:18:40.127",
-  "summary": "The LiteSpeed Cache plugin for WordPress is vulnerable to unauthenticated disclosure of sensitive WooCommerce customer data in all versions up to, and including, 7.9.1 With Cache REST enabled (the shipped default cache-rest=1), LiteSpeed stores WooCommerce Store API GET responses (/wc/store/v1/cart and /wc/store/v1/checkout) as PUBLIC cache objects and does not vary the cache on the Cart-Token or WooCommerce session. A shopper's personalized cart/checkout response is therefore served to any later, cookie-less and token-less client as an LSCache HIT. This makes it possible for unauthenticated a",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-93389",
-   "cvss": 8.2,
-   "ref": "https://plugins.trac.wordpress.org/changeset/3757253/litespeed-cache/trunk/src/control.cls.php"
-  },
-  "title_vi": "",
-  "key": "07027829591a2943d9cdef9c10c2b0a2c2e6769b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2025-15701 — The Easy Social Icons WordPress plugin before 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-15701",
-  "published": "2026-11-05T06:17:04.997",
-  "summary": "The Easy Social Icons WordPress plugin before 4.0.3 does not sanitise and escape some of its settings before outputting them on front-end pages, which could allow high-privilege users such as Administrators to perform Stored Cross-Site Scripting attacks when the unfiltered_html capability is disallowed, for example on a multisite network.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2025-15701",
-   "cvss": null,
-   "ref": "https://wpscan.com/vulnerability/32a2349b-515e-4616-ab53-a7a536ade5a7/"
-  },
-  "title_vi": "",
-  "key": "bc3b484f81ba6008f9515bb9dbda0aae24351a35"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2025-15702 — The Cloud Blocks WordPress plugin through 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-15702",
-  "published": "2026-11-05T06:17:06.507",
-  "summary": "The Cloud Blocks WordPress plugin through 1.1.8 does not perform any authorisation or sanitisation when storing block asset URLs, allowing unauthenticated users to store malicious scripts that are executed in the browser of any privileged user, such as an administrator, who opens the block editor.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2025-15702",
-   "cvss": null,
-   "ref": "https://wpscan.com/vulnerability/586f975b-1448-4ff5-b030-aa7bcdd45318/"
-  },
-  "title_vi": "",
-  "key": "7f38a092211691a2ca3b372d3efa5cca28d17484"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-100144 — The IVPAY payments WordPress plugin through 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100144",
-  "published": "2026-11-05T06:17:06.640",
-  "summary": "The IVPAY payments WordPress plugin through 1.0.8 does not sanitise a value from its payment callback before using it in a SQL statement, and treats an empty API key, which is its own default, as valid authentication, allowing unauthenticated attackers to read arbitrary data from the database.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-100144",
-   "cvss": null,
-   "ref": "https://wpscan.com/vulnerability/d90db791-2223-480b-8d2f-b84170318fc4/"
-  },
-  "title_vi": "",
-  "key": "d4178eb563f29ba7b1c85efcc569298292b4e1e5"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-105259 — The Easy Social Icons WordPress plugin before 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-105259",
-  "published": "2026-11-05T06:17:06.760",
-  "summary": "The Easy Social Icons WordPress plugin before 4.0.3 does not sanitise SVG files, which it adds to the list of file types that may be uploaded site-wide, allowing users with the Author role and above to upload a malicious SVG containing XSS payloads. Where another installed Easy Social Icons WordPress plugin before 4.0.3 exposes an upload route to unauthenticated visitors, the same issue can be triggered without an account.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-105259",
-   "cvss": null,
-   "ref": "https://wpscan.com/vulnerability/51f5716b-b338-497f-a52a-c76a039e01e8/"
-  },
-  "title_vi": "",
-  "key": "d0ba224e2bcd8f7deb80463af59f386b317ab39b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-105971 — The Car Dealer (Dealership) and Vehicle sales WordPress plugin through 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-105971",
-  "published": "2026-11-05T06:17:06.880",
-  "summary": "The Car Dealer (Dealership) and Vehicle sales WordPress plugin through 4.73 does not restrict its unauthenticated single-listing AJAX action to published content, allowing an unauthenticated attacker to read the title, content and metadata of any private, draft, pending, future or trashed post by supplying its numeric id.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-105971",
-   "cvss": null,
-   "ref": "https://wpscan.com/vulnerability/fd2f5dbc-3a93-47d0-8941-3147e85d5d16/"
-  },
-  "title_vi": "",
-  "key": "fd4c2a74832166031d1166f6d687e7cac3d93ad8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-107773 — The Dokan: AI Powered WooCommerce Multivendor Marketplace Solution WordPress plugin before 5",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-107773",
-  "published": "2026-11-05T06:17:06.990",
-  "summary": "The Dokan: AI Powered WooCommerce Multivendor Marketplace Solution  WordPress plugin before 5.3.3 does not correctly verify authorization when serving a single order and its order notes, allowing unauthenticated attackers to read customer and order information and to add or delete order notes for a subset of orders.",
-  "categories": [
-   "ai",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-107773",
-   "cvss": null,
-   "ref": "https://wpscan.com/vulnerability/7ef1f47f-60d2-41f0-afca-584752503fae/"
-  },
-  "title_vi": "",
-  "key": "73766c94fc3e778cb988204d39817d03695b2d97"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-107774 — The Dokan: AI Powered WooCommerce Multivendor Marketplace Solution WordPress plugin before 5",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-107774",
-  "published": "2026-11-05T06:17:07.107",
-  "summary": "The Dokan: AI Powered WooCommerce Multivendor Marketplace Solution  WordPress plugin before 5.3.3 does not use a trusted site-owned sender address when relaying its store contact form, instead placing the unauthenticated submitter's supplied address directly in the message's From header rather than a Reply-To, allowing unauthenticated attackers to make the site email its own vendors with the sender spoofed to an address at the site's own domain (such as its administrator), aligned with the domain's own SPF/DKIM.",
-  "categories": [
-   "ai",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-107774",
-   "cvss": null,
-   "ref": "https://wpscan.com/vulnerability/1d1d7ba1-9c69-47b2-beb4-ed02066cb02b/"
-  },
-  "title_vi": "",
-  "key": "262e4917117a5ec82e7fc48c0297cf1dd3e862a0"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-107775 — The Dokan: AI Powered WooCommerce Multivendor Marketplace Solution WordPress plugin before 5",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-107775",
-  "published": "2026-11-05T06:17:07.227",
-  "summary": "The Dokan: AI Powered WooCommerce Multivendor Marketplace Solution  WordPress plugin before 5.3.3 does not verify that the acting administrator is authorized to manage each selected user before enabling that user's marketplace seller status, allowing a subsite Administrator on WordPress Multisite to enable selling for users outside their own site, including network-level users they cannot otherwise manage.",
-  "categories": [
-   "ai",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-107775",
-   "cvss": null,
-   "ref": "https://wpscan.com/vulnerability/7a1d3c6c-fb78-41cc-85bb-4d86ac1ca3df/"
-  },
-  "title_vi": "",
-  "key": "119e341282033dd3568f3527a8ca8635b7765bc3"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-107786 — The CatFolders WordPress plugin before 2",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-107786",
-  "published": "2026-11-05T06:17:07.343",
-  "summary": "The CatFolders  WordPress plugin before 2.5.7 does not properly sanitize and escape a user-controlled sort setting before using it in a SQL query, allowing authenticated users with upload capability (Author and above) to perform SQL injection attacks.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-107786",
-   "cvss": null,
-   "ref": "https://wpscan.com/vulnerability/6f6bdea1-b848-4deb-aac4-7e04bfcb2d87/"
-  },
-  "title_vi": "",
-  "key": "c733b7692e00f37f467b2d32e52ac707933d9706"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-107787 — The CatFolders WordPress plugin before 2",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-107787",
-  "published": "2026-11-05T06:17:07.460",
-  "summary": "The CatFolders  WordPress plugin before 2.5.7 does not have authorisation checks on a folder maintenance action, allowing users with a role as low as subscriber to reset the per-user ownership of every media folder and disable the CatFolders  WordPress plugin before 2.5.7's user restriction setting.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-107787",
-   "cvss": null,
-   "ref": "https://wpscan.com/vulnerability/cc0fd80d-3fd0-489c-985f-33fcca429486/"
-  },
-  "title_vi": "",
-  "key": "f2ccd23b0abb75321708571413ebfffdb09dc118"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-109150 — The WP PageNavi Style WordPress plugin through 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-109150",
-  "published": "2026-11-05T06:17:07.577",
-  "summary": "The WP PageNavi Style WordPress plugin through 1.4 does not sanitise and escape some of its settings, and has no CSRF check when they are saved, which could allow attackers to make a logged-in administrator store arbitrary JavaScript via a CSRF attack that is then executed in the browser of everyone who visits the site's front end.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-109150",
-   "cvss": null,
-   "ref": "https://wpscan.com/vulnerability/10a889d8-9e15-42b9-a001-622e97ab5d06/"
-  },
-  "title_vi": "",
-  "key": "d1baa3250e5bf43d83170b8974603d616027a408"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-123014 — iTerm2 before 3",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123014",
-  "published": "2026-11-05T06:17:07.707",
-  "summary": "iTerm2 before 3.7.7beta2 has an argument injection vulnerability in the x-man-page: URL handler, allowing an attacker to execute arbitrary commands with the privileges of the logged-in user by inducing the user to open a crafted URL in iTerm2. Percent-encoded NUL characters survive input sanitization and are subsequently converted to whitespace during command-line parsing, allowing injection of additional arguments to /usr/bin/man. An attacker can inject the -P option to select an attacker-controlled pager command. NOTE: this issue exists because of an incomplete fix for CVE-2023-46321.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-123014",
-   "cvss": null,
-   "ref": "https://gitlab.com/gnachman/iterm2/-/commit/314ba43920dbce08808c032e89966918090bdf8e"
-  },
-  "title_vi": "",
-  "key": "69e04c5959c62d6420538a22ba373dd88a838c9d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-16304 — The WP Event Manager WordPress plugin before 3",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-16304",
-  "published": "2026-11-05T06:17:08.120",
-  "summary": "The WP Event Manager  WordPress plugin before 3.4.2 does not properly validate ownership or the type of the user-supplied post identifiers processed by one of its frontend forms, allowing any user with a Subscriber account or above to reassign the authorship of arbitrary posts to themselves and to force them to be published. This results in content takeover and in the public disclosure of otherwise private or draft content, and requires the relevant frontend feature to be enabled.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-16304",
-   "cvss": null,
-   "ref": "https://wpscan.com/vulnerability/53d611e2-4ca6-4117-bc33-040488c19a72/"
-  },
-  "title_vi": "",
-  "key": "919c21d584d2a000ff6bed304706e8c446f5a57f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-19256 — The All In One Login WordPress plugin before 2",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19256",
-  "published": "2026-11-05T06:17:08.240",
-  "summary": "The All In One Login WordPress plugin before 2.5.0 does not adequately restrict the number of attempts that can be made against the short numeric code used by its default-enabled passwordless email login, and does not feed those failed attempts into its own brute-force protection, allowing unauthenticated attackers to take over any account including administrators.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-19256",
-   "cvss": null,
-   "ref": "https://wpscan.com/vulnerability/576162c1-324f-4618-b167-c05e37f50c74/"
-  },
-  "title_vi": "",
-  "key": "0497d83e10f89ee0c39d6b96437dcc7e2e7fa372"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-85346 — The FV Flowplayer Video Player WordPress plugin before 7",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85346",
-  "published": "2026-11-05T06:17:08.603",
-  "summary": "The FV Flowplayer Video Player WordPress plugin before 7.5.56.7212 does not perform authorization or CSRF checks on several of its cloud storage media browser handlers, allowing any authenticated user with minimal permissions (such as Subscriber) to disclose the configuration and stored file listings of the site's connected cloud storage accounts.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-85346",
-   "cvss": null,
-   "ref": "https://wpscan.com/vulnerability/b0167fea-fdce-4016-bb0f-329e0237f6d7/"
-  },
-  "title_vi": "",
-  "key": "790e23e78c6353c829986d95cbff57e368c6f3c4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-85347 — The FV Flowplayer Video Player WordPress plugin before 7",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85347",
-  "published": "2026-11-05T06:17:08.720",
-  "summary": "The FV Flowplayer Video Player WordPress plugin before 7.5.56.7212 does not sanitize and escape a user-supplied value before outputting it in a page, which could allow users with the Contributor role and above to inject arbitrary web scripts that execute when a higher-privileged user views the affected page.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-85347",
-   "cvss": null,
-   "ref": "https://wpscan.com/vulnerability/96c74e92-ed40-4efe-8a25-5e662b072eda/"
-  },
-  "title_vi": "",
-  "key": "edb2b627fddf1ae05e68856a58331d51457a7399"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-85351 — The FV Flowplayer Video Player WordPress plugin before 7",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85351",
-  "published": "2026-11-05T06:17:08.833",
-  "summary": "The FV Flowplayer Video Player WordPress plugin before 7.5.56.7212 does not validate a user-supplied URL before performing a server-side fetch whose response body is stored and served publicly, allowing users with Contributor-level access and above to perform Server-Side Request Forgery (SSRF) attacks and to read the response of an internal resource when it is returned with an image content type.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-85351",
-   "cvss": null,
-   "ref": "https://wpscan.com/vulnerability/8e88b99b-66db-4ee5-a45a-33fed58ebc4f/"
-  },
-  "title_vi": "",
-  "key": "3e41e4ee7a85acb3d39cfe1e53af06f7975d279f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-85570 — The Tutor LMS WordPress plugin before 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-85570",
-  "published": "2026-11-05T06:17:08.937",
-  "summary": "The Tutor LMS  WordPress plugin before 4.2.0 does not prevent the correct answers to quiz questions from being included in the page it serves to the student taking the quiz, and does so regardless of the setting intended to control whether answers are revealed, allowing any enrolled student to obtain them before submitting their attempt.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-85570",
-   "cvss": null,
-   "ref": "https://wpscan.com/vulnerability/797ac2aa-50f8-4abd-8ec0-96254b1fe13c/"
-  },
-  "title_vi": "",
-  "key": "4beb7b57907456eff418e7cca1eb5a68bf8dbd5b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-86442 — The WP Event Manager WordPress plugin before 3",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86442",
-  "published": "2026-11-05T06:17:09.057",
-  "summary": "The WP Event Manager  WordPress plugin before 3.4.2 does not verify the ownership or the post type of a user supplied post identifier in its front-end event submission flow, allowing unauthenticated attackers to read and overwrite the content of arbitrary unpublished posts and pages, and to convert them into events.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-86442",
-   "cvss": null,
-   "ref": "https://wpscan.com/vulnerability/bcc4df7e-86a0-4614-9b3a-8629f6335b8a/"
-  },
-  "title_vi": "",
-  "key": "d3e33e91b4f5be6575865ff6572fdf17bfaf3bcf"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-86795 — The Community Events WordPress plugin before 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-86795",
-  "published": "2026-11-05T06:17:09.193",
-  "summary": "The Community Events WordPress plugin before 1.6.0 does not have authorisation or nonce checks in one of its AJAX actions, allowing unauthenticated users to retrieve details of event submissions awaiting moderation, which are not available anywhere on the public site.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-86795",
-   "cvss": null,
-   "ref": "https://wpscan.com/vulnerability/ab9ca7bc-e5a0-4a7b-b60b-4c3740c07214/"
-  },
-  "title_vi": "",
-  "key": "dc7d771bc1366dad9fad70178ef942e91918bc89"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-87856 — The Subscriptions for WooCommerce WordPress plugin before 2",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-87856",
-  "published": "2026-11-05T06:17:09.367",
-  "summary": "The Subscriptions for WooCommerce WordPress plugin before 2.1.1 only enforces its membership content restrictions on standard front-end page views, allowing unauthenticated users to read the full contents of restricted posts and pages through other routes that render the same content.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-87856",
-   "cvss": null,
-   "ref": "https://wpscan.com/vulnerability/cbb00245-1e9b-4311-a4d0-ae80488e82d0/"
-  },
-  "title_vi": "",
-  "key": "83124375131cdda1510434e389339e926611fa16"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-88814 — The YITH WooCommerce Gift Cards WordPress plugin before 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-88814",
-  "published": "2026-11-05T06:17:09.590",
-  "summary": "The YITH WooCommerce Gift Cards WordPress plugin before 4.38.1 does not lock or atomically update a gift card's balance when it is redeemed at checkout, allowing an attacker who holds a gift card code to spend more than its funded value by submitting multiple checkouts for the same code at the same time.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-88814",
-   "cvss": null,
-   "ref": "https://wpscan.com/vulnerability/f30bd830-2fce-4644-b483-406b0770017b/"
-  },
-  "title_vi": "",
-  "key": "141ad071fe51ccb0a25a41016bcfbf2f88573d2e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90963 — The Essential Real Estate WordPress plugin before 5",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90963",
-  "published": "2026-11-05T06:17:09.717",
-  "summary": "The Essential Real Estate WordPress plugin before 5.3.5 does not perform any authorization or publication-status check in one of its AJAX actions, allowing unauthenticated users to read the full contents of property listings that have not been published, together with the private name, email address, phone number and office address of the listing agent.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90963",
-   "cvss": null,
-   "ref": "https://wpscan.com/vulnerability/48bbf85d-ee0f-4195-8a5f-149c7bbf2758/"
-  },
-  "title_vi": "",
-  "key": "2f50d9f2150faa8b22f88515efd63cae4ae2dc37"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90964 — The Essential Real Estate WordPress plugin before 5",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90964",
-  "published": "2026-11-05T06:17:09.853",
-  "summary": "The Essential Real Estate WordPress plugin before 5.3.5 does not restrict the recipient of one of its contact email actions, allowing unauthenticated users to send emails to arbitrary addresses with an attacker-controlled sender header and message body through the site.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90964",
-   "cvss": null,
-   "ref": "https://wpscan.com/vulnerability/851b3747-823c-4f38-a449-117acf4b6435/"
-  },
-  "title_vi": "",
-  "key": "a7d7d455068f24da7b835fbb9b4dca25ad8d203c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90965 — The Essential Real Estate WordPress plugin before 5",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90965",
-  "published": "2026-11-05T06:17:09.977",
-  "summary": "The Essential Real Estate WordPress plugin before 5.3.5 does not perform a publication-status or authorization check in two of its AJAX actions, allowing unauthenticated users to retrieve the images attached to property listings that have not been published.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90965",
-   "cvss": null,
-   "ref": "https://wpscan.com/vulnerability/d53035c9-0f84-4c86-8c0e-fe2bca2d0a4d/"
-  },
-  "title_vi": "",
-  "key": "01af17370d987663b151e645eb655757f845c57f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90966 — The Essential Real Estate WordPress plugin before 5",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90966",
-  "published": "2026-11-05T06:17:10.087",
-  "summary": "The Essential Real Estate WordPress plugin before 5.3.5 does not verify, in one of its AJAX actions, that a listing package selected for free activation is genuinely free or that the requesting user is entitled to it, allowing a self-registered customer to activate a paid package without payment and cause the site to record a paid invoice at the package's full price.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90966",
-   "cvss": null,
-   "ref": "https://wpscan.com/vulnerability/445a0351-d452-412e-8145-d427e10e0948/"
-  },
-  "title_vi": "",
-  "key": "a132706d56b20f8997c25714e9e04f8998c8be0b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-90967 — The Essential Real Estate WordPress plugin before 5",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90967",
-  "published": "2026-11-05T06:17:10.203",
-  "summary": "The Essential Real Estate WordPress plugin before 5.3.5 does not verify ownership of an invoice before rendering it in one of its AJAX actions, allowing an authenticated low-privileged user to read other users' invoices, including the invoice owner's name, account email address and financial details.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-90967",
-   "cvss": null,
-   "ref": "https://wpscan.com/vulnerability/745cf24b-2dbd-41ea-b26d-d1c6f0a25de9/"
-  },
-  "title_vi": "",
-  "key": "dbc4f35c60639d9f0fab92acc19dfb379696fef4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-91049 — The EWWW Image Optimizer WordPress plugin before 8",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-91049",
-  "published": "2026-11-05T06:17:10.317",
-  "summary": "The EWWW Image Optimizer WordPress plugin before 8.9.1 does not properly sanitize and restrict a value in post content before using it to dynamically load and execute a script in the page, allowing authenticated attackers with author-level access and above to inject arbitrary web scripts that run in the session of any user who views the affected page, including administrators.\n\nThis is an incomplete fix of CVE-2026-15446: the origin and path restrictions added from 8.7.4 onward were each bypassable, so versions 8.7.4 through 8.9.0 remain affected.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-91049",
-   "cvss": null,
-   "ref": "https://wpscan.com/vulnerability/cdaf3779-3e8a-4997-9868-707bcc06f9a7/"
-  },
-  "title_vi": "",
-  "key": "9044d1513c4dd26cdbd1de49a107e2ba96358801"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-123017 — GodotSteam 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123017",
-  "published": "2026-11-05T07:17:24.450",
-  "summary": "GodotSteam 4.17 through 4.23.2 trusts the peer value of 1 to mean that a player is the server. A grant_gold(1000000) call can be forged.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-123017",
-   "cvss": 6.5,
-   "ref": "https://axeghost.offprint.app/a/3mzhxoqpnh423-any-networked-co-player-can-act-as-the-server-in-a-godotsteam-game"
-  },
-  "title_vi": "",
-  "key": "82ee42c49acfea3db502e36ec076d4fc6f4f7b7d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-123025 — An OS Command Injection vulnerability was discovered in the Google Cloud DNS validation module of the OPNsense os-acme-client plugin through 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123025",
-  "published": "2026-11-05T07:17:25.897",
-  "summary": "An OS Command Injection vulnerability was discovered in the Google Cloud DNS validation module of the OPNsense os-acme-client plugin through 4.17. The DnsGcloud::prepare() method decodes the dns_gcloud_key model field and directly interpolates the string fields gcloud_account and gcloud_project into a shell command passed to proc_open() via LeUtils::run_shell_command() without any validation or escaping. A remote authenticated user with privileges to issue or renew certificates through the WebGUI/API can achieve arbitrary code execution as root.",
-  "categories": [
-   "cloud",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-123025",
-   "cvss": null,
-   "ref": "https://github.com/opnsense/plugins/pull/5873"
-  },
-  "title_vi": "",
-  "key": "29bee781d88136a194bc0dd226431a9d671932ae"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-123029 — Wowza Streaming Engine before 4",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123029",
-  "published": "2026-11-05T07:17:26.057",
-  "summary": "Wowza Streaming Engine before 4.12.2 processes XML external entities, which allows remote attackers to read local files with the privileges of the Wowza Streaming Engine process.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-123029",
-   "cvss": 7.5,
-   "ref": "https://www.wowza.com/docs/xxe-allows-reading-local-files"
-  },
-  "title_vi": "",
-  "key": "4fe37e6e53f173c1236f8319c761892952bc51e3"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-123033 — Authentication bypass in the HA heartbeat origin check in middlewared in TrueNAS SCALE before 25",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123033",
-  "published": "2026-11-05T07:17:26.207",
-  "summary": "Authentication bypass in the HA heartbeat origin check in middlewared in TrueNAS SCALE before 25.10.8 (and in release trains before their respective fixes) allows an attacker on the same network segment to achieve unauthenticated full-administrator API access and execute commands as root. middlewared registers the HA peer-authentication hook (ha_permission) unconditionally, with no failover-licence or heartbeat-interface check. An unauthenticated connection whose TCP peer address is a hardcoded HA heartbeat address (169.254.10.1 or 169.254.10.2) and whose peer port is <= 1024 is granted a node",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-123033",
-   "cvss": 8.3,
-   "ref": "https://security.truenas.com/scale/impact-statements/ha-node-auth-bypass/"
-  },
-  "title_vi": "",
-  "key": "ca56fc7424ce8323ad6ea9f261931ab14b6eb9c4"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-100109 — The Security For WooCommerce WordPress plugin from 1",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-100109",
-  "published": "2026-11-05T08:17:01.870",
-  "summary": "The Security For WooCommerce WordPress plugin from 1.0.10 to 1.0.16 does not perform capability checks when creating users through an action available to unauthenticated visitors, and lets the caller choose the new account's role, allowing unauthenticated attackers to create administrator accounts and take over the site.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-100109",
-   "cvss": 9.8,
-   "ref": "https://wpscan.com/vulnerability/b4d26eb3-ab32-456e-9f69-9ab300fdf44c/"
-  },
-  "title_vi": "",
-  "key": "4733d575c5c9b2ce72f53e36dcf1184f14dfd46c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-107776 — The Dokan WordPress plugin before 5",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-107776",
-  "published": "2026-11-05T08:17:03.300",
-  "summary": "The Dokan WordPress plugin before 5.3.3 does not reconcile the amount credited to a vendor's reverse-withdrawal ledger against the amount actually collected for the payment order, allowing a vendor to clear their outstanding commission debt while paying less than the balance owed when a discount coupon is applied at checkout.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-107776",
-   "cvss": 2.2,
-   "ref": "https://wpscan.com/vulnerability/e34bdc0e-0e33-4ffd-8edb-fef726259e04/"
-  },
-  "title_vi": "",
-  "key": "9c08468cf93ef337074fb7d5049b0cd767995f76"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-109408 — vault-java-driver, a Java client for HashiCorp Vault, silently disables TLS certificate and hostname verification in three states where the caller ask",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-109408",
-  "published": "2026-11-05T08:17:03.463",
-  "summary": "vault-java-driver, a Java client for HashiCorp Vault, silently disables TLS certificate and hostname verification in three states where the caller asked for verification: an SslConfig passed to VaultConfig without calling build(), an SslConfig restored by Java deserialization, and VAULT_SSL_VERIFY set to a truthy value other than \"true\", such as 1, yes or on. In each case SslConfig.isVerify() returns false and the driver installs a trust-all SSLContext. An attacker on the network path to the Vault server can then read the Vault token and secrets in transit and forge responses. This issue affec",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-109408",
-   "cvss": 7.4,
-   "ref": "https://github.com/jopenlibs/vault-java-driver/pull/78"
-  },
-  "title_vi": "",
-  "key": "3eecbe89f2847157a95fa8c856f6d60cc84885cf"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-112072 — vault-java-driver, a Java client for HashiCorp Vault, parses Vault's JSON responses with a vendored minimal-json parser that has no nesting depth limi",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-112072",
-  "published": "2026-11-05T08:17:03.663",
-  "summary": "vault-java-driver, a Java client for HashiCorp Vault, parses Vault's JSON responses with a vendored minimal-json parser that has no nesting depth limit. A deeply nested value raises a StackOverflowError, which escapes catch (Exception) handlers and kills the reading thread. A Vault token that can write but not read a KV v2 path can store such a value there, so every later read of that path through the driver fails. This requires Vault 1.19.x or earlier, because 1.20 and later reject values nested deeper than 298 levels. This issue affects io.github.jopenlibs:vault-java-driver 5.2.0 through 6.2",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-112072",
-   "cvss": 6.5,
-   "ref": "https://github.com/jopenlibs/vault-java-driver/pull/81"
-  },
-  "title_vi": "",
-  "key": "9e6bf4b395d44394823d9c1cc4820fd529f44d32"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-117679 — A cross-site scripting vulnerability exists in SHIRASAGI, which may allow an authenticated attacker to execute arbitrary script in a user's web browse",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-117679",
-  "published": "2026-11-05T09:17:04.953",
-  "summary": "A cross-site scripting vulnerability exists in SHIRASAGI, which may allow an authenticated attacker to execute arbitrary script in a user's web browser when the user accesses a website using the affected product.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-117679",
-   "cvss": 5.4,
-   "ref": "https://jvn.jp/en/jp/JVN55454512/"
-  },
-  "title_vi": "",
-  "key": "490e713c54f28e27ac1c580713e76cdc5dc7b556"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-118869 — An OS command injection vulnerability exists in SHIRASAGI, which may allow an authenticated attacker to execute arbitrary OS commands on the system ru",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-118869",
-  "published": "2026-11-05T09:17:05.143",
-  "summary": "An OS command injection vulnerability exists in SHIRASAGI, which may allow an authenticated attacker to execute arbitrary OS commands on the system running the product.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-118869",
-   "cvss": 8.8,
-   "ref": "https://jvn.jp/en/jp/JVN55454512/"
-  },
-  "title_vi": "",
-  "key": "e7ff0874ccc4cd513eb9db4c75c22b24525b9ee5"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-123036 — A flaw was found in ansible-core",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123036",
-  "published": "2026-11-05T10:16:38.220",
-  "summary": "A flaw was found in ansible-core. When a task marked `no_log: true` fails, the task result is censored before being emitted, but the `exception` field is retained because it is present in the PRESERVE allow-list in lib/ansible/_internal/_task.py, and the default stdout callback prints it through CallbackBase._handle_exception. As a result, sensitive values the operator explicitly asked to hide can be disclosed: module argument-validation errors echo the argument value, templating errors print an Origin source snippet (the failing line plus the two preceding lines of the variables file, exposin",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-123036",
-   "cvss": 5.5,
-   "ref": "https://access.redhat.com/security/cve/CVE-2026-123036"
-  },
-  "title_vi": "",
-  "key": "c11e8b12b2d37d52f7fae22dc1b0cbf874b3e254"
- },
- {
-  "source": "Znews Công nghệ",
-  "title": "AI bất ngờ chỉ ra người tạo Bitcoin",
-  "link": "https://znews.vn/ai-bat-ngo-chi-ra-nguoi-tao-bitcoin-post1694146.html",
-  "published": "2026-11-04T23:10:22+00:00",
-  "summary": "Một cái tên không quá nổi bật trong danh sách \"ứng cử viên Satoshi\", bị tác giả bỏ qua một thời gian dài, bất ngờ được AI xác định có khả năng là cha đẻ Bitcoin.",
-  "categories": [
-   "ai",
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "72a93490d32913777641e4ecbbf9348e7b7ef442"
- },
- {
-  "source": "VnExpress Số hóa",
-  "title": "Niềm tin tiền số lung lay sau vụ Binance bị hack 6,3 tỷ USD",
-  "link": "https://vnexpress.net/niem-tin-tien-so-lung-lay-sau-vu-binance-bi-hack-6-3-ty-usd-5140493.html",
-  "published": "2026-11-04T22:00:00+00:00",
-  "summary": "Việc Binance và nhiều sàn tiền số bị tấn công trước đó đang khiến lĩnh vực này đứng trước sự nghi ngờ về mức độ an toàn.",
-  "categories": [
-   "vietnamese"
-  ],
-  "lang": "vi",
-  "extra": {},
-  "title_vi": "",
-  "key": "117b9965f90cef856ad2ac85ea46e0819ecf3859"
- },
- {
-  "source": "Cloud Security Alliance",
-  "title": "7 DNS Security Lessons from the CubePilot Hijacking",
-  "link": "https://cloudsecurityalliance.org/articles/7-dns-security-lessons-from-the-cubepilot-hijacking",
-  "published": "2026-10-21T20:50:24+00:00",
-  "summary": "&nbsp; Executive Summary The July 2026 DNS hijacking of drone technology company CubePilot demonstrates how control of DNS can become a direct pathway to traffic interception, credential exposure, and operational disruption. The incident is a reminder that DNS is not simply an infrastructure service—it is a security boundary. In this blog, we examine seven lessons security teams should take from the attack. &nbsp; 1. DNS Is an Attack Surface, Not Just a Network Service DNS is often ...",
-  "categories": [
-   "cloud"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "81d561170c470ae45bb1353e7244e8c7f9e81299"
- },
- {
-  "source": "OpenAI News",
-  "title": "A thousand fewer paths to root",
-  "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-  "published": "2026-11-04T08:00:00+00:00",
-  "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-  "categories": [
-   "ai"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "50646b354a45ed675176030b4b26631e4a23964e"
- },
- {
-  "source": "OpenAI News",
-  "title": "Introducing Images 2.6",
-  "link": "https://openai.com/index/introducing-images-2-6",
-  "published": "2026-11-04T00:00:00+00:00",
-  "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
-  "categories": [
-   "ai"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "7a6aa3b63c897647b52d7f8dbba3a3d5725a11dd"
- },
- {
-  "source": "OpenAI News",
-  "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-  "link": "https://openai.com/index/devrev-enterprise-self-service",
-  "published": "2026-11-04T00:00:00+00:00",
-  "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-  "categories": [
-   "ai"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "8a6b31191f348c596a01b3d4bf930b6bc8017001"
- },
- {
-  "source": "OpenAI News",
-  "title": "An updated Model Spec for more capable and beneficial AI",
-  "link": "https://openai.com/index/updated-model-spec",
-  "published": "2026-10-29T17:00:00+00:00",
-  "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-  "categories": [
-   "ai"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "afb31eeab153ad10f65849e29dc3847a91a38f12"
- },
- {
-  "source": "OpenAI News",
-  "title": "How we detect frontier model misalignment",
-  "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-  "published": "2026-10-29T09:00:00+00:00",
-  "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-  "categories": [
-   "ai"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "a508125cfb3b55c3d51b5e4d3f3c1d55dda1eea1"
- },
- {
-  "source": "OpenAI News",
-  "title": "How Ropes & Gray is developing AI for transactional diligence",
-  "link": "https://openai.com/index/ropes-gray-ai-diligence",
-  "published": "2026-10-29T07:00:00+00:00",
-  "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-  "categories": [
-   "ai"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "e3f57f269ad5e1cb331cf902343e26b79c32244f"
- },
- {
-  "source": "DataBreaches.net",
-  "title": "Lab 1 warns breach data now exposes thousands more firms",
-  "link": "https://databreaches.net/2026/11/04/lab-1-warns-breach-data-now-exposes-thousands-more-firms/",
-  "published": "2026-11-04T22:48:31+00:00",
-  "summary": "Mara Sugue reports: Lab 1 has published a report analysing 328 million files from 2,089 datasets exposed after cyber attacks. It found that the median breach now exposes data linked to 542 organisations beyond the named victim. The study also found that 13,436 unique organisations were exposed through incidents recorded between 2025 and 2026, underlining...",
-  "categories": [
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "3aeee9daa707a381a566f4687b4c406db8068080"
- },
- {
-  "source": "DataBreaches.net",
-  "title": "Student Data Breach Affects Up to 16 Icelandic Schools",
-  "link": "https://databreaches.net/2026/11/04/student-data-breach-affects-up-to-16-icelandic-schools/",
-  "published": "2026-11-04T22:48:25+00:00",
-  "summary": "Iceland Review reports: A security breach affected Inna, the student-information system used by Icelandic upper-secondary schools. It allowed a student to attempt to alter other pupils’ grades and attendance records. Iceland’s Data Protection Authority has received three notifications, while schools and the system operator are still investigating what information may have been accessed. Schools discovered...",
-  "categories": [
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "2fe8c27acd0c08b9c5ad94e6141968c9fbc36086"
- },
- {
-  "source": "Talos Blog",
-  "title": "A quiet week in infosec <.<",
-  "link": "https://blog.talosintelligence.com/a-quiet-week-in-infosec/",
-  "published": "2026-10-29T18:00:00+00:00",
-  "summary": "In this edition of the Threat Source newsletter, William explores how PHP has taken over the conversation, Node.js has joined in, but underneath it all, there are still good people doing good work.",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "f80824f0f0df8f307250790fcb2caabf965e5637"
- },
- {
-  "source": "DarkReading",
-  "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
-  "link": "https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers",
-  "published": "2026-11-04T21:48:18+00:00",
-  "summary": "An attacker could write arbitrary files and read sensitive files via images uploaded to the Rails Active Storage ImageMagick integration, possibly positioning a threat actor for lateral movement.",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "fc69ce2f5d1d854bb3208e41022887c80e9d5bdb"
- },
- {
-  "source": "DarkReading",
-  "title": "Claude Model Builds Exploits Across Major Browsers &amp; OSes",
-  "link": "https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses",
-  "published": "2026-10-29T18:15:59+00:00",
-  "summary": "An unreleased version of the AI model has found and chained multiple vulnerabilities in Chrome, Safari, Android, Windows, and Linux, Anthropic says.",
-  "categories": [
-   "ai"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "fea6ccdfea1865e20844201779401e5eef2f8f48"
- },
- {
-  "source": "DarkReading",
-  "title": "Threat Modeling With 4 Simple Questions on a White Board",
-  "link": "https://www.darkreading.com/cyber-risk/threat-modeling-4-simple-questions",
-  "published": "2026-10-29T15:44:04+00:00",
-  "summary": "A four-question exercise that CISOs can use to create a threat model that promises results, without a big spend.",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "cbb28c2c082c2ed55c55eef6e6aedfef65186ab3"
- },
- {
-  "source": "The Record",
-  "title": "More Asian airlines announce data breaches after attack on Spanish IT provider Amadeus",
-  "link": "https://therecord.media/asian-airlines-announce-data-breach-it-provider-incident",
-  "published": "2026-11-04T21:30:00+00:00",
-  "summary": "Japan Airlines, Cathay Pacific, Korean Air, Asiana Airlines, Singapore Airlines and Malaysia Airlines have all come forward over the last week to report data breaches traced back to Amadeus IT Group — a company that builds and maintains platforms for flight reservation, ticketing and check-in platforms.",
-  "categories": [
-   "breach"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "53b58d3d791ecab1b8684eaae5cb037a0f90b5c4"
- },
- {
-  "source": "The Record",
-  "title": "Canadian extradited to US for allegedly hacking schools in at least four states",
-  "link": "https://therecord.media/canadian-nationals-accused-us-education-hacks-cryptomining",
-  "published": "2026-11-04T19:17:00+00:00",
-  "summary": "The Department of Justice said it identified two suspects in a case that dates back to 2016 and involved illicit cryptomining on the computers of U.S. educational institutions.",
-  "categories": [
-   "general"
-  ],
-  "lang": "en",
-  "extra": {},
-  "title_vi": "",
-  "key": "066559628d2fc0484214afa6757198c554ce6c68"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2024-27834 — Apple Multiple Products Improper Authentication Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-27834",
-  "published": "2026-11-04",
-  "summary": "Apple iOS, iPadOS, macOS, Safari, tvOS and watchOS 10.5 contain an improper authentication vulnerability which could allow an attacker with arbitrary read and write capability to bypass pointer authentication.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2024-27834",
-   "vendor": "Apple",
-   "product": "Multiple Products",
-   "due_date": "2026-11-18",
-   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
-  },
-  "title_vi": "",
-  "key": "30ac3f3d1c86953529880735d9283fc0ff29b0d7"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2026-97229 — GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-97229",
-  "published": "2026-10-29",
-  "summary": "GitLab Community Edition and Enterprise Edition contain a integer overflow or wraparound vulnerability that could allow an unauthenticated user to execute arbitrary code on the GitLab server via a specially crafted regular expression in a CI/CD configuration, due to insufficient regular expression validation.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-97229",
-   "vendor": "GitLab",
-   "product": "Community Edition and Enterprise Edition",
-   "due_date": "2026-11-01",
-   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
-  },
-  "title_vi": "",
-  "key": "9925216a30118e20886a10dd4c8e71050315f4c9"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2026-76418 — Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Dereference Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76418",
-  "published": "2026-10-29",
-  "summary": "Cisco Secure Firewall ASA Software and Cisco Secure FTD Software contains an unchecked return value to NULL pointer dereference vulnerability that could allow an unauthenticated, remote attacker to cause the device to reload unexpectedly, resulting in a denial of service (DoS) condition.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-76418",
-   "vendor": "Cisco",
-   "product": "Secure Firewall ASA Software and Cisco Secure FTD Software",
-   "due_date": "2026-11-01",
-   "required_action": "Apply mitigations in accordance with vendor instructions, ensuring compliance with CISA’s BOD 26-04 Prioritizing Security Updates Based on Risk (see URL in Notes) guidance and CISA’s “Forensics Triage Requirements” (see URL in Notes). Follow applicable BOD 26-04 guidance for cloud services or discontinue use of the product if mitigations are unavailable. Stakeholders are responsible for evaluating each asset's internet exposure and ensuring adherence to BOD 26-04 patching guidelines."
-  },
-  "title_vi": "",
-  "key": "f75cf32b827ef844ab1dc4b9c50ce23a718c2852"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2018-0159 — Cisco IOS and XE Software Internet Key Exchange Version 1 Denial-of-Service Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-0159",
-  "published": "2022-03-03",
-  "summary": "A vulnerability in the implementation of Internet Key Exchange Version 1 (IKEv1) functionality in Cisco IOS Software and Cisco IOS XE Software could allow an unauthenticated, remote attacker to cause an affected device to reload, resulting in a denial-of-service (DoS) condition.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2018-0159",
-   "vendor": "Cisco",
-   "product": "IOS Software and Cisco IOS XE Software",
-   "due_date": "2022-03-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "46b0489219af534992b2671c31198ab9dec04ba3"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2018-0158 — Cisco IOS and XE Software Internet Key Exchange Memory Leak Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-0158",
-  "published": "2022-03-03",
-  "summary": "A vulnerability in the implementation of Internet Key Exchange Version 1 (IKEv1) functionality in Cisco IOS Software and Cisco IOS XE Software could allow an unauthenticated, remote attacker to cause an affected device to reload, resulting in a denial-of-service (DoS) condition.",
-  "categories": [
-   "breach",
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2018-0158",
-   "vendor": "Cisco",
-   "product": "IOS Software and Cisco IOS XE Software",
-   "due_date": "2022-03-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "3460fbef04260f40f5255053490980af83457aed"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2018-0156 — Cisco IOS Software and Cisco IOS XE Software Smart Install Denial-of-Service Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-0156",
-  "published": "2022-03-03",
-  "summary": "A vulnerability in the Smart Install feature of Cisco IOS Software and Cisco IOS XE Software could allow an unauthenticated, remote attacker to trigger a reload of an affected device, resulting in a denial-of-service (DoS) condition.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2018-0156",
-   "vendor": "Cisco",
-   "product": "IOS Software and Cisco IOS XE Software",
-   "due_date": "2022-03-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "81076f423aa60acc77fd76417d7b861820e512d2"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2018-0155 — Cisco Catalyst Bidirectional Forwarding Detection Denial-of-Service Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-0155",
-  "published": "2022-03-03",
-  "summary": "A vulnerability in the Bidirectional Forwarding Detection (BFD) offload implementation of Cisco Catalyst 4500 Series Switches and Cisco Catalyst 4500-X Series Switches could allow an unauthenticated, remote attacker to cause a crash of the iosd process, causing a denial-of-service (DoS) condition.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2018-0155",
-   "vendor": "Cisco",
-   "product": "Catalyst 4500 Series Switches and Cisco Catalyst 4500-X Series Switches",
-   "due_date": "2022-03-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "4f1289c742716a81aa9ecc2dc0cc8e5ad70d7461"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2018-0154 — Cisco IOS Software Integrated Services Module for VPN Denial-of-Service Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-0154",
-  "published": "2022-03-03",
-  "summary": "A vulnerability in the crypto engine of the Cisco Integrated Services Module for VPN (ISM-VPN) running Cisco IOS Software could allow an unauthenticated, remote attacker to cause a denial-of-service (DoS) condition.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2018-0154",
-   "vendor": "Cisco",
-   "product": "IOS Software",
-   "due_date": "2022-03-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "fa73f451ec0034385276347a9f897c099d309d44"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2018-0151 — Cisco IOS Software and Cisco IOS XE Software Quality of Service Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-0151",
-  "published": "2022-03-03",
-  "summary": "A vulnerability in the quality of service (QoS) subsystem of Cisco IOS Software and Cisco IOS XE Software could allow an unauthenticated, remote attacker to cause a denial of service (DoS) condition or execute arbitrary code with elevated privileges.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2018-0151",
-   "vendor": "Cisco",
-   "product": "IOS and IOS XE Software",
-   "due_date": "2022-03-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "b59f46cd1285548c377f0da128307f520993d433"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2017-8540 — Microsoft Malware Protection Engine Improper Restriction of Operations Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-8540",
-  "published": "2022-03-03",
-  "summary": "The Microsoft Malware Protection Engine running on Microsoft Forefront and Microsoft Defender on Microsoft Windows Server 2008 SP2 and R2 SP1, Windows 7 SP1, Windows 8.1, Windows Server 2012 Gold and R2, Windows RT 8.1, Windows 10 Gold, 1511, 1607, and 1703, and Windows Server 2016, Microsoft Exchange Server 2013 and 2016, does not properly scan a specially crafted file leading to memory corruption. aka \"Microsoft Malware Protection Engine Remote Code Execution Vulnerability\".",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2017-8540",
-   "vendor": "Microsoft",
-   "product": "Malware Protection Engine",
-   "due_date": "2022-03-24",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "e677360b3d80200c95ce2eafdbe81c935041168b"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2017-6744 — Cisco IOS Software SNMP Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-6744",
-  "published": "2022-03-03",
-  "summary": "The Simple Network Management Protocol (SNMP) subsystem of Cisco IOS 1 contains a vulnerability that could allow an authenticated, remote attacker to remotely execute code on an affected system or cause an affected system to reload. An attacker could exploit these vulnerabilities by sending a crafted SNMP packet to an affected system via IPv4 or IPv6.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2017-6744",
-   "vendor": "Cisco",
-   "product": "IOS software",
-   "due_date": "2022-03-24",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "0cc13de4e4f43be8ad3bb3884aa831d13f7d9455"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2017-6743 — Cisco IOS and IOS XE Software SNMP Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-6743",
-  "published": "2022-03-03",
-  "summary": "The Simple Network Management Protocol (SNMP) subsystem of Cisco IOS and IOS XE contains a vulnerability that could allow an authenticated, remote attacker to remotely execute code.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2017-6743",
-   "vendor": "Cisco",
-   "product": "IOS and IOS XE Software",
-   "due_date": "2022-03-24",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "df079a0431090a3fa6ada6c7f17eeb4dbfaca9d7"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2017-6740 — Cisco IOS and IOS XE Software SNMP Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-6740",
-  "published": "2022-03-03",
-  "summary": "The Simple Network Management Protocol (SNMP) subsystem of Cisco IOS and IOS XE contains a vulnerability that could allow an authenticated, remote attacker to remotely execute code on an affected system or cause an affected system to reload.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2017-6740",
-   "vendor": "Cisco",
-   "product": "IOS and IOS XE Software",
-   "due_date": "2022-03-24",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "a4707dc91480a4f21c54b0c78b7e67525e1db0c3"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2017-6739 — Cisco IOS and IOS XE Software SNMP Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-6739",
-  "published": "2022-03-03",
-  "summary": "The Simple Network Management Protocol (SNMP) subsystem of Cisco IOS and IOS XE contains a vulnerability that could allow an authenticated, remote attacker to remotely execute code on an affected system or cause an affected system to reload.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2017-6739",
-   "vendor": "Cisco",
-   "product": "IOS and IOS XE Software",
-   "due_date": "2022-03-24",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "aec4da4647052cd595b399754eaaf4dcb5bb2e1a"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2017-6738 — Cisco IOS and IOS XE Software SNMP Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-6738",
-  "published": "2022-03-03",
-  "summary": "The Simple Network Management Protocol (SNMP) subsystem of Cisco IOS and IOS XE contains a vulnerability that could allow an authenticated, remote attacker to remotely execute code.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2017-6738",
-   "vendor": "Cisco",
-   "product": "IOS and IOS XE Software",
-   "due_date": "2022-03-24",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "4a430e3f06214026e3018026177eaf68e94e1fc1"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2017-6737 — Cisco IOS and IOS XE Software SNMP Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-6737",
-  "published": "2022-03-03",
-  "summary": "The Simple Network Management Protocol (SNMP) subsystem of Cisco IOS and IOS XE contains a vulnerability that could allow an authenticated, remote attacker to remotely execute code.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2017-6737",
-   "vendor": "Cisco",
-   "product": "IOS and IOS XE Software",
-   "due_date": "2022-03-24",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "0b8955eddc4fe05e246cf43e3413a09dfe374638"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2017-6736 — Cisco IOS and IOS XE Software SNMP Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-6736",
-  "published": "2022-03-03",
-  "summary": "The Simple Network Management Protocol (SNMP) subsystem of Cisco IOS and IOS XE contains a vulnerability that could allow an authenticated, remote attacker to remotely execute code.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2017-6736",
-   "vendor": "Cisco",
-   "product": "IOS and IOS XE Software",
-   "due_date": "2022-03-24",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "20981c2a1aa43de03ed3a9482abe9f6ba3ea46d0"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2017-6663 — Cisco IOS Software and Cisco IOS XE Software Denial-of-Service Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-6663",
-  "published": "2022-03-03",
-  "summary": "A vulnerability in the Autonomic Networking feature of Cisco IOS Software and Cisco IOS XE Software could allow an unauthenticated, adjacent attacker to cause autonomic nodes of an affected system to reload, resulting in denial-of-service (DoS).",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2017-6663",
-   "vendor": "Cisco",
-   "product": "IOS and IOS XE Software",
-   "due_date": "2022-03-24",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "912621dc4923c2fef6471223ca5c5969d017e566"
  }
 ]
