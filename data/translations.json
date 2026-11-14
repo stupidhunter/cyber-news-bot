@@ -22399,5 +22399,11 @@
  "d9f0de200eac845545a0b118112913cd280c001a": "CVE-2026-129264 — Một lỗ hổng bảo mật đã được phát hiện trong sox_ng lên tới 14",
  "4956ecc71161ccb05d8eae6d13412e5de1e8571b": "Kẻ tấn công khai thác lỗ hổng UnrealIRCd cho phép chèn lệnh cấp máy chủ",
  "6aa8d1593976649cce85284e4478a1056c3b3ce7": "AI có khiến chúng ta trở nên tồi tệ hơn về an ninh mạng không?",
- "5c94d09cbcbbd8866c4ae36472a1d294ff0e8704": "Vi phạm dữ liệu Uber: Giấy phép lái xe bị đánh cắp thông qua Fireworks AI"
+ "5c94d09cbcbbd8866c4ae36472a1d294ff0e8704": "Vi phạm dữ liệu Uber: Giấy phép lái xe bị đánh cắp thông qua Fireworks AI",
+ "0087f982f8da2ea8faebdac2ffdf73fbc9e283c1": "CVE-2026-129267 - Đã tìm thấy lỗ hổng trong sergix44 XBackBone lên tới 3",
+ "c8cb9db2df505c86ee8d8a3d5d20c28a70704e47": "CVE-2026-129447 — Kroki trước 0",
+ "1fe2e585db3602dbca3e8c7438154b819b63b42d": "CVE-2015-10149 — Phiên bản Dancer trước 1",
+ "8938cf858ced09666254159c4fbe8d83a875e7d7": "CVE-2026-129456 — Trong FRRouting, bgpd chấp nhận thuộc tính Đóng gói đường hầm (loại 23) có độ dài TLV bên ngoài không khớp với độ dài của thuộc tính: không khớp",
+ "5bc8d16757347900cd9fbb4187c2f306538a4354": "CVE-2026-129351 — Một lỗ hổng bảo mật đã được phát hiện trong TRENDnet TEW-657BRM 1",
+ "80f3c029d398bcf441aeb1e4f759970f97953a79": "CVE-2026-129352 — Một lỗ hổng được phát hiện trong TRENDnet TEW-657BRM 1"
 }
