@@ -1,6 +1,1703 @@
 [
  {
   "source": "VietnamPlus Kinh tế số",
+  "title": "SpaceX lần đầu thu hồi thành công tàu Starship từ quỹ đạo",
+  "link": "https://www.vietnamplus.vn/spacex-lan-dau-thu-hoi-thanh-cong-tau-starship-tu-quy-dao-post1148373.vnp",
+  "published": "2026-11-15T04:12:51+00:00",
+  "summary": "Tàu vũ trụ Starship của SpaceX vừa trở về thành công sau hơn 22 giờ hoạt động trên quỹ đạo, đánh dấu lần đầu tiên tầng trên của hệ thống tên lửa này được thu hồi bằng cánh tay cơ khí tại tháp phóng. SpaceX và Tesla xúc tiến thương vụ sáp nhập lớn nhất lịch sử SpaceX bắt tay Qualcomm xây mạng 5G toàn nước Mỹ SpaceX ký thỏa thuận tài chính 40 tỷ USD để mua chip phục vụ tham vọng AI",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "31ca2c8d1954e24900901cdbee0a9f2418c52d3b"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Hà Tĩnh: Thầy giáo 9X dùng AI truyền cảm hứng môn Toán cho học trò",
+  "link": "https://www.vietnamplus.vn/ha-tinh-thay-giao-9x-dung-ai-truyen-cam-hung-mon-toan-cho-hoc-tro-post1148362.vnp",
+  "published": "2026-11-15T02:48:02+00:00",
+  "summary": "Những cống hiến bền bỉ, thầm lặng và hiệu quả, thầy Trần Đức Quân đã vinh dự đón nhận danh hiệu Nhà giáo trẻ tiêu biểu cấp tỉnh và được Trung ương Đoàn vinh danh trong số 100 Nhà giáo trẻ tiêu biểu. Thầy giáo trẻ và hành trình đưa công nghệ 4.0 vào giảng đường nghề Phòng lab đặc biệt của thầy giáo Đại học Bách khoa Hà Nội Lớp học tình thương của thầy giáo quân hàm xanh",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "2bff1602c58c6cc1c1a74f27ddec005f9f531a04"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Binance từng bước khôi phục hoạt động sau vụ tấn công 6,3 tỷ USD",
+  "link": "https://www.vietnamplus.vn/binance-tung-buoc-khoi-phuc-hoat-dong-sau-vu-tan-cong-63-ty-usd-post1148350.vnp",
+  "published": "2026-11-15T01:04:23+00:00",
+  "summary": "Sau khi mở lại chức năng rút tiền trên 87 mạng lưới, Binance dự kiến khôi phục các mạng lưới và tài sản còn lại trước cuối tuần tới, sau vụ tấn công khiến 6,3 tỷ USD tài sản số bị đánh cắp. Giới chức Mỹ rà soát hệ thống ngân hàng sau vụ tấn công mạng nhằm vào Binance Binance công bố thủ đoạn đánh cắp 6,34 tỷ USD Sàn Binance bị hacker lừa phỏng vấn xin việc để đánh cắp 6,3 tỷ USD tiền mã hóa",
+  "categories": [
+   "breach",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "fddfff1e7c05e401a0536430eae39c5b1db5f911"
+ },
+ {
+  "source": "Thanh Niên Công nghệ",
+  "title": "Microsoft từ bỏ thỏa thuận AI với Oracle v&igrave; GPU Nvidia lỗi thời",
+  "link": "https://thanhnien.vn/microsoft-tu-bo-thoa-thuan-ai-voi-oracle-vi-gpu-nvidia-loi-thoi-185261115094042965.htm",
+  "published": "2026-11-15T03:59:00+00:00",
+  "summary": "Một thỏa thuận hạ tầng AI giữa Microsoft v&agrave; Oracle đang đi đến hồi kết khi c&aacute;c GPU Nvidia đời cũ kh&ocirc;ng c&ograve;n đ&aacute;p ứng y&ecirc;u cầu.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "15a08f32cb9cd645dba1932b7fb87ac7346d6e69"
+ },
+ {
+  "source": "GenK",
+  "title": "Thông báo quan trọng đến tất cả người dân khi mua bán xe",
+  "link": "https://genk.vn/thong-bao-quan-trong-den-tat-ca-nguoi-dan-khi-mua-ban-xe-165261115033224575.chn",
+  "published": "2026-11-15T04:44:26.267567+00:00",
+  "summary": "Công an phường Nam Đồ Sơn, thành phố Hải Phòng vừa cảnh báo thủ đoạn lừa đảo chiếm đoạt tài sản thông qua mua bán xe trên không gian mạng.",
+  "categories": [
+   "breach",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "a52f561394d15a073db278f0d9cb99a0b6917f0b"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-38003 — Google Chromium V8 Memory Corruption Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-38003",
+  "published": "2021-11-03",
+  "summary": "Google Chromium V8 Engine has a bug in JSON.stringify, where the internal TheHole value can leak to script code, causing memory corruption. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
+  "categories": [
+   "breach",
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-38003",
+   "vendor": "Google",
+   "product": "Chromium V8",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-38003 — Lỗ hổng hỏng bộ nhớ Google Chrome V8",
+  "key": "8f2aeb0c99d52aad869bbffb736528749235b4bd"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-21224 — Google Chromium V8 Type Confusion Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-21224",
+  "published": "2021-11-03",
+  "summary": "Google Chromium V8 Engine contains a type confusion vulnerability that allows a remote attacker to execute code inside a sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-21224",
+   "vendor": "Google",
+   "product": "Chromium V8",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-21224 — Lỗ hổng nhầm lẫn loại Google Chrome V8",
+  "key": "f0183966cf58cfc089c4579356df59d6a93b3644"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-21193 — Google Chromium Blink Use-After-Free Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-21193",
+  "published": "2021-11-03",
+  "summary": "Google Chromium Blink contains a use-after-free vulnerability that allows a remote attacker to potentially exploit heap corruption via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-21193",
+   "vendor": "Google",
+   "product": "Chromium Blink",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-21193 — Lỗ hổng sử dụng sau khi miễn phí của Google Chrome Blink",
+  "key": "9164caf3ba744860e06395e6471634ee9f91a9b5"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-21220 — Google Chromium V8 Improper Input Validation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-21220",
+  "published": "2021-11-03",
+  "summary": "Google Chromium V8 Engine contains an improper input validation vulnerability that allows a remote attacker to potentially exploit heap corruption via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-21220",
+   "vendor": "Google",
+   "product": "Chromium V8",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-21220 — Lỗ hổng xác thực đầu vào không đúng cách của Google Chrome V8",
+  "key": "3a6e9b103c0a47262ad16925879f4b8ae2447516"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-30563 — Google Chromium V8 Type Confusion Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-30563",
+  "published": "2021-11-03",
+  "summary": "Google Chromium V8 Engine contains a type confusion vulnerability that allows a remote attacker to potentially exploit heap corruption via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-30563",
+   "vendor": "Google",
+   "product": "Chromium V8",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-30563 — Lỗ hổng nhầm lẫn loại Google Chrome V8",
+  "key": "47dfe6bc4b4d4c1f288ee13a5072f0ba16d3a091"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-4430 — IBM Data Risk Manager Directory Traversal Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-4430",
+  "published": "2021-11-03",
+  "summary": "IBM Data Risk Manager contains a directory traversal vulnerability that could allow a remote authenticated attacker to traverse directories and send a specially crafted URL request to download arbitrary files from the system.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-4430",
+   "vendor": "IBM",
+   "product": "Data Risk Manager",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2020-4430 — Lỗ hổng truyền tải thư mục Trình quản lý rủi ro dữ liệu của IBM",
+  "key": "0cb80855415541f3870e824dffe6a31295dd3c2e"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-4427 — IBM Data Risk Manager Security Bypass Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-4427",
+  "published": "2021-11-03",
+  "summary": "IBM Data Risk Manager contains a security bypass vulnerability that could allow a remote attacker to bypass security restrictions when configured with SAML authentication. By sending a specially crafted HTTP request, an attacker could exploit this vulnerability to bypass the authentication process and gain full administrative access to the system.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-4427",
+   "vendor": "IBM",
+   "product": "Data Risk Manager",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2020-4427 — Lỗ hổng bảo mật vượt qua trình quản lý rủi ro dữ liệu của IBM",
+  "key": "607130d39df3afb2379abfeb3e4c698e7d8d9529"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-4428 — IBM Data Risk Manager Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-4428",
+  "published": "2021-11-03",
+  "summary": "IBM Data Risk Manager contains an unspecified vulnerability which could allow a remote, authenticated attacker to execute commands on the system.�",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-4428",
+   "vendor": "IBM",
+   "product": "Data Risk Manager",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2020-4428 — Lỗ hổng thực thi mã từ xa trong Trình quản lý rủi ro dữ liệu của IBM",
+  "key": "0ba332dc53abb8ff5ca0fe2dcc9412625c28993b"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-4716 — IBM Planning Analytics Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-4716",
+  "published": "2021-11-03",
+  "summary": "IBM Planning Analytics is vulnerable to a configuration overwrite that allows an unauthenticated user to login as \"admin\", and then execute code as root or SYSTEM via TM1 scripting.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-4716",
+   "vendor": "IBM",
+   "product": "Planning Analytics",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2019-4716 — Lỗ hổng thực thi mã từ xa của IBM Planning Analytics",
+  "key": "68d2ab71fd25b97fb7afae88e0035ba222035153"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2016-3715 — ImageMagick Arbitrary File Deletion Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2016-3715",
+  "published": "2021-11-03",
+  "summary": "ImageMagick contains an unspecified vulnerability that could allow users to delete files by using ImageMagick's 'ephemeral' pseudo protocol, which deletes files after reading.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2016-3715",
+   "vendor": "ImageMagick",
+   "product": "ImageMagick",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2016-3715 — Lỗ hổng xóa tệp tùy ý ImageMagick",
+  "key": "73ed3e809f4d92021a7fc8f0dcfdc99851799cb6"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2016-3718 — ImageMagick Server-Side Request Forgery (SSRF) Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2016-3718",
+  "published": "2021-11-03",
+  "summary": "ImageMagick contains an unspecified vulnerability that allows attackers to perform server-side request forgery (SSRF) via a crafted image.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2016-3718",
+   "vendor": "ImageMagick",
+   "product": "ImageMagick",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2016-3718 — Lỗ hổng giả mạo yêu cầu phía máy chủ ImageMagick (SSRF)",
+  "key": "0c44c5f1a585176722a99629dcb2b47c0fd0243d"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-15505 — Ivanti MobileIron Multiple Products Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-15505",
+  "published": "2021-11-03",
+  "summary": "Ivanti MobileIron's Core & Connector, Sentry, and Monitor and Reporting Database (RDB) products contain an unspecified vulnerability that allows for remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-15505",
+   "vendor": "Ivanti",
+   "product": "MobileIron Multiple Products",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2020-15505 — Lỗ hổng thực thi mã từ xa của Ivanti MobileIron trên nhiều sản phẩm",
+  "key": "e42475b726562656e1215790f535a6dc8968bf75"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-30116 — Kaseya Virtual System/Server Administrator (VSA) Information Disclosure Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-30116",
+  "published": "2021-11-03",
+  "summary": "Kaseya Virtual System/Server Administrator (VSA) contains an information disclosure vulnerability allowing an attacker to obtain the sessionId that can be used to execute further attacks against the system.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-30116",
+   "vendor": "Kaseya",
+   "product": "Virtual System/Server Administrator (VSA)",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-30116 — Lỗ hổng tiết lộ thông tin của Quản trị viên hệ thống/máy chủ ảo Kaseya (VSA)",
+  "key": "aac8a6badd82545ae36f478f5ffa1e87803cc00d"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-7961 — Liferay Portal Deserialization of Untrusted Data Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-7961",
+  "published": "2021-11-03",
+  "summary": "Liferay Portal contains a deserialization of untrusted data vulnerability that allows remote attackers to execute code via JSON web services.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-7961",
+   "vendor": "Liferay",
+   "product": "Liferay Portal",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2020-7961 — Quá trình khử tuần tự hóa cổng thông tin Liferay đối với lỗ hổng dữ liệu không đáng tin cậy",
+  "key": "b5e2e4b6c74f21075bae71908e6a9578d94b948d"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-23874 — McAfee Total Protection (MTP) Improper Privilege Management Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-23874",
+  "published": "2021-11-03",
+  "summary": "McAfee Total Protection (MTP) contains an improper privilege management vulnerability that allows a local user to gain elevated privileges and execute code, bypassing MTP self-defense.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-23874",
+   "vendor": "McAfee",
+   "product": "McAfee Total Protection (MTP)",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-23874 — Lỗ hổng quản lý đặc quyền không phù hợp của McAfee Total Protection (MTP)",
+  "key": "f34145c0110a8fc49795681cbec1dfa256193029"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-22506 — Micro Focus Access Manager Information Leakage Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-22506",
+  "published": "2021-11-03",
+  "summary": "Micro Focus Access Manager contains an information leakage vulnerability resulting from a SAML service provider redirection issue when the Assertion Consumer Service URL is used.",
+  "categories": [
+   "breach",
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-22506",
+   "vendor": "Micro Focus",
+   "product": "Micro Focus Access Manager",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-22506 — Lỗ hổng rò rỉ thông tin của Trình quản lý truy cập Micro Focus",
+  "key": "831004feea20df1e76b1089fe52dbfe90170647c"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-22502 — Micro Focus Operation Bridge Report (OBR) Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-22502",
+  "published": "2021-11-03",
+  "summary": "Micro Focus Operation Bridge Report (OBR) contains an unspecified vulnerability that allows for remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-22502",
+   "vendor": "Micro Focus",
+   "product": "Operation Bridge Reporter (OBR)",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-22502 — Báo cáo cầu nối hoạt động Micro Focus (OBR) Lỗ hổng thực thi mã từ xa",
+  "key": "0f25d07216549598f01845f3b774bf4b0cb9aa67"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2014-1812 — Microsoft Windows Group Policy Preferences Password Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2014-1812",
+  "published": "2021-11-03",
+  "summary": "Microsoft Windows Active Directory contains a privilege escalation vulnerability due to the way it distributes passwords that are configured using Group Policy preferences. An authenticated attacker who successfully exploits the vulnerability could decrypt the passwords and use them to elevate privileges on the domain.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2014-1812",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2014-1812 — Lỗ hổng nâng cấp đặc quyền mật khẩu tùy chọn nhóm của Microsoft Windows",
+  "key": "87ca07e3bda294589e1cfc2490b77e895cee0a17"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-38647 — Microsoft Open Management Infrastructure (OMI) Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-38647",
+  "published": "2021-11-03",
+  "summary": "Microsoft Open Management Infrastructure (OMI) within Azure VM Management Extensions contains an unspecified vulnerability allowing remote code execution.",
+  "categories": [
+   "cloud",
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-38647",
+   "vendor": "Microsoft",
+   "product": "Open Management Infrastructure (OMI)",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-38647 — Lỗ hổng thực thi mã từ xa Cơ sở hạ tầng quản lý mở (OMI) của Microsoft",
+  "key": "9d421d0555af4e215121b203ffaddfb5a87cb1a9"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2016-0167 — Microsoft Win32k Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2016-0167",
+  "published": "2021-11-03",
+  "summary": "Microsoft Win32k contains an unspecified vulnerability that allows for privilege escalation via a crafted application",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2016-0167",
+   "vendor": "Microsoft",
+   "product": "Win32k",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2016-0167 — Lỗ hổng nâng cao đặc quyền của Microsoft Win32k",
+  "key": "dac614444fdeea01565ecfb2a30b8490382c7627"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-0878 — Microsoft Edge and Internet Explorer Memory Corruption Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-0878",
+  "published": "2021-11-03",
+  "summary": "Microsoft Edge and Internet Explorer contain a memory corruption vulnerability that allows attackers to execute code in the context of the current user.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-0878",
+   "vendor": "Microsoft",
+   "product": "Edge and Internet Explorer",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2020-0878 — Lỗ hổng hỏng bộ nhớ của Microsoft Edge và Internet Explorer",
+  "key": "a9ba951a40def3cfa035e62e0ac1bf52b33f5ed0"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-31955 — Microsoft Windows Kernel Information Disclosure Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-31955",
+  "published": "2021-11-03",
+  "summary": "Microsoft Windows Kernel contains an unspecified vulnerability that allows for information disclosure. Successful exploitation allows attackers to read the contents of kernel memory from a user-mode process.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-31955",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-31955 — Lỗ hổng tiết lộ thông tin hạt nhân Microsoft Windows",
+  "key": "e003952b5bd345ec13bcd514c74b2a10d42282b0"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-1647 — Microsoft Defender Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-1647",
+  "published": "2021-11-03",
+  "summary": "Microsoft Defender contains an unspecified vulnerability that allows for remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-1647",
+   "vendor": "Microsoft",
+   "product": "Defender",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-1647 — Lỗ hổng thực thi mã từ xa của Microsoft Defender",
+  "key": "e5ec956ae7e49bbdb4ba5cabf2c6a48cfcb3fa13"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-33739 — Microsoft Desktop Window Manager (DWM) Core Library Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33739",
+  "published": "2021-11-03",
+  "summary": "Microsoft Desktop Window Manager (DWM) Core Library contains an unspecified vulnerability that allows for privilege escalation.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-33739",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-33739 — Lỗ hổng nâng cao đặc quyền thư viện lõi của Microsoft Desktop Window Manager (DWM)",
+  "key": "a8d81e3bc96ecfaa6318ef94eaece33d55d814b1"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2016-0185 — Microsoft Windows Media Center Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2016-0185",
+  "published": "2021-11-03",
+  "summary": "Microsoft Windows Media Center contains a remote code execution vulnerability when Windows Media Center opens a specially crafted Media Center link (.mcl) file that references malicious code.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2016-0185",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2016-0185 — Lỗ hổng thực thi mã từ xa của Microsoft Windows Media Center",
+  "key": "08c01d0b7183343fbd98ed395d0d7a6d743db3fb"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-0683 — Microsoft Windows Installer Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-0683",
+  "published": "2021-11-03",
+  "summary": "Microsoft Windows Installer contains a privilege escalation vulnerability when MSI packages process symbolic links, which allows attackers to bypass access restrictions to add or remove files.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-0683",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2020-0683 — Lỗ hổng nâng cao đặc quyền của Microsoft Windows Installer",
+  "key": "ad8e80ee9fc7c979fbdce3113c91aa39184c8bf9"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-17087 — Microsoft Windows Kernel Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-17087",
+  "published": "2021-11-03",
+  "summary": "Microsoft Windows kernel contains an unspecified vulnerability that allows for privilege escalation.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-17087",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2020-17087 — Lỗ hổng nâng cao đặc quyền hạt nhân Microsoft Windows",
+  "key": "aeddaf509e44b2205886d5003dcdee1668b44e45"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-33742 — Microsoft Windows MSHTML Platform Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33742",
+  "published": "2021-11-03",
+  "summary": "Microsoft Windows MSHTML Platform contains an unspecified vulnerability that allows for remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-33742",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-33742 — Lỗ hổng thực thi mã từ xa trên nền tảng Microsoft Windows MSHTML",
+  "key": "f59d9f19d32a5d3f930265e0b7263886bb84300a"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-31199 — Microsoft Enhanced Cryptographic Provider Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-31199",
+  "published": "2021-11-03",
+  "summary": "Microsoft Enhanced Cryptographic Provider contains an unspecified vulnerability that allows for privilege escalation.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-31199",
+   "vendor": "Microsoft",
+   "product": "Enhanced Cryptographic Provider",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-31199 — Lỗ hổng nâng cao đặc quyền của nhà cung cấp mật mã nâng cao của Microsoft",
+  "key": "8a4295149f990e7fa2138cf59ff8e446a51f4528"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-33771 — Microsoft Windows Kernel Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-33771",
+  "published": "2021-11-03",
+  "summary": "Microsoft Windows kernel contains an unspecified vulnerability that allows for privilege escalation.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-33771",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-33771 — Lỗ hổng nâng cao đặc quyền hạt nhân Microsoft Windows",
+  "key": "50cc08603d7aface3b19174f18885a41b883e4a7"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-31956 — Microsoft Windows NTFS Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-31956",
+  "published": "2021-11-03",
+  "summary": "Microsoft Windows New Technology File System (NTFS) contains an unspecified vulnerability that allows attackers to escalate privileges via a specially crafted application.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-31956",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-31956 — Lỗ hổng nâng cao đặc quyền NTFS của Microsoft Windows",
+  "key": "f9348a9f708dc9ddf30dff06aa4fcba99f40a03d"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-31201 — Microsoft Enhanced Cryptographic Provider Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-31201",
+  "published": "2021-11-03",
+  "summary": "Microsoft Enhanced Cryptographic Provider contains an unspecified vulnerability that allows for privilege escalation.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-31201",
+   "vendor": "Microsoft",
+   "product": "Enhanced Cryptographic Provider",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-31201 — Lỗ hổng nâng cao đặc quyền của nhà cung cấp mật mã nâng cao của Microsoft",
+  "key": "792d8a8c77544d418b47ff6e30c27f8c0730cecc"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-31979 — Microsoft Windows Kernel Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-31979",
+  "published": "2021-11-03",
+  "summary": "Microsoft Windows kernel contains an unspecified vulnerability that allows for privilege escalation.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-31979",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-31979 — Lỗ hổng nâng cao đặc quyền hạt nhân Microsoft Windows",
+  "key": "24e1e711105ff954b1330c6078da9d029c3f41ad"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-0938 — Microsoft Windows Adobe Font Manager Library Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-0938",
+  "published": "2021-11-03",
+  "summary": "Microsoft Windows Adobe Font Manager Library contains an unspecified vulnerability when handling specially crafted multi-master fonts (Adobe Type 1 PostScript format) that allows for remote code execution for all systems except Windows 10. For systems running Windows 10, an attacker who successfully exploited the vulnerability could execute code in an AppContainer sandbox context with limited privileges and capabilities.",
+  "categories": [
+   "cloud",
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-0938",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2020-0938 — Lỗ hổng thực thi mã từ xa Thư viện Adobe Windows Adobe",
+  "key": "6d6db468d4512a4476d445d96714b3cf6247ee1e"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-17144 — Microsoft Exchange Server Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-17144",
+  "published": "2021-11-03",
+  "summary": "Microsoft Exchange Server improperly validates cmdlet arguments which allow an attacker to perform remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-17144",
+   "vendor": "Microsoft",
+   "product": "Exchange Server",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2020-17144 — Lỗ hổng thực thi mã từ xa của Microsoft Exchange Server",
+  "key": "c7588a9722cd810e572591553f0ddcc9bd3f5650"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-0986 — Microsoft Windows Kernel Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-0986",
+  "published": "2021-11-03",
+  "summary": "Microsoft Windows kernel contains an unspecified vulnerability when handling objects in memory that allows attackers to escalate privileges and execute code in kernel mode.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-0986",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2020-0986 — Lỗ hổng nâng cao đặc quyền hạt nhân Microsoft Windows",
+  "key": "079fe71e7ebb4424bd18961333cc3c67fdcef419"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-1020 — Microsoft Windows Adobe Font Manager Library Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-1020",
+  "published": "2021-11-03",
+  "summary": "Microsoft Windows Adobe Font Manager Library contains an unspecified vulnerability when handling specially crafted multi-master fonts (Adobe Type 1 PostScript format) that allows for remote code execution for all systems except Windows 10. For systems running Windows 10, an attacker who successfully exploited the vulnerability could execute code in an AppContainer sandbox context with limited privileges and capabilities.",
+  "categories": [
+   "cloud",
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-1020",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2020-1020 — Lỗ hổng thực thi mã từ xa Thư viện Adobe Windows Adobe",
+  "key": "4849fe6016d7b186dd2dcf519674c7b22a7d0a78"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-38645 — Microsoft Open Management Infrastructure (OMI) Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-38645",
+  "published": "2021-11-03",
+  "summary": "Microsoft Open Management Infrastructure (OMI) within Azure VM Management Extensions contains an unspecified vulnerability that allows for privilege escalation.",
+  "categories": [
+   "cloud",
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-38645",
+   "vendor": "Microsoft",
+   "product": "Open Management Infrastructure (OMI)",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-38645 — Lỗ hổng nâng cao đặc quyền Cơ sở hạ tầng quản lý mở (OMI) của Microsoft",
+  "key": "e9e1cc65f64990c98b9bcc629c865c3d6ef81d3a"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-34523 — Microsoft Exchange Server Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34523",
+  "published": "2021-11-03",
+  "summary": "Microsoft Exchange Server contains an unspecified vulnerability that allows for privilege escalation.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-34523",
+   "vendor": "Microsoft",
+   "product": "Exchange Server",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-34523 — Lỗ hổng nâng cao đặc quyền của Microsoft Exchange Server",
+  "key": "32ba4bcaa548776aa09920400a8d72adae4436e3"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2017-7269 — Microsoft Windows Server Buffer Overflow Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-7269",
+  "published": "2021-11-03",
+  "summary": "Microsoft Windows Server 2003 R2 contains a buffer overflow vulnerability in Internet Information Services (IIS) 6.0 which allows remote attackers to execute code via a long header beginning with \"If: <http://\" in a PROPFIND request.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2017-7269",
+   "vendor": "Microsoft",
+   "product": "Internet Information Services (IIS)",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2017-7269 — Lỗ hổng tràn bộ đệm của Microsoft Windows Server",
+  "key": "afeaf06043ff517382e3f546ae53c98923f9e94d"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-36948 — Microsoft Windows Update Medic Service Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-36948",
+  "published": "2021-11-03",
+  "summary": "Microsoft Windows Update Medic Service contains an unspecified vulnerability that allows for privilege escalation.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-36948",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-36948 — Lỗ hổng nâng cao đặc quyền của Microsoft Windows Update Medic Service",
+  "key": "bab0d84369b88c37fea56eb2190e5a5cd23275aa"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-38649 — Microsoft Open Management Infrastructure (OMI) Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-38649",
+  "published": "2021-11-03",
+  "summary": "Microsoft Open Management Infrastructure (OMI) within Azure VM Management Extensions contains an unspecified vulnerability allowing privilege escalation.",
+  "categories": [
+   "cloud",
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-38649",
+   "vendor": "Microsoft",
+   "product": "Open Management Infrastructure (OMI)",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-38649 — Lỗ hổng nâng cao đặc quyền Cơ sở hạ tầng quản lý mở (OMI) của Microsoft",
+  "key": "598d6400e8461f62424254c9bbf6b51229814628"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-0688 — Microsoft Exchange Server Validation Key Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-0688",
+  "published": "2021-11-03",
+  "summary": "Microsoft Exchange Server Validation Key fails to properly create unique keys at install time, allowing for remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-0688",
+   "vendor": "Microsoft",
+   "product": "Exchange Server",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2020-0688 — Lỗ hổng thực thi mã từ xa của khóa xác thực Microsoft Exchange Server",
+  "key": "0f1243085434f54d38abda79b96723ebf6ebc434"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2017-0143 — Microsoft Windows Server Message Block (SMBv1) Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-0143",
+  "published": "2021-11-03",
+  "summary": "Microsoft Windows Server Message Block 1.0 (SMBv1) contains an unspecified vulnerability that allows for remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2017-0143",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2017-0143 — Lỗ hổng thực thi mã từ xa Microsoft Windows Server Message Block (SMBv1)",
+  "key": "eb70bd40ec4508c11d7b5e924824d9fe93672cde"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2016-7255 — Microsoft Win32k Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2016-7255",
+  "published": "2021-11-03",
+  "summary": "Microsoft Win32k kernel-mode driver fails to properly handle objects in memory which allows for privilege escalation. Successful exploitation allows an attacker to run code in kernel mode.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2016-7255",
+   "vendor": "Microsoft",
+   "product": "Win32k",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2016-7255 — Lỗ hổng leo thang đặc quyền Microsoft Win32k",
+  "key": "572e59dc7e575d480dea13a76abb5a102d214941"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-0708 — Microsoft Remote Desktop Services Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-0708",
+  "published": "2021-11-03",
+  "summary": "Microsoft Remote Desktop Services, formerly known as Terminal Service, contains an unspecified vulnerability that allows an unauthenticated attacker to connect to the target system using RDP and send specially crafted requests. Successful exploitation allows for remote code execution. The vulnerability is also known under the moniker of BlueKeep.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-0708",
+   "vendor": "Microsoft",
+   "product": "Remote Desktop Services",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2019-0708 — Lỗ hổng thực thi mã từ xa của Microsoft Remote Desktop Services",
+  "key": "8f4bd48b0fcbfcca5f4c9a23e04abf3276199fd3"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-34473 — Microsoft Exchange Server Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34473",
+  "published": "2021-11-03",
+  "summary": "Microsoft Exchange Server contains an unspecified vulnerability that allows for remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-34473",
+   "vendor": "Microsoft",
+   "product": "Exchange Server",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-34473 — Lỗ hổng thực thi mã từ xa của Microsoft Exchange Server",
+  "key": "521571059e6f3fd530f5376561f24027ee3e0dbf"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-1464 — Microsoft Windows Spoofing Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-1464",
+  "published": "2021-11-03",
+  "summary": "Microsoft Windows contains a spoofing vulnerability when Windows incorrectly validates file signatures, allowing an attacker to bypass security features and load improperly signed files.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-1464",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2020-1464 — Lỗ hổng Microsoft Windows Spoofing",
+  "key": "4ab175ab692479367f0578ef7263b1864dbde4ef"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-1732 — Microsoft Win32k Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-1732",
+  "published": "2021-11-03",
+  "summary": "Microsoft Win32k contains an unspecified vulnerability that allows for privilege escalation.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-1732",
+   "vendor": "Microsoft",
+   "product": "Win32k",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-1732 — Lỗ hổng leo thang đặc quyền Microsoft Win32k",
+  "key": "666d02af0548084603f0fe304e2c5b102d0a7fbb"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-34527 — Microsoft Windows Print Spooler Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-34527",
+  "published": "2021-11-03",
+  "summary": "Microsoft Windows Print Spooler contains an unspecified vulnerability due to the Windows Print Spooler service improperly performing privileged file operations. Successful exploitation allows an attacker to perform remote code execution with SYSTEM privileges. The vulnerability is also known under the moniker of PrintNightmare.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-34527",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-34527 — Lỗ hổng thực thi mã từ xa của Microsoft Windows Print Spooler",
+  "key": "a86667bec619adfb245f1fbd85a7fa1897c3c509"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-31207 — Microsoft Exchange Server Security Feature Bypass Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-31207",
+  "published": "2021-11-03",
+  "summary": "Microsoft Exchange Server contains an unspecified vulnerability that allows for security feature bypass.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-31207",
+   "vendor": "Microsoft",
+   "product": "Exchange Server",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2021-31207 - Lỗ hổng Bỏ qua Tính năng Bảo mật của Microsoft Exchange Server",
+  "key": "50e15d8c16e756a3dc6f957704205b11f4ada831"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-0803 — Microsoft Win32k Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-0803",
+  "published": "2021-11-03",
+  "summary": "Microsoft Win32k contains an unspecified vulnerability due to it failing to properly handle objects in memory causing privilege escalation. Successful exploitation allows an attacker to run code in kernel mode.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-0803",
+   "vendor": "Microsoft",
+   "product": "Win32k",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "CVE-2019-0803 — Lỗ hổng leo thang đặc quyền Microsoft Win32k",
+  "key": "88254232e794bbd301338fe8090843095636b267"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-1040 — Microsoft Hyper-V RemoteFX vGPU Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-1040",
+  "published": "2021-11-03",
+  "summary": "Microsoft Hyper-V RemoteFX vGPU contains an improper input validation vulnerability due to the host server failing to properly validate input from an authenticated user on a guest operating system. Successful exploitation allows for remote code execution on the host operating system.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-1040",
+   "vendor": "Microsoft",
+   "product": "Hyper-V RemoteFX",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "5ecacd2f8ffeea521746f3f5f542587b0b77fab1"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-28310 — Microsoft Win32k Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-28310",
+  "published": "2021-11-03",
+  "summary": "Microsoft Windows Win32k contains an unspecified vulnerability that allows for privilege escalation.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-28310",
+   "vendor": "Microsoft",
+   "product": "Win32k",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "3173f114d9c815607ce591183a869e669fb33153"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2020-1350 — Microsoft Windows DNS Server Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-1350",
+  "published": "2021-11-03",
+  "summary": "Microsoft Windows DNS Servers fail to properly handle requests, allowing an attacker to perform remote code execution in the context of the Local System Account. The vulnerability is also known under the moniker of SIGRed.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2020-1350",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "7c6a4a5e3eac1c50a6e19dda248647b1c9e44425"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-26411 — Microsoft Internet Explorer Memory Corruption Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-26411",
+  "published": "2021-11-03",
+  "summary": "Microsoft Internet Explorer contains an unspecified vulnerability that allows for memory corruption.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-26411",
+   "vendor": "Microsoft",
+   "product": "Internet Explorer",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "75144c22216afbb38e0ac38a63ba464a60a33d21"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-0859 — Microsoft Win32k Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-0859",
+  "published": "2021-11-03",
+  "summary": "Microsoft Win32k fails to properly handle objects in memory causing privilege escalation. Successful exploitation allows an attacker to run code in kernel mode.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-0859",
+   "vendor": "Microsoft",
+   "product": "Win32k",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "4de1f2cc20af67824f184328d9a5f2df37edc918"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-40444 — Microsoft MSHTML Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-40444",
+  "published": "2021-11-03",
+  "summary": "Microsoft MSHTML contains a unspecified vulnerability that allows for remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-40444",
+   "vendor": "Microsoft",
+   "product": "MSHTML",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "c532e6b0980e31de678f95b949c69770adfa551b"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2017-8759 — Microsoft .NET Framework Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-8759",
+  "published": "2021-11-03",
+  "summary": "Microsoft .NET Framework contains a remote code execution vulnerability when processing untrusted input that could allow an attacker to take control of an affected system.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2017-8759",
+   "vendor": "Microsoft",
+   "product": ".NET Framework",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "2e490cedf96af636d16b5a4ffab3004b5b7e44c7"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2018-8653 — Microsoft Internet Explorer Scripting Engine Memory Corruption Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-8653",
+  "published": "2021-11-03",
+  "summary": "Microsoft Internet Explorer contains a memory corruption vulnerability due to how the Scripting Engine handles objects in memory, leading to remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2018-8653",
+   "vendor": "Microsoft",
+   "product": "Internet Explorer",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "ccbb7eccbeaeb35e9801bda902faf42a4f737a3a"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-0797 — Microsoft Win32k Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-0797",
+  "published": "2021-11-03",
+  "summary": "Microsoft Win32k contains a privilege escalation vulnerability when the Win32k component fails to properly handle objects in memory. Successful exploitation allows an attacker to execute code in kernel mode.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-0797",
+   "vendor": "Microsoft",
+   "product": "Win32k",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "0bc3bde757f83531e42fead9327d58ef1e3e9e98"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-36942 — Microsoft Windows Local Security Authority (LSA) Spoofing Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-36942",
+  "published": "2021-11-03",
+  "summary": "Microsoft Windows Local Security Authority (LSA) contains a spoofing vulnerability allowing an unauthenticated attacker to call a method on the LSARPC interface and coerce the domain controller to authenticate against another server using NTLM.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-36942",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "3c5217b6e6ccb30d1fe5c97abcc09f73c8e51706"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-1215 — Microsoft Windows Privilege Escalation Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-1215",
+  "published": "2021-11-03",
+  "summary": "Microsoft Windows contains an unspecified vulnerability due to the way ws2ifsl.sys (Winsock) handles objects in memory, allowing for privilege escalation. Successful exploitation allows an attacker to execute code with elevated privileges.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-1215",
+   "vendor": "Microsoft",
+   "product": "Windows",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "6ad4ad20abb827dc3165bda53f54c1c27e2cb585"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2018-0798 — Microsoft Office Memory Corruption Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-0798",
+  "published": "2021-11-03",
+  "summary": "Microsoft Office contains a memory corruption vulnerability due to the way objects are handled in memory. Successful exploitation allows for remote code execution in the context of the current user. This vulnerability is known to be chained with CVE-2018-0802.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2018-0798",
+   "vendor": "Microsoft",
+   "product": "Office",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "e38c055a11f3c49aa96e26ff3a40b8005245abe9"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2018-0802 — Microsoft Office Memory Corruption Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-0802",
+  "published": "2021-11-03",
+  "summary": "Microsoft Office contains a memory corruption vulnerability due to the way objects are handled in memory. Successful exploitation allows for remote code execution in the context of the current user. This vulnerability is known to be chained with CVE-2018-0798.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2018-0802",
+   "vendor": "Microsoft",
+   "product": "Office",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "58568496fd468fcbc7ed6e10700280c7f0fb3975"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2012-0158 — Microsoft MSCOMCTL.OCX Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2012-0158",
+  "published": "2021-11-03",
+  "summary": "Microsoft MSCOMCTL.OCX contains an unspecified vulnerability that allows for remote code execution, allowing an attacker to take complete control of an affected system under the context of the current user.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2012-0158",
+   "vendor": "Microsoft",
+   "product": "MSCOMCTL.OCX",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "e8f82284aa6870eb89e2d69ddbbd33b9084f0625"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2015-1641 — Microsoft Office Memory Corruption Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2015-1641",
+  "published": "2021-11-03",
+  "summary": "Microsoft Office contains a memory corruption vulnerability due to failure to properly handle rich text format files in memory. Successful exploitation allows for remote code execution in the context of the current user.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2015-1641",
+   "vendor": "Microsoft",
+   "product": "Office",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "dc0c4672d3c147228bfd6d7fd1f009314a8f0a5d"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2021-27085 — Microsoft Internet Explorer Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-27085",
+  "published": "2021-11-03",
+  "summary": "Microsoft Internet Explorer contains an unspecified vulnerability that allows for remote code execution.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2021-27085",
+   "vendor": "Microsoft",
+   "product": "Internet Explorer",
+   "due_date": "2021-11-17",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "89854c10d81f3c5cb060c182da712524f242dfb4"
+ },
+ {
+  "source": "CISA KEV",
+  "title": "CVE-2019-0541 — Microsoft MSHTML Remote Code Execution Vulnerability",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-0541",
+  "published": "2021-11-03",
+  "summary": "Microsoft MSHTML engine contains an improper input validation vulnerability that allows for remote code execution vulnerability.",
+  "categories": [
+   "kev"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2019-0541",
+   "vendor": "Microsoft",
+   "product": "MSHTML",
+   "due_date": "2022-05-03",
+   "required_action": "Apply updates per vendor instructions."
+  },
+  "title_vi": "",
+  "key": "e9c8f0cff34d73a37879eeaa96331e4062fc8c83"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-129353 — A vulnerability was detected in D-Link DIR-600L 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-129353",
+  "published": "2026-11-15T00:16:51.120",
+  "summary": "A vulnerability was detected in D-Link DIR-600L 2.17/2.17b02. Affected by this vulnerability is the function authenticationcgi_main of the file authentication.cgi. Performing a manipulation of the argument id/password results in stack-based buffer overflow. Remote exploitation of the attack is possible. The exploit is now public and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-129353",
+   "cvss": 10.0,
+   "ref": "https://github.com/ruanyi101/router-firmware-security-advisories/blob/main/router-firmware-GitHub-advisories/advisories/D-Link-DIR-600L-authentication-cgi.md"
+  },
+  "title_vi": "CVE-2026-129353 — Phát hiện lỗ hổng trong D-Link DIR-600L 2",
+  "key": "d85823ab78e247a19f9f1d9724e9819b0bf298d2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-129354 — A flaw has been found in D-Link DIR-600L 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-129354",
+  "published": "2026-11-15T01:18:03.043",
+  "summary": "A flaw has been found in D-Link DIR-600L 2.17b02. Affected by this issue is the function hnap_main of the file htdocs/cgibin of the component HNAP Handler. Executing a manipulation can lead to stack-based buffer overflow. The attack can be executed remotely. The exploit has been published and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-129354",
+   "cvss": 10.0,
+   "ref": "https://github.com/ruanyi101/router-firmware-security-advisories/blob/main/router-firmware-GitHub-advisories/advisories/D-Link-DIR-600L-HNAP-SOAPAction.md"
+  },
+  "title_vi": "CVE-2026-129354 — Đã tìm thấy lỗ hổng trong D-Link DIR-600L 2",
+  "key": "872ff798f97d3c1c5a002b2c0962555e3227ff03"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-129355 — A vulnerability has been found in sigoden dufs up to 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-129355",
+  "published": "2026-11-15T01:18:03.237",
+  "summary": "A vulnerability has been found in sigoden dufs up to 0.46.0. This affects an unknown part of the file src/server.rs of the component WebDAV COPY Operation Handler. The manipulation leads to incorrect authorization. The attack is possible to be carried out remotely. Upgrading to version 0.47.0 is able to mitigate this issue. The identifier of the patch is fba13dffb9c65b5e5e26419f64de709200277a04. It is advisable to upgrade the affected component.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-129355",
+   "cvss": 6.5,
+   "ref": "https://github.com/sigoden/dufs/"
+  },
+  "title_vi": "CVE-2026-129355 — Một lỗ hổng đã được tìm thấy trong sigoden dufs lên tới 0",
+  "key": "160c5ba076418c943ccf62691f8ec4c8d51d3b54"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-129356 — A vulnerability was found in vllm-project vllm 0",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-129356",
+  "published": "2026-11-15T02:17:20.967",
+  "summary": "A vulnerability was found in vllm-project vllm 0.30.0/0.31.0. This vulnerability affects unknown code of the file single_type_kv_cache_manager.py of the component Common Prefix Handler. The manipulation results in race condition. The attack may be performed from remote. Attacks of this nature are highly complex. It is stated that the exploitability is difficult. The exploit has been made public and could be used. Upgrading to version 0.32.0 is able to resolve this issue. The patch is identified as e687a251bb056fa527846633f7a1b0a6c0f42374. You should upgrade the affected component.",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-129356",
+   "cvss": 5.0,
+   "ref": "https://github.com/vllm-project/vllm/"
+  },
+  "title_vi": "CVE-2026-129356 — Đã tìm thấy lỗ hổng trong vllm-project vllm 0",
+  "key": "506adb32a32ec72dae878b68c7cde832051ec9de"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-129454 — Zr",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-129454",
+  "published": "2026-11-15T02:17:21.243",
+  "summary": "Zr.Admin.NET commit 85cff6a through commit eb9228a contains an insecure direct object reference vulnerability in GET /workflow/instance/{instanceId} that lets logged-in users view others' workflow instances. Authenticated low-privilege attackers can enumerate sequential instance IDs to read other users' approval requests, including submitted form contents, applicant details and approval records.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-129454",
+   "cvss": 6.5,
+   "ref": "https://github.com/izhaorui/Zr.Admin.NET/blob/eb9228a23014f6000c06cab2f10ae0d44ecbbd3a/ZR.Workflow/Controllers/WfFlowInstanceController.cs#L49-L57"
+  },
+  "title_vi": "",
+  "key": "11e11711b49012351b81ee6f7deed3ce1b724285"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-129455 — Zr",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-129455",
+  "published": "2026-11-15T02:17:21.420",
+  "summary": "Zr.Admin.NET commit e6ceaf4 through commit eb9228a contains an insecure direct object reference vulnerability in FrontArticleController that allows authenticated users to change other users' article visibility and pin state. Attackers can send PUT /front/article/changePublic with their own UserId in the body to make private articles public, then read them anonymously via GET /front/article/{id}.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-129455",
+   "cvss": 5.4,
+   "ref": "https://github.com/izhaorui/Zr.Admin.NET/blob/eb9228a23014f6000c06cab2f10ae0d44ecbbd3a/ZR.Admin.WebApi/Controllers/Content/FrontArticleController.cs#L122-L148"
+  },
+  "title_vi": "",
+  "key": "777655218aa0e1cea18fe122ed974c9e2affbdeb"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-129464 — Zr",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-129464",
+  "published": "2026-11-15T02:17:21.597",
+  "summary": "Zr.Admin.NET commit 0ee1ab8 through commit eb9228a contains a path traversal vulnerability that allows any logged-in user to read arbitrary server files via the path parameter of /common/DownloadFile. Attackers can supply absolute paths or ../ sequences to read appsettings files and use the JwtSettings SecretKey to forge administrator tokens.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-129464",
+   "cvss": 8.8,
+   "ref": "https://github.com/izhaorui/Zr.Admin.NET/blob/eb9228a23014f6000c06cab2f10ae0d44ecbbd3a/Infrastructure/Controllers/BaseController.cs#L110-L119"
+  },
+  "title_vi": "",
+  "key": "7afc512026f1072686a45440611169e437d42a8a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-129465 — Zr",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-129465",
+  "published": "2026-11-15T02:17:21.770",
+  "summary": "Zr.Admin.NET commit af07ffc through commit eb9228a contains an insecure direct object reference vulnerability in SysProfileController.UpdateProfile that allows any authenticated user to modify other accounts via UserId. Attackers can set the administrator's phone number to one they control, request an SMS code via /checkMobile, and log in through /PhoneLogin to take over the administrator account.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-129465",
+   "cvss": 8.8,
+   "ref": "https://github.com/izhaorui/Zr.Admin.NET/blob/eb9228a23014f6000c06cab2f10ae0d44ecbbd3a/ZR.Admin.WebApi/Controllers/System/SysLoginController.cs#L516-L559"
+  },
+  "title_vi": "",
+  "key": "b83eb83e648198811fb47b303ef13e12cb46850e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-129466 — Zr",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-129466",
+  "published": "2026-11-15T02:17:21.943",
+  "summary": "Zr.Admin.NET commit 1845017 through commit eb9228a contains a missing authorization vulnerability in TasksController.Get that allows any logged-in user to read scheduled task details without the monitor:job permission. Attackers can obtain task ids from the unprotected /monitor/jobLog/list endpoint and retrieve job parameters, API URLs, cron expressions, and stored SQL statements.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-129466",
+   "cvss": 4.3,
+   "ref": "https://github.com/izhaorui/Zr.Admin.NET/blob/eb9228a23014f6000c06cab2f10ae0d44ecbbd3a/ZR.Admin.WebApi/Controllers/System/TasksController.cs#L145-L157"
+  },
+  "title_vi": "",
+  "key": "7cafba09254ffa0156af83ee0e40bb2b21851a04"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-129357 — A vulnerability was determined in Linux Foundation Magma up to 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-129357",
+  "published": "2026-11-15T03:16:46.377",
+  "summary": "A vulnerability was determined in Linux Foundation Magma up to 1.9.0. This issue affects the function hostOrgMiddleware of the file nms/server/host/middleware.ts of the component Host Middleware. This manipulation of the argument role causes missing authorization. It is possible to initiate the attack remotely. The exploit has been publicly disclosed and may be utilized. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-129357",
+   "cvss": 6.3,
+   "ref": "https://github.com/aymencdm/magma_pocs/blob/main/01-rbac-poc.sh"
+  },
+  "title_vi": "CVE-2026-129357 — Một lỗ hổng được xác định trong Linux Foundation Magma lên tới 1",
+  "key": "50cd7cee1a62269fa4794863261e642c6518a240"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-129358 — A vulnerability was identified in Linux Foundation Magma up to 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-129358",
+  "published": "2026-11-15T03:16:51.473",
+  "summary": "A vulnerability was identified in Linux Foundation Magma up to 1.9.0. Impacted is the function handleReact of the file nms/server/main/routes.ts of the component NMS. Such manipulation leads to cross site scripting. It is possible to launch the attack remotely. The exploit is publicly available and might be used. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-129358",
+   "cvss": 2.4,
+   "ref": "https://github.com/aymencdm/magma_pocs/blob/main/02-xss-poc.sh"
+  },
+  "title_vi": "CVE-2026-129358 — Một lỗ hổng được xác định trong Linux Foundation Magma lên tới 1",
+  "key": "0e2741e687bbc3961d4a9a40feb55b45353cde30"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-129359 — A security flaw has been discovered in Linux Foundation Magma up to 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-129359",
+  "published": "2026-11-15T03:16:51.997",
+  "summary": "A security flaw has been discovered in Linux Foundation Magma up to 1.9.0. The affected element is an unknown function of the file orc8r/lib/go/registry/interceptors.go. Performing a manipulation results in hard-coded credentials. The attack can be initiated remotely. The exploit has been released to the public and may be used for attacks. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-129359",
+   "cvss": 7.3,
+   "ref": "https://vuldb.com/cve/CVE-2026-129359"
+  },
+  "title_vi": "CVE-2026-129359 — Một lỗ hổng bảo mật đã được phát hiện trong Linux Foundation Magma lên tới 1",
+  "key": "dd02b95bbfbfbbebcf40593f8fb3b6f621f9c905"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-129360 — A weakness has been identified in Linux Foundation Magma up to 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-129360",
+  "published": "2026-11-15T04:16:45.090",
+  "summary": "A weakness has been identified in Linux Foundation Magma up to 1.9.0. The impacted element is an unknown function of the file orc8r/cloud/go/services/obsidian/access/operator.go of the component Obsidian REST. Executing a manipulation of the argument X-Magma-Client-Cert-Serial can lead to authentication bypass by spoofing. The attack can be launched remotely. The vendor was contacted early about this disclosure but did not respond in any way.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-129360",
+   "cvss": 7.3,
+   "ref": "https://vuldb.com/cve/CVE-2026-129360"
+  },
+  "title_vi": "CVE-2026-129360 — Một điểm yếu đã được xác định trong Linux Foundation Magma lên tới 1",
+  "key": "b0990a89136ca9fcfc70f4d74515f5ebf2ef7e39"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
   "title": "Mỹ điều tra nguyên nhân sự cố khiến hàng chục nghìn chuyến bay bị hủy",
   "link": "https://www.vietnamplus.vn/my-dieu-tra-nguyen-nhan-su-co-khien-hang-chuc-nghin-chuyen-bay-bi-huy-post1148339.vnp",
   "published": "2026-11-14T23:20:21+00:00",
@@ -72155,1752 +73852,5 @@
   },
   "title_vi": "",
   "key": "1ff3fa9769dcb3fb494a1add84e957016b1b28c6"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-17530 — Apache Struts Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-17530",
-  "published": "2021-11-03",
-  "summary": "Forced Object-Graph Navigation Language (OGNL) evaluation in Apache Struts, when evaluated on raw user input in tag attributes, can lead to remote code execution.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-17530",
-   "vendor": "Apache",
-   "product": "Struts",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "974a91e33d095979014d626bdc047b3a34ef4fe3"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2017-5638 — Apache Struts Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-5638",
-  "published": "2021-11-03",
-  "summary": "Apache Struts Jakarta Multipart parser allows for malicious file upload using the Content-Type value, leading to remote code execution.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2017-5638",
-   "vendor": "Apache",
-   "product": "Struts",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "7e725c51d66954700475cf3f2573f61d7e3dda5d"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2018-11776 — Apache Struts Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-11776",
-  "published": "2021-11-03",
-  "summary": "Apache Struts contains a vulnerability that allows for remote code execution under two circumstances. One, where the alwaysSelectFullNamespace option is true and the value isn't set for a result defined in underlying configurations and in same time, its upper package configuration have no or wildcard namespace.  Or, using URL tag which doesn't have value and action set and in same time, its upper package configuration have no or wildcard namespace.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2018-11776",
-   "vendor": "Apache",
-   "product": "Struts",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "910a6be4e75cec0f7a3ba779bf6b8d702bdc0ef3"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-30858 — Apple iOS, iPadOS, macOS Use-After-Free Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-30858",
-  "published": "2021-11-03",
-  "summary": "Apple iOS, iPadOS, and macOS WebKit contain a use-after-free vulnerability that leads to code execution when processing maliciously crafted web content. This vulnerability could impact HTML parsers that use WebKit, including but not limited to Apple Safari and non-Apple products which rely on WebKit for HTML processing.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-30858",
-   "vendor": "Apple",
-   "product": "iOS, iPadOS, and macOS",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "4017fd0e45a761d8b07bfe298da5115372acb352"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2019-6223 — Apple iOS and macOS Group Facetime Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-6223",
-  "published": "2021-11-03",
-  "summary": "Apple iOS and macOS Group FaceTime contains an unspecified vulnerability where the call initiator can cause the recipient's Apple device to answer unknowingly or without user interaction.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2019-6223",
-   "vendor": "Apple",
-   "product": "iOS and macOS",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "fd081c28e8849f6a0a874b8dc1404ea6ea2dee35"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-30860 — Apple Multiple Products Integer Overflow Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-30860",
-  "published": "2021-11-03",
-  "summary": "Apple iOS, iPadOS, macOS, and watchOS CoreGraphics contain an integer overflow vulnerability which may allow code execution when processing a maliciously crafted PDF. The vulnerability is also known under the moniker of FORCEDENTRY.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-30860",
-   "vendor": "Apple",
-   "product": "Multiple Products",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "e5cba9010378068cae6f1eac53adc24f0a97fef2"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-27930 — Apple Multiple Products Memory Corruption Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-27930",
-  "published": "2021-11-03",
-  "summary": "Apple iOS, iPadOS, macOS, and watchOS FontParser contain a memory corruption vulnerability which may allow for code execution when processing maliciously crafted front.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-27930",
-   "vendor": "Apple",
-   "product": "Multiple Products",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "7f5e4191db9cb9f1ab63f166eb3873cabad26c8c"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-30807 — Apple Multiple Products Memory Corruption Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-30807",
-  "published": "2021-11-03",
-  "summary": "Apple iOS, iPadOS, macOS, and watchOS IOMobileFrameBuffer contain a memory corruption vulnerability which may allow an application to execute code with kernel privileges.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-30807",
-   "vendor": "Apple",
-   "product": "Multiple Products",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "0ef3cb7b0f9011035aad8222f7e39f5d5ef07e36"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-27950 — Apple Multiple Products Memory Initialization Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-27950",
-  "published": "2021-11-03",
-  "summary": "Apple iOS, iPadOS, macOS, and watchOS contain a memory initialization vulnerability that may allow a malicious application to disclose kernel memory.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-27950",
-   "vendor": "Apple",
-   "product": "Multiple Products",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "27f9a4aff8e0b12ac99647f884c6d3afc3e62958"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-27932 — Apple Multiple Products Type Confusion Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-27932",
-  "published": "2021-11-03",
-  "summary": "Apple iOS, iPadOS, macOS, and watchOS contain a type confusion vulnerability that may allow a malicious application to execute code with kernel privileges.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-27932",
-   "vendor": "Apple",
-   "product": "Multiple Products",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "272015b491902b0667eb98b0310c556f6aba3460"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-9818 — Apple iOS, iPadOS, and watchOS Out-of-Bounds Write Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-9818",
-  "published": "2021-11-03",
-  "summary": "Apple iOS, iPadOS, and watchOS Mail contains an out-of-bounds write vulnerability which may allow memory modification or application termination when processing a maliciously crafted mail message.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-9818",
-   "vendor": "Apple",
-   "product": "iOS, iPadOS, and watchOS",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "c38550fced9ae41adaedb3d0b123a26c538b9dbb"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-9819 — Apple iOS, iPadOS, and watchOS Memory Corruption Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-9819",
-  "published": "2021-11-03",
-  "summary": "Apple iOS, iPadOS, and watchOS Mail contains a memory corruption vulnerability that may allow heap corruption when processing a maliciously crafted mail message.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-9819",
-   "vendor": "Apple",
-   "product": "iOS, iPadOS, and watchOS",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "99de32d467605d9baf4cf7e2b9568365d3807728"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-30762 — Apple iOS WebKit Use-After-Free Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-30762",
-  "published": "2021-11-03",
-  "summary": "Apple iOS WebKit contains a use-after-free vulnerability that leads to code execution when processing maliciously crafted web content. This vulnerability could impact HTML parsers that use WebKit, including but not limited to Apple Safari and non-Apple products which rely on WebKit for HTML processing.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-30762",
-   "vendor": "Apple",
-   "product": "iOS",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "2cab6435ee1ca8661229b4c1a6cd61c7c83ee44c"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-1782 — Apple Multiple Products Race Condition Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-1782",
-  "published": "2021-11-03",
-  "summary": "Apple iOS, iPadOs, macOS, watchOS, and tvOS contain a race condition vulnerability that may allow a malicious application to elevate privileges.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-1782",
-   "vendor": "Apple",
-   "product": "Multiple Products",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "1215fe0d93ef5f5eebdf90b305e6c34f153d5f3d"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-1870 — Apple iOS, iPadOS, and macOS WebKit Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-1870",
-  "published": "2021-11-03",
-  "summary": "Apple iOS, iPadOS, and macOS WebKit contain an unspecified logic vulnerability that allows a remote attacker to execute code. This vulnerability could impact HTML parsers that use WebKit, including but not limited to Apple Safari and non-Apple products which rely on WebKit for HTML processing.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-1870",
-   "vendor": "Apple",
-   "product": "iOS, iPadOS, and macOS",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "b27b9446d3c1d6686f69b5d2bc814dae24d350b5"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-1871 — Apple iOS, iPadOS, and macOS WebKit Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-1871",
-  "published": "2021-11-03",
-  "summary": "Apple iOS, iPadOS, and macOS WebKit contain an unspecified logic vulnerability that allows a remote attacker to execute code. This vulnerability could impact HTML parsers that use WebKit, including but not limited to Apple Safari and non-Apple products which rely on WebKit for HTML processing.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-1871",
-   "vendor": "Apple",
-   "product": "iOS, iPadOS, and macOS",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "7a74fef3a8b1b3292a7a8d016a88f1d123f2c442"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-1879 — Apple iOS, iPadOS, and watchOS WebKit Cross-Site Scripting (XSS) Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-1879",
-  "published": "2021-11-03",
-  "summary": "Apple iOS, iPadOS, and watchOS WebKit contain an unspecified vulnerability that allows for universal cross-site scripting (XSS) when processing maliciously crafted web content. This vulnerability could impact HTML parsers that use WebKit, including but not limited to Apple Safari and non-Apple products which rely on WebKit for HTML processing.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-1879",
-   "vendor": "Apple",
-   "product": "iOS, iPadOS, and watchOS",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "a800c395b1adf15f91a44290926ca87164e7b5cc"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-30661 — Apple Multiple Products WebKit Storage Use-After-Free Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-30661",
-  "published": "2021-11-03",
-  "summary": "Apple iOS, iPadOS, macOS, tvOS, watchOS, and Safari WebKit Storage contain a use-after-free vulnerability that leads to code execution when processing maliciously crafted web content. This vulnerability could impact HTML parsers that use WebKit, including but not limited to Apple Safari and non-Apple products which rely on WebKit for HTML processing.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-30661",
-   "vendor": "Apple",
-   "product": "Multiple Products",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "5eb8ef47989894f6c198feb90583aa4a97eb8053"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-30666 — Apple iOS WebKit Buffer Overflow Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-30666",
-  "published": "2021-11-03",
-  "summary": "Apple iOS WebKit contains a buffer-overflow vulnerability that leads to code execution when processing maliciously crafted web content. This vulnerability could impact HTML parsers that use WebKit, including but not limited to Apple Safari and non-Apple products which rely on WebKit for HTML processing.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-30666",
-   "vendor": "Apple",
-   "product": "iOS",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "c29867786cf0bd5fb09efc12e31e2985962a2417"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-30713 — Apple macOS Unspecified Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-30713",
-  "published": "2021-11-03",
-  "summary": "Apple macOS Transparency, Consent, and Control (TCC) contains an unspecified permissions issue which may allow a malicious application to bypass privacy preferences.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-30713",
-   "vendor": "Apple",
-   "product": "macOS",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "78f12834f3576948793b070745935b0c9ad613fb"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-30657 — Apple macOS Unspecified Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-30657",
-  "published": "2021-11-03",
-  "summary": "Apple macOS contains an unspecified logic issue in System Preferences that may allow a malicious application to bypass Gatekeeper checks.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-30657",
-   "vendor": "Apple",
-   "product": "macOS",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "efda19f4fe7e0bb3ee5953f1a910f03f04bddfba"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-30665 — Apple Multiple Products WebKit Memory Corruption Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-30665",
-  "published": "2021-11-03",
-  "summary": "Apple iOS, iPadOS, macOS, watchOS, and tvOS WebKit contain a memory corruption vulnerability that leads to code execution when processing maliciously crafted web content. This vulnerability could impact HTML parsers that use WebKit, including but not limited to Apple Safari and non-Apple products which rely on WebKit for HTML processing.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-30665",
-   "vendor": "Apple",
-   "product": "Multiple Products",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "3bd86ed2f30d53cee19741dbddc08055846aaf00"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-30663 — Apple Multiple Products WebKit Integer Overflow Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-30663",
-  "published": "2021-11-03",
-  "summary": "Apple iOS, iPadOS, macOS, tvOS, and Safari WebKit contain an integer overflow vulnerability that leads to code execution when processing maliciously crafted web content. This vulnerability could impact HTML parsers that use WebKit, including but not limited to Apple Safari and non-Apple products which rely on WebKit for HTML processing.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-30663",
-   "vendor": "Apple",
-   "product": "Multiple Products",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "4a64690a8a5460016526d521291b89158f8a6d20"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-30761 — Apple iOS WebKit Memory Corruption Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-30761",
-  "published": "2021-11-03",
-  "summary": "Apple iOS WebKit contains a memory corruption vulnerability that leads to code execution when processing maliciously crafted web content. This vulnerability could impact HTML parsers that use WebKit, including but not limited to Apple Safari and non-Apple products which rely on WebKit for HTML processing.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-30761",
-   "vendor": "Apple",
-   "product": "iOS",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "9aa94ccdb4432f9def03244a492976210b184344"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-30869 — Apple iOS, iPadOS, and macOS Type Confusion Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-30869",
-  "published": "2021-11-03",
-  "summary": "Apple iOS, iPadOS, and macOS contain a type confusion vulnerability in the XNU which may allow a malicious application to execute code with kernel privileges.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-30869",
-   "vendor": "Apple",
-   "product": "iOS, iPadOS, and macOS",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "6070f6568e7434a76f08a981d91693c6908f4c83"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-9859 — Apple Multiple Products Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-9859",
-  "published": "2021-11-03",
-  "summary": "Apple iOS, iPadOS, macOS, watchOS, and tvOS contain an unspecified vulnerability that may allow an application to execute code with kernel privileges.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-9859",
-   "vendor": "Apple",
-   "product": "Multiple Products",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "e5c7fb0f61a07efede0ab99727ebb2af0a4a675e"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-20090 — Arcadyan Buffalo Firmware Path Traversal Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-20090",
-  "published": "2021-11-03",
-  "summary": "Arcadyan Buffalo firmware contains a path traversal vulnerability that could allow unauthenticated, remote attackers to bypass authentication and access sensitive information. This vulnerability affects multiple routers across several different vendors.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-20090",
-   "vendor": "Arcadyan",
-   "product": "Buffalo Firmware",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "3ddaec462eb68faa4bd7812992a1ab9ec4e3482b"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-27562 — Arm Trusted Firmware Out-of-Bounds Write Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-27562",
-  "published": "2021-11-03",
-  "summary": "Arm Trusted Firmware contains an out-of-bounds write vulnerability allowing the non-secure (NS) world to trigger a system halt, overwrite secure data, or print out secure data when calling secure functions under the non-secure processing environment (NSPE) handler mode. This vulnerability affects Yealink Device Management servers.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-27562",
-   "vendor": "Arm",
-   "product": "Trusted Firmware",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "4f495ec949b7e33570df32f54b694939ae422ee5"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-28664 — Arm Mali Graphics Processing Unit (GPU) Unspecified Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-28664",
-  "published": "2021-11-03",
-  "summary": "Arm Mali Graphics Processing Unit (GPU) kernel driver contains an unspecified vulnerability that may allow a non-privileged user to gain write access to read-only memory, gain root privilege, corrupt memory, and modify the memory of other processes.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-28664",
-   "vendor": "Arm",
-   "product": "Mali Graphics Processing Unit (GPU)",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "796a1e9547923293c58119ec73a6f289c0bd6f22"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-28663 — Arm Mali Graphics Processing Unit (GPU) Use-After-Free Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-28663",
-  "published": "2021-11-03",
-  "summary": "Arm Mali Graphics Processing Unit (GPU) kernel driver contains a use-after-free vulnerability that may allow a non-privileged user to make improper operations on GPU memory to gain root privilege, and/or disclose information.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-28663",
-   "vendor": "Arm",
-   "product": "Mali Graphics Processing Unit (GPU)",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "558219fa03b01e5466177346cfd86b512f010773"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2019-3398 — Atlassian Confluence Server and Data Center Path Traversal Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-3398",
-  "published": "2021-11-03",
-  "summary": "Atlassian Confluence Server and Data Center contain a path traversal vulnerability in the downloadallattachments resource that may allow a privileged, remote attacker to write files. Exploitation can lead to remote code execution.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2019-3398",
-   "vendor": "Atlassian",
-   "product": "Confluence Server and Data Center",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "e6a6212769c512e2e10b4a3be0054d758abd81f2"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-26084 — Atlassian Confluence Server and Data Center Object-Graph Navigation Language (OGNL) Injection Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-26084",
-  "published": "2021-11-03",
-  "summary": "Atlassian Confluence Server and Data Server contain an Object-Graph Navigation Language (OGNL) injection vulnerability that may allow an unauthenticated attacker to execute code.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-26084",
-   "vendor": "Atlassian",
-   "product": "Confluence Server and Data Center",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "e1b6229a12635424b044f91dd9246b4af7f9cf37"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2019-11580 — Atlassian Crowd and Crowd Data Center Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-11580",
-  "published": "2021-11-03",
-  "summary": "Atlassian Crowd and Crowd Data Center contain a remote code execution vulnerability resulting from a pdkinstall development plugin being incorrectly enabled in release builds.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2019-11580",
-   "vendor": "Atlassian",
-   "product": "Crowd and Crowd Data Center",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "66faab7e22166737b216520cc65463947e322a89"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2019-3396 — Atlassian Confluence Server and Data Center Server-Side Template Injection Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-3396",
-  "published": "2021-11-03",
-  "summary": "Atlassian Confluence Server and Data Center contain a server-side template injection vulnerability that may allow an attacker to achieve path traversal and remote code execution.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2019-3396",
-   "vendor": "Atlassian",
-   "product": "Confluence Server and Data Server",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "1043a48ff5136d1bb2e653a3572415b4d99da2a6"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-42258 — BQE BillQuick Web Suite SQL Injection Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-42258",
-  "published": "2021-11-03",
-  "summary": "BQE BillQuick Web Suite contains an SQL injection vulnerability when accessing the username parameter that may allow for unauthenticated, remote code execution.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-42258",
-   "vendor": "BQE",
-   "product": "BillQuick Web Suite",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "1071421b581fa486ca1a2a19582c9add74f0a5f3"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-3452 — Cisco ASA and FTD Read-Only Path Traversal Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-3452",
-  "published": "2021-11-03",
-  "summary": "Cisco Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD) contain an improper input validation vulnerability when HTTP requests process URLs.  An attacker could exploit this vulnerability by sending a crafted HTTP request containing directory traversal character sequences to an affected device. A successful exploit could allow the attacker to view arbitrary files within the web services file system on the targeted device.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-3452",
-   "vendor": "Cisco",
-   "product": "Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD)",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "d0bcfc04ac37d93a193ef2f3a6f54311b17f90b5"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-3580 — Cisco ASA and FTD Cross-Site Scripting (XSS) Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-3580",
-  "published": "2021-11-03",
-  "summary": "Cisco Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD) contain an insufficient input validation vulnerability for user-supplied input by the web services interface.  Successful exploitation could allow an attacker to perform cross-site scripting (XSS) in the context of the interface or access sensitive browser-based information.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-3580",
-   "vendor": "Cisco",
-   "product": "Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD)",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "ce67cce1f178bf249478bfe6565d5c2a1be7ecc9"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-1497 — Cisco HyperFlex HX Installer Virtual Machine Command Injection Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-1497",
-  "published": "2021-11-03",
-  "summary": "Cisco HyperFlex HX Installer Virtual Machine contains an insufficient input validation vulnerability which could allow an attacker to execute commands on an affected device as the root user.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-1497",
-   "vendor": "Cisco",
-   "product": "HyperFlex HX",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "3d05a6e81adb20f3a57191a883b7fc0b6538b3a8"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-1498 — Cisco HyperFlex HX Data Platform Command Injection Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-1498",
-  "published": "2021-11-03",
-  "summary": "Cisco HyperFlex HX Installer Virtual Machine contains an insufficient input validation vulnerability which could allow an attacker to execute commands on an affected device as the tomcat8 user.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-1498",
-   "vendor": "Cisco",
-   "product": "HyperFlex HX",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "ec6a503bf6e19a769a2ef1c19e215b3588756f22"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2018-0171 — Cisco IOS and IOS XE Software Smart Install Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-0171",
-  "published": "2021-11-03",
-  "summary": "Cisco IOS and IOS XE Software improperly validates packet data, allowing an unauthenticated, remote attacker to trigger a reload of an affected device, cause a denial-of-service (DoS) condition, or perform code execution on the affected device.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2018-0171",
-   "vendor": "Cisco",
-   "product": "IOS and IOS XE",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "526b3ebb80c8b5fab7ed7bee27c29a02516ddb0d"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-3118 — Cisco IOS XR Software Discovery Protocol Format String Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-3118",
-  "published": "2021-11-03",
-  "summary": "Cisco IOS XR improperly validates string input from certain fields in Cisco Discovery Protocol messages. Exploitation could allow an unauthenticated, adjacent attacker to execute code with administrative privileges or cause a reload on an affected device.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-3118",
-   "vendor": "Cisco",
-   "product": "IOS XR",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "899e9ca434d9ff2f3f4c93455a7cc457d3daf56a"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-3566 — Cisco IOS XR Software DVMRP Memory Exhaustion Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-3566",
-  "published": "2021-11-03",
-  "summary": "Cisco IOS XR Distance Vector Multicast Routing Protocol (DVMRP) incorrectly handles Internet Group Management Protocol (IGMP) packets. Exploitation could allow an unauthenticated, remote attacker to immediately crash the IGMP process or make it consume available memory and eventually crash.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-3566",
-   "vendor": "Cisco",
-   "product": "IOS XR",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "f33eb25df7e462f1d2907283941c5f28e2bd275d"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-3569 — Cisco IOS XR Software DVMRP Memory Exhaustion Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-3569",
-  "published": "2021-11-03",
-  "summary": "Cisco IOS XR Distance Vector Multicast Routing Protocol (DVMRP) incorrectly handles Internet Group Management Protocol (IGMP) packets. Exploitation could allow an unauthenticated, remote attacker to immediately crash the IGMP process or make it consume available memory and eventually crash.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-3569",
-   "vendor": "Cisco",
-   "product": "IOS XR",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "85a416594a303937eec4679980c34da50e611dae"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-3161 — Cisco IP Phones Web Server Remote Code Execution and Denial-of-Service Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-3161",
-  "published": "2021-11-03",
-  "summary": "Cisco IP Phones contain an improper input validation vulnerability for HTTP requests. Exploitation could allow an attacker to execute code remotely with root privileges or cause a denial-of-service (DoS) condition.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-3161",
-   "vendor": "Cisco",
-   "product": "Cisco IP Phones",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "be1b24e6504108558b3b25c516926344c1c01d43"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2019-1653 — Cisco Small Business RV320 and RV325 Routers Information Disclosure Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-1653",
-  "published": "2021-11-03",
-  "summary": "Cisco Small Business RV320 and RV325 Dual Gigabit WAN VPN Routers contain improper access controls for URLs. Exploitation could allow an attacker to download the router configuration or detailed diagnostic information.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2019-1653",
-   "vendor": "Cisco",
-   "product": "Small Business RV320 and RV325 Routers",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "ee13fde9f1191d263ae71ad8fb8a57f924a62b05"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2018-0296 — Cisco Adaptive Security Appliance (ASA) Denial-of-Service Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-0296",
-  "published": "2021-11-03",
-  "summary": "Cisco Adaptive Security Appliance (ASA) contains an improper input validation vulnerability with HTTP URLs. Exploitation could allow an attacker to cause a denial-of-service (DoS) condition or information disclosure.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2018-0296",
-   "vendor": "Cisco",
-   "product": "Adaptive Security Appliance (ASA)",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "ccad884ea961895c75a1920c9e5fcaeaf178b0a8"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2019-13608 — Citrix StoreFront Server XML External Entity (XXE) Processing Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-13608",
-  "published": "2021-11-03",
-  "summary": "Citrix StoreFront Server contains an XML External Entity (XXE) processing vulnerability that may allow an unauthenticated attacker to retrieve potentially sensitive information.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2019-13608",
-   "vendor": "Citrix",
-   "product": "StoreFront Server",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "9a090af77b8cecba45302654fb4a4f903d59aa96"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-8193 — Citrix ADC, Gateway, and SD-WAN WANOP Appliance Authorization Bypass Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-8193",
-  "published": "2021-11-03",
-  "summary": "Citrix ADC, Citrix Gateway, and multiple Citrix SD-WAN WANOP appliance models contain an authorization bypass vulnerability that may allow unauthenticated access to certain URL endpoints. The attacker must have access to the NetScaler IP (NSIP) in order to perform exploitation.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-8193",
-   "vendor": "Citrix",
-   "product": "Application Delivery Controller (ADC), Gateway, and SD-WAN WANOP Appliance",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "377cf621c816d78b72d2929ed3f2eeb80c756890"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-8195 — Citrix ADC, Gateway, and SD-WAN WANOP Appliance Information Disclosure Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-8195",
-  "published": "2021-11-03",
-  "summary": "Citrix ADC, Citrix Gateway, and multiple Citrix SD-WAN WANOP appliance models contain an information disclosure vulnerability.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-8195",
-   "vendor": "Citrix",
-   "product": "Application Delivery Controller (ADC), Gateway, and SD-WAN WANOP Appliance",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "197bb96435cd769e879cf36f86578ca42e10b7af"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-8196 — Citrix ADC, Gateway, and SD-WAN WANOP Appliance Information Disclosure Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-8196",
-  "published": "2021-11-03",
-  "summary": "Citrix ADC, Citrix Gateway, and multiple Citrix SD-WAN WANOP appliance models contain an information disclosure vulnerability.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-8196",
-   "vendor": "Citrix",
-   "product": "Application Delivery Controller (ADC), Gateway, and SD-WAN WANOP Appliance",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "301b6c949dbea3d9453b47d2d97ea537955b8e2a"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2019-19781 — Citrix ADC, Gateway, and SD-WAN WANOP Appliance Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-19781",
-  "published": "2021-11-03",
-  "summary": "Citrix ADC, Citrix Gateway, and multiple Citrix SD-WAN WANOP appliance models contain an unspecified vulnerability that could allow an unauthenticated attacker to perform code execution.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2019-19781",
-   "vendor": "Citrix",
-   "product": "Application Delivery Controller (ADC), Gateway, and SD-WAN WANOP Appliance",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "2b248a3b69611fb5ea37e1f73b5638e9450641b0"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2019-11634 — Citrix Workspace Application and Receiver for Windows Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-11634",
-  "published": "2021-11-03",
-  "summary": "Citrix Workspace Application and Receiver for Windows contains remote code execution vulnerability resulting from local drive access preferences not being enforced into the clients' local drives.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2019-11634",
-   "vendor": "Citrix",
-   "product": "Workspace Application and Receiver for Windows",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "71105ee819147174658b4d161c5ca35f52848742"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-29557 — D-Link DIR-825 R1 Devices Buffer Overflow Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-29557",
-  "published": "2021-11-03",
-  "summary": "D-Link DIR-825 R1 devices contain a buffer overflow vulnerability in the web interface that may allow for remote code execution.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-29557",
-   "vendor": "D-Link",
-   "product": "DIR-825 R1 Devices",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "62b1112fc700fa7f9b30c4f95361abe6e6069830"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-25506 — D-Link DNS-320 Device Command Injection Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-25506",
-  "published": "2021-11-03",
-  "summary": "D-Link DNS-320 device contains a command injection vulnerability in the sytem_mgr.cgi component that may allow for remote code execution.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-25506",
-   "vendor": "D-Link",
-   "product": "DNS-320 Device",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "3fc5d6f09f588772a99c8833ff95daec4bd9c145"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2018-15811 — DotNetNuke (DNN) Inadequate Encryption Strength Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-15811",
-  "published": "2021-11-03",
-  "summary": "DotNetNuke (DNN) contains an inadequate encryption strength vulnerability resulting from the use of a weak encryption algorithm to protect input parameters.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2018-15811",
-   "vendor": "DotNetNuke (DNN)",
-   "product": "DotNetNuke (DNN)",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "b9ce6c033f60a866603bcae09ef7c4be4cdf8b69"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2018-18325 — DotNetNuke (DNN) Inadequate Encryption Strength Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-18325",
-  "published": "2021-11-03",
-  "summary": "DotNetNuke (DNN) contains an inadequate encryption strength vulnerability resulting from the use of a weak encryption algorithm to protect input parameters. This CVE ID resolves an incomplete patch for CVE-2018-15811.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2018-18325",
-   "vendor": "DotNetNuke (DNN)",
-   "product": "DotNetNuke (DNN)",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "da8f05e19f6b130dc14e87e2b925fe700af8faf5"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2017-9822 — DotNetNuke (DNN) Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2017-9822",
-  "published": "2021-11-03",
-  "summary": "DotNetNuke (DNN) contains a vulnerability that may allow for remote code execution via cookie deserialization.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2017-9822",
-   "vendor": "DotNetNuke (DNN)",
-   "product": "DotNetNuke (DNN)",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "a6adaf7c91e603ade540b10a5cde2b1694e07e62"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2019-15752 — Docker Desktop Community Edition Privilege Escalation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-15752",
-  "published": "2021-11-03",
-  "summary": "Docker Desktop Community Edition contains a vulnerability that may allow local users to escalate privileges by placing a trojan horse docker-credential-wincred.exe file in %PROGRAMDATA%\\DockerDesktop\\version-bin\\.",
-  "categories": [
-   "cloud",
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2019-15752",
-   "vendor": "Docker",
-   "product": "Desktop Community Edition",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "94273d84ee1c34bfa0b8f56f1638bb5428e842d0"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-8515 — Multiple DrayTek Vigor Routers Web Management Page Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-8515",
-  "published": "2021-11-03",
-  "summary": "DrayTek Vigor3900, Vigor2960, and Vigor300B routers contain an unspecified vulnerability that allows for remote code execution.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-8515",
-   "vendor": "DrayTek",
-   "product": "Multiple Vigor Routers",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "ec79a421dbe1ed021b913156c13a3056b2ac5557"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2018-7600 — Drupal Core Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-7600",
-  "published": "2021-11-03",
-  "summary": "Drupal Core contains a remote code execution vulnerability that could allow an attacker to exploit multiple attack vectors on a Drupal site, resulting in complete site compromise.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2018-7600",
-   "vendor": "Drupal",
-   "product": "Drupal Core",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "8eb6f9e4413349bdfb3dc17eb80dfff3e8e59178"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-22205 — GitLab Community and Enterprise Editions Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-22205",
-  "published": "2021-11-03",
-  "summary": "GitHub Community and Enterprise Editions that utilize the ability to upload images through GitLab Workhorse are vulnerable to remote code execution. Workhorse passes image file extensions through ExifTool, which improperly validates the image files.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-22205",
-   "vendor": "GitLab",
-   "product": "Community and Enterprise Editions",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "6199c939a72b961e82830c3f2118656ad7f751ba"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2018-6789 — Exim Buffer Overflow Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-6789",
-  "published": "2021-11-03",
-  "summary": "Exim contains a buffer overflow vulnerability in the base64d function part of the SMTP listener that may allow for remote code execution.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2018-6789",
-   "vendor": "Exim",
-   "product": "Exim",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "9751bcd4f94c97b08dea927ed17f9bede29d7d00"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-8657 — EyesOfNetwork Use of Hard-Coded Credentials Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-8657",
-  "published": "2021-11-03",
-  "summary": "EyesOfNetwork contains a use of hard-coded credentials vulnerability, as it uses the same API key by default. Exploitation allows an attacker to calculate or guess the admin access token.",
-  "categories": [
-   "breach",
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-8657",
-   "vendor": "EyesOfNetwork",
-   "product": "EyesOfNetwork",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "5ecca79e582fd5f5431bf61e370e6ea02bb443b8"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-8655 — EyesOfNetwork Improper Privilege Management Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-8655",
-  "published": "2021-11-03",
-  "summary": "EyesOfNetwork contains an improper privilege management vulnerability that may allow a user to run commands as root via a crafted Nmap Scripting Engine (NSE) script to nmap7.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-8655",
-   "vendor": "EyesOfNetwork",
-   "product": "EyesOfNetwork",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "a8f687d82a81a65ef2a360989b7a488d09e7aab3"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-5902 — F5 BIG-IP Traffic Management User Interface (TMUI) Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-5902",
-  "published": "2021-11-03",
-  "summary": "F5 BIG-IP Traffic Management User Interface (TMUI) contains a remote code execution vulnerability in undisclosed pages.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-5902",
-   "vendor": "F5",
-   "product": "BIG-IP",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "84ea030f368bc615cf82fd3daacc9ee9682cf899"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-22986 — F5 BIG-IP and BIG-IQ Centralized Management iControl REST Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-22986",
-  "published": "2021-11-03",
-  "summary": "F5 BIG-IP and BIG-IQ Centralized Management contain a remote code execution vulnerability in the iControl REST interface that allows unauthenticated attackers with network access to execute system commands, create or delete files, and disable services.",
-  "categories": [
-   "cloud",
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-22986",
-   "vendor": "F5",
-   "product": "BIG-IP and BIG-IQ Centralized Management",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "3a5592f100a7fbca4ba2a9fe50a48f268b5f46f7"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-35464 — ForgeRock Access Management (AM) Core Server Remote Code Execution Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-35464",
-  "published": "2021-11-03",
-  "summary": "ForgeRock Access Management (AM) Core Server allows an attacker who sends a specially crafted HTTP request to one of three endpoints (/ccversion/Version, /ccversion/Masthead, or /ccversion/ButtonFrame) to execute code in the context of the current user (unless ForgeRock AM is running as root user, which the vendor does not recommend).",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-35464",
-   "vendor": "ForgeRock",
-   "product": "Access Management (AM)",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "e5098ddc33adf2899d86145724792a190dcbe789"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2019-5591 — Fortinet FortiOS Default Configuration Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2019-5591",
-  "published": "2021-11-03",
-  "summary": "Fortinet FortiOS contains a default configuration vulnerability that may allow an unauthenticated attacker on the same subnet to intercept sensitive information by impersonating the Lightweight Directory Access Protocol (LDAP) server.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2019-5591",
-   "vendor": "Fortinet",
-   "product": "FortiOS",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "0a5a2c1b03c363c8cef758ce2f448f8278d08b71"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-12812 — Fortinet FortiOS SSL VPN Improper Authentication Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-12812",
-  "published": "2021-11-03",
-  "summary": "Fortinet FortiOS SSL VPN contains an improper authentication vulnerability that may allow a user to login successfully without being prompted for the second factor of authentication (FortiToken) if they change the case in their username.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-12812",
-   "vendor": "Fortinet",
-   "product": "FortiOS",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "7963ce6d49e7e109f02e8770352fb5aa5a0fedaa"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2018-13379 — Fortinet FortiOS SSL VPN Path Traversal Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2018-13379",
-  "published": "2021-11-03",
-  "summary": "Fortinet FortiOS SSL VPN web portal contains a path traversal vulnerability that may allow an unauthenticated attacker to download FortiOS system files through specially crafted HTTP resource requests.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2018-13379",
-   "vendor": "Fortinet",
-   "product": "FortiOS",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "c074f2c298d71b295b3b5585c87749e462942c57"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-16010 — Google Chrome for Android UI Heap Buffer Overflow Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-16010",
-  "published": "2021-11-03",
-  "summary": "Google Chrome for Android UI contains a heap buffer overflow vulnerability that allows a remote attacker, who has compromised the renderer process, to potentially perform a sandbox escape via a crafted HTML page.",
-  "categories": [
-   "breach",
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-16010",
-   "vendor": "Google",
-   "product": "Chrome for Android UI",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "2dbd9f2323b2c617e3de096149ed413680176329"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-15999 — Google Chrome FreeType Heap Buffer Overflow Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-15999",
-  "published": "2021-11-03",
-  "summary": "Google Chrome uses FreeType, an open-source software library to render fonts, which contains a heap buffer overflow vulnerability in the function Load_SBit_Png when processing PNG images embedded into fonts. This vulnerability is part of an exploit chain with CVE-2020-17087 on Windows and CVE-2020-16010 on Android.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-15999",
-   "vendor": "Google",
-   "product": "Chrome FreeType",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "c6dfdb6bc5234576c5ad35d45e1016e06b8a31c6"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-21166 — Google Chromium Race Condition Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-21166",
-  "published": "2021-11-03",
-  "summary": "Google Chromium contains a race condition vulnerability that allows a remote attacker to potentially exploit heap corruption via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-21166",
-   "vendor": "Google",
-   "product": "Chromium",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "49af2cefe2d105c025692705dcd765d9c33dc1ad"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-16017 — Google Chrome Use-After-Free Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-16017",
-  "published": "2021-11-03",
-  "summary": "Google Chrome contains a use-after-free vulnerability that allows a remote attacker, who has compromised the renderer process, to potentially perform a sandbox escape via a crafted HTML page.  ",
-  "categories": [
-   "breach",
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-16017",
-   "vendor": "Google",
-   "product": "Chrome",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "ceaddde0404ec70d9b92b86b005547869768fa67"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-37976 — Google Chromium Information Disclosure Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-37976",
-  "published": "2021-11-03",
-  "summary": "Google Chromium contains an information disclosure vulnerability within the core memory component that allows a remote attacker to obtain potentially sensitive information from process memory via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-37976",
-   "vendor": "Google",
-   "product": "Chromium",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "e89d01fa3c701370dd1a20d19621aa8d1ddcb313"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-16009 — Google Chromium V8 Type Confusion Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-16009",
-  "published": "2021-11-03",
-  "summary": "Google Chromium V8 Engine contains a type confusion vulnerability that allows a remote attacker to potentially exploit heap corruption via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-16009",
-   "vendor": "Google",
-   "product": "Chromium V8",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "933bf9aac2386089fa395bc44ba5c23f9e5d19d3"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-30632 — Google Chromium V8 Out-of-Bounds Write Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-30632",
-  "published": "2021-11-03",
-  "summary": "Google Chromium V8 Engine contains an out-of-bounds write vulnerability that allows a remote attacker to potentially exploit heap corruption via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-30632",
-   "vendor": "Google",
-   "product": "Chromium V8",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "1963e5519acdb9aaaaccffdabd6c5da186f70f24"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-16013 — Google Chromium V8 Incorrect Implementation Vulnerabililty",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-16013",
-  "published": "2021-11-03",
-  "summary": "Google Chromium V8 Engine contains an inappropriate implementation vulnerability that allows a remote attacker to potentially exploit heap corruption via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-16013",
-   "vendor": "Google",
-   "product": "Chromium V8",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "9d846e49a4b0fc2872186037d9fae22892bbf5b1"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-30633 — Google Chromium Indexed DB API Use-After-Free Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-30633",
-  "published": "2021-11-03",
-  "summary": "Google Chromium Indexed DB API contains a use-after-free vulnerability that allows a remote attacker, who has compromised the renderer process, to potentially perform a sandbox escape via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
-  "categories": [
-   "breach",
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-30633",
-   "vendor": "Google",
-   "product": "Chromium Indexed DB API",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "678559292e1375271fa6ca1fa0a19725500fe2b9"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-21148 — Google Chromium V8 Heap Buffer Overflow Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-21148",
-  "published": "2021-11-03",
-  "summary": "Google Chromium V8 Engine contains a heap buffer overflow vulnerability that allows a remote attacker to potentially exploit heap corruption via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-21148",
-   "vendor": "Google",
-   "product": "Chromium V8",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "30c471e86228153549ef739db023e2ccfc628489"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-37973 — Google Chromium Portals Use-After-Free Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-37973",
-  "published": "2021-11-03",
-  "summary": "Google Chromium Portals contains a use-after-free vulnerability that allows a remote attacker, who has compromised the renderer process, to potentially perform a sandbox escape via a crafted HTML page. This vulnerability affects web browsers that utilize Chromium, including Google Chrome and Microsoft Edge.",
-  "categories": [
-   "breach",
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-37973",
-   "vendor": "Google",
-   "product": "Chromium Portals",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "033f4c110daa4e1a870d5c35fd6c213b675e7d8c"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-30551 — Google Chromium V8 Type Confusion Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-30551",
-  "published": "2021-11-03",
-  "summary": "Google Chromium V8 Engine contains a type confusion vulnerability that allows a remote attacker to potentially exploit heap corruption via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-30551",
-   "vendor": "Google",
-   "product": "Chromium V8",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "1523627dd738f224877ad5ffdcfa7e1639e3827c"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-37975 — Google Chromium V8 Use-After-Free Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-37975",
-  "published": "2021-11-03",
-  "summary": "Google Chromium V8 Engine contains a use-after-free vulnerability that allows a remote attacker to potentially exploit heap corruption via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-37975",
-   "vendor": "Google",
-   "product": "Chromium V8",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "d3eaf2fe4283e8cfc44ebb984d43e7ceb9a931ce"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2020-6418 — Google Chromium V8 Type Confusion Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-6418",
-  "published": "2021-11-03",
-  "summary": "Google Chromium V8 Engine contains a type confusion vulnerability allows a remote attacker to potentially exploit heap corruption via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2020-6418",
-   "vendor": "Google",
-   "product": "Chromium V8",
-   "due_date": "2022-05-03",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "c24243111315f22f7f35a4e5c0c96c3800ae8226"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-30554 — Google Chromium WebGL Use-After-Free Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-30554",
-  "published": "2021-11-03",
-  "summary": "Google Chromium WebGL contains a use-after-free vulnerability that allows a remote attacker to potentially exploit heap corruption via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-30554",
-   "vendor": "Google",
-   "product": "Chromium WebGL",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "e1a26e3224d2cd1b234062070b5ab43eac82fcac"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-21206 — Google Chromium Blink Use-After-Free Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-21206",
-  "published": "2021-11-03",
-  "summary": "Google Chromium Blink contains a use-after-free vulnerability that allows a remote attacker to potentially exploit heap corruption via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-21206",
-   "vendor": "Google",
-   "product": "Chromium Blink",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "9c4c283c6aec7eb013d8163fff09ba290ebf807a"
- },
- {
-  "source": "CISA KEV",
-  "title": "CVE-2021-38000 — Google Chromium Intents Improper Input Validation Vulnerability",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-38000",
-  "published": "2021-11-03",
-  "summary": "Google Chromium Intents contains an improper input validation vulnerability that allows a remote attacker to arbitrarily browser to a malicious URL via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
-  "categories": [
-   "kev"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2021-38000",
-   "vendor": "Google",
-   "product": "Chromium Intents",
-   "due_date": "2021-11-17",
-   "required_action": "Apply updates per vendor instructions."
-  },
-  "title_vi": "",
-  "key": "9d89dff91c22b4e6ab8c723e2ad716f92bd42348"
  }
 ]
