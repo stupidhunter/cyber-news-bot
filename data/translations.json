@@ -22574,5 +22574,9 @@
  "5e7dab5ee2bf7ae5050b1bbb40c945c679c08962": "CVE-2017-0210 — Lỗ hổng nâng cao đặc quyền của Microsoft Internet Explorer",
  "1d92f0e8c1ff600a4620af3b8b4c36e175f0280e": "CVE-2017-8291 — Lỗ hổng nhầm lẫn loại Artifex Ghostscript",
  "586c16bd965d84558aed966e147d38be6aa99c9e": "CVE-2017-8543 — Lỗ hổng thực thi mã từ xa của Microsoft Windows Search",
- "8fd1bb353a0cd1ae0f21141ac1f9c6ffd0d5f480": "CVE-2017-18362 — Lỗ hổng chèn SQL Kaseya VSA"
+ "8fd1bb353a0cd1ae0f21141ac1f9c6ffd0d5f480": "CVE-2017-18362 — Lỗ hổng chèn SQL Kaseya VSA",
+ "97dc4019e73782c7099f72b975afa25ae3def7b3": "CVE-2022-44698 — Lỗ hổng vượt qua tính năng bảo mật SmartScreen của Microsoft Defender",
+ "44490c629a748fbc4acb568a8b129c5f14e8fb40": "CVE-2022-27518 — Bộ điều khiển phân phối ứng dụng Citrix (ADC) và lỗ hổng bỏ qua xác thực cổng",
+ "0a6a89311dc3ba93bd2a44b48fd3aad4bb70afd0": "CVE-2022-26500 — Lỗ hổng thực thi mã từ xa sao lưu và sao chép Veeam",
+ "5dfba2695d998efb2c8cf149de8548f20482e38d": "CVE-2022-26501 — Lỗ hổng thực thi mã từ xa sao lưu và sao chép Veeam"
 }
