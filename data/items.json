@@ -1,6 +1,737 @@
 [
  {
   "source": "VietnamPlus Kinh tế số",
+  "title": "43 đội tranh tài tại Chung kết Cuộc thi Sáng tạo trẻ Quốc gia về AI năm 2026",
+  "link": "https://www.vietnamplus.vn/43-doi-tranh-tai-tai-chung-ket-cuoc-thi-sang-tao-tre-quoc-gia-ve-ai-nam-2026-post1151186.vnp",
+  "published": "2026-11-28T16:01:25+00:00",
+  "summary": "43 đội xuất sắc tranh tài tại chung kết Cuộc thi Sáng tạo trẻ Quốc gia về AI 2026 ở Hà Nội, với thử thách Hackathon và các sản phẩm ứng dụng thực tiễn. Khuyến khích đổi mới, sáng tạo, khát vọng cống hiến của tuổi trẻ Việt Nam Cơ chế thu hút tài năng trẻ trong hoạt động đổi mới sáng tạo như thế nào? Kết nối trí thức trẻ Việt Nam tại châu Âu với công nghệ và đổi mới sáng tạo",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "1c3c433f6c7973baff7b97fabaf24953d10ab89a"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
+  "title": "Bài toán tự chủ ngân sách ứng phó HIV/AIDS cho châu Phi",
+  "link": "https://www.vietnamplus.vn/bai-toan-tu-chu-ngan-sach-ung-pho-hivaids-cho-chau-phi-post1151172.vnp",
+  "published": "2026-11-28T13:32:46+00:00",
+  "summary": "Theo giới chuyên gia, khoảng trống tài chính hiện nay đã tác động nghiêm trọng đến nỗ lực phòng ngừa HIV, cũng như các chương trình dựa vào cộng đồng. Bộ Y tế yêu cầu chấn chỉnh quản lý, bảo mật thông tin người nhiễm HIV Mỹ phê duyệt tạm thời thuốc tiêm phòng HIV/AIDS giá rẻ Liên hợp quốc thông qua Tuyên bố chính trị về HIV/AIDS",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "40188cf4c3edf4a32be47f1c7fff5d31926b3558"
+ },
+ {
+  "source": "Tuổi Trẻ Công nghệ",
+  "title": "Nhiều trường học ở Mỹ chặn tính năng AI của Google",
+  "link": "https://tuoitre.vn/nhieu-truong-hoc-o-my-chan-tinh-nang-ai-cua-google-100261128133056351.htm",
+  "published": "2026-11-28T16:37:19.897780+00:00",
+  "summary": "Lo học sinh lệ thuộc AI, nhiều học khu tại Mỹ tìm cách vô hiệu hóa công cụ của Google, thậm chí cân nhắc từ bỏ sản phẩm của hãng.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "adf440731fb10095a8f40cfa4592121cbba34416"
+ },
+ {
+  "source": "Tuổi Trẻ Công nghệ",
+  "title": "Ba xu hướng AI tại nơi làm việc đáng chú ý trong năm 2027",
+  "link": "https://tuoitre.vn/ba-xu-huong-ai-tai-noi-lam-viec-dang-chu-y-trong-nam-2027-100261128103448701.htm",
+  "published": "2026-11-28T16:37:19.897815+00:00",
+  "summary": "Một khảo sát mới của Adecco Group với 40.500 người lao động tại 36 quốc gia và 21 ngành nghề cho thấy gần 3/4 số người được hỏi đang sử dụng các tác nhân AI (AI agents) trong công việc, tăng từ 64% vào năm 2025.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "eac0a5ab30499d28f69cfecfa0c657696342b653"
+ },
+ {
+  "source": "Thanh Niên Công nghệ",
+  "title": "Apple bị OpenAI kiện ngược trong vụ đ&aacute;nh cắp b&iacute; mật thương mại",
+  "link": "https://thanhnien.vn/apple-bi-openai-kien-nguoc-trong-vu-danh-cap-bi-mat-thuong-mai-185261128154925953.htm",
+  "published": "2026-11-28T10:56:00+00:00",
+  "summary": "Apple từng kiện OpenAI với c&aacute;o buộc đ&aacute;nh cắp b&iacute; mật thương mại nhưng giờ c&ocirc;ng ty mẹ ChatGPT lại đ&acirc;m đơn kiện ngược lại nh&agrave; sản xuất iPhone, khiến vụ tranh chấp trở n&ecirc;n phức tạp hơn.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "ede5c215f81f06faac5525673a68e3ab9268bfbd"
+ },
+ {
+  "source": "GenK",
+  "title": "Kẻ lạ trong hệ thống đám mây của Không quân Mỹ",
+  "link": "https://genk.vn/ke-la-trong-he-thong-dam-may-cua-khong-quan-my-165261128231549406.chn",
+  "published": "2026-11-28T16:37:09.624783+00:00",
+  "summary": "Năm nguồn tin giấu tên nói kẻ tấn công đã tiếp cận lớp điều khiển của Cloud One, trong khi Không quân Mỹ chưa xác nhận hay bình luận.",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "b94f8f0ef2959fc2d0018f4739eb14d652eee95d"
+ },
+ {
+  "source": "GenK",
+  "title": "Dung lượng iCloud sắp quyết định bạn được hỏi Siri bao nhiêu lần mỗi ngày",
+  "link": "https://genk.vn/dung-luong-icloud-sap-quyet-dinh-ban-duoc-hoi-siri-bao-nhieu-lan-moi-ngay-165261128231547532.chn",
+  "published": "2026-11-28T16:37:09.624818+00:00",
+  "summary": "Bản beta iOS 27.3 cho thấy các tác vụ Siri AI chạy trên máy chủ sẽ có hạn mức mỗi ngày, và gói iCloud+ cao hơn được nhân thêm lượt.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "d25affdc7b4f3d9182fdab9c84adb1f8415f50bf"
+ },
+ {
+  "source": "GenK",
+  "title": "Giữa lúc nhiều dự án AI bị chê ngốn điện, nhà đồng sáng lập Tesla lại đưa AI vào làm một việc thực tế trong bãi rác",
+  "link": "https://genk.vn/giua-luc-nhieu-du-an-ai-bi-che-ngon-dien-nha-dong-sang-lap-tesla-lai-dua-ai-vao-lam-mot-viec-thuc-te-trong-bai-rac-16526112819252062.chn",
+  "published": "2026-11-28T16:37:09.624969+00:00",
+  "summary": "Ngày 21/11/2026, công ty tái chế Redwood Materials do nhà đồng sáng lập Tesla JB Straubel điều hành công bố vận hành dây chuyền thị giác AI có khả năng tự động phân loại hàng tấn pin phế thải mỗi giờ với độ chính xác trên 98% để thu hồi kim loại quý.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "ac425cfa8c8490633322eaeb38351da6e871d9a5"
+ },
+ {
+  "source": "Znews Công nghệ",
+  "title": "Tấn công tống tiền tại Việt Nam tăng vọt",
+  "link": "https://znews.vn/con-so-dang-chu-y-ve-tan-cong-tong-tien-tai-viet-nam-post1699649.html",
+  "published": "2026-11-28T10:34:46+00:00",
+  "summary": "Số vụ tấn công ransomware nhắm vào các tổ chức Việt Nam tăng 8 lần sau 2 năm khi các nhóm tin tặc ngày càng chuyên nghiệp.",
+  "categories": [
+   "breach",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "34b05dc4849db23962e99abe9ff654792cbb10d8"
+ },
+ {
+  "source": "VnExpress Số hóa",
+  "title": "OpenAI kiện ngược Apple đánh cắp bí mật thương mại",
+  "link": "https://vnexpress.net/openai-kien-nguoc-apple-danh-cap-bi-mat-thuong-mai-5150060.html",
+  "published": "2026-11-28T12:46:40+00:00",
+  "summary": "OpenAI đệ đơn kiện lên tòa án liên bang California, cáo buộc Apple có hành vi kinh doanh bất hợp pháp, gây thiệt hại và cạnh tranh không công bằng.",
+  "categories": [
+   "ai",
+   "breach",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "0a133b7c2b3e1fa1686467cc91f9e4838bb2cf91"
+ },
+ {
+  "source": "VnExpress Số hóa",
+  "title": "Singapore đàm phán với Mỹ để duy trì nguồn chip AI tiên tiến",
+  "link": "https://vnexpress.net/singapore-dam-phan-voi-my-de-duy-tri-nguon-chip-ai-tien-tien-5150013.html",
+  "published": "2026-11-28T09:10:12+00:00",
+  "summary": "Sau thông tin Nvidia dừng vận chuyển chip đến Singapore, Phó thủ tướng nước này thông báo đang trao đổi với Mỹ và doanh nghiệp trong nước.",
+  "categories": [
+   "ai",
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "efc3fbce49ecb086bfbd480311c97d7cbd95a463"
+ },
+ {
+  "source": "VnExpress Số hóa",
+  "title": "Bộ phận kiểm duyệt nội dung Meta rối loạn",
+  "link": "https://vnexpress.net/bo-phan-kiem-duyet-noi-dung-meta-roi-loan-5149793.html",
+  "published": "2026-11-28T04:00:00+00:00",
+  "summary": "Meta đẩy mạnh thay thế người kiểm duyệt bằng AI, khiến nhiều nhân viên lo ngại về những đợt sa thải lớn và sai sót khi chọn lọc nội dung.",
+  "categories": [
+   "vietnamese"
+  ],
+  "lang": "vi",
+  "extra": {},
+  "title_vi": "",
+  "key": "bc5d36098f5c9f93e2e6c7b13654f8ffafcca607"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "Booba Ransomware Attack on Water Plant Reveals Monitoring Blind Spot",
+  "link": "https://databreaches.net/2026/11/28/booba-ransomware-attack-on-water-plant-reveals-monitoring-blind-spot/",
+  "published": "2026-11-28T13:34:03+00:00",
+  "summary": "Pierluigi Paganini reports: Booba ransomware hit an East Coast water treatment plant in November, then reached the network of the local government overseeing it. ThreatDown, which reported the incident, found no evidence that it disrupted water operations. The Industrial Cyber report describes a network divided between two providers. ThreatDown’s managed detection and response team monitored...",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Cuộc tấn công ransomware Booba vào nhà máy nước tiết lộ điểm mù giám sát",
+  "key": "d20daa4a4749f92d87db540245133bb94a75bd4b"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "Hong Kong’s Octopus cyberattack exposes data of nearly 30K customers and merchants",
+  "link": "https://databreaches.net/2026/11/28/hong-kongs-octopus-cyberattack-exposes-data-of-nearly-30k-customers-and-merchants/",
+  "published": "2026-11-28T13:28:22+00:00",
+  "summary": "Paul Parashchak reports: Hong Kong’s Octopus smart payment system suffered a cyberattack potentially affecting nearly 30,000 customers and merchants, following separate cybersecurity incidents involving consumer finance company Aeon Credit Service (Asia) and the Leisure and Cultural Services Department’s SmartPLAY app. Octopus said it detected a cyberattack on its systems on the morning of November 27,...",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Cuộc tấn công mạng Octopus của Hồng Kông làm lộ dữ liệu của gần 30 nghìn khách hàng và người bán",
+  "key": "fa0d9308cf35ad08cc4702287eefb83fcd1a2203"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "Hong Kong’s SmartPLAY data breach potentially exposes 90K users",
+  "link": "https://databreaches.net/2026/11/28/hong-kongs-smartplay-data-breach-potentially-exposes-90k-users/",
+  "published": "2026-11-28T13:24:31+00:00",
+  "summary": "Paul Parashchak reports: Hong Kong’s Office of the Privacy Commissioner for Personal Data (PCPD) has launched an investigation into a suspected data breach involving SmartPLAY, the government’s online booking system for public sports and recreational facilities, potentially affecting 90,000 users. The incident emerged after several users reported receiving emails containing SmartPLAY verification codes despite not...",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Vi phạm dữ liệu SmartPLAY của Hồng Kông có thể khiến 90 nghìn người dùng bị lộ",
+  "key": "a41150c45e288c600f9b28de8b86f76c6fbc4153"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "Korea Post’s mobile service hacked, with personal data of at least 113,000 customers leaked",
+  "link": "https://databreaches.net/2026/11/28/korea-posts-mobile-service-hacked-with-personal-data-of-at-least-113000-customers-leaked/",
+  "published": "2026-11-28T13:18:01+00:00",
+  "summary": "Yonhap News reports: A hacking attack on the internet post office has exposed the personal information of at least 113,855 customers, with the full scope of the breach still under investigation, the postal service said on Saturday. The Korea Post, under the Ministry of Science and ICT, said that it has confirmed that hackers had...",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Dịch vụ di động của Korea Post bị hack, dữ liệu cá nhân của ít nhất 113.000 khách hàng bị rò rỉ",
+  "key": "7fed493dccf9aeba6eacb290f07fd161ab110926"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "HK: App breach may expose 500,000 construction workers",
+  "link": "https://databreaches.net/2026/11/28/hk-app-breach-may-expose-500000-construction-workers/",
+  "published": "2026-11-28T13:17:56+00:00",
+  "summary": "rthk.hk reports: The personal data of some 500,000 registered construction workers was potentially exposed on Saturday after unauthorized access was discovered on the Construction Industry Council (CIC) app server. The information that may have been accessed includes names, dates of birth and ID numbers, though no financial data was involved. The CIC app is used...",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "HK: Vi phạm ứng dụng có thể khiến 500.000 công nhân xây dựng bị thiệt mạng",
+  "key": "eae547b740646b3828542d7b5722f417faae9069"
+ },
+ {
+  "source": "DataBreaches.net",
+  "title": "Boston Scientific Data Breach – Hackers Steal Personal Information via Voice Phishing Attack",
+  "link": "https://databreaches.net/2026/11/28/boston-scientific-data-breach-hackers-steal-personal-information-via-voice-phishing-attack/",
+  "published": "2026-11-28T13:17:36+00:00",
+  "summary": "Eswar reports: Boston Scientific has confirmed that a voice phishing (vishing) intrusion exposed personal and medical-related data from its cloud-based IT business applications. The medical technology company began sending breach notices to individuals across multiple U.S. states after it filed a sample notification with the California Attorney General on November 25. According to a breach...",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Vi phạm dữ liệu khoa học Boston – Tin tặc đánh cắp thông tin cá nhân thông qua tấn công lừa đảo bằng giọng nói",
+  "key": "4254b65d5ffeecb70ae82549a4fa8d94aec2cd7b"
+ },
+ {
+  "source": "The Hacker News",
+  "title": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts",
+  "link": "https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html",
+  "published": "2026-11-28T08:08:11+00:00",
+  "summary": "Cross-platform password manager pCloud Pass has confirmed it was targeted by a cyber attack after users reported seeing unknown devices being connected to their accounts. \"A cyber attack targeting pCloud Pass occurred, which was promptly contained by the pCloud team,\" the Swiss company said in response to a number of posts on Reddit. \"Unfortunately, a small number of pCloud Pass user email",
+  "categories": [
+   "breach"
+  ],
+  "lang": "en",
+  "extra": {},
+  "title_vi": "Trình quản lý mật khẩu pCloud bị tấn công mạng liên quan đến việc lộ địa chỉ email và các nỗ lực đăng nhập",
+  "key": "8c0a28070e55b649ea8c6ea26bfeaf3b67a4db6a"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-112231 — The Popup Builder WordPress plugin through 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-112231",
+  "published": "2026-11-28T06:16:40.583",
+  "summary": "The Popup Builder  WordPress plugin through 4.4.6 does not sanitise or escape a custom styling value before storing it and printing it back into the pages a popup loads on, allowing users who are allowed to manage popups (an ability that can be delegated to lower-privileged roles) to inject JavaScript that executes in the browser of every visitor, including logged-in administrators.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-112231",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/1d31dac0-d601-4ece-ab78-e752b5b4f384/"
+  },
+  "title_vi": "CVE-2026-112231 — Plugin WordPress Trình tạo Popup cho đến phiên bản 4",
+  "key": "5723eb0fa388e339f83b1a14c64bb7c6f2c46635"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-112232 — The Popup Builder WordPress plugin through 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-112232",
+  "published": "2026-11-28T06:16:42.010",
+  "summary": "The Popup Builder  WordPress plugin through 4.4.6 does not properly sanitize and escape a popup shortcode attribute before it is reflected into a page and evaluated client-side, allowing users with the Contributor role and above to inject arbitrary JavaScript that executes in the session of any higher-privileged user, such as an administrator, who views the affected content.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-112232",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/14609f89-93e1-4a76-87f2-c40e30ff1757/"
+  },
+  "title_vi": "CVE-2026-112232 — Plugin WordPress Trình tạo Popup cho đến phiên bản 4",
+  "key": "9246adb7d111d879afa72c7ca2bb2501ed538655"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-112233 — The Popup Builder WordPress plugin through 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-112233",
+  "published": "2026-11-28T06:16:42.110",
+  "summary": "The Popup Builder  WordPress plugin through 4.4.6 does not check the publish status or the visitor's capabilities before rendering a popup requested by its ID in the URL, allowing unauthenticated users to read the content and configuration of popups that are still drafts or are marked private.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-112233",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/67943668-0ed4-4d8b-9ce9-1a7e57d8c2b4/"
+  },
+  "title_vi": "CVE-2026-112233 — Plugin WordPress Trình tạo Popup cho đến phiên bản 4",
+  "key": "4aec75503e3a15c4d702446a4a6c6496e53713a8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-112234 — The Popup Builder WordPress plugin through 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-112234",
+  "published": "2026-11-28T06:16:42.223",
+  "summary": "The Popup Builder  WordPress plugin through 4.4.6 does not validate a user-supplied URL before requesting it server-side and storing the fetched response so that it can be read back, allowing users with Administrator privileges to perform Server-Side Request Forgery (SSRF) attacks and read the responses of internal services.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-112234",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/325fa9a4-3d44-4b63-ad9f-df96e8dff1bc/"
+  },
+  "title_vi": "CVE-2026-112234 — Plugin WordPress Trình tạo Popup cho đến phiên bản 4",
+  "key": "0618fe0207564f315b50707ee070d51b2fad1a24"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-112235 — The Popup Builder WordPress plugin through 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-112235",
+  "published": "2026-11-28T06:16:42.327",
+  "summary": "The Popup Builder  WordPress plugin through 4.4.6 does not properly check authorization before allowing a user to store popup preview data against arbitrary posts, nor restrict who can read that content back on public requests, allowing users granted access to the Popup Builder  WordPress plugin through 4.4.6 to disclose the private and draft content of posts they do not own to unauthenticated visitors.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-112235",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/0254518f-2c25-446c-98a8-e1e291cf376b/"
+  },
+  "title_vi": "CVE-2026-112235 — Plugin WordPress Trình tạo Popup cho đến phiên bản 4",
+  "key": "cd40b7bd7d01bd78f4ded3ada7a42ddc1573665e"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-123654 — Themify Base WordPress theme through 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123654",
+  "published": "2026-11-28T06:16:42.433",
+  "summary": "Themify Base WordPress theme through 1.2.4 does not perform capability checks on its option save and read AJAX actions, which are protected only by a generic nonce that other  commonly expose on the front end, allowing users with a role as low as Subscriber to update arbitrary blog options such as the default role and open registration, and gain administrator access when such a  is active.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-123654",
+   "cvss": null,
+   "ref": "https://wpscan.com/vulnerability/393a83ee-5040-48e6-a318-af3fd54a04db/"
+  },
+  "title_vi": "CVE-2026-123654 — Chủ đề Themify Base WordPress đến 1",
+  "key": "05d0dcb92ccb280e38b6c95eb0427025d45f68b2"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-138005 — A vulnerability was detected in TRENDnet TEW-751DR 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138005",
+  "published": "2026-11-28T10:17:00.010",
+  "summary": "A vulnerability was detected in TRENDnet TEW-751DR 1.03B01. Affected by this vulnerability is the function gena.php::GENA_notify_init of the file htdocs/upnpinc/gena.php of the component UPnP Event Handler. Performing a manipulation of the argument uri results in os command injection. It is possible to initiate the attack remotely. The exploit is now public and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-138005",
+   "cvss": 10.0,
+   "ref": "https://gist.github.com/qwq-nm/70b4fd27c21fd32e68f929261c01757f"
+  },
+  "title_vi": "CVE-2026-138005 — Phát hiện lỗ hổng trong TRENDnet TEW-751DR 1",
+  "key": "ce81ff3f4f0662dad007f7f87a91d0c17e956b96"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-138036 — A vulnerability was detected in Free5GC up to 4",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138036",
+  "published": "2026-11-28T10:17:00.503",
+  "summary": "A vulnerability was detected in Free5GC up to 4.3.0. The impacted element is the function PostPoliciesProcedure of the file internal/sbi/processor/ampolicy.go of the component PCF. Performing a manipulation of the argument supi results in incomplete cleanup. The attack is possible to be carried out remotely. The exploit is now public and may be used. The patch is named eba1c481300df4e7ac8000c99d0cc36dd73b941e. Applying a patch is the recommended action to fix this issue.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-138036",
+   "cvss": 5.3,
+   "ref": "https://github.com/free5gc/free5gc/"
+  },
+  "title_vi": "CVE-2026-138036 — Một lỗ hổng được phát hiện trong Free5GC lên tới 4",
+  "key": "3e346b795045dad2f35fad4bcbe5df84959e6089"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-138037 — A flaw has been found in Open5GS up to 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138037",
+  "published": "2026-11-28T12:17:41.370",
+  "summary": "A flaw has been found in Open5GS up to 2.8.0. This affects the function ogs_pfcp_handle_create_urr of the file lib/pfcp/handler.c of the component UPF PFCP N4. Executing a manipulation of the argument URR ID can lead to reachable assertion. The attack may be performed from remote. The exploit has been published and may be used. This patch is called 08e0940e14ec41284e4270084694549de43dc219. It is best practice to apply a patch to resolve this issue.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-138037",
+   "cvss": 5.3,
+   "ref": "https://github.com/open5gs/open5gs/"
+  },
+  "title_vi": "CVE-2026-138037 — Đã tìm thấy lỗ hổng trong Open5GS lên tới 2",
+  "key": "d77b340ef3025bb3709e4f0c0104f4454af84be5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-138038 — A vulnerability has been found in Open5GS 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138038",
+  "published": "2026-11-28T12:17:41.817",
+  "summary": "A vulnerability has been found in Open5GS 2.8.0. This impacts the function nrf_nnrf_handle_nf_discover of the file src/nrf/nnrf-handler.c of the component NRF. The manipulation leads to reachable assertion. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The identifier of the patch is dbc35e6aadeb3f6ef3e028a8b52ee3cf5920082e. It is recommended to apply a patch to fix this issue.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-138038",
+   "cvss": 5.3,
+   "ref": "https://github.com/open5gs/open5gs/"
+  },
+  "title_vi": "CVE-2026-138038 — Đã tìm thấy lỗ hổng trong Open5GS 2",
+  "key": "54e948bc8ef27fbdcde148f5ae074fdace1a1f9f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-5771 — The Loco Translate plugin for WordPress is vulnerable to Arbitrary File Write/Overwrite via Path Traversal in all versions up to, and including, 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-5771",
+  "published": "2026-11-28T12:17:42.027",
+  "summary": "The Loco Translate plugin for WordPress is vulnerable to Arbitrary File Write/Overwrite via Path Traversal in all versions up to, and including, 2.8.4. This is due to the normalize() function processing '..' segments in user-supplied paths without verifying that the resolved absolute path remains within the base directory. This makes it possible for authenticated attackers, with Custom+ level access and above, to write translation files to arbitrary locations on the filesystem.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-5771",
+   "cvss": 4.3,
+   "ref": "https://plugins.trac.wordpress.org/browser/loco-translate/tags/2.8.3/src/ajax/SaveController.php#L10"
+  },
+  "title_vi": "CVE-2026-5771 — Plugin Loco Translate dành cho WordPress dễ bị ghi/ghi đè tệp tùy ý thông qua Path Traversal trong tất cả các phiên bản lên đến và bao gồm cả 2",
+  "key": "906f94b6c670e8202965456de3d06a24a60cd675"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-138039 — A vulnerability was found in Open5GS up to 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138039",
+  "published": "2026-11-28T13:17:02.300",
+  "summary": "A vulnerability was found in Open5GS up to 2.8.0. Affected is the function smf_ue_find_by_imsi of the file src/smf/context.c of the component SMF. The manipulation results in denial of service. It is possible to launch the attack remotely. The exploit has been made public and could be used. The patch is identified as df92296dbf60c21a2dd09e74f4903cee995cd2c2. Applying a patch is advised to resolve this issue.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-138039",
+   "cvss": 5.3,
+   "ref": "https://github.com/open5gs/open5gs/"
+  },
+  "title_vi": "CVE-2026-138039 — Đã tìm thấy lỗ hổng trong Open5GS lên tới 2",
+  "key": "16bdd408f52339758bbd2c6ecf7e8d81fa72111c"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-138047 — A vulnerability was identified in dcatadmin Dcat-Admin 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138047",
+  "published": "2026-11-28T13:17:03.517",
+  "summary": "A vulnerability was identified in dcatadmin Dcat-Admin 2.2.2-beta. Affected by this issue is the function getDatabaseColumns of the file src/Http/Controllers/ScaffoldController.php. Such manipulation of the argument tb leads to sql injection. The attack can be launched remotely. The exploit is publicly available and might be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-138047",
+   "cvss": 4.7,
+   "ref": "https://github.com/blue060/cve/issues/1"
+  },
+  "title_vi": "CVE-2026-138047 — Một lỗ hổng được xác định trong dcatadmin Dcat-Admin 2",
+  "key": "ea331ee0ef4a5bc7fd85ed73f560d19eff4490a5"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-138049 — A security flaw has been discovered in OpenAirInterface oai-cn5g-nrf up to 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138049",
+  "published": "2026-11-28T13:17:03.717",
+  "summary": "A security flaw has been discovered in OpenAirInterface oai-cn5g-nrf up to 2.2.1. This affects the function notify_subscribed_event of the file src/nrf_app/nrf_client.cpp of the component NRF. Performing a manipulation results in null pointer dereference. The attack may be initiated remotely. The exploit has been released to the public and may be used for attacks. Upgrading to version 2.2.2 is able to mitigate this issue. The patch is named 2065c6f80ca9ffdacc0064e768db90d04d9d6ca8. It is advisable to upgrade the affected component.",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-138049",
+   "cvss": 5.3,
+   "ref": "https://github.com/openairinterface/oai-cn5g-nrf/"
+  },
+  "title_vi": "CVE-2026-138049 — Một lỗ hổng bảo mật đã được phát hiện trong OpenAirInterface oai-cn5g-nrf lên đến 2",
+  "key": "59acbafac0e9ad1abee8c1eaca7f94450255ef84"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-138050 — A weakness has been identified in OpenAirInterface oai-cn5g-udr up to 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138050",
+  "published": "2026-11-28T14:17:49.773",
+  "summary": "A weakness has been identified in OpenAirInterface oai-cn5g-udr up to 2.2.2. This vulnerability affects unknown code of the file src/udr_app/database/mysql_db.cpp of the component Nudr_DR. Executing a manipulation of the argument ueId can lead to sql injection. The attack may be launched remotely. The exploit has been made available to the public and could be used for attacks. The vendor was contacted early about this disclosure.",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-138050",
+   "cvss": 7.3,
+   "ref": "https://github.com/openairinterface/oai-cn5g-udr/"
+  },
+  "title_vi": "CVE-2026-138050 — Một điểm yếu đã được xác định trong OpenAirInterface oai-cn5g-udr lên tới 2",
+  "key": "8822607121be2c19160d167be0300a2c55d1ed1d"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-138051 — A security vulnerability has been detected in OpenAirInterface oai-cn5g-upf up to 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138051",
+  "published": "2026-11-28T14:17:50.460",
+  "summary": "A security vulnerability has been detected in OpenAirInterface oai-cn5g-upf up to 2.2.2. This issue affects the function pfcp_user_id_ie::load_from of the file pfcp/3gpp_29.244.hpp of the component PFCP N4 User ID IE Type 141 Parser. The manipulation leads to heap-based buffer overflow. Remote exploitation of the attack is possible. The exploit has been disclosed publicly and may be used. The vendor was contacted early about this disclosure.",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-138051",
+   "cvss": 5.3,
+   "ref": "https://github.com/openairinterface/oai-cn5g-upf/"
+  },
+  "title_vi": "CVE-2026-138051 — Một lỗ hổng bảo mật đã được phát hiện trong OpenAirInterface oai-cn5g-upf lên đến 2",
+  "key": "83463b97df7851953e249a5b9c3809d6d17b9eef"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-138052 — A vulnerability was detected in OpenAirInterface oai-cn5g-amf up to 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138052",
+  "published": "2026-11-28T14:17:50.653",
+  "summary": "A vulnerability was detected in OpenAirInterface oai-cn5g-amf up to 2.2.2. Impacted is the function amf_sbi::discover_smf of the file src/amf-app/amf_sbi.cpp of the component AMF. The manipulation results in denial of service. The attack can be executed remotely. The exploit is now public and may be used. The patch is identified as 1eabe18bf0cb5a248e0429f4daac91dee51c8a43. It is best practice to apply a patch to resolve this issue.",
+  "categories": [
+   "ai",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-138052",
+   "cvss": 5.3,
+   "ref": "https://github.com/openairinterface/oai-cn5g-amf/"
+  },
+  "title_vi": "CVE-2026-138052 — Một lỗ hổng được phát hiện trong OpenAirInterface oai-cn5g-amf lên tới 2",
+  "key": "a936c6e7f87a52220f8988535038482b261e7edc"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-138255 — ELADMIN through 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138255",
+  "published": "2026-11-28T14:17:50.843",
+  "summary": "ELADMIN through 2.7 contains an authorization bypass vulnerability in the user export endpoint that allows department-scoped users to export user records from other departments. Authenticated attackers holding user:list permission can request GET /api/users/download to obtain an XLSX containing usernames, roles, emails, and phone numbers across all departments.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-138255",
+   "cvss": 2.7,
+   "ref": "https://github.com/elunez/eladmin/blob/646c58c30f2e9aecf998b054f05f4d9ba0008995/eladmin-system/src/main/java/me/zhengjie/modules/system/rest/UserController.java#L71-L104"
+  },
+  "title_vi": "CVE-2026-138255 — ELADMIN đến 2",
+  "key": "a48fe09f1e3fc6dc9c887c39eee101beb663bad8"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-138256 — Apprise before 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138256",
+  "published": "2026-11-28T14:17:51.017",
+  "summary": "Apprise before 1.12.0 contains an improper certificate validation vulnerability in NotifyEmail.send that ignores verify_certificate for SMTPS and STARTTLS connections. Network-positioned attackers can present self-signed or mismatched certificates to intercept SMTP AUTH credentials and notification contents, or modify and suppress notifications.",
+  "categories": [
+   "breach",
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-138256",
+   "cvss": 6.5,
+   "ref": "https://github.com/caronc/apprise/blob/158c4e1febc3e6093b0f357776b315a90c8a89b5/apprise/plugins/email/base.py#L656-L676"
+  },
+  "title_vi": "CVE-2026-138256 — Xuất hiện trước 1 giờ",
+  "key": "e0bae4598a959ac7654354f9abb79176a52e59e6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-138053 — A flaw has been found in itsourcecode Event Management System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138053",
+  "published": "2026-11-28T15:16:32.827",
+  "summary": "A flaw has been found in itsourcecode Event Management System 1.0. The affected element is an unknown function of the file /admin/manage_venue.php. This manipulation of the argument ID causes sql injection. The attack is possible to be carried out remotely. The exploit has been published and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-138053",
+   "cvss": 6.3,
+   "ref": "https://github.com/zhuopeng-li/submit/issues/1"
+  },
+  "title_vi": "CVE-2026-138053 — Đã tìm thấy một lỗ hổng trong Hệ thống quản lý sự kiện itsourcecode 1",
+  "key": "dc8993976ae7d9c54a5b96f623f9f3c77e51670b"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-138054 — A vulnerability has been found in itsourcecode Insurance Management System 1",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138054",
+  "published": "2026-11-28T16:16:47.520",
+  "summary": "A vulnerability has been found in itsourcecode Insurance Management System 1.0. The impacted element is an unknown function of the file search.php. Such manipulation of the argument key leads to sql injection. The attack may be performed from remote. The exploit has been disclosed to the public and may be used.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-138054",
+   "cvss": 6.3,
+   "ref": "https://github.com/roaea/submit/issues/1"
+  },
+  "title_vi": "CVE-2026-138054 — Đã tìm thấy lỗ hổng trong Hệ thống quản lý bảo hiểm itsourcecode 1",
+  "key": "7d668318ca06e2f6752c4e945120e3aa8db1b0f6"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-138055 — A vulnerability was found in Cloud-CV EvalAI up to 30128ca50ab24a0c65e556d78199309e8ecc3eae",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138055",
+  "published": "2026-11-28T16:16:47.713",
+  "summary": "A vulnerability was found in Cloud-CV EvalAI up to 30128ca50ab24a0c65e556d78199309e8ecc3eae. This affects an unknown function of the file settings/common.py of the component JWT Authentication. Performing a manipulation of the argument SECRET_KEY results in use of hard-coded cryptographic key\r . It is possible to initiate the attack remotely. The exploit has been made public and could be used. The patch is named 9c430a7c8675b1d4ae83925ec0da044c703d8441. It is suggested to install a patch to address this issue.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-138055",
+   "cvss": 7.3,
+   "ref": "https://github.com/Cloud-CV/EvalAI/"
+  },
+  "title_vi": "CVE-2026-138055 — Đã tìm thấy lỗ hổng trong Cloud-CV EvalAI lên tới 30128ca50ab24a0c65e556d78199309e8ecc3eae",
+  "key": "8cb4e4b06bcb6fc8695b2bd77ec344c1f52b834f"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-138056 — A vulnerability was determined in SonicJs-Org SonicJS up to 3",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138056",
+  "published": "2026-11-28T16:16:47.910",
+  "summary": "A vulnerability was determined in SonicJs-Org SonicJS up to 3.0.1. This impacts the function AuthManager.verifyToken of the file packages/core/src/middleware/auth.ts. Executing a manipulation can lead to use of hard-coded cryptographic key\r . It is possible to launch the attack remotely. The exploit has been publicly disclosed and may be utilized. A patch should be applied to remediate this issue. Vendor confirmed remediation by adding a bootstrap.ts security check that logs a warning in development and throws a hard error in production when JWT_SECRET is missing or still the default value.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-138056",
+   "cvss": 7.3,
+   "ref": "https://github.com/SonicJs-Org/sonicjs/"
+  },
+  "title_vi": "CVE-2026-138056 — Một lỗ hổng được xác định trong SonicJs-Org SonicJS lên tới 3",
+  "key": "7324d8b775b9a51d224fef3d57cc8e4a49178ea1"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-138261 — Listmonk 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138261",
+  "published": "2026-11-28T16:16:48.100",
+  "summary": "Listmonk 2.3.0 through 7.0.0-beta.2 contains an information disclosure vulnerability that allows unauthenticated visitors to view draft, scheduled or cancelled campaigns marked for archiving via the public archive page. Attackers who know or guess the campaign UUID or predictable subject-derived archive slug can request the archive page and read unpublished campaign content before it is sent.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-138261",
+   "cvss": 3.7,
+   "ref": "https://github.com/knadh/listmonk/blob/v7.0.0-beta.2/internal/core/campaigns.go#L73-L85"
+  },
+  "title_vi": "CVE-2026-138261 — Listmonk 2",
+  "key": "4a931d665d44d4ac5c18d5c3d3047ab253a0a875"
+ },
+ {
+  "source": "NVD",
+  "title": "CVE-2026-138262 — WinFsp before 2",
+  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-138262",
+  "published": "2026-11-28T16:16:48.260",
+  "summary": "WinFsp before 2.2.26323 contains a kernel pool out-of-bounds write vulnerability in FspEaBufferFromFileSystemValidate that allows unprivileged local users to corrupt kernel memory via crafted extended-attribute responses. Attackers can mount a WinFsp file system and answer QueryEa or SetEa requests with malformed NextEntryOffset values, writing zero bytes past the pool allocation to crash the system.",
+  "categories": [
+   "cve"
+  ],
+  "lang": "en",
+  "extra": {
+   "cve": "CVE-2026-138262",
+   "cvss": 6.1,
+   "ref": "https://github.com/winfsp/winfsp/blob/v2.2B5/src/sys/ea.c#L436-L447"
+  },
+  "title_vi": "CVE-2026-138262 — WinFsp trước 2",
+  "key": "88ce05a7ed5d0ee57b60c950a968e39a88828059"
+ },
+ {
+  "source": "VietnamPlus Kinh tế số",
   "title": "Hà Nội mở rộng camera AI, hướng tới xử phạt nguội tự động",
   "link": "https://www.vietnamplus.vn/ha-noi-mo-rong-camera-ai-huong-toi-xu-phat-nguoi-tu-dong-post1151091.vnp",
   "published": "2026-11-28T05:39:25+00:00",
@@ -818,7 +1549,7 @@
   ],
   "lang": "en",
   "extra": {},
-  "title_vi": "",
+  "title_vi": "Tin tặc bị nghi ngờ có liên hệ với Việt Nam nhắm mục tiêu vào Đông Nam Á trong Chiến dịch gián điệp ở Biển Đông",
   "key": "eb24adb962d6b1dd1335c5663c7b63eb3c9af5a0"
  },
  {
@@ -2487,7 +3218,7 @@
    "cvss": 5.4,
    "ref": "https://github.com/Budibase/budibase/security/advisories/GHSA-4xqp-vfh8-4fv7"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-137961 — Budibase trước 3",
   "key": "3f76cffc9a284000e5fe6dec11896e24f753142b"
  },
  {
@@ -2505,7 +3236,7 @@
    "cvss": 6.5,
    "ref": "https://github.com/Budibase/budibase/security/advisories/GHSA-8wqw-xg9x-89h8"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-137962 — Máy chủ Budibase trước phiên bản 3",
   "key": "dafe1a231a29123469d4b03e0fa6a9cab98ed89e"
  },
  {
@@ -2524,7 +3255,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/ToolJet/ToolJet/security/advisories/GHSA-7j2r-jrx9-gqwx"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-137963 — ToolJet trước 3",
   "key": "da6c00b5be8cf138df60a8ed33f55fe010001b4a"
  },
  {
@@ -2542,7 +3273,7 @@
    "cvss": 9.8,
    "ref": "https://github.com/ToolJet/ToolJet/security/advisories/GHSA-74h3-686h-cmvf"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-137964 — ToolJet trước 3",
   "key": "13a8515c733bb507b3bb037faa32837b27b9e565"
  },
  {
@@ -2561,7 +3292,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/ToolJet/ToolJet/security/advisories/GHSA-v64h-hqhj-2h7r"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-137965 — ToolJet trước 3",
   "key": "9b85d41e57bd8a61d62e6f59aa282847192a8536"
  },
  {
@@ -2579,7 +3310,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/ToolJet/ToolJet/security/advisories/GHSA-wm89-9qp9-fmp8"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-137966 — ToolJet trước 3",
   "key": "c9f6817824a862dc35a2bb55786d7ca07503e12a"
  },
  {
@@ -2597,7 +3328,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/ToolJet/ToolJet/security/advisories/GHSA-qmm2-755w-926f"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-137967 — ToolJet trước 3",
   "key": "f00487ea600ef70aa502d86fbedc6d41f6473d5b"
  },
  {
@@ -2615,7 +3346,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/ToolJet/ToolJet/security/advisories/GHSA-v93v-c4v6-cqw9"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-137968 — ToolJet trước 3",
   "key": "741ebb3bdaa01bd9fa823e9ae458a3a0467a25a3"
  },
  {
@@ -2633,7 +3364,7 @@
    "cvss": 6.3,
    "ref": "https://github.com/ToolJet/ToolJet/security/advisories/GHSA-vcr4-8492-6c9x"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-137969 — ToolJet trước 3",
   "key": "0a0f2ad32cb7ef7d308aefe67205577e2079a83c"
  },
  {
@@ -2651,7 +3382,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/ToolJet/ToolJet/security/advisories/GHSA-fh5h-x2xg-6gq8"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-137970 — ToolJet trước 3",
   "key": "002e8c05a4150f0c8c748c6a7cd787096830d8b5"
  },
  {
@@ -2670,7 +3401,7 @@
    "cvss": 5.3,
    "ref": "https://github.com/ToolJet/ToolJet/security/advisories/GHSA-qw9q-v8f8-v2pj"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-137971 — ToolJet trước 3",
   "key": "69f22757bc0c8e1601f0081feba3f6b9f17fa262"
  },
  {
@@ -2689,7 +3420,7 @@
    "cvss": 6.3,
    "ref": "https://github.com/heymrun/heym/security/advisories/GHSA-m2cg-mg73-qc82"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-137972 — Heym trước 0",
   "key": "5685a50c43128117f9975133ec07490ad10780b3"
  },
  {
@@ -2708,7 +3439,7 @@
    "cvss": 5.4,
    "ref": "https://github.com/heymrun/heym/security/advisories/GHSA-hhvf-v27f-g7c7"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-137973 — Này từ 0",
   "key": "61a9e492792a8bd6b02f3e3c0f7a7cd5fa240d41"
  },
  {
@@ -2726,7 +3457,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/nmap/nmap"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-137977 — Nmap trước 7",
   "key": "4f7082ec11e11db8f519e986147a9f6c9c2e01ff"
  },
  {
@@ -2744,7 +3475,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/nmap/nmap"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-137978 — Nmap trước 7",
   "key": "d652a53b8556d566d6603efff1584196b7adba1e"
  },
  {
@@ -2762,7 +3493,7 @@
    "cvss": 4.3,
    "ref": "https://github.com/nmap/nmap"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-137979 — Nmap trước 7",
   "key": "efab7b1d8551f3b5e5a99a7c1bb95ea04b099078"
  },
  {
@@ -2780,7 +3511,7 @@
    "cvss": 2.5,
    "ref": "https://www.dell.com/support/kbdoc/en-cv/000534756/dsa-2026-507-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities-version-2"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80509 — Cổng kết nối an toàn Dell - Phiên bản ảo, phiên bản trước 5",
   "key": "fe9a964b8f310125daee55087e9fc943cab7109c"
  },
  {
@@ -2798,7 +3529,7 @@
    "cvss": 7.7,
    "ref": "https://www.dell.com/support/kbdoc/en-cv/000534756/dsa-2026-507-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities-version-2"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80510 — Cổng kết nối an toàn Dell - Phiên bản ảo, phiên bản trước 5",
   "key": "835ad4548f0da57e1f0eb218f61e5bb7d8d0baf8"
  },
  {
@@ -2816,7 +3547,7 @@
    "cvss": 5.5,
    "ref": "https://www.dell.com/support/kbdoc/en-cv/000534756/dsa-2026-507-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities-version-2"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80511 — Cổng kết nối an toàn Dell - Phiên bản ảo, phiên bản trước 5",
   "key": "31d58b81b00e4e5f6b943750a38226d1ee047ca8"
  },
  {
@@ -2834,7 +3565,7 @@
    "cvss": 5.5,
    "ref": "https://www.dell.com/support/kbdoc/en-cv/000534756/dsa-2026-507-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities-version-2"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-80512 — Cổng kết nối an toàn Dell - Phiên bản ảo, phiên bản trước 5",
   "key": "30328dc68e63d36550aae2771a4a724b35bb4a07"
  },
  {
@@ -2852,7 +3583,7 @@
    "cvss": 4.4,
    "ref": "https://www.dell.com/support/kbdoc/en-cv/000534756/dsa-2026-507-security-update-for-dell-secure-connect-gateway-virtual-edition-multiple-vulnerabilities-version-2"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-81040 — Cổng kết nối an toàn Dell - Phiên bản ảo, phiên bản trước 5",
   "key": "8ddfb9a855fec3ea5bbacff0052a0c4dcdf3c21a"
  },
  {
@@ -2871,7 +3602,7 @@
    "cvss": 7.3,
    "ref": "https://github.com/eosphoros-ai/DB-GPT/"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-137684 — Một lỗ hổng bảo mật đã được phát hiện trong eosphoros-ai DB-GPT lên tới 0",
   "key": "2aa43c96f375013b0c37fa91ec7d468c8cf3756e"
  },
  {
@@ -2889,7 +3620,7 @@
    "cvss": 7.5,
    "ref": "https://github.com/libexpat/libexpat/blob/R_2_11_0/expat/lib/xmlparse.c#L8218-L8280"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-137992 — libexpat đến 2",
   "key": "7d6ededbd061f5d851243dd5b0cf8fe6cc185801"
  },
  {
@@ -2925,7 +3656,7 @@
    "cvss": 7.8,
    "ref": "https://github.com/leo-editor/leo-editor/blob/v6.8.10/leo/core/leoFileCommands.py#L220-L260"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-137994 — Sư Tử đến thứ 6",
   "key": "65154c59c8ffb922e2eda78379183952eac91e20"
  },
  {
@@ -2944,7 +3675,7 @@
    "cvss": 6.1,
    "ref": "https://github.com/FOGProject/fogproject/commit/156db0fcc6d1384ece28ed515bbf954c808ab49f"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-137995 — Dự án FOG trước 1",
   "key": "44acb4b3432e110c9ca889cca533964e6d63c0dc"
  },
  {
@@ -2963,7 +3694,7 @@
    "cvss": 5.5,
    "ref": "https://github.com/Zettlr/Zettlr/commit/77d8015ea437a355027a403532ebdad4bf1e4238"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-137996 — Zettlr trước 4",
   "key": "0f1908673dacd0bc214130ae55613b3576a7cc9d"
  },
  {
@@ -3452,7 +4183,7 @@
    "cvss": 3.4,
    "ref": "https://github.com/SylphxAI/anymd/blob/b79649de57d145930e358cb1eb26282f71ecba28/src/pdf/loader.ts#L104-L150"
   },
-  "title_vi": "",
+  "title_vi": "CVE-2026-138030 — SylphxAI pdf-reader-mcp 2",
   "key": "94d72a379dc2b18851c55f9acb07951b305d8ea7"
  },
  {
@@ -73623,803 +74354,5 @@
   },
   "title_vi": "",
   "key": "3a532e92775bb17b232b19a4e574db1b210e11c6"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-13137 — A stack-based buffer overflow vulnerability exists in multiple parsers of RTU500 components of User management, REST resolver and SPA-Bus",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-13137",
-  "published": "2026-11-24T12:17:23.007",
-  "summary": "A stack-based buffer overflow vulnerability exists in multiple parsers of RTU500 components of User management, REST resolver and SPA-Bus. Attacker controlled input can influence the length of data copied into fixed-size stack buffers without proper bounds checking, which may result in memory corruption leading to denial of service condition.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-13137",
-   "cvss": 7.5,
-   "ref": "https://publisher.hitachienergy.com/preview?DocumentID=8DBD000263&LanguageCode=en&DocumentPartId=&Action=Launch"
-  },
-  "title_vi": "",
-  "key": "76da50b3e8ed1b8cf4145e928603eefb6ae48782"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-59697 — Server-Side Request Forgery (SSRF) vulnerability in ex_aws (instance metadata token provider)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-59697",
-  "published": "2026-11-24T12:17:24.370",
-  "summary": "Server-Side Request Forgery (SSRF) vulnerability in ex_aws (instance metadata token provider).\n\nThis vulnerability is associated with program files lib/ex_aws/instance_meta_token_provider.ex and program routines ExAws.InstanceMetaTokenProvider.request_token/1 and ExAws.InstanceMetaTokenProvider.get/1.\n\nex_aws requests its IMDSv2 session token from the link-local metadata endpoint (http://169.254.169.254/latest/api/token) with HTTP redirect following enabled. Because the token request follows 3xx redirects and does not restrict the redirect target to the link-local range, an attacker who can in",
-  "categories": [
-   "cloud",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-59697",
-   "cvss": null,
-   "ref": "https://cna.erlef.org/cves/CVE-2026-59697.html"
-  },
-  "title_vi": "",
-  "key": "752ff8309eee9d9ac53a2f73668f58056538ee2b"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-59698 — Relative path traversal in ex_aws allows an attacker who controls an S3 object key to escape the intended bucket or key prefix",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-59698",
-  "published": "2026-11-24T12:17:24.607",
-  "summary": "Relative path traversal in ex_aws allows an attacker who controls an S3 object key to escape the intended bucket or key prefix.\n\nWhen ex_aws builds a path-style S3 request, ExAws.Operation.S3.add_bucket_to_path/2 in lib/ex_aws/operation/s3.ex joins the bucket name and the object key into a single path string and then normalizes it, collapsing . and .. segments the way a filesystem path would. Because the bucket is the first segment of the combined string, a leading ../ in the object key pops the bucket off the path. With bucket mybucket and a key of ../victim/secret.txt, the combined /mybucket",
-  "categories": [
-   "cloud",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-59698",
-   "cvss": null,
-   "ref": "https://cna.erlef.org/cves/CVE-2026-59698.html"
-  },
-  "title_vi": "",
-  "key": "692acc6517fa8f8f973383d38fae674b6511d6fc"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-62269 — Improper Encoding or Escaping of Output vulnerability in ex_aws (S3 request URL construction)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-62269",
-  "published": "2026-11-24T12:17:25.577",
-  "summary": "Improper Encoding or Escaping of Output vulnerability in ex_aws (S3 request URL construction).\n\nThis vulnerability is associated with program files lib/ex_aws/request/url.ex and program routines ExAws.Request.Url.build/2, ExAws.Request.Url.sanitize/2 and ExAws.Request.Url.get_path/2.\n\nex_aws does not percent-encode reserved characters in S3 object keys when it assembles the request URL. A literal ? in an object key survives unencoded: build/2 inserts the operation path verbatim and URI.to_string/1 emits it without encoding, and sanitize/2 then splits the flattened URL on the first ?, treating ",
-  "categories": [
-   "cloud",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-62269",
-   "cvss": null,
-   "ref": "https://cna.erlef.org/cves/CVE-2026-62269.html"
-  },
-  "title_vi": "",
-  "key": "9ef143a2df123c630c020cee32d81b3c1af61a71"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-84785 — Issue summary: A QUIC peer that sends many small out-of-order STREAM fragments while withholding the first byte of the stream may cause OpenSSL to buf",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-84785",
-  "published": "2026-11-24T12:17:25.983",
-  "summary": "Issue summary: A QUIC peer that sends many small out-of-order STREAM fragments\nwhile withholding the first byte of the stream may cause OpenSSL to buffer\na large number of reassembly nodes occupying much larger memory than\nthe actual data sent.\n\nImpact summary: A remote peer can pin large amounts of memory on a server that\naccepts incoming QUIC streams, potentially exhausting memory and causing\nDenial of Service.\n\nCWE: CWE-770: Allocation of Resources Without Limits or Throttling\n\nDescription: QUIC receive flow control limits the highest byte offset a peer\nmay reach on a stream. It does not li",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-84785",
-   "cvss": null,
-   "ref": "https://github.com/openssl/openssl/commit/05bfccf68184665b989dc7001fc5f1f885f84194"
-  },
-  "title_vi": "",
-  "key": "e8d1b132f6444ec6054c051d32dabb096ab3b1cd"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-94365 — Improper neutralization of input during web page generation ('cross-site scripting') vulnerability in ITG Bilgisayar Teknolojileri Grubu Ltd",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-94365",
-  "published": "2026-11-24T12:17:26.327",
-  "summary": "Improper neutralization of input during web page generation ('cross-site scripting') vulnerability in ITG Bilgisayar Teknolojileri Grubu Ltd. Şti. VSRM allows XSS Through HTTP Headers.\n\nThis issue affects vSRM: from v14.08.1 before v14.08.5.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-94365",
-   "cvss": 5.4,
-   "ref": "https://siberguvenlik.gov.tr/guvenlik-bildirimleri/detay/tr-26-1600"
-  },
-  "title_vi": "",
-  "key": "070eee6870639a68677b29147d28d5d7d8da35eb"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-96438 — Unrestricted upload of file with dangerous type vulnerability in ITG Bilgisayar Teknolojileri Grubu Ltd",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96438",
-  "published": "2026-11-24T12:17:26.453",
-  "summary": "Unrestricted upload of file with dangerous type vulnerability in ITG Bilgisayar Teknolojileri Grubu Ltd. Şti. VSRM allows Using Malicious Files.\n\nThis issue affects vSRM: from v14.08.1 before v14.08.5.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-96438",
-   "cvss": 6.5,
-   "ref": "https://siberguvenlik.gov.tr/guvenlik-bildirimleri/detay/tr-26-1600"
-  },
-  "title_vi": "",
-  "key": "45dbb58a2b741d5f05c4b60b2aaf9a32cb1ae932"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-97198 — Authorization bypass through User-Controlled key vulnerability in ITG Bilgisayar Teknolojileri Grubu Ltd",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-97198",
-  "published": "2026-11-24T12:17:26.573",
-  "summary": "Authorization bypass through User-Controlled key vulnerability in ITG Bilgisayar Teknolojileri Grubu Ltd. Şti. VSRM allows Privilege Abuse.\n\nThis issue affects vSRM: from v14.08.1 before v14.08.5.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-97198",
-   "cvss": 6.5,
-   "ref": "https://siberguvenlik.gov.tr/guvenlik-bildirimleri/detay/tr-26-1600"
-  },
-  "title_vi": "",
-  "key": "53ceb0a8d26d4fb81c9ef294d6ec26a7604aa17a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-120720 — Server-Side Request Forgery (SSRF) vulnerability in ex-aws ex_aws allows an attacker who controls an S3 bucket name to send the application's signed S",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-120720",
-  "published": "2026-11-24T13:17:21.657",
-  "summary": "Server-Side Request Forgery (SSRF) vulnerability in ex-aws ex_aws allows an attacker who controls an S3 bucket name to send the application's signed S3 requests to a host of their choice.\n\nWith virtual_host: true, ExAws.Operation.S3.add_bucket_to_path/2 in lib/ex_aws/operation/s3.ex builds the request hostname from the bucket name and the configured host without checking the bucket name. A bucket such as attacker.example/x? turns the request URL into https://attacker.example/x?.s3.amazonaws.com/key, so the request is signed for and sent to attacker.example. The attacker receives upload bodies,",
-  "categories": [
-   "cloud",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-120720",
-   "cvss": null,
-   "ref": "https://cna.erlef.org/cves/CVE-2026-120720.html"
-  },
-  "title_vi": "",
-  "key": "3b8d2158e3d69e066d5bdb0786b3f863fb60ebc6"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-124268 — Missing Authorization vulnerability in Arraytics WP Event Solution wp-event-solution allows Exploiting Incorrectly Configured Access Control Security ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-124268",
-  "published": "2026-11-24T13:17:22.077",
-  "summary": "Missing Authorization vulnerability in Arraytics WP Event Solution wp-event-solution allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects WP Event Solution: from n/a through 4.1.30.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-124268",
-   "cvss": 4.3,
-   "ref": "https://patchstack.com/database/wordpress/plugin/wp-event-solution/vulnerability/wordpress-wp-event-solution-plugin-4-1-30-broken-access-control-vulnerability-2?_s_id=cve"
-  },
-  "title_vi": "",
-  "key": "93a8e98ca685459dfe5ea4578fe497f0481c85bb"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-124273 — Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Arraytics WP Event Solution wp-event-solution al",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-124273",
-  "published": "2026-11-24T13:17:22.237",
-  "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Arraytics WP Event Solution wp-event-solution allows Stored XSS.This issue affects WP Event Solution: from n/a through 4.1.30.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-124273",
-   "cvss": 6.5,
-   "ref": "https://patchstack.com/database/wordpress/plugin/wp-event-solution/vulnerability/wordpress-wp-event-solution-plugin-4-1-30-cross-site-scripting-xss-vulnerability?_s_id=cve"
-  },
-  "title_vi": "",
-  "key": "76532c4369893f6dd0193cc0a65606448fbe48f9"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-124754 — RTU500 has a NULL pointer dereference vulnerability through the NCMD metric name present in the Sparkplug payload of the MQTT message received, result",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-124754",
-  "published": "2026-11-24T13:17:22.390",
-  "summary": "RTU500 has a NULL pointer dereference vulnerability through the NCMD metric name present in the Sparkplug payload of the MQTT message received, resulting in Denial of Service.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-124754",
-   "cvss": 6.2,
-   "ref": "https://publisher.hitachienergy.com/preview?DocumentID=8DBD000263&LanguageCode=en&DocumentPartId=&Action=Launch"
-  },
-  "title_vi": "",
-  "key": "258ec5d6b562ebbd082bb21649517c94995d802d"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-125441 — Missing Authorization vulnerability in Arraytics WP Event Solution wp-event-solution allows Exploiting Incorrectly Configured Access Control Security ",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-125441",
-  "published": "2026-11-24T13:17:22.533",
-  "summary": "Missing Authorization vulnerability in Arraytics WP Event Solution wp-event-solution allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects WP Event Solution: from n/a through 4.1.30.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-125441",
-   "cvss": 5.3,
-   "ref": "https://patchstack.com/database/wordpress/plugin/wp-event-solution/vulnerability/wordpress-wp-event-solution-plugin-4-1-30-broken-access-control-vulnerability?_s_id=cve"
-  },
-  "title_vi": "",
-  "key": "5c9d46219b303f1bf752433e1da2c32828d071d9"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-127181 — SUSE Neuvector before 5",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-127181",
-  "published": "2026-11-24T13:17:23.147",
-  "summary": "SUSE Neuvector before 5.5, 5.5.0 before 5.5.6 and 5.6.0 before 5.6.5 handling of ephemeral containers was not setting some checking callbacks, allowing these to bypass permission checks.",
-  "categories": [
-   "cloud",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-127181",
-   "cvss": 7.6,
-   "ref": "https://github.com/neuvector/neuvector/security/advisories/GHSA-x447-gqmh-6mcx"
-  },
-  "title_vi": "",
-  "key": "eb5cc13b0136ec1ab9f94ab8c715d48534cba59c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-129058 — Missing Authorization vulnerability in VillaTheme CURCY woo-multi-currency allows Exploiting Incorrectly Configured Access Control Security Levels",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-129058",
-  "published": "2026-11-24T13:17:23.280",
-  "summary": "Missing Authorization vulnerability in VillaTheme CURCY woo-multi-currency allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects CURCY: from n/a through 2.2.22.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-129058",
-   "cvss": 5.3,
-   "ref": "https://patchstack.com/database/wordpress/plugin/woo-multi-currency/vulnerability/wordpress-curcy-plugin-2-2-22-broken-access-control-vulnerability?_s_id=cve"
-  },
-  "title_vi": "",
-  "key": "f67faaf8e6bb9138c6290b055af9a99eb45ce283"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-131746 — Missing Authorization vulnerability in VillaTheme Coupzy woo-coupon-box allows Exploiting Incorrectly Configured Access Control Security Levels",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-131746",
-  "published": "2026-11-24T13:17:23.437",
-  "summary": "Missing Authorization vulnerability in VillaTheme Coupzy woo-coupon-box allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Coupzy: from n/a through 2.1.14.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-131746",
-   "cvss": 5.3,
-   "ref": "https://patchstack.com/database/wordpress/plugin/woo-coupon-box/vulnerability/wordpress-coupzy-plugin-2-1-14-broken-access-control-vulnerability?_s_id=cve"
-  },
-  "title_vi": "",
-  "key": "9e86b9e84bec084d54575ffc98c69c6065ba45ee"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-131747 — Cross-Site Request Forgery (CSRF) vulnerability in Themeisle WP Full Stripe Free wp-full-stripe-free allows Cross Site Request Forgery",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-131747",
-  "published": "2026-11-24T13:17:23.590",
-  "summary": "Cross-Site Request Forgery (CSRF) vulnerability in Themeisle WP Full Stripe Free wp-full-stripe-free allows Cross Site Request Forgery.This issue affects WP Full Stripe Free: from n/a through 8.5.8.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-131747",
-   "cvss": 5.4,
-   "ref": "https://patchstack.com/database/wordpress/plugin/wp-full-stripe-free/vulnerability/wordpress-wp-full-stripe-free-plugin-8-5-8-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
-  },
-  "title_vi": "",
-  "key": "3c3e5e2de3e32fa45fccb485917ad7e81417adba"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-131762 — Cross-Site Request Forgery (CSRF) vulnerability in VeronaLabs WP Statistics wp-statistics allows Cross Site Request Forgery",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-131762",
-  "published": "2026-11-24T13:17:23.757",
-  "summary": "Cross-Site Request Forgery (CSRF) vulnerability in VeronaLabs WP Statistics wp-statistics allows Cross Site Request Forgery.This issue affects WP Statistics: from n/a through 14.16.19.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-131762",
-   "cvss": 4.3,
-   "ref": "https://patchstack.com/database/wordpress/plugin/wp-statistics/vulnerability/wordpress-wp-statistics-plugin-14-16-19-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
-  },
-  "title_vi": "",
-  "key": "6e92f20cc242c087e61b3ab61eabecc6141d47f8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-131779 — Missing Authorization vulnerability in WP Desk Flexible Quantity – Measurement Price Calculator for WooCommerce flexible-quantity-measurement-price-ca",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-131779",
-  "published": "2026-11-24T13:17:23.907",
-  "summary": "Missing Authorization vulnerability in WP Desk Flexible Quantity – Measurement Price Calculator for WooCommerce flexible-quantity-measurement-price-calculator-for-woocommerce allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Flexible Quantity – Measurement Price Calculator for WooCommerce: from n/a through 2.4.0.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-131779",
-   "cvss": 5.3,
-   "ref": "https://patchstack.com/database/wordpress/plugin/flexible-quantity-measurement-price-calculator-for-woocommerce/vulnerability/wordpress-flexible-quantity-measurement-price-calculator-for-woocommerce-plugin-2-4-0-broken-access-control-vulnerability?_s_id=cve"
-  },
-  "title_vi": "",
-  "key": "291d083337b27c113318a83baca9bc207801a9d8"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-133763 — The sandbox checks that a template may call toString() on an object before converting it to a string",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133763",
-  "published": "2026-11-24T13:17:24.207",
-  "summary": "The sandbox checks that a template may call toString() on an object before converting it to a string. For an object, the is true test evaluates to the object itself, and that result wasn't checked. A sandboxed template could therefore print an object through a denied toString() method:\n\n{{ obj is true }}\n\nThe same applies when the result is concatenated or passed to a filter. No tag needs to be allowed. A test in a boolean context, like {% if obj is true %}, isn't affected, since it doesn't convert the object to a string.\n\nThe sandbox now checks the result of tests like the result of filters a",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-133763",
-   "cvss": null,
-   "ref": "https://github.com/twigphp/Twig/commit/a41bd2dd466d771cc384b9730be6190eb5a4f4d0"
-  },
-  "title_vi": "",
-  "key": "8186f04ff04f1e60059b4e6dd19a5f53807cfe59"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-133764 — The sandbox checks that a template may call toString() on an object before converting it to a string",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133764",
-  "published": "2026-11-24T13:17:24.353",
-  "summary": "The sandbox checks that a template may call toString() on an object before converting it to a string. It didn't check the input of tests. The PHP callable of a test may convert this input to a string, for example when its parameter is typed as string. PHP then calls toString() on an object without the sandbox checking it first:\n\n{{ obj is upperish }}\n\nApplications are affected when they register such a test and allow it in the sandbox. No built-in test is affected.\n\nThe sandbox now checks the input of tests like the input of filters. The built-in tests that never convert their input to a strin",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-133764",
-   "cvss": null,
-   "ref": "https://github.com/twigphp/Twig/commit/978c60be74fc62a0f2c3af11ca5bc3609ae8b69a"
-  },
-  "title_vi": "",
-  "key": "220d61d13446570f1d83a7093fd07b3b5f74c272"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-133765 — The sandbox checks that a template may call toString() on an object before converting it to a string",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133765",
-  "published": "2026-11-24T13:17:24.493",
-  "summary": "The sandbox checks that a template may call toString() on an object before converting it to a string. Since Twig 3.23.0, assignments like x = obj, and the destructuring forms [a] = list and {a} = obj, evaluate to the value that they assign. The sandbox didn't check that value, so a sandboxed template could call a denied toString() method:\n\n{{ (x = obj) }}\n{{ ({secret: s} = obj)|join }}\n\nNo tag needs to be allowed.\n\nThe sandbox now checks the result of assignments like the result of filters and functions. {% do x = obj %} and {% if (x = obj) %} still work, since they don't convert the value to ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-133765",
-   "cvss": null,
-   "ref": "https://github.com/twigphp/Twig/commit/6bcdbc3d4470dde23e3e2636e7053e0512387edd"
-  },
-  "title_vi": "",
-  "key": "801e30f3e08a1a294903797eb6fd7e323ceb715a"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-133766 — Since Twig 3",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133766",
-  "published": "2026-11-24T13:17:24.633",
-  "summary": "Since Twig 3.28.0, the sandbox skips the toString() check of an argument whose PHP parameter can't hold a string, like an int. A spread argument was mapped to a single parameter, although it fills every parameter from its position on. A sandboxed template could therefore call a denied toString() method:\n\n{{ tag(...[1, obj]) }}\n\nHere, the first parameter of tag() is an int, and a later one accepts strings. Applications are affected when they allow such a function, filter or test in the sandbox. No built-in callable is affected.\n\nA spread argument is now checked unless every parameter that it ca",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-133766",
-   "cvss": null,
-   "ref": "https://github.com/twigphp/Twig/commit/7af821c372f52cc9447afeba9e042de44b738222"
-  },
-  "title_vi": "",
-  "key": "1275f4313beb5fa5d273fe6bbebe21311ea8f65f"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-133767 — When the parent of an embed tag was an expression other than a string or a variable, the sandbox didn't see that expression",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133767",
-  "published": "2026-11-24T13:17:24.773",
-  "summary": "When the parent of an embed tag was an expression other than a string or a variable, the sandbox didn't see that expression. The functions, filters and tests of the expression weren't checked against the policy, and neither were its conversions to strings. A sandboxed template allowed to use embed could therefore call any function, filter or test, and any __toString() method:\n\n{% embed 'leak_' ~ app_secret() %}{% endembed %}\n\nMethod calls and property reads were not affected, since they're checked at runtime.\n\nThe sandbox now checks the parent expression of embed like any other expression of t",
-  "categories": [
-   "breach",
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-133767",
-   "cvss": null,
-   "ref": "https://github.com/twigphp/Twig/commit/fe395ad247b8e6c6f34f39bc211119ecb11f80b3"
-  },
-  "title_vi": "",
-  "key": "acb783d9f4955ba99d67f995dff588e7f3748004"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-133768 — The join filter converted a value that isn't iterable with (array) $value",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133768",
-  "published": "2026-11-24T13:17:24.913",
-  "summary": "The join filter converted a value that isn't iterable with (array) $value. For an object, that gives every property, including the private and protected ones. A sandboxed template allowed to use join could therefore print properties that the policy denies, and that templates can't read otherwise:\n\n{{ user|join(',') }}\n\nA value that isn't iterable is now joined as a single item. A Stringable object prints its checked string, and other objects throw, as with the first and last filters.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-133768",
-   "cvss": null,
-   "ref": "https://github.com/twigphp/Twig/commit/6bcede134671133a4a056199af5cf4749d189d72"
-  },
-  "title_vi": "",
-  "key": "bac2aa8b6f9b308f4873056bee556363fa85260e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-133769 — Cva::apply() converted the values of variants, default variants and compound variants with (array)",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133769",
-  "published": "2026-11-24T13:17:25.057",
-  "summary": "Cva::apply() converted the values of variants, default variants and compound variants with (array). These values come from the arguments of html_cva(). A sandboxed template could therefore pass any object of its context, and print the private and protected properties of that object:\n\n{{ html_cva('base', {c: {p: user}}).apply({c: 'p'}) }}\n\nVariant maps that are ArrayAccess objects were also read with a key that the template chooses, without the property check of the sandbox. The template then printed the offsets that the object returned.\n\nApplications are affected when the sandbox allows the ht",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-133769",
-   "cvss": null,
-   "ref": "https://github.com/twigphp/Twig/commit/ead08daef16e3a0b08d196717e929fc2ebd2fb11"
-  },
-  "title_vi": "",
-  "key": "d579f59ddf9626b5d40114c4da56e03f596da64e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-133770 — The sandbox allows every method of Twig\\Markup objects, including their public constructor",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133770",
-  "published": "2026-11-24T13:17:25.220",
-  "summary": "The sandbox allows every method of Twig\\Markup objects, including their public constructor. A sandboxed template can therefore call __construct() on any Markup object that it reaches, and replace its content:\n\n{% do banner.__construct('<script>alert(1)</script>', 'UTF-8') %}\n\nA template gains nothing by rewriting its own output. The impact is on the Markup objects that come from the application and are also rendered elsewhere, like a global in a long-running worker. Their new content then ends up in trusted pages that aren't sandboxed.\n\nThe sandbox no longer allows calling the constructor of M",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-133770",
-   "cvss": null,
-   "ref": "https://github.com/twigphp/Twig/commit/97b2e40b1165e6a42a197843f96ccb0a55f46f34"
-  },
-  "title_vi": "",
-  "key": "073cb61c920a4f2e6a8723e299ca63fa4d59177e"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-133771 — The escaper considered x",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133771",
-  "published": "2026-11-24T13:17:25.367",
-  "summary": "The escaper considered x.attr, x['key'] and x.method() safe whenever {% import ... as x %} appeared anywhere in the template. Macro calls haven't needed this rule since Twig 3.0. It only matched ordinary variables that have the name of an alias imported in another block or macro, and printed them without escaping:\n\n{% block header %}{% import _self as item %}{{ item.hello() }}{% endblock %}\n{% block content %}{% for item in items %}{{ item.body }}{% endfor %}{% endblock %}\n\nHere, item.body is printed raw. This leads to XSS when the value comes from an attacker. The same happens with an import ",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-133771",
-   "cvss": null,
-   "ref": "https://github.com/twigphp/Twig/commit/3a6745a0d88048474457fa2e69968ebd5267dd5a"
-  },
-  "title_vi": "",
-  "key": "5eb96e2128e866b22d540f5b7678f5cdbfa0060c"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-133772 — The guard tag compiles only one of its branches, depending on whether a callable exists",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133772",
-  "published": "2026-11-24T13:17:25.520",
-  "summary": "The guard tag compiles only one of its branches, depending on whether a callable exists. The other branch was still parsed, though. The extends, use, macro and block tags in it registered their effects on the template. The sandbox doesn't see these tags, since that branch isn't compiled. A sandboxed template allowed to use guard could therefore extend a template, import blocks and define macros, while the policy doesn't allow these tags:\n\n{% guard filter upper %}{% else %}{% extends \"parent.html\" %}{% endguard %}\n\nThe templates reached this way come from the loader of the sandbox, and they are",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-133772",
-   "cvss": null,
-   "ref": "https://github.com/twigphp/Twig/commit/d5011f4654042f03d8986b5b3ba12a4d85f976f8"
-  },
-  "title_vi": "",
-  "key": "399a0758bea1abec342bd2e7f671b2fd19dc5cd7"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-133773 — The html_to_markdown filter of twig/markdown-extra keeps an HtmlConverter for each distinct mapping of options it receives",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133773",
-  "published": "2026-11-24T13:17:25.670",
-  "summary": "The html_to_markdown filter of twig/markdown-extra keeps an HtmlConverter for each distinct mapping of options it receives. They're kept in a static array, with no size limit and no eviction. The options are an argument of the filter. A template that passes options taken from the input, or a sandboxed template, can therefore make this cache grow without limit. The cache outlives the environment, so it fills the memory of long-running workers.\n\nThe cache now keeps at most 100 converters, like the formatter caches of IntlExtension.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-133773",
-   "cvss": null,
-   "ref": "https://github.com/twigphp/Twig/commit/6f9962f230425da39e970023a322d641c9089035"
-  },
-  "title_vi": "",
-  "key": "bf9788eeea32d9c4df11035a39a3a734c3c8e6fa"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-134125 — Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in hupe13 Extension for Leaflet Map extensions-leaf",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134125",
-  "published": "2026-11-24T13:17:25.810",
-  "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in hupe13 Extension for Leaflet Map extensions-leaflet-map allows Stored XSS.This issue affects Extension for Leaflet Map: from n/a through 6.1.3.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-134125",
-   "cvss": 6.5,
-   "ref": "https://patchstack.com/database/wordpress/plugin/extensions-leaflet-map/vulnerability/wordpress-extension-for-leaflet-map-plugin-6-1-3-cross-site-scripting-xss-vulnerability?_s_id=cve"
-  },
-  "title_vi": "",
-  "key": "8dc5961f14322cc2ca483f00bfb5e2e6c8ec7e28"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-134467 — Missing Authorization vulnerability in HivePress HivePress hivepress allows Exploiting Incorrectly Configured Access Control Security Levels",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134467",
-  "published": "2026-11-24T13:17:25.990",
-  "summary": "Missing Authorization vulnerability in HivePress HivePress hivepress allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects HivePress: from n/a through 1.8.2.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-134467",
-   "cvss": 4.3,
-   "ref": "https://patchstack.com/database/wordpress/plugin/hivepress/vulnerability/wordpress-hivepress-plugin-1-8-2-broken-access-control-vulnerability?_s_id=cve"
-  },
-  "title_vi": "",
-  "key": "d8ad267f22ca55e7ba6912c2c45b6ff63df502bc"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-134468 — Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) vulnerability in HivePress HivePress hivepress allows Code Injection",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134468",
-  "published": "2026-11-24T13:17:26.157",
-  "summary": "Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) vulnerability in HivePress HivePress hivepress allows Code Injection.This issue affects HivePress: from n/a through 1.8.2.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-134468",
-   "cvss": 4.3,
-   "ref": "https://patchstack.com/database/wordpress/plugin/hivepress/vulnerability/wordpress-hivepress-plugin-1-8-2-content-injection-vulnerability?_s_id=cve"
-  },
-  "title_vi": "",
-  "key": "22a8ff9685476cbb899a00c981d963b9a0e6fbfd"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-134482 — Missing Authorization vulnerability in VillaTheme Thank You Page Customizer for WooCommerce woo-thank-you-page-customizer allows Exploiting Incorrectl",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134482",
-  "published": "2026-11-24T13:17:26.310",
-  "summary": "Missing Authorization vulnerability in VillaTheme Thank You Page Customizer for WooCommerce woo-thank-you-page-customizer allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Thank You Page Customizer for WooCommerce: from n/a through 1.2.5.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-134482",
-   "cvss": 5.3,
-   "ref": "https://patchstack.com/database/wordpress/plugin/woo-thank-you-page-customizer/vulnerability/wordpress-thank-you-page-customizer-for-woocommerce-plugin-1-2-5-broken-access-control-vulnerability?_s_id=cve"
-  },
-  "title_vi": "",
-  "key": "cf828e4cff9f196b384b453c991c36e66a541bde"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-134485 — Missing Authorization vulnerability in Mamunur Rashid Radius Booking — Booking Calendar for Appointments &amp; Services radius-booking allows Exploiti",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134485",
-  "published": "2026-11-24T13:17:26.470",
-  "summary": "Missing Authorization vulnerability in Mamunur Rashid Radius Booking — Booking Calendar for Appointments &amp; Services radius-booking allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Radius Booking — Booking Calendar for Appointments &amp; Services: from n/a through 1.0.22.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-134485",
-   "cvss": 5.3,
-   "ref": "https://patchstack.com/database/wordpress/plugin/radius-booking/vulnerability/wordpress-radius-booking-booking-calendar-for-appointments-amp-services-plugin-1-0-22-broken-access-control-vulnerability-2?_s_id=cve"
-  },
-  "title_vi": "",
-  "key": "222d06137140a42c60f95003fe6e11a94616d147"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-134707 — Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in WP Speedo Team Members wps-team allows Stored XS",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134707",
-  "published": "2026-11-24T13:17:26.623",
-  "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in WP Speedo Team Members wps-team allows Stored XSS.This issue affects Team Members: from n/a through 4.2.2.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-134707",
-   "cvss": 6.5,
-   "ref": "https://patchstack.com/database/wordpress/plugin/wps-team/vulnerability/wordpress-team-members-plugin-4-2-2-cross-site-scripting-xss-vulnerability?_s_id=cve"
-  },
-  "title_vi": "",
-  "key": "d97d0b745537fa50ec2776ba4806e752362841cd"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-134709 — Missing Authorization vulnerability in Mamunur Rashid Radius Booking — Booking Calendar for Appointments &amp; Services radius-booking allows Exploiti",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134709",
-  "published": "2026-11-24T13:17:26.777",
-  "summary": "Missing Authorization vulnerability in Mamunur Rashid Radius Booking — Booking Calendar for Appointments &amp; Services radius-booking allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Radius Booking — Booking Calendar for Appointments &amp; Services: from n/a through 1.0.22.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-134709",
-   "cvss": 5.3,
-   "ref": "https://patchstack.com/database/wordpress/plugin/radius-booking/vulnerability/wordpress-radius-booking-booking-calendar-for-appointments-amp-services-plugin-1-0-22-broken-access-control-vulnerability?_s_id=cve"
-  },
-  "title_vi": "",
-  "key": "f0f2a58466a087d6c8ae1e21738bf4f8b5710ffa"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-134954 — Missing Authorization vulnerability in StaxWP Visibility Logic for Elementor visibility-logic-elementor allows Exploiting Incorrectly Configured Acces",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134954",
-  "published": "2026-11-24T13:17:27.043",
-  "summary": "Missing Authorization vulnerability in StaxWP Visibility Logic for Elementor visibility-logic-elementor allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Visibility Logic for Elementor: from n/a through 2.5.3.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-134954",
-   "cvss": 5.3,
-   "ref": "https://patchstack.com/database/wordpress/plugin/visibility-logic-elementor/vulnerability/wordpress-visibility-logic-for-elementor-plugin-2-5-3-broken-access-control-vulnerability?_s_id=cve"
-  },
-  "title_vi": "",
-  "key": "c683b08455af418299062e5c1911cd1ab6639296"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-134962 — Missing Authorization vulnerability in Slim & Dapper Theater for WordPress theatre allows Exploiting Incorrectly Configured Access Control Security Le",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134962",
-  "published": "2026-11-24T13:17:27.203",
-  "summary": "Missing Authorization vulnerability in Slim & Dapper Theater for WordPress theatre allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Theater for WordPress: from n/a through 0.19.1.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-134962",
-   "cvss": 7.1,
-   "ref": "https://patchstack.com/database/wordpress/plugin/theatre/vulnerability/wordpress-theater-for-wordpress-plugin-0-19-1-broken-access-control-vulnerability?_s_id=cve"
-  },
-  "title_vi": "",
-  "key": "710c4390233b85b7748d536342f9f01ae020edbe"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-134996 — Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in YITH YITH WooCommerce Wishlist yith-woocommerce-",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134996",
-  "published": "2026-11-24T13:17:27.353",
-  "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in YITH YITH WooCommerce Wishlist yith-woocommerce-wishlist allows Stored XSS.This issue affects YITH WooCommerce Wishlist: from n/a through 4.20.0.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-134996",
-   "cvss": 6.5,
-   "ref": "https://patchstack.com/database/wordpress/plugin/yith-woocommerce-wishlist/vulnerability/wordpress-yith-woocommerce-wishlist-plugin-4-20-0-cross-site-scripting-xss-vulnerability?_s_id=cve"
-  },
-  "title_vi": "",
-  "key": "38accac801d6e7aecbdb86b3c3261b2501b6a1a7"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-134998 — Missing Authorization vulnerability in Themefic Ultimate Addons for Contact Form 7 ultimate-addons-for-contact-form-7 allows Exploiting Incorrectly Co",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-134998",
-  "published": "2026-11-24T13:17:27.497",
-  "summary": "Missing Authorization vulnerability in Themefic Ultimate Addons for Contact Form 7 ultimate-addons-for-contact-form-7 allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Ultimate Addons for Contact Form 7: from n/a through 3.5.59.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-134998",
-   "cvss": 4.3,
-   "ref": "https://patchstack.com/database/wordpress/plugin/ultimate-addons-for-contact-form-7/vulnerability/wordpress-ultimate-addons-for-contact-form-7-plugin-3-5-59-broken-access-control-vulnerability?_s_id=cve"
-  },
-  "title_vi": "",
-  "key": "10b42e6dbca90fcab186c37453662476e3bed524"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-135015 — Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Themefic BEAF beaf-before-and-after-gallery allo",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135015",
-  "published": "2026-11-24T13:17:27.650",
-  "summary": "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Themefic BEAF beaf-before-and-after-gallery allows Stored XSS.This issue affects BEAF: from n/a through 4.7.22.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-135015",
-   "cvss": 6.5,
-   "ref": "https://patchstack.com/database/wordpress/plugin/beaf-before-and-after-gallery/vulnerability/wordpress-beaf-plugin-4-7-22-cross-site-scripting-xss-vulnerability?_s_id=cve"
-  },
-  "title_vi": "",
-  "key": "2a81aef04bf64d56c420b049f7394ab9f5ce9c05"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-135020 — Missing Authorization vulnerability in Themefic Tourfic tourfic allows Exploiting Incorrectly Configured Access Control Security Levels",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135020",
-  "published": "2026-11-24T13:17:27.800",
-  "summary": "Missing Authorization vulnerability in Themefic Tourfic tourfic allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Tourfic: from n/a through 3.0.2.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-135020",
-   "cvss": 5.3,
-   "ref": "https://patchstack.com/database/wordpress/plugin/tourfic/vulnerability/wordpress-tourfic-plugin-3-0-2-broken-access-control-vulnerability?_s_id=cve"
-  },
-  "title_vi": "",
-  "key": "69519e5c1a23ca2538a1abcda8911dc5cce79208"
- },
- {
-  "source": "NVD",
-  "title": "CVE-2026-135021 — Missing Authorization vulnerability in Themefic Tourfic tourfic allows Exploiting Incorrectly Configured Access Control Security Levels",
-  "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-135021",
-  "published": "2026-11-24T13:17:27.957",
-  "summary": "Missing Authorization vulnerability in Themefic Tourfic tourfic allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Tourfic: from n/a through 3.0.2.",
-  "categories": [
-   "cve"
-  ],
-  "lang": "en",
-  "extra": {
-   "cve": "CVE-2026-135021",
-   "cvss": 5.3,
-   "ref": "https://patchstack.com/database/wordpress/plugin/tourfic/vulnerability/wordpress-tourfic-plugin-3-0-2-broken-access-control-vulnerability-2?_s_id=cve"
-  },
-  "title_vi": "",
-  "key": "08e21e2ac34424145fc890c63d4713141e26aeaf"
  }
 ]
